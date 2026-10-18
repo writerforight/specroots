@@ -1,0 +1,517 @@
+{
+  "id": "pel",
+  "forms": [
+    "pel",
+    "pell",
+    "puls",
+    "pulse"
+  ],
+  "origin": "la",
+  "etymon": "pellere, pulsus",
+  "meaning": {
+    "en": "to push, to drive",
+    "tr": "itmek, sürmek",
+    "de": "treiben, stoßen",
+    "fr": "pousser, chasser",
+    "it": "spingere",
+    "es": "empujar, impulsar"
+  },
+  "words": [
+    {
+      "id": "pulse",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "pulse"
+      ],
+      "gloss": {
+        "en": "the regular beat of blood in your body (literally: a push, a beat)",
+        "tr": "nabız",
+        "de": "der Puls",
+        "fr": "le pouls",
+        "it": "il polso",
+        "es": "el pulso"
+      },
+      "sentences": [
+        {
+          "en": "The nurse took my [pulse].",
+          "tr": "Hemşire nabzımı ölçtü.",
+          "de": "Die Krankenschwester fühlte meinen Puls.",
+          "fr": "L'infirmière a pris mon pouls.",
+          "it": "L'infermiera mi ha misurato il polso.",
+          "es": "La enfermera me tomó el pulso."
+        },
+        {
+          "en": "Her [pulse] was fast after the run.",
+          "tr": "Koşudan sonra nabzı hızlıydı.",
+          "de": "Nach dem Lauf war ihr Puls schnell.",
+          "fr": "Son pouls était rapide après la course.",
+          "it": "Dopo la corsa aveva il polso accelerato.",
+          "es": "Tenía el pulso acelerado después de correr."
+        }
+      ]
+    },
+    {
+      "id": "impulse",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "im-",
+        "pulse"
+      ],
+      "gloss": {
+        "en": "a sudden wish to do something (literally: a push in)",
+        "tr": "ani istek, dürtü",
+        "de": "der Impuls, der Drang",
+        "fr": "l'impulsion",
+        "it": "l'impulso",
+        "es": "el impulso"
+      },
+      "sentences": [
+        {
+          "en": "I bought the jacket on [impulse].",
+          "tr": "Ceketi bir anlık hevesle aldım.",
+          "de": "Ich habe die Jacke spontan gekauft.",
+          "fr": "J'ai acheté la veste sur un coup de tête.",
+          "it": "Ho comprato la giacca d'impulso.",
+          "es": "Compré la chaqueta por impulso."
+        },
+        {
+          "en": "She felt a sudden [impulse] to laugh.",
+          "tr": "Aniden gülme isteği duydu.",
+          "de": "Sie verspürte plötzlich den Drang zu lachen.",
+          "fr": "Elle a ressenti une soudaine envie de rire.",
+          "it": "Ha sentito un improvviso impulso di ridere.",
+          "es": "Sintió un impulso repentino de reírse."
+        }
+      ]
+    },
+    {
+      "id": "impulsive",
+      "pos": "adjective",
+      "parent": "impulse",
+      "parts": [
+        "im-",
+        "puls",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "doing things suddenly without thinking",
+        "tr": "düşüncesiz, aceleci",
+        "de": "impulsiv",
+        "fr": "impulsif",
+        "it": "impulsivo",
+        "es": "impulsivo"
+      },
+      "sentences": [
+        {
+          "en": "Don't make [impulsive] decisions about money.",
+          "tr": "Para konusunda aceleci kararlar verme.",
+          "de": "Triff keine impulsiven Entscheidungen über Geld.",
+          "fr": "Ne prends pas de décisions impulsives sur l'argent.",
+          "it": "Non prendere decisioni impulsive sui soldi.",
+          "es": "No tomes decisiones impulsivas con el dinero."
+        },
+        {
+          "en": "He is kind but a bit [impulsive].",
+          "tr": "İyi biri ama biraz düşüncesiz.",
+          "de": "Er ist nett, aber etwas impulsiv.",
+          "fr": "Il est gentil mais un peu impulsif.",
+          "it": "È gentile ma un po' impulsivo.",
+          "es": "Es amable pero algo impulsivo."
+        }
+      ]
+    },
+    {
+      "id": "expel",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ex-",
+        "pel"
+      ],
+      "gloss": {
+        "en": "to force someone to leave; to push out (literally: to drive out)",
+        "tr": "kovmak, atmak; dışarı atmak",
+        "de": "ausschließen, verweisen; ausstoßen",
+        "fr": "expulser",
+        "it": "espellere",
+        "es": "expulsar"
+      },
+      "sentences": [
+        {
+          "en": "He was [expelled] from school for fighting.",
+          "tr": "Kavga ettiği için okuldan atıldı.",
+          "de": "Er wurde wegen einer Schlägerei von der Schule verwiesen.",
+          "fr": "Il a été renvoyé de l'école pour s'être battu.",
+          "it": "È stato espulso da scuola per una rissa.",
+          "es": "Lo expulsaron del colegio por pelearse."
+        },
+        {
+          "en": "The lungs [expel] air when you breathe out.",
+          "tr": "Nefes verirken akciğerler havayı dışarı atar.",
+          "de": "Beim Ausatmen stoßen die Lungen Luft aus.",
+          "fr": "Les poumons expulsent l'air quand on expire.",
+          "it": "I polmoni espellono l'aria quando espiri.",
+          "es": "Los pulmones expulsan el aire al espirar."
+        }
+      ]
+    },
+    {
+      "id": "expulsion",
+      "pos": "noun",
+      "parent": "expel",
+      "parts": [
+        "ex-",
+        "puls",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "forcing someone to leave a place",
+        "tr": "kovulma, ihraç",
+        "de": "der Ausschluss, die Ausweisung",
+        "fr": "l'expulsion, le renvoi",
+        "it": "l'espulsione",
+        "es": "la expulsión"
+      },
+      "sentences": [
+        {
+          "en": "Cheating can lead to [expulsion].",
+          "tr": "Kopya çekmek okuldan atılmaya yol açabilir.",
+          "de": "Schummeln kann zum Ausschluss führen.",
+          "fr": "La triche peut entraîner un renvoi.",
+          "it": "Copiare può portare all'espulsione.",
+          "es": "Copiar puede llevar a la expulsión."
+        },
+        {
+          "en": "The [expulsion] of the diplomats surprised everyone.",
+          "tr": "Diplomatların sınır dışı edilmesi herkesi şaşırttı.",
+          "de": "Die Ausweisung der Diplomaten überraschte alle.",
+          "fr": "L'expulsion des diplomates a surpris tout le monde.",
+          "it": "L'espulsione dei diplomatici ha sorpreso tutti.",
+          "es": "La expulsión de los diplomáticos sorprendió a todos."
+        }
+      ]
+    },
+    {
+      "id": "compel",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "com-",
+        "pel"
+      ],
+      "gloss": {
+        "en": "to force someone to do something (literally: to drive together)",
+        "tr": "zorlamak, mecbur bırakmak",
+        "de": "zwingen",
+        "fr": "contraindre, obliger",
+        "it": "costringere, obbligare",
+        "es": "obligar, forzar"
+      },
+      "sentences": [
+        {
+          "en": "The rain [compelled] us to stay inside.",
+          "tr": "Yağmur bizi içeride kalmaya mecbur bıraktı.",
+          "de": "Der Regen zwang uns, drinnen zu bleiben.",
+          "fr": "La pluie nous a obligés à rester à l'intérieur.",
+          "it": "La pioggia ci ha costretti a restare dentro.",
+          "es": "La lluvia nos obligó a quedarnos dentro."
+        },
+        {
+          "en": "I felt [compelled] to tell the truth.",
+          "tr": "Doğruyu söylemek zorunda hissettim.",
+          "de": "Ich fühlte mich verpflichtet, die Wahrheit zu sagen.",
+          "fr": "Je me suis senti obligé de dire la vérité.",
+          "it": "Mi sono sentito obbligato a dire la verità.",
+          "es": "Me sentí obligado a decir la verdad."
+        }
+      ]
+    },
+    {
+      "id": "compulsion",
+      "pos": "noun",
+      "parent": "compel",
+      "parts": [
+        "com-",
+        "puls",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a strong feeling that you must do something; being forced",
+        "tr": "dürtü, zorlantı; zorlama",
+        "de": "der Zwang",
+        "fr": "la compulsion; la contrainte",
+        "it": "la compulsione; la costrizione",
+        "es": "la compulsión; la obligación"
+      },
+      "sentences": [
+        {
+          "en": "He has a [compulsion] to check his phone.",
+          "tr": "Telefonunu kontrol etme dürtüsünü yenemiyor.",
+          "de": "Er hat den Zwang, ständig aufs Handy zu schauen.",
+          "fr": "Il ressent le besoin compulsif de regarder son téléphone.",
+          "it": "Ha la compulsione di controllare il telefono.",
+          "es": "Tiene la compulsión de mirar el móvil."
+        },
+        {
+          "en": "You are under no [compulsion] to buy anything.",
+          "tr": "Hiçbir şey satın almak zorunda değilsin.",
+          "de": "Du bist zu keinem Kauf verpflichtet.",
+          "fr": "Tu n'es pas obligé d'acheter quoi que ce soit.",
+          "it": "Non sei obbligato a comprare nulla.",
+          "es": "No tienes ninguna obligación de comprar nada."
+        }
+      ]
+    },
+    {
+      "id": "compulsory",
+      "pos": "adjective",
+      "parent": "compel",
+      "parts": [
+        "com-",
+        "puls",
+        "-ory"
+      ],
+      "gloss": {
+        "en": "required by a rule or law",
+        "tr": "zorunlu",
+        "de": "verpflichtend, Pflicht-",
+        "fr": "obligatoire",
+        "it": "obbligatorio",
+        "es": "obligatorio"
+      },
+      "sentences": [
+        {
+          "en": "School is [compulsory] until sixteen.",
+          "tr": "On altı yaşına kadar okul zorunlu.",
+          "de": "Bis sechzehn besteht Schulpflicht.",
+          "fr": "L'école est obligatoire jusqu'à seize ans.",
+          "it": "La scuola è obbligatoria fino a sedici anni.",
+          "es": "La escuela es obligatoria hasta los dieciséis años."
+        },
+        {
+          "en": "Wearing a helmet is [compulsory] here.",
+          "tr": "Burada kask takmak zorunlu.",
+          "de": "Hier ist Helmpflicht.",
+          "fr": "Le port du casque est obligatoire ici.",
+          "it": "Qui il casco è obbligatorio.",
+          "es": "Aquí es obligatorio llevar casco."
+        }
+      ]
+    },
+    {
+      "id": "compulsive",
+      "pos": "adjective",
+      "parent": "compel",
+      "parts": [
+        "com-",
+        "puls",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "unable to stop doing something",
+        "tr": "takıntılı, kendini alamayan",
+        "de": "zwanghaft",
+        "fr": "compulsif",
+        "it": "compulsivo",
+        "es": "compulsivo"
+      },
+      "sentences": [
+        {
+          "en": "She is a [compulsive] reader.",
+          "tr": "Kitap okumaktan kendini alamıyor.",
+          "de": "Sie ist eine zwanghafte Leserin.",
+          "fr": "C'est une lectrice compulsive.",
+          "it": "È una lettrice compulsiva.",
+          "es": "Es una lectora compulsiva."
+        },
+        {
+          "en": "[Compulsive] gambling ruined his life.",
+          "tr": "Kumar bağımlılığı hayatını mahvetti.",
+          "de": "Zwanghaftes Glücksspiel ruinierte sein Leben.",
+          "fr": "Le jeu compulsif a ruiné sa vie.",
+          "it": "Il gioco compulsivo gli ha rovinato la vita.",
+          "es": "El juego compulsivo le arruinó la vida."
+        }
+      ]
+    },
+    {
+      "id": "propel",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "pro-",
+        "pel"
+      ],
+      "gloss": {
+        "en": "to push forward (literally: to drive forward)",
+        "tr": "ileri itmek, hareket ettirmek",
+        "de": "antreiben",
+        "fr": "propulser",
+        "it": "spingere, azionare",
+        "es": "impulsar, propulsar"
+      },
+      "sentences": [
+        {
+          "en": "The boat is [propelled] by the wind.",
+          "tr": "Tekne rüzgârla ilerliyor.",
+          "de": "Das Boot wird vom Wind angetrieben.",
+          "fr": "Le bateau est propulsé par le vent.",
+          "it": "La barca è spinta dal vento.",
+          "es": "El barco es impulsado por el viento."
+        },
+        {
+          "en": "One song [propelled] her to fame.",
+          "tr": "Tek bir şarkı onu şöhrete taşıdı.",
+          "de": "Ein einziges Lied katapultierte sie zum Ruhm.",
+          "fr": "Une seule chanson l'a propulsée vers la célébrité.",
+          "it": "Una sola canzone l'ha spinta verso la fama.",
+          "es": "Una sola canción la catapultó a la fama."
+        }
+      ]
+    },
+    {
+      "id": "propeller",
+      "pos": "noun",
+      "parent": "propel",
+      "parts": [
+        "pro-",
+        "pell",
+        "-er"
+      ],
+      "gloss": {
+        "en": "turning blades that move a boat or aircraft",
+        "tr": "pervane",
+        "de": "der Propeller",
+        "fr": "l'hélice",
+        "it": "l'elica",
+        "es": "la hélice"
+      },
+      "sentences": [
+        {
+          "en": "A rope got caught in the boat's [propeller].",
+          "tr": "Teknenin pervanesine bir halat dolandı.",
+          "de": "Ein Seil verfing sich im Propeller des Bootes.",
+          "fr": "Une corde s'est prise dans l'hélice du bateau.",
+          "it": "Una corda si è impigliata nell'elica della barca.",
+          "es": "Una cuerda se enredó en la hélice del barco."
+        },
+        {
+          "en": "Each drone [propeller] spins very fast.",
+          "tr": "Dronun her pervanesi çok hızlı döner.",
+          "de": "Jeder Propeller der Drohne dreht sich sehr schnell.",
+          "fr": "Chaque hélice du drone tourne très vite.",
+          "it": "Ogni elica del drone gira molto velocemente.",
+          "es": "Cada hélice del dron gira muy rápido."
+        }
+      ]
+    },
+    {
+      "id": "repel",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "re-",
+        "pel"
+      ],
+      "gloss": {
+        "en": "to push away or keep away (literally: to drive back)",
+        "tr": "uzak tutmak, itmek; püskürtmek",
+        "de": "abstoßen; abwehren",
+        "fr": "repousser",
+        "it": "respingere, allontanare",
+        "es": "repeler, ahuyentar"
+      },
+      "sentences": [
+        {
+          "en": "Two north poles of magnets [repel] each other.",
+          "tr": "Mıknatısların iki kuzey kutbu birbirini iter.",
+          "de": "Zwei Nordpole von Magneten stoßen sich ab.",
+          "fr": "Deux pôles nord d'aimants se repoussent.",
+          "it": "Due poli nord delle calamite si respingono.",
+          "es": "Dos polos norte de imanes se repelen."
+        },
+        {
+          "en": "This spray [repels] mosquitoes.",
+          "tr": "Bu sprey sivrisinekleri uzak tutuyor.",
+          "de": "Dieses Spray hält Mücken fern.",
+          "fr": "Ce spray éloigne les moustiques.",
+          "it": "Questo spray allontana le zanzare.",
+          "es": "Este espray ahuyenta los mosquitos."
+        }
+      ]
+    },
+    {
+      "id": "repellent",
+      "pos": "noun",
+      "parent": "repel",
+      "parts": [
+        "re-",
+        "pell",
+        "-ent"
+      ],
+      "gloss": {
+        "en": "a substance that keeps insects away",
+        "tr": "kovucu (böcek)",
+        "de": "das Schutzmittel, das Mückenspray",
+        "fr": "le répulsif",
+        "it": "il repellente",
+        "es": "el repelente"
+      },
+      "sentences": [
+        {
+          "en": "Don't forget the insect [repellent].",
+          "tr": "Böcek kovucuyu unutma.",
+          "de": "Vergiss das Insektenschutzmittel nicht.",
+          "fr": "N'oublie pas le répulsif anti-insectes.",
+          "it": "Non dimenticare il repellente per insetti.",
+          "es": "No olvides el repelente de insectos."
+        },
+        {
+          "en": "This [repellent] works for eight hours.",
+          "tr": "Bu kovucu sekiz saat etkili.",
+          "de": "Dieses Mittel wirkt acht Stunden lang.",
+          "fr": "Ce répulsif agit pendant huit heures.",
+          "it": "Questo repellente funziona per otto ore.",
+          "es": "Este repelente dura ocho horas."
+        }
+      ]
+    },
+    {
+      "id": "dispel",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "dis-",
+        "pel"
+      ],
+      "gloss": {
+        "en": "to make a feeling or idea go away (literally: to drive apart)",
+        "tr": "gidermek, dağıtmak",
+        "de": "zerstreuen, ausräumen",
+        "fr": "dissiper",
+        "it": "dissipare, fugare",
+        "es": "disipar"
+      },
+      "sentences": [
+        {
+          "en": "The report [dispelled] our fears.",
+          "tr": "Rapor korkularımızı giderdi.",
+          "de": "Der Bericht zerstreute unsere Ängste.",
+          "fr": "Le rapport a dissipé nos craintes.",
+          "it": "Il rapporto ha dissipato i nostri timori.",
+          "es": "El informe disipó nuestros temores."
+        },
+        {
+          "en": "Let me [dispel] a common myth.",
+          "tr": "Yaygın bir efsaneyi çürüteyim.",
+          "de": "Lass mich einen verbreiteten Mythos ausräumen.",
+          "fr": "Permets-moi de dissiper un mythe répandu.",
+          "it": "Lasciami sfatare un mito diffuso.",
+          "es": "Permíteme desmentir un mito común."
+        }
+      ]
+    }
+  ]
+}

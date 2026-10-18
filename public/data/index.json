@@ -119,6 +119,49 @@
     ]
   },
   {
+    "id": "clud",
+    "forms": [
+      "clud",
+      "clude",
+      "clus",
+      "cluse",
+      "close",
+      "clos",
+      "clause"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to close, to shut",
+      "tr": "kapamak, kapatmak",
+      "de": "schließen",
+      "fr": "fermer",
+      "it": "chiudere",
+      "es": "cerrar"
+    },
+    "words": [
+      "close",
+      "closet",
+      "enclose",
+      "enclosure",
+      "disclose",
+      "disclosure",
+      "include",
+      "inclusion",
+      "inclusive",
+      "exclude",
+      "exclusion",
+      "exclusive",
+      "conclude",
+      "conclusion",
+      "conclusive",
+      "inconclusive",
+      "preclude",
+      "secluded",
+      "recluse",
+      "clause"
+    ]
+  },
+  {
     "id": "cred",
     "forms": [
       "cred"
@@ -363,6 +406,37 @@
       "suffer",
       "defer",
       "circumference"
+    ]
+  },
+  {
+    "id": "flect",
+    "forms": [
+      "flect",
+      "flex"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to bend",
+      "tr": "bükmek",
+      "de": "biegen, beugen",
+      "fr": "plier, fléchir",
+      "it": "piegare, flettere",
+      "es": "doblar, flexionar"
+    },
+    "words": [
+      "flex",
+      "flexible",
+      "flexibility",
+      "inflexible",
+      "reflex",
+      "reflexive",
+      "circumflex",
+      "reflect",
+      "reflection",
+      "reflective",
+      "reflector",
+      "deflect",
+      "inflection"
     ]
   },
   {
@@ -630,6 +704,40 @@
       "mobility",
       "immobile",
       "automobile"
+    ]
+  },
+  {
+    "id": "pel",
+    "forms": [
+      "pel",
+      "pell",
+      "puls",
+      "pulse"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to push, to drive",
+      "tr": "itmek, sürmek",
+      "de": "treiben, stoßen",
+      "fr": "pousser, chasser",
+      "it": "spingere",
+      "es": "empujar, impulsar"
+    },
+    "words": [
+      "pulse",
+      "impulse",
+      "impulsive",
+      "expel",
+      "expulsion",
+      "compel",
+      "compulsion",
+      "compulsory",
+      "compulsive",
+      "propel",
+      "propeller",
+      "repel",
+      "repellent",
+      "dispel"
     ]
   },
   {

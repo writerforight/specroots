@@ -1751,5 +1751,27 @@
       "it": "relativo a (-atorio)",
       "es": "relativo a (-atorio)"
     }
+  },
+  "en-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "in, into (French form of in-)",
+      "tr": "içine (in- Fransızca biçimi)",
+      "de": "hinein (französische Form von in-)",
+      "fr": "dans (forme française de in-)",
+      "it": "dentro (forma francese di in-)",
+      "es": "dentro (forma francesa de in-)"
+    }
+  },
+  "-et": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "small (makes a noun)",
+      "tr": "küçük (isim yapar)",
+      "de": "klein (bildet ein Nomen)",
+      "fr": "petit (-et)",
+      "it": "piccolo (forma un nome)",
+      "es": "pequeño (forma un sustantivo)"
+    }
   }
 }

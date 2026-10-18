@@ -1,0 +1,479 @@
+{
+  "id": "flect",
+  "forms": [
+    "flect",
+    "flex"
+  ],
+  "origin": "la",
+  "etymon": "flectere, flexus",
+  "meaning": {
+    "en": "to bend",
+    "tr": "bükmek",
+    "de": "biegen, beugen",
+    "fr": "plier, fléchir",
+    "it": "piegare, flettere",
+    "es": "doblar, flexionar"
+  },
+  "words": [
+    {
+      "id": "flex",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "flex"
+      ],
+      "gloss": {
+        "en": "to bend or tighten a muscle or joint",
+        "tr": "bükmek, kasmak",
+        "de": "beugen, anspannen",
+        "fr": "fléchir, contracter",
+        "it": "flettere, contrarre",
+        "es": "flexionar, tensar"
+      },
+      "sentences": [
+        {
+          "en": "[Flex] your knees before you jump.",
+          "tr": "Zıplamadan önce dizlerini bük.",
+          "de": "Beug die Knie, bevor du springst.",
+          "fr": "Fléchis les genoux avant de sauter.",
+          "it": "Fletti le ginocchia prima di saltare.",
+          "es": "Flexiona las rodillas antes de saltar."
+        },
+        {
+          "en": "He [flexed] his arm to show his muscles.",
+          "tr": "Kaslarını göstermek için kolunu kastı.",
+          "de": "Er spannte den Arm an, um seine Muskeln zu zeigen.",
+          "fr": "Il a contracté son bras pour montrer ses muscles.",
+          "it": "Ha contratto il braccio per mostrare i muscoli.",
+          "es": "Tensó el brazo para enseñar los músculos."
+        }
+      ]
+    },
+    {
+      "id": "flexible",
+      "pos": "adjective",
+      "parent": "flex",
+      "parts": [
+        "flex",
+        "-ible"
+      ],
+      "gloss": {
+        "en": "able to bend easily; able to change easily",
+        "tr": "esnek",
+        "de": "biegsam; flexibel",
+        "fr": "souple; flexible",
+        "it": "flessibile",
+        "es": "flexible"
+      },
+      "sentences": [
+        {
+          "en": "This plastic is light and [flexible].",
+          "tr": "Bu plastik hafif ve esnek.",
+          "de": "Dieses Plastik ist leicht und biegsam.",
+          "fr": "Ce plastique est léger et souple.",
+          "it": "Questa plastica è leggera e flessibile.",
+          "es": "Este plástico es ligero y flexible."
+        },
+        {
+          "en": "I have [flexible] working hours.",
+          "tr": "Esnek çalışma saatlerim var.",
+          "de": "Ich habe flexible Arbeitszeiten.",
+          "fr": "J'ai des horaires de travail flexibles.",
+          "it": "Ho un orario di lavoro flessibile.",
+          "es": "Tengo un horario de trabajo flexible."
+        }
+      ]
+    },
+    {
+      "id": "flexibility",
+      "pos": "noun",
+      "parent": "flexible",
+      "parts": [
+        "flex",
+        "-ibility"
+      ],
+      "gloss": {
+        "en": "the ability to bend or to change easily",
+        "tr": "esneklik",
+        "de": "die Beweglichkeit; die Flexibilität",
+        "fr": "la souplesse; la flexibilité",
+        "it": "la flessibilità",
+        "es": "la flexibilidad"
+      },
+      "sentences": [
+        {
+          "en": "Yoga improves your [flexibility].",
+          "tr": "Yoga esnekliğini artırır.",
+          "de": "Yoga verbessert deine Beweglichkeit.",
+          "fr": "Le yoga améliore ta souplesse.",
+          "it": "Lo yoga migliora la flessibilità.",
+          "es": "El yoga mejora tu flexibilidad."
+        },
+        {
+          "en": "Working from home gives me more [flexibility].",
+          "tr": "Evden çalışmak bana daha fazla esneklik sağlıyor.",
+          "de": "Homeoffice gibt mir mehr Flexibilität.",
+          "fr": "Le télétravail me donne plus de flexibilité.",
+          "it": "Lavorare da casa mi dà più flessibilità.",
+          "es": "Trabajar desde casa me da más flexibilidad."
+        }
+      ]
+    },
+    {
+      "id": "inflexible",
+      "pos": "adjective",
+      "parent": "flexible",
+      "parts": [
+        "in-not-",
+        "flex",
+        "-ible"
+      ],
+      "gloss": {
+        "en": "not able to bend; not willing to change",
+        "tr": "esnek olmayan, katı",
+        "de": "starr, unnachgiebig",
+        "fr": "rigide, inflexible",
+        "it": "rigido, inflessibile",
+        "es": "rígido, inflexible"
+      },
+      "sentences": [
+        {
+          "en": "The rules are too [inflexible].",
+          "tr": "Kurallar çok katı.",
+          "de": "Die Regeln sind zu starr.",
+          "fr": "Les règles sont trop rigides.",
+          "it": "Le regole sono troppo rigide.",
+          "es": "Las normas son demasiado rígidas."
+        },
+        {
+          "en": "He is [inflexible] once he has decided.",
+          "tr": "Bir kez karar verdi mi geri adım atmaz.",
+          "de": "Wenn er sich entschieden hat, ist er unnachgiebig.",
+          "fr": "Une fois décidé, il est inflexible.",
+          "it": "Quando ha deciso, è inflessibile.",
+          "es": "Una vez que decide, es inflexible."
+        }
+      ]
+    },
+    {
+      "id": "reflex",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "re-",
+        "flex"
+      ],
+      "gloss": {
+        "en": "a movement your body makes without thinking (literally: bent back)",
+        "tr": "refleks",
+        "de": "der Reflex",
+        "fr": "le réflexe",
+        "it": "il riflesso",
+        "es": "el reflejo"
+      },
+      "sentences": [
+        {
+          "en": "Goalkeepers need quick [reflexes].",
+          "tr": "Kalecilerin hızlı reflekslere ihtiyacı var.",
+          "de": "Torhüter brauchen schnelle Reflexe.",
+          "fr": "Les gardiens de but ont besoin de bons réflexes.",
+          "it": "I portieri hanno bisogno di riflessi pronti.",
+          "es": "Los porteros necesitan reflejos rápidos."
+        },
+        {
+          "en": "Blinking is a [reflex].",
+          "tr": "Göz kırpmak bir reflekstir.",
+          "de": "Blinzeln ist ein Reflex.",
+          "fr": "Cligner des yeux est un réflexe.",
+          "it": "Battere le palpebre è un riflesso.",
+          "es": "Parpadear es un reflejo."
+        }
+      ]
+    },
+    {
+      "id": "reflexive",
+      "pos": "adjective",
+      "parent": "reflex",
+      "parts": [
+        "re-",
+        "flex",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "(grammar) referring back to the subject, as in 'myself'",
+        "tr": "dönüşlü",
+        "de": "reflexiv",
+        "fr": "réfléchi",
+        "it": "riflessivo",
+        "es": "reflexivo"
+      },
+      "sentences": [
+        {
+          "en": "\"Myself\" is a [reflexive] pronoun.",
+          "tr": "\"Myself\" dönüşlü bir zamirdir.",
+          "de": "„Myself“ ist ein Reflexivpronomen.",
+          "fr": "« Myself » est un pronom réfléchi.",
+          "it": "«Myself» è un pronome riflessivo.",
+          "es": "«Myself» es un pronombre reflexivo."
+        },
+        {
+          "en": "German has many [reflexive] verbs.",
+          "tr": "Almancada çok sayıda dönüşlü fiil var.",
+          "de": "Im Deutschen gibt es viele reflexive Verben.",
+          "fr": "L'allemand a beaucoup de verbes réfléchis.",
+          "it": "Il tedesco ha molti verbi riflessivi.",
+          "es": "El alemán tiene muchos verbos reflexivos."
+        }
+      ]
+    },
+    {
+      "id": "circumflex",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "circum-",
+        "flex"
+      ],
+      "gloss": {
+        "en": "an accent mark like the one on 'â' (literally: bent around)",
+        "tr": "düzeltme işareti (^)",
+        "de": "der Zirkumflex",
+        "fr": "l'accent circonflexe",
+        "it": "l'accento circonflesso",
+        "es": "el acento circunflejo"
+      },
+      "sentences": [
+        {
+          "en": "In Turkish, the [circumflex] shows a long vowel.",
+          "tr": "Türkçede düzeltme işareti uzun bir ünlüyü gösterir.",
+          "de": "Im Türkischen zeigt der Zirkumflex einen langen Vokal an.",
+          "fr": "En turc, l'accent circonflexe marque une voyelle longue.",
+          "it": "In turco l'accento circonflesso indica una vocale lunga.",
+          "es": "En turco, el circunflejo indica una vocal larga."
+        },
+        {
+          "en": "French \"hôtel\" has a [circumflex] on the o.",
+          "tr": "Fransızca \"hôtel\" kelimesinde o'nun üzerinde düzeltme işareti var.",
+          "de": "Das französische „hôtel“ hat einen Zirkumflex auf dem o.",
+          "fr": "Le mot « hôtel » a un accent circonflexe sur le o.",
+          "it": "Il francese «hôtel» ha un accento circonflesso sulla o.",
+          "es": "El francés «hôtel» lleva circunflejo en la o."
+        }
+      ]
+    },
+    {
+      "id": "reflect",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "re-",
+        "flect"
+      ],
+      "gloss": {
+        "en": "to send back light or sound; to think carefully; to show (literally: to bend back)",
+        "tr": "yansıtmak; üzerinde düşünmek",
+        "de": "spiegeln, reflektieren; nachdenken",
+        "fr": "refléter; réfléchir",
+        "it": "riflettere",
+        "es": "reflejar; reflexionar"
+      },
+      "sentences": [
+        {
+          "en": "The lake [reflected] the mountains.",
+          "tr": "Göl dağları yansıtıyordu.",
+          "de": "Der See spiegelte die Berge.",
+          "fr": "Le lac reflétait les montagnes.",
+          "it": "Il lago rifletteva le montagne.",
+          "es": "El lago reflejaba las montañas."
+        },
+        {
+          "en": "Take a moment to [reflect] on your progress.",
+          "tr": "İlerlemen üzerine düşünmek için biraz zaman ayır.",
+          "de": "Nimm dir einen Moment, um über deinen Fortschritt nachzudenken.",
+          "fr": "Prends un moment pour réfléchir à tes progrès.",
+          "it": "Prenditi un momento per riflettere sui tuoi progressi.",
+          "es": "Tómate un momento para reflexionar sobre tu progreso."
+        }
+      ]
+    },
+    {
+      "id": "reflection",
+      "pos": "noun",
+      "parent": "reflect",
+      "parts": [
+        "re-",
+        "flect",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "an image in a mirror or water; careful thought",
+        "tr": "yansıma; düşünme",
+        "de": "das Spiegelbild; die Überlegung",
+        "fr": "le reflet; la réflexion",
+        "it": "il riflesso; la riflessione",
+        "es": "el reflejo; la reflexión"
+      },
+      "sentences": [
+        {
+          "en": "She looked at her [reflection] in the window.",
+          "tr": "Camdaki yansımasına baktı.",
+          "de": "Sie betrachtete ihr Spiegelbild im Fenster.",
+          "fr": "Elle regardait son reflet dans la vitre.",
+          "it": "Guardava il suo riflesso nel vetro.",
+          "es": "Miró su reflejo en la ventana."
+        },
+        {
+          "en": "After some [reflection], I said yes.",
+          "tr": "Biraz düşündükten sonra evet dedim.",
+          "de": "Nach einiger Überlegung sagte ich ja.",
+          "fr": "Après réflexion, j'ai dit oui.",
+          "it": "Dopo un po' di riflessione ho detto di sì.",
+          "es": "Tras pensarlo un poco, dije que sí."
+        }
+      ]
+    },
+    {
+      "id": "reflective",
+      "pos": "adjective",
+      "parent": "reflect",
+      "parts": [
+        "re-",
+        "flect",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "sending back light; thinking quietly",
+        "tr": "yansıtıcı; düşünceli",
+        "de": "reflektierend; nachdenklich",
+        "fr": "réfléchissant; pensif",
+        "it": "riflettente; riflessivo",
+        "es": "reflectante; reflexivo"
+      },
+      "sentences": [
+        {
+          "en": "Cyclists should wear [reflective] jackets.",
+          "tr": "Bisikletliler reflektörlü yelek giymeli.",
+          "de": "Radfahrer sollten reflektierende Jacken tragen.",
+          "fr": "Les cyclistes devraient porter des gilets réfléchissants.",
+          "it": "I ciclisti dovrebbero indossare giubbotti riflettenti.",
+          "es": "Los ciclistas deberían llevar chalecos reflectantes."
+        },
+        {
+          "en": "He was in a quiet, [reflective] mood.",
+          "tr": "Sakin ve düşünceli bir ruh hâlindeydi.",
+          "de": "Er war ruhig und nachdenklich gestimmt.",
+          "fr": "Il était d'humeur calme et pensive.",
+          "it": "Era di umore tranquillo e riflessivo.",
+          "es": "Estaba de un humor tranquilo y reflexivo."
+        }
+      ]
+    },
+    {
+      "id": "reflector",
+      "pos": "noun",
+      "parent": "reflect",
+      "parts": [
+        "re-",
+        "flect",
+        "-or"
+      ],
+      "gloss": {
+        "en": "a surface that sends light back",
+        "tr": "reflektör, ışık yansıtıcı",
+        "de": "der Reflektor, der Rückstrahler",
+        "fr": "le réflecteur, le catadioptre",
+        "it": "il catarifrangente, il riflettore",
+        "es": "el reflector, el catadióptrico"
+      },
+      "sentences": [
+        {
+          "en": "My bike has a red [reflector] at the back.",
+          "tr": "Bisikletimin arkasında kırmızı bir reflektör var.",
+          "de": "Mein Fahrrad hat hinten einen roten Rückstrahler.",
+          "fr": "Mon vélo a un catadioptre rouge à l'arrière.",
+          "it": "La mia bici ha un catarifrangente rosso dietro.",
+          "es": "Mi bici tiene un catadióptrico rojo detrás."
+        },
+        {
+          "en": "Photographers use a [reflector] to light faces.",
+          "tr": "Fotoğrafçılar yüzleri aydınlatmak için reflektör kullanır.",
+          "de": "Fotografen nutzen einen Reflektor, um Gesichter aufzuhellen.",
+          "fr": "Les photographes utilisent un réflecteur pour éclairer les visages.",
+          "it": "I fotografi usano un pannello riflettente per illuminare i volti.",
+          "es": "Los fotógrafos usan un reflector para iluminar las caras."
+        }
+      ]
+    },
+    {
+      "id": "deflect",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "de-",
+        "flect"
+      ],
+      "gloss": {
+        "en": "to make something change direction (literally: to bend away)",
+        "tr": "saptırmak, yönünü değiştirmek",
+        "de": "abwehren, ablenken",
+        "fr": "dévier, détourner",
+        "it": "deviare, respingere",
+        "es": "desviar"
+      },
+      "sentences": [
+        {
+          "en": "The goalkeeper [deflected] the ball wide.",
+          "tr": "Kaleci topu dışarı çeldi.",
+          "de": "Der Torwart lenkte den Ball ins Aus.",
+          "fr": "Le gardien a dévié le ballon.",
+          "it": "Il portiere ha deviato il pallone.",
+          "es": "El portero desvió el balón."
+        },
+        {
+          "en": "He tried to [deflect] the question with a joke.",
+          "tr": "Soruyu bir şakayla geçiştirmeye çalıştı.",
+          "de": "Er versuchte, die Frage mit einem Witz abzuwehren.",
+          "fr": "Il a essayé d'esquiver la question par une blague.",
+          "it": "Ha cercato di eludere la domanda con una battuta.",
+          "es": "Intentó esquivar la pregunta con una broma."
+        }
+      ]
+    },
+    {
+      "id": "inflection",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "in-",
+        "flect",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "the rise and fall of the voice; a change in a word's ending (literally: a bending in)",
+        "tr": "tonlama; çekim",
+        "de": "die Betonung; die Flexion, die Beugung",
+        "fr": "l'intonation; la flexion",
+        "it": "l'intonazione; la flessione",
+        "es": "la entonación; la flexión"
+      },
+      "sentences": [
+        {
+          "en": "Her voice had a questioning [inflection].",
+          "tr": "Sesinde soru soran bir tonlama vardı.",
+          "de": "Ihre Stimme hatte eine fragende Betonung.",
+          "fr": "Sa voix avait une intonation interrogative.",
+          "it": "La sua voce aveva un'intonazione interrogativa.",
+          "es": "Su voz tenía una entonación interrogativa."
+        },
+        {
+          "en": "English has fewer [inflections] than German.",
+          "tr": "İngilizcede Almancadan daha az çekim eki var.",
+          "de": "Das Englische hat weniger Flexionsformen als das Deutsche.",
+          "fr": "L'anglais a moins de flexions que l'allemand.",
+          "it": "L'inglese ha meno flessioni del tedesco.",
+          "es": "El inglés tiene menos flexiones que el alemán."
+        }
+      ]
+    }
+  ]
+}

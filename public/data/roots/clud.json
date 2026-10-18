@@ -1,0 +1,733 @@
+{
+  "id": "clud",
+  "forms": [
+    "clud",
+    "clude",
+    "clus",
+    "cluse",
+    "close",
+    "clos",
+    "clause"
+  ],
+  "origin": "la",
+  "etymon": "claudere, clausus",
+  "meaning": {
+    "en": "to close, to shut",
+    "tr": "kapamak, kapatmak",
+    "de": "schließen",
+    "fr": "fermer",
+    "it": "chiudere",
+    "es": "cerrar"
+  },
+  "words": [
+    {
+      "id": "close",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "close"
+      ],
+      "gloss": {
+        "en": "to shut (from Old French clos, from Latin clausus)",
+        "tr": "kapatmak",
+        "de": "schließen, zumachen",
+        "fr": "fermer",
+        "it": "chiudere",
+        "es": "cerrar"
+      },
+      "sentences": [
+        {
+          "en": "Please [close] the window.",
+          "tr": "Lütfen pencereyi kapat.",
+          "de": "Mach bitte das Fenster zu.",
+          "fr": "Ferme la fenêtre, s'il te plaît.",
+          "it": "Chiudi la finestra, per favore.",
+          "es": "Cierra la ventana, por favor."
+        },
+        {
+          "en": "The shop [closes] at eight.",
+          "tr": "Dükkân sekizde kapanıyor.",
+          "de": "Der Laden schließt um acht.",
+          "fr": "Le magasin ferme à vingt heures.",
+          "it": "Il negozio chiude alle otto.",
+          "es": "La tienda cierra a las ocho."
+        }
+      ]
+    },
+    {
+      "id": "closet",
+      "pos": "noun",
+      "parent": "close",
+      "parts": [
+        "clos",
+        "-et"
+      ],
+      "gloss": {
+        "en": "a cupboard for clothes (literally: a small closed room)",
+        "tr": "gömme dolap, elbise dolabı",
+        "de": "der Wandschrank",
+        "fr": "le placard",
+        "it": "l'armadio a muro",
+        "es": "el armario empotrado"
+      },
+      "sentences": [
+        {
+          "en": "Hang your coat in the [closet].",
+          "tr": "Paltonu dolaba as.",
+          "de": "Häng deinen Mantel in den Wandschrank.",
+          "fr": "Accroche ton manteau dans le placard.",
+          "it": "Appendi il cappotto nell'armadio.",
+          "es": "Cuelga el abrigo en el armario."
+        },
+        {
+          "en": "The [closet] is full of old shoes.",
+          "tr": "Dolap eski ayakkabılarla dolu.",
+          "de": "Der Schrank ist voller alter Schuhe.",
+          "fr": "Le placard est plein de vieilles chaussures.",
+          "it": "L'armadio è pieno di scarpe vecchie.",
+          "es": "El armario está lleno de zapatos viejos."
+        }
+      ]
+    },
+    {
+      "id": "enclose",
+      "pos": "verb",
+      "parent": "close",
+      "parts": [
+        "en-",
+        "close"
+      ],
+      "gloss": {
+        "en": "to surround; to put something in an envelope with a letter (literally: to close in)",
+        "tr": "çevrelemek; ekte göndermek",
+        "de": "einschließen; beilegen",
+        "fr": "entourer; joindre",
+        "it": "recintare; allegare",
+        "es": "cercar, rodear; adjuntar"
+      },
+      "sentences": [
+        {
+          "en": "A high wall [encloses] the garden.",
+          "tr": "Bahçeyi yüksek bir duvar çevreliyor.",
+          "de": "Eine hohe Mauer umschließt den Garten.",
+          "fr": "Un haut mur entoure le jardin.",
+          "it": "Un alto muro circonda il giardino.",
+          "es": "Un muro alto rodea el jardín."
+        },
+        {
+          "en": "I have [enclosed] a copy of my passport.",
+          "tr": "Pasaportumun bir kopyasını ekte gönderiyorum.",
+          "de": "Ich habe eine Kopie meines Passes beigelegt.",
+          "fr": "J'ai joint une copie de mon passeport.",
+          "it": "Ho allegato una copia del passaporto.",
+          "es": "He adjuntado una copia de mi pasaporte."
+        }
+      ]
+    },
+    {
+      "id": "enclosure",
+      "pos": "noun",
+      "parent": "enclose",
+      "parts": [
+        "en-",
+        "clos",
+        "-ure"
+      ],
+      "gloss": {
+        "en": "an area surrounded by a fence or wall",
+        "tr": "çitle çevrili alan, ağıl",
+        "de": "das Gehege",
+        "fr": "l'enclos",
+        "it": "il recinto",
+        "es": "el recinto"
+      },
+      "sentences": [
+        {
+          "en": "The lions live in a large [enclosure].",
+          "tr": "Aslanlar geniş bir çitle çevrili alanda yaşıyor.",
+          "de": "Die Löwen leben in einem großen Gehege.",
+          "fr": "Les lions vivent dans un grand enclos.",
+          "it": "I leoni vivono in un grande recinto.",
+          "es": "Los leones viven en un gran recinto."
+        },
+        {
+          "en": "Keep the sheep in the [enclosure] at night.",
+          "tr": "Geceleri koyunları ağılda tut.",
+          "de": "Lass die Schafe nachts im Gehege.",
+          "fr": "Garde les moutons dans l'enclos la nuit.",
+          "it": "Tieni le pecore nel recinto di notte.",
+          "es": "Deja las ovejas en el recinto por la noche."
+        }
+      ]
+    },
+    {
+      "id": "disclose",
+      "pos": "verb",
+      "parent": "close",
+      "parts": [
+        "dis-",
+        "close"
+      ],
+      "gloss": {
+        "en": "to make secret information known (literally: to un-close)",
+        "tr": "açıklamak, ifşa etmek",
+        "de": "offenlegen, preisgeben",
+        "fr": "divulguer, révéler",
+        "it": "rivelare, divulgare",
+        "es": "revelar, divulgar"
+      },
+      "sentences": [
+        {
+          "en": "The company did not [disclose] the price.",
+          "tr": "Şirket fiyatı açıklamadı.",
+          "de": "Die Firma hat den Preis nicht offengelegt.",
+          "fr": "L'entreprise n'a pas divulgué le prix.",
+          "it": "L'azienda non ha rivelato il prezzo.",
+          "es": "La empresa no reveló el precio."
+        },
+        {
+          "en": "Never [disclose] your password.",
+          "tr": "Şifreni asla kimseyle paylaşma.",
+          "de": "Gib niemals dein Passwort preis.",
+          "fr": "Ne divulgue jamais ton mot de passe.",
+          "it": "Non rivelare mai la tua password.",
+          "es": "Nunca reveles tu contraseña."
+        }
+      ]
+    },
+    {
+      "id": "disclosure",
+      "pos": "noun",
+      "parent": "disclose",
+      "parts": [
+        "dis-",
+        "clos",
+        "-ure"
+      ],
+      "gloss": {
+        "en": "making secret information known",
+        "tr": "açıklama, ifşa",
+        "de": "die Offenlegung",
+        "fr": "la divulgation, la révélation",
+        "it": "la divulgazione",
+        "es": "la divulgación, la revelación"
+      },
+      "sentences": [
+        {
+          "en": "The [disclosure] of the documents caused a scandal.",
+          "tr": "Belgelerin ifşa edilmesi skandala yol açtı.",
+          "de": "Die Offenlegung der Dokumente löste einen Skandal aus.",
+          "fr": "La divulgation des documents a provoqué un scandale.",
+          "it": "La divulgazione dei documenti ha causato uno scandalo.",
+          "es": "La divulgación de los documentos causó un escándalo."
+        },
+        {
+          "en": "The law requires full [disclosure] of costs.",
+          "tr": "Yasa maliyetlerin eksiksiz açıklanmasını gerektiriyor.",
+          "de": "Das Gesetz verlangt die vollständige Offenlegung der Kosten.",
+          "fr": "La loi exige la divulgation complète des coûts.",
+          "it": "La legge richiede la piena divulgazione dei costi.",
+          "es": "La ley exige la divulgación completa de los costes."
+        }
+      ]
+    },
+    {
+      "id": "include",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "in-",
+        "clude"
+      ],
+      "gloss": {
+        "en": "to have as part of a whole (literally: to close in)",
+        "tr": "içermek, dahil etmek",
+        "de": "einschließen, enthalten",
+        "fr": "inclure, comprendre",
+        "it": "includere, comprendere",
+        "es": "incluir"
+      },
+      "sentences": [
+        {
+          "en": "The price [includes] breakfast.",
+          "tr": "Fiyata kahvaltı dahil.",
+          "de": "Der Preis beinhaltet Frühstück.",
+          "fr": "Le prix comprend le petit-déjeuner.",
+          "it": "Il prezzo include la colazione.",
+          "es": "El precio incluye el desayuno."
+        },
+        {
+          "en": "Don't forget to [include] your phone number.",
+          "tr": "Telefon numaranı eklemeyi unutma.",
+          "de": "Vergiss nicht, deine Telefonnummer anzugeben.",
+          "fr": "N'oublie pas d'indiquer ton numéro de téléphone.",
+          "it": "Non dimenticare di includere il tuo numero di telefono.",
+          "es": "No olvides incluir tu número de teléfono."
+        }
+      ]
+    },
+    {
+      "id": "inclusion",
+      "pos": "noun",
+      "parent": "include",
+      "parts": [
+        "in-",
+        "clus",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "being included; making sure everyone can take part",
+        "tr": "dahil edilme; kapsayıcılık",
+        "de": "die Aufnahme; die Inklusion",
+        "fr": "l'inclusion",
+        "it": "l'inclusione",
+        "es": "la inclusión"
+      },
+      "sentences": [
+        {
+          "en": "Her [inclusion] in the team surprised everyone.",
+          "tr": "Takıma alınması herkesi şaşırttı.",
+          "de": "Ihre Aufnahme ins Team überraschte alle.",
+          "fr": "Son inclusion dans l'équipe a surpris tout le monde.",
+          "it": "La sua inclusione nella squadra ha sorpreso tutti.",
+          "es": "Su inclusión en el equipo sorprendió a todos."
+        },
+        {
+          "en": "The school works for the [inclusion] of all children.",
+          "tr": "Okul bütün çocukların eğitime katılması için çalışıyor.",
+          "de": "Die Schule setzt sich für die Inklusion aller Kinder ein.",
+          "fr": "L'école œuvre pour l'inclusion de tous les enfants.",
+          "it": "La scuola lavora per l'inclusione di tutti i bambini.",
+          "es": "La escuela trabaja por la inclusión de todos los niños."
+        }
+      ]
+    },
+    {
+      "id": "inclusive",
+      "pos": "adjective",
+      "parent": "include",
+      "parts": [
+        "in-",
+        "clus",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "including everyone or everything",
+        "tr": "kapsayıcı; dahil",
+        "de": "inklusiv; einschließlich",
+        "fr": "inclusif; compris",
+        "it": "inclusivo; compreso",
+        "es": "inclusivo; incluido"
+      },
+      "sentences": [
+        {
+          "en": "We want an [inclusive] club for all ages.",
+          "tr": "Her yaşa açık, kapsayıcı bir kulüp istiyoruz.",
+          "de": "Wir wollen einen inklusiven Verein für alle Altersgruppen.",
+          "fr": "Nous voulons un club inclusif pour tous les âges.",
+          "it": "Vogliamo un club inclusivo per tutte le età.",
+          "es": "Queremos un club inclusivo para todas las edades."
+        },
+        {
+          "en": "The price is [inclusive] of tax.",
+          "tr": "Fiyata vergi dahil.",
+          "de": "Der Preis ist inklusive Steuer.",
+          "fr": "Le prix est toutes taxes comprises.",
+          "it": "Il prezzo è comprensivo di tasse.",
+          "es": "El precio incluye los impuestos."
+        }
+      ]
+    },
+    {
+      "id": "exclude",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ex-",
+        "clude"
+      ],
+      "gloss": {
+        "en": "to keep out; not to include (literally: to close out)",
+        "tr": "dışarıda bırakmak, hariç tutmak",
+        "de": "ausschließen",
+        "fr": "exclure",
+        "it": "escludere",
+        "es": "excluir"
+      },
+      "sentences": [
+        {
+          "en": "They [excluded] him from the game.",
+          "tr": "Onu oyunun dışında bıraktılar.",
+          "de": "Sie schlossen ihn vom Spiel aus.",
+          "fr": "Ils l'ont exclu du jeu.",
+          "it": "L'hanno escluso dal gioco.",
+          "es": "Lo excluyeron del juego."
+        },
+        {
+          "en": "The price [excludes] drinks.",
+          "tr": "Fiyata içecekler dahil değil.",
+          "de": "Getränke sind im Preis nicht enthalten.",
+          "fr": "Le prix ne comprend pas les boissons.",
+          "it": "Il prezzo esclude le bevande.",
+          "es": "El precio no incluye las bebidas."
+        }
+      ]
+    },
+    {
+      "id": "exclusion",
+      "pos": "noun",
+      "parent": "exclude",
+      "parts": [
+        "ex-",
+        "clus",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "keeping someone or something out",
+        "tr": "dışlama, hariç tutma",
+        "de": "der Ausschluss, die Ausgrenzung",
+        "fr": "l'exclusion",
+        "it": "l'esclusione",
+        "es": "la exclusión"
+      },
+      "sentences": [
+        {
+          "en": "Social [exclusion] can hurt children deeply.",
+          "tr": "Sosyal dışlanma çocukları derinden yaralayabilir.",
+          "de": "Soziale Ausgrenzung kann Kinder tief verletzen.",
+          "fr": "L'exclusion sociale peut profondément blesser les enfants.",
+          "it": "L'esclusione sociale può ferire profondamente i bambini.",
+          "es": "La exclusión social puede herir mucho a los niños."
+        },
+        {
+          "en": "Read the list of [exclusions] in your insurance.",
+          "tr": "Sigortandaki kapsam dışı durumların listesini oku.",
+          "de": "Lies die Liste der Ausschlüsse in deiner Versicherung.",
+          "fr": "Lis la liste des exclusions de ton assurance.",
+          "it": "Leggi l'elenco delle esclusioni della tua assicurazione.",
+          "es": "Lee la lista de exclusiones de tu seguro."
+        }
+      ]
+    },
+    {
+      "id": "exclusive",
+      "pos": "adjective",
+      "parent": "exclude",
+      "parts": [
+        "ex-",
+        "clus",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "only for some people; expensive and special",
+        "tr": "özel, seçkin; ayrıcalıklı",
+        "de": "exklusiv",
+        "fr": "exclusif; huppé",
+        "it": "esclusivo",
+        "es": "exclusivo"
+      },
+      "sentences": [
+        {
+          "en": "They stayed at an [exclusive] hotel.",
+          "tr": "Seçkin bir otelde kaldılar.",
+          "de": "Sie wohnten in einem exklusiven Hotel.",
+          "fr": "Ils ont séjourné dans un hôtel huppé.",
+          "it": "Hanno alloggiato in un hotel esclusivo.",
+          "es": "Se alojaron en un hotel exclusivo."
+        },
+        {
+          "en": "The magazine has an [exclusive] interview with the singer.",
+          "tr": "Derginin şarkıcıyla özel bir röportajı var.",
+          "de": "Die Zeitschrift hat ein Exklusivinterview mit der Sängerin.",
+          "fr": "Le magazine publie une interview exclusive de la chanteuse.",
+          "it": "La rivista ha un'intervista esclusiva con la cantante.",
+          "es": "La revista tiene una entrevista exclusiva con la cantante."
+        }
+      ]
+    },
+    {
+      "id": "conclude",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "con-",
+        "clude"
+      ],
+      "gloss": {
+        "en": "to end; to decide after thinking (literally: to close completely)",
+        "tr": "bitirmek; sonuca varmak",
+        "de": "abschließen; folgern",
+        "fr": "conclure",
+        "it": "concludere",
+        "es": "concluir"
+      },
+      "sentences": [
+        {
+          "en": "The concert [concluded] with fireworks.",
+          "tr": "Konser havai fişeklerle sona erdi.",
+          "de": "Das Konzert endete mit einem Feuerwerk.",
+          "fr": "Le concert s'est terminé par un feu d'artifice.",
+          "it": "Il concerto si è concluso con i fuochi d'artificio.",
+          "es": "El concierto concluyó con fuegos artificiales."
+        },
+        {
+          "en": "We [concluded] that the plan was too expensive.",
+          "tr": "Planın çok pahalı olduğu sonucuna vardık.",
+          "de": "Wir kamen zu dem Schluss, dass der Plan zu teuer war.",
+          "fr": "Nous avons conclu que le projet était trop cher.",
+          "it": "Abbiamo concluso che il piano era troppo costoso.",
+          "es": "Concluimos que el plan era demasiado caro."
+        }
+      ]
+    },
+    {
+      "id": "conclusion",
+      "pos": "noun",
+      "parent": "conclude",
+      "parts": [
+        "con-",
+        "clus",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "the end of something; a decision reached by thinking",
+        "tr": "sonuç; son",
+        "de": "der Schluss; die Schlussfolgerung",
+        "fr": "la conclusion",
+        "it": "la conclusione",
+        "es": "la conclusión"
+      },
+      "sentences": [
+        {
+          "en": "Write a short [conclusion] for your essay.",
+          "tr": "Kompozisyonun için kısa bir sonuç bölümü yaz.",
+          "de": "Schreib einen kurzen Schluss für deinen Aufsatz.",
+          "fr": "Écris une courte conclusion pour ta rédaction.",
+          "it": "Scrivi una breve conclusione per il tuo tema.",
+          "es": "Escribe una conclusión breve para tu redacción."
+        },
+        {
+          "en": "Don't jump to [conclusions].",
+          "tr": "Hemen sonuç çıkarma.",
+          "de": "Zieh keine voreiligen Schlüsse.",
+          "fr": "Ne tire pas de conclusions hâtives.",
+          "it": "Non saltare alle conclusioni.",
+          "es": "No saques conclusiones precipitadas."
+        }
+      ]
+    },
+    {
+      "id": "conclusive",
+      "pos": "adjective",
+      "parent": "conclude",
+      "parts": [
+        "con-",
+        "clus",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "proving something without doubt",
+        "tr": "kesin, kesin kanıt niteliğinde",
+        "de": "schlüssig, eindeutig",
+        "fr": "concluant, probant",
+        "it": "conclusivo, decisivo",
+        "es": "concluyente"
+      },
+      "sentences": [
+        {
+          "en": "There is no [conclusive] proof.",
+          "tr": "Kesin bir kanıt yok.",
+          "de": "Es gibt keinen eindeutigen Beweis.",
+          "fr": "Il n'y a aucune preuve concluante.",
+          "it": "Non c'è una prova decisiva.",
+          "es": "No hay ninguna prueba concluyente."
+        },
+        {
+          "en": "The test results were [conclusive].",
+          "tr": "Test sonuçları kesindi.",
+          "de": "Die Testergebnisse waren eindeutig.",
+          "fr": "Les résultats des tests étaient concluants.",
+          "it": "I risultati del test erano decisivi.",
+          "es": "Los resultados de la prueba fueron concluyentes."
+        }
+      ]
+    },
+    {
+      "id": "inconclusive",
+      "pos": "adjective",
+      "parent": "conclusive",
+      "parts": [
+        "in-not-",
+        "con-",
+        "clus",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "not giving a clear answer",
+        "tr": "kesin olmayan, sonuçsuz",
+        "de": "nicht eindeutig, ergebnislos",
+        "fr": "peu concluant",
+        "it": "non conclusivo, inconcludente",
+        "es": "no concluyente"
+      },
+      "sentences": [
+        {
+          "en": "The first study was [inconclusive].",
+          "tr": "İlk çalışma kesin bir sonuç vermedi.",
+          "de": "Die erste Studie war nicht eindeutig.",
+          "fr": "La première étude n'a pas été concluante.",
+          "it": "Il primo studio è stato inconcludente.",
+          "es": "El primer estudio no fue concluyente."
+        },
+        {
+          "en": "After three hours, the talks were still [inconclusive].",
+          "tr": "Üç saat sonra görüşmelerden hâlâ bir sonuç çıkmamıştı.",
+          "de": "Nach drei Stunden waren die Gespräche immer noch ergebnislos.",
+          "fr": "Au bout de trois heures, les discussions n'avaient toujours rien donné.",
+          "it": "Dopo tre ore i colloqui erano ancora senza esito.",
+          "es": "Tras tres horas, las conversaciones seguían sin resultado."
+        }
+      ]
+    },
+    {
+      "id": "preclude",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "pre-",
+        "clude"
+      ],
+      "gloss": {
+        "en": "to make something impossible beforehand (literally: to close before)",
+        "tr": "engellemek, olanaksız kılmak",
+        "de": "ausschließen, verhindern",
+        "fr": "empêcher, exclure",
+        "it": "precludere, impedire",
+        "es": "impedir, excluir"
+      },
+      "sentences": [
+        {
+          "en": "His injury [precludes] him from playing.",
+          "tr": "Sakatlığı oynamasına engel oluyor.",
+          "de": "Seine Verletzung schließt eine Teilnahme aus.",
+          "fr": "Sa blessure l'empêche de jouer.",
+          "it": "L'infortunio gli impedisce di giocare.",
+          "es": "Su lesión le impide jugar."
+        },
+        {
+          "en": "A busy job doesn't [preclude] a happy family life.",
+          "tr": "Yoğun bir iş mutlu bir aile hayatına engel değildir.",
+          "de": "Ein anstrengender Job schließt ein glückliches Familienleben nicht aus.",
+          "fr": "Un travail prenant n'empêche pas une vie de famille heureuse.",
+          "it": "Un lavoro impegnativo non preclude una vita familiare felice.",
+          "es": "Un trabajo exigente no impide una vida familiar feliz."
+        }
+      ]
+    },
+    {
+      "id": "secluded",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "se-",
+        "clud",
+        "-ed"
+      ],
+      "gloss": {
+        "en": "quiet and away from other people (literally: closed apart)",
+        "tr": "ıssız, sakin, kuytu",
+        "de": "abgelegen, ruhig",
+        "fr": "isolé, retiré",
+        "it": "appartato, isolato",
+        "es": "apartado, aislado"
+      },
+      "sentences": [
+        {
+          "en": "We found a [secluded] beach.",
+          "tr": "Issız bir plaj bulduk.",
+          "de": "Wir fanden einen abgelegenen Strand.",
+          "fr": "Nous avons trouvé une plage isolée.",
+          "it": "Abbiamo trovato una spiaggia appartata.",
+          "es": "Encontramos una playa apartada."
+        },
+        {
+          "en": "The cabin is in a [secluded] valley.",
+          "tr": "Kulübe kuytu bir vadide.",
+          "de": "Die Hütte liegt in einem abgelegenen Tal.",
+          "fr": "Le chalet se trouve dans une vallée retirée.",
+          "it": "La baita si trova in una valle isolata.",
+          "es": "La cabaña está en un valle aislado."
+        }
+      ]
+    },
+    {
+      "id": "recluse",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "re-",
+        "cluse"
+      ],
+      "gloss": {
+        "en": "a person who lives alone and avoids other people (literally: shut away)",
+        "tr": "inzivaya çekilmiş kişi, münzevi",
+        "de": "der Einsiedler",
+        "fr": "l'ermite, le reclus",
+        "it": "l'eremita, il recluso",
+        "es": "el ermitaño, el solitario"
+      },
+      "sentences": [
+        {
+          "en": "The writer became a [recluse] in old age.",
+          "tr": "Yazar yaşlılığında inzivaya çekildi.",
+          "de": "Der Schriftsteller wurde im Alter zum Einsiedler.",
+          "fr": "L'écrivain est devenu un reclus en vieillissant.",
+          "it": "Lo scrittore da vecchio è diventato un eremita.",
+          "es": "El escritor se volvió un ermitaño en la vejez."
+        },
+        {
+          "en": "He lives like a [recluse] in the mountains.",
+          "tr": "Dağlarda münzevi gibi yaşıyor.",
+          "de": "Er lebt wie ein Einsiedler in den Bergen.",
+          "fr": "Il vit en ermite dans les montagnes.",
+          "it": "Vive come un eremita in montagna.",
+          "es": "Vive como un ermitaño en las montañas."
+        }
+      ]
+    },
+    {
+      "id": "clause",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "clause"
+      ],
+      "gloss": {
+        "en": "a part of a sentence with a verb; a section of a contract (from Latin clausula, 'a closing')",
+        "tr": "cümlecik, yan cümle; madde (sözleşme)",
+        "de": "der Satzteil, der Nebensatz; die Klausel",
+        "fr": "la proposition; la clause",
+        "it": "la proposizione; la clausola",
+        "es": "la oración, la cláusula"
+      },
+      "sentences": [
+        {
+          "en": "\"Because it rained\" is a [clause].",
+          "tr": "\"Because it rained\" bir yan cümledir.",
+          "de": "„Because it rained“ ist ein Nebensatz.",
+          "fr": "« Because it rained » est une proposition.",
+          "it": "«Because it rained» è una proposizione.",
+          "es": "«Because it rained» es una oración subordinada."
+        },
+        {
+          "en": "Read every [clause] in the contract.",
+          "tr": "Sözleşmedeki her maddeyi oku.",
+          "de": "Lies jede Klausel im Vertrag.",
+          "fr": "Lis chaque clause du contrat.",
+          "it": "Leggi ogni clausola del contratto.",
+          "es": "Lee cada cláusula del contrato."
+        }
+      ]
+    }
+  ]
+}
