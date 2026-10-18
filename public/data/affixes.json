@@ -1674,5 +1674,82 @@
       "it": "capace di (-atile)",
       "es": "capaz de (-átil)"
     }
+  },
+  "oc-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "toward, against (ob- before c)",
+      "tr": "-e doğru, karşı (c önünde ob-)",
+      "de": "hin zu, gegen (ob- vor c)",
+      "fr": "vers, contre (ob- devant c)",
+      "it": "verso, contro (ob- davanti a c)",
+      "es": "hacia, contra (ob- ante c)"
+    }
+  },
+  "-abulary": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "collection of (Latin -abularium)",
+      "tr": "toplamı, listesi (Latince -abularium)",
+      "de": "Sammlung von (lateinisch -abularium)",
+      "fr": "recueil de (latin -abularium)",
+      "it": "raccolta di (latino -abularium)",
+      "es": "colección de (latín -abularium)"
+    }
+  },
+  "-el": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "small thing (makes a noun)",
+      "tr": "küçük şey (isim yapar)",
+      "de": "kleines Ding (bildet ein Nomen)",
+      "fr": "petite chose (forme un nom)",
+      "it": "piccola cosa (forma un nome)",
+      "es": "cosa pequeña (forma un sustantivo)"
+    }
+  },
+  "-iculum": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "small thing, means (Latin)",
+      "tr": "küçük şey, araç (Latince)",
+      "de": "kleines Ding, Mittel (lateinisch)",
+      "fr": "petite chose, moyen (latin)",
+      "it": "piccola cosa, mezzo (latino)",
+      "es": "cosa pequeña, medio (latín)"
+    }
+  },
+  "-ier": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "person who does (makes a noun)",
+      "tr": "yapan kişi (isim yapar)",
+      "de": "Person, die etwas tut (bildet ein Nomen)",
+      "fr": "personne qui fait (-ier)",
+      "it": "persona che fa (-iere)",
+      "es": "persona que hace (-ero)"
+    }
+  },
+  "-acy": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "state, quality (makes a noun)",
+      "tr": "durum, nitelik (isim yapar)",
+      "de": "Zustand (bildet ein Nomen)",
+      "fr": "état (forme un nom)",
+      "it": "stato (forma un nome)",
+      "es": "estado (forma un sustantivo)"
+    }
+  },
+  "-atory": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "relating to (makes an adjective)",
+      "tr": "ile ilgili (sıfat yapar)",
+      "de": "bezogen auf (bildet ein Adjektiv)",
+      "fr": "relatif à (-atoire)",
+      "it": "relativo a (-atorio)",
+      "es": "relativo a (-atorio)"
+    }
   }
 }

@@ -147,6 +147,47 @@
     ]
   },
   {
+    "id": "cur",
+    "forms": [
+      "cur",
+      "curr",
+      "curs",
+      "course",
+      "cour"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to run",
+      "tr": "koşmak",
+      "de": "laufen, rennen",
+      "fr": "courir",
+      "it": "correre",
+      "es": "correr"
+    },
+    "words": [
+      "current",
+      "currently",
+      "currency",
+      "curriculum",
+      "occur",
+      "occurrence",
+      "recur",
+      "recurring",
+      "concur",
+      "concurrent",
+      "incur",
+      "excursion",
+      "cursor",
+      "precursor",
+      "cursory",
+      "course",
+      "discourse",
+      "recourse",
+      "concourse",
+      "courier"
+    ]
+  },
+  {
     "id": "dict",
     "forms": [
       "dict",
@@ -964,6 +1005,43 @@
     ]
   },
   {
+    "id": "spir",
+    "forms": [
+      "spir",
+      "spire",
+      "pir",
+      "pire"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to breathe",
+      "tr": "nefes almak, solumak",
+      "de": "atmen",
+      "fr": "respirer, souffler",
+      "it": "respirare, soffiare",
+      "es": "respirar, soplar"
+    },
+    "words": [
+      "spirit",
+      "spiritual",
+      "dispirited",
+      "inspire",
+      "inspiration",
+      "inspiring",
+      "aspire",
+      "aspiration",
+      "expire",
+      "expiry",
+      "conspire",
+      "conspiracy",
+      "respiration",
+      "respiratory",
+      "perspire",
+      "perspiration",
+      "transpire"
+    ]
+  },
+  {
     "id": "struct",
     "forms": [
       "struct",
@@ -1207,6 +1285,41 @@
       "interviewer",
       "preview",
       "viewer"
+    ]
+  },
+  {
+    "id": "voc",
+    "forms": [
+      "voc",
+      "voke",
+      "voice",
+      "vow"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to call; voice",
+      "tr": "seslenmek, çağırmak; ses",
+      "de": "rufen; die Stimme",
+      "fr": "appeler; la voix",
+      "it": "chiamare; la voce",
+      "es": "llamar; la voz"
+    },
+    "words": [
+      "voice",
+      "vocal",
+      "vocalist",
+      "vowel",
+      "vocabulary",
+      "vocation",
+      "vocational",
+      "advocate",
+      "provoke",
+      "provocation",
+      "provocative",
+      "evoke",
+      "invoke",
+      "revoke",
+      "irrevocable"
     ]
   }
 ]

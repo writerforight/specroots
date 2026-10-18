@@ -1,0 +1,727 @@
+{
+  "id": "cur",
+  "forms": [
+    "cur",
+    "curr",
+    "curs",
+    "course",
+    "cour"
+  ],
+  "origin": "la",
+  "etymon": "currere, cursus",
+  "meaning": {
+    "en": "to run",
+    "tr": "koşmak",
+    "de": "laufen, rennen",
+    "fr": "courir",
+    "it": "correre",
+    "es": "correr"
+  },
+  "words": [
+    {
+      "id": "current",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "curr",
+        "-ent"
+      ],
+      "gloss": {
+        "en": "happening now (literally: running); (noun) a flow of water, air or electricity",
+        "tr": "şimdiki, güncel; akıntı, akım",
+        "de": "aktuell; die Strömung, der Strom",
+        "fr": "actuel; le courant",
+        "it": "attuale; la corrente",
+        "es": "actual; la corriente"
+      },
+      "sentences": [
+        {
+          "en": "What is your [current] address?",
+          "tr": "Şu anki adresin ne?",
+          "de": "Wie lautet deine aktuelle Adresse?",
+          "fr": "Quelle est ton adresse actuelle ?",
+          "it": "Qual è il tuo indirizzo attuale?",
+          "es": "¿Cuál es tu dirección actual?"
+        },
+        {
+          "en": "The [current] in the river is very strong.",
+          "tr": "Nehirdeki akıntı çok güçlü.",
+          "de": "Die Strömung im Fluss ist sehr stark.",
+          "fr": "Le courant de la rivière est très fort.",
+          "it": "La corrente del fiume è molto forte.",
+          "es": "La corriente del río es muy fuerte."
+        }
+      ]
+    },
+    {
+      "id": "currently",
+      "pos": "adverb",
+      "parent": "current",
+      "parts": [
+        "curr",
+        "-ent",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "at the present time",
+        "tr": "şu anda, hâlen",
+        "de": "zurzeit, derzeit",
+        "fr": "actuellement",
+        "it": "attualmente",
+        "es": "actualmente"
+      },
+      "sentences": [
+        {
+          "en": "She is [currently] living in Berlin.",
+          "tr": "Şu anda Berlin'de yaşıyor.",
+          "de": "Sie wohnt zurzeit in Berlin.",
+          "fr": "Elle vit actuellement à Berlin.",
+          "it": "Attualmente vive a Berlino.",
+          "es": "Actualmente vive en Berlín."
+        },
+        {
+          "en": "The product is [currently] out of stock.",
+          "tr": "Ürün şu anda stokta yok.",
+          "de": "Das Produkt ist derzeit nicht vorrätig.",
+          "fr": "Le produit est actuellement en rupture de stock.",
+          "it": "Il prodotto è attualmente esaurito.",
+          "es": "El producto está agotado actualmente."
+        }
+      ]
+    },
+    {
+      "id": "currency",
+      "pos": "noun",
+      "parent": "current",
+      "parts": [
+        "curr",
+        "-ency"
+      ],
+      "gloss": {
+        "en": "the money used in a country (literally: something that runs, circulates)",
+        "tr": "para birimi, döviz",
+        "de": "die Währung",
+        "fr": "la monnaie, la devise",
+        "it": "la valuta, la moneta",
+        "es": "la moneda, la divisa"
+      },
+      "sentences": [
+        {
+          "en": "The euro is the [currency] of Germany.",
+          "tr": "Avro Almanya'nın para birimidir.",
+          "de": "Der Euro ist die Währung Deutschlands.",
+          "fr": "L'euro est la monnaie de l'Allemagne.",
+          "it": "L'euro è la valuta della Germania.",
+          "es": "El euro es la moneda de Alemania."
+        },
+        {
+          "en": "Change some [currency] before you travel.",
+          "tr": "Seyahat etmeden önce biraz döviz bozdur.",
+          "de": "Tausch vor der Reise etwas Geld um.",
+          "fr": "Change un peu de devises avant de partir.",
+          "it": "Cambia un po' di valuta prima di partire.",
+          "es": "Cambia algo de moneda antes de viajar."
+        }
+      ]
+    },
+    {
+      "id": "curriculum",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "curr",
+        "-iculum"
+      ],
+      "gloss": {
+        "en": "the subjects taught at a school or university (literally: a little race, a course)",
+        "tr": "müfredat, öğretim programı",
+        "de": "der Lehrplan",
+        "fr": "le programme scolaire",
+        "it": "il programma di studi",
+        "es": "el plan de estudios"
+      },
+      "sentences": [
+        {
+          "en": "Coding is now part of the school [curriculum].",
+          "tr": "Kodlama artık okul müfredatının bir parçası.",
+          "de": "Programmieren ist jetzt Teil des Lehrplans.",
+          "fr": "Le codage fait désormais partie du programme scolaire.",
+          "it": "La programmazione fa ora parte del programma scolastico.",
+          "es": "La programación forma parte ahora del plan de estudios."
+        },
+        {
+          "en": "The [curriculum] changes every few years.",
+          "tr": "Müfredat birkaç yılda bir değişiyor.",
+          "de": "Der Lehrplan ändert sich alle paar Jahre.",
+          "fr": "Le programme change tous les quelques ans.",
+          "it": "Il programma cambia ogni pochi anni.",
+          "es": "El plan de estudios cambia cada pocos años."
+        }
+      ]
+    },
+    {
+      "id": "occur",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "oc-",
+        "cur"
+      ],
+      "gloss": {
+        "en": "to happen; to come into your mind (literally: to run toward)",
+        "tr": "olmak, meydana gelmek; aklına gelmek",
+        "de": "geschehen, vorkommen; einfallen",
+        "fr": "se produire; venir à l'esprit",
+        "it": "accadere; venire in mente",
+        "es": "ocurrir; ocurrírsele a alguien"
+      },
+      "sentences": [
+        {
+          "en": "The accident [occurred] at midnight.",
+          "tr": "Kaza gece yarısı meydana geldi.",
+          "de": "Der Unfall geschah um Mitternacht.",
+          "fr": "L'accident s'est produit à minuit.",
+          "it": "L'incidente è avvenuto a mezzanotte.",
+          "es": "El accidente ocurrió a medianoche."
+        },
+        {
+          "en": "It never [occurred] to me to ask.",
+          "tr": "Sormak hiç aklıma gelmedi.",
+          "de": "Es ist mir nie eingefallen zu fragen.",
+          "fr": "Il ne m'est jamais venu à l'esprit de demander.",
+          "it": "Non mi è mai venuto in mente di chiedere.",
+          "es": "Nunca se me ocurrió preguntar."
+        }
+      ]
+    },
+    {
+      "id": "occurrence",
+      "pos": "noun",
+      "parent": "occur",
+      "parts": [
+        "oc-",
+        "curr",
+        "-ence"
+      ],
+      "gloss": {
+        "en": "something that happens",
+        "tr": "olay, oluş",
+        "de": "das Vorkommen, das Ereignis",
+        "fr": "le fait, l'événement",
+        "it": "l'evento, il fatto",
+        "es": "el suceso, el hecho"
+      },
+      "sentences": [
+        {
+          "en": "Snow in April is a rare [occurrence] here.",
+          "tr": "Burada nisanda kar yağması nadir bir olay.",
+          "de": "Schnee im April ist hier selten.",
+          "fr": "La neige en avril est un fait rare ici.",
+          "it": "La neve ad aprile qui è un evento raro.",
+          "es": "La nieve en abril es algo raro aquí."
+        },
+        {
+          "en": "Power cuts are a daily [occurrence] there.",
+          "tr": "Orada elektrik kesintileri her gün yaşanıyor.",
+          "de": "Stromausfälle kommen dort täglich vor.",
+          "fr": "Les coupures de courant y sont quotidiennes.",
+          "it": "Lì i blackout sono all'ordine del giorno.",
+          "es": "Allí los apagones son algo diario."
+        }
+      ]
+    },
+    {
+      "id": "recur",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "re-",
+        "cur"
+      ],
+      "gloss": {
+        "en": "to happen again (literally: to run back)",
+        "tr": "tekrarlamak, yeniden olmak",
+        "de": "wiederkehren, wieder auftreten",
+        "fr": "se reproduire, revenir",
+        "it": "ripetersi, ricorrere",
+        "es": "repetirse, reaparecer"
+      },
+      "sentences": [
+        {
+          "en": "Call the doctor if the pain [recurs].",
+          "tr": "Ağrı tekrarlarsa doktoru ara.",
+          "de": "Ruf den Arzt, wenn die Schmerzen wiederkommen.",
+          "fr": "Appelle le médecin si la douleur revient.",
+          "it": "Chiama il medico se il dolore si ripresenta.",
+          "es": "Llama al médico si el dolor reaparece."
+        },
+        {
+          "en": "The same dream [recurs] every few weeks.",
+          "tr": "Aynı rüya birkaç haftada bir tekrarlanıyor.",
+          "de": "Derselbe Traum kehrt alle paar Wochen wieder.",
+          "fr": "Le même rêve revient toutes les quelques semaines.",
+          "it": "Lo stesso sogno si ripete ogni poche settimane.",
+          "es": "El mismo sueño se repite cada pocas semanas."
+        }
+      ]
+    },
+    {
+      "id": "recurring",
+      "pos": "adjective",
+      "parent": "recur",
+      "parts": [
+        "re-",
+        "curr",
+        "-ing"
+      ],
+      "gloss": {
+        "en": "happening again and again",
+        "tr": "tekrarlayan, yinelenen",
+        "de": "wiederkehrend",
+        "fr": "récurrent",
+        "it": "ricorrente",
+        "es": "recurrente"
+      },
+      "sentences": [
+        {
+          "en": "Money is a [recurring] problem for the club.",
+          "tr": "Para kulüp için tekrarlayan bir sorun.",
+          "de": "Geld ist für den Verein ein wiederkehrendes Problem.",
+          "fr": "L'argent est un problème récurrent pour le club.",
+          "it": "Il denaro è un problema ricorrente per il club.",
+          "es": "El dinero es un problema recurrente para el club."
+        },
+        {
+          "en": "Set up a [recurring] payment for the rent.",
+          "tr": "Kira için düzenli ödeme talimatı ver.",
+          "de": "Richte einen Dauerauftrag für die Miete ein.",
+          "fr": "Mets en place un virement permanent pour le loyer.",
+          "it": "Imposta un pagamento ricorrente per l'affitto.",
+          "es": "Programa un pago recurrente para el alquiler."
+        }
+      ]
+    },
+    {
+      "id": "concur",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "con-",
+        "cur"
+      ],
+      "gloss": {
+        "en": "to agree (literally: to run together)",
+        "tr": "aynı fikirde olmak",
+        "de": "zustimmen",
+        "fr": "être d'accord",
+        "it": "concordare, essere d'accordo",
+        "es": "coincidir, estar de acuerdo"
+      },
+      "sentences": [
+        {
+          "en": "The doctors [concurred] on the treatment.",
+          "tr": "Doktorlar tedavi konusunda aynı fikirdeydi.",
+          "de": "Die Ärzte waren sich über die Behandlung einig.",
+          "fr": "Les médecins étaient d'accord sur le traitement.",
+          "it": "I medici concordavano sulla terapia.",
+          "es": "Los médicos coincidieron en el tratamiento."
+        },
+        {
+          "en": "I [concur] with my colleague.",
+          "tr": "Meslektaşıma katılıyorum.",
+          "de": "Ich stimme meiner Kollegin zu.",
+          "fr": "Je suis d'accord avec mon collègue.",
+          "it": "Concordo con il mio collega.",
+          "es": "Estoy de acuerdo con mi colega."
+        }
+      ]
+    },
+    {
+      "id": "concurrent",
+      "pos": "adjective",
+      "parent": "concur",
+      "parts": [
+        "con-",
+        "curr",
+        "-ent"
+      ],
+      "gloss": {
+        "en": "happening at the same time",
+        "tr": "eş zamanlı",
+        "de": "gleichzeitig",
+        "fr": "simultané, concomitant",
+        "it": "simultaneo, concomitante",
+        "es": "simultáneo, concurrente"
+      },
+      "sentences": [
+        {
+          "en": "The server handles thousands of [concurrent] users.",
+          "tr": "Sunucu binlerce eş zamanlı kullanıcıyı kaldırıyor.",
+          "de": "Der Server bewältigt Tausende gleichzeitige Nutzer.",
+          "fr": "Le serveur gère des milliers d'utilisateurs simultanés.",
+          "it": "Il server gestisce migliaia di utenti simultanei.",
+          "es": "El servidor gestiona miles de usuarios simultáneos."
+        },
+        {
+          "en": "The two events were [concurrent].",
+          "tr": "İki olay aynı anda gerçekleşti.",
+          "de": "Die beiden Ereignisse fanden gleichzeitig statt.",
+          "fr": "Les deux événements étaient simultanés.",
+          "it": "I due eventi erano simultanei.",
+          "es": "Los dos acontecimientos fueron simultáneos."
+        }
+      ]
+    },
+    {
+      "id": "incur",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "in-",
+        "cur"
+      ],
+      "gloss": {
+        "en": "to have to pay or suffer something because of your actions (literally: to run into)",
+        "tr": "(masraf, zarar) uğramak, katlanmak",
+        "de": "verursachen, auf sich nehmen",
+        "fr": "encourir, engager (des frais)",
+        "it": "incorrere in, sostenere",
+        "es": "incurrir en"
+      },
+      "sentences": [
+        {
+          "en": "You will [incur] a fee for late payment.",
+          "tr": "Geç ödeme için ücret ödemek zorunda kalırsın.",
+          "de": "Bei verspäteter Zahlung fällt eine Gebühr an.",
+          "fr": "Un retard de paiement entraînera des frais.",
+          "it": "Il pagamento in ritardo comporta una penale.",
+          "es": "Incurrirás en un recargo por pago atrasado."
+        },
+        {
+          "en": "The company [incurred] heavy losses.",
+          "tr": "Şirket ağır zarara uğradı.",
+          "de": "Die Firma erlitt schwere Verluste.",
+          "fr": "L'entreprise a subi de lourdes pertes.",
+          "it": "L'azienda ha subito pesanti perdite.",
+          "es": "La empresa sufrió fuertes pérdidas."
+        }
+      ]
+    },
+    {
+      "id": "excursion",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "ex-",
+        "curs",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a short trip for pleasure (literally: a running out)",
+        "tr": "gezi, tur",
+        "de": "der Ausflug",
+        "fr": "l'excursion",
+        "it": "l'escursione, la gita",
+        "es": "la excursión"
+      },
+      "sentences": [
+        {
+          "en": "We went on an [excursion] to the lake.",
+          "tr": "Göle bir geziye gittik.",
+          "de": "Wir haben einen Ausflug zum See gemacht.",
+          "fr": "Nous avons fait une excursion au lac.",
+          "it": "Abbiamo fatto una gita al lago.",
+          "es": "Fuimos de excursión al lago."
+        },
+        {
+          "en": "The hotel organizes daily [excursions].",
+          "tr": "Otel her gün turlar düzenliyor.",
+          "de": "Das Hotel organisiert tägliche Ausflüge.",
+          "fr": "L'hôtel organise des excursions tous les jours.",
+          "it": "L'hotel organizza escursioni ogni giorno.",
+          "es": "El hotel organiza excursiones a diario."
+        }
+      ]
+    },
+    {
+      "id": "cursor",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "curs",
+        "-or"
+      ],
+      "gloss": {
+        "en": "the moving mark on a computer screen (literally: a runner)",
+        "tr": "imleç",
+        "de": "der Cursor, der Mauszeiger",
+        "fr": "le curseur",
+        "it": "il cursore",
+        "es": "el cursor"
+      },
+      "sentences": [
+        {
+          "en": "Move the [cursor] to the end of the line.",
+          "tr": "İmleci satırın sonuna götür.",
+          "de": "Beweg den Cursor ans Ende der Zeile.",
+          "fr": "Déplace le curseur à la fin de la ligne.",
+          "it": "Sposta il cursore alla fine della riga.",
+          "es": "Mueve el cursor al final de la línea."
+        },
+        {
+          "en": "The [cursor] changes into a hand over a link.",
+          "tr": "İmleç bir bağlantının üzerinde ele dönüşüyor.",
+          "de": "Über einem Link wird der Mauszeiger zur Hand.",
+          "fr": "Le curseur se transforme en main au-dessus d'un lien.",
+          "it": "Sopra un link il cursore diventa una mano.",
+          "es": "El cursor se convierte en una mano sobre un enlace."
+        }
+      ]
+    },
+    {
+      "id": "precursor",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "pre-",
+        "curs",
+        "-or"
+      ],
+      "gloss": {
+        "en": "something that comes before and leads to something else (literally: a runner before)",
+        "tr": "öncü, habercisi",
+        "de": "der Vorläufer",
+        "fr": "le précurseur",
+        "it": "il precursore",
+        "es": "el precursor"
+      },
+      "sentences": [
+        {
+          "en": "The abacus was a [precursor] of the calculator.",
+          "tr": "Abaküs hesap makinesinin öncüsüydü.",
+          "de": "Der Abakus war ein Vorläufer des Taschenrechners.",
+          "fr": "L'abaque était un précurseur de la calculatrice.",
+          "it": "L'abaco è stato un precursore della calcolatrice.",
+          "es": "El ábaco fue un precursor de la calculadora."
+        },
+        {
+          "en": "Dark clouds are a [precursor] of rain.",
+          "tr": "Kara bulutlar yağmurun habercisidir.",
+          "de": "Dunkle Wolken sind Vorboten von Regen.",
+          "fr": "Les nuages noirs annoncent la pluie.",
+          "it": "Le nuvole scure annunciano la pioggia.",
+          "es": "Las nubes negras son precursoras de lluvia."
+        }
+      ]
+    },
+    {
+      "id": "cursory",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "curs",
+        "-ory"
+      ],
+      "gloss": {
+        "en": "quick and not careful (literally: running)",
+        "tr": "üstünkörü, yüzeysel",
+        "de": "flüchtig, oberflächlich",
+        "fr": "superficiel, rapide",
+        "it": "rapido, superficiale",
+        "es": "rápido, superficial"
+      },
+      "sentences": [
+        {
+          "en": "He gave the report only a [cursory] glance.",
+          "tr": "Rapora sadece üstünkörü bir göz attı.",
+          "de": "Er warf nur einen flüchtigen Blick auf den Bericht.",
+          "fr": "Il n'a jeté qu'un coup d'œil rapide au rapport.",
+          "it": "Ha dato solo un'occhiata rapida al rapporto.",
+          "es": "Solo echó un vistazo rápido al informe."
+        },
+        {
+          "en": "A [cursory] check found no problems.",
+          "tr": "Yüzeysel bir kontrolde hiçbir sorun bulunmadı.",
+          "de": "Eine oberflächliche Prüfung ergab keine Probleme.",
+          "fr": "Une vérification superficielle n'a révélé aucun problème.",
+          "it": "Un controllo superficiale non ha trovato problemi.",
+          "es": "Una revisión superficial no encontró problemas."
+        }
+      ]
+    },
+    {
+      "id": "course",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "course"
+      ],
+      "gloss": {
+        "en": "a set of classes; a direction or path; one part of a meal (literally: a running)",
+        "tr": "kurs, ders; rota; yemeğin bir bölümü",
+        "de": "der Kurs; der Verlauf; der Gang",
+        "fr": "le cours; la trajectoire; le plat",
+        "it": "il corso; la rotta; la portata",
+        "es": "el curso; el rumbo; el plato"
+      },
+      "sentences": [
+        {
+          "en": "I'm taking a Spanish [course] this summer.",
+          "tr": "Bu yaz İspanyolca kursuna gidiyorum.",
+          "de": "Ich mache diesen Sommer einen Spanischkurs.",
+          "fr": "Je suis un cours d'espagnol cet été.",
+          "it": "Quest'estate seguo un corso di spagnolo.",
+          "es": "Este verano hago un curso de español."
+        },
+        {
+          "en": "The main [course] was fish with rice.",
+          "tr": "Ana yemek pilavlı balıktı.",
+          "de": "Der Hauptgang war Fisch mit Reis.",
+          "fr": "Le plat principal était du poisson avec du riz.",
+          "it": "La portata principale era pesce con riso.",
+          "es": "El plato principal fue pescado con arroz."
+        }
+      ]
+    },
+    {
+      "id": "discourse",
+      "pos": "noun",
+      "parent": "course",
+      "parts": [
+        "dis-",
+        "course"
+      ],
+      "gloss": {
+        "en": "serious discussion or writing about a subject (literally: a running about)",
+        "tr": "söylem; tartışma",
+        "de": "der Diskurs",
+        "fr": "le discours, le débat",
+        "it": "il discorso, il dibattito",
+        "es": "el discurso, el debate"
+      },
+      "sentences": [
+        {
+          "en": "Social media has changed political [discourse].",
+          "tr": "Sosyal medya siyasi söylemi değiştirdi.",
+          "de": "Soziale Medien haben den politischen Diskurs verändert.",
+          "fr": "Les réseaux sociaux ont changé le débat politique.",
+          "it": "I social hanno cambiato il dibattito politico.",
+          "es": "Las redes sociales han cambiado el debate político."
+        },
+        {
+          "en": "The book is a [discourse] on happiness.",
+          "tr": "Kitap mutluluk üzerine bir inceleme.",
+          "de": "Das Buch ist eine Abhandlung über das Glück.",
+          "fr": "Le livre est un discours sur le bonheur.",
+          "it": "Il libro è un discorso sulla felicità.",
+          "es": "El libro es un discurso sobre la felicidad."
+        }
+      ]
+    },
+    {
+      "id": "recourse",
+      "pos": "noun",
+      "parent": "course",
+      "parts": [
+        "re-",
+        "course"
+      ],
+      "gloss": {
+        "en": "a way of getting help in a difficult situation (literally: a running back)",
+        "tr": "başvuru yolu, çare",
+        "de": "die Zuflucht, der Rückgriff",
+        "fr": "le recours",
+        "it": "il ricorso",
+        "es": "el recurso"
+      },
+      "sentences": [
+        {
+          "en": "Without a contract, you have no legal [recourse].",
+          "tr": "Sözleşme olmadan hukuki bir başvuru yolun yok.",
+          "de": "Ohne Vertrag hast du keine rechtliche Handhabe.",
+          "fr": "Sans contrat, tu n'as aucun recours juridique.",
+          "it": "Senza contratto non hai alcun ricorso legale.",
+          "es": "Sin contrato, no tienes ningún recurso legal."
+        },
+        {
+          "en": "Surgery is the last [recourse].",
+          "tr": "Ameliyat son çare.",
+          "de": "Eine Operation ist das letzte Mittel.",
+          "fr": "La chirurgie est le dernier recours.",
+          "it": "La chirurgia è l'ultimo ricorso.",
+          "es": "La cirugía es el último recurso."
+        }
+      ]
+    },
+    {
+      "id": "concourse",
+      "pos": "noun",
+      "parent": "course",
+      "parts": [
+        "con-",
+        "course"
+      ],
+      "gloss": {
+        "en": "a large open hall in a station or airport (literally: a running together)",
+        "tr": "geniş salon, bekleme salonu",
+        "de": "die Halle",
+        "fr": "le hall",
+        "it": "l'atrio, la sala",
+        "es": "el vestíbulo"
+      },
+      "sentences": [
+        {
+          "en": "Meet me in the main [concourse] of the station.",
+          "tr": "Benimle istasyonun ana salonunda buluş.",
+          "de": "Triff mich in der Haupthalle des Bahnhofs.",
+          "fr": "Retrouve-moi dans le hall principal de la gare.",
+          "it": "Vediamoci nell'atrio principale della stazione.",
+          "es": "Quedamos en el vestíbulo principal de la estación."
+        },
+        {
+          "en": "The airport [concourse] was full of travellers.",
+          "tr": "Havalimanı salonu yolcularla doluydu.",
+          "de": "Die Flughafenhalle war voller Reisender.",
+          "fr": "Le hall de l'aéroport était plein de voyageurs.",
+          "it": "La sala dell'aeroporto era piena di viaggiatori.",
+          "es": "El vestíbulo del aeropuerto estaba lleno de viajeros."
+        }
+      ]
+    },
+    {
+      "id": "courier",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "cour",
+        "-ier"
+      ],
+      "gloss": {
+        "en": "a person or company that delivers packages (literally: a runner)",
+        "tr": "kurye",
+        "de": "der Kurier",
+        "fr": "le coursier",
+        "it": "il corriere",
+        "es": "el mensajero"
+      },
+      "sentences": [
+        {
+          "en": "A [courier] delivered the package this morning.",
+          "tr": "Bu sabah bir kurye paketi getirdi.",
+          "de": "Ein Kurier hat heute Morgen das Paket gebracht.",
+          "fr": "Un coursier a livré le colis ce matin.",
+          "it": "Un corriere ha consegnato il pacco stamattina.",
+          "es": "Un mensajero entregó el paquete esta mañana."
+        },
+        {
+          "en": "Send the documents by [courier].",
+          "tr": "Belgeleri kuryeyle gönder.",
+          "de": "Schick die Dokumente per Kurier.",
+          "fr": "Envoie les documents par coursier.",
+          "it": "Manda i documenti con un corriere.",
+          "es": "Envía los documentos por mensajería."
+        }
+      ]
+    }
+  ]
+}

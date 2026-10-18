@@ -1,0 +1,627 @@
+{
+  "id": "spir",
+  "forms": [
+    "spir",
+    "spire",
+    "pir",
+    "pire"
+  ],
+  "origin": "la",
+  "etymon": "spirare",
+  "meaning": {
+    "en": "to breathe",
+    "tr": "nefes almak, solumak",
+    "de": "atmen",
+    "fr": "respirer, souffler",
+    "it": "respirare, soffiare",
+    "es": "respirar, soplar"
+  },
+  "words": [
+    {
+      "id": "spirit",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "spir",
+        "-it"
+      ],
+      "gloss": {
+        "en": "the part of a person that is not the body; mood or energy (literally: breath)",
+        "tr": "ruh; moral, coşku",
+        "de": "der Geist; die Stimmung",
+        "fr": "l'esprit; le moral",
+        "it": "lo spirito; il morale",
+        "es": "el espíritu; el ánimo"
+      },
+      "sentences": [
+        {
+          "en": "The team showed great [spirit].",
+          "tr": "Takım büyük bir mücadele ruhu gösterdi.",
+          "de": "Die Mannschaft zeigte großen Kampfgeist.",
+          "fr": "L'équipe a fait preuve d'un grand esprit.",
+          "it": "La squadra ha mostrato grande spirito.",
+          "es": "El equipo mostró un gran espíritu."
+        },
+        {
+          "en": "Music lifts my [spirits].",
+          "tr": "Müzik moralimi yükseltiyor.",
+          "de": "Musik hebt meine Stimmung.",
+          "fr": "La musique me remonte le moral.",
+          "it": "La musica mi tira su il morale.",
+          "es": "La música me levanta el ánimo."
+        }
+      ]
+    },
+    {
+      "id": "spiritual",
+      "pos": "adjective",
+      "parent": "spirit",
+      "parts": [
+        "spir",
+        "-it",
+        "-ual"
+      ],
+      "gloss": {
+        "en": "related to the soul or religion, not physical things",
+        "tr": "ruhani, manevi",
+        "de": "spirituell, geistig",
+        "fr": "spirituel",
+        "it": "spirituale",
+        "es": "espiritual"
+      },
+      "sentences": [
+        {
+          "en": "The temple is a [spiritual] place for many people.",
+          "tr": "Tapınak birçok insan için manevi bir yer.",
+          "de": "Der Tempel ist für viele Menschen ein spiritueller Ort.",
+          "fr": "Le temple est un lieu spirituel pour beaucoup.",
+          "it": "Il tempio è un luogo spirituale per molti.",
+          "es": "El templo es un lugar espiritual para mucha gente."
+        },
+        {
+          "en": "She went on a [spiritual] journey in India.",
+          "tr": "Hindistan'da manevi bir yolculuğa çıktı.",
+          "de": "Sie machte eine spirituelle Reise durch Indien.",
+          "fr": "Elle a fait un voyage spirituel en Inde.",
+          "it": "Ha fatto un viaggio spirituale in India.",
+          "es": "Hizo un viaje espiritual por la India."
+        }
+      ]
+    },
+    {
+      "id": "dispirited",
+      "pos": "adjective",
+      "parent": "spirit",
+      "parts": [
+        "di-",
+        "spir",
+        "-it",
+        "-ed"
+      ],
+      "gloss": {
+        "en": "having lost hope or energy",
+        "tr": "morali bozuk, şevki kırılmış",
+        "de": "entmutigt, niedergeschlagen",
+        "fr": "découragé, abattu",
+        "it": "scoraggiato, avvilito",
+        "es": "desanimado, abatido"
+      },
+      "sentences": [
+        {
+          "en": "The players looked tired and [dispirited].",
+          "tr": "Oyuncular yorgun ve moralsiz görünüyordu.",
+          "de": "Die Spieler wirkten müde und entmutigt.",
+          "fr": "Les joueurs avaient l'air fatigués et découragés.",
+          "it": "I giocatori sembravano stanchi e scoraggiati.",
+          "es": "Los jugadores parecían cansados y desanimados."
+        },
+        {
+          "en": "Don't be [dispirited] by one bad grade.",
+          "tr": "Tek bir kötü not yüzünden moralini bozma.",
+          "de": "Lass dich von einer schlechten Note nicht entmutigen.",
+          "fr": "Ne te laisse pas décourager par une mauvaise note.",
+          "it": "Non scoraggiarti per un brutto voto.",
+          "es": "No te desanimes por una mala nota."
+        }
+      ]
+    },
+    {
+      "id": "inspire",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "in-",
+        "spire"
+      ],
+      "gloss": {
+        "en": "to give someone the wish or idea to do something (literally: to breathe into)",
+        "tr": "ilham vermek",
+        "de": "inspirieren, anregen",
+        "fr": "inspirer",
+        "it": "ispirare",
+        "es": "inspirar"
+      },
+      "sentences": [
+        {
+          "en": "Her story [inspired] me to learn to swim.",
+          "tr": "Onun hikâyesi bana yüzmeyi öğrenmek için ilham verdi.",
+          "de": "Ihre Geschichte hat mich inspiriert, schwimmen zu lernen.",
+          "fr": "Son histoire m'a inspiré à apprendre à nager.",
+          "it": "La sua storia mi ha ispirato a imparare a nuotare.",
+          "es": "Su historia me inspiró a aprender a nadar."
+        },
+        {
+          "en": "The film was [inspired] by a true story.",
+          "tr": "Film gerçek bir hikâyeden esinlendi.",
+          "de": "Der Film wurde von einer wahren Geschichte inspiriert.",
+          "fr": "Le film s'inspire d'une histoire vraie.",
+          "it": "Il film è ispirato a una storia vera.",
+          "es": "La película está inspirada en una historia real."
+        }
+      ]
+    },
+    {
+      "id": "inspiration",
+      "pos": "noun",
+      "parent": "inspire",
+      "parts": [
+        "in-",
+        "spir",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "something that gives you new ideas or the wish to act",
+        "tr": "ilham, esin kaynağı",
+        "de": "die Inspiration, die Anregung",
+        "fr": "l'inspiration",
+        "it": "l'ispirazione",
+        "es": "la inspiración"
+      },
+      "sentences": [
+        {
+          "en": "Nature is my biggest [inspiration].",
+          "tr": "Doğa en büyük ilham kaynağım.",
+          "de": "Die Natur ist meine größte Inspiration.",
+          "fr": "La nature est ma plus grande source d'inspiration.",
+          "it": "La natura è la mia più grande ispirazione.",
+          "es": "La naturaleza es mi mayor inspiración."
+        },
+        {
+          "en": "I'm waiting for [inspiration] to strike.",
+          "tr": "İlham gelmesini bekliyorum.",
+          "de": "Ich warte darauf, dass mich die Inspiration packt.",
+          "fr": "J'attends que l'inspiration vienne.",
+          "it": "Aspetto che arrivi l'ispirazione.",
+          "es": "Estoy esperando a que me llegue la inspiración."
+        }
+      ]
+    },
+    {
+      "id": "inspiring",
+      "pos": "adjective",
+      "parent": "inspire",
+      "parts": [
+        "in-",
+        "spir",
+        "-ing"
+      ],
+      "gloss": {
+        "en": "making you want to do something good",
+        "tr": "ilham verici",
+        "de": "inspirierend",
+        "fr": "inspirant",
+        "it": "che ispira, stimolante",
+        "es": "inspirador"
+      },
+      "sentences": [
+        {
+          "en": "It was an [inspiring] talk.",
+          "tr": "İlham verici bir konuşmaydı.",
+          "de": "Es war ein inspirierender Vortrag.",
+          "fr": "C'était une conférence inspirante.",
+          "it": "È stato un discorso stimolante.",
+          "es": "Fue una charla inspiradora."
+        },
+        {
+          "en": "She is an [inspiring] teacher.",
+          "tr": "İlham veren bir öğretmen.",
+          "de": "Sie ist eine inspirierende Lehrerin.",
+          "fr": "C'est une enseignante inspirante.",
+          "it": "È un'insegnante che ispira.",
+          "es": "Es una profesora inspiradora."
+        }
+      ]
+    },
+    {
+      "id": "aspire",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "a-",
+        "spire"
+      ],
+      "gloss": {
+        "en": "to strongly want to achieve something (literally: to breathe toward)",
+        "tr": "arzulamak, hedeflemek",
+        "de": "streben nach",
+        "fr": "aspirer à",
+        "it": "aspirare a",
+        "es": "aspirar a"
+      },
+      "sentences": [
+        {
+          "en": "She [aspires] to be a doctor.",
+          "tr": "Doktor olmayı hedefliyor.",
+          "de": "Sie strebt danach, Ärztin zu werden.",
+          "fr": "Elle aspire à devenir médecin.",
+          "it": "Aspira a diventare medico.",
+          "es": "Aspira a ser médica."
+        },
+        {
+          "en": "Many young players [aspire] to play abroad.",
+          "tr": "Birçok genç oyuncu yurt dışında oynamayı arzuluyor.",
+          "de": "Viele junge Spieler träumen davon, im Ausland zu spielen.",
+          "fr": "Beaucoup de jeunes joueurs aspirent à jouer à l'étranger.",
+          "it": "Molti giovani giocatori aspirano a giocare all'estero.",
+          "es": "Muchos jugadores jóvenes aspiran a jugar en el extranjero."
+        }
+      ]
+    },
+    {
+      "id": "aspiration",
+      "pos": "noun",
+      "parent": "aspire",
+      "parts": [
+        "a-",
+        "spir",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "a strong hope or goal",
+        "tr": "hedef, özlem",
+        "de": "das Streben, das Ziel",
+        "fr": "l'aspiration",
+        "it": "l'aspirazione",
+        "es": "la aspiración"
+      },
+      "sentences": [
+        {
+          "en": "Her [aspiration] is to open her own café.",
+          "tr": "Hedefi kendi kafesini açmak.",
+          "de": "Ihr Ziel ist es, ein eigenes Café zu eröffnen.",
+          "fr": "Son aspiration est d'ouvrir son propre café.",
+          "it": "La sua aspirazione è aprire un bar tutto suo.",
+          "es": "Su aspiración es abrir su propia cafetería."
+        },
+        {
+          "en": "Parents often have high [aspirations] for their children.",
+          "tr": "Ebeveynlerin çocukları için genellikle büyük hayalleri olur.",
+          "de": "Eltern haben oft hohe Erwartungen an ihre Kinder.",
+          "fr": "Les parents ont souvent de grandes aspirations pour leurs enfants.",
+          "it": "I genitori hanno spesso grandi aspirazioni per i figli.",
+          "es": "Los padres suelen tener grandes aspiraciones para sus hijos."
+        }
+      ]
+    },
+    {
+      "id": "expire",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ex-",
+        "pire"
+      ],
+      "gloss": {
+        "en": "to come to an end, especially a document (literally: to breathe out)",
+        "tr": "süresi dolmak",
+        "de": "ablaufen",
+        "fr": "expirer",
+        "it": "scadere",
+        "es": "caducar, vencer"
+      },
+      "sentences": [
+        {
+          "en": "My passport [expires] next month.",
+          "tr": "Pasaportumun süresi gelecek ay doluyor.",
+          "de": "Mein Reisepass läuft nächsten Monat ab.",
+          "fr": "Mon passeport expire le mois prochain.",
+          "it": "Il mio passaporto scade il mese prossimo.",
+          "es": "Mi pasaporte caduca el mes que viene."
+        },
+        {
+          "en": "The offer has [expired].",
+          "tr": "Kampanyanın süresi doldu.",
+          "de": "Das Angebot ist abgelaufen.",
+          "fr": "L'offre a expiré.",
+          "it": "L'offerta è scaduta.",
+          "es": "La oferta ha vencido."
+        }
+      ]
+    },
+    {
+      "id": "expiry",
+      "pos": "noun",
+      "parent": "expire",
+      "parts": [
+        "ex-",
+        "pir",
+        "-y"
+      ],
+      "gloss": {
+        "en": "the end of the time when something can be used",
+        "tr": "son kullanma, süre bitimi",
+        "de": "der Ablauf; das Verfallsdatum",
+        "fr": "l'expiration",
+        "it": "la scadenza",
+        "es": "la caducidad, el vencimiento"
+      },
+      "sentences": [
+        {
+          "en": "Check the [expiry] date on the milk.",
+          "tr": "Sütün son kullanma tarihine bak.",
+          "de": "Prüf das Verfallsdatum auf der Milch.",
+          "fr": "Vérifie la date d'expiration sur le lait.",
+          "it": "Controlla la data di scadenza del latte.",
+          "es": "Mira la fecha de caducidad de la leche."
+        },
+        {
+          "en": "Renew your card before its [expiry].",
+          "tr": "Kartının süresi dolmadan yenile.",
+          "de": "Verlängere deine Karte vor ihrem Ablauf.",
+          "fr": "Renouvelle ta carte avant son expiration.",
+          "it": "Rinnova la carta prima della scadenza.",
+          "es": "Renueva tu tarjeta antes de su vencimiento."
+        }
+      ]
+    },
+    {
+      "id": "conspire",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "con-",
+        "spire"
+      ],
+      "gloss": {
+        "en": "to plan something secretly with others (literally: to breathe together)",
+        "tr": "komplo kurmak, gizlice anlaşmak",
+        "de": "sich verschwören",
+        "fr": "conspirer, comploter",
+        "it": "cospirare",
+        "es": "conspirar"
+      },
+      "sentences": [
+        {
+          "en": "They [conspired] to steal the painting.",
+          "tr": "Tabloyu çalmak için komplo kurdular.",
+          "de": "Sie verschworen sich, das Gemälde zu stehlen.",
+          "fr": "Ils ont comploté pour voler le tableau.",
+          "it": "Hanno cospirato per rubare il quadro.",
+          "es": "Conspiraron para robar el cuadro."
+        },
+        {
+          "en": "Everything seemed to [conspire] against us that day.",
+          "tr": "O gün her şey bize karşı birleşmiş gibiydi.",
+          "de": "An diesem Tag schien sich alles gegen uns verschworen zu haben.",
+          "fr": "Ce jour-là, tout semblait conspirer contre nous.",
+          "it": "Quel giorno tutto sembrava cospirare contro di noi.",
+          "es": "Ese día todo parecía conspirar contra nosotros."
+        }
+      ]
+    },
+    {
+      "id": "conspiracy",
+      "pos": "noun",
+      "parent": "conspire",
+      "parts": [
+        "con-",
+        "spir",
+        "-acy"
+      ],
+      "gloss": {
+        "en": "a secret plan by a group to do something bad",
+        "tr": "komplo",
+        "de": "die Verschwörung",
+        "fr": "la conspiration, le complot",
+        "it": "la cospirazione, il complotto",
+        "es": "la conspiración"
+      },
+      "sentences": [
+        {
+          "en": "He believes every [conspiracy] theory he reads.",
+          "tr": "Okuduğu her komplo teorisine inanıyor.",
+          "de": "Er glaubt jede Verschwörungstheorie, die er liest.",
+          "fr": "Il croit à toutes les théories du complot qu'il lit.",
+          "it": "Crede a ogni teoria del complotto che legge.",
+          "es": "Se cree todas las teorías de la conspiración que lee."
+        },
+        {
+          "en": "The police uncovered a [conspiracy] to rob the bank.",
+          "tr": "Polis bankayı soymaya yönelik bir komployu ortaya çıkardı.",
+          "de": "Die Polizei deckte eine Verschwörung zum Bankraub auf.",
+          "fr": "La police a découvert un complot pour braquer la banque.",
+          "it": "La polizia ha scoperto un complotto per rapinare la banca.",
+          "es": "La policía destapó una conspiración para atracar el banco."
+        }
+      ]
+    },
+    {
+      "id": "respiration",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "re-",
+        "spir",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "breathing (literally: breathing again and again)",
+        "tr": "solunum",
+        "de": "die Atmung",
+        "fr": "la respiration",
+        "it": "la respirazione",
+        "es": "la respiración"
+      },
+      "sentences": [
+        {
+          "en": "The doctor checked her pulse and [respiration].",
+          "tr": "Doktor nabzını ve solunumunu kontrol etti.",
+          "de": "Die Ärztin prüfte Puls und Atmung.",
+          "fr": "Le médecin a vérifié son pouls et sa respiration.",
+          "it": "Il medico ha controllato polso e respirazione.",
+          "es": "La médica comprobó su pulso y su respiración."
+        },
+        {
+          "en": "Plants use oxygen in [respiration].",
+          "tr": "Bitkiler solunumda oksijen kullanır.",
+          "de": "Pflanzen verbrauchen bei der Atmung Sauerstoff.",
+          "fr": "Les plantes utilisent de l'oxygène pour la respiration.",
+          "it": "Le piante usano ossigeno nella respirazione.",
+          "es": "Las plantas usan oxígeno en la respiración."
+        }
+      ]
+    },
+    {
+      "id": "respiratory",
+      "pos": "adjective",
+      "parent": "respiration",
+      "parts": [
+        "re-",
+        "spir",
+        "-atory"
+      ],
+      "gloss": {
+        "en": "related to breathing",
+        "tr": "solunumla ilgili",
+        "de": "Atem-, Atemwegs-",
+        "fr": "respiratoire",
+        "it": "respiratorio",
+        "es": "respiratorio"
+      },
+      "sentences": [
+        {
+          "en": "Smoking causes [respiratory] diseases.",
+          "tr": "Sigara solunum yolu hastalıklarına yol açar.",
+          "de": "Rauchen verursacht Atemwegserkrankungen.",
+          "fr": "Le tabac provoque des maladies respiratoires.",
+          "it": "Il fumo causa malattie respiratorie.",
+          "es": "Fumar causa enfermedades respiratorias."
+        },
+        {
+          "en": "The lungs are part of the [respiratory] system.",
+          "tr": "Akciğerler solunum sisteminin bir parçasıdır.",
+          "de": "Die Lunge ist Teil des Atmungssystems.",
+          "fr": "Les poumons font partie de l'appareil respiratoire.",
+          "it": "I polmoni fanno parte dell'apparato respiratorio.",
+          "es": "Los pulmones forman parte del aparato respiratorio."
+        }
+      ]
+    },
+    {
+      "id": "perspire",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "per-",
+        "spire"
+      ],
+      "gloss": {
+        "en": "to sweat (literally: to breathe through)",
+        "tr": "terlemek",
+        "de": "schwitzen",
+        "fr": "transpirer",
+        "it": "sudare, traspirare",
+        "es": "sudar, transpirar"
+      },
+      "sentences": [
+        {
+          "en": "Everyone [perspires] in this heat.",
+          "tr": "Bu sıcakta herkes terliyor.",
+          "de": "Bei dieser Hitze schwitzt jeder.",
+          "fr": "Tout le monde transpire par cette chaleur.",
+          "it": "Con questo caldo sudano tutti.",
+          "es": "Con este calor todo el mundo suda."
+        },
+        {
+          "en": "He [perspired] heavily before the exam.",
+          "tr": "Sınavdan önce çok terledi.",
+          "de": "Vor der Prüfung schwitzte er stark.",
+          "fr": "Il transpirait beaucoup avant l'examen.",
+          "it": "Sudava molto prima dell'esame.",
+          "es": "Sudaba mucho antes del examen."
+        }
+      ]
+    },
+    {
+      "id": "perspiration",
+      "pos": "noun",
+      "parent": "perspire",
+      "parts": [
+        "per-",
+        "spir",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "sweat",
+        "tr": "ter",
+        "de": "der Schweiß",
+        "fr": "la transpiration, la sueur",
+        "it": "il sudore, la traspirazione",
+        "es": "el sudor, la transpiración"
+      },
+      "sentences": [
+        {
+          "en": "Drops of [perspiration] ran down his face.",
+          "tr": "Yüzünden ter damlaları akıyordu.",
+          "de": "Schweißtropfen liefen ihm übers Gesicht.",
+          "fr": "Des gouttes de sueur coulaient sur son visage.",
+          "it": "Gocce di sudore gli scendevano sul viso.",
+          "es": "Le caían gotas de sudor por la cara."
+        },
+        {
+          "en": "Genius is one percent inspiration and ninety-nine percent [perspiration].",
+          "tr": "Deha yüzde bir ilham, yüzde doksan dokuz terdir.",
+          "de": "Genie ist ein Prozent Inspiration und neunundneunzig Prozent Transpiration.",
+          "fr": "Le génie, c'est un pour cent d'inspiration et quatre-vingt-dix-neuf pour cent de transpiration.",
+          "it": "Il genio è per l'uno per cento ispirazione e per il novantanove per cento traspirazione.",
+          "es": "El genio es un uno por ciento de inspiración y un noventa y nueve por ciento de transpiración."
+        }
+      ]
+    },
+    {
+      "id": "transpire",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "tran-",
+        "spire"
+      ],
+      "gloss": {
+        "en": "to become known; to happen (literally: to breathe across, to leak out)",
+        "tr": "ortaya çıkmak; olmak",
+        "de": "sich herausstellen; geschehen",
+        "fr": "s'avérer; se passer",
+        "it": "emergere; accadere",
+        "es": "resultar; suceder"
+      },
+      "sentences": [
+        {
+          "en": "It [transpired] that he had never been to Paris.",
+          "tr": "Hiç Paris'e gitmediği ortaya çıktı.",
+          "de": "Es stellte sich heraus, dass er nie in Paris gewesen war.",
+          "fr": "Il s'est avéré qu'il n'était jamais allé à Paris.",
+          "it": "È emerso che non era mai stato a Parigi.",
+          "es": "Resultó que nunca había estado en París."
+        },
+        {
+          "en": "Nobody knows what [transpired] at the meeting.",
+          "tr": "Toplantıda ne olduğunu kimse bilmiyor.",
+          "de": "Niemand weiß, was bei dem Treffen geschah.",
+          "fr": "Personne ne sait ce qui s'est passé à la réunion.",
+          "it": "Nessuno sa cosa sia successo alla riunione.",
+          "es": "Nadie sabe qué sucedió en la reunión."
+        }
+      ]
+    }
+  ]
+}

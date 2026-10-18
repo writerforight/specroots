@@ -1,0 +1,552 @@
+{
+  "id": "voc",
+  "forms": [
+    "voc",
+    "voke",
+    "voice",
+    "vow"
+  ],
+  "origin": "la",
+  "etymon": "vocare, vox",
+  "meaning": {
+    "en": "to call; voice",
+    "tr": "seslenmek, çağırmak; ses",
+    "de": "rufen; die Stimme",
+    "fr": "appeler; la voix",
+    "it": "chiamare; la voce",
+    "es": "llamar; la voz"
+  },
+  "words": [
+    {
+      "id": "voice",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "voice"
+      ],
+      "gloss": {
+        "en": "the sound you make when you speak or sing (from Latin vox, through French)",
+        "tr": "ses",
+        "de": "die Stimme",
+        "fr": "la voix",
+        "it": "la voce",
+        "es": "la voz"
+      },
+      "sentences": [
+        {
+          "en": "She has a beautiful [voice].",
+          "tr": "Çok güzel bir sesi var.",
+          "de": "Sie hat eine schöne Stimme.",
+          "fr": "Elle a une belle voix.",
+          "it": "Ha una bella voce.",
+          "es": "Tiene una voz preciosa."
+        },
+        {
+          "en": "I lost my [voice] after the concert.",
+          "tr": "Konserden sonra sesim kısıldı.",
+          "de": "Nach dem Konzert war meine Stimme weg.",
+          "fr": "J'ai perdu ma voix après le concert.",
+          "it": "Dopo il concerto ho perso la voce.",
+          "es": "Me quedé sin voz después del concierto."
+        }
+      ]
+    },
+    {
+      "id": "vocal",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "voc",
+        "-al"
+      ],
+      "gloss": {
+        "en": "related to the voice; expressing opinions loudly",
+        "tr": "sesle ilgili, vokal; sesini yükselten",
+        "de": "stimmlich, Gesangs-; lautstark",
+        "fr": "vocal; qui se fait entendre",
+        "it": "vocale; che si fa sentire",
+        "es": "vocal; que se hace oír"
+      },
+      "sentences": [
+        {
+          "en": "The singer had [vocal] training for years.",
+          "tr": "Şarkıcı yıllarca şan eğitimi aldı.",
+          "de": "Die Sängerin hatte jahrelang Gesangsunterricht.",
+          "fr": "La chanteuse a pris des cours de chant pendant des années.",
+          "it": "La cantante ha studiato canto per anni.",
+          "es": "La cantante recibió clases de canto durante años."
+        },
+        {
+          "en": "She is a [vocal] critic of the plan.",
+          "tr": "Planı yüksek sesle eleştirenlerden biri.",
+          "de": "Sie ist eine lautstarke Kritikerin des Plans.",
+          "fr": "Elle critique ouvertement le projet.",
+          "it": "È una critica molto esplicita del piano.",
+          "es": "Es una crítica muy vocal del plan."
+        }
+      ]
+    },
+    {
+      "id": "vocalist",
+      "pos": "noun",
+      "parent": "vocal",
+      "parts": [
+        "voc",
+        "-al",
+        "-ist"
+      ],
+      "gloss": {
+        "en": "a singer, especially in a band",
+        "tr": "solist, şarkıcı",
+        "de": "der Sänger, die Sängerin",
+        "fr": "le chanteur",
+        "it": "il cantante",
+        "es": "el vocalista, el cantante"
+      },
+      "sentences": [
+        {
+          "en": "The band is looking for a new [vocalist].",
+          "tr": "Grup yeni bir solist arıyor.",
+          "de": "Die Band sucht einen neuen Sänger.",
+          "fr": "Le groupe cherche un nouveau chanteur.",
+          "it": "La band cerca un nuovo cantante.",
+          "es": "El grupo busca un nuevo vocalista."
+        },
+        {
+          "en": "She started as a jazz [vocalist].",
+          "tr": "Caz şarkıcısı olarak başladı.",
+          "de": "Sie begann als Jazzsängerin.",
+          "fr": "Elle a commencé comme chanteuse de jazz.",
+          "it": "Ha iniziato come cantante jazz.",
+          "es": "Empezó como cantante de jazz."
+        }
+      ]
+    },
+    {
+      "id": "vowel",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "vow",
+        "-el"
+      ],
+      "gloss": {
+        "en": "a sound like a, e, i, o, u (from Latin vocalis, 'having a voice')",
+        "tr": "ünlü (harf)",
+        "de": "der Vokal, der Selbstlaut",
+        "fr": "la voyelle",
+        "it": "la vocale",
+        "es": "la vocal"
+      },
+      "sentences": [
+        {
+          "en": "Turkish has eight [vowels].",
+          "tr": "Türkçede sekiz ünlü vardır.",
+          "de": "Das Türkische hat acht Vokale.",
+          "fr": "Le turc a huit voyelles.",
+          "it": "Il turco ha otto vocali.",
+          "es": "El turco tiene ocho vocales."
+        },
+        {
+          "en": "\"Sky\" is a word without a [vowel] letter.",
+          "tr": "\"Sky\" ünlü harf içermeyen bir kelime.",
+          "de": "„Sky“ ist ein Wort ohne Vokalbuchstaben.",
+          "fr": "« Sky » est un mot sans lettre voyelle.",
+          "it": "«Sky» è una parola senza lettere vocali.",
+          "es": "«Sky» es una palabra sin letras vocales."
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "voc",
+        "-abulary"
+      ],
+      "gloss": {
+        "en": "all the words a person knows or a language has (literally: a list of names, of things called)",
+        "tr": "kelime dağarcığı, söz varlığı",
+        "de": "der Wortschatz",
+        "fr": "le vocabulaire",
+        "it": "il vocabolario, il lessico",
+        "es": "el vocabulario"
+      },
+      "sentences": [
+        {
+          "en": "Reading helps you build your [vocabulary].",
+          "tr": "Okumak kelime dağarcığını geliştirmene yardım eder.",
+          "de": "Lesen hilft dir, deinen Wortschatz zu erweitern.",
+          "fr": "La lecture t'aide à enrichir ton vocabulaire.",
+          "it": "Leggere ti aiuta ad arricchire il vocabolario.",
+          "es": "Leer te ayuda a ampliar tu vocabulario."
+        },
+        {
+          "en": "This app teaches [vocabulary] through roots.",
+          "tr": "Bu uygulama kelimeleri kökleri üzerinden öğretiyor.",
+          "de": "Diese App vermittelt Wortschatz über Wurzeln.",
+          "fr": "Cette appli enseigne le vocabulaire par les racines.",
+          "it": "Questa app insegna il lessico attraverso le radici.",
+          "es": "Esta aplicación enseña vocabulario a través de las raíces."
+        }
+      ]
+    },
+    {
+      "id": "vocation",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "voc",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "a strong feeling that a job is right for you (literally: a calling)",
+        "tr": "meslek, iç çağrı",
+        "de": "die Berufung",
+        "fr": "la vocation",
+        "it": "la vocazione",
+        "es": "la vocación"
+      },
+      "sentences": [
+        {
+          "en": "Teaching is her true [vocation].",
+          "tr": "Öğretmenlik onun gerçek mesleği.",
+          "de": "Unterrichten ist ihre wahre Berufung.",
+          "fr": "L'enseignement est sa véritable vocation.",
+          "it": "L'insegnamento è la sua vera vocazione.",
+          "es": "La enseñanza es su verdadera vocación."
+        },
+        {
+          "en": "He found his [vocation] late in life.",
+          "tr": "Ruhunu dolduran işi geç yaşta buldu.",
+          "de": "Er fand seine Berufung erst spät im Leben.",
+          "fr": "Il a trouvé sa vocation sur le tard.",
+          "it": "Ha trovato la sua vocazione in età avanzata.",
+          "es": "Encontró su vocación tarde en la vida."
+        }
+      ]
+    },
+    {
+      "id": "vocational",
+      "pos": "adjective",
+      "parent": "vocation",
+      "parts": [
+        "voc",
+        "-ation",
+        "-al"
+      ],
+      "gloss": {
+        "en": "teaching the skills for a particular job",
+        "tr": "mesleki",
+        "de": "beruflich, Berufs-",
+        "fr": "professionnel",
+        "it": "professionale",
+        "es": "profesional"
+      },
+      "sentences": [
+        {
+          "en": "He went to a [vocational] school to become an electrician.",
+          "tr": "Elektrikçi olmak için meslek okuluna gitti.",
+          "de": "Er besuchte eine Berufsschule, um Elektriker zu werden.",
+          "fr": "Il est allé dans un lycée professionnel pour devenir électricien.",
+          "it": "Ha frequentato una scuola professionale per diventare elettricista.",
+          "es": "Fue a una escuela de formación profesional para ser electricista."
+        },
+        {
+          "en": "The course offers [vocational] training.",
+          "tr": "Kurs mesleki eğitim veriyor.",
+          "de": "Der Kurs bietet eine Berufsausbildung.",
+          "fr": "Le cours propose une formation professionnelle.",
+          "it": "Il corso offre una formazione professionale.",
+          "es": "El curso ofrece formación profesional."
+        }
+      ]
+    },
+    {
+      "id": "advocate",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "ad-",
+        "voc",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "a person who publicly supports an idea; a lawyer (literally: one called to help)",
+        "tr": "savunucu; avukat",
+        "de": "der Befürworter; der Anwalt",
+        "fr": "le défenseur; l'avocat",
+        "it": "il sostenitore; l'avvocato",
+        "es": "el defensor; el abogado"
+      },
+      "sentences": [
+        {
+          "en": "She is a strong [advocate] of free education.",
+          "tr": "Ücretsiz eğitimin güçlü bir savunucusu.",
+          "de": "Sie ist eine entschiedene Befürworterin kostenloser Bildung.",
+          "fr": "Elle est une fervente défenseuse de l'éducation gratuite.",
+          "it": "È una convinta sostenitrice dell'istruzione gratuita.",
+          "es": "Es una firme defensora de la educación gratuita."
+        },
+        {
+          "en": "Every child needs an [advocate].",
+          "tr": "Her çocuğun bir savunucuya ihtiyacı var.",
+          "de": "Jedes Kind braucht einen Fürsprecher.",
+          "fr": "Chaque enfant a besoin d'un défenseur.",
+          "it": "Ogni bambino ha bisogno di qualcuno che lo difenda.",
+          "es": "Todo niño necesita a alguien que lo defienda."
+        }
+      ]
+    },
+    {
+      "id": "provoke",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "pro-",
+        "voke"
+      ],
+      "gloss": {
+        "en": "to cause a strong reaction, often anger (literally: to call forth)",
+        "tr": "kışkırtmak; yol açmak",
+        "de": "provozieren; auslösen",
+        "fr": "provoquer",
+        "it": "provocare",
+        "es": "provocar"
+      },
+      "sentences": [
+        {
+          "en": "Don't [provoke] the dog.",
+          "tr": "Köpeği kızdırma.",
+          "de": "Reiz den Hund nicht.",
+          "fr": "Ne provoque pas le chien.",
+          "it": "Non provocare il cane.",
+          "es": "No provoques al perro."
+        },
+        {
+          "en": "The speech [provoked] a lot of anger.",
+          "tr": "Konuşma büyük öfkeye yol açtı.",
+          "de": "Die Rede löste viel Wut aus.",
+          "fr": "Le discours a provoqué beaucoup de colère.",
+          "it": "Il discorso ha provocato molta rabbia.",
+          "es": "El discurso provocó mucho enfado."
+        }
+      ]
+    },
+    {
+      "id": "provocation",
+      "pos": "noun",
+      "parent": "provoke",
+      "parts": [
+        "pro-",
+        "voc",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "something done to make someone angry",
+        "tr": "kışkırtma, tahrik",
+        "de": "die Provokation",
+        "fr": "la provocation",
+        "it": "la provocazione",
+        "es": "la provocación"
+      },
+      "sentences": [
+        {
+          "en": "He gets angry at the slightest [provocation].",
+          "tr": "En ufak bir kışkırtmada sinirleniyor.",
+          "de": "Er wird bei der kleinsten Provokation wütend.",
+          "fr": "Il s'énerve à la moindre provocation.",
+          "it": "Si arrabbia alla minima provocazione.",
+          "es": "Se enfada a la mínima provocación."
+        },
+        {
+          "en": "The police said the attack was without [provocation].",
+          "tr": "Polis saldırının hiçbir tahrik olmadan yapıldığını söyledi.",
+          "de": "Die Polizei sagte, der Angriff sei ohne Provokation erfolgt.",
+          "fr": "La police a dit que l'attaque n'avait pas été provoquée.",
+          "it": "La polizia ha detto che l'attacco è avvenuto senza provocazione.",
+          "es": "La policía dijo que el ataque fue sin provocación."
+        }
+      ]
+    },
+    {
+      "id": "provocative",
+      "pos": "adjective",
+      "parent": "provoke",
+      "parts": [
+        "pro-",
+        "voc",
+        "-ative"
+      ],
+      "gloss": {
+        "en": "meant to cause a strong reaction or make people think",
+        "tr": "kışkırtıcı; düşündürücü",
+        "de": "provokant; anregend",
+        "fr": "provocateur",
+        "it": "provocatorio",
+        "es": "provocador"
+      },
+      "sentences": [
+        {
+          "en": "The article had a [provocative] title.",
+          "tr": "Makalenin kışkırtıcı bir başlığı vardı.",
+          "de": "Der Artikel hatte einen provokanten Titel.",
+          "fr": "L'article avait un titre provocateur.",
+          "it": "L'articolo aveva un titolo provocatorio.",
+          "es": "El artículo tenía un título provocador."
+        },
+        {
+          "en": "She asked a [provocative] question about freedom.",
+          "tr": "Özgürlük hakkında düşündürücü bir soru sordu.",
+          "de": "Sie stellte eine anregende Frage zur Freiheit.",
+          "fr": "Elle a posé une question provocatrice sur la liberté.",
+          "it": "Ha fatto una domanda provocatoria sulla libertà.",
+          "es": "Hizo una pregunta provocadora sobre la libertad."
+        }
+      ]
+    },
+    {
+      "id": "evoke",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "e-",
+        "voke"
+      ],
+      "gloss": {
+        "en": "to bring a memory or feeling into your mind (literally: to call out)",
+        "tr": "çağrıştırmak, uyandırmak",
+        "de": "hervorrufen, wecken",
+        "fr": "évoquer",
+        "it": "evocare",
+        "es": "evocar"
+      },
+      "sentences": [
+        {
+          "en": "The smell of bread [evokes] my childhood.",
+          "tr": "Ekmek kokusu bana çocukluğumu hatırlatıyor.",
+          "de": "Der Duft von Brot weckt Kindheitserinnerungen.",
+          "fr": "L'odeur du pain évoque mon enfance.",
+          "it": "Il profumo del pane evoca la mia infanzia.",
+          "es": "El olor a pan evoca mi infancia."
+        },
+        {
+          "en": "The music [evokes] a feeling of peace.",
+          "tr": "Müzik huzur duygusu uyandırıyor.",
+          "de": "Die Musik ruft ein Gefühl von Frieden hervor.",
+          "fr": "La musique évoque un sentiment de paix.",
+          "it": "La musica evoca un senso di pace.",
+          "es": "La música evoca una sensación de paz."
+        }
+      ]
+    },
+    {
+      "id": "invoke",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "in-",
+        "voke"
+      ],
+      "gloss": {
+        "en": "to use a law or rule to support you; to call a function in a program (literally: to call in)",
+        "tr": "başvurmak, dayanmak; çağırmak",
+        "de": "sich berufen auf; aufrufen",
+        "fr": "invoquer; appeler",
+        "it": "invocare; richiamare",
+        "es": "invocar; llamar"
+      },
+      "sentences": [
+        {
+          "en": "She [invoked] her right to stay silent.",
+          "tr": "Susma hakkını kullandı.",
+          "de": "Sie berief sich auf ihr Recht zu schweigen.",
+          "fr": "Elle a invoqué son droit de garder le silence.",
+          "it": "Ha invocato il diritto di non rispondere.",
+          "es": "Invocó su derecho a guardar silencio."
+        },
+        {
+          "en": "The program [invokes] this function every second.",
+          "tr": "Program bu fonksiyonu her saniye çağırıyor.",
+          "de": "Das Programm ruft diese Funktion jede Sekunde auf.",
+          "fr": "Le programme appelle cette fonction chaque seconde.",
+          "it": "Il programma richiama questa funzione ogni secondo.",
+          "es": "El programa llama a esta función cada segundo."
+        }
+      ]
+    },
+    {
+      "id": "revoke",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "re-",
+        "voke"
+      ],
+      "gloss": {
+        "en": "to officially cancel a right or document (literally: to call back)",
+        "tr": "iptal etmek, geri almak",
+        "de": "widerrufen, entziehen",
+        "fr": "révoquer, retirer",
+        "it": "revocare",
+        "es": "revocar, retirar"
+      },
+      "sentences": [
+        {
+          "en": "His driving licence was [revoked].",
+          "tr": "Ehliyeti iptal edildi.",
+          "de": "Ihm wurde der Führerschein entzogen.",
+          "fr": "On lui a retiré son permis de conduire.",
+          "it": "Gli è stata revocata la patente.",
+          "es": "Le retiraron el carné de conducir."
+        },
+        {
+          "en": "You can [revoke] the app's access at any time.",
+          "tr": "Uygulamanın erişimini istediğin zaman iptal edebilirsin.",
+          "de": "Du kannst der App den Zugriff jederzeit entziehen.",
+          "fr": "Tu peux révoquer l'accès de l'appli à tout moment.",
+          "it": "Puoi revocare l'accesso all'app in qualsiasi momento.",
+          "es": "Puedes revocar el acceso de la aplicación en cualquier momento."
+        }
+      ]
+    },
+    {
+      "id": "irrevocable",
+      "pos": "adjective",
+      "parent": "revoke",
+      "parts": [
+        "ir-not-",
+        "re-",
+        "voc",
+        "-able"
+      ],
+      "gloss": {
+        "en": "impossible to change or cancel",
+        "tr": "geri alınamaz, kesin",
+        "de": "unwiderruflich",
+        "fr": "irrévocable",
+        "it": "irrevocabile",
+        "es": "irrevocable"
+      },
+      "sentences": [
+        {
+          "en": "The decision is final and [irrevocable].",
+          "tr": "Karar kesin ve geri alınamaz.",
+          "de": "Die Entscheidung ist endgültig und unwiderruflich.",
+          "fr": "La décision est définitive et irrévocable.",
+          "it": "La decisione è definitiva e irrevocabile.",
+          "es": "La decisión es definitiva e irrevocable."
+        },
+        {
+          "en": "The war caused [irrevocable] changes.",
+          "tr": "Savaş geri dönüşü olmayan değişikliklere yol açtı.",
+          "de": "Der Krieg brachte unwiderrufliche Veränderungen.",
+          "fr": "La guerre a provoqué des changements irrévocables.",
+          "it": "La guerra ha causato cambiamenti irrevocabili.",
+          "es": "La guerra causó cambios irrevocables."
+        }
+      ]
+    }
+  ]
+}
