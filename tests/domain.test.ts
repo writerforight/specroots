@@ -1,6 +1,7 @@
 import { describe, expect, it } from 'vitest';
+import { LexiconParser } from '../src/data/LexiconParser';
 import { Sentence } from '../src/domain/Sentence';
-import { diskRepository } from './helpers';
+import { readJson } from './helpers';
 
 describe('Sentence', () => {
   it('splits the marked word out and drops the brackets', () => {
@@ -21,8 +22,30 @@ describe('Sentence', () => {
   });
 });
 
-describe('Root and Word', async () => {
-  const spec = await diskRepository().getRoot('spec');
+describe('Root and Word', () => {
+  // A fixed miniature root, so these checks do not shift as the real data grows.
+  const parser = new LexiconParser();
+  const affixes = parser.parseAffixes(readJson('affixes.json'));
+  const word = (id: string, parent: string | null, parts: string[]) => ({ id, pos: 'noun', parent, parts, gloss: { en: id }, sentences: [] });
+  const spec = parser.parseRoot(
+    {
+      id: 'spec',
+      forms: ['spec', 'spect'],
+      origin: 'la',
+      etymon: 'specere',
+      meaning: { en: 'to look' },
+      words: [
+        word('inspect', null, ['in-', 'spect']),
+        word('inspection', 'inspect', ['in-', 'spect', '-ion']),
+        word('inspector', 'inspect', ['in-', 'spect', '-or']),
+        word('respect', null, ['re-', 'spect']),
+        word('respectful', 'respect', ['re-', 'spect', '-ful']),
+        word('spectator', null, ['spect', '-ator']),
+        word('perspective', null, ['per-', 'spect', '-ive']),
+      ],
+    },
+    affixes,
+  );
 
   it('classifies how each word is formed', () => {
     expect(spec.word('inspect')?.formation).toBe('prefix');
