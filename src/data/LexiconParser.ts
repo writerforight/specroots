@@ -30,9 +30,11 @@ export class LexiconParser {
       const where = `affixes.json › ${id}`;
       const entry = this.object(value, where);
       const kind = this.oneOf(entry.kind, AFFIX_KINDS, `${where} › kind`);
-      const shape = kind === 'prefix' ? /^[a-z]+-$/ : /^-[a-z]+$/;
-      if (!shape.test(id)) throw new LexiconError(where, `a ${kind} id must look like ${kind === 'prefix' ? '"re-"' : '"-ion"'}`);
-      affixes.set(id, new Affix(id, kind, this.localized(entry.meaning, `${where} › meaning`)));
+      const shape = kind === 'prefix' ? /^[a-z]+(-[a-z]+)*-$/ : /^-[a-z]+(-[a-z]+)*$/;
+      if (!shape.test(id)) throw new LexiconError(where, `a ${kind} id must look like ${kind === 'prefix' ? '"re-" or "in-not-"' : '"-ion" or "-ive-adj"'}`);
+      const form = entry.form === undefined ? id.replace(/^-|-$/g, '') : this.string(entry.form, `${where} › form`);
+      if (!/^[a-z]+$/.test(form)) throw new LexiconError(where, `form "${form}" must be lowercase letters only; homograph ids need an explicit "form"`);
+      affixes.set(id, new Affix(id, kind, this.localized(entry.meaning, `${where} › meaning`), form));
     }
     return affixes;
   }

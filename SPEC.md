@@ -61,8 +61,11 @@ src/styles/    tokens.css (renkler, yazı tipleri, ölçüler) + app.css (yalnı
   ve kökün yazımlarından (`forms`) oluşur; birleşince kelimeyi tam olarak hecelemelidir.
   Örnek cümlede hedef kelime `[köşeli parantez]` içinde yazılır (tam bir tane).
 - `public/data/index.json`: alfabetik liste ve arama için özet; `npm run data` üretir, elle düzenlenmez.
-- Aynı yazılışlı farklı ekler (ör. "içine" anlamındaki in- ile "değil" anlamındaki in-) ayrı kimlik alır:
-  `"in-"` ve `"in-not-"` gibi; kimlik biçimi gerektiğinde bu bölüme eklenir.
+- Aynı yazılışlı farklı ekler ayrı kimlik alır ve yazılışlarını `form` ile söyler:
+  `"in-"` (içine, inspect) ve `"in-not-": { "form": "in", … }` (değil, incredible). Ek kimliği tireyle
+  biter (ön ek) ya da başlar (son ek); `form` yalnızca küçük harftir.
+- Birleşik kelimelerde başka bir kökten gelen parça (photo·graph'taki *photo*, manu·script'teki *manu*)
+  ön ek olarak kataloğa girer: `"photo-"`, `"manu-"`.
 
 ## Kalite
 - `npm run check` (tip denetimi + testler) yeşil olmadan birleştirme yok.

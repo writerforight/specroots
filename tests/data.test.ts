@@ -35,7 +35,7 @@ describe('lexicon data', () => {
 
       it('the marked word in each sentence is a form of the word', () => {
         for (const word of root.words) {
-          const stem = word.text.replace(/e$/, '').toLowerCase();
+          const stem = word.text.replace(/[ey]$/, '').toLowerCase();
           for (const sentence of word.sentences) expect(sentence.highlighted[0]?.toLowerCase(), sentence.english).toContain(stem);
         }
       });
@@ -78,6 +78,13 @@ describe('LexiconParser rejects bad data', () => {
   });
   it('rejects a sentence without a marked word', () => {
     expect(() => parser.parseRoot(withWord({ sentences: [{ en: 'No mark here.' }] }), affixes)).toThrow(/exactly one \[word\]/);
+  });
+  it('homograph affixes spell with their form, not their id', () => {
+    const extra = parser.parseAffixes({ 'in-not-': { kind: 'prefix', form: 'in', meaning: { en: 'not' } } });
+    const all = new Map([...affixes, ...extra]);
+    const root = parser.parseRoot(withWord({ id: 'inspect', parts: ['in-not-', 'spect'] }), all);
+    expect(root.word('inspect')?.parts[0]?.affix?.id).toBe('in-not-');
+    expect(() => parser.parseAffixes({ 'in-not-': { kind: 'prefix', meaning: { en: 'not' } } })).toThrow(/explicit "form"/);
   });
   it('rejects an unknown language', () => {
     expect(() => parser.parseRoot({ ...base, meaning: { en: 'x', xx: 'y' } }, affixes)).toThrow(/unknown language "xx"/);
