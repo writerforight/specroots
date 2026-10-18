@@ -79,3 +79,6 @@ src/styles/    tokens.css (renkler, yazı tipleri, ölçüler) + app.css (yalnı
   "öğretici cümle" seçme ölçütü (kısa, yaygın kelimeler, hedef kelime tek sefer).
 - **D2 50 kök:** veri hattıyla üretilip elle kontrol edilmiş ~50 kök.
 - **D3 Çevrimdışı (PWA):** ana ekrana eklenebilir, internetsiz açılır.
+- **D4 Eklerle gezinme (kullanıcı isteği, 2026-10-18):** köklerin yanında ön ek ve son eklerden de
+  gezinme: bir eke (ör. `re-`, `-tion`) tıklayınca o eki taşıyan bütün kelimeler, kökleriyle birlikte.
+  Veri hazır (her kelimenin parçaları ek kimliklerine bağlı); D2 bitince ayrıntıları konuşulacak.

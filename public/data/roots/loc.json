@@ -1,0 +1,447 @@
+{
+  "id": "loc",
+  "forms": [
+    "loc"
+  ],
+  "origin": "la",
+  "etymon": "locus",
+  "meaning": {
+    "en": "place",
+    "tr": "yer",
+    "de": "der Ort",
+    "fr": "le lieu",
+    "it": "il luogo",
+    "es": "el lugar"
+  },
+  "words": [
+    {
+      "id": "local",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "loc",
+        "-al"
+      ],
+      "gloss": {
+        "en": "from or in the area near you",
+        "tr": "yerel",
+        "de": "örtlich, lokal",
+        "fr": "local",
+        "it": "locale",
+        "es": "local"
+      },
+      "sentences": [
+        {
+          "en": "We buy vegetables from [local] farmers.",
+          "tr": "Sebzeleri yerel çiftçilerden alıyoruz.",
+          "de": "Wir kaufen Gemüse von Bauern aus der Gegend.",
+          "fr": "Nous achetons nos légumes à des producteurs locaux.",
+          "it": "Compriamo la verdura da agricoltori locali.",
+          "es": "Compramos la verdura a agricultores locales."
+        },
+        {
+          "en": "The [local] library is open until eight.",
+          "tr": "Mahalle kütüphanesi sekize kadar açık.",
+          "de": "Die Stadtteilbibliothek ist bis acht geöffnet.",
+          "fr": "La bibliothèque du quartier est ouverte jusqu'à vingt heures.",
+          "it": "La biblioteca di quartiere è aperta fino alle otto.",
+          "es": "La biblioteca del barrio abre hasta las ocho."
+        }
+      ]
+    },
+    {
+      "id": "locally",
+      "pos": "adverb",
+      "parent": "local",
+      "parts": [
+        "loc",
+        "-al",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "in or near the area where you are",
+        "tr": "yerel olarak, bölgede",
+        "de": "vor Ort, aus der Region",
+        "fr": "localement, sur place",
+        "it": "localmente, in zona",
+        "es": "localmente, en la zona"
+      },
+      "sentences": [
+        {
+          "en": "All the food is grown [locally].",
+          "tr": "Bütün yiyecekler bölgede yetiştiriliyor.",
+          "de": "Alle Lebensmittel stammen aus der Region.",
+          "fr": "Toute la nourriture est produite localement.",
+          "it": "Tutto il cibo è coltivato in zona.",
+          "es": "Toda la comida se cultiva en la zona."
+        },
+        {
+          "en": "The app saves your files [locally], not online.",
+          "tr": "Uygulama dosyalarını internete değil, cihaza kaydediyor.",
+          "de": "Die App speichert deine Dateien lokal, nicht online.",
+          "fr": "L'appli enregistre tes fichiers localement, pas en ligne.",
+          "it": "L'app salva i file localmente, non online.",
+          "es": "La aplicación guarda tus archivos localmente, no en línea."
+        }
+      ]
+    },
+    {
+      "id": "locality",
+      "pos": "noun",
+      "parent": "local",
+      "parts": [
+        "loc",
+        "-al",
+        "-ity"
+      ],
+      "gloss": {
+        "en": "an area or neighbourhood",
+        "tr": "bölge, yöre",
+        "de": "die Gegend, der Ort",
+        "fr": "la localité, le secteur",
+        "it": "la località, la zona",
+        "es": "la localidad, la zona"
+      },
+      "sentences": [
+        {
+          "en": "There are three schools in this [locality].",
+          "tr": "Bu bölgede üç okul var.",
+          "de": "In dieser Gegend gibt es drei Schulen.",
+          "fr": "Il y a trois écoles dans ce secteur.",
+          "it": "In questa zona ci sono tre scuole.",
+          "es": "Hay tres colegios en esta zona."
+        },
+        {
+          "en": "The plant only grows in one [locality].",
+          "tr": "Bitki sadece tek bir yörede yetişiyor.",
+          "de": "Die Pflanze wächst nur an einem einzigen Ort.",
+          "fr": "La plante ne pousse que dans une seule localité.",
+          "it": "La pianta cresce solo in una località.",
+          "es": "La planta solo crece en una localidad."
+        }
+      ]
+    },
+    {
+      "id": "localize",
+      "pos": "verb",
+      "parent": "local",
+      "parts": [
+        "loc",
+        "-al",
+        "-ize"
+      ],
+      "gloss": {
+        "en": "to adapt for a country or language; to keep in one place",
+        "tr": "yerelleştirmek; bir yere sınırlamak",
+        "de": "lokalisieren; begrenzen",
+        "fr": "localiser, adapter; circonscrire",
+        "it": "localizzare; circoscrivere",
+        "es": "localizar, adaptar; limitar"
+      },
+      "sentences": [
+        {
+          "en": "We [localize] the app for six languages.",
+          "tr": "Uygulamayı altı dile göre yerelleştiriyoruz.",
+          "de": "Wir lokalisieren die App für sechs Sprachen.",
+          "fr": "Nous localisons l'appli dans six langues.",
+          "it": "Localizziamo l'app in sei lingue.",
+          "es": "Localizamos la aplicación en seis idiomas."
+        },
+        {
+          "en": "The pain was [localized] in his left knee.",
+          "tr": "Ağrı sol dizinde toplanmıştı.",
+          "de": "Der Schmerz war auf sein linkes Knie begrenzt.",
+          "fr": "La douleur était localisée au genou gauche.",
+          "it": "Il dolore era localizzato al ginocchio sinistro.",
+          "es": "El dolor se localizaba en la rodilla izquierda."
+        }
+      ]
+    },
+    {
+      "id": "locate",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "loc",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "to find where something is; to be in a place",
+        "tr": "yerini bulmak; bulunmak",
+        "de": "ausfindig machen; sich befinden",
+        "fr": "localiser, trouver; être situé",
+        "it": "localizzare, trovare; trovarsi",
+        "es": "localizar; estar situado"
+      },
+      "sentences": [
+        {
+          "en": "The app helps you [locate] your phone.",
+          "tr": "Uygulama telefonunun yerini bulmana yardım ediyor.",
+          "de": "Die App hilft dir, dein Handy zu finden.",
+          "fr": "L'appli t'aide à localiser ton téléphone.",
+          "it": "L'app ti aiuta a trovare il telefono.",
+          "es": "La aplicación te ayuda a localizar tu móvil."
+        },
+        {
+          "en": "The hotel is [located] near the station.",
+          "tr": "Otel istasyonun yakınında bulunuyor.",
+          "de": "Das Hotel befindet sich in der Nähe des Bahnhofs.",
+          "fr": "L'hôtel est situé près de la gare.",
+          "it": "L'hotel si trova vicino alla stazione.",
+          "es": "El hotel está situado cerca de la estación."
+        }
+      ]
+    },
+    {
+      "id": "location",
+      "pos": "noun",
+      "parent": "locate",
+      "parts": [
+        "loc",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "a place or position",
+        "tr": "konum, yer",
+        "de": "der Standort, die Lage",
+        "fr": "l'emplacement, le lieu",
+        "it": "la posizione, il luogo",
+        "es": "la ubicación, el lugar"
+      },
+      "sentences": [
+        {
+          "en": "Send me your [location].",
+          "tr": "Bana konumunu gönder.",
+          "de": "Schick mir deinen Standort.",
+          "fr": "Envoie-moi ta position.",
+          "it": "Mandami la tua posizione.",
+          "es": "Mándame tu ubicación."
+        },
+        {
+          "en": "The film was shot in a secret [location].",
+          "tr": "Film gizli bir yerde çekildi.",
+          "de": "Der Film wurde an einem geheimen Ort gedreht.",
+          "fr": "Le film a été tourné dans un lieu secret.",
+          "it": "Il film è stato girato in un luogo segreto.",
+          "es": "La película se rodó en un lugar secreto."
+        }
+      ]
+    },
+    {
+      "id": "relocate",
+      "pos": "verb",
+      "parent": "locate",
+      "parts": [
+        "re-",
+        "loc",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "to move to a new place to live or work",
+        "tr": "taşınmak, yerini değiştirmek",
+        "de": "umziehen; verlegen",
+        "fr": "déménager; délocaliser",
+        "it": "trasferirsi; trasferire",
+        "es": "trasladarse; trasladar"
+      },
+      "sentences": [
+        {
+          "en": "The company [relocated] to Berlin.",
+          "tr": "Şirket Berlin'e taşındı.",
+          "de": "Die Firma ist nach Berlin umgezogen.",
+          "fr": "L'entreprise s'est installée à Berlin.",
+          "it": "L'azienda si è trasferita a Berlino.",
+          "es": "La empresa se trasladó a Berlín."
+        },
+        {
+          "en": "We may have to [relocate] for my job.",
+          "tr": "İşim yüzünden taşınmak zorunda kalabiliriz.",
+          "de": "Wegen meiner Arbeit müssen wir vielleicht umziehen.",
+          "fr": "Nous devrons peut-être déménager pour mon travail.",
+          "it": "Forse dovremo trasferirci per il mio lavoro.",
+          "es": "Puede que tengamos que mudarnos por mi trabajo."
+        }
+      ]
+    },
+    {
+      "id": "relocation",
+      "pos": "noun",
+      "parent": "relocate",
+      "parts": [
+        "re-",
+        "loc",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "a move to a new place",
+        "tr": "taşınma, yer değiştirme",
+        "de": "der Umzug, die Verlegung",
+        "fr": "le déménagement, la délocalisation",
+        "it": "il trasferimento",
+        "es": "el traslado"
+      },
+      "sentences": [
+        {
+          "en": "The company paid for our [relocation].",
+          "tr": "Şirket taşınma masraflarımızı ödedi.",
+          "de": "Die Firma hat unseren Umzug bezahlt.",
+          "fr": "L'entreprise a payé notre déménagement.",
+          "it": "L'azienda ha pagato il nostro trasferimento.",
+          "es": "La empresa pagó nuestro traslado."
+        },
+        {
+          "en": "The [relocation] of the zoo took two years.",
+          "tr": "Hayvanat bahçesinin taşınması iki yıl sürdü.",
+          "de": "Die Verlegung des Zoos dauerte zwei Jahre.",
+          "fr": "Le déménagement du zoo a pris deux ans.",
+          "it": "Il trasferimento dello zoo è durato due anni.",
+          "es": "El traslado del zoo duró dos años."
+        }
+      ]
+    },
+    {
+      "id": "allocate",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "al-",
+        "loc",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "to give a share of something for a purpose (literally: to place to)",
+        "tr": "ayırmak, tahsis etmek",
+        "de": "zuteilen, bereitstellen",
+        "fr": "allouer, attribuer",
+        "it": "assegnare, stanziare",
+        "es": "asignar, destinar"
+      },
+      "sentences": [
+        {
+          "en": "Each group was [allocated] a room.",
+          "tr": "Her gruba bir oda ayrıldı.",
+          "de": "Jeder Gruppe wurde ein Raum zugeteilt.",
+          "fr": "Une salle a été attribuée à chaque groupe.",
+          "it": "A ogni gruppo è stata assegnata una stanza.",
+          "es": "A cada grupo se le asignó una sala."
+        },
+        {
+          "en": "The city [allocated] money for new bike lanes.",
+          "tr": "Belediye yeni bisiklet yolları için para ayırdı.",
+          "de": "Die Stadt stellte Geld für neue Radwege bereit.",
+          "fr": "La ville a alloué des fonds pour de nouvelles pistes cyclables.",
+          "it": "Il comune ha stanziato fondi per nuove piste ciclabili.",
+          "es": "El ayuntamiento destinó dinero a nuevos carriles bici."
+        }
+      ]
+    },
+    {
+      "id": "allocation",
+      "pos": "noun",
+      "parent": "allocate",
+      "parts": [
+        "al-",
+        "loc",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "a share given for a purpose",
+        "tr": "tahsis, pay",
+        "de": "die Zuteilung",
+        "fr": "l'allocation, la répartition",
+        "it": "l'assegnazione, lo stanziamento",
+        "es": "la asignación"
+      },
+      "sentences": [
+        {
+          "en": "The [allocation] of seats was unfair.",
+          "tr": "Koltukların dağıtımı adil değildi.",
+          "de": "Die Zuteilung der Plätze war ungerecht.",
+          "fr": "La répartition des places était injuste.",
+          "it": "L'assegnazione dei posti era ingiusta.",
+          "es": "La asignación de asientos fue injusta."
+        },
+        {
+          "en": "Each student has a data [allocation] of 5 GB.",
+          "tr": "Her öğrencinin 5 GB'lık bir veri kotası var.",
+          "de": "Jeder Student hat ein Datenvolumen von 5 GB.",
+          "fr": "Chaque étudiant dispose d'un quota de 5 Go.",
+          "it": "Ogni studente ha una quota di 5 GB.",
+          "es": "Cada estudiante tiene una cuota de 5 GB."
+        }
+      ]
+    },
+    {
+      "id": "dislocate",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "dis-",
+        "loc",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "to move a bone out of its normal place (literally: to place apart)",
+        "tr": "çıkmak, yerinden oynatmak (kemik)",
+        "de": "ausrenken",
+        "fr": "se démettre, luxer",
+        "it": "lussare, slogare",
+        "es": "dislocar"
+      },
+      "sentences": [
+        {
+          "en": "He [dislocated] his shoulder playing rugby.",
+          "tr": "Ragbi oynarken omzu çıktı.",
+          "de": "Er hat sich beim Rugby die Schulter ausgerenkt.",
+          "fr": "Il s'est démis l'épaule en jouant au rugby.",
+          "it": "Si è lussato la spalla giocando a rugby.",
+          "es": "Se dislocó el hombro jugando al rugby."
+        },
+        {
+          "en": "A [dislocated] finger must be set by a doctor.",
+          "tr": "Çıkan bir parmağı doktorun yerine oturtması gerekir.",
+          "de": "Ein ausgerenkter Finger muss vom Arzt eingerenkt werden.",
+          "fr": "Un doigt luxé doit être remis en place par un médecin.",
+          "it": "Un dito lussato deve essere rimesso a posto da un medico.",
+          "es": "Un dedo dislocado debe colocarlo un médico."
+        }
+      ]
+    },
+    {
+      "id": "collocation",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "col-",
+        "loc",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "words that are often used together, such as 'make a decision' (literally: a placing together)",
+        "tr": "eşdizim, sık birlikte kullanılan kelimeler",
+        "de": "die Kollokation, die feste Wortverbindung",
+        "fr": "la collocation",
+        "it": "la collocazione",
+        "es": "la colocación"
+      },
+      "sentences": [
+        {
+          "en": "\"Heavy rain\" is a common [collocation].",
+          "tr": "\"Heavy rain\" yaygın bir eşdizimdir.",
+          "de": "„Heavy rain“ ist eine häufige Kollokation.",
+          "fr": "« Heavy rain » est une collocation courante.",
+          "it": "«Heavy rain» è una collocazione comune.",
+          "es": "«Heavy rain» es una colocación frecuente."
+        },
+        {
+          "en": "Learning [collocations] makes you sound natural.",
+          "tr": "Eşdizimleri öğrenmek daha doğal konuşmanı sağlar.",
+          "de": "Wer Kollokationen lernt, klingt natürlicher.",
+          "fr": "Apprendre les collocations rend ton anglais plus naturel.",
+          "it": "Imparare le collocazioni ti fa suonare più naturale.",
+          "es": "Aprender colocaciones hace que suenes más natural."
+        }
+      ]
+    }
+  ]
+}

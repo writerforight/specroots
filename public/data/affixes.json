@@ -1376,5 +1376,93 @@
       "it": "unito, fatto (antico participio)",
       "es": "unido, hecho (antiguo participio)"
     }
+  },
+  "al-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "to, toward (ad- before l)",
+      "tr": "-e doğru (l önünde ad-)",
+      "de": "hin zu (ad- vor l)",
+      "fr": "vers (ad- devant l)",
+      "it": "verso (ad- davanti a l)",
+      "es": "hacia (ad- ante l)"
+    }
+  },
+  "col-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "with, together (con- before l)",
+      "tr": "birlikte (l önünde con-)",
+      "de": "zusammen (con- vor l)",
+      "fr": "ensemble (con- devant l)",
+      "it": "insieme (con- davanti a l)",
+      "es": "juntos (con- ante l)"
+    }
+  },
+  "op-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "against (ob- before p)",
+      "tr": "karşı (p önünde ob-)",
+      "de": "gegen (ob- vor p)",
+      "fr": "contre (ob- devant p)",
+      "it": "contro (ob- davanti a p)",
+      "es": "contra (ob- ante p)"
+    }
+  },
+  "pur-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "forward (French form of pro-)",
+      "tr": "ileri (pro- Fransızca biçimi)",
+      "de": "vorwärts (französische Form von pro-)",
+      "fr": "en avant (forme française de pro-)",
+      "it": "in avanti (forma francese di pro-)",
+      "es": "hacia delante (forma francesa de pro-)"
+    }
+  },
+  "auto-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "self (Greek)",
+      "tr": "kendi (Yunanca)",
+      "de": "selbst (griechisch)",
+      "fr": "soi-même (grec)",
+      "it": "da sé (greco)",
+      "es": "por sí mismo (griego)"
+    }
+  },
+  "loco-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "from place (Latin locus)",
+      "tr": "yerden (Latince locus)",
+      "de": "vom Ort (lateinisch locus)",
+      "fr": "d'un lieu (latin locus)",
+      "it": "da un luogo (latino locus)",
+      "es": "desde un lugar (latín locus)"
+    }
+  },
+  "-ie": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "small, familiar (English ending)",
+      "tr": "küçük, sevimli (İngilizce ek)",
+      "de": "klein, vertraut (englische Endung)",
+      "fr": "petit, familier (suffixe anglais)",
+      "it": "piccolo, familiare (suffisso inglese)",
+      "es": "pequeño, familiar (sufijo inglés)"
+    }
+  },
+  "-iv": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "tending to (-ive before another suffix)",
+      "tr": "-ici (başka ek önünde -ive)",
+      "de": "neigend zu (-ive vor einer weiteren Endung)",
+      "fr": "qui tend à (-ive devant un autre suffixe)",
+      "it": "che tende a (-ive davanti a un altro suffisso)",
+      "es": "que tiende a (-ive ante otro sufijo)"
+    }
   }
 }

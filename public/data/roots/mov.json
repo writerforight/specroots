@@ -1,0 +1,838 @@
+{
+  "id": "mov",
+  "forms": [
+    "mov",
+    "move",
+    "mot",
+    "mote",
+    "mob"
+  ],
+  "origin": "la",
+  "etymon": "movere",
+  "meaning": {
+    "en": "to move",
+    "tr": "hareket etmek, kımıldatmak",
+    "de": "bewegen",
+    "fr": "mouvoir, bouger",
+    "it": "muovere",
+    "es": "mover"
+  },
+  "words": [
+    {
+      "id": "move",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "move"
+      ],
+      "gloss": {
+        "en": "to change place or position; to go to live somewhere new",
+        "tr": "hareket etmek; taşınmak",
+        "de": "bewegen; umziehen",
+        "fr": "bouger; déménager",
+        "it": "muovere, spostare; trasferirsi",
+        "es": "mover; mudarse"
+      },
+      "sentences": [
+        {
+          "en": "Can you [move] your bag, please?",
+          "tr": "Çantanı çekebilir misin lütfen?",
+          "de": "Kannst du bitte deine Tasche wegstellen?",
+          "fr": "Tu peux déplacer ton sac, s'il te plaît ?",
+          "it": "Puoi spostare la borsa, per favore?",
+          "es": "¿Puedes mover tu bolso, por favor?"
+        },
+        {
+          "en": "We [moved] to Aachen last year.",
+          "tr": "Geçen yıl Aachen'e taşındık.",
+          "de": "Wir sind letztes Jahr nach Aachen gezogen.",
+          "fr": "Nous avons déménagé à Aix-la-Chapelle l'an dernier.",
+          "it": "Ci siamo trasferiti ad Aquisgrana l'anno scorso.",
+          "es": "Nos mudamos a Aquisgrán el año pasado."
+        }
+      ]
+    },
+    {
+      "id": "movement",
+      "pos": "noun",
+      "parent": "move",
+      "parts": [
+        "move",
+        "-ment"
+      ],
+      "gloss": {
+        "en": "the act of moving; a group of people working for a cause",
+        "tr": "hareket; akım",
+        "de": "die Bewegung",
+        "fr": "le mouvement",
+        "it": "il movimento",
+        "es": "el movimiento"
+      },
+      "sentences": [
+        {
+          "en": "The camera detects any [movement].",
+          "tr": "Kamera her hareketi algılıyor.",
+          "de": "Die Kamera erkennt jede Bewegung.",
+          "fr": "La caméra détecte le moindre mouvement.",
+          "it": "La telecamera rileva ogni movimento.",
+          "es": "La cámara detecta cualquier movimiento."
+        },
+        {
+          "en": "She joined the [movement] for clean air.",
+          "tr": "Temiz hava hareketine katıldı.",
+          "de": "Sie schloss sich der Bewegung für saubere Luft an.",
+          "fr": "Elle a rejoint le mouvement pour un air pur.",
+          "it": "Si è unita al movimento per l'aria pulita.",
+          "es": "Se unió al movimiento por el aire limpio."
+        }
+      ]
+    },
+    {
+      "id": "movie",
+      "pos": "noun",
+      "parent": "move",
+      "parts": [
+        "mov",
+        "-ie"
+      ],
+      "gloss": {
+        "en": "a film (short for 'moving picture')",
+        "tr": "film",
+        "de": "der Film",
+        "fr": "le film",
+        "it": "il film",
+        "es": "la película"
+      },
+      "sentences": [
+        {
+          "en": "Let's watch a [movie] tonight.",
+          "tr": "Bu akşam film izleyelim.",
+          "de": "Lass uns heute Abend einen Film schauen.",
+          "fr": "Regardons un film ce soir.",
+          "it": "Guardiamo un film stasera.",
+          "es": "Veamos una película esta noche."
+        },
+        {
+          "en": "The [movie] is based on a true story.",
+          "tr": "Film gerçek bir hikâyeye dayanıyor.",
+          "de": "Der Film beruht auf einer wahren Geschichte.",
+          "fr": "Le film est tiré d'une histoire vraie.",
+          "it": "Il film è basato su una storia vera.",
+          "es": "La película está basada en una historia real."
+        }
+      ]
+    },
+    {
+      "id": "remove",
+      "pos": "verb",
+      "parent": "move",
+      "parts": [
+        "re-",
+        "move"
+      ],
+      "gloss": {
+        "en": "to take something away (literally: to move back)",
+        "tr": "kaldırmak, çıkarmak",
+        "de": "entfernen",
+        "fr": "enlever, retirer",
+        "it": "togliere, rimuovere",
+        "es": "quitar, eliminar"
+      },
+      "sentences": [
+        {
+          "en": "Please [remove] your shoes at the door.",
+          "tr": "Lütfen kapıda ayakkabılarınızı çıkarın.",
+          "de": "Bitte zieh an der Tür die Schuhe aus.",
+          "fr": "Merci d'enlever vos chaussures à l'entrée.",
+          "it": "Per favore, togliete le scarpe all'ingresso.",
+          "es": "Por favor, quítense los zapatos en la puerta."
+        },
+        {
+          "en": "This spray [removes] stains from clothes.",
+          "tr": "Bu sprey giysilerdeki lekeleri çıkarıyor.",
+          "de": "Dieses Spray entfernt Flecken aus Kleidung.",
+          "fr": "Ce spray enlève les taches des vêtements.",
+          "it": "Questo spray toglie le macchie dai vestiti.",
+          "es": "Este espray quita las manchas de la ropa."
+        }
+      ]
+    },
+    {
+      "id": "removal",
+      "pos": "noun",
+      "parent": "remove",
+      "parts": [
+        "re-",
+        "mov",
+        "-al"
+      ],
+      "gloss": {
+        "en": "the act of taking something away",
+        "tr": "kaldırma, giderme",
+        "de": "die Entfernung, die Beseitigung",
+        "fr": "l'enlèvement, le retrait",
+        "it": "la rimozione",
+        "es": "la retirada, la eliminación"
+      },
+      "sentences": [
+        {
+          "en": "Snow [removal] starts at five in the morning.",
+          "tr": "Kar temizliği sabah beşte başlıyor.",
+          "de": "Die Schneeräumung beginnt um fünf Uhr morgens.",
+          "fr": "Le déneigement commence à cinq heures du matin.",
+          "it": "La rimozione della neve inizia alle cinque del mattino.",
+          "es": "La retirada de nieve empieza a las cinco de la mañana."
+        },
+        {
+          "en": "The [removal] of the old tree took a day.",
+          "tr": "Yaşlı ağacın kaldırılması bir gün sürdü.",
+          "de": "Das Entfernen des alten Baums dauerte einen Tag.",
+          "fr": "Il a fallu une journée pour abattre le vieil arbre.",
+          "it": "La rimozione del vecchio albero ha richiesto un giorno.",
+          "es": "Retirar el viejo árbol llevó un día."
+        }
+      ]
+    },
+    {
+      "id": "motion",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "mot",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "movement; a formal suggestion voted on in a meeting",
+        "tr": "hareket; önerge",
+        "de": "die Bewegung; der Antrag",
+        "fr": "le mouvement; la motion",
+        "it": "il movimento; la mozione",
+        "es": "el movimiento; la moción"
+      },
+      "sentences": [
+        {
+          "en": "Don't get off while the train is in [motion].",
+          "tr": "Tren hareket hâlindeyken inme.",
+          "de": "Steig nicht aus, solange der Zug fährt.",
+          "fr": "Ne descends pas tant que le train est en marche.",
+          "it": "Non scendere mentre il treno è in movimento.",
+          "es": "No te bajes mientras el tren está en marcha."
+        },
+        {
+          "en": "The [motion] was passed by ten votes.",
+          "tr": "Önerge on oy farkla kabul edildi.",
+          "de": "Der Antrag wurde mit zehn Stimmen Mehrheit angenommen.",
+          "fr": "La motion a été adoptée à dix voix près.",
+          "it": "La mozione è stata approvata con dieci voti di scarto.",
+          "es": "La moción se aprobó por diez votos."
+        }
+      ]
+    },
+    {
+      "id": "motionless",
+      "pos": "adjective",
+      "parent": "motion",
+      "parts": [
+        "mot",
+        "-ion",
+        "-less"
+      ],
+      "gloss": {
+        "en": "not moving at all",
+        "tr": "hareketsiz",
+        "de": "regungslos, bewegungslos",
+        "fr": "immobile",
+        "it": "immobile",
+        "es": "inmóvil"
+      },
+      "sentences": [
+        {
+          "en": "The cat sat [motionless], watching the bird.",
+          "tr": "Kedi kuşu izleyerek hareketsiz oturdu.",
+          "de": "Die Katze saß regungslos da und beobachtete den Vogel.",
+          "fr": "Le chat restait immobile à observer l'oiseau.",
+          "it": "Il gatto stava immobile a guardare l'uccello.",
+          "es": "El gato estaba inmóvil mirando al pájaro."
+        },
+        {
+          "en": "The lake was [motionless] in the early morning.",
+          "tr": "Göl sabahın erken saatlerinde kıpırtısızdı.",
+          "de": "Am frühen Morgen lag der See ganz still.",
+          "fr": "Le lac était immobile au petit matin.",
+          "it": "Il lago era immobile al primo mattino.",
+          "es": "El lago estaba inmóvil a primera hora de la mañana."
+        }
+      ]
+    },
+    {
+      "id": "motor",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "mot",
+        "-or"
+      ],
+      "gloss": {
+        "en": "a machine that makes something move (literally: a mover)",
+        "tr": "motor",
+        "de": "der Motor",
+        "fr": "le moteur",
+        "it": "il motore",
+        "es": "el motor"
+      },
+      "sentences": [
+        {
+          "en": "The boat has a small electric [motor].",
+          "tr": "Teknenin küçük bir elektrik motoru var.",
+          "de": "Das Boot hat einen kleinen Elektromotor.",
+          "fr": "Le bateau a un petit moteur électrique.",
+          "it": "La barca ha un piccolo motore elettrico.",
+          "es": "El barco tiene un pequeño motor eléctrico."
+        },
+        {
+          "en": "The drone uses four [motors].",
+          "tr": "Dron dört motor kullanıyor.",
+          "de": "Die Drohne hat vier Motoren.",
+          "fr": "Le drone utilise quatre moteurs.",
+          "it": "Il drone usa quattro motori.",
+          "es": "El dron usa cuatro motores."
+        }
+      ]
+    },
+    {
+      "id": "motive",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "mot",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "the reason someone does something (literally: what moves you)",
+        "tr": "güdü, neden",
+        "de": "das Motiv, der Beweggrund",
+        "fr": "le mobile, le motif",
+        "it": "il movente, il motivo",
+        "es": "el móvil, el motivo"
+      },
+      "sentences": [
+        {
+          "en": "The police are looking for a [motive].",
+          "tr": "Polis bir neden arıyor.",
+          "de": "Die Polizei sucht nach einem Motiv.",
+          "fr": "La police cherche un mobile.",
+          "it": "La polizia cerca un movente.",
+          "es": "La policía busca un móvil."
+        },
+        {
+          "en": "What was your [motive] for learning German?",
+          "tr": "Almanca öğrenme nedenin neydi?",
+          "de": "Was war dein Beweggrund, Deutsch zu lernen?",
+          "fr": "Qu'est-ce qui t'a poussé à apprendre l'allemand ?",
+          "it": "Qual è stato il tuo motivo per imparare il tedesco?",
+          "es": "¿Cuál fue tu motivo para aprender alemán?"
+        }
+      ]
+    },
+    {
+      "id": "motivate",
+      "pos": "verb",
+      "parent": "motive",
+      "parts": [
+        "mot",
+        "-iv",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "to make someone want to do something",
+        "tr": "motive etmek, isteklendirmek",
+        "de": "motivieren",
+        "fr": "motiver",
+        "it": "motivare",
+        "es": "motivar"
+      },
+      "sentences": [
+        {
+          "en": "A good coach [motivates] the whole team.",
+          "tr": "İyi bir antrenör bütün takımı motive eder.",
+          "de": "Ein guter Trainer motiviert die ganze Mannschaft.",
+          "fr": "Un bon entraîneur motive toute l'équipe.",
+          "it": "Un buon allenatore motiva tutta la squadra.",
+          "es": "Un buen entrenador motiva a todo el equipo."
+        },
+        {
+          "en": "What [motivates] you to get up early?",
+          "tr": "Erken kalkman için seni ne motive ediyor?",
+          "de": "Was motiviert dich, früh aufzustehen?",
+          "fr": "Qu'est-ce qui te motive à te lever tôt ?",
+          "it": "Cosa ti motiva ad alzarti presto?",
+          "es": "¿Qué te motiva a levantarte temprano?"
+        }
+      ]
+    },
+    {
+      "id": "motivation",
+      "pos": "noun",
+      "parent": "motivate",
+      "parts": [
+        "mot",
+        "-iv",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "the wish to do something",
+        "tr": "motivasyon, istek",
+        "de": "die Motivation",
+        "fr": "la motivation",
+        "it": "la motivazione",
+        "es": "la motivación"
+      },
+      "sentences": [
+        {
+          "en": "I lost my [motivation] in the middle of the term.",
+          "tr": "Dönemin ortasında motivasyonumu kaybettim.",
+          "de": "Mitten im Semester habe ich meine Motivation verloren.",
+          "fr": "J'ai perdu ma motivation au milieu du semestre.",
+          "it": "A metà semestre ho perso la motivazione.",
+          "es": "Perdí la motivación a mitad del curso."
+        },
+        {
+          "en": "Small goals help to keep your [motivation] high.",
+          "tr": "Küçük hedefler motivasyonunu yüksek tutmana yardım eder.",
+          "de": "Kleine Ziele helfen, die Motivation hochzuhalten.",
+          "fr": "De petits objectifs aident à rester motivé.",
+          "it": "Piccoli obiettivi aiutano a mantenere alta la motivazione.",
+          "es": "Las metas pequeñas ayudan a mantener alta la motivación."
+        }
+      ]
+    },
+    {
+      "id": "emotion",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "e-",
+        "mot",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a strong feeling such as love or anger (literally: a moving out)",
+        "tr": "duygu",
+        "de": "das Gefühl, die Emotion",
+        "fr": "l'émotion",
+        "it": "l'emozione",
+        "es": "la emoción"
+      },
+      "sentences": [
+        {
+          "en": "He doesn't show his [emotions].",
+          "tr": "Duygularını belli etmiyor.",
+          "de": "Er zeigt seine Gefühle nicht.",
+          "fr": "Il ne montre pas ses émotions.",
+          "it": "Non mostra le sue emozioni.",
+          "es": "No muestra sus emociones."
+        },
+        {
+          "en": "Her voice was full of [emotion].",
+          "tr": "Sesi duygu doluydu.",
+          "de": "Ihre Stimme war voller Gefühl.",
+          "fr": "Sa voix était pleine d'émotion.",
+          "it": "La sua voce era piena di emozione.",
+          "es": "Su voz estaba llena de emoción."
+        }
+      ]
+    },
+    {
+      "id": "emotional",
+      "pos": "adjective",
+      "parent": "emotion",
+      "parts": [
+        "e-",
+        "mot",
+        "-ion",
+        "-al"
+      ],
+      "gloss": {
+        "en": "having or showing strong feelings",
+        "tr": "duygusal",
+        "de": "emotional, gefühlvoll",
+        "fr": "émotif; émouvant",
+        "it": "emotivo; commovente",
+        "es": "emocional; emotivo"
+      },
+      "sentences": [
+        {
+          "en": "It was an [emotional] goodbye.",
+          "tr": "Duygusal bir vedalaşmaydı.",
+          "de": "Es war ein bewegender Abschied.",
+          "fr": "C'étaient des adieux émouvants.",
+          "it": "È stato un addio commovente.",
+          "es": "Fue una despedida emotiva."
+        },
+        {
+          "en": "Children need [emotional] support.",
+          "tr": "Çocukların duygusal desteğe ihtiyacı vardır.",
+          "de": "Kinder brauchen emotionale Unterstützung.",
+          "fr": "Les enfants ont besoin de soutien affectif.",
+          "it": "I bambini hanno bisogno di sostegno emotivo.",
+          "es": "Los niños necesitan apoyo emocional."
+        }
+      ]
+    },
+    {
+      "id": "promote",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "pro-",
+        "mote"
+      ],
+      "gloss": {
+        "en": "to help something grow or become known; to give someone a higher job (literally: to move forward)",
+        "tr": "tanıtmak, desteklemek; terfi ettirmek",
+        "de": "fördern, bewerben; befördern",
+        "fr": "promouvoir",
+        "it": "promuovere",
+        "es": "promover; ascender"
+      },
+      "sentences": [
+        {
+          "en": "The singer is [promoting] her new album.",
+          "tr": "Şarkıcı yeni albümünü tanıtıyor.",
+          "de": "Die Sängerin wirbt für ihr neues Album.",
+          "fr": "La chanteuse fait la promotion de son nouvel album.",
+          "it": "La cantante sta promuovendo il suo nuovo album.",
+          "es": "La cantante está promocionando su nuevo disco."
+        },
+        {
+          "en": "She was [promoted] to manager.",
+          "tr": "Müdürlüğe terfi etti.",
+          "de": "Sie wurde zur Managerin befördert.",
+          "fr": "Elle a été promue responsable.",
+          "it": "È stata promossa a manager.",
+          "es": "La ascendieron a directora."
+        }
+      ]
+    },
+    {
+      "id": "promotion",
+      "pos": "noun",
+      "parent": "promote",
+      "parts": [
+        "pro-",
+        "mot",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a move to a higher job; activity to make something known",
+        "tr": "terfi; tanıtım, kampanya",
+        "de": "die Beförderung; die Werbung",
+        "fr": "la promotion",
+        "it": "la promozione",
+        "es": "el ascenso; la promoción"
+      },
+      "sentences": [
+        {
+          "en": "He got a [promotion] after two years.",
+          "tr": "İki yıl sonra terfi aldı.",
+          "de": "Nach zwei Jahren wurde er befördert.",
+          "fr": "Il a obtenu une promotion au bout de deux ans.",
+          "it": "Ha ottenuto una promozione dopo due anni.",
+          "es": "Lo ascendieron después de dos años."
+        },
+        {
+          "en": "The shop has a summer [promotion] on bikes.",
+          "tr": "Mağazada bisikletlerde yaz kampanyası var.",
+          "de": "Der Laden hat eine Sommeraktion für Fahrräder.",
+          "fr": "Le magasin fait une promotion d'été sur les vélos.",
+          "it": "Il negozio ha una promozione estiva sulle bici.",
+          "es": "La tienda tiene una promoción de verano en bicis."
+        }
+      ]
+    },
+    {
+      "id": "remote",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "re-",
+        "mote"
+      ],
+      "gloss": {
+        "en": "far away; controlled from a distance (literally: moved back)",
+        "tr": "uzak, ıssız; uzaktan",
+        "de": "abgelegen; ferngesteuert",
+        "fr": "isolé, lointain; à distance",
+        "it": "remoto, isolato; a distanza",
+        "es": "remoto, apartado; a distancia"
+      },
+      "sentences": [
+        {
+          "en": "They live in a [remote] village.",
+          "tr": "Uzak bir köyde yaşıyorlar.",
+          "de": "Sie leben in einem abgelegenen Dorf.",
+          "fr": "Ils vivent dans un village isolé.",
+          "it": "Vivono in un villaggio isolato.",
+          "es": "Viven en un pueblo apartado."
+        },
+        {
+          "en": "Many people now do [remote] work.",
+          "tr": "Artık birçok kişi uzaktan çalışıyor.",
+          "de": "Viele Menschen arbeiten jetzt im Homeoffice.",
+          "fr": "Beaucoup de gens travaillent désormais à distance.",
+          "it": "Molte persone ora lavorano da remoto.",
+          "es": "Mucha gente trabaja ahora a distancia."
+        }
+      ]
+    },
+    {
+      "id": "demote",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "de-",
+        "mote"
+      ],
+      "gloss": {
+        "en": "to move someone to a lower job or rank",
+        "tr": "rütbesini düşürmek, alt göreve almak",
+        "de": "degradieren, zurückstufen",
+        "fr": "rétrograder",
+        "it": "retrocedere, degradare",
+        "es": "degradar, bajar de categoría"
+      },
+      "sentences": [
+        {
+          "en": "The officer was [demoted] after the scandal.",
+          "tr": "Memurun rütbesi skandaldan sonra düşürüldü.",
+          "de": "Der Offizier wurde nach dem Skandal degradiert.",
+          "fr": "L'officier a été rétrogradé après le scandale.",
+          "it": "L'ufficiale è stato degradato dopo lo scandalo.",
+          "es": "El oficial fue degradado tras el escándalo."
+        },
+        {
+          "en": "The team was [demoted] to the second league.",
+          "tr": "Takım ikinci lige düştü.",
+          "de": "Die Mannschaft stieg in die zweite Liga ab.",
+          "fr": "L'équipe a été reléguée en deuxième division.",
+          "it": "La squadra è retrocessa in serie B.",
+          "es": "El equipo bajó a segunda división."
+        }
+      ]
+    },
+    {
+      "id": "commotion",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "com-",
+        "mot",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "sudden noise and confusion (literally: a moving together)",
+        "tr": "kargaşa, gürültü patırtı",
+        "de": "der Aufruhr, die Aufregung",
+        "fr": "l'agitation, le tumulte",
+        "it": "il trambusto, la confusione",
+        "es": "el alboroto, el revuelo"
+      },
+      "sentences": [
+        {
+          "en": "What's all the [commotion] outside?",
+          "tr": "Dışarıdaki bu gürültü patırtı ne?",
+          "de": "Was ist das für ein Aufruhr draußen?",
+          "fr": "C'est quoi toute cette agitation dehors ?",
+          "it": "Cos'è tutto questo trambusto fuori?",
+          "es": "¿Qué es todo ese alboroto de fuera?"
+        },
+        {
+          "en": "A dog in the classroom caused a [commotion].",
+          "tr": "Sınıftaki bir köpek kargaşaya neden oldu.",
+          "de": "Ein Hund im Klassenzimmer sorgte für Aufregung.",
+          "fr": "Un chien dans la classe a semé le désordre.",
+          "it": "Un cane in classe ha creato trambusto.",
+          "es": "Un perro en el aula armó un revuelo."
+        }
+      ]
+    },
+    {
+      "id": "locomotive",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "loco-",
+        "mot",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "the engine that pulls a train (literally: moving from place to place)",
+        "tr": "lokomotif",
+        "de": "die Lokomotive",
+        "fr": "la locomotive",
+        "it": "la locomotiva",
+        "es": "la locomotora"
+      },
+      "sentences": [
+        {
+          "en": "An old steam [locomotive] stands at the station.",
+          "tr": "İstasyonda eski bir buharlı lokomotif duruyor.",
+          "de": "Am Bahnhof steht eine alte Dampflokomotive.",
+          "fr": "Une vieille locomotive à vapeur se trouve à la gare.",
+          "it": "Alla stazione c'è una vecchia locomotiva a vapore.",
+          "es": "En la estación hay una vieja locomotora de vapor."
+        },
+        {
+          "en": "The [locomotive] pulled twenty wagons.",
+          "tr": "Lokomotif yirmi vagon çekti.",
+          "de": "Die Lokomotive zog zwanzig Waggons.",
+          "fr": "La locomotive tirait vingt wagons.",
+          "it": "La locomotiva trainava venti vagoni.",
+          "es": "La locomotora tiraba de veinte vagones."
+        }
+      ]
+    },
+    {
+      "id": "mobile",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "mob",
+        "-ile"
+      ],
+      "gloss": {
+        "en": "able to move or be moved easily",
+        "tr": "taşınabilir, hareketli; mobil",
+        "de": "beweglich, mobil",
+        "fr": "mobile",
+        "it": "mobile",
+        "es": "móvil"
+      },
+      "sentences": [
+        {
+          "en": "The library has a [mobile] van for villages.",
+          "tr": "Kütüphanenin köyler için gezici bir minibüsü var.",
+          "de": "Die Bibliothek hat einen Bücherbus für die Dörfer.",
+          "fr": "La bibliothèque a un bibliobus pour les villages.",
+          "it": "La biblioteca ha un bibliobus per i paesi.",
+          "es": "La biblioteca tiene un bibliobús para los pueblos."
+        },
+        {
+          "en": "The site works well on [mobile] phones.",
+          "tr": "Site cep telefonlarında iyi çalışıyor.",
+          "de": "Die Seite funktioniert gut auf Handys.",
+          "fr": "Le site fonctionne bien sur les téléphones mobiles.",
+          "it": "Il sito funziona bene sui cellulari.",
+          "es": "La web funciona bien en los teléfonos móviles."
+        }
+      ]
+    },
+    {
+      "id": "mobility",
+      "pos": "noun",
+      "parent": "mobile",
+      "parts": [
+        "mob",
+        "-ility"
+      ],
+      "gloss": {
+        "en": "the ability to move easily",
+        "tr": "hareket kabiliyeti, hareketlilik",
+        "de": "die Beweglichkeit, die Mobilität",
+        "fr": "la mobilité",
+        "it": "la mobilità",
+        "es": "la movilidad"
+      },
+      "sentences": [
+        {
+          "en": "Yoga can improve your [mobility].",
+          "tr": "Yoga hareket kabiliyetini artırabilir.",
+          "de": "Yoga kann deine Beweglichkeit verbessern.",
+          "fr": "Le yoga peut améliorer ta mobilité.",
+          "it": "Lo yoga può migliorare la tua mobilità.",
+          "es": "El yoga puede mejorar tu movilidad."
+        },
+        {
+          "en": "Electric scooters changed city [mobility].",
+          "tr": "Elektrikli scooterlar şehir içi ulaşımı değiştirdi.",
+          "de": "E-Scooter haben die Mobilität in der Stadt verändert.",
+          "fr": "Les trottinettes électriques ont changé la mobilité en ville.",
+          "it": "I monopattini elettrici hanno cambiato la mobilità urbana.",
+          "es": "Los patinetes eléctricos cambiaron la movilidad urbana."
+        }
+      ]
+    },
+    {
+      "id": "immobile",
+      "pos": "adjective",
+      "parent": "mobile",
+      "parts": [
+        "im-not-",
+        "mob",
+        "-ile"
+      ],
+      "gloss": {
+        "en": "not moving or not able to move",
+        "tr": "hareketsiz, kımıldamayan",
+        "de": "unbeweglich",
+        "fr": "immobile",
+        "it": "immobile",
+        "es": "inmóvil"
+      },
+      "sentences": [
+        {
+          "en": "After the fall, he lay [immobile] on the ground.",
+          "tr": "Düştükten sonra yerde hareketsiz yattı.",
+          "de": "Nach dem Sturz lag er unbeweglich am Boden.",
+          "fr": "Après la chute, il est resté immobile au sol.",
+          "it": "Dopo la caduta è rimasto immobile a terra.",
+          "es": "Tras la caída, se quedó inmóvil en el suelo."
+        },
+        {
+          "en": "Her leg was [immobile] in a cast for six weeks.",
+          "tr": "Bacağı altı hafta alçıda hareketsiz kaldı.",
+          "de": "Ihr Bein war sechs Wochen lang im Gips ruhiggestellt.",
+          "fr": "Sa jambe a été immobilisée dans un plâtre pendant six semaines.",
+          "it": "La sua gamba è rimasta immobile nel gesso per sei settimane.",
+          "es": "Tuvo la pierna inmóvil en una escayola durante seis semanas."
+        }
+      ]
+    },
+    {
+      "id": "automobile",
+      "pos": "noun",
+      "parent": "mobile",
+      "parts": [
+        "auto-",
+        "mob",
+        "-ile"
+      ],
+      "gloss": {
+        "en": "a car (literally: self-moving)",
+        "tr": "otomobil",
+        "de": "das Automobil, das Auto",
+        "fr": "l'automobile",
+        "it": "l'automobile",
+        "es": "el automóvil"
+      },
+      "sentences": [
+        {
+          "en": "The first [automobile] was built in Germany.",
+          "tr": "İlk otomobil Almanya'da yapıldı.",
+          "de": "Das erste Automobil wurde in Deutschland gebaut.",
+          "fr": "La première automobile a été construite en Allemagne.",
+          "it": "La prima automobile è stata costruita in Germania.",
+          "es": "El primer automóvil se construyó en Alemania."
+        },
+        {
+          "en": "The [automobile] industry is changing fast.",
+          "tr": "Otomobil sektörü hızla değişiyor.",
+          "de": "Die Autoindustrie verändert sich schnell.",
+          "fr": "L'industrie automobile change vite.",
+          "it": "L'industria automobilistica sta cambiando in fretta.",
+          "es": "La industria del automóvil está cambiando rápido."
+        }
+      ]
+    }
+  ]
+}

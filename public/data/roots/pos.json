@@ -1,0 +1,836 @@
+{
+  "id": "pos",
+  "forms": [
+    "pon",
+    "pone",
+    "pos",
+    "pose",
+    "posit",
+    "pound"
+  ],
+  "origin": "la",
+  "etymon": "ponere, positus",
+  "meaning": {
+    "en": "to put, to place",
+    "tr": "koymak, yerleştirmek",
+    "de": "setzen, stellen, legen",
+    "fr": "poser, placer",
+    "it": "porre, mettere",
+    "es": "poner, colocar"
+  },
+  "words": [
+    {
+      "id": "pose",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "pose"
+      ],
+      "gloss": {
+        "en": "to sit or stand for a photo; to cause a problem (French poser, which took over the meaning of Latin ponere)",
+        "tr": "poz vermek; (sorun) yaratmak",
+        "de": "posieren; darstellen",
+        "fr": "poser; représenter",
+        "it": "posare; porre",
+        "es": "posar; plantear"
+      },
+      "sentences": [
+        {
+          "en": "We [posed] for a photo in front of the castle.",
+          "tr": "Kalenin önünde fotoğraf için poz verdik.",
+          "de": "Wir posierten vor der Burg für ein Foto.",
+          "fr": "Nous avons posé pour une photo devant le château.",
+          "it": "Abbiamo posato per una foto davanti al castello.",
+          "es": "Posamos para una foto delante del castillo."
+        },
+        {
+          "en": "Ice on the roads [poses] a danger to drivers.",
+          "tr": "Yollardaki buz sürücüler için tehlike oluşturuyor.",
+          "de": "Glatteis stellt eine Gefahr für Autofahrer dar.",
+          "fr": "Le verglas représente un danger pour les conducteurs.",
+          "it": "Il ghiaccio sulle strade rappresenta un pericolo per gli automobilisti.",
+          "es": "El hielo en las carreteras supone un peligro para los conductores."
+        }
+      ]
+    },
+    {
+      "id": "position",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "posit",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "the place where something is; a job; an opinion (literally: a placing)",
+        "tr": "konum, pozisyon; görev; tutum",
+        "de": "die Position, die Lage; die Stelle",
+        "fr": "la position; le poste",
+        "it": "la posizione; il posto",
+        "es": "la posición; el puesto"
+      },
+      "sentences": [
+        {
+          "en": "Mark your [position] on the map.",
+          "tr": "Haritada konumunu işaretle.",
+          "de": "Markier deine Position auf der Karte.",
+          "fr": "Indique ta position sur la carte.",
+          "it": "Segna la tua posizione sulla mappa.",
+          "es": "Marca tu posición en el mapa."
+        },
+        {
+          "en": "She applied for a [position] at the bank.",
+          "tr": "Bankada bir pozisyona başvurdu.",
+          "de": "Sie bewarb sich auf eine Stelle bei der Bank.",
+          "fr": "Elle a postulé à un poste à la banque.",
+          "it": "Si è candidata per un posto in banca.",
+          "es": "Solicitó un puesto en el banco."
+        }
+      ]
+    },
+    {
+      "id": "positive",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "posit",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "good, hopeful; sure; greater than zero (literally: placed, laid down as fact)",
+        "tr": "olumlu; emin; pozitif",
+        "de": "positiv; sicher",
+        "fr": "positif; sûr",
+        "it": "positivo; sicuro",
+        "es": "positivo; seguro"
+      },
+      "sentences": [
+        {
+          "en": "Try to stay [positive].",
+          "tr": "Olumlu kalmaya çalış.",
+          "de": "Versuch, positiv zu bleiben.",
+          "fr": "Essaie de rester positif.",
+          "it": "Cerca di restare positivo.",
+          "es": "Intenta mantenerte positivo."
+        },
+        {
+          "en": "Are you [positive] that you locked the door?",
+          "tr": "Kapıyı kilitlediğinden emin misin?",
+          "de": "Bist du sicher, dass du die Tür abgeschlossen hast?",
+          "fr": "Tu es sûr d'avoir fermé la porte à clé ?",
+          "it": "Sei sicuro di aver chiuso la porta a chiave?",
+          "es": "¿Estás seguro de que cerraste la puerta con llave?"
+        }
+      ]
+    },
+    {
+      "id": "deposit",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "de-",
+        "posit"
+      ],
+      "gloss": {
+        "en": "money paid first or put in a bank (literally: something put down)",
+        "tr": "depozito, kapora; yatırılan para",
+        "de": "die Kaution, die Anzahlung; die Einzahlung",
+        "fr": "la caution, l'acompte; le dépôt",
+        "it": "la cauzione, l'acconto; il deposito",
+        "es": "la fianza, el depósito"
+      },
+      "sentences": [
+        {
+          "en": "We paid a [deposit] for the flat.",
+          "tr": "Daire için depozito ödedik.",
+          "de": "Wir haben eine Kaution für die Wohnung bezahlt.",
+          "fr": "Nous avons versé une caution pour l'appartement.",
+          "it": "Abbiamo pagato una cauzione per l'appartamento.",
+          "es": "Pagamos una fianza por el piso."
+        },
+        {
+          "en": "You get the bottle [deposit] back at the shop.",
+          "tr": "Şişe depozitosunu mağazadan geri alırsın.",
+          "de": "Das Flaschenpfand bekommst du im Laden zurück.",
+          "fr": "On te rend la consigne de la bouteille au magasin.",
+          "it": "Il deposito sulla bottiglia te lo restituiscono al negozio.",
+          "es": "En la tienda te devuelven el depósito de la botella."
+        }
+      ]
+    },
+    {
+      "id": "oppose",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "op-",
+        "pose"
+      ],
+      "gloss": {
+        "en": "to be against something (literally: to put against)",
+        "tr": "karşı çıkmak",
+        "de": "ablehnen, sich widersetzen",
+        "fr": "s'opposer à",
+        "it": "opporsi a",
+        "es": "oponerse a"
+      },
+      "sentences": [
+        {
+          "en": "Many people [oppose] the new airport.",
+          "tr": "Birçok kişi yeni havalimanına karşı çıkıyor.",
+          "de": "Viele Menschen lehnen den neuen Flughafen ab.",
+          "fr": "Beaucoup de gens s'opposent au nouvel aéroport.",
+          "it": "Molte persone si oppongono al nuovo aeroporto.",
+          "es": "Mucha gente se opone al nuevo aeropuerto."
+        },
+        {
+          "en": "Nobody [opposed] the plan at the meeting.",
+          "tr": "Toplantıda kimse plana karşı çıkmadı.",
+          "de": "Bei der Sitzung war niemand gegen den Plan.",
+          "fr": "Personne ne s'est opposé au projet pendant la réunion.",
+          "it": "Nessuno si è opposto al piano durante la riunione.",
+          "es": "Nadie se opuso al plan en la reunión."
+        }
+      ]
+    },
+    {
+      "id": "opponent",
+      "pos": "noun",
+      "parent": "oppose",
+      "parts": [
+        "op-",
+        "pon",
+        "-ent"
+      ],
+      "gloss": {
+        "en": "a person you play or fight against",
+        "tr": "rakip",
+        "de": "der Gegner",
+        "fr": "l'adversaire",
+        "it": "l'avversario",
+        "es": "el rival, el adversario"
+      },
+      "sentences": [
+        {
+          "en": "She beat her [opponent] in three sets.",
+          "tr": "Rakibini üç sette yendi.",
+          "de": "Sie besiegte ihre Gegnerin in drei Sätzen.",
+          "fr": "Elle a battu son adversaire en trois sets.",
+          "it": "Ha battuto la sua avversaria in tre set.",
+          "es": "Venció a su rival en tres sets."
+        },
+        {
+          "en": "Respect your [opponent], even if you lose.",
+          "tr": "Kaybetsen bile rakibine saygı göster.",
+          "de": "Respektiere deinen Gegner, auch wenn du verlierst.",
+          "fr": "Respecte ton adversaire, même si tu perds.",
+          "it": "Rispetta l'avversario, anche se perdi.",
+          "es": "Respeta a tu rival, aunque pierdas."
+        }
+      ]
+    },
+    {
+      "id": "opposition",
+      "pos": "noun",
+      "parent": "oppose",
+      "parts": [
+        "op-",
+        "posit",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "being against something; the main party not in government",
+        "tr": "muhalefet; karşı çıkma",
+        "de": "der Widerstand; die Opposition",
+        "fr": "l'opposition",
+        "it": "l'opposizione",
+        "es": "la oposición"
+      },
+      "sentences": [
+        {
+          "en": "There was strong [opposition] to the new tax.",
+          "tr": "Yeni vergiye güçlü bir muhalefet vardı.",
+          "de": "Es gab starken Widerstand gegen die neue Steuer.",
+          "fr": "La nouvelle taxe a rencontré une forte opposition.",
+          "it": "C'è stata una forte opposizione alla nuova tassa.",
+          "es": "Hubo una fuerte oposición al nuevo impuesto."
+        },
+        {
+          "en": "The leader of the [opposition] spoke first.",
+          "tr": "İlk olarak muhalefet lideri konuştu.",
+          "de": "Der Oppositionsführer sprach zuerst.",
+          "fr": "Le chef de l'opposition a parlé en premier.",
+          "it": "Il leader dell'opposizione ha parlato per primo.",
+          "es": "El líder de la oposición habló primero."
+        }
+      ]
+    },
+    {
+      "id": "compose",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "com-",
+        "pose"
+      ],
+      "gloss": {
+        "en": "to write music or a text; to be made up of (literally: to put together)",
+        "tr": "bestelemek; oluşturmak",
+        "de": "komponieren; bilden",
+        "fr": "composer",
+        "it": "comporre",
+        "es": "componer"
+      },
+      "sentences": [
+        {
+          "en": "Mozart [composed] his first piece at five.",
+          "tr": "Mozart ilk eserini beş yaşında besteledi.",
+          "de": "Mozart komponierte sein erstes Stück mit fünf.",
+          "fr": "Mozart a composé son premier morceau à cinq ans.",
+          "it": "Mozart ha composto il suo primo brano a cinque anni.",
+          "es": "Mozart compuso su primera pieza a los cinco años."
+        },
+        {
+          "en": "Water is [composed] of hydrogen and oxygen.",
+          "tr": "Su hidrojen ve oksijenden oluşur.",
+          "de": "Wasser besteht aus Wasserstoff und Sauerstoff.",
+          "fr": "L'eau est composée d'hydrogène et d'oxygène.",
+          "it": "L'acqua è composta da idrogeno e ossigeno.",
+          "es": "El agua está compuesta de hidrógeno y oxígeno."
+        }
+      ]
+    },
+    {
+      "id": "composer",
+      "pos": "noun",
+      "parent": "compose",
+      "parts": [
+        "com-",
+        "pos",
+        "-er"
+      ],
+      "gloss": {
+        "en": "a person who writes music",
+        "tr": "besteci",
+        "de": "der Komponist",
+        "fr": "le compositeur",
+        "it": "il compositore",
+        "es": "el compositor"
+      },
+      "sentences": [
+        {
+          "en": "Bach is my favourite [composer].",
+          "tr": "Bach en sevdiğim besteci.",
+          "de": "Bach ist mein Lieblingskomponist.",
+          "fr": "Bach est mon compositeur préféré.",
+          "it": "Bach è il mio compositore preferito.",
+          "es": "Bach es mi compositor favorito."
+        },
+        {
+          "en": "The film [composer] wrote over an hour of music.",
+          "tr": "Filmin bestecisi bir saatten fazla müzik yazdı.",
+          "de": "Der Filmkomponist schrieb über eine Stunde Musik.",
+          "fr": "Le compositeur du film a écrit plus d'une heure de musique.",
+          "it": "Il compositore del film ha scritto più di un'ora di musica.",
+          "es": "El compositor de la película escribió más de una hora de música."
+        }
+      ]
+    },
+    {
+      "id": "composition",
+      "pos": "noun",
+      "parent": "compose",
+      "parts": [
+        "com-",
+        "posit",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "what something is made of; a piece of music or writing",
+        "tr": "bileşim; beste; kompozisyon",
+        "de": "die Zusammensetzung; die Komposition",
+        "fr": "la composition",
+        "it": "la composizione",
+        "es": "la composición"
+      },
+      "sentences": [
+        {
+          "en": "Scientists studied the [composition] of the soil.",
+          "tr": "Bilim insanları toprağın bileşimini inceledi.",
+          "de": "Wissenschaftler untersuchten die Zusammensetzung des Bodens.",
+          "fr": "Les scientifiques ont étudié la composition du sol.",
+          "it": "Gli scienziati hanno studiato la composizione del suolo.",
+          "es": "Los científicos estudiaron la composición del suelo."
+        },
+        {
+          "en": "The band played a new [composition].",
+          "tr": "Grup yeni bir beste çaldı.",
+          "de": "Die Band spielte eine neue Komposition.",
+          "fr": "Le groupe a joué une nouvelle composition.",
+          "it": "La band ha suonato una nuova composizione.",
+          "es": "El grupo tocó una nueva composición."
+        }
+      ]
+    },
+    {
+      "id": "component",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "com-",
+        "pon",
+        "-ent"
+      ],
+      "gloss": {
+        "en": "one of the parts of a machine or system (literally: putting together)",
+        "tr": "bileşen, parça",
+        "de": "der Bestandteil, das Bauteil",
+        "fr": "le composant",
+        "it": "il componente",
+        "es": "el componente"
+      },
+      "sentences": [
+        {
+          "en": "The factory makes [components] for cars.",
+          "tr": "Fabrika arabalar için parça üretiyor.",
+          "de": "Die Fabrik stellt Bauteile für Autos her.",
+          "fr": "L'usine fabrique des composants automobiles.",
+          "it": "La fabbrica produce componenti per auto.",
+          "es": "La fábrica produce componentes para coches."
+        },
+        {
+          "en": "Trust is a key [component] of any team.",
+          "tr": "Güven her takımın temel bileşenidir.",
+          "de": "Vertrauen ist ein wesentlicher Bestandteil jedes Teams.",
+          "fr": "La confiance est un élément clé de toute équipe.",
+          "it": "La fiducia è un componente chiave di ogni squadra.",
+          "es": "La confianza es un componente clave de cualquier equipo."
+        }
+      ]
+    },
+    {
+      "id": "compound",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "com-",
+        "pound"
+      ],
+      "gloss": {
+        "en": "something made of two or more parts; a chemical made of different elements (from Old French compondre, from Latin componere)",
+        "tr": "bileşik; birleşik kelime",
+        "de": "die Verbindung; das Kompositum",
+        "fr": "le composé",
+        "it": "il composto",
+        "es": "el compuesto"
+      },
+      "sentences": [
+        {
+          "en": "Water is a [compound] of hydrogen and oxygen.",
+          "tr": "Su, hidrojen ve oksijenin bir bileşiğidir.",
+          "de": "Wasser ist eine Verbindung aus Wasserstoff und Sauerstoff.",
+          "fr": "L'eau est un composé d'hydrogène et d'oxygène.",
+          "it": "L'acqua è un composto di idrogeno e ossigeno.",
+          "es": "El agua es un compuesto de hidrógeno y oxígeno."
+        },
+        {
+          "en": "\"Football\" is a [compound] of two words.",
+          "tr": "\"Football\" iki kelimeden oluşan birleşik bir kelime.",
+          "de": "„Football“ ist ein Kompositum aus zwei Wörtern.",
+          "fr": "« Football » est un mot composé de deux mots.",
+          "it": "«Football» è una parola composta da due parole.",
+          "es": "«Football» es un compuesto de dos palabras."
+        }
+      ]
+    },
+    {
+      "id": "expose",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ex-",
+        "pose"
+      ],
+      "gloss": {
+        "en": "to uncover or show something hidden; to leave without protection (literally: to put out)",
+        "tr": "açığa çıkarmak, ortaya koymak; maruz bırakmak",
+        "de": "aufdecken; aussetzen",
+        "fr": "révéler, dévoiler; exposer",
+        "it": "smascherare, rivelare; esporre",
+        "es": "destapar, revelar; exponer"
+      },
+      "sentences": [
+        {
+          "en": "The reporter [exposed] the scandal.",
+          "tr": "Muhabir skandalı ortaya çıkardı.",
+          "de": "Der Reporter deckte den Skandal auf.",
+          "fr": "Le journaliste a révélé le scandale.",
+          "it": "Il giornalista ha smascherato lo scandalo.",
+          "es": "El periodista destapó el escándalo."
+        },
+        {
+          "en": "Don't [expose] the plants to strong sun.",
+          "tr": "Bitkileri güçlü güneşe maruz bırakma.",
+          "de": "Setz die Pflanzen keiner starken Sonne aus.",
+          "fr": "N'expose pas les plantes au soleil fort.",
+          "it": "Non esporre le piante al sole forte.",
+          "es": "No expongas las plantas al sol fuerte."
+        }
+      ]
+    },
+    {
+      "id": "exposure",
+      "pos": "noun",
+      "parent": "expose",
+      "parts": [
+        "ex-",
+        "pos",
+        "-ure"
+      ],
+      "gloss": {
+        "en": "being without protection from something; how much light a photo gets",
+        "tr": "maruz kalma; pozlama",
+        "de": "die Belastung, das Ausgesetztsein; die Belichtung",
+        "fr": "l'exposition",
+        "it": "l'esposizione",
+        "es": "la exposición"
+      },
+      "sentences": [
+        {
+          "en": "Long [exposure] to noise can damage hearing.",
+          "tr": "Gürültüye uzun süre maruz kalmak işitmeye zarar verebilir.",
+          "de": "Lange Lärmbelastung kann das Gehör schädigen.",
+          "fr": "Une longue exposition au bruit peut abîmer l'ouïe.",
+          "it": "Una lunga esposizione al rumore può danneggiare l'udito.",
+          "es": "La exposición prolongada al ruido puede dañar el oído."
+        },
+        {
+          "en": "Use a longer [exposure] for night photos.",
+          "tr": "Gece fotoğrafları için daha uzun pozlama kullan.",
+          "de": "Nimm für Nachtfotos eine längere Belichtung.",
+          "fr": "Utilise une exposition plus longue pour les photos de nuit.",
+          "it": "Usa un'esposizione più lunga per le foto notturne.",
+          "es": "Usa una exposición más larga para las fotos nocturnas."
+        }
+      ]
+    },
+    {
+      "id": "exponent",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "ex-",
+        "pon",
+        "-ent"
+      ],
+      "gloss": {
+        "en": "the small number that shows a power, as the 2 in x²; a person who supports an idea (literally: one who puts out)",
+        "tr": "üs; savunucu",
+        "de": "der Exponent; der Vertreter",
+        "fr": "l'exposant; le représentant",
+        "it": "l'esponente",
+        "es": "el exponente"
+      },
+      "sentences": [
+        {
+          "en": "In 2³, the [exponent] is 3.",
+          "tr": "2³'te üs 3'tür.",
+          "de": "Bei 2³ ist der Exponent 3.",
+          "fr": "Dans 2³, l'exposant est 3.",
+          "it": "In 2³ l'esponente è 3.",
+          "es": "En 2³, el exponente es 3."
+        },
+        {
+          "en": "He is a leading [exponent] of free software.",
+          "tr": "Özgür yazılımın önde gelen savunucularından biri.",
+          "de": "Er ist ein führender Vertreter freier Software.",
+          "fr": "C'est un grand défenseur du logiciel libre.",
+          "it": "È uno dei principali esponenti del software libero.",
+          "es": "Es uno de los principales exponentes del software libre."
+        }
+      ]
+    },
+    {
+      "id": "impose",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "im-",
+        "pose"
+      ],
+      "gloss": {
+        "en": "to force a rule, tax or idea on people (literally: to put on)",
+        "tr": "dayatmak, koymak",
+        "de": "auferlegen, verhängen",
+        "fr": "imposer",
+        "it": "imporre",
+        "es": "imponer"
+      },
+      "sentences": [
+        {
+          "en": "The city [imposed] a ban on cars in the centre.",
+          "tr": "Belediye merkezde araba yasağı koydu.",
+          "de": "Die Stadt verhängte ein Autoverbot im Zentrum.",
+          "fr": "La ville a imposé une interdiction des voitures dans le centre.",
+          "it": "Il comune ha imposto il divieto di auto in centro.",
+          "es": "El ayuntamiento impuso la prohibición de coches en el centro."
+        },
+        {
+          "en": "Don't [impose] your opinions on others.",
+          "tr": "Fikirlerini başkalarına dayatma.",
+          "de": "Zwing anderen nicht deine Meinung auf.",
+          "fr": "N'impose pas tes opinions aux autres.",
+          "it": "Non imporre le tue opinioni agli altri.",
+          "es": "No impongas tus opiniones a los demás."
+        }
+      ]
+    },
+    {
+      "id": "propose",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "pro-",
+        "pose"
+      ],
+      "gloss": {
+        "en": "to suggest a plan; to ask someone to marry you (literally: to put forward)",
+        "tr": "önermek; evlenme teklif etmek",
+        "de": "vorschlagen; einen Heiratsantrag machen",
+        "fr": "proposer; demander en mariage",
+        "it": "proporre; fare la proposta di matrimonio",
+        "es": "proponer; pedir matrimonio"
+      },
+      "sentences": [
+        {
+          "en": "I [propose] that we meet on Friday.",
+          "tr": "Cuma günü buluşmamızı öneriyorum.",
+          "de": "Ich schlage vor, dass wir uns am Freitag treffen.",
+          "fr": "Je propose qu'on se voie vendredi.",
+          "it": "Propongo di vederci venerdì.",
+          "es": "Propongo que quedemos el viernes."
+        },
+        {
+          "en": "He [proposed] to her on the beach.",
+          "tr": "Ona kumsalda evlenme teklif etti.",
+          "de": "Er machte ihr am Strand einen Heiratsantrag.",
+          "fr": "Il l'a demandée en mariage sur la plage.",
+          "it": "Le ha fatto la proposta sulla spiaggia.",
+          "es": "Le pidió matrimonio en la playa."
+        }
+      ]
+    },
+    {
+      "id": "proposal",
+      "pos": "noun",
+      "parent": "propose",
+      "parts": [
+        "pro-",
+        "pos",
+        "-al"
+      ],
+      "gloss": {
+        "en": "a plan or suggestion; an offer of marriage",
+        "tr": "öneri, teklif",
+        "de": "der Vorschlag; der Antrag",
+        "fr": "la proposition; la demande en mariage",
+        "it": "la proposta",
+        "es": "la propuesta; la petición de mano"
+      },
+      "sentences": [
+        {
+          "en": "The team accepted my [proposal].",
+          "tr": "Ekip önerimi kabul etti.",
+          "de": "Das Team nahm meinen Vorschlag an.",
+          "fr": "L'équipe a accepté ma proposition.",
+          "it": "Il team ha accettato la mia proposta.",
+          "es": "El equipo aceptó mi propuesta."
+        },
+        {
+          "en": "Write a one-page [proposal] for the project.",
+          "tr": "Proje için bir sayfalık bir öneri yaz.",
+          "de": "Schreib einen einseitigen Projektvorschlag.",
+          "fr": "Rédige une proposition d'une page pour le projet.",
+          "it": "Scrivi una proposta di una pagina per il progetto.",
+          "es": "Escribe una propuesta de una página para el proyecto."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "pur-",
+        "pose"
+      ],
+      "gloss": {
+        "en": "the reason for doing something; a goal (literally: something put forward)",
+        "tr": "amaç; kasıt",
+        "de": "der Zweck; die Absicht",
+        "fr": "le but; l'intention",
+        "it": "lo scopo; l'intenzione",
+        "es": "el propósito, el objetivo"
+      },
+      "sentences": [
+        {
+          "en": "What is the [purpose] of your visit?",
+          "tr": "Ziyaretinizin amacı nedir?",
+          "de": "Was ist der Zweck Ihres Besuchs?",
+          "fr": "Quel est le but de votre visite ?",
+          "it": "Qual è lo scopo della sua visita?",
+          "es": "¿Cuál es el propósito de su visita?"
+        },
+        {
+          "en": "Did you break it on [purpose]?",
+          "tr": "Onu bilerek mi kırdın?",
+          "de": "Hast du es absichtlich kaputt gemacht?",
+          "fr": "Tu l'as cassé exprès ?",
+          "it": "L'hai rotto apposta?",
+          "es": "¿Lo rompiste a propósito?"
+        }
+      ]
+    },
+    {
+      "id": "suppose",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "sup-",
+        "pose"
+      ],
+      "gloss": {
+        "en": "to think something is probably true (literally: to put under, to assume)",
+        "tr": "sanmak, varsaymak",
+        "de": "annehmen, vermuten",
+        "fr": "supposer",
+        "it": "supporre",
+        "es": "suponer"
+      },
+      "sentences": [
+        {
+          "en": "I [suppose] you're right.",
+          "tr": "Sanırım haklısın.",
+          "de": "Ich nehme an, du hast recht.",
+          "fr": "Je suppose que tu as raison.",
+          "it": "Suppongo che tu abbia ragione.",
+          "es": "Supongo que tienes razón."
+        },
+        {
+          "en": "You're [supposed] to wear a helmet here.",
+          "tr": "Burada kask takman gerekiyor.",
+          "de": "Hier soll man einen Helm tragen.",
+          "fr": "Tu es censé porter un casque ici.",
+          "it": "Qui dovresti indossare il casco.",
+          "es": "Aquí se supone que tienes que llevar casco."
+        }
+      ]
+    },
+    {
+      "id": "dispose",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "dis-",
+        "pose"
+      ],
+      "gloss": {
+        "en": "(dispose of) to get rid of something (literally: to put apart)",
+        "tr": "atmak, kurtulmak",
+        "de": "entsorgen, beseitigen",
+        "fr": "se débarrasser de, jeter",
+        "it": "smaltire, sbarazzarsi di",
+        "es": "deshacerse de, tirar"
+      },
+      "sentences": [
+        {
+          "en": "Please [dispose] of batteries safely.",
+          "tr": "Lütfen pilleri güvenli bir şekilde atın.",
+          "de": "Bitte entsorge Batterien sachgerecht.",
+          "fr": "Merci de jeter les piles de façon sûre.",
+          "it": "Per favore, smaltite le batterie in modo sicuro.",
+          "es": "Por favor, deshazte de las pilas de forma segura."
+        },
+        {
+          "en": "How do you [dispose] of old paint?",
+          "tr": "Eski boyadan nasıl kurtuluyorsun?",
+          "de": "Wie entsorgt man alte Farbe?",
+          "fr": "Comment se débarrasse-t-on de la vieille peinture ?",
+          "it": "Come si smaltisce la vernice vecchia?",
+          "es": "¿Cómo te deshaces de la pintura vieja?"
+        }
+      ]
+    },
+    {
+      "id": "disposable",
+      "pos": "adjective",
+      "parent": "dispose",
+      "parts": [
+        "dis-",
+        "pos",
+        "-able"
+      ],
+      "gloss": {
+        "en": "made to be used once and thrown away",
+        "tr": "tek kullanımlık",
+        "de": "Einweg-, Wegwerf-",
+        "fr": "jetable",
+        "it": "usa e getta, monouso",
+        "es": "desechable"
+      },
+      "sentences": [
+        {
+          "en": "We stopped using [disposable] cups.",
+          "tr": "Tek kullanımlık bardak kullanmayı bıraktık.",
+          "de": "Wir benutzen keine Einwegbecher mehr.",
+          "fr": "Nous n'utilisons plus de gobelets jetables.",
+          "it": "Abbiamo smesso di usare bicchieri usa e getta.",
+          "es": "Dejamos de usar vasos desechables."
+        },
+        {
+          "en": "Bring a [disposable] raincoat to the festival.",
+          "tr": "Festivale tek kullanımlık bir yağmurluk getir.",
+          "de": "Bring einen Einweg-Regenponcho zum Festival mit.",
+          "fr": "Apporte un poncho jetable au festival.",
+          "it": "Porta un impermeabile monouso al festival.",
+          "es": "Lleva un chubasquero desechable al festival."
+        }
+      ]
+    },
+    {
+      "id": "postpone",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "post-",
+        "pone"
+      ],
+      "gloss": {
+        "en": "to move an event to a later time (literally: to put after)",
+        "tr": "ertelemek",
+        "de": "verschieben",
+        "fr": "reporter",
+        "it": "rinviare, rimandare",
+        "es": "aplazar, posponer"
+      },
+      "sentences": [
+        {
+          "en": "The match was [postponed] because of rain.",
+          "tr": "Maç yağmur yüzünden ertelendi.",
+          "de": "Das Spiel wurde wegen Regen verschoben.",
+          "fr": "Le match a été reporté à cause de la pluie.",
+          "it": "La partita è stata rinviata per la pioggia.",
+          "es": "El partido se aplazó por la lluvia."
+        },
+        {
+          "en": "Can we [postpone] the meeting until Monday?",
+          "tr": "Toplantıyı pazartesiye erteleyebilir miyiz?",
+          "de": "Können wir das Treffen auf Montag verschieben?",
+          "fr": "Pouvons-nous reporter la réunion à lundi ?",
+          "it": "Possiamo rimandare la riunione a lunedì?",
+          "es": "¿Podemos aplazar la reunión hasta el lunes?"
+        }
+      ]
+    }
+  ]
+}

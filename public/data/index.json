@@ -474,6 +474,35 @@
     ]
   },
   {
+    "id": "loc",
+    "forms": [
+      "loc"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "place",
+      "tr": "yer",
+      "de": "der Ort",
+      "fr": "le lieu",
+      "it": "il luogo",
+      "es": "el lugar"
+    },
+    "words": [
+      "local",
+      "locally",
+      "locality",
+      "localize",
+      "locate",
+      "location",
+      "relocate",
+      "relocation",
+      "allocate",
+      "allocation",
+      "dislocate",
+      "collocation"
+    ]
+  },
+  {
     "id": "mit",
     "forms": [
       "mit",
@@ -519,6 +548,50 @@
     ]
   },
   {
+    "id": "mov",
+    "forms": [
+      "mov",
+      "move",
+      "mot",
+      "mote",
+      "mob"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to move",
+      "tr": "hareket etmek, kımıldatmak",
+      "de": "bewegen",
+      "fr": "mouvoir, bouger",
+      "it": "muovere",
+      "es": "mover"
+    },
+    "words": [
+      "move",
+      "movement",
+      "movie",
+      "remove",
+      "removal",
+      "motion",
+      "motionless",
+      "motor",
+      "motive",
+      "motivate",
+      "motivation",
+      "emotion",
+      "emotional",
+      "promote",
+      "promotion",
+      "remote",
+      "demote",
+      "commotion",
+      "locomotive",
+      "mobile",
+      "mobility",
+      "immobile",
+      "automobile"
+    ]
+  },
+  {
     "id": "pend",
     "forms": [
       "pend",
@@ -559,6 +632,51 @@
       "appendix",
       "impending",
       "pensive"
+    ]
+  },
+  {
+    "id": "pos",
+    "forms": [
+      "pon",
+      "pone",
+      "pos",
+      "pose",
+      "posit",
+      "pound"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to put, to place",
+      "tr": "koymak, yerleştirmek",
+      "de": "setzen, stellen, legen",
+      "fr": "poser, placer",
+      "it": "porre, mettere",
+      "es": "poner, colocar"
+    },
+    "words": [
+      "pose",
+      "position",
+      "positive",
+      "deposit",
+      "oppose",
+      "opponent",
+      "opposition",
+      "compose",
+      "composer",
+      "composition",
+      "component",
+      "compound",
+      "expose",
+      "exposure",
+      "exponent",
+      "impose",
+      "propose",
+      "proposal",
+      "purpose",
+      "suppose",
+      "dispose",
+      "disposable",
+      "postpone"
     ]
   },
   {
