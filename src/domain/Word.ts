@@ -2,7 +2,7 @@ import type { Localized } from './Language';
 import type { Morpheme } from './Morpheme';
 import type { Sentence } from './Sentence';
 
-export type PartOfSpeech = 'verb' | 'noun' | 'adjective' | 'adverb';
+export type PartOfSpeech = 'verb' | 'noun' | 'adjective' | 'adverb' | 'preposition';
 
 /** How a word is built from its root, used to group the derivation list. */
 export type Formation = 'bare' | 'prefix' | 'suffix' | 'both';

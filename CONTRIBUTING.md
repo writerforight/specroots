@@ -18,7 +18,7 @@ Thank you for helping! The easiest ways to help need no code:
      - `parts`: prefix ids, root forms and suffix ids that spell the word exactly:
        `["de-", "script", "-ion"]` → *description*.
      - `parent`: the word it comes from (`"describe"`), or `null` if it comes straight from the root.
-     - `pos`: `verb`, `noun`, `adjective` or `adverb`.
+     - `pos`: `verb`, `noun`, `adjective`, `adverb` or `preposition`.
      - `gloss`: a short English definition plus a translation in the other five languages.
      - `sentences`: at least two. Mark the word in the English sentence with square brackets:
        `"Can you [describe] the man you saw?"`, and translate the sentence into all five languages.

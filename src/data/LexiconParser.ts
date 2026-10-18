@@ -13,7 +13,7 @@ export class LexiconError extends Error {
 }
 
 const ORIGINS: readonly Origin[] = ['la', 'gr'];
-const PARTS_OF_SPEECH: readonly PartOfSpeech[] = ['verb', 'noun', 'adjective', 'adverb'];
+const PARTS_OF_SPEECH: readonly PartOfSpeech[] = ['verb', 'noun', 'adjective', 'adverb', 'preposition'];
 const AFFIX_KINDS: readonly AffixKind[] = ['prefix', 'suffix'];
 
 type Json = Record<string, unknown>;
