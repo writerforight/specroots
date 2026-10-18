@@ -332,12 +332,12 @@
   "dis-": {
     "kind": "prefix",
     "meaning": {
-      "en": "not, the opposite of",
-      "tr": "değil, karşıtı",
-      "de": "nicht, Gegenteil von",
-      "fr": "contraire de",
-      "it": "contrario di",
-      "es": "contrario de"
+      "en": "apart, away; not, the opposite of",
+      "tr": "ayrı, uzağa; değil, karşıtı",
+      "de": "auseinander, weg; nicht, Gegenteil von",
+      "fr": "à part, au loin; contraire de",
+      "it": "separato, via; contrario di",
+      "es": "aparte, lejos; contrario de"
     }
   },
   "retro-": {
@@ -724,6 +724,139 @@
       "fr": "lieu pour (forme un nom)",
       "it": "luogo per (forma un nome)",
       "es": "lugar para (forma un sustantivo)"
+    }
+  },
+  "super-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "over, above",
+      "tr": "üst, üzerinde",
+      "de": "über",
+      "fr": "au-dessus, sur",
+      "it": "sopra",
+      "es": "sobre, encima"
+    }
+  },
+  "inter-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "between",
+      "tr": "arasında",
+      "de": "zwischen",
+      "fr": "entre",
+      "it": "tra, fra",
+      "es": "entre"
+    }
+  },
+  "im-not-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "not (in- before m, p, b)",
+      "tr": "değil (m, p, b önünde in-)",
+      "de": "nicht (in- vor m, p, b)",
+      "fr": "non (in- devant m, p, b)",
+      "it": "non (in- davanti a m, p, b)",
+      "es": "no (in- ante m, p, b)"
+    },
+    "form": "im"
+  },
+  "ob-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "against, in front of",
+      "tr": "karşı, önüne",
+      "de": "gegen, vor",
+      "fr": "contre, devant",
+      "it": "contro, davanti",
+      "es": "contra, delante de"
+    }
+  },
+  "o-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "toward, against (ob- before m)",
+      "tr": "-e doğru, karşı (m önünde ob-)",
+      "de": "hin zu, gegen (ob- vor m)",
+      "fr": "vers, contre (ob- devant m)",
+      "it": "verso, contro (ob- davanti a m)",
+      "es": "hacia, contra (ob- ante m)"
+    }
+  },
+  "tra-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "across (trans- before j)",
+      "tr": "öte yana (j önünde trans-)",
+      "de": "hinüber (trans- vor j)",
+      "fr": "au-delà (trans- devant j)",
+      "it": "al di là (trans- davanti a j)",
+      "es": "al otro lado (trans- ante j)"
+    }
+  },
+  "com-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "with, together (con- before m, p, b)",
+      "tr": "birlikte (m, p, b önünde con-)",
+      "de": "zusammen (con- vor m, p, b)",
+      "fr": "ensemble (con- devant m, p, b)",
+      "it": "insieme (con- davanti a m, p, b)",
+      "es": "juntos (con- ante m, p, b)"
+    }
+  },
+  "-eo": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "I … (Latin verb ending: video, 'I see')",
+      "tr": "-ırım (Latince fiil eki: video, 'görürüm')",
+      "de": "ich … (lateinische Verbendung: video, „ich sehe“)",
+      "fr": "je … (terminaison latine : video, « je vois »)",
+      "it": "io … (desinenza latina: video, «io vedo»)",
+      "es": "yo … (terminación latina: video, «yo veo»)"
+    }
+  },
+  "-ence": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "state or quality (makes a noun)",
+      "tr": "durum, nitelik (isim yapar)",
+      "de": "Zustand, Eigenschaft (bildet ein Nomen)",
+      "fr": "état, qualité (-ence)",
+      "it": "stato, qualità (-enza)",
+      "es": "estado, cualidad (-encia)"
+    }
+  },
+  "-ent": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "being, doing (makes an adjective)",
+      "tr": "olan, yapan (sıfat yapar)",
+      "de": "seiend, tuend (bildet ein Adjektiv)",
+      "fr": "qui est, qui fait (forme un adjectif)",
+      "it": "che è, che fa (forma un aggettivo)",
+      "es": "que es, que hace (forma un adjetivo)"
+    }
+  },
+  "-ual": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "relating to (makes an adjective)",
+      "tr": "ile ilgili (sıfat yapar)",
+      "de": "bezogen auf (bildet ein Adjektiv)",
+      "fr": "relatif à (forme un adjectif)",
+      "it": "relativo a (forma un aggettivo)",
+      "es": "relativo a (forma un adjetivo)"
+    }
+  },
+  "-ile": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "able to be, thing that is (makes an adjective or noun)",
+      "tr": "-ebilen, olan şey",
+      "de": "fähig zu, Ding, das … ist",
+      "fr": "qui peut être, chose qui est",
+      "it": "che può essere, cosa che è",
+      "es": "que puede ser, cosa que es"
     }
   }
 }

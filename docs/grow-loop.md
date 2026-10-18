@@ -44,7 +44,7 @@ yanına `(az: N)` yaz. Toplam hedef ≈ 1000–2000 kelime.
 - Aynı test iki turdur düzelmiyorsa ya da push reddediliyorsa döngüyü durdur ve nedenini yaz.
 
 ## Durum
-Kök: 6 / 50 (genişletme 5/5 bitti) · Kelime: 137
+Kök: 9 / 50 · Kelime: 210
 
 ## Kuyruk
 
@@ -57,9 +57,9 @@ Kök: 6 / 50 (genişletme 5/5 bitti) · Kelime: 137
 
 ### Yeni (Latince)
 - [x] aud — duymak — 9 (az: 9)
-- [ ] vid / vis — görmek
-- [ ] ject — atmak
-- [ ] mit / miss — göndermek
+- [x] vid / vis — görmek — 27
+- [x] ject — atmak — 20
+- [x] mit / miss — göndermek — 26
 - [ ] pend / pens — asmak, tartmak
 - [ ] tract — çekmek
 - [ ] struct — kurmak

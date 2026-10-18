@@ -1,0 +1,981 @@
+{
+  "id": "vid",
+  "forms": [
+    "vid",
+    "vide",
+    "vis",
+    "vise",
+    "view"
+  ],
+  "origin": "la",
+  "etymon": "videre",
+  "meaning": {
+    "en": "to see",
+    "tr": "görmek",
+    "de": "sehen",
+    "fr": "voir",
+    "it": "vedere",
+    "es": "ver"
+  },
+  "words": [
+    {
+      "id": "video",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "vid",
+        "-eo"
+      ],
+      "gloss": {
+        "en": "recorded moving pictures (Latin video, 'I see')",
+        "tr": "video",
+        "de": "das Video",
+        "fr": "la vidéo",
+        "it": "il video",
+        "es": "el vídeo"
+      },
+      "sentences": [
+        {
+          "en": "She made a [video] of the concert.",
+          "tr": "Konserin videosunu çekti.",
+          "de": "Sie hat ein Video vom Konzert gemacht.",
+          "fr": "Elle a filmé une vidéo du concert.",
+          "it": "Ha girato un video del concerto.",
+          "es": "Grabó un vídeo del concierto."
+        },
+        {
+          "en": "This [video] explains how to fix a bike.",
+          "tr": "Bu video bisikletin nasıl tamir edileceğini anlatıyor.",
+          "de": "Dieses Video erklärt, wie man ein Fahrrad repariert.",
+          "fr": "Cette vidéo explique comment réparer un vélo.",
+          "it": "Questo video spiega come riparare una bici.",
+          "es": "Este vídeo explica cómo arreglar una bici."
+        }
+      ]
+    },
+    {
+      "id": "evident",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "e-",
+        "vid",
+        "-ent"
+      ],
+      "gloss": {
+        "en": "easy to see or understand; clear (literally: seen out)",
+        "tr": "açık, belli",
+        "de": "offensichtlich",
+        "fr": "évident",
+        "it": "evidente",
+        "es": "evidente"
+      },
+      "sentences": [
+        {
+          "en": "It was [evident] that she was tired.",
+          "tr": "Yorgun olduğu belliydi.",
+          "de": "Es war offensichtlich, dass sie müde war.",
+          "fr": "Il était évident qu'elle était fatiguée.",
+          "it": "Era evidente che fosse stanca.",
+          "es": "Era evidente que estaba cansada."
+        },
+        {
+          "en": "His love for music is [evident] in every song.",
+          "tr": "Müziğe olan sevgisi her şarkıda belli oluyor.",
+          "de": "Seine Liebe zur Musik zeigt sich in jedem Lied.",
+          "fr": "Son amour de la musique est évident dans chaque chanson.",
+          "it": "Il suo amore per la musica è evidente in ogni canzone.",
+          "es": "Su amor por la música es evidente en cada canción."
+        }
+      ]
+    },
+    {
+      "id": "evidence",
+      "pos": "noun",
+      "parent": "evident",
+      "parts": [
+        "e-",
+        "vid",
+        "-ence"
+      ],
+      "gloss": {
+        "en": "facts or signs that show something is true",
+        "tr": "kanıt, delil",
+        "de": "der Beweis, der Beleg",
+        "fr": "la preuve",
+        "it": "la prova",
+        "es": "la prueba"
+      },
+      "sentences": [
+        {
+          "en": "There is no [evidence] that he stole the money.",
+          "tr": "Parayı onun çaldığına dair hiçbir kanıt yok.",
+          "de": "Es gibt keinen Beweis, dass er das Geld gestohlen hat.",
+          "fr": "Il n'y a aucune preuve qu'il ait volé l'argent.",
+          "it": "Non c'è alcuna prova che abbia rubato i soldi.",
+          "es": "No hay pruebas de que robara el dinero."
+        },
+        {
+          "en": "Scientists look for [evidence] before they decide.",
+          "tr": "Bilim insanları karar vermeden önce kanıt arar.",
+          "de": "Wissenschaftler suchen nach Belegen, bevor sie entscheiden.",
+          "fr": "Les scientifiques cherchent des preuves avant de conclure.",
+          "it": "Gli scienziati cercano prove prima di decidere.",
+          "es": "Los científicos buscan pruebas antes de decidir."
+        }
+      ]
+    },
+    {
+      "id": "provide",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "pro-",
+        "vide"
+      ],
+      "gloss": {
+        "en": "to give something that is needed (literally: to see ahead)",
+        "tr": "sağlamak",
+        "de": "bereitstellen, bieten",
+        "fr": "fournir",
+        "it": "fornire",
+        "es": "proporcionar, ofrecer"
+      },
+      "sentences": [
+        {
+          "en": "The hotel [provides] free breakfast.",
+          "tr": "Otel ücretsiz kahvaltı sağlıyor.",
+          "de": "Das Hotel bietet kostenloses Frühstück.",
+          "fr": "L'hôtel fournit le petit-déjeuner gratuitement.",
+          "it": "L'hotel offre la colazione gratuita.",
+          "es": "El hotel ofrece desayuno gratis."
+        },
+        {
+          "en": "Trees [provide] shade in summer.",
+          "tr": "Ağaçlar yazın gölge sağlar.",
+          "de": "Bäume spenden im Sommer Schatten.",
+          "fr": "Les arbres donnent de l'ombre en été.",
+          "it": "Gli alberi fanno ombra d'estate.",
+          "es": "Los árboles dan sombra en verano."
+        }
+      ]
+    },
+    {
+      "id": "provider",
+      "pos": "noun",
+      "parent": "provide",
+      "parts": [
+        "pro-",
+        "vid",
+        "-er"
+      ],
+      "gloss": {
+        "en": "a person or company that supplies something",
+        "tr": "sağlayıcı",
+        "de": "der Anbieter",
+        "fr": "le fournisseur",
+        "it": "il fornitore",
+        "es": "el proveedor"
+      },
+      "sentences": [
+        {
+          "en": "I changed my internet [provider].",
+          "tr": "İnternet sağlayıcımı değiştirdim.",
+          "de": "Ich habe meinen Internetanbieter gewechselt.",
+          "fr": "J'ai changé de fournisseur d'accès à internet.",
+          "it": "Ho cambiato fornitore di internet.",
+          "es": "Cambié de proveedor de internet."
+        },
+        {
+          "en": "She is the main [provider] for her family.",
+          "tr": "Ailesinin geçimini o sağlıyor.",
+          "de": "Sie ist die Hauptverdienerin der Familie.",
+          "fr": "C'est elle qui fait vivre sa famille.",
+          "it": "È lei che mantiene la famiglia.",
+          "es": "Ella es el principal sustento de su familia."
+        }
+      ]
+    },
+    {
+      "id": "provision",
+      "pos": "noun",
+      "parent": "provide",
+      "parts": [
+        "pro-",
+        "vis",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "the act of supplying something; (plural) food for a journey",
+        "tr": "sağlama, temin; erzak",
+        "de": "die Versorgung; der Proviant",
+        "fr": "la fourniture; les provisions",
+        "it": "la fornitura; le provviste",
+        "es": "el suministro; las provisiones"
+      },
+      "sentences": [
+        {
+          "en": "The [provision] of clean water is the first goal.",
+          "tr": "İlk hedef temiz su sağlamak.",
+          "de": "Die Versorgung mit sauberem Wasser ist das erste Ziel.",
+          "fr": "L'accès à l'eau potable est le premier objectif.",
+          "it": "La fornitura di acqua pulita è il primo obiettivo.",
+          "es": "El suministro de agua potable es el primer objetivo."
+        },
+        {
+          "en": "We packed [provisions] for three days.",
+          "tr": "Üç günlük erzak hazırladık.",
+          "de": "Wir packten Proviant für drei Tage ein.",
+          "fr": "Nous avons emporté des provisions pour trois jours.",
+          "it": "Abbiamo preparato provviste per tre giorni.",
+          "es": "Llevamos provisiones para tres días."
+        }
+      ]
+    },
+    {
+      "id": "vision",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "vis",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "the ability to see; a clear idea of the future",
+        "tr": "görme; vizyon",
+        "de": "das Sehvermögen; die Vision",
+        "fr": "la vue; la vision",
+        "it": "la vista; la visione",
+        "es": "la vista; la visión"
+      },
+      "sentences": [
+        {
+          "en": "Carrots are said to be good for your [vision].",
+          "tr": "Havucun göze iyi geldiği söylenir.",
+          "de": "Karotten sollen gut für die Augen sein.",
+          "fr": "On dit que les carottes sont bonnes pour la vue.",
+          "it": "Si dice che le carote facciano bene alla vista.",
+          "es": "Dicen que las zanahorias son buenas para la vista."
+        },
+        {
+          "en": "The founder had a [vision] of a greener city.",
+          "tr": "Kurucunun daha yeşil bir şehir vizyonu vardı.",
+          "de": "Der Gründer hatte die Vision einer grüneren Stadt.",
+          "fr": "Le fondateur avait la vision d'une ville plus verte.",
+          "it": "Il fondatore aveva la visione di una città più verde.",
+          "es": "El fundador tenía la visión de una ciudad más verde."
+        }
+      ]
+    },
+    {
+      "id": "visionary",
+      "pos": "adjective",
+      "parent": "vision",
+      "parts": [
+        "vis",
+        "-ion",
+        "-ary"
+      ],
+      "gloss": {
+        "en": "having bold, original ideas about the future",
+        "tr": "vizyoner, ileri görüşlü",
+        "de": "visionär",
+        "fr": "visionnaire",
+        "it": "visionario",
+        "es": "visionario"
+      },
+      "sentences": [
+        {
+          "en": "She was a [visionary] architect.",
+          "tr": "İleri görüşlü bir mimardı.",
+          "de": "Sie war eine visionäre Architektin.",
+          "fr": "C'était une architecte visionnaire.",
+          "it": "Era un'architetta visionaria.",
+          "es": "Era una arquitecta visionaria."
+        },
+        {
+          "en": "His [visionary] plan seemed crazy at first.",
+          "tr": "Vizyoner planı ilk başta çılgınca görünüyordu.",
+          "de": "Sein visionärer Plan wirkte anfangs verrückt.",
+          "fr": "Son projet visionnaire semblait fou au début.",
+          "it": "Il suo piano visionario all'inizio sembrava folle.",
+          "es": "Su plan visionario parecía una locura al principio."
+        }
+      ]
+    },
+    {
+      "id": "visible",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "vis",
+        "-ible"
+      ],
+      "gloss": {
+        "en": "able to be seen",
+        "tr": "görünür",
+        "de": "sichtbar",
+        "fr": "visible",
+        "it": "visibile",
+        "es": "visible"
+      },
+      "sentences": [
+        {
+          "en": "The mountain is [visible] from my window.",
+          "tr": "Dağ penceremden görünüyor.",
+          "de": "Der Berg ist von meinem Fenster aus sichtbar.",
+          "fr": "La montagne est visible de ma fenêtre.",
+          "it": "La montagna è visibile dalla mia finestra.",
+          "es": "La montaña se ve desde mi ventana."
+        },
+        {
+          "en": "Wear something [visible] when you cycle at night.",
+          "tr": "Gece bisiklete binerken kolay görülen bir şey giy.",
+          "de": "Trag beim Radfahren nachts etwas gut Sichtbares.",
+          "fr": "Porte quelque chose de bien visible quand tu fais du vélo la nuit.",
+          "it": "Indossa qualcosa di ben visibile quando vai in bici di notte.",
+          "es": "Ponte algo visible cuando montes en bici de noche."
+        }
+      ]
+    },
+    {
+      "id": "invisible",
+      "pos": "adjective",
+      "parent": "visible",
+      "parts": [
+        "in-not-",
+        "vis",
+        "-ible"
+      ],
+      "gloss": {
+        "en": "impossible to see",
+        "tr": "görünmez",
+        "de": "unsichtbar",
+        "fr": "invisible",
+        "it": "invisibile",
+        "es": "invisible"
+      },
+      "sentences": [
+        {
+          "en": "Air is [invisible], but we can feel it.",
+          "tr": "Hava görünmez ama onu hissedebiliriz.",
+          "de": "Luft ist unsichtbar, aber wir können sie spüren.",
+          "fr": "L'air est invisible, mais on peut le sentir.",
+          "it": "L'aria è invisibile, ma possiamo sentirla.",
+          "es": "El aire es invisible, pero podemos sentirlo."
+        },
+        {
+          "en": "In the story, a ring makes him [invisible].",
+          "tr": "Hikâyede bir yüzük onu görünmez yapıyor.",
+          "de": "In der Geschichte macht ihn ein Ring unsichtbar.",
+          "fr": "Dans l'histoire, un anneau le rend invisible.",
+          "it": "Nella storia un anello lo rende invisibile.",
+          "es": "En la historia, un anillo lo vuelve invisible."
+        }
+      ]
+    },
+    {
+      "id": "visit",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "vis",
+        "-it"
+      ],
+      "gloss": {
+        "en": "to go and see a person or place (from Latin visitare, 'to go to see often')",
+        "tr": "ziyaret etmek",
+        "de": "besuchen",
+        "fr": "rendre visite à; visiter",
+        "it": "andare a trovare; visitare",
+        "es": "visitar"
+      },
+      "sentences": [
+        {
+          "en": "We [visit] my grandmother every Sunday.",
+          "tr": "Her pazar büyükannemi ziyaret ederiz.",
+          "de": "Wir besuchen meine Oma jeden Sonntag.",
+          "fr": "Nous rendons visite à ma grand-mère tous les dimanches.",
+          "it": "Andiamo a trovare mia nonna ogni domenica.",
+          "es": "Visitamos a mi abuela todos los domingos."
+        },
+        {
+          "en": "Have you ever [visited] Rome?",
+          "tr": "Hiç Roma'ya gittin mi?",
+          "de": "Warst du schon einmal in Rom?",
+          "fr": "As-tu déjà visité Rome ?",
+          "it": "Hai mai visitato Roma?",
+          "es": "¿Has visitado Roma alguna vez?"
+        }
+      ]
+    },
+    {
+      "id": "visitor",
+      "pos": "noun",
+      "parent": "visit",
+      "parts": [
+        "vis",
+        "-it",
+        "-or"
+      ],
+      "gloss": {
+        "en": "a person who visits",
+        "tr": "ziyaretçi",
+        "de": "der Besucher",
+        "fr": "le visiteur",
+        "it": "il visitatore",
+        "es": "el visitante"
+      },
+      "sentences": [
+        {
+          "en": "The museum had ten thousand [visitors] last week.",
+          "tr": "Müzeye geçen hafta on bin ziyaretçi geldi.",
+          "de": "Das Museum hatte letzte Woche zehntausend Besucher.",
+          "fr": "Le musée a accueilli dix mille visiteurs la semaine dernière.",
+          "it": "Il museo ha avuto diecimila visitatori la settimana scorsa.",
+          "es": "El museo recibió diez mil visitantes la semana pasada."
+        },
+        {
+          "en": "[Visitors] must sign in at the front desk.",
+          "tr": "Ziyaretçilerin danışmaya kayıt yaptırması gerekir.",
+          "de": "Besucher müssen sich am Empfang anmelden.",
+          "fr": "Les visiteurs doivent s'inscrire à l'accueil.",
+          "it": "I visitatori devono registrarsi alla reception.",
+          "es": "Los visitantes deben registrarse en recepción."
+        }
+      ]
+    },
+    {
+      "id": "visual",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "vis",
+        "-ual"
+      ],
+      "gloss": {
+        "en": "related to seeing or images",
+        "tr": "görsel",
+        "de": "visuell",
+        "fr": "visuel",
+        "it": "visivo",
+        "es": "visual"
+      },
+      "sentences": [
+        {
+          "en": "I have a good [visual] memory.",
+          "tr": "Görsel hafızam iyidir.",
+          "de": "Ich habe ein gutes visuelles Gedächtnis.",
+          "fr": "J'ai une bonne mémoire visuelle.",
+          "it": "Ho una buona memoria visiva.",
+          "es": "Tengo buena memoria visual."
+        },
+        {
+          "en": "The film's [visual] effects are amazing.",
+          "tr": "Filmin görsel efektleri muhteşem.",
+          "de": "Die visuellen Effekte des Films sind großartig.",
+          "fr": "Les effets visuels du film sont incroyables.",
+          "it": "Gli effetti visivi del film sono incredibili.",
+          "es": "Los efectos visuales de la película son increíbles."
+        }
+      ]
+    },
+    {
+      "id": "visualize",
+      "pos": "verb",
+      "parent": "visual",
+      "parts": [
+        "vis",
+        "-ual",
+        "-ize"
+      ],
+      "gloss": {
+        "en": "to form a picture of something in your mind; to show data as a picture",
+        "tr": "gözünde canlandırmak; görselleştirmek",
+        "de": "sich vorstellen; visualisieren",
+        "fr": "se représenter; visualiser",
+        "it": "immaginare; visualizzare",
+        "es": "imaginar; visualizar"
+      },
+      "sentences": [
+        {
+          "en": "Close your eyes and [visualize] the beach.",
+          "tr": "Gözlerini kapat ve kumsalı gözünde canlandır.",
+          "de": "Schließ die Augen und stell dir den Strand vor.",
+          "fr": "Ferme les yeux et imagine la plage.",
+          "it": "Chiudi gli occhi e immagina la spiaggia.",
+          "es": "Cierra los ojos e imagina la playa."
+        },
+        {
+          "en": "This chart helps us [visualize] the data.",
+          "tr": "Bu grafik verileri görselleştirmemize yardım ediyor.",
+          "de": "Dieses Diagramm hilft uns, die Daten zu visualisieren.",
+          "fr": "Ce graphique nous aide à visualiser les données.",
+          "it": "Questo grafico ci aiuta a visualizzare i dati.",
+          "es": "Este gráfico nos ayuda a visualizar los datos."
+        }
+      ]
+    },
+    {
+      "id": "revise",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "re-",
+        "vise"
+      ],
+      "gloss": {
+        "en": "to change and improve something; to study again for an exam (literally: to look at again)",
+        "tr": "gözden geçirmek; sınava tekrar çalışmak",
+        "de": "überarbeiten; wiederholen",
+        "fr": "corriger, réviser; réviser (un examen)",
+        "it": "rivedere; ripassare",
+        "es": "revisar; repasar"
+      },
+      "sentences": [
+        {
+          "en": "I [revised] my essay three times.",
+          "tr": "Kompozisyonumu üç kez gözden geçirdim.",
+          "de": "Ich habe meinen Aufsatz dreimal überarbeitet.",
+          "fr": "J'ai corrigé ma rédaction trois fois.",
+          "it": "Ho rivisto il mio tema tre volte.",
+          "es": "Revisé mi redacción tres veces."
+        },
+        {
+          "en": "She is [revising] for her history exam.",
+          "tr": "Tarih sınavına tekrar yapıyor.",
+          "de": "Sie lernt für ihre Geschichtsprüfung.",
+          "fr": "Elle révise pour son examen d'histoire.",
+          "it": "Sta ripassando per l'esame di storia.",
+          "es": "Está repasando para su examen de historia."
+        }
+      ]
+    },
+    {
+      "id": "revision",
+      "pos": "noun",
+      "parent": "revise",
+      "parts": [
+        "re-",
+        "vis",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a change made to improve something; studying again",
+        "tr": "düzeltme, revizyon; tekrar",
+        "de": "die Überarbeitung; die Wiederholung",
+        "fr": "la modification; les révisions",
+        "it": "la revisione; il ripasso",
+        "es": "la revisión; el repaso"
+      },
+      "sentences": [
+        {
+          "en": "The plan needs a few [revisions].",
+          "tr": "Planın birkaç düzeltmeye ihtiyacı var.",
+          "de": "Der Plan braucht ein paar Überarbeitungen.",
+          "fr": "Le projet a besoin de quelques modifications.",
+          "it": "Il piano ha bisogno di qualche revisione.",
+          "es": "El plan necesita algunas revisiones."
+        },
+        {
+          "en": "I do my [revision] in the library.",
+          "tr": "Tekrarımı kütüphanede yapıyorum.",
+          "de": "Ich lerne in der Bibliothek.",
+          "fr": "Je fais mes révisions à la bibliothèque.",
+          "it": "Faccio il ripasso in biblioteca.",
+          "es": "Hago el repaso en la biblioteca."
+        }
+      ]
+    },
+    {
+      "id": "supervise",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "super-",
+        "vise"
+      ],
+      "gloss": {
+        "en": "to watch over work or people (literally: to look over)",
+        "tr": "gözetmek, denetlemek; tez yönetmek",
+        "de": "beaufsichtigen; betreuen",
+        "fr": "surveiller; encadrer",
+        "it": "sorvegliare; seguire",
+        "es": "vigilar, supervisar; dirigir"
+      },
+      "sentences": [
+        {
+          "en": "A teacher [supervises] the children at lunch.",
+          "tr": "Öğle yemeğinde çocuklara bir öğretmen göz kulak oluyor.",
+          "de": "Eine Lehrerin beaufsichtigt die Kinder beim Mittagessen.",
+          "fr": "Une enseignante surveille les enfants pendant le déjeuner.",
+          "it": "Un'insegnante sorveglia i bambini a pranzo.",
+          "es": "Una profesora vigila a los niños en el comedor."
+        },
+        {
+          "en": "Who will [supervise] your thesis?",
+          "tr": "Tezine kim danışmanlık yapacak?",
+          "de": "Wer betreut deine Abschlussarbeit?",
+          "fr": "Qui va encadrer ton mémoire ?",
+          "it": "Chi seguirà la tua tesi?",
+          "es": "¿Quién dirigirá tu tesis?"
+        }
+      ]
+    },
+    {
+      "id": "supervisor",
+      "pos": "noun",
+      "parent": "supervise",
+      "parts": [
+        "super-",
+        "vis",
+        "-or"
+      ],
+      "gloss": {
+        "en": "a person who supervises others",
+        "tr": "amir; tez danışmanı",
+        "de": "der Vorgesetzte; der Betreuer",
+        "fr": "le responsable; le directeur de mémoire",
+        "it": "il supervisore; il relatore",
+        "es": "el supervisor; el director de tesis"
+      },
+      "sentences": [
+        {
+          "en": "Ask your [supervisor] for a day off.",
+          "tr": "Amirinden bir gün izin iste.",
+          "de": "Frag deinen Vorgesetzten nach einem freien Tag.",
+          "fr": "Demande un jour de congé à ton responsable.",
+          "it": "Chiedi un giorno libero al tuo supervisore.",
+          "es": "Pídele un día libre a tu supervisor."
+        },
+        {
+          "en": "My [supervisor] reads every chapter I write.",
+          "tr": "Danışmanım yazdığım her bölümü okuyor.",
+          "de": "Mein Betreuer liest jedes Kapitel, das ich schreibe.",
+          "fr": "Mon directeur de mémoire lit chaque chapitre que j'écris.",
+          "it": "Il mio relatore legge ogni capitolo che scrivo.",
+          "es": "Mi director de tesis lee cada capítulo que escribo."
+        }
+      ]
+    },
+    {
+      "id": "television",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "tele-",
+        "vis",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a device that shows pictures sent from far away (literally: far seeing)",
+        "tr": "televizyon",
+        "de": "das Fernsehen, der Fernseher",
+        "fr": "la télévision",
+        "it": "la televisione",
+        "es": "la televisión"
+      },
+      "sentences": [
+        {
+          "en": "We watched the match on [television].",
+          "tr": "Maçı televizyonda izledik.",
+          "de": "Wir haben das Spiel im Fernsehen gesehen.",
+          "fr": "Nous avons regardé le match à la télévision.",
+          "it": "Abbiamo guardato la partita in televisione.",
+          "es": "Vimos el partido en la televisión."
+        },
+        {
+          "en": "Turn off the [television] and go to bed.",
+          "tr": "Televizyonu kapat ve yat.",
+          "de": "Mach den Fernseher aus und geh ins Bett.",
+          "fr": "Éteins la télévision et va te coucher.",
+          "it": "Spegni la televisione e vai a letto.",
+          "es": "Apaga la televisión y vete a la cama."
+        }
+      ]
+    },
+    {
+      "id": "advise",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ad-",
+        "vise"
+      ],
+      "gloss": {
+        "en": "to tell someone what you think they should do (from Old French aviser, 'to look at')",
+        "tr": "tavsiye etmek, öğüt vermek",
+        "de": "raten, beraten",
+        "fr": "conseiller",
+        "it": "consigliare",
+        "es": "aconsejar"
+      },
+      "sentences": [
+        {
+          "en": "The doctor [advised] me to rest.",
+          "tr": "Doktor bana dinlenmemi tavsiye etti.",
+          "de": "Die Ärztin riet mir, mich auszuruhen.",
+          "fr": "Le médecin m'a conseillé de me reposer.",
+          "it": "Il medico mi ha consigliato di riposare.",
+          "es": "El médico me aconsejó descansar."
+        },
+        {
+          "en": "I [advise] you to book early.",
+          "tr": "Erken rezervasyon yapmanı tavsiye ederim.",
+          "de": "Ich rate dir, früh zu buchen.",
+          "fr": "Je te conseille de réserver tôt.",
+          "it": "Ti consiglio di prenotare presto.",
+          "es": "Te aconsejo reservar pronto."
+        }
+      ]
+    },
+    {
+      "id": "adviser",
+      "pos": "noun",
+      "parent": "advise",
+      "parts": [
+        "ad-",
+        "vis",
+        "-er"
+      ],
+      "gloss": {
+        "en": "a person whose job is to give advice",
+        "tr": "danışman",
+        "de": "der Berater",
+        "fr": "le conseiller",
+        "it": "il consulente, il consigliere",
+        "es": "el asesor"
+      },
+      "sentences": [
+        {
+          "en": "She works as a financial [adviser].",
+          "tr": "Mali danışman olarak çalışıyor.",
+          "de": "Sie arbeitet als Finanzberaterin.",
+          "fr": "Elle travaille comme conseillère financière.",
+          "it": "Lavora come consulente finanziaria.",
+          "es": "Trabaja como asesora financiera."
+        },
+        {
+          "en": "The president met his [advisers] this morning.",
+          "tr": "Cumhurbaşkanı bu sabah danışmanlarıyla görüştü.",
+          "de": "Der Präsident traf heute Morgen seine Berater.",
+          "fr": "Le président a rencontré ses conseillers ce matin.",
+          "it": "Il presidente ha incontrato i suoi consiglieri stamattina.",
+          "es": "El presidente se reunió con sus asesores esta mañana."
+        }
+      ]
+    },
+    {
+      "id": "improvise",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "im-not-",
+        "pro-",
+        "vise"
+      ],
+      "gloss": {
+        "en": "to make or do something without planning (literally: not foreseen)",
+        "tr": "doğaçlama yapmak",
+        "de": "improvisieren",
+        "fr": "improviser",
+        "it": "improvvisare",
+        "es": "improvisar"
+      },
+      "sentences": [
+        {
+          "en": "I forgot my notes, so I had to [improvise].",
+          "tr": "Notlarımı unuttum, o yüzden doğaçlama yapmak zorunda kaldım.",
+          "de": "Ich hatte meine Notizen vergessen und musste improvisieren.",
+          "fr": "J'avais oublié mes notes, alors j'ai dû improviser.",
+          "it": "Avevo dimenticato gli appunti, quindi ho dovuto improvvisare.",
+          "es": "Olvidé mis apuntes, así que tuve que improvisar."
+        },
+        {
+          "en": "Jazz musicians often [improvise] solos.",
+          "tr": "Caz müzisyenleri soloları çoğu zaman doğaçlama çalar.",
+          "de": "Jazzmusiker improvisieren oft ihre Soli.",
+          "fr": "Les musiciens de jazz improvisent souvent leurs solos.",
+          "it": "I musicisti jazz improvvisano spesso gli assoli.",
+          "es": "Los músicos de jazz suelen improvisar los solos."
+        }
+      ]
+    },
+    {
+      "id": "review",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "re-",
+        "view"
+      ],
+      "gloss": {
+        "en": "a look back at something; an article that judges a book, film or product (from French revue, 'seen again')",
+        "tr": "inceleme; eleştiri yazısı, yorum",
+        "de": "die Überprüfung; die Kritik, die Bewertung",
+        "fr": "l'examen; la critique, l'avis",
+        "it": "la revisione; la recensione",
+        "es": "la revisión; la crítica, la reseña"
+      },
+      "sentences": [
+        {
+          "en": "The film got great [reviews].",
+          "tr": "Film çok iyi eleştiriler aldı.",
+          "de": "Der Film hat tolle Kritiken bekommen.",
+          "fr": "Le film a reçu d'excellentes critiques.",
+          "it": "Il film ha ricevuto ottime recensioni.",
+          "es": "La película recibió muy buenas críticas."
+        },
+        {
+          "en": "I always read the [reviews] before I buy.",
+          "tr": "Satın almadan önce her zaman yorumları okurum.",
+          "de": "Ich lese vor dem Kauf immer die Bewertungen.",
+          "fr": "Je lis toujours les avis avant d'acheter.",
+          "it": "Leggo sempre le recensioni prima di comprare.",
+          "es": "Siempre leo las reseñas antes de comprar."
+        }
+      ]
+    },
+    {
+      "id": "interview",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "inter-",
+        "view"
+      ],
+      "gloss": {
+        "en": "a meeting where someone is asked questions (literally: seeing each other)",
+        "tr": "mülakat, iş görüşmesi; röportaj",
+        "de": "das Vorstellungsgespräch; das Interview",
+        "fr": "l'entretien; l'interview",
+        "it": "il colloquio; l'intervista",
+        "es": "la entrevista"
+      },
+      "sentences": [
+        {
+          "en": "I have a job [interview] on Monday.",
+          "tr": "Pazartesi bir iş görüşmem var.",
+          "de": "Ich habe am Montag ein Vorstellungsgespräch.",
+          "fr": "J'ai un entretien d'embauche lundi.",
+          "it": "Lunedì ho un colloquio di lavoro.",
+          "es": "El lunes tengo una entrevista de trabajo."
+        },
+        {
+          "en": "The singer gave a long [interview] on the radio.",
+          "tr": "Şarkıcı radyoda uzun bir röportaj verdi.",
+          "de": "Die Sängerin gab im Radio ein langes Interview.",
+          "fr": "La chanteuse a donné une longue interview à la radio.",
+          "it": "La cantante ha rilasciato una lunga intervista alla radio.",
+          "es": "La cantante dio una larga entrevista en la radio."
+        }
+      ]
+    },
+    {
+      "id": "interviewer",
+      "pos": "noun",
+      "parent": "interview",
+      "parts": [
+        "inter-",
+        "view",
+        "-er"
+      ],
+      "gloss": {
+        "en": "a person who asks the questions in an interview",
+        "tr": "görüşmeci; röportajı yapan kişi",
+        "de": "der Interviewer, der Gesprächsführer",
+        "fr": "le recruteur; l'intervieweur",
+        "it": "il selezionatore; l'intervistatore",
+        "es": "el entrevistador"
+      },
+      "sentences": [
+        {
+          "en": "The [interviewer] asked about my last job.",
+          "tr": "Görüşmeci son işimi sordu.",
+          "de": "Der Interviewer fragte nach meinem letzten Job.",
+          "fr": "Le recruteur m'a interrogé sur mon dernier emploi.",
+          "it": "Il selezionatore mi ha chiesto del mio ultimo lavoro.",
+          "es": "El entrevistador me preguntó por mi último trabajo."
+        },
+        {
+          "en": "A good [interviewer] listens more than she talks.",
+          "tr": "İyi bir görüşmeci konuştuğundan çok dinler.",
+          "de": "Eine gute Interviewerin hört mehr zu, als sie redet.",
+          "fr": "Une bonne intervieweuse écoute plus qu'elle ne parle.",
+          "it": "Una brava intervistatrice ascolta più di quanto parli.",
+          "es": "Una buena entrevistadora escucha más de lo que habla."
+        }
+      ]
+    },
+    {
+      "id": "preview",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "pre-",
+        "view"
+      ],
+      "gloss": {
+        "en": "a chance to see something before others (literally: a seeing before)",
+        "tr": "ön gösterim; önizleme",
+        "de": "die Vorpremiere; die Vorschau",
+        "fr": "l'avant-première; l'aperçu",
+        "it": "l'anteprima",
+        "es": "el preestreno; la vista previa"
+      },
+      "sentences": [
+        {
+          "en": "We saw a [preview] of the new film.",
+          "tr": "Yeni filmin ön gösterimini izledik.",
+          "de": "Wir haben eine Vorpremiere des neuen Films gesehen.",
+          "fr": "Nous avons vu l'avant-première du nouveau film.",
+          "it": "Abbiamo visto l'anteprima del nuovo film.",
+          "es": "Vimos el preestreno de la nueva película."
+        },
+        {
+          "en": "Click the file to see a [preview].",
+          "tr": "Önizlemeyi görmek için dosyaya tıkla.",
+          "de": "Klick auf die Datei, um eine Vorschau zu sehen.",
+          "fr": "Clique sur le fichier pour voir un aperçu.",
+          "it": "Clicca sul file per vedere l'anteprima.",
+          "es": "Haz clic en el archivo para ver una vista previa."
+        }
+      ]
+    },
+    {
+      "id": "viewer",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "view",
+        "-er"
+      ],
+      "gloss": {
+        "en": "a person who watches television or a video",
+        "tr": "izleyici",
+        "de": "der Zuschauer",
+        "fr": "le téléspectateur, le spectateur",
+        "it": "il telespettatore, lo spettatore",
+        "es": "el espectador, el televidente"
+      },
+      "sentences": [
+        {
+          "en": "The show has millions of [viewers].",
+          "tr": "Programın milyonlarca izleyicisi var.",
+          "de": "Die Sendung hat Millionen Zuschauer.",
+          "fr": "L'émission compte des millions de téléspectateurs.",
+          "it": "Il programma ha milioni di telespettatori.",
+          "es": "El programa tiene millones de espectadores."
+        },
+        {
+          "en": "Some [viewers] complained about the ending.",
+          "tr": "Bazı izleyiciler sondan şikâyet etti.",
+          "de": "Einige Zuschauer beschwerten sich über das Ende.",
+          "fr": "Certains spectateurs se sont plaints de la fin.",
+          "it": "Alcuni spettatori si sono lamentati del finale.",
+          "es": "Algunos espectadores se quejaron del final."
+        }
+      ]
+    }
+  ]
+}

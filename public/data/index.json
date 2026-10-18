@@ -118,6 +118,88 @@
     ]
   },
   {
+    "id": "ject",
+    "forms": [
+      "ject"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to throw",
+      "tr": "atmak, fırlatmak",
+      "de": "werfen",
+      "fr": "jeter, lancer",
+      "it": "gettare, lanciare",
+      "es": "lanzar, arrojar"
+    },
+    "words": [
+      "project",
+      "projector",
+      "projection",
+      "projectile",
+      "reject",
+      "rejection",
+      "inject",
+      "injection",
+      "object",
+      "objection",
+      "objective",
+      "subject",
+      "subjective",
+      "eject",
+      "interject",
+      "interjection",
+      "trajectory",
+      "dejected",
+      "conjecture",
+      "adjective"
+    ]
+  },
+  {
+    "id": "mit",
+    "forms": [
+      "mit",
+      "miss",
+      "mise"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to send, to let go",
+      "tr": "göndermek, bırakmak",
+      "de": "schicken, loslassen",
+      "fr": "envoyer, laisser aller",
+      "it": "mandare, lasciar andare",
+      "es": "enviar, dejar ir"
+    },
+    "words": [
+      "mission",
+      "missionary",
+      "missile",
+      "transmit",
+      "transmission",
+      "submit",
+      "submission",
+      "submissive",
+      "admit",
+      "admission",
+      "permit",
+      "permission",
+      "permissive",
+      "omit",
+      "omission",
+      "commit",
+      "commission",
+      "emit",
+      "emission",
+      "dismiss",
+      "dismissal",
+      "intermission",
+      "promise",
+      "compromise",
+      "premise",
+      "demise"
+    ]
+  },
+  {
     "id": "port",
     "forms": [
       "port"
@@ -244,6 +326,54 @@
       "disrespect",
       "respective",
       "introspection"
+    ]
+  },
+  {
+    "id": "vid",
+    "forms": [
+      "vid",
+      "vide",
+      "vis",
+      "vise",
+      "view"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to see",
+      "tr": "görmek",
+      "de": "sehen",
+      "fr": "voir",
+      "it": "vedere",
+      "es": "ver"
+    },
+    "words": [
+      "video",
+      "evident",
+      "evidence",
+      "provide",
+      "provider",
+      "provision",
+      "vision",
+      "visionary",
+      "visible",
+      "invisible",
+      "visit",
+      "visitor",
+      "visual",
+      "visualize",
+      "revise",
+      "revision",
+      "supervise",
+      "supervisor",
+      "television",
+      "advise",
+      "adviser",
+      "improvise",
+      "review",
+      "interview",
+      "interviewer",
+      "preview",
+      "viewer"
     ]
   }
 ]

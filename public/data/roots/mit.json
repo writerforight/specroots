@@ -1,0 +1,943 @@
+{
+  "id": "mit",
+  "forms": [
+    "mit",
+    "miss",
+    "mise"
+  ],
+  "origin": "la",
+  "etymon": "mittere",
+  "meaning": {
+    "en": "to send, to let go",
+    "tr": "göndermek, bırakmak",
+    "de": "schicken, loslassen",
+    "fr": "envoyer, laisser aller",
+    "it": "mandare, lasciar andare",
+    "es": "enviar, dejar ir"
+  },
+  "words": [
+    {
+      "id": "mission",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "miss",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "an important task, often a journey (literally: a sending)",
+        "tr": "görev; amaç",
+        "de": "die Mission, der Auftrag",
+        "fr": "la mission",
+        "it": "la missione",
+        "es": "la misión"
+      },
+      "sentences": [
+        {
+          "en": "The [mission] to Mars will take seven months.",
+          "tr": "Mars görevi yedi ay sürecek.",
+          "de": "Die Mission zum Mars wird sieben Monate dauern.",
+          "fr": "La mission vers Mars durera sept mois.",
+          "it": "La missione su Marte durerà sette mesi.",
+          "es": "La misión a Marte durará siete meses."
+        },
+        {
+          "en": "Her [mission] is to help every child read.",
+          "tr": "Onun amacı her çocuğun okumasına yardım etmek.",
+          "de": "Ihre Mission ist es, jedem Kind beim Lesen zu helfen.",
+          "fr": "Sa mission est d'aider chaque enfant à lire.",
+          "it": "La sua missione è aiutare ogni bambino a leggere.",
+          "es": "Su misión es ayudar a todos los niños a leer."
+        }
+      ]
+    },
+    {
+      "id": "missionary",
+      "pos": "noun",
+      "parent": "mission",
+      "parts": [
+        "miss",
+        "-ion",
+        "-ary"
+      ],
+      "gloss": {
+        "en": "a person sent to another country to spread a religion",
+        "tr": "misyoner",
+        "de": "der Missionar",
+        "fr": "le missionnaire",
+        "it": "il missionario",
+        "es": "el misionero"
+      },
+      "sentences": [
+        {
+          "en": "Her grandfather was a [missionary] in Africa.",
+          "tr": "Dedesi Afrika'da misyonerdi.",
+          "de": "Ihr Großvater war Missionar in Afrika.",
+          "fr": "Son grand-père était missionnaire en Afrique.",
+          "it": "Suo nonno era missionario in Africa.",
+          "es": "Su abuelo fue misionero en África."
+        },
+        {
+          "en": "The [missionaries] built a school in the village.",
+          "tr": "Misyonerler köyde bir okul yaptı.",
+          "de": "Die Missionare bauten eine Schule im Dorf.",
+          "fr": "Les missionnaires ont construit une école dans le village.",
+          "it": "I missionari hanno costruito una scuola nel villaggio.",
+          "es": "Los misioneros construyeron una escuela en el pueblo."
+        }
+      ]
+    },
+    {
+      "id": "missile",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "miss",
+        "-ile"
+      ],
+      "gloss": {
+        "en": "a weapon that flies through the air (literally: something sent)",
+        "tr": "füze",
+        "de": "die Rakete, der Flugkörper",
+        "fr": "le missile",
+        "it": "il missile",
+        "es": "el misil"
+      },
+      "sentences": [
+        {
+          "en": "The army tested a new [missile].",
+          "tr": "Ordu yeni bir füzeyi test etti.",
+          "de": "Die Armee testete eine neue Rakete.",
+          "fr": "L'armée a testé un nouveau missile.",
+          "it": "L'esercito ha testato un nuovo missile.",
+          "es": "El ejército probó un nuevo misil."
+        },
+        {
+          "en": "The ship was hit by a [missile].",
+          "tr": "Gemi bir füzeyle vuruldu.",
+          "de": "Das Schiff wurde von einer Rakete getroffen.",
+          "fr": "Le navire a été touché par un missile.",
+          "it": "La nave è stata colpita da un missile.",
+          "es": "El barco fue alcanzado por un misil."
+        }
+      ]
+    },
+    {
+      "id": "transmit",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "trans-",
+        "mit"
+      ],
+      "gloss": {
+        "en": "to send a signal, or pass something on (literally: to send across)",
+        "tr": "yayın yapmak, iletmek; bulaştırmak",
+        "de": "senden; übertragen",
+        "fr": "émettre; transmettre",
+        "it": "trasmettere",
+        "es": "transmitir"
+      },
+      "sentences": [
+        {
+          "en": "The radio station [transmits] all night.",
+          "tr": "Radyo istasyonu bütün gece yayın yapar.",
+          "de": "Der Radiosender sendet die ganze Nacht.",
+          "fr": "La station de radio émet toute la nuit.",
+          "it": "La stazione radio trasmette tutta la notte.",
+          "es": "La emisora transmite toda la noche."
+        },
+        {
+          "en": "Mosquitoes can [transmit] diseases.",
+          "tr": "Sivrisinekler hastalık bulaştırabilir.",
+          "de": "Mücken können Krankheiten übertragen.",
+          "fr": "Les moustiques peuvent transmettre des maladies.",
+          "it": "Le zanzare possono trasmettere malattie.",
+          "es": "Los mosquitos pueden transmitir enfermedades."
+        }
+      ]
+    },
+    {
+      "id": "transmission",
+      "pos": "noun",
+      "parent": "transmit",
+      "parts": [
+        "trans-",
+        "miss",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "the sending of a signal; the part of a car that sends power to the wheels",
+        "tr": "yayın, iletim; şanzıman",
+        "de": "die Übertragung; das Getriebe",
+        "fr": "la retransmission; la boîte de vitesses",
+        "it": "la trasmissione; il cambio",
+        "es": "la transmisión; la caja de cambios"
+      },
+      "sentences": [
+        {
+          "en": "The live [transmission] stopped for a minute.",
+          "tr": "Canlı yayın bir dakika kesildi.",
+          "de": "Die Liveübertragung brach für eine Minute ab.",
+          "fr": "La retransmission en direct s'est arrêtée une minute.",
+          "it": "La trasmissione in diretta si è interrotta per un minuto.",
+          "es": "La transmisión en directo se cortó un minuto."
+        },
+        {
+          "en": "My car has an automatic [transmission].",
+          "tr": "Arabam otomatik vitesli.",
+          "de": "Mein Auto hat ein Automatikgetriebe.",
+          "fr": "Ma voiture a une boîte automatique.",
+          "it": "La mia auto ha il cambio automatico.",
+          "es": "Mi coche tiene cambio automático."
+        }
+      ]
+    },
+    {
+      "id": "submit",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "sub-",
+        "mit"
+      ],
+      "gloss": {
+        "en": "to hand in work; to accept someone's power (literally: to send under)",
+        "tr": "teslim etmek; boyun eğmek",
+        "de": "einreichen; sich unterwerfen",
+        "fr": "remettre, soumettre; se soumettre",
+        "it": "consegnare, presentare; sottomettersi",
+        "es": "entregar, presentar; someterse"
+      },
+      "sentences": [
+        {
+          "en": "[Submit] your homework by Friday.",
+          "tr": "Ödevini cumaya kadar teslim et.",
+          "de": "Reich deine Hausaufgaben bis Freitag ein.",
+          "fr": "Remets tes devoirs avant vendredi.",
+          "it": "Consegna i compiti entro venerdì.",
+          "es": "Entrega los deberes antes del viernes."
+        },
+        {
+          "en": "I [submitted] my application online.",
+          "tr": "Başvurumu internetten yaptım.",
+          "de": "Ich habe meine Bewerbung online eingereicht.",
+          "fr": "J'ai envoyé ma candidature en ligne.",
+          "it": "Ho presentato la domanda online.",
+          "es": "Presenté mi solicitud por internet."
+        }
+      ]
+    },
+    {
+      "id": "submission",
+      "pos": "noun",
+      "parent": "submit",
+      "parts": [
+        "sub-",
+        "miss",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "something handed in; the act of giving in",
+        "tr": "teslim edilen iş, başvuru; boyun eğme",
+        "de": "die Einreichung; die Aufgabe",
+        "fr": "le dépôt; l'abandon",
+        "it": "la consegna; la resa",
+        "es": "la entrega; la rendición"
+      },
+      "sentences": [
+        {
+          "en": "The deadline for [submissions] is May 1.",
+          "tr": "Başvurular için son tarih 1 Mayıs.",
+          "de": "Einsendeschluss ist der 1. Mai.",
+          "fr": "La date limite de dépôt est le 1er mai.",
+          "it": "La scadenza per le consegne è il 1° maggio.",
+          "es": "El plazo de entrega termina el 1 de mayo."
+        },
+        {
+          "en": "The wrestler forced his opponent into [submission].",
+          "tr": "Güreşçi rakibini pes ettirdi.",
+          "de": "Der Ringer zwang seinen Gegner zur Aufgabe.",
+          "fr": "Le lutteur a forcé son adversaire à abandonner.",
+          "it": "Il lottatore ha costretto l'avversario alla resa.",
+          "es": "El luchador obligó a su rival a rendirse."
+        }
+      ]
+    },
+    {
+      "id": "submissive",
+      "pos": "adjective",
+      "parent": "submit",
+      "parts": [
+        "sub-",
+        "miss",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "too willing to obey others",
+        "tr": "boyun eğen, itaatkâr",
+        "de": "unterwürfig",
+        "fr": "soumis",
+        "it": "sottomesso",
+        "es": "sumiso"
+      },
+      "sentences": [
+        {
+          "en": "The dog lay on its back in a [submissive] way.",
+          "tr": "Köpek boyun eğer gibi sırtüstü yattı.",
+          "de": "Der Hund legte sich unterwürfig auf den Rücken.",
+          "fr": "Le chien s'est couché sur le dos, l'air soumis.",
+          "it": "Il cane si è sdraiato sulla schiena in modo sottomesso.",
+          "es": "El perro se tumbó boca arriba en actitud sumisa."
+        },
+        {
+          "en": "She is not [submissive]; she says what she thinks.",
+          "tr": "O boyun eğen biri değil; ne düşünüyorsa söyler.",
+          "de": "Sie ist nicht unterwürfig; sie sagt, was sie denkt.",
+          "fr": "Elle n'est pas soumise : elle dit ce qu'elle pense.",
+          "it": "Non è sottomessa: dice quello che pensa.",
+          "es": "No es sumisa: dice lo que piensa."
+        }
+      ]
+    },
+    {
+      "id": "admit",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ad-",
+        "mit"
+      ],
+      "gloss": {
+        "en": "to agree that something is true; to let someone enter (literally: to send to)",
+        "tr": "kabul etmek, itiraf etmek; içeri almak",
+        "de": "zugeben; einlassen",
+        "fr": "admettre, avouer; laisser entrer",
+        "it": "ammettere",
+        "es": "admitir, reconocer"
+      },
+      "sentences": [
+        {
+          "en": "I [admit] that I was wrong.",
+          "tr": "Yanıldığımı kabul ediyorum.",
+          "de": "Ich gebe zu, dass ich mich geirrt habe.",
+          "fr": "J'admets que j'avais tort.",
+          "it": "Ammetto di aver sbagliato.",
+          "es": "Admito que me equivoqué."
+        },
+        {
+          "en": "Children under twelve are not [admitted].",
+          "tr": "On iki yaşından küçük çocuklar içeri alınmaz.",
+          "de": "Kinder unter zwölf werden nicht eingelassen.",
+          "fr": "Les enfants de moins de douze ans ne sont pas admis.",
+          "it": "I bambini sotto i dodici anni non sono ammessi.",
+          "es": "No se admite a menores de doce años."
+        }
+      ]
+    },
+    {
+      "id": "admission",
+      "pos": "noun",
+      "parent": "admit",
+      "parts": [
+        "ad-",
+        "miss",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "permission or the price to enter; saying that something is true",
+        "tr": "giriş, kabul; itiraf",
+        "de": "der Eintritt, die Zulassung; das Eingeständnis",
+        "fr": "l'entrée, l'admission; l'aveu",
+        "it": "l'ingresso, l'ammissione",
+        "es": "la entrada, la admisión; la confesión"
+      },
+      "sentences": [
+        {
+          "en": "[Admission] to the museum is free on Sundays.",
+          "tr": "Müzeye giriş pazar günleri ücretsiz.",
+          "de": "Der Eintritt ins Museum ist sonntags frei.",
+          "fr": "L'entrée du musée est gratuite le dimanche.",
+          "it": "L'ingresso al museo è gratuito la domenica.",
+          "es": "La entrada al museo es gratuita los domingos."
+        },
+        {
+          "en": "His silence was an [admission] of guilt.",
+          "tr": "Sessizliği suçunu kabul etmek demekti.",
+          "de": "Sein Schweigen war ein Schuldeingeständnis.",
+          "fr": "Son silence était un aveu de culpabilité.",
+          "it": "Il suo silenzio era un'ammissione di colpa.",
+          "es": "Su silencio fue una confesión de culpa."
+        }
+      ]
+    },
+    {
+      "id": "permit",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "per-",
+        "mit"
+      ],
+      "gloss": {
+        "en": "to allow (literally: to let go through)",
+        "tr": "izin vermek",
+        "de": "erlauben, gestatten",
+        "fr": "permettre",
+        "it": "permettere",
+        "es": "permitir"
+      },
+      "sentences": [
+        {
+          "en": "Smoking is not [permitted] here.",
+          "tr": "Burada sigara içmeye izin verilmiyor.",
+          "de": "Rauchen ist hier nicht gestattet.",
+          "fr": "Il n'est pas permis de fumer ici.",
+          "it": "Qui non è permesso fumare.",
+          "es": "Aquí no se permite fumar."
+        },
+        {
+          "en": "We'll eat outside if the weather [permits].",
+          "tr": "Hava izin verirse dışarıda yeriz.",
+          "de": "Wenn das Wetter es erlaubt, essen wir draußen.",
+          "fr": "Nous mangerons dehors si le temps le permet.",
+          "it": "Mangeremo fuori se il tempo lo permette.",
+          "es": "Comeremos fuera si el tiempo lo permite."
+        }
+      ]
+    },
+    {
+      "id": "permission",
+      "pos": "noun",
+      "parent": "permit",
+      "parts": [
+        "per-",
+        "miss",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "the act of allowing someone to do something",
+        "tr": "izin",
+        "de": "die Erlaubnis",
+        "fr": "la permission, l'autorisation",
+        "it": "il permesso",
+        "es": "el permiso"
+      },
+      "sentences": [
+        {
+          "en": "You need [permission] to film here.",
+          "tr": "Burada çekim yapmak için izin gerekiyor.",
+          "de": "Zum Filmen braucht man hier eine Erlaubnis.",
+          "fr": "Il faut une autorisation pour filmer ici.",
+          "it": "Serve il permesso per filmare qui.",
+          "es": "Necesitas permiso para grabar aquí."
+        },
+        {
+          "en": "She took my bike without [permission].",
+          "tr": "Bisikletimi izinsiz aldı.",
+          "de": "Sie hat mein Fahrrad ohne Erlaubnis genommen.",
+          "fr": "Elle a pris mon vélo sans permission.",
+          "it": "Ha preso la mia bici senza permesso.",
+          "es": "Cogió mi bici sin permiso."
+        }
+      ]
+    },
+    {
+      "id": "permissive",
+      "pos": "adjective",
+      "parent": "permit",
+      "parts": [
+        "per-",
+        "miss",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "allowing a lot of freedom, maybe too much",
+        "tr": "serbest bırakan, fazla hoşgörülü",
+        "de": "nachsichtig, freizügig",
+        "fr": "permissif",
+        "it": "permissivo",
+        "es": "permisivo"
+      },
+      "sentences": [
+        {
+          "en": "His parents are very [permissive].",
+          "tr": "Ailesi ona çok serbest davranıyor.",
+          "de": "Seine Eltern sind sehr nachsichtig.",
+          "fr": "Ses parents sont très permissifs.",
+          "it": "I suoi genitori sono molto permissivi.",
+          "es": "Sus padres son muy permisivos."
+        },
+        {
+          "en": "The rules here are less [permissive] than at home.",
+          "tr": "Buradaki kurallar evdekinden daha katı.",
+          "de": "Die Regeln hier sind strenger als zu Hause.",
+          "fr": "Les règles ici sont moins permissives qu'à la maison.",
+          "it": "Le regole qui sono meno permissive che a casa.",
+          "es": "Las normas aquí son menos permisivas que en casa."
+        }
+      ]
+    },
+    {
+      "id": "omit",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "o-",
+        "mit"
+      ],
+      "gloss": {
+        "en": "to leave something out (literally: to let go)",
+        "tr": "atlamak, dışarıda bırakmak",
+        "de": "auslassen, weglassen",
+        "fr": "omettre",
+        "it": "omettere",
+        "es": "omitir"
+      },
+      "sentences": [
+        {
+          "en": "You [omitted] my name from the list.",
+          "tr": "Adımı listeden atlamışsın.",
+          "de": "Du hast meinen Namen auf der Liste ausgelassen.",
+          "fr": "Tu as omis mon nom sur la liste.",
+          "it": "Hai omesso il mio nome dalla lista.",
+          "es": "Omitiste mi nombre de la lista."
+        },
+        {
+          "en": "[Omit] the sugar if you want a healthier cake.",
+          "tr": "Daha sağlıklı bir kek istersen şekeri koyma.",
+          "de": "Lass den Zucker weg, wenn du einen gesünderen Kuchen willst.",
+          "fr": "Supprime le sucre si tu veux un gâteau plus sain.",
+          "it": "Ometti lo zucchero se vuoi una torta più sana.",
+          "es": "Omite el azúcar si quieres un bizcocho más sano."
+        }
+      ]
+    },
+    {
+      "id": "omission",
+      "pos": "noun",
+      "parent": "omit",
+      "parts": [
+        "o-",
+        "miss",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "something that has been left out",
+        "tr": "eksiklik, atlanan şey",
+        "de": "die Auslassung",
+        "fr": "l'omission, l'oubli",
+        "it": "l'omissione",
+        "es": "la omisión"
+      },
+      "sentences": [
+        {
+          "en": "The report has one serious [omission].",
+          "tr": "Raporda ciddi bir eksik var.",
+          "de": "Der Bericht hat eine schwere Auslassung.",
+          "fr": "Le rapport comporte une grave omission.",
+          "it": "Il rapporto contiene una grave omissione.",
+          "es": "El informe tiene una omisión grave."
+        },
+        {
+          "en": "His name was missing by [omission], not on purpose.",
+          "tr": "Adı kasten değil, gözden kaçtığı için yoktu.",
+          "de": "Sein Name fehlte aus Versehen, nicht absichtlich.",
+          "fr": "Son nom manquait par omission, pas exprès.",
+          "it": "Il suo nome mancava per omissione, non di proposito.",
+          "es": "Su nombre faltaba por omisión, no a propósito."
+        }
+      ]
+    },
+    {
+      "id": "commit",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "com-",
+        "mit"
+      ],
+      "gloss": {
+        "en": "to do something wrong; to promise your time or energy (from Latin committere, 'to send together, to entrust')",
+        "tr": "(suç) işlemek; kendini adamak, söz vermek",
+        "de": "begehen; sich verpflichten",
+        "fr": "commettre; s'engager",
+        "it": "commettere; impegnarsi",
+        "es": "cometer; comprometerse"
+      },
+      "sentences": [
+        {
+          "en": "He [committed] a crime when he was young.",
+          "tr": "Gençken bir suç işledi.",
+          "de": "Er hat in seiner Jugend ein Verbrechen begangen.",
+          "fr": "Il a commis un crime quand il était jeune.",
+          "it": "Ha commesso un reato da giovane.",
+          "es": "Cometió un delito cuando era joven."
+        },
+        {
+          "en": "I can't [commit] to the team every weekend.",
+          "tr": "Her hafta sonu takıma zaman ayırma sözü veremem.",
+          "de": "Ich kann mich nicht für jedes Wochenende im Team verpflichten.",
+          "fr": "Je ne peux pas m'engager dans l'équipe tous les week-ends.",
+          "it": "Non posso impegnarmi con la squadra ogni fine settimana.",
+          "es": "No puedo comprometerme con el equipo todos los fines de semana."
+        }
+      ]
+    },
+    {
+      "id": "commission",
+      "pos": "noun",
+      "parent": "commit",
+      "parts": [
+        "com-",
+        "miss",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "money paid for each sale; an official group with a task",
+        "tr": "komisyon",
+        "de": "die Provision; die Kommission",
+        "fr": "la commission",
+        "it": "la provvigione; la commissione",
+        "es": "la comisión"
+      },
+      "sentences": [
+        {
+          "en": "She earns a [commission] on every car she sells.",
+          "tr": "Sattığı her arabadan komisyon alıyor.",
+          "de": "Sie bekommt für jedes verkaufte Auto eine Provision.",
+          "fr": "Elle touche une commission sur chaque voiture vendue.",
+          "it": "Prende una provvigione su ogni auto che vende.",
+          "es": "Cobra una comisión por cada coche que vende."
+        },
+        {
+          "en": "A [commission] will study the problem.",
+          "tr": "Sorunu bir komisyon inceleyecek.",
+          "de": "Eine Kommission wird das Problem untersuchen.",
+          "fr": "Une commission va étudier le problème.",
+          "it": "Una commissione studierà il problema.",
+          "es": "Una comisión estudiará el problema."
+        }
+      ]
+    },
+    {
+      "id": "emit",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "e-",
+        "mit"
+      ],
+      "gloss": {
+        "en": "to send out light, heat, sound or gas (literally: to send out)",
+        "tr": "yaymak, salmak, çıkarmak",
+        "de": "ausstoßen, aussenden",
+        "fr": "émettre",
+        "it": "emettere",
+        "es": "emitir"
+      },
+      "sentences": [
+        {
+          "en": "Old cars [emit] more smoke.",
+          "tr": "Eski arabalar daha çok duman salar.",
+          "de": "Alte Autos stoßen mehr Rauch aus.",
+          "fr": "Les vieilles voitures émettent plus de fumée.",
+          "it": "Le auto vecchie emettono più fumo.",
+          "es": "Los coches viejos emiten más humo."
+        },
+        {
+          "en": "The machine [emitted] a strange noise.",
+          "tr": "Makine garip bir ses çıkardı.",
+          "de": "Die Maschine gab ein seltsames Geräusch von sich.",
+          "fr": "La machine a émis un bruit étrange.",
+          "it": "La macchina ha emesso uno strano rumore.",
+          "es": "La máquina emitió un ruido extraño."
+        }
+      ]
+    },
+    {
+      "id": "emission",
+      "pos": "noun",
+      "parent": "emit",
+      "parts": [
+        "e-",
+        "miss",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "gas or light that is sent out, especially pollution",
+        "tr": "salım, emisyon",
+        "de": "die Emission, der Ausstoß",
+        "fr": "l'émission, le rejet",
+        "it": "l'emissione",
+        "es": "la emisión"
+      },
+      "sentences": [
+        {
+          "en": "We must cut carbon [emissions].",
+          "tr": "Karbon salımını azaltmalıyız.",
+          "de": "Wir müssen den CO2-Ausstoß senken.",
+          "fr": "Nous devons réduire les émissions de carbone.",
+          "it": "Dobbiamo ridurre le emissioni di carbonio.",
+          "es": "Debemos reducir las emisiones de carbono."
+        },
+        {
+          "en": "Electric buses have zero [emissions] on the street.",
+          "tr": "Elektrikli otobüsler sokakta hiç salım yapmaz.",
+          "de": "Elektrobusse haben auf der Straße keine Emissionen.",
+          "fr": "Les bus électriques n'ont aucune émission dans la rue.",
+          "it": "Gli autobus elettrici hanno zero emissioni in strada.",
+          "es": "Los autobuses eléctricos no tienen emisiones en la calle."
+        }
+      ]
+    },
+    {
+      "id": "dismiss",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "dis-",
+        "miss"
+      ],
+      "gloss": {
+        "en": "to send away; to decide that something is not important; to remove from a job",
+        "tr": "göndermek; geçiştirmek; işten çıkarmak",
+        "de": "entlassen; abtun",
+        "fr": "laisser partir; écarter; renvoyer",
+        "it": "congedare; liquidare; licenziare",
+        "es": "dejar salir; descartar; despedir"
+      },
+      "sentences": [
+        {
+          "en": "The teacher [dismissed] the class early.",
+          "tr": "Öğretmen sınıfı erken bıraktı.",
+          "de": "Die Lehrerin entließ die Klasse früher.",
+          "fr": "Le professeur a laissé partir la classe plus tôt.",
+          "it": "L'insegnante ha congedato la classe prima.",
+          "es": "El profesor dejó salir a la clase antes."
+        },
+        {
+          "en": "Don't [dismiss] her idea so quickly.",
+          "tr": "Onun fikrini bu kadar çabuk geçiştirme.",
+          "de": "Tu ihre Idee nicht so schnell ab.",
+          "fr": "N'écarte pas son idée si vite.",
+          "it": "Non liquidare la sua idea così in fretta.",
+          "es": "No descartes su idea tan rápido."
+        }
+      ]
+    },
+    {
+      "id": "dismissal",
+      "pos": "noun",
+      "parent": "dismiss",
+      "parts": [
+        "dis-",
+        "miss",
+        "-al"
+      ],
+      "gloss": {
+        "en": "the act of removing someone from a job",
+        "tr": "işten çıkarma",
+        "de": "die Entlassung",
+        "fr": "le licenciement, le renvoi",
+        "it": "il licenziamento",
+        "es": "el despido"
+      },
+      "sentences": [
+        {
+          "en": "He took the company to court over his [dismissal].",
+          "tr": "İşten çıkarılması yüzünden şirketi mahkemeye verdi.",
+          "de": "Er verklagte die Firma wegen seiner Entlassung.",
+          "fr": "Il a attaqué l'entreprise en justice pour son licenciement.",
+          "it": "Ha fatto causa all'azienda per il suo licenziamento.",
+          "es": "Demandó a la empresa por su despido."
+        },
+        {
+          "en": "The [dismissal] of the coach surprised the fans.",
+          "tr": "Teknik direktörün kovulması taraftarları şaşırttı.",
+          "de": "Die Entlassung des Trainers überraschte die Fans.",
+          "fr": "Le renvoi de l'entraîneur a surpris les supporters.",
+          "it": "L'esonero dell'allenatore ha sorpreso i tifosi.",
+          "es": "El despido del entrenador sorprendió a la afición."
+        }
+      ]
+    },
+    {
+      "id": "intermission",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "inter-",
+        "miss",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a short break in the middle of a play, film or concert (literally: a sending between)",
+        "tr": "ara, antrakt",
+        "de": "die Pause",
+        "fr": "l'entracte",
+        "it": "l'intervallo",
+        "es": "el intermedio, el descanso"
+      },
+      "sentences": [
+        {
+          "en": "We bought ice cream during the [intermission].",
+          "tr": "Arada dondurma aldık.",
+          "de": "In der Pause haben wir Eis gekauft.",
+          "fr": "Nous avons acheté une glace pendant l'entracte.",
+          "it": "Durante l'intervallo abbiamo comprato un gelato.",
+          "es": "Compramos helado durante el intermedio."
+        },
+        {
+          "en": "The play has a twenty-minute [intermission].",
+          "tr": "Oyunun yirmi dakikalık bir arası var.",
+          "de": "Das Stück hat eine zwanzigminütige Pause.",
+          "fr": "La pièce a un entracte de vingt minutes.",
+          "it": "Lo spettacolo ha un intervallo di venti minuti.",
+          "es": "La obra tiene un descanso de veinte minutos."
+        }
+      ]
+    },
+    {
+      "id": "promise",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "pro-",
+        "mise"
+      ],
+      "gloss": {
+        "en": "to say that you will surely do something (literally: to send forward)",
+        "tr": "söz vermek",
+        "de": "versprechen",
+        "fr": "promettre",
+        "it": "promettere",
+        "es": "prometer"
+      },
+      "sentences": [
+        {
+          "en": "I [promise] I'll call you tonight.",
+          "tr": "Söz veriyorum, bu akşam seni arayacağım.",
+          "de": "Ich verspreche, dass ich dich heute Abend anrufe.",
+          "fr": "Je te promets de t'appeler ce soir.",
+          "it": "Prometto che ti chiamo stasera.",
+          "es": "Te prometo que te llamaré esta noche."
+        },
+        {
+          "en": "He [promised] to keep it a secret.",
+          "tr": "Sır olarak saklayacağına söz verdi.",
+          "de": "Er versprach, es geheim zu halten.",
+          "fr": "Il a promis de garder le secret.",
+          "it": "Ha promesso di mantenere il segreto.",
+          "es": "Prometió guardar el secreto."
+        }
+      ]
+    },
+    {
+      "id": "compromise",
+      "pos": "noun",
+      "parent": "promise",
+      "parts": [
+        "com-",
+        "pro-",
+        "mise"
+      ],
+      "gloss": {
+        "en": "an agreement where each side gives up something (literally: a promising together)",
+        "tr": "uzlaşma, orta yol",
+        "de": "der Kompromiss",
+        "fr": "le compromis",
+        "it": "il compromesso",
+        "es": "el acuerdo, el término medio"
+      },
+      "sentences": [
+        {
+          "en": "After hours of talk, they reached a [compromise].",
+          "tr": "Saatlerce konuştuktan sonra uzlaştılar.",
+          "de": "Nach stundenlangen Gesprächen fanden sie einen Kompromiss.",
+          "fr": "Après des heures de discussion, ils ont trouvé un compromis.",
+          "it": "Dopo ore di discussione hanno trovato un compromesso.",
+          "es": "Tras horas de conversación, llegaron a un acuerdo."
+        },
+        {
+          "en": "A good [compromise] leaves both sides a little happy.",
+          "tr": "İyi bir uzlaşma iki tarafı da biraz memnun eder.",
+          "de": "Ein guter Kompromiss macht beide Seiten ein wenig zufrieden.",
+          "fr": "Un bon compromis laisse les deux parties un peu satisfaites.",
+          "it": "Un buon compromesso lascia entrambe le parti un po' soddisfatte.",
+          "es": "Un buen acuerdo deja a ambas partes algo contentas."
+        }
+      ]
+    },
+    {
+      "id": "premise",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "pre-",
+        "mise"
+      ],
+      "gloss": {
+        "en": "an idea that an argument or story is based on (literally: something sent before)",
+        "tr": "öncül; temel fikir",
+        "de": "die Prämisse; die Grundidee",
+        "fr": "la prémisse; le point de départ",
+        "it": "la premessa",
+        "es": "la premisa"
+      },
+      "sentences": [
+        {
+          "en": "The film's [premise] is simple: a dog runs a café.",
+          "tr": "Filmin temel fikri basit: bir köpek kafe işletiyor.",
+          "de": "Die Grundidee des Films ist einfach: Ein Hund führt ein Café.",
+          "fr": "Le point de départ du film est simple : un chien tient un café.",
+          "it": "La premessa del film è semplice: un cane gestisce un bar.",
+          "es": "La premisa de la película es sencilla: un perro lleva una cafetería."
+        },
+        {
+          "en": "Your conclusion is wrong because the [premise] is false.",
+          "tr": "Öncül yanlış olduğu için vardığın sonuç da yanlış.",
+          "de": "Dein Schluss ist falsch, weil die Prämisse nicht stimmt.",
+          "fr": "Ta conclusion est fausse parce que la prémisse est fausse.",
+          "it": "La tua conclusione è sbagliata perché la premessa è falsa.",
+          "es": "Tu conclusión es errónea porque la premisa es falsa."
+        }
+      ]
+    },
+    {
+      "id": "demise",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "de-",
+        "mise"
+      ],
+      "gloss": {
+        "en": "the end or death of something (from Latin demittere, 'to send down')",
+        "tr": "son, çöküş",
+        "de": "das Ende, der Untergang",
+        "fr": "la fin, la disparition",
+        "it": "la fine, la scomparsa",
+        "es": "el fin, la desaparición"
+      },
+      "sentences": [
+        {
+          "en": "Streaming led to the [demise] of video shops.",
+          "tr": "Dijital yayın video dükkânlarının sonunu getirdi.",
+          "de": "Streaming führte zum Ende der Videotheken.",
+          "fr": "Le streaming a entraîné la disparition des vidéoclubs.",
+          "it": "Lo streaming ha portato alla fine delle videoteche.",
+          "es": "El streaming provocó el fin de los videoclubes."
+        },
+        {
+          "en": "Nobody expected the sudden [demise] of the company.",
+          "tr": "Şirketin aniden çöküşünü kimse beklemiyordu.",
+          "de": "Niemand hatte mit dem plötzlichen Untergang der Firma gerechnet.",
+          "fr": "Personne ne s'attendait à la disparition soudaine de l'entreprise.",
+          "it": "Nessuno si aspettava l'improvvisa fine dell'azienda.",
+          "es": "Nadie esperaba la repentina desaparición de la empresa."
+        }
+      ]
+    }
+  ]
+}

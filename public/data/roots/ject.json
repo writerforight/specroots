@@ -1,0 +1,731 @@
+{
+  "id": "ject",
+  "forms": [
+    "ject"
+  ],
+  "origin": "la",
+  "etymon": "iacere",
+  "meaning": {
+    "en": "to throw",
+    "tr": "atmak, fırlatmak",
+    "de": "werfen",
+    "fr": "jeter, lancer",
+    "it": "gettare, lanciare",
+    "es": "lanzar, arrojar"
+  },
+  "words": [
+    {
+      "id": "project",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "pro-",
+        "ject"
+      ],
+      "gloss": {
+        "en": "a planned piece of work (literally: something thrown forward)",
+        "tr": "proje",
+        "de": "das Projekt",
+        "fr": "le projet",
+        "it": "il progetto",
+        "es": "el proyecto"
+      },
+      "sentences": [
+        {
+          "en": "Our class is doing a [project] on bees.",
+          "tr": "Sınıfımız arılar üzerine bir proje yapıyor.",
+          "de": "Unsere Klasse macht ein Projekt über Bienen.",
+          "fr": "Notre classe fait un projet sur les abeilles.",
+          "it": "La nostra classe fa un progetto sulle api.",
+          "es": "Nuestra clase está haciendo un proyecto sobre las abejas."
+        },
+        {
+          "en": "The building [project] will take two years.",
+          "tr": "İnşaat projesi iki yıl sürecek.",
+          "de": "Das Bauprojekt wird zwei Jahre dauern.",
+          "fr": "Le projet de construction durera deux ans.",
+          "it": "Il progetto edilizio durerà due anni.",
+          "es": "El proyecto de construcción durará dos años."
+        }
+      ]
+    },
+    {
+      "id": "projector",
+      "pos": "noun",
+      "parent": "project",
+      "parts": [
+        "pro-",
+        "ject",
+        "-or"
+      ],
+      "gloss": {
+        "en": "a machine that shows pictures on a screen",
+        "tr": "projeksiyon cihazı",
+        "de": "der Projektor, der Beamer",
+        "fr": "le projecteur, le vidéoprojecteur",
+        "it": "il proiettore",
+        "es": "el proyector"
+      },
+      "sentences": [
+        {
+          "en": "Can you turn on the [projector]?",
+          "tr": "Projeksiyonu açabilir misin?",
+          "de": "Kannst du den Beamer einschalten?",
+          "fr": "Tu peux allumer le projecteur ?",
+          "it": "Puoi accendere il proiettore?",
+          "es": "¿Puedes encender el proyector?"
+        },
+        {
+          "en": "The old [projector] made a lot of noise.",
+          "tr": "Eski projeksiyon cihazı çok gürültü yapıyordu.",
+          "de": "Der alte Projektor war sehr laut.",
+          "fr": "Le vieux projecteur faisait beaucoup de bruit.",
+          "it": "Il vecchio proiettore faceva molto rumore.",
+          "es": "El viejo proyector hacía mucho ruido."
+        }
+      ]
+    },
+    {
+      "id": "projection",
+      "pos": "noun",
+      "parent": "project",
+      "parts": [
+        "pro-",
+        "ject",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a guess about future numbers; an image shown on a surface",
+        "tr": "tahmin, öngörü; yansıtılan görüntü",
+        "de": "die Prognose; die Projektion",
+        "fr": "la prévision; la projection",
+        "it": "la previsione; la proiezione",
+        "es": "la previsión; la proyección"
+      },
+      "sentences": [
+        {
+          "en": "Sales [projections] for next year look good.",
+          "tr": "Gelecek yılın satış tahminleri iyi görünüyor.",
+          "de": "Die Umsatzprognosen für nächstes Jahr sehen gut aus.",
+          "fr": "Les prévisions de ventes pour l'an prochain sont bonnes.",
+          "it": "Le previsioni di vendita per l'anno prossimo sono buone.",
+          "es": "Las previsiones de ventas para el año que viene son buenas."
+        },
+        {
+          "en": "A [projection] of stars covered the ceiling.",
+          "tr": "Tavanı yansıtılan yıldızlar kapladı.",
+          "de": "Eine Projektion von Sternen bedeckte die Decke.",
+          "fr": "Une projection d'étoiles couvrait le plafond.",
+          "it": "Una proiezione di stelle copriva il soffitto.",
+          "es": "Una proyección de estrellas cubría el techo."
+        }
+      ]
+    },
+    {
+      "id": "projectile",
+      "pos": "noun",
+      "parent": "project",
+      "parts": [
+        "pro-",
+        "ject",
+        "-ile"
+      ],
+      "gloss": {
+        "en": "an object that is thrown or shot through the air",
+        "tr": "fırlatılan cisim; mermi",
+        "de": "das Geschoss, das Wurfgeschoss",
+        "fr": "le projectile",
+        "it": "il proiettile",
+        "es": "el proyectil"
+      },
+      "sentences": [
+        {
+          "en": "Physics students study the path of a [projectile].",
+          "tr": "Fizik öğrencileri fırlatılan bir cismin yolunu inceler.",
+          "de": "Physikstudierende untersuchen die Bahn eines Geschosses.",
+          "fr": "Les étudiants en physique étudient la trajectoire d'un projectile.",
+          "it": "Gli studenti di fisica studiano la traiettoria di un proiettile.",
+          "es": "Los estudiantes de física estudian la trayectoria de un proyectil."
+        },
+        {
+          "en": "Fans threw [projectiles] onto the pitch.",
+          "tr": "Taraftarlar sahaya cisimler fırlattı.",
+          "de": "Fans warfen Gegenstände aufs Spielfeld.",
+          "fr": "Des supporters ont lancé des projectiles sur le terrain.",
+          "it": "I tifosi hanno lanciato oggetti in campo.",
+          "es": "Los aficionados lanzaron objetos al campo."
+        }
+      ]
+    },
+    {
+      "id": "reject",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "re-",
+        "ject"
+      ],
+      "gloss": {
+        "en": "to refuse to accept (literally: to throw back)",
+        "tr": "reddetmek",
+        "de": "ablehnen",
+        "fr": "rejeter, refuser",
+        "it": "rifiutare, respingere",
+        "es": "rechazar"
+      },
+      "sentences": [
+        {
+          "en": "The bank [rejected] my loan application.",
+          "tr": "Banka kredi başvurumu reddetti.",
+          "de": "Die Bank hat meinen Kreditantrag abgelehnt.",
+          "fr": "La banque a refusé ma demande de prêt.",
+          "it": "La banca ha respinto la mia richiesta di prestito.",
+          "es": "El banco rechazó mi solicitud de préstamo."
+        },
+        {
+          "en": "Don't [reject] an idea before you try it.",
+          "tr": "Bir fikri denemeden reddetme.",
+          "de": "Lehne eine Idee nicht ab, bevor du sie ausprobiert hast.",
+          "fr": "Ne rejette pas une idée avant de l'avoir essayée.",
+          "it": "Non rifiutare un'idea prima di provarla.",
+          "es": "No rechaces una idea antes de probarla."
+        }
+      ]
+    },
+    {
+      "id": "rejection",
+      "pos": "noun",
+      "parent": "reject",
+      "parts": [
+        "re-",
+        "ject",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "the act of refusing someone or something",
+        "tr": "ret, reddedilme",
+        "de": "die Ablehnung, die Absage",
+        "fr": "le rejet, le refus",
+        "it": "il rifiuto",
+        "es": "el rechazo"
+      },
+      "sentences": [
+        {
+          "en": "Every writer gets [rejection] letters.",
+          "tr": "Her yazar ret mektupları alır.",
+          "de": "Jeder Schriftsteller bekommt Absagebriefe.",
+          "fr": "Tous les écrivains reçoivent des lettres de refus.",
+          "it": "Ogni scrittore riceve lettere di rifiuto.",
+          "es": "Todos los escritores reciben cartas de rechazo."
+        },
+        {
+          "en": "Fear of [rejection] stopped him from asking.",
+          "tr": "Reddedilme korkusu sormasını engelledi.",
+          "de": "Die Angst vor Ablehnung hielt ihn vom Fragen ab.",
+          "fr": "La peur du rejet l'a empêché de demander.",
+          "it": "La paura del rifiuto gli ha impedito di chiedere.",
+          "es": "El miedo al rechazo le impidió preguntar."
+        }
+      ]
+    },
+    {
+      "id": "inject",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "in-",
+        "ject"
+      ],
+      "gloss": {
+        "en": "to put a liquid into the body with a needle; to add something new (literally: to throw in)",
+        "tr": "enjekte etmek, iğne yapmak; katmak",
+        "de": "spritzen; einbringen",
+        "fr": "injecter; insuffler",
+        "it": "iniettare; infondere",
+        "es": "inyectar"
+      },
+      "sentences": [
+        {
+          "en": "The nurse [injected] the vaccine into my arm.",
+          "tr": "Hemşire aşıyı koluma yaptı.",
+          "de": "Die Krankenschwester spritzte den Impfstoff in meinen Arm.",
+          "fr": "L'infirmière m'a injecté le vaccin dans le bras.",
+          "it": "L'infermiera mi ha iniettato il vaccino nel braccio.",
+          "es": "La enfermera me inyectó la vacuna en el brazo."
+        },
+        {
+          "en": "The new coach [injected] fresh energy into the team.",
+          "tr": "Yeni antrenör takıma taze bir enerji kattı.",
+          "de": "Der neue Trainer brachte frischen Schwung ins Team.",
+          "fr": "Le nouvel entraîneur a insufflé une nouvelle énergie à l'équipe.",
+          "it": "Il nuovo allenatore ha infuso nuova energia alla squadra.",
+          "es": "El nuevo entrenador inyectó energía nueva al equipo."
+        }
+      ]
+    },
+    {
+      "id": "injection",
+      "pos": "noun",
+      "parent": "inject",
+      "parts": [
+        "in-",
+        "ject",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a shot of medicine given with a needle",
+        "tr": "iğne, enjeksiyon",
+        "de": "die Spritze, die Injektion",
+        "fr": "la piqûre, l'injection",
+        "it": "la puntura, l'iniezione",
+        "es": "la inyección"
+      },
+      "sentences": [
+        {
+          "en": "I'm afraid of [injections].",
+          "tr": "İğneden korkarım.",
+          "de": "Ich habe Angst vor Spritzen.",
+          "fr": "J'ai peur des piqûres.",
+          "it": "Ho paura delle punture.",
+          "es": "Me dan miedo las inyecciones."
+        },
+        {
+          "en": "The dog needs an [injection] once a year.",
+          "tr": "Köpeğin yılda bir kez iğne olması gerekiyor.",
+          "de": "Der Hund braucht einmal im Jahr eine Spritze.",
+          "fr": "Le chien a besoin d'une piqûre une fois par an.",
+          "it": "Il cane ha bisogno di un'iniezione una volta all'anno.",
+          "es": "El perro necesita una inyección una vez al año."
+        }
+      ]
+    },
+    {
+      "id": "object",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "ob-",
+        "ject"
+      ],
+      "gloss": {
+        "en": "a thing you can see or touch; a goal (literally: something thrown in front)",
+        "tr": "nesne, cisim; amaç",
+        "de": "der Gegenstand; das Ziel",
+        "fr": "l'objet; le but",
+        "it": "l'oggetto; lo scopo",
+        "es": "el objeto; el objetivo"
+      },
+      "sentences": [
+        {
+          "en": "A strange [object] fell from the sky.",
+          "tr": "Gökyüzünden garip bir cisim düştü.",
+          "de": "Ein seltsamer Gegenstand fiel vom Himmel.",
+          "fr": "Un objet étrange est tombé du ciel.",
+          "it": "Uno strano oggetto è caduto dal cielo.",
+          "es": "Un objeto extraño cayó del cielo."
+        },
+        {
+          "en": "The [object] of the game is to reach the end first.",
+          "tr": "Oyunun amacı sona ilk varmak.",
+          "de": "Ziel des Spiels ist es, als Erster ans Ende zu kommen.",
+          "fr": "Le but du jeu est d'arriver le premier à la fin.",
+          "it": "Lo scopo del gioco è arrivare per primi alla fine.",
+          "es": "El objetivo del juego es llegar primero al final."
+        }
+      ]
+    },
+    {
+      "id": "objection",
+      "pos": "noun",
+      "parent": "object",
+      "parts": [
+        "ob-",
+        "ject",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a reason for not agreeing",
+        "tr": "itiraz",
+        "de": "der Einwand; der Einspruch",
+        "fr": "l'objection",
+        "it": "l'obiezione",
+        "es": "la objeción"
+      },
+      "sentences": [
+        {
+          "en": "Does anyone have an [objection] to the plan?",
+          "tr": "Plana itirazı olan var mı?",
+          "de": "Hat jemand einen Einwand gegen den Plan?",
+          "fr": "Quelqu'un a-t-il une objection au projet ?",
+          "it": "Qualcuno ha obiezioni al piano?",
+          "es": "¿Alguien tiene alguna objeción al plan?"
+        },
+        {
+          "en": "\"[Objection]!\" shouted the lawyer.",
+          "tr": "\"İtiraz ediyorum!\" diye bağırdı avukat.",
+          "de": "„Einspruch!“, rief der Anwalt.",
+          "fr": "« Objection ! » s'est écrié l'avocat.",
+          "it": "«Obiezione!» gridò l'avvocato.",
+          "es": "«¡Objeción!», gritó el abogado."
+        }
+      ]
+    },
+    {
+      "id": "objective",
+      "pos": "noun",
+      "parent": "object",
+      "parts": [
+        "ob-",
+        "ject",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "a goal you are trying to reach",
+        "tr": "hedef, amaç",
+        "de": "das Ziel",
+        "fr": "l'objectif",
+        "it": "l'obiettivo",
+        "es": "el objetivo"
+      },
+      "sentences": [
+        {
+          "en": "Our main [objective] is to finish by June.",
+          "tr": "Asıl hedefimiz hazirana kadar bitirmek.",
+          "de": "Unser Hauptziel ist es, bis Juni fertig zu sein.",
+          "fr": "Notre objectif principal est de finir avant juin.",
+          "it": "Il nostro obiettivo principale è finire entro giugno.",
+          "es": "Nuestro objetivo principal es terminar antes de junio."
+        },
+        {
+          "en": "Write down three [objectives] for this year.",
+          "tr": "Bu yıl için üç hedef yaz.",
+          "de": "Schreib drei Ziele für dieses Jahr auf.",
+          "fr": "Note trois objectifs pour cette année.",
+          "it": "Scrivi tre obiettivi per quest'anno.",
+          "es": "Escribe tres objetivos para este año."
+        }
+      ]
+    },
+    {
+      "id": "subject",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "sub-",
+        "ject"
+      ],
+      "gloss": {
+        "en": "a topic; a field of study at school (literally: thrown under)",
+        "tr": "konu; ders",
+        "de": "das Thema; das Fach",
+        "fr": "le sujet; la matière",
+        "it": "l'argomento; la materia",
+        "es": "el tema; la asignatura"
+      },
+      "sentences": [
+        {
+          "en": "Maths is my favourite [subject].",
+          "tr": "Matematik en sevdiğim ders.",
+          "de": "Mathe ist mein Lieblingsfach.",
+          "fr": "Les maths sont ma matière préférée.",
+          "it": "La matematica è la mia materia preferita.",
+          "es": "Las matemáticas son mi asignatura favorita."
+        },
+        {
+          "en": "Let's change the [subject].",
+          "tr": "Konuyu değiştirelim.",
+          "de": "Lass uns das Thema wechseln.",
+          "fr": "Changeons de sujet.",
+          "it": "Cambiamo argomento.",
+          "es": "Cambiemos de tema."
+        }
+      ]
+    },
+    {
+      "id": "subjective",
+      "pos": "adjective",
+      "parent": "subject",
+      "parts": [
+        "sub-",
+        "ject",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "based on personal feelings, not facts",
+        "tr": "öznel",
+        "de": "subjektiv",
+        "fr": "subjectif",
+        "it": "soggettivo",
+        "es": "subjetivo"
+      },
+      "sentences": [
+        {
+          "en": "Taste in music is very [subjective].",
+          "tr": "Müzik zevki çok öznel.",
+          "de": "Musikgeschmack ist sehr subjektiv.",
+          "fr": "Les goûts musicaux sont très subjectifs.",
+          "it": "Il gusto musicale è molto soggettivo.",
+          "es": "El gusto musical es muy subjetivo."
+        },
+        {
+          "en": "This is only my [subjective] opinion.",
+          "tr": "Bu sadece benim öznel görüşüm.",
+          "de": "Das ist nur meine subjektive Meinung.",
+          "fr": "Ce n'est que mon avis subjectif.",
+          "it": "È solo la mia opinione soggettiva.",
+          "es": "Es solo mi opinión subjetiva."
+        }
+      ]
+    },
+    {
+      "id": "eject",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "e-",
+        "ject"
+      ],
+      "gloss": {
+        "en": "to push or throw out with force",
+        "tr": "dışarı atmak, çıkarmak",
+        "de": "auswerfen; hinauswerfen",
+        "fr": "éjecter; expulser",
+        "it": "espellere; buttare fuori",
+        "es": "expulsar; sacar"
+      },
+      "sentences": [
+        {
+          "en": "Press this button to [eject] the disc.",
+          "tr": "Diski çıkarmak için bu düğmeye bas.",
+          "de": "Drück diesen Knopf, um die CD auszuwerfen.",
+          "fr": "Appuie sur ce bouton pour éjecter le disque.",
+          "it": "Premi questo tasto per espellere il disco.",
+          "es": "Pulsa este botón para expulsar el disco."
+        },
+        {
+          "en": "The pilot [ejected] just before the crash.",
+          "tr": "Pilot düşmeden hemen önce fırlatma koltuğuyla kendini dışarı attı.",
+          "de": "Der Pilot katapultierte sich kurz vor dem Absturz heraus.",
+          "fr": "Le pilote s'est éjecté juste avant le crash.",
+          "it": "Il pilota si è eiettato poco prima dello schianto.",
+          "es": "El piloto se eyectó justo antes del accidente."
+        }
+      ]
+    },
+    {
+      "id": "interject",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "inter-",
+        "ject"
+      ],
+      "gloss": {
+        "en": "to say something suddenly while someone else is speaking (literally: to throw between)",
+        "tr": "araya girmek, söze karışmak",
+        "de": "einwerfen",
+        "fr": "glisser, intervenir",
+        "it": "intervenire, interloquire",
+        "es": "intervenir, interrumpir"
+      },
+      "sentences": [
+        {
+          "en": "\"That's not true,\" she [interjected].",
+          "tr": "\"Bu doğru değil,\" diye araya girdi.",
+          "de": "„Das stimmt nicht“, warf sie ein.",
+          "fr": "« Ce n'est pas vrai », a-t-elle glissé.",
+          "it": "«Non è vero», intervenne lei.",
+          "es": "«Eso no es verdad», intervino ella."
+        },
+        {
+          "en": "He [interjected] a joke into the serious talk.",
+          "tr": "Ciddi konuşmanın arasına bir şaka sıkıştırdı.",
+          "de": "Er warf einen Witz in das ernste Gespräch ein.",
+          "fr": "Il a glissé une blague dans la conversation sérieuse.",
+          "it": "Ha inserito una battuta nel discorso serio.",
+          "es": "Metió un chiste en la conversación seria."
+        }
+      ]
+    },
+    {
+      "id": "interjection",
+      "pos": "noun",
+      "parent": "interject",
+      "parts": [
+        "inter-",
+        "ject",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a short word that shows feeling, such as 'oh!' or 'wow!'",
+        "tr": "ünlem",
+        "de": "die Interjektion, der Ausruf",
+        "fr": "l'interjection",
+        "it": "l'interiezione",
+        "es": "la interjección"
+      },
+      "sentences": [
+        {
+          "en": "\"Ouch\" is an [interjection].",
+          "tr": "\"Ay\" bir ünlemdir.",
+          "de": "„Autsch“ ist eine Interjektion.",
+          "fr": "« Aïe » est une interjection.",
+          "it": "«Ahi» è un'interiezione.",
+          "es": "«¡Ay!» es una interjección."
+        },
+        {
+          "en": "Every language has its own [interjections].",
+          "tr": "Her dilin kendi ünlemleri vardır.",
+          "de": "Jede Sprache hat ihre eigenen Ausrufe.",
+          "fr": "Chaque langue a ses propres interjections.",
+          "it": "Ogni lingua ha le sue interiezioni.",
+          "es": "Cada idioma tiene sus propias interjecciones."
+        }
+      ]
+    },
+    {
+      "id": "trajectory",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "tra-",
+        "ject",
+        "-ory"
+      ],
+      "gloss": {
+        "en": "the path of a moving object through the air (literally: a throwing across)",
+        "tr": "yörünge, izlenen yol",
+        "de": "die Flugbahn; der Verlauf",
+        "fr": "la trajectoire",
+        "it": "la traiettoria",
+        "es": "la trayectoria"
+      },
+      "sentences": [
+        {
+          "en": "The ball's [trajectory] was perfect.",
+          "tr": "Topun izlediği yol mükemmeldi.",
+          "de": "Die Flugbahn des Balls war perfekt.",
+          "fr": "La trajectoire du ballon était parfaite.",
+          "it": "La traiettoria del pallone era perfetta.",
+          "es": "La trayectoria del balón fue perfecta."
+        },
+        {
+          "en": "Her career followed an upward [trajectory].",
+          "tr": "Kariyeri sürekli yükseldi.",
+          "de": "Ihre Karriere verlief steil nach oben.",
+          "fr": "Sa carrière a suivi une trajectoire ascendante.",
+          "it": "La sua carriera ha seguito una traiettoria in ascesa.",
+          "es": "Su carrera siguió una trayectoria ascendente."
+        }
+      ]
+    },
+    {
+      "id": "dejected",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "de-",
+        "ject",
+        "-ed"
+      ],
+      "gloss": {
+        "en": "sad and without hope (literally: thrown down)",
+        "tr": "morali bozuk, üzgün",
+        "de": "niedergeschlagen",
+        "fr": "abattu, découragé",
+        "it": "abbattuto, avvilito",
+        "es": "abatido, desanimado"
+      },
+      "sentences": [
+        {
+          "en": "The players left the field looking [dejected].",
+          "tr": "Oyuncular sahadan moralleri bozuk ayrıldı.",
+          "de": "Die Spieler verließen niedergeschlagen den Platz.",
+          "fr": "Les joueurs ont quitté le terrain l'air abattu.",
+          "it": "I giocatori hanno lasciato il campo con aria abbattuta.",
+          "es": "Los jugadores salieron del campo abatidos."
+        },
+        {
+          "en": "He felt [dejected] after the bad news.",
+          "tr": "Kötü haberden sonra morali bozuldu.",
+          "de": "Nach der schlechten Nachricht war er niedergeschlagen.",
+          "fr": "Il s'est senti découragé après la mauvaise nouvelle.",
+          "it": "Si è sentito avvilito dopo la brutta notizia.",
+          "es": "Se sintió desanimado tras la mala noticia."
+        }
+      ]
+    },
+    {
+      "id": "conjecture",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "con-",
+        "ject",
+        "-ure"
+      ],
+      "gloss": {
+        "en": "a guess based on little evidence (literally: a throwing together)",
+        "tr": "tahmin, varsayım; sanı",
+        "de": "die Vermutung",
+        "fr": "la conjecture, la supposition",
+        "it": "la congettura",
+        "es": "la conjetura"
+      },
+      "sentences": [
+        {
+          "en": "Without facts, this is pure [conjecture].",
+          "tr": "Kanıt olmadan bu tamamen tahmin.",
+          "de": "Ohne Fakten ist das reine Vermutung.",
+          "fr": "Sans faits, ce n'est que pure conjecture.",
+          "it": "Senza fatti, è pura congettura.",
+          "es": "Sin datos, esto es pura conjetura."
+        },
+        {
+          "en": "The famous [conjecture] was finally proved in 1994.",
+          "tr": "Ünlü sanı sonunda 1994'te kanıtlandı.",
+          "de": "Die berühmte Vermutung wurde 1994 endlich bewiesen.",
+          "fr": "La célèbre conjecture a enfin été démontrée en 1994.",
+          "it": "La famosa congettura è stata finalmente dimostrata nel 1994.",
+          "es": "La famosa conjetura se demostró por fin en 1994."
+        }
+      ]
+    },
+    {
+      "id": "adjective",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "ad-",
+        "ject",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "a word that describes a noun, such as 'big' (literally: thrown next to)",
+        "tr": "sıfat",
+        "de": "das Adjektiv",
+        "fr": "l'adjectif",
+        "it": "l'aggettivo",
+        "es": "el adjetivo"
+      },
+      "sentences": [
+        {
+          "en": "\"Happy\" is an [adjective].",
+          "tr": "\"Happy\" (mutlu) bir sıfattır.",
+          "de": "„Happy“ (glücklich) ist ein Adjektiv.",
+          "fr": "« Happy » (heureux) est un adjectif.",
+          "it": "«Happy» (felice) è un aggettivo.",
+          "es": "«Happy» (feliz) es un adjetivo."
+        },
+        {
+          "en": "Use fewer [adjectives] and stronger verbs.",
+          "tr": "Daha az sıfat, daha güçlü fiiller kullan.",
+          "de": "Verwende weniger Adjektive und stärkere Verben.",
+          "fr": "Utilise moins d'adjectifs et des verbes plus forts.",
+          "it": "Usa meno aggettivi e verbi più forti.",
+          "es": "Usa menos adjetivos y verbos más fuertes."
+        }
+      ]
+    }
+  ]
+}
