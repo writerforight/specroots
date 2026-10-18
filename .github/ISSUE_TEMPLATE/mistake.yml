@@ -1,0 +1,25 @@
+name: Mistake
+description: A wrong translation, an unnatural sentence or a wrong word split
+title: "Mistake: "
+labels: ["data fix"]
+body:
+  - type: input
+    id: where
+    attributes:
+      label: Which root and word?
+      placeholder: "scrib → subscription"
+    validations:
+      required: true
+  - type: dropdown
+    id: language
+    attributes:
+      label: Language
+      options: [English, Türkçe, Deutsch, Français, Italiano, Español, Not language-specific]
+    validations:
+      required: true
+  - type: textarea
+    id: wrong
+    attributes:
+      label: What is wrong, and what it should be
+    validations:
+      required: true

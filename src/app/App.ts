@@ -45,7 +45,8 @@ export class App {
   }
 
   async start(): Promise<void> {
-    this.host.append(
+    // index.html ships a plain-HTML root list for crawlers and no-JS readers; the app takes over.
+    this.host.replaceChildren(
       h(
         'header',
         { class: 'topbar' },

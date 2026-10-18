@@ -232,3 +232,7 @@ mark { background: var(--mark); color: inherit; padding: 0 2px; border-radius: 3
 .form-warning { margin: 8px 0 0; color: var(--suffix); font-size: 0.85rem; }
 .dialog-actions { display: flex; justify-content: flex-end; margin-top: 24px; }
 .primary { padding: 9px 22px; border: 0; border-radius: 999px; background: var(--accent); color: var(--on-accent); font-weight: 600; cursor: pointer; }
+
+/* Plain-HTML fallback in index.html, visible only until the app starts (or without JavaScript). */
+.static-intro { max-width: 760px; margin: 0 auto; padding: 32px 16px; font-family: var(--font-text); }
+.static-intro a { color: var(--accent); }

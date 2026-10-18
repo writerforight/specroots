@@ -30,6 +30,14 @@ seçilen dillerdeki karşılığı ve öğretici örnek cümleleri bir arada gö
 11. **Kapsam:** ilk tam sürümde ~50 kök, özenle seçilmiş ve kontrol edilmiş.
 12. **Mimari:** nesne yönelimli, katmanlı (aşağıda). Görünüm ve tema veri ve mantıktan bağımsız
     değiştirilebilir olmalı.
+13. **Bulunabilirlik (2026-10-18):** yalnızca ana sayfa için: açıklama, Open Graph görseli (`public/og.png`),
+    JSON-LD (WebApplication, yazar Eren Can Almaz), canonical; kök listesi build sırasında `index.html`'e düz
+    HTML olarak yazılır (JS'siz okuyucular ve arama motorları için). Kök başına ayrı sayfa yok.
+    Kişisel sayfada (writerforight.github.io) "Smaller tools" altında, JSON-LD'de, sitemap'te ve llms.txt'de yer alır;
+    profil README'sindeki 3 ana projeye eklenmez.
+14. **Katkı (2026-10-18):** dışarıdan kök önerme ve düzeltme: issue formları (`new-root`, `mistake`),
+    CONTRIBUTING.md (kök ekleme adımları, iyi örnek cümle ölçütü), her PR'da `npm run check`.
+    README İngilizce (varsayılan) + Almanca + Türkçe.
 
 ## Mimari
 ```

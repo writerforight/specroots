@@ -1,0 +1,39 @@
+name: New root
+description: Suggest a Latin or Greek root to add
+title: "Root: "
+labels: ["new root"]
+body:
+  - type: input
+    id: root
+    attributes:
+      label: Root and its spellings
+      placeholder: "graph / gram"
+    validations:
+      required: true
+  - type: input
+    id: meaning
+    attributes:
+      label: Meaning and origin
+      placeholder: "to write (Greek graphein)"
+    validations:
+      required: true
+  - type: textarea
+    id: words
+    attributes:
+      label: English words built on it
+      description: A few common ones are enough; mark which comes from which if you know.
+      placeholder: |
+        photograph, photography, autograph, paragraph, telegram
+    validations:
+      required: true
+  - type: checkboxes
+    id: help
+    attributes:
+      label: Can you help?
+      options:
+        - label: I can write the JSON file myself (see CONTRIBUTING.md)
+        - label: I can check translations in one of the languages (say which below)
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else

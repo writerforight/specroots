@@ -3,13 +3,60 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="description" content="Learn English words through their Latin and Greek roots, with translations and example sentences." />
+    <title>specroots: learn English words through Latin and Greek roots</title>
+    <meta name="description" content="Free English word-root dictionary: see each Latin or Greek root (spec, port, dict, duc, scrib…) with its whole word family split into prefix, root and suffix, translations in Turkish, German, French, Italian and Spanish, and example sentences with pronunciation." />
+    <meta name="author" content="Eren Can Almaz" />
+    <link rel="canonical" href="https://writerforight.github.io/specroots/" />
     <meta name="color-scheme" content="light dark" />
-    <title>specroots</title>
+    <meta name="theme-color" content="#2f5d50" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="specroots" />
+    <meta property="og:title" content="specroots: learn English words through their roots" />
+    <meta property="og:description" content="One root, a whole word family: in·spect, in·spect·ion, re·spect, per·spect·ive… with translations in 5 languages and example sentences." />
+    <meta property="og:url" content="https://writerforight.github.io/specroots/" />
+    <meta property="og:image" content="https://writerforight.github.io/specroots/og.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="The root spec / spect with the words inspect, inspection, respect and perspective split into prefix, root and suffix." />
+    <meta name="twitter:card" content="summary_large_image" />
+
     <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%232f5d50'/%3E%3Cpath d='M16 7v18M16 15l-6-6M16 15l6-6M16 21l-5 4M16 21l5 4' stroke='%23fff' stroke-width='2.4' stroke-linecap='round' fill='none'/%3E%3C/svg%3E" />
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebApplication",
+        "name": "specroots",
+        "url": "https://writerforight.github.io/specroots/",
+        "description": "English word-root dictionary: Latin and Greek roots with their word families split into prefix, root and suffix, translations in Turkish, German, French, Italian and Spanish, and example sentences.",
+        "applicationCategory": "EducationalApplication",
+        "operatingSystem": "Web browser",
+        "inLanguage": ["en", "tr", "de", "fr", "it", "es"],
+        "isAccessibleForFree": true,
+        "offers": { "@type": "Offer", "price": "0", "priceCurrency": "EUR" },
+        "codeRepository": "https://github.com/writerforight/specroots",
+        "license": "https://opensource.org/licenses/MIT",
+        "author": { "@type": "Person", "@id": "https://writerforight.github.io/#person", "name": "Eren Can Almaz", "url": "https://writerforight.github.io/" }
+      }
+    </script>
   </head>
   <body>
-    <div id="app"></div>
+    <div id="app">
+      <main class="static-intro">
+        <h1>specroots: learn English words through their roots</h1>
+        <p>
+          A free dictionary of Latin and Greek roots. Each root shows its English word family, every word split
+          into prefix · root · suffix, with translations in Turkish, German, French, Italian and Spanish and
+          example sentences. Open source:
+          <a href="https://github.com/writerforight/specroots">github.com/writerforight/specroots</a>.
+        </p>
+        <h2>Roots</h2>
+        <ul>
+        <!--static-root-list-->
+        </ul>
+      </main>
+    </div>
     <script type="module" src="/src/main.ts"></script>
   </body>
 </html>
