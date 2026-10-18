@@ -1,0 +1,738 @@
+{
+  "id": "struct",
+  "forms": [
+    "struct",
+    "stru",
+    "strue"
+  ],
+  "origin": "la",
+  "etymon": "struere",
+  "meaning": {
+    "en": "to build, to pile up",
+    "tr": "inşa etmek, üst üste koymak",
+    "de": "bauen, aufschichten",
+    "fr": "construire, empiler",
+    "it": "costruire, ammassare",
+    "es": "construir, apilar"
+  },
+  "words": [
+    {
+      "id": "structure",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "struct",
+        "-ure"
+      ],
+      "gloss": {
+        "en": "the way parts are put together; a building",
+        "tr": "yapı",
+        "de": "die Struktur; das Bauwerk",
+        "fr": "la structure",
+        "it": "la struttura",
+        "es": "la estructura"
+      },
+      "sentences": [
+        {
+          "en": "The essay has a clear [structure].",
+          "tr": "Kompozisyonun açık bir yapısı var.",
+          "de": "Der Aufsatz hat eine klare Struktur.",
+          "fr": "La rédaction a une structure claire.",
+          "it": "Il tema ha una struttura chiara.",
+          "es": "La redacción tiene una estructura clara."
+        },
+        {
+          "en": "The tower is the tallest [structure] in the city.",
+          "tr": "Kule şehrin en yüksek yapısı.",
+          "de": "Der Turm ist das höchste Bauwerk der Stadt.",
+          "fr": "La tour est la plus haute structure de la ville.",
+          "it": "La torre è la struttura più alta della città.",
+          "es": "La torre es la estructura más alta de la ciudad."
+        }
+      ]
+    },
+    {
+      "id": "restructure",
+      "pos": "verb",
+      "parent": "structure",
+      "parts": [
+        "re-",
+        "struct",
+        "-ure"
+      ],
+      "gloss": {
+        "en": "to organize something in a new way",
+        "tr": "yeniden yapılandırmak",
+        "de": "umstrukturieren",
+        "fr": "restructurer",
+        "it": "riorganizzare, ristrutturare",
+        "es": "reestructurar"
+      },
+      "sentences": [
+        {
+          "en": "The company will [restructure] its sales team.",
+          "tr": "Şirket satış ekibini yeniden yapılandıracak.",
+          "de": "Die Firma wird ihr Vertriebsteam umstrukturieren.",
+          "fr": "L'entreprise va restructurer son équipe commerciale.",
+          "it": "L'azienda riorganizzerà il team vendite.",
+          "es": "La empresa va a reestructurar su equipo de ventas."
+        },
+        {
+          "en": "I [restructured] my essay to make it clearer.",
+          "tr": "Kompozisyonumu daha anlaşılır olsun diye yeniden düzenledim.",
+          "de": "Ich habe meinen Aufsatz umgebaut, damit er klarer wird.",
+          "fr": "J'ai restructuré ma rédaction pour la rendre plus claire.",
+          "it": "Ho riorganizzato il tema per renderlo più chiaro.",
+          "es": "Reestructuré mi redacción para que fuera más clara."
+        }
+      ]
+    },
+    {
+      "id": "infrastructure",
+      "pos": "noun",
+      "parent": "structure",
+      "parts": [
+        "infra-",
+        "struct",
+        "-ure"
+      ],
+      "gloss": {
+        "en": "the basic systems a country needs, such as roads, power and water (literally: the structure below)",
+        "tr": "altyapı",
+        "de": "die Infrastruktur",
+        "fr": "les infrastructures",
+        "it": "le infrastrutture",
+        "es": "la infraestructura"
+      },
+      "sentences": [
+        {
+          "en": "The country needs better [infrastructure].",
+          "tr": "Ülkenin daha iyi bir altyapıya ihtiyacı var.",
+          "de": "Das Land braucht eine bessere Infrastruktur.",
+          "fr": "Le pays a besoin de meilleures infrastructures.",
+          "it": "Il paese ha bisogno di infrastrutture migliori.",
+          "es": "El país necesita mejores infraestructuras."
+        },
+        {
+          "en": "Fast internet is now basic [infrastructure].",
+          "tr": "Hızlı internet artık temel altyapının parçası.",
+          "de": "Schnelles Internet gehört heute zur Grundinfrastruktur.",
+          "fr": "L'internet rapide fait désormais partie des infrastructures de base.",
+          "it": "Internet veloce è ormai un'infrastruttura di base.",
+          "es": "Internet rápido ya es una infraestructura básica."
+        }
+      ]
+    },
+    {
+      "id": "construct",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "con-",
+        "struct"
+      ],
+      "gloss": {
+        "en": "to build (literally: to pile together)",
+        "tr": "inşa etmek; kurmak",
+        "de": "bauen; bilden",
+        "fr": "construire",
+        "it": "costruire",
+        "es": "construir"
+      },
+      "sentences": [
+        {
+          "en": "They [constructed] the bridge in two years.",
+          "tr": "Köprüyü iki yılda inşa ettiler.",
+          "de": "Sie bauten die Brücke in zwei Jahren.",
+          "fr": "Ils ont construit le pont en deux ans.",
+          "it": "Hanno costruito il ponte in due anni.",
+          "es": "Construyeron el puente en dos años."
+        },
+        {
+          "en": "Try to [construct] a sentence with this word.",
+          "tr": "Bu kelimeyle bir cümle kurmaya çalış.",
+          "de": "Versuch, mit diesem Wort einen Satz zu bilden.",
+          "fr": "Essaie de construire une phrase avec ce mot.",
+          "it": "Prova a costruire una frase con questa parola.",
+          "es": "Intenta construir una frase con esta palabra."
+        }
+      ]
+    },
+    {
+      "id": "construction",
+      "pos": "noun",
+      "parent": "construct",
+      "parts": [
+        "con-",
+        "struct",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "the work of building",
+        "tr": "inşaat, yapım",
+        "de": "der Bau; die Bauarbeiten",
+        "fr": "la construction; les travaux",
+        "it": "la costruzione; l'edilizia",
+        "es": "la construcción; las obras"
+      },
+      "sentences": [
+        {
+          "en": "The road is closed for [construction].",
+          "tr": "Yol inşaat nedeniyle kapalı.",
+          "de": "Die Straße ist wegen Bauarbeiten gesperrt.",
+          "fr": "La route est fermée pour travaux.",
+          "it": "La strada è chiusa per lavori.",
+          "es": "La carretera está cortada por obras."
+        },
+        {
+          "en": "My uncle works in [construction].",
+          "tr": "Amcam inşaatta çalışıyor.",
+          "de": "Mein Onkel arbeitet auf dem Bau.",
+          "fr": "Mon oncle travaille dans le bâtiment.",
+          "it": "Mio zio lavora nell'edilizia.",
+          "es": "Mi tío trabaja en la construcción."
+        }
+      ]
+    },
+    {
+      "id": "constructive",
+      "pos": "adjective",
+      "parent": "construct",
+      "parts": [
+        "con-",
+        "struct",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "helpful and meant to improve something",
+        "tr": "yapıcı",
+        "de": "konstruktiv",
+        "fr": "constructif",
+        "it": "costruttivo",
+        "es": "constructivo"
+      },
+      "sentences": [
+        {
+          "en": "Thanks for the [constructive] feedback.",
+          "tr": "Yapıcı geri bildirimin için teşekkürler.",
+          "de": "Danke für das konstruktive Feedback.",
+          "fr": "Merci pour ce retour constructif.",
+          "it": "Grazie per il feedback costruttivo.",
+          "es": "Gracias por los comentarios constructivos."
+        },
+        {
+          "en": "Let's have a [constructive] discussion, not a fight.",
+          "tr": "Kavga değil, yapıcı bir tartışma yapalım.",
+          "de": "Lasst uns konstruktiv diskutieren, nicht streiten.",
+          "fr": "Ayons une discussion constructive, pas une dispute.",
+          "it": "Facciamo una discussione costruttiva, non una lite.",
+          "es": "Tengamos una discusión constructiva, no una pelea."
+        }
+      ]
+    },
+    {
+      "id": "reconstruct",
+      "pos": "verb",
+      "parent": "construct",
+      "parts": [
+        "re-",
+        "con-",
+        "struct"
+      ],
+      "gloss": {
+        "en": "to build again; to work out how something happened",
+        "tr": "yeniden inşa etmek; yeniden canlandırmak",
+        "de": "wieder aufbauen; rekonstruieren",
+        "fr": "reconstruire; reconstituer",
+        "it": "ricostruire",
+        "es": "reconstruir"
+      },
+      "sentences": [
+        {
+          "en": "After the war, they [reconstructed] the old town.",
+          "tr": "Savaştan sonra eski şehri yeniden inşa ettiler.",
+          "de": "Nach dem Krieg bauten sie die Altstadt wieder auf.",
+          "fr": "Après la guerre, ils ont reconstruit la vieille ville.",
+          "it": "Dopo la guerra hanno ricostruito il centro storico.",
+          "es": "Después de la guerra reconstruyeron el casco antiguo."
+        },
+        {
+          "en": "The police tried to [reconstruct] the accident.",
+          "tr": "Polis kazayı yeniden canlandırmaya çalıştı.",
+          "de": "Die Polizei versuchte, den Unfall zu rekonstruieren.",
+          "fr": "La police a essayé de reconstituer l'accident.",
+          "it": "La polizia ha cercato di ricostruire l'incidente.",
+          "es": "La policía intentó reconstruir el accidente."
+        }
+      ]
+    },
+    {
+      "id": "reconstruction",
+      "pos": "noun",
+      "parent": "reconstruct",
+      "parts": [
+        "re-",
+        "con-",
+        "struct",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "building again; a model of how something was",
+        "tr": "yeniden inşa; canlandırma",
+        "de": "der Wiederaufbau; die Rekonstruktion",
+        "fr": "la reconstruction; la reconstitution",
+        "it": "la ricostruzione",
+        "es": "la reconstrucción"
+      },
+      "sentences": [
+        {
+          "en": "The [reconstruction] of the cathedral took twenty years.",
+          "tr": "Katedralin yeniden inşası yirmi yıl sürdü.",
+          "de": "Der Wiederaufbau der Kathedrale dauerte zwanzig Jahre.",
+          "fr": "La reconstruction de la cathédrale a pris vingt ans.",
+          "it": "La ricostruzione della cattedrale è durata vent'anni.",
+          "es": "La reconstrucción de la catedral duró veinte años."
+        },
+        {
+          "en": "The museum shows a [reconstruction] of a Roman house.",
+          "tr": "Müzede bir Roma evinin canlandırması var.",
+          "de": "Das Museum zeigt die Rekonstruktion eines römischen Hauses.",
+          "fr": "Le musée présente la reconstitution d'une maison romaine.",
+          "it": "Il museo mostra la ricostruzione di una casa romana.",
+          "es": "El museo muestra la reconstrucción de una casa romana."
+        }
+      ]
+    },
+    {
+      "id": "destruction",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "de-",
+        "struct",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "the act of destroying (literally: un-building)",
+        "tr": "yıkım, tahribat",
+        "de": "die Zerstörung",
+        "fr": "la destruction",
+        "it": "la distruzione",
+        "es": "la destrucción"
+      },
+      "sentences": [
+        {
+          "en": "The storm caused great [destruction].",
+          "tr": "Fırtına büyük tahribata yol açtı.",
+          "de": "Der Sturm richtete große Zerstörung an.",
+          "fr": "La tempête a causé de grandes destructions.",
+          "it": "La tempesta ha causato grande distruzione.",
+          "es": "La tormenta causó una gran destrucción."
+        },
+        {
+          "en": "The [destruction] of the forest affects us all.",
+          "tr": "Ormanın yok edilmesi hepimizi etkiliyor.",
+          "de": "Die Zerstörung des Waldes betrifft uns alle.",
+          "fr": "La destruction de la forêt nous concerne tous.",
+          "it": "La distruzione della foresta riguarda tutti noi.",
+          "es": "La destrucción del bosque nos afecta a todos."
+        }
+      ]
+    },
+    {
+      "id": "destructive",
+      "pos": "adjective",
+      "parent": "destruction",
+      "parts": [
+        "de-",
+        "struct",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "causing a lot of damage",
+        "tr": "yıkıcı",
+        "de": "zerstörerisch",
+        "fr": "destructeur",
+        "it": "distruttivo",
+        "es": "destructivo"
+      },
+      "sentences": [
+        {
+          "en": "It was the most [destructive] earthquake in years.",
+          "tr": "Yılların en yıkıcı depremiydi.",
+          "de": "Es war das zerstörerischste Erdbeben seit Jahren.",
+          "fr": "C'était le séisme le plus destructeur depuis des années.",
+          "it": "È stato il terremoto più distruttivo da anni.",
+          "es": "Fue el terremoto más destructivo en años."
+        },
+        {
+          "en": "Jealousy can be very [destructive].",
+          "tr": "Kıskançlık çok yıkıcı olabilir.",
+          "de": "Eifersucht kann sehr zerstörerisch sein.",
+          "fr": "La jalousie peut être très destructrice.",
+          "it": "La gelosia può essere molto distruttiva.",
+          "es": "Los celos pueden ser muy destructivos."
+        }
+      ]
+    },
+    {
+      "id": "indestructible",
+      "pos": "adjective",
+      "parent": "destruction",
+      "parts": [
+        "in-not-",
+        "de-",
+        "struct",
+        "-ible"
+      ],
+      "gloss": {
+        "en": "impossible to destroy",
+        "tr": "yok edilemez, sapasağlam",
+        "de": "unzerstörbar",
+        "fr": "indestructible",
+        "it": "indistruttibile",
+        "es": "indestructible"
+      },
+      "sentences": [
+        {
+          "en": "My old phone seems [indestructible].",
+          "tr": "Eski telefonum sanki hiç bozulmuyor.",
+          "de": "Mein altes Handy scheint unzerstörbar zu sein.",
+          "fr": "Mon vieux téléphone semble indestructible.",
+          "it": "Il mio vecchio telefono sembra indistruttibile.",
+          "es": "Mi viejo móvil parece indestructible."
+        },
+        {
+          "en": "Their friendship was [indestructible].",
+          "tr": "Arkadaşlıkları sarsılmazdı.",
+          "de": "Ihre Freundschaft war unzerstörbar.",
+          "fr": "Leur amitié était indestructible.",
+          "it": "La loro amicizia era indistruttibile.",
+          "es": "Su amistad era indestructible."
+        }
+      ]
+    },
+    {
+      "id": "instruct",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "in-",
+        "struct"
+      ],
+      "gloss": {
+        "en": "to tell someone what to do; to teach (literally: to build into)",
+        "tr": "talimat vermek; öğretmek",
+        "de": "anweisen; unterrichten",
+        "fr": "demander de; former",
+        "it": "dire di; istruire",
+        "es": "indicar; instruir"
+      },
+      "sentences": [
+        {
+          "en": "The pilot [instructed] us to fasten our seat belts.",
+          "tr": "Pilot emniyet kemerlerimizi bağlamamızı söyledi.",
+          "de": "Der Pilot wies uns an, uns anzuschnallen.",
+          "fr": "Le pilote nous a demandé d'attacher nos ceintures.",
+          "it": "Il pilota ci ha detto di allacciare le cinture.",
+          "es": "El piloto nos indicó que nos abrocháramos el cinturón."
+        },
+        {
+          "en": "She [instructs] new staff in first aid.",
+          "tr": "Yeni çalışanlara ilk yardım öğretiyor.",
+          "de": "Sie unterrichtet neue Mitarbeiter in Erster Hilfe.",
+          "fr": "Elle forme les nouveaux employés aux premiers secours.",
+          "it": "Istruisce il nuovo personale sul primo soccorso.",
+          "es": "Instruye al personal nuevo en primeros auxilios."
+        }
+      ]
+    },
+    {
+      "id": "instruction",
+      "pos": "noun",
+      "parent": "instruct",
+      "parts": [
+        "in-",
+        "struct",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a direction that tells you how to do something; teaching",
+        "tr": "talimat, yönerge; öğretim",
+        "de": "die Anleitung; der Unterricht",
+        "fr": "l'instruction, la consigne; l'enseignement",
+        "it": "l'istruzione; l'insegnamento",
+        "es": "la instrucción; la enseñanza"
+      },
+      "sentences": [
+        {
+          "en": "Read the [instructions] before you start.",
+          "tr": "Başlamadan önce talimatları oku.",
+          "de": "Lies die Anleitung, bevor du anfängst.",
+          "fr": "Lis les instructions avant de commencer.",
+          "it": "Leggi le istruzioni prima di iniziare.",
+          "es": "Lee las instrucciones antes de empezar."
+        },
+        {
+          "en": "All [instruction] at this school is in English.",
+          "tr": "Bu okulda bütün dersler İngilizce.",
+          "de": "Der gesamte Unterricht an dieser Schule ist auf Englisch.",
+          "fr": "Dans cette école, tout l'enseignement est en anglais.",
+          "it": "In questa scuola tutto l'insegnamento è in inglese.",
+          "es": "En esta escuela toda la enseñanza es en inglés."
+        }
+      ]
+    },
+    {
+      "id": "instructor",
+      "pos": "noun",
+      "parent": "instruct",
+      "parts": [
+        "in-",
+        "struct",
+        "-or"
+      ],
+      "gloss": {
+        "en": "a person who teaches a practical skill",
+        "tr": "eğitmen; hoca",
+        "de": "der Lehrer, der Ausbilder",
+        "fr": "le moniteur, l'instructeur",
+        "it": "l'istruttore",
+        "es": "el monitor, el instructor"
+      },
+      "sentences": [
+        {
+          "en": "My driving [instructor] is very patient.",
+          "tr": "Direksiyon hocam çok sabırlı.",
+          "de": "Mein Fahrlehrer ist sehr geduldig.",
+          "fr": "Mon moniteur d'auto-école est très patient.",
+          "it": "Il mio istruttore di guida è molto paziente.",
+          "es": "Mi profesor de autoescuela es muy paciente."
+        },
+        {
+          "en": "The ski [instructor] showed us how to stop.",
+          "tr": "Kayak eğitmeni bize nasıl duracağımızı gösterdi.",
+          "de": "Der Skilehrer zeigte uns, wie man bremst.",
+          "fr": "Le moniteur de ski nous a montré comment s'arrêter.",
+          "it": "Il maestro di sci ci ha mostrato come fermarci.",
+          "es": "El monitor de esquí nos enseñó a frenar."
+        }
+      ]
+    },
+    {
+      "id": "instructive",
+      "pos": "adjective",
+      "parent": "instruct",
+      "parts": [
+        "in-",
+        "struct",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "giving useful knowledge",
+        "tr": "öğretici",
+        "de": "lehrreich",
+        "fr": "instructif",
+        "it": "istruttivo",
+        "es": "instructivo"
+      },
+      "sentences": [
+        {
+          "en": "The museum visit was very [instructive].",
+          "tr": "Müze ziyareti çok öğreticiydi.",
+          "de": "Der Museumsbesuch war sehr lehrreich.",
+          "fr": "La visite du musée était très instructive.",
+          "it": "La visita al museo è stata molto istruttiva.",
+          "es": "La visita al museo fue muy instructiva."
+        },
+        {
+          "en": "It is [instructive] to compare the two plans.",
+          "tr": "İki planı karşılaştırmak öğretici.",
+          "de": "Es ist lehrreich, die beiden Pläne zu vergleichen.",
+          "fr": "Il est instructif de comparer les deux projets.",
+          "it": "È istruttivo confrontare i due piani.",
+          "es": "Es instructivo comparar los dos planes."
+        }
+      ]
+    },
+    {
+      "id": "obstruct",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ob-",
+        "struct"
+      ],
+      "gloss": {
+        "en": "to block a path or stop progress (literally: to build against)",
+        "tr": "engellemek, kapatmak",
+        "de": "blockieren, behindern",
+        "fr": "bloquer; entraver",
+        "it": "ostruire; ostacolare",
+        "es": "obstruir, bloquear"
+      },
+      "sentences": [
+        {
+          "en": "A fallen tree [obstructed] the road.",
+          "tr": "Devrilen bir ağaç yolu kapattı.",
+          "de": "Ein umgestürzter Baum blockierte die Straße.",
+          "fr": "Un arbre tombé bloquait la route.",
+          "it": "Un albero caduto ostruiva la strada.",
+          "es": "Un árbol caído bloqueaba la carretera."
+        },
+        {
+          "en": "Don't [obstruct] the police in their work.",
+          "tr": "Polisin işini engelleme.",
+          "de": "Behindere die Polizei nicht bei ihrer Arbeit.",
+          "fr": "N'entrave pas le travail de la police.",
+          "it": "Non ostacolare la polizia nel suo lavoro.",
+          "es": "No obstruyas el trabajo de la policía."
+        }
+      ]
+    },
+    {
+      "id": "obstruction",
+      "pos": "noun",
+      "parent": "obstruct",
+      "parts": [
+        "ob-",
+        "struct",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "something that blocks the way",
+        "tr": "engel, tıkanıklık",
+        "de": "das Hindernis",
+        "fr": "l'obstacle, l'obstruction",
+        "it": "l'ostacolo, l'ostruzione",
+        "es": "la obstrucción, el obstáculo"
+      },
+      "sentences": [
+        {
+          "en": "The train stopped because of an [obstruction] on the line.",
+          "tr": "Tren hatta bir engel olduğu için durdu.",
+          "de": "Der Zug hielt wegen eines Hindernisses auf den Gleisen.",
+          "fr": "Le train s'est arrêté à cause d'un obstacle sur la voie.",
+          "it": "Il treno si è fermato per un ostacolo sui binari.",
+          "es": "El tren se detuvo por una obstrucción en la vía."
+        },
+        {
+          "en": "Parking here causes an [obstruction] for buses.",
+          "tr": "Buraya park etmek otobüslerin yolunu kapatıyor.",
+          "de": "Wer hier parkt, behindert die Busse.",
+          "fr": "Se garer ici bloque le passage des bus.",
+          "it": "Parcheggiare qui ostacola gli autobus.",
+          "es": "Aparcar aquí obstruye el paso de los autobuses."
+        }
+      ]
+    },
+    {
+      "id": "instrument",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "in-",
+        "stru",
+        "-ment"
+      ],
+      "gloss": {
+        "en": "a tool; an object for making music (from Latin instrumentum, 'equipment', from instruere)",
+        "tr": "alet; çalgı, enstrüman",
+        "de": "das Instrument; das Werkzeug",
+        "fr": "l'instrument",
+        "it": "lo strumento",
+        "es": "el instrumento"
+      },
+      "sentences": [
+        {
+          "en": "Do you play an [instrument]?",
+          "tr": "Bir enstrüman çalıyor musun?",
+          "de": "Spielst du ein Instrument?",
+          "fr": "Tu joues d'un instrument ?",
+          "it": "Suoni uno strumento?",
+          "es": "¿Tocas algún instrumento?"
+        },
+        {
+          "en": "The surgeon asked for a sharper [instrument].",
+          "tr": "Cerrah daha keskin bir alet istedi.",
+          "de": "Der Chirurg verlangte ein schärferes Instrument.",
+          "fr": "Le chirurgien a demandé un instrument plus tranchant.",
+          "it": "Il chirurgo ha chiesto uno strumento più affilato.",
+          "es": "El cirujano pidió un instrumento más afilado."
+        }
+      ]
+    },
+    {
+      "id": "instrumental",
+      "pos": "adjective",
+      "parent": "instrument",
+      "parts": [
+        "in-",
+        "stru",
+        "-ment",
+        "-al"
+      ],
+      "gloss": {
+        "en": "very important in making something happen; (of music) without singing",
+        "tr": "belirleyici; sözsüz, enstrümantal",
+        "de": "maßgeblich; instrumental",
+        "fr": "déterminant; instrumental",
+        "it": "determinante; strumentale",
+        "es": "decisivo; instrumental"
+      },
+      "sentences": [
+        {
+          "en": "She was [instrumental] in starting the project.",
+          "tr": "Projenin başlamasında belirleyici bir rol oynadı.",
+          "de": "Sie war maßgeblich am Start des Projekts beteiligt.",
+          "fr": "Elle a joué un rôle déterminant dans le lancement du projet.",
+          "it": "È stata determinante nell'avvio del progetto.",
+          "es": "Fue decisiva para poner en marcha el proyecto."
+        },
+        {
+          "en": "I like to study with [instrumental] music.",
+          "tr": "Sözsüz müzikle ders çalışmayı severim.",
+          "de": "Ich lerne gern mit Instrumentalmusik.",
+          "fr": "J'aime étudier avec de la musique instrumentale.",
+          "it": "Mi piace studiare con la musica strumentale.",
+          "es": "Me gusta estudiar con música instrumental."
+        }
+      ]
+    },
+    {
+      "id": "construe",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "con-",
+        "strue"
+      ],
+      "gloss": {
+        "en": "to understand words or actions in a certain way (literally: to pile together, to arrange)",
+        "tr": "yorumlamak, anlamak",
+        "de": "auslegen, verstehen",
+        "fr": "interpréter",
+        "it": "interpretare",
+        "es": "interpretar"
+      },
+      "sentences": [
+        {
+          "en": "His silence was [construed] as agreement.",
+          "tr": "Sessizliği onay olarak yorumlandı.",
+          "de": "Sein Schweigen wurde als Zustimmung ausgelegt.",
+          "fr": "Son silence a été interprété comme un accord.",
+          "it": "Il suo silenzio è stato interpretato come un assenso.",
+          "es": "Su silencio se interpretó como un sí."
+        },
+        {
+          "en": "Please don't [construe] this as criticism.",
+          "tr": "Lütfen bunu eleştiri olarak algılama.",
+          "de": "Bitte versteh das nicht als Kritik.",
+          "fr": "Ne l'interprète pas comme une critique, s'il te plaît.",
+          "it": "Per favore, non interpretarlo come una critica.",
+          "es": "Por favor, no lo interpretes como una crítica."
+        }
+      ]
+    }
+  ]
+}

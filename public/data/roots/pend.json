@@ -1,0 +1,876 @@
+{
+  "id": "pend",
+  "forms": [
+    "pend",
+    "pens",
+    "pense"
+  ],
+  "origin": "la",
+  "etymon": "pendere",
+  "meaning": {
+    "en": "to hang; to weigh, to pay",
+    "tr": "asmak; tartmak, ödemek",
+    "de": "hängen; wiegen, zahlen",
+    "fr": "pendre; peser, payer",
+    "it": "pendere; pesare, pagare",
+    "es": "colgar; pesar, pagar"
+  },
+  "words": [
+    {
+      "id": "depend",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "de-",
+        "pend"
+      ],
+      "gloss": {
+        "en": "to need someone or something; to be decided by (literally: to hang from)",
+        "tr": "bağlı olmak; güvenmek",
+        "de": "abhängen; angewiesen sein",
+        "fr": "dépendre; compter sur",
+        "it": "dipendere; contare su",
+        "es": "depender; contar con"
+      },
+      "sentences": [
+        {
+          "en": "It [depends] on the weather.",
+          "tr": "Havaya bağlı.",
+          "de": "Das hängt vom Wetter ab.",
+          "fr": "Ça dépend du temps.",
+          "it": "Dipende dal tempo.",
+          "es": "Depende del tiempo."
+        },
+        {
+          "en": "Small children [depend] on their parents.",
+          "tr": "Küçük çocuklar ebeveynlerine muhtaçtır.",
+          "de": "Kleine Kinder sind auf ihre Eltern angewiesen.",
+          "fr": "Les jeunes enfants dépendent de leurs parents.",
+          "it": "I bambini piccoli dipendono dai genitori.",
+          "es": "Los niños pequeños dependen de sus padres."
+        }
+      ]
+    },
+    {
+      "id": "dependent",
+      "pos": "adjective",
+      "parent": "depend",
+      "parts": [
+        "de-",
+        "pend",
+        "-ent"
+      ],
+      "gloss": {
+        "en": "needing someone or something; decided by",
+        "tr": "bağımlı, bağlı",
+        "de": "abhängig",
+        "fr": "dépendant",
+        "it": "dipendente",
+        "es": "dependiente"
+      },
+      "sentences": [
+        {
+          "en": "The town is [dependent] on tourism.",
+          "tr": "Kasaba turizme bağımlı.",
+          "de": "Die Stadt ist vom Tourismus abhängig.",
+          "fr": "La ville est dépendante du tourisme.",
+          "it": "La città dipende dal turismo.",
+          "es": "El pueblo depende del turismo."
+        },
+        {
+          "en": "Your grade is [dependent] on the final exam.",
+          "tr": "Notun final sınavına bağlı.",
+          "de": "Deine Note hängt von der Abschlussprüfung ab.",
+          "fr": "Ta note dépend de l'examen final.",
+          "it": "Il tuo voto dipende dall'esame finale.",
+          "es": "Tu nota depende del examen final."
+        }
+      ]
+    },
+    {
+      "id": "dependable",
+      "pos": "adjective",
+      "parent": "depend",
+      "parts": [
+        "de-",
+        "pend",
+        "-able"
+      ],
+      "gloss": {
+        "en": "can be trusted to do what is needed",
+        "tr": "güvenilir",
+        "de": "zuverlässig",
+        "fr": "fiable",
+        "it": "affidabile",
+        "es": "fiable"
+      },
+      "sentences": [
+        {
+          "en": "She is the most [dependable] person on the team.",
+          "tr": "Takımdaki en güvenilir kişi o.",
+          "de": "Sie ist die zuverlässigste Person im Team.",
+          "fr": "C'est la personne la plus fiable de l'équipe.",
+          "it": "È la persona più affidabile della squadra.",
+          "es": "Es la persona más fiable del equipo."
+        },
+        {
+          "en": "We need a [dependable] car for the trip.",
+          "tr": "Yolculuk için güvenilir bir arabaya ihtiyacımız var.",
+          "de": "Wir brauchen ein zuverlässiges Auto für die Reise.",
+          "fr": "Il nous faut une voiture fiable pour le voyage.",
+          "it": "Ci serve un'auto affidabile per il viaggio.",
+          "es": "Necesitamos un coche fiable para el viaje."
+        }
+      ]
+    },
+    {
+      "id": "dependence",
+      "pos": "noun",
+      "parent": "depend",
+      "parts": [
+        "de-",
+        "pend",
+        "-ence"
+      ],
+      "gloss": {
+        "en": "the state of needing something",
+        "tr": "bağımlılık",
+        "de": "die Abhängigkeit",
+        "fr": "la dépendance",
+        "it": "la dipendenza",
+        "es": "la dependencia"
+      },
+      "sentences": [
+        {
+          "en": "We must reduce our [dependence] on oil.",
+          "tr": "Petrole bağımlılığımızı azaltmalıyız.",
+          "de": "Wir müssen unsere Abhängigkeit vom Öl verringern.",
+          "fr": "Nous devons réduire notre dépendance au pétrole.",
+          "it": "Dobbiamo ridurre la nostra dipendenza dal petrolio.",
+          "es": "Debemos reducir nuestra dependencia del petróleo."
+        },
+        {
+          "en": "His [dependence] on his phone worries me.",
+          "tr": "Telefonuna bu kadar bağımlı olması beni endişelendiriyor.",
+          "de": "Seine Abhängigkeit vom Handy macht mir Sorgen.",
+          "fr": "Sa dépendance au téléphone m'inquiète.",
+          "it": "La sua dipendenza dal telefono mi preoccupa.",
+          "es": "Su dependencia del móvil me preocupa."
+        }
+      ]
+    },
+    {
+      "id": "independent",
+      "pos": "adjective",
+      "parent": "dependent",
+      "parts": [
+        "in-not-",
+        "de-",
+        "pend",
+        "-ent"
+      ],
+      "gloss": {
+        "en": "free; not controlled by others",
+        "tr": "bağımsız",
+        "de": "unabhängig, selbstständig",
+        "fr": "indépendant",
+        "it": "indipendente",
+        "es": "independiente"
+      },
+      "sentences": [
+        {
+          "en": "She became [independent] at eighteen.",
+          "tr": "On sekiz yaşında kendi ayakları üzerinde durmaya başladı.",
+          "de": "Mit achtzehn wurde sie selbstständig.",
+          "fr": "Elle est devenue indépendante à dix-huit ans.",
+          "it": "È diventata indipendente a diciotto anni.",
+          "es": "Se independizó a los dieciocho años."
+        },
+        {
+          "en": "An [independent] expert checked the results.",
+          "tr": "Bağımsız bir uzman sonuçları kontrol etti.",
+          "de": "Ein unabhängiger Experte prüfte die Ergebnisse.",
+          "fr": "Un expert indépendant a vérifié les résultats.",
+          "it": "Un esperto indipendente ha controllato i risultati.",
+          "es": "Un experto independiente comprobó los resultados."
+        }
+      ]
+    },
+    {
+      "id": "independence",
+      "pos": "noun",
+      "parent": "independent",
+      "parts": [
+        "in-not-",
+        "de-",
+        "pend",
+        "-ence"
+      ],
+      "gloss": {
+        "en": "freedom from control by others",
+        "tr": "bağımsızlık",
+        "de": "die Unabhängigkeit",
+        "fr": "l'indépendance",
+        "it": "l'indipendenza",
+        "es": "la independencia"
+      },
+      "sentences": [
+        {
+          "en": "The country won its [independence] in 1960.",
+          "tr": "Ülke bağımsızlığını 1960'ta kazandı.",
+          "de": "Das Land wurde 1960 unabhängig.",
+          "fr": "Le pays a obtenu son indépendance en 1960.",
+          "it": "Il paese ha ottenuto l'indipendenza nel 1960.",
+          "es": "El país logró su independencia en 1960."
+        },
+        {
+          "en": "Living alone gave her a sense of [independence].",
+          "tr": "Yalnız yaşamak ona bağımsızlık duygusu verdi.",
+          "de": "Allein zu wohnen gab ihr ein Gefühl von Unabhängigkeit.",
+          "fr": "Vivre seule lui a donné un sentiment d'indépendance.",
+          "it": "Vivere da sola le ha dato un senso di indipendenza.",
+          "es": "Vivir sola le dio sensación de independencia."
+        }
+      ]
+    },
+    {
+      "id": "suspend",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "sus-",
+        "pend"
+      ],
+      "gloss": {
+        "en": "to stop something for a time; to hang (literally: to hang up from below)",
+        "tr": "askıya almak, durdurmak; asmak",
+        "de": "unterbrechen, aussetzen; aufhängen",
+        "fr": "suspendre",
+        "it": "sospendere",
+        "es": "suspender; colgar"
+      },
+      "sentences": [
+        {
+          "en": "The match was [suspended] because of the storm.",
+          "tr": "Maç fırtına yüzünden durduruldu.",
+          "de": "Das Spiel wurde wegen des Sturms unterbrochen.",
+          "fr": "Le match a été suspendu à cause de l'orage.",
+          "it": "La partita è stata sospesa per il temporale.",
+          "es": "El partido se suspendió por la tormenta."
+        },
+        {
+          "en": "A lamp was [suspended] from the ceiling.",
+          "tr": "Tavana bir lamba asılmıştı.",
+          "de": "Eine Lampe hing von der Decke.",
+          "fr": "Une lampe était suspendue au plafond.",
+          "it": "Una lampada era sospesa al soffitto.",
+          "es": "Una lámpara colgaba del techo."
+        }
+      ]
+    },
+    {
+      "id": "suspense",
+      "pos": "noun",
+      "parent": "suspend",
+      "parts": [
+        "sus-",
+        "pense"
+      ],
+      "gloss": {
+        "en": "an excited feeling while waiting to find out what happens",
+        "tr": "gerilim, merak",
+        "de": "die Spannung",
+        "fr": "le suspense",
+        "it": "la suspense, la tensione",
+        "es": "el suspense, la intriga"
+      },
+      "sentences": [
+        {
+          "en": "The film keeps you in [suspense] until the end.",
+          "tr": "Film sizi sonuna kadar merakta bırakıyor.",
+          "de": "Der Film hält einen bis zum Ende in Spannung.",
+          "fr": "Le film vous tient en suspense jusqu'à la fin.",
+          "it": "Il film ti tiene con il fiato sospeso fino alla fine.",
+          "es": "La película te mantiene en suspense hasta el final."
+        },
+        {
+          "en": "Tell me now, I can't stand the [suspense]!",
+          "tr": "Hemen söyle, meraktan çatlayacağım!",
+          "de": "Sag es mir jetzt, ich halte die Spannung nicht aus!",
+          "fr": "Dis-le-moi maintenant, je ne supporte pas le suspense !",
+          "it": "Dimmelo adesso, non reggo la tensione!",
+          "es": "Dímelo ya, ¡no aguanto la intriga!"
+        }
+      ]
+    },
+    {
+      "id": "suspension",
+      "pos": "noun",
+      "parent": "suspend",
+      "parts": [
+        "sus-",
+        "pens",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a stop or ban for a time; the part of a vehicle that makes the ride smooth",
+        "tr": "ceza, uzaklaştırma; süspansiyon",
+        "de": "die Sperre; die Federung",
+        "fr": "la suspension",
+        "it": "la squalifica, la sospensione; le sospensioni",
+        "es": "la sanción, la suspensión"
+      },
+      "sentences": [
+        {
+          "en": "The player got a three-match [suspension].",
+          "tr": "Oyuncuya üç maç ceza verildi.",
+          "de": "Der Spieler bekam eine Sperre für drei Spiele.",
+          "fr": "Le joueur a écopé de trois matchs de suspension.",
+          "it": "Il giocatore ha ricevuto tre giornate di squalifica.",
+          "es": "El jugador recibió una sanción de tres partidos."
+        },
+        {
+          "en": "This bike has good [suspension] for rough roads.",
+          "tr": "Bu bisikletin bozuk yollar için iyi bir süspansiyonu var.",
+          "de": "Dieses Fahrrad hat eine gute Federung für holprige Wege.",
+          "fr": "Ce vélo a une bonne suspension pour les routes difficiles.",
+          "it": "Questa bici ha buone sospensioni per le strade dissestate.",
+          "es": "Esta bici tiene buena suspensión para caminos difíciles."
+        }
+      ]
+    },
+    {
+      "id": "expense",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "ex-",
+        "pense"
+      ],
+      "gloss": {
+        "en": "money spent on something (literally: weighed out, paid out)",
+        "tr": "masraf, gider",
+        "de": "die Ausgabe, die Kosten",
+        "fr": "la dépense, les frais",
+        "it": "la spesa",
+        "es": "el gasto"
+      },
+      "sentences": [
+        {
+          "en": "Rent is my biggest [expense].",
+          "tr": "Kira en büyük giderim.",
+          "de": "Die Miete ist meine größte Ausgabe.",
+          "fr": "Le loyer est ma plus grosse dépense.",
+          "it": "L'affitto è la mia spesa più grande.",
+          "es": "El alquiler es mi mayor gasto."
+        },
+        {
+          "en": "The company pays our travel [expenses].",
+          "tr": "Şirket yol masraflarımızı ödüyor.",
+          "de": "Die Firma zahlt unsere Reisekosten.",
+          "fr": "L'entreprise paie nos frais de déplacement.",
+          "it": "L'azienda paga le nostre spese di viaggio.",
+          "es": "La empresa paga nuestros gastos de viaje."
+        }
+      ]
+    },
+    {
+      "id": "expensive",
+      "pos": "adjective",
+      "parent": "expense",
+      "parts": [
+        "ex-",
+        "pens",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "costing a lot of money",
+        "tr": "pahalı",
+        "de": "teuer",
+        "fr": "cher",
+        "it": "caro, costoso",
+        "es": "caro"
+      },
+      "sentences": [
+        {
+          "en": "This restaurant is too [expensive] for us.",
+          "tr": "Bu restoran bizim için çok pahalı.",
+          "de": "Dieses Restaurant ist zu teuer für uns.",
+          "fr": "Ce restaurant est trop cher pour nous.",
+          "it": "Questo ristorante è troppo caro per noi.",
+          "es": "Este restaurante es demasiado caro para nosotros."
+        },
+        {
+          "en": "Mistakes like this are [expensive].",
+          "tr": "Bu tür hatalar pahalıya patlar.",
+          "de": "Solche Fehler kommen teuer zu stehen.",
+          "fr": "Ce genre d'erreur coûte cher.",
+          "it": "Errori come questo costano cari.",
+          "es": "Errores así salen caros."
+        }
+      ]
+    },
+    {
+      "id": "inexpensive",
+      "pos": "adjective",
+      "parent": "expensive",
+      "parts": [
+        "in-not-",
+        "ex-",
+        "pens",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "not costing much; cheap",
+        "tr": "ucuz, uygun fiyatlı",
+        "de": "preiswert, günstig",
+        "fr": "bon marché, pas cher",
+        "it": "economico",
+        "es": "barato, económico"
+      },
+      "sentences": [
+        {
+          "en": "We found an [inexpensive] hotel near the beach.",
+          "tr": "Plajın yakınında uygun fiyatlı bir otel bulduk.",
+          "de": "Wir haben ein günstiges Hotel am Strand gefunden.",
+          "fr": "Nous avons trouvé un hôtel pas cher près de la plage.",
+          "it": "Abbiamo trovato un hotel economico vicino alla spiaggia.",
+          "es": "Encontramos un hotel barato cerca de la playa."
+        },
+        {
+          "en": "Rice is an [inexpensive] and healthy food.",
+          "tr": "Pirinç ucuz ve sağlıklı bir yiyecektir.",
+          "de": "Reis ist ein preiswertes und gesundes Lebensmittel.",
+          "fr": "Le riz est un aliment bon marché et sain.",
+          "it": "Il riso è un alimento economico e sano.",
+          "es": "El arroz es un alimento barato y sano."
+        }
+      ]
+    },
+    {
+      "id": "pension",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "pens",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "money paid regularly to someone who has retired (from Latin pensio, 'a payment')",
+        "tr": "emekli maaşı",
+        "de": "die Rente",
+        "fr": "la retraite, la pension",
+        "it": "la pensione",
+        "es": "la pensión, la jubilación"
+      },
+      "sentences": [
+        {
+          "en": "My grandfather lives on his [pension].",
+          "tr": "Dedem emekli maaşıyla geçiniyor.",
+          "de": "Mein Großvater lebt von seiner Rente.",
+          "fr": "Mon grand-père vit de sa retraite.",
+          "it": "Mio nonno vive della sua pensione.",
+          "es": "Mi abuelo vive de su pensión."
+        },
+        {
+          "en": "She pays into a private [pension] every month.",
+          "tr": "Her ay özel bir emeklilik planına para yatırıyor.",
+          "de": "Sie zahlt jeden Monat in eine private Rentenversicherung ein.",
+          "fr": "Elle cotise chaque mois à une retraite privée.",
+          "it": "Ogni mese versa i contributi per una pensione privata.",
+          "es": "Cada mes aporta dinero a un plan de pensiones privado."
+        }
+      ]
+    },
+    {
+      "id": "pensioner",
+      "pos": "noun",
+      "parent": "pension",
+      "parts": [
+        "pens",
+        "-ion",
+        "-er"
+      ],
+      "gloss": {
+        "en": "a person who receives a pension",
+        "tr": "emekli",
+        "de": "der Rentner",
+        "fr": "le retraité",
+        "it": "il pensionato",
+        "es": "el jubilado, el pensionista"
+      },
+      "sentences": [
+        {
+          "en": "[Pensioners] travel free on city buses.",
+          "tr": "Emekliler şehir otobüslerinde ücretsiz yolculuk eder.",
+          "de": "Rentner fahren in Stadtbussen kostenlos.",
+          "fr": "Les retraités voyagent gratuitement dans les bus de la ville.",
+          "it": "I pensionati viaggiano gratis sugli autobus urbani.",
+          "es": "Los jubilados viajan gratis en los autobuses urbanos."
+        },
+        {
+          "en": "The café is full of [pensioners] in the morning.",
+          "tr": "Kafe sabahları emeklilerle dolu.",
+          "de": "Morgens ist das Café voller Rentner.",
+          "fr": "Le matin, le café est plein de retraités.",
+          "it": "La mattina il bar è pieno di pensionati.",
+          "es": "Por la mañana la cafetería está llena de jubilados."
+        }
+      ]
+    },
+    {
+      "id": "compensate",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "com-",
+        "pens",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "to pay or give something to make up for a loss (literally: to weigh together)",
+        "tr": "telafi etmek; tazminat ödemek",
+        "de": "ausgleichen; entschädigen",
+        "fr": "compenser; indemniser",
+        "it": "compensare; risarcire",
+        "es": "compensar; indemnizar"
+      },
+      "sentences": [
+        {
+          "en": "The airline [compensated] us for the delay.",
+          "tr": "Havayolu rötar için bize tazminat ödedi.",
+          "de": "Die Fluggesellschaft hat uns für die Verspätung entschädigt.",
+          "fr": "La compagnie aérienne nous a indemnisés pour le retard.",
+          "it": "La compagnia aerea ci ha risarcito per il ritardo.",
+          "es": "La aerolínea nos indemnizó por el retraso."
+        },
+        {
+          "en": "Hard work can [compensate] for a lack of talent.",
+          "tr": "Çok çalışmak yetenek eksikliğini telafi edebilir.",
+          "de": "Fleiß kann fehlendes Talent ausgleichen.",
+          "fr": "Le travail peut compenser le manque de talent.",
+          "it": "Il duro lavoro può compensare la mancanza di talento.",
+          "es": "El trabajo duro puede compensar la falta de talento."
+        }
+      ]
+    },
+    {
+      "id": "compensation",
+      "pos": "noun",
+      "parent": "compensate",
+      "parts": [
+        "com-",
+        "pens",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "money paid for a loss or injury",
+        "tr": "tazminat; telafi",
+        "de": "die Entschädigung",
+        "fr": "l'indemnisation, le dédommagement",
+        "it": "il risarcimento",
+        "es": "la indemnización, la compensación"
+      },
+      "sentences": [
+        {
+          "en": "Workers asked for [compensation] after the accident.",
+          "tr": "İşçiler kazadan sonra tazminat istedi.",
+          "de": "Die Arbeiter forderten nach dem Unfall eine Entschädigung.",
+          "fr": "Les ouvriers ont demandé une indemnisation après l'accident.",
+          "it": "Gli operai hanno chiesto un risarcimento dopo l'incidente.",
+          "es": "Los trabajadores pidieron una indemnización tras el accidente."
+        },
+        {
+          "en": "As [compensation], the hotel gave us a free dinner.",
+          "tr": "Telafi olarak otel bize ücretsiz bir akşam yemeği verdi.",
+          "de": "Als Entschädigung bekamen wir vom Hotel ein kostenloses Abendessen.",
+          "fr": "En dédommagement, l'hôtel nous a offert le dîner.",
+          "it": "Come risarcimento, l'hotel ci ha offerto la cena.",
+          "es": "Como compensación, el hotel nos invitó a cenar."
+        }
+      ]
+    },
+    {
+      "id": "dispense",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "dis-",
+        "pense"
+      ],
+      "gloss": {
+        "en": "to give out (literally: to weigh out)",
+        "tr": "dağıtmak, vermek",
+        "de": "ausgeben",
+        "fr": "distribuer; délivrer",
+        "it": "erogare; distribuire",
+        "es": "expender; dispensar"
+      },
+      "sentences": [
+        {
+          "en": "This machine [dispenses] hot drinks.",
+          "tr": "Bu makine sıcak içecek veriyor.",
+          "de": "Dieser Automat gibt heiße Getränke aus.",
+          "fr": "Cette machine distribue des boissons chaudes.",
+          "it": "Questa macchina eroga bevande calde.",
+          "es": "Esta máquina expende bebidas calientes."
+        },
+        {
+          "en": "The pharmacist [dispensed] my medicine.",
+          "tr": "Eczacı ilacımı verdi.",
+          "de": "Der Apotheker gab mir mein Medikament.",
+          "fr": "Le pharmacien m'a délivré mon médicament.",
+          "it": "Il farmacista mi ha dato la medicina.",
+          "es": "El farmacéutico me dispensó la medicina."
+        }
+      ]
+    },
+    {
+      "id": "pendant",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "pend",
+        "-ant"
+      ],
+      "gloss": {
+        "en": "a jewel that hangs from a chain around the neck",
+        "tr": "kolye ucu",
+        "de": "der Anhänger",
+        "fr": "le pendentif",
+        "it": "il ciondolo",
+        "es": "el colgante"
+      },
+      "sentences": [
+        {
+          "en": "She wore a silver [pendant].",
+          "tr": "Gümüş bir kolye ucu takmıştı.",
+          "de": "Sie trug einen silbernen Anhänger.",
+          "fr": "Elle portait un pendentif en argent.",
+          "it": "Portava un ciondolo d'argento.",
+          "es": "Llevaba un colgante de plata."
+        },
+        {
+          "en": "The [pendant] belonged to her grandmother.",
+          "tr": "Kolye ucu büyükannesine aitti.",
+          "de": "Der Anhänger gehörte ihrer Großmutter.",
+          "fr": "Le pendentif appartenait à sa grand-mère.",
+          "it": "Il ciondolo apparteneva a sua nonna.",
+          "es": "El colgante era de su abuela."
+        }
+      ]
+    },
+    {
+      "id": "pending",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "pend",
+        "-ing"
+      ],
+      "gloss": {
+        "en": "waiting to be decided or finished (literally: hanging)",
+        "tr": "beklemede, sonuçlanmamış",
+        "de": "ausstehend, offen",
+        "fr": "en attente, en cours",
+        "it": "in sospeso",
+        "es": "pendiente"
+      },
+      "sentences": [
+        {
+          "en": "Your order is still [pending].",
+          "tr": "Siparişin hâlâ beklemede.",
+          "de": "Deine Bestellung ist noch offen.",
+          "fr": "Ta commande est toujours en attente.",
+          "it": "Il tuo ordine è ancora in sospeso.",
+          "es": "Tu pedido sigue pendiente."
+        },
+        {
+          "en": "I have three [pending] tasks before I can leave.",
+          "tr": "Çıkmadan önce bitirmem gereken üç iş var.",
+          "de": "Ich habe noch drei offene Aufgaben, bevor ich gehen kann.",
+          "fr": "J'ai trois tâches en cours avant de pouvoir partir.",
+          "it": "Ho tre compiti in sospeso prima di poter andare.",
+          "es": "Tengo tres tareas pendientes antes de irme."
+        }
+      ]
+    },
+    {
+      "id": "pendulum",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "pend",
+        "-ulum"
+      ],
+      "gloss": {
+        "en": "a weight that swings from side to side, as in a clock",
+        "tr": "sarkaç",
+        "de": "das Pendel",
+        "fr": "le pendule, le balancier",
+        "it": "il pendolo",
+        "es": "el péndulo"
+      },
+      "sentences": [
+        {
+          "en": "The old clock has a long [pendulum].",
+          "tr": "Eski saatin uzun bir sarkacı var.",
+          "de": "Die alte Uhr hat ein langes Pendel.",
+          "fr": "La vieille horloge a un long balancier.",
+          "it": "Il vecchio orologio ha un lungo pendolo.",
+          "es": "El viejo reloj tiene un péndulo largo."
+        },
+        {
+          "en": "A [pendulum] swings more slowly when it is longer.",
+          "tr": "Bir sarkaç ne kadar uzunsa o kadar yavaş salınır.",
+          "de": "Ein Pendel schwingt langsamer, wenn es länger ist.",
+          "fr": "Un pendule oscille plus lentement quand il est plus long.",
+          "it": "Un pendolo oscilla più lentamente se è più lungo.",
+          "es": "Un péndulo oscila más despacio cuanto más largo es."
+        }
+      ]
+    },
+    {
+      "id": "append",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ap-",
+        "pend"
+      ],
+      "gloss": {
+        "en": "to add something at the end of a text (literally: to hang onto)",
+        "tr": "sonuna eklemek",
+        "de": "anhängen, beifügen",
+        "fr": "ajouter, joindre",
+        "it": "aggiungere, allegare",
+        "es": "añadir, adjuntar"
+      },
+      "sentences": [
+        {
+          "en": "[Append] your CV to the email.",
+          "tr": "Özgeçmişini e-postaya ekle.",
+          "de": "Häng deinen Lebenslauf an die E-Mail an.",
+          "fr": "Joins ton CV à l'e-mail.",
+          "it": "Allega il tuo CV all'email.",
+          "es": "Adjunta tu currículum al correo."
+        },
+        {
+          "en": "The program [appends] each new line to the file.",
+          "tr": "Program her yeni satırı dosyanın sonuna ekliyor.",
+          "de": "Das Programm hängt jede neue Zeile an die Datei an.",
+          "fr": "Le programme ajoute chaque nouvelle ligne à la fin du fichier.",
+          "it": "Il programma aggiunge ogni nuova riga in fondo al file.",
+          "es": "El programa añade cada línea nueva al final del archivo."
+        }
+      ]
+    },
+    {
+      "id": "appendix",
+      "pos": "noun",
+      "parent": "append",
+      "parts": [
+        "ap-",
+        "pend",
+        "-ix"
+      ],
+      "gloss": {
+        "en": "an extra section at the end of a book; a small organ in the body",
+        "tr": "ek (kitapta); apandis",
+        "de": "der Anhang; der Blinddarm",
+        "fr": "l'annexe; l'appendice",
+        "it": "l'appendice",
+        "es": "el apéndice"
+      },
+      "sentences": [
+        {
+          "en": "The data tables are in the [appendix].",
+          "tr": "Veri tabloları ek bölümünde.",
+          "de": "Die Datentabellen stehen im Anhang.",
+          "fr": "Les tableaux de données sont en annexe.",
+          "it": "Le tabelle dei dati sono in appendice.",
+          "es": "Las tablas de datos están en el apéndice."
+        },
+        {
+          "en": "He had his [appendix] removed last year.",
+          "tr": "Geçen yıl apandisini aldırdı.",
+          "de": "Ihm wurde letztes Jahr der Blinddarm entfernt.",
+          "fr": "On lui a retiré l'appendice l'année dernière.",
+          "it": "L'anno scorso gli hanno tolto l'appendice.",
+          "es": "El año pasado le quitaron el apéndice."
+        }
+      ]
+    },
+    {
+      "id": "impending",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "im-",
+        "pend",
+        "-ing"
+      ],
+      "gloss": {
+        "en": "about to happen, usually something bad (literally: hanging over)",
+        "tr": "yaklaşan, kapıdaki",
+        "de": "drohend, bevorstehend",
+        "fr": "imminent",
+        "it": "imminente",
+        "es": "inminente"
+      },
+      "sentences": [
+        {
+          "en": "Dark clouds warned of the [impending] storm.",
+          "tr": "Kara bulutlar yaklaşan fırtınanın habercisiydi.",
+          "de": "Dunkle Wolken kündigten das drohende Unwetter an.",
+          "fr": "Des nuages noirs annonçaient l'orage imminent.",
+          "it": "Le nuvole scure annunciavano il temporale imminente.",
+          "es": "Las nubes negras anunciaban la tormenta inminente."
+        },
+        {
+          "en": "Nobody talked about the [impending] exams.",
+          "tr": "Kimse yaklaşan sınavlardan bahsetmedi.",
+          "de": "Niemand sprach über die bevorstehenden Prüfungen.",
+          "fr": "Personne ne parlait des examens imminents.",
+          "it": "Nessuno parlava degli esami imminenti.",
+          "es": "Nadie hablaba de los exámenes inminentes."
+        }
+      ]
+    },
+    {
+      "id": "pensive",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "pens",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "quietly thinking about something (from Latin pensare, 'to weigh, to think')",
+        "tr": "dalgın, düşünceli",
+        "de": "nachdenklich",
+        "fr": "pensif",
+        "it": "pensieroso",
+        "es": "pensativo"
+      },
+      "sentences": [
+        {
+          "en": "She looked out of the window, [pensive].",
+          "tr": "Düşünceli bir halde pencereden dışarı baktı.",
+          "de": "Nachdenklich schaute sie aus dem Fenster.",
+          "fr": "Elle regardait par la fenêtre, pensive.",
+          "it": "Guardava fuori dalla finestra, pensierosa.",
+          "es": "Miraba por la ventana, pensativa."
+        },
+        {
+          "en": "He was in a [pensive] mood after the call.",
+          "tr": "Telefon görüşmesinden sonra dalgındı.",
+          "de": "Nach dem Anruf war er nachdenklich gestimmt.",
+          "fr": "Il était d'humeur pensive après l'appel.",
+          "it": "Dopo la telefonata era pensieroso.",
+          "es": "Después de la llamada estaba pensativo."
+        }
+      ]
+    }
+  ]
+}

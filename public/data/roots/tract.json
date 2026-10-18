@@ -1,0 +1,728 @@
+{
+  "id": "tract",
+  "forms": [
+    "tract"
+  ],
+  "origin": "la",
+  "etymon": "trahere",
+  "meaning": {
+    "en": "to pull, to draw",
+    "tr": "çekmek",
+    "de": "ziehen",
+    "fr": "tirer",
+    "it": "tirare, trarre",
+    "es": "tirar, arrastrar"
+  },
+  "words": [
+    {
+      "id": "tract",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "tract"
+      ],
+      "gloss": {
+        "en": "a large area of land; a system of organs (literally: something drawn out)",
+        "tr": "geniş arazi; (vücutta) yol, sistem",
+        "de": "das Gebiet; der Trakt",
+        "fr": "l'étendue; l'appareil (digestif)",
+        "it": "la distesa; l'apparato",
+        "es": "la extensión; el tracto"
+      },
+      "sentences": [
+        {
+          "en": "They bought a large [tract] of forest.",
+          "tr": "Geniş bir orman arazisi satın aldılar.",
+          "de": "Sie kauften ein großes Waldgebiet.",
+          "fr": "Ils ont acheté une grande étendue de forêt.",
+          "it": "Hanno comprato una vasta distesa di bosco.",
+          "es": "Compraron una gran extensión de bosque."
+        },
+        {
+          "en": "Food passes through the digestive [tract].",
+          "tr": "Yiyecekler sindirim sisteminden geçer.",
+          "de": "Die Nahrung wandert durch den Verdauungstrakt.",
+          "fr": "Les aliments traversent l'appareil digestif.",
+          "it": "Il cibo attraversa l'apparato digerente.",
+          "es": "Los alimentos pasan por el tracto digestivo."
+        }
+      ]
+    },
+    {
+      "id": "tractor",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "tract",
+        "-or"
+      ],
+      "gloss": {
+        "en": "a strong vehicle that pulls farm machines (literally: a puller)",
+        "tr": "traktör",
+        "de": "der Traktor",
+        "fr": "le tracteur",
+        "it": "il trattore",
+        "es": "el tractor"
+      },
+      "sentences": [
+        {
+          "en": "The farmer drove his [tractor] across the field.",
+          "tr": "Çiftçi traktörüyle tarlayı geçti.",
+          "de": "Der Bauer fuhr mit seinem Traktor über das Feld.",
+          "fr": "Le fermier a traversé le champ avec son tracteur.",
+          "it": "Il contadino ha attraversato il campo col trattore.",
+          "es": "El granjero cruzó el campo con su tractor."
+        },
+        {
+          "en": "A [tractor] pulled our car out of the mud.",
+          "tr": "Bir traktör arabamızı çamurdan çıkardı.",
+          "de": "Ein Traktor zog unser Auto aus dem Schlamm.",
+          "fr": "Un tracteur a sorti notre voiture de la boue.",
+          "it": "Un trattore ha tirato fuori la nostra auto dal fango.",
+          "es": "Un tractor sacó nuestro coche del barro."
+        }
+      ]
+    },
+    {
+      "id": "traction",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "tract",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "the grip that stops something from sliding; growing support for an idea",
+        "tr": "yol tutuşu, tutunma; ilgi görme",
+        "de": "die Haftung; der Zuspruch",
+        "fr": "l'adhérence; du terrain gagné",
+        "it": "l'aderenza; il consenso",
+        "es": "el agarre, la tracción; el apoyo"
+      },
+      "sentences": [
+        {
+          "en": "Winter tyres give better [traction] on snow.",
+          "tr": "Kış lastikleri karda daha iyi yol tutar.",
+          "de": "Winterreifen haben auf Schnee mehr Haftung.",
+          "fr": "Les pneus d'hiver ont une meilleure adhérence sur la neige.",
+          "it": "Le gomme invernali hanno più aderenza sulla neve.",
+          "es": "Los neumáticos de invierno tienen mejor agarre en la nieve."
+        },
+        {
+          "en": "The idea is slowly gaining [traction].",
+          "tr": "Fikir yavaş yavaş ilgi görüyor.",
+          "de": "Die Idee findet langsam Zuspruch.",
+          "fr": "L'idée gagne peu à peu du terrain.",
+          "it": "L'idea sta pian piano prendendo piede.",
+          "es": "La idea va ganando apoyo poco a poco."
+        }
+      ]
+    },
+    {
+      "id": "attract",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "at-",
+        "tract"
+      ],
+      "gloss": {
+        "en": "to pull toward; to make people interested (literally: to draw toward)",
+        "tr": "çekmek, cezbetmek",
+        "de": "anziehen",
+        "fr": "attirer",
+        "it": "attirare",
+        "es": "atraer"
+      },
+      "sentences": [
+        {
+          "en": "Magnets [attract] iron.",
+          "tr": "Mıknatıslar demiri çeker.",
+          "de": "Magnete ziehen Eisen an.",
+          "fr": "Les aimants attirent le fer.",
+          "it": "Le calamite attirano il ferro.",
+          "es": "Los imanes atraen el hierro."
+        },
+        {
+          "en": "The festival [attracts] visitors from all over Europe.",
+          "tr": "Festival Avrupa'nın her yerinden ziyaretçi çekiyor.",
+          "de": "Das Festival zieht Besucher aus ganz Europa an.",
+          "fr": "Le festival attire des visiteurs de toute l'Europe.",
+          "it": "Il festival attira visitatori da tutta Europa.",
+          "es": "El festival atrae visitantes de toda Europa."
+        }
+      ]
+    },
+    {
+      "id": "attraction",
+      "pos": "noun",
+      "parent": "attract",
+      "parts": [
+        "at-",
+        "tract",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a place people visit for fun; a feeling of liking someone",
+        "tr": "görülecek yer; çekim",
+        "de": "die Sehenswürdigkeit; die Anziehung",
+        "fr": "l'attraction; l'attirance",
+        "it": "l'attrazione",
+        "es": "la atracción"
+      },
+      "sentences": [
+        {
+          "en": "The castle is the town's main [attraction].",
+          "tr": "Kale kasabanın en çok görülen yeri.",
+          "de": "Die Burg ist die größte Sehenswürdigkeit der Stadt.",
+          "fr": "Le château est la principale attraction de la ville.",
+          "it": "Il castello è la principale attrazione della città.",
+          "es": "El castillo es la principal atracción del pueblo."
+        },
+        {
+          "en": "There was an instant [attraction] between them.",
+          "tr": "Aralarında anında bir çekim oluştu.",
+          "de": "Zwischen ihnen gab es sofort eine Anziehung.",
+          "fr": "Il y a eu une attirance immédiate entre eux.",
+          "it": "Tra loro c'è stata un'attrazione immediata.",
+          "es": "Hubo una atracción inmediata entre ellos."
+        }
+      ]
+    },
+    {
+      "id": "attractive",
+      "pos": "adjective",
+      "parent": "attract",
+      "parts": [
+        "at-",
+        "tract",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "pleasant to look at; interesting",
+        "tr": "çekici; cazip",
+        "de": "attraktiv, reizvoll",
+        "fr": "attirant, joli; intéressant",
+        "it": "attraente; allettante",
+        "es": "atractivo"
+      },
+      "sentences": [
+        {
+          "en": "The job offer is very [attractive].",
+          "tr": "İş teklifi çok cazip.",
+          "de": "Das Jobangebot ist sehr attraktiv.",
+          "fr": "L'offre d'emploi est très intéressante.",
+          "it": "L'offerta di lavoro è molto allettante.",
+          "es": "La oferta de trabajo es muy atractiva."
+        },
+        {
+          "en": "It's an [attractive] old house with a garden.",
+          "tr": "Bahçeli, hoş bir eski ev.",
+          "de": "Es ist ein reizvolles altes Haus mit Garten.",
+          "fr": "C'est une jolie maison ancienne avec un jardin.",
+          "it": "È una bella casa antica con giardino.",
+          "es": "Es una casa antigua muy bonita con jardín."
+        }
+      ]
+    },
+    {
+      "id": "unattractive",
+      "pos": "adjective",
+      "parent": "attractive",
+      "parts": [
+        "un-",
+        "at-",
+        "tract",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "not pleasant to look at; not interesting",
+        "tr": "çekici olmayan; cazip olmayan",
+        "de": "unattraktiv, wenig reizvoll",
+        "fr": "peu attrayant",
+        "it": "poco attraente",
+        "es": "poco atractivo"
+      },
+      "sentences": [
+        {
+          "en": "The hotel looked [unattractive] from outside.",
+          "tr": "Otel dışarıdan pek çekici görünmüyordu.",
+          "de": "Das Hotel sah von außen wenig einladend aus.",
+          "fr": "L'hôtel avait l'air peu attrayant de l'extérieur.",
+          "it": "L'hotel sembrava poco attraente da fuori.",
+          "es": "El hotel parecía poco atractivo por fuera."
+        },
+        {
+          "en": "Low pay makes the job [unattractive].",
+          "tr": "Düşük maaş işi cazip olmaktan çıkarıyor.",
+          "de": "Die niedrige Bezahlung macht den Job unattraktiv.",
+          "fr": "Le salaire bas rend le poste peu attrayant.",
+          "it": "La paga bassa rende il lavoro poco attraente.",
+          "es": "El sueldo bajo hace que el trabajo sea poco atractivo."
+        }
+      ]
+    },
+    {
+      "id": "distract",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "dis-",
+        "tract"
+      ],
+      "gloss": {
+        "en": "to take someone's attention away (literally: to pull apart)",
+        "tr": "dikkatini dağıtmak",
+        "de": "ablenken",
+        "fr": "distraire",
+        "it": "distrarre",
+        "es": "distraer"
+      },
+      "sentences": [
+        {
+          "en": "Don't [distract] the driver.",
+          "tr": "Sürücünün dikkatini dağıtma.",
+          "de": "Lenk den Fahrer nicht ab.",
+          "fr": "Ne distrais pas le conducteur.",
+          "it": "Non distrarre l'autista.",
+          "es": "No distraigas al conductor."
+        },
+        {
+          "en": "Music [distracts] me when I study.",
+          "tr": "Ders çalışırken müzik dikkatimi dağıtıyor.",
+          "de": "Musik lenkt mich beim Lernen ab.",
+          "fr": "La musique me distrait quand j'étudie.",
+          "it": "La musica mi distrae quando studio.",
+          "es": "La música me distrae cuando estudio."
+        }
+      ]
+    },
+    {
+      "id": "distraction",
+      "pos": "noun",
+      "parent": "distract",
+      "parts": [
+        "dis-",
+        "tract",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "something that takes your attention away",
+        "tr": "dikkat dağıtan şey",
+        "de": "die Ablenkung",
+        "fr": "la distraction",
+        "it": "la distrazione",
+        "es": "la distracción"
+      },
+      "sentences": [
+        {
+          "en": "Phones are a big [distraction] in class.",
+          "tr": "Telefonlar derste dikkati çok dağıtıyor.",
+          "de": "Handys sind im Unterricht eine große Ablenkung.",
+          "fr": "Les téléphones sont une grande source de distraction en classe.",
+          "it": "I telefoni sono una grande distrazione in classe.",
+          "es": "Los móviles son una gran distracción en clase."
+        },
+        {
+          "en": "I need a quiet room without [distractions].",
+          "tr": "Dikkatimi dağıtacak bir şeyin olmadığı sessiz bir odaya ihtiyacım var.",
+          "de": "Ich brauche einen ruhigen Raum ohne Ablenkungen.",
+          "fr": "J'ai besoin d'une pièce calme, sans distractions.",
+          "it": "Ho bisogno di una stanza tranquilla senza distrazioni.",
+          "es": "Necesito una habitación tranquila sin distracciones."
+        }
+      ]
+    },
+    {
+      "id": "extract",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ex-",
+        "tract"
+      ],
+      "gloss": {
+        "en": "to take or pull something out (literally: to pull out)",
+        "tr": "çıkarmak, çekmek",
+        "de": "herausziehen, gewinnen; extrahieren",
+        "fr": "extraire, arracher",
+        "it": "estrarre",
+        "es": "extraer"
+      },
+      "sentences": [
+        {
+          "en": "The dentist [extracted] two teeth.",
+          "tr": "Dişçi iki diş çekti.",
+          "de": "Der Zahnarzt hat zwei Zähne gezogen.",
+          "fr": "Le dentiste a arraché deux dents.",
+          "it": "Il dentista ha estratto due denti.",
+          "es": "El dentista extrajo dos muelas."
+        },
+        {
+          "en": "The script [extracts] all email addresses from the text.",
+          "tr": "Betik metindeki bütün e-posta adreslerini çıkarıyor.",
+          "de": "Das Skript extrahiert alle E-Mail-Adressen aus dem Text.",
+          "fr": "Le script extrait toutes les adresses e-mail du texte.",
+          "it": "Lo script estrae tutti gli indirizzi email dal testo.",
+          "es": "El script extrae todas las direcciones de correo del texto."
+        }
+      ]
+    },
+    {
+      "id": "extraction",
+      "pos": "noun",
+      "parent": "extract",
+      "parts": [
+        "ex-",
+        "tract",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "the act of taking something out",
+        "tr": "çıkarma, çekme",
+        "de": "die Förderung; das Ziehen",
+        "fr": "l'extraction",
+        "it": "l'estrazione",
+        "es": "la extracción"
+      },
+      "sentences": [
+        {
+          "en": "Oil [extraction] can damage the land.",
+          "tr": "Petrol çıkarmak toprağa zarar verebilir.",
+          "de": "Ölförderung kann das Land schädigen.",
+          "fr": "L'extraction du pétrole peut abîmer les terres.",
+          "it": "L'estrazione del petrolio può danneggiare il territorio.",
+          "es": "La extracción de petróleo puede dañar la tierra."
+        },
+        {
+          "en": "After the tooth [extraction], eat only soft food.",
+          "tr": "Diş çekiminden sonra sadece yumuşak şeyler ye.",
+          "de": "Nach dem Zahnziehen nur Weiches essen.",
+          "fr": "Après l'extraction de la dent, mange seulement des aliments mous.",
+          "it": "Dopo l'estrazione del dente, mangia solo cibi morbidi.",
+          "es": "Después de la extracción de la muela, come solo alimentos blandos."
+        }
+      ]
+    },
+    {
+      "id": "subtract",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "sub-",
+        "tract"
+      ],
+      "gloss": {
+        "en": "to take one number away from another (literally: to pull from under)",
+        "tr": "çıkarmak (matematik)",
+        "de": "subtrahieren, abziehen",
+        "fr": "soustraire",
+        "it": "sottrarre",
+        "es": "restar"
+      },
+      "sentences": [
+        {
+          "en": "If you [subtract] 4 from 10, you get 6.",
+          "tr": "10'dan 4 çıkarırsan 6 kalır.",
+          "de": "Wenn du 4 von 10 abziehst, bekommst du 6.",
+          "fr": "Si tu soustrais 4 de 10, tu obtiens 6.",
+          "it": "Se sottrai 4 da 10, ottieni 6.",
+          "es": "Si restas 4 a 10, te da 6."
+        },
+        {
+          "en": "[Subtract] the costs from the total income.",
+          "tr": "Masrafları toplam gelirden çıkar.",
+          "de": "Zieh die Kosten vom Gesamteinkommen ab.",
+          "fr": "Soustrais les coûts du revenu total.",
+          "it": "Sottrai i costi dal reddito totale.",
+          "es": "Resta los costes de los ingresos totales."
+        }
+      ]
+    },
+    {
+      "id": "subtraction",
+      "pos": "noun",
+      "parent": "subtract",
+      "parts": [
+        "sub-",
+        "tract",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "the act of taking one number from another",
+        "tr": "çıkarma işlemi",
+        "de": "die Subtraktion",
+        "fr": "la soustraction",
+        "it": "la sottrazione",
+        "es": "la resta"
+      },
+      "sentences": [
+        {
+          "en": "My son is learning [subtraction] at school.",
+          "tr": "Oğlum okulda çıkarma öğreniyor.",
+          "de": "Mein Sohn lernt in der Schule Subtraktion.",
+          "fr": "Mon fils apprend la soustraction à l'école.",
+          "it": "Mio figlio sta imparando la sottrazione a scuola.",
+          "es": "Mi hijo está aprendiendo a restar en el colegio."
+        },
+        {
+          "en": "Check your [subtraction] again.",
+          "tr": "Çıkarma işlemini tekrar kontrol et.",
+          "de": "Prüf deine Subtraktion noch einmal.",
+          "fr": "Vérifie encore ta soustraction.",
+          "it": "Ricontrolla la tua sottrazione.",
+          "es": "Revisa otra vez la resta."
+        }
+      ]
+    },
+    {
+      "id": "contract",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "con-",
+        "tract"
+      ],
+      "gloss": {
+        "en": "a written legal agreement (literally: drawn together)",
+        "tr": "sözleşme",
+        "de": "der Vertrag",
+        "fr": "le contrat",
+        "it": "il contratto",
+        "es": "el contrato"
+      },
+      "sentences": [
+        {
+          "en": "Read the [contract] carefully before you sign.",
+          "tr": "İmzalamadan önce sözleşmeyi dikkatlice oku.",
+          "de": "Lies den Vertrag genau, bevor du unterschreibst.",
+          "fr": "Lis attentivement le contrat avant de signer.",
+          "it": "Leggi bene il contratto prima di firmare.",
+          "es": "Lee el contrato con atención antes de firmar."
+        },
+        {
+          "en": "Her [contract] ends in December.",
+          "tr": "Sözleşmesi aralıkta bitiyor.",
+          "de": "Ihr Vertrag endet im Dezember.",
+          "fr": "Son contrat se termine en décembre.",
+          "it": "Il suo contratto scade a dicembre.",
+          "es": "Su contrato termina en diciembre."
+        }
+      ]
+    },
+    {
+      "id": "contractor",
+      "pos": "noun",
+      "parent": "contract",
+      "parts": [
+        "con-",
+        "tract",
+        "-or"
+      ],
+      "gloss": {
+        "en": "a person or company paid to do work, especially building",
+        "tr": "müteahhit, yüklenici",
+        "de": "der Bauunternehmer, die beauftragte Firma",
+        "fr": "l'entrepreneur",
+        "it": "l'impresa, l'appaltatore",
+        "es": "el contratista"
+      },
+      "sentences": [
+        {
+          "en": "The [contractor] said the kitchen will be ready in May.",
+          "tr": "Müteahhit mutfağın mayısta hazır olacağını söyledi.",
+          "de": "Der Bauunternehmer sagte, die Küche sei im Mai fertig.",
+          "fr": "L'entrepreneur a dit que la cuisine serait prête en mai.",
+          "it": "L'impresa ha detto che la cucina sarà pronta a maggio.",
+          "es": "El contratista dijo que la cocina estaría lista en mayo."
+        },
+        {
+          "en": "The city hired a [contractor] to fix the roads.",
+          "tr": "Belediye yolları onarmak için bir yüklenici tuttu.",
+          "de": "Die Stadt beauftragte eine Firma mit der Straßenreparatur.",
+          "fr": "La ville a engagé une entreprise pour réparer les routes.",
+          "it": "Il comune ha incaricato un'impresa di riparare le strade.",
+          "es": "El ayuntamiento contrató a una empresa para arreglar las calles."
+        }
+      ]
+    },
+    {
+      "id": "contraction",
+      "pos": "noun",
+      "parent": "contract",
+      "parts": [
+        "con-",
+        "tract",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "becoming smaller or tighter; a short form such as 'can't'",
+        "tr": "büzülme, kasılma; kısaltma",
+        "de": "das Zusammenziehen; die Kurzform",
+        "fr": "la contraction",
+        "it": "la contrazione",
+        "es": "la contracción"
+      },
+      "sentences": [
+        {
+          "en": "Cold causes [contraction] in metal.",
+          "tr": "Soğuk metalin büzülmesine yol açar.",
+          "de": "Kälte lässt Metall sich zusammenziehen.",
+          "fr": "Le froid provoque la contraction du métal.",
+          "it": "Il freddo provoca la contrazione del metallo.",
+          "es": "El frío provoca la contracción del metal."
+        },
+        {
+          "en": "\"Can't\" is a [contraction] of \"cannot\".",
+          "tr": "\"Can't\", \"cannot\"un kısaltmasıdır.",
+          "de": "„Can't“ ist eine Kurzform von „cannot“.",
+          "fr": "« Can't » est la contraction de « cannot ».",
+          "it": "«Can't» è la contrazione di «cannot».",
+          "es": "«Can't» es la contracción de «cannot»."
+        }
+      ]
+    },
+    {
+      "id": "retract",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "re-",
+        "tract"
+      ],
+      "gloss": {
+        "en": "to pull back; to take back something you said",
+        "tr": "geri çekmek; sözünü geri almak",
+        "de": "einziehen; zurücknehmen",
+        "fr": "rétracter; retirer",
+        "it": "ritrarre; ritrattare",
+        "es": "retraer; retirar"
+      },
+      "sentences": [
+        {
+          "en": "A cat can [retract] its claws.",
+          "tr": "Kedi pençelerini içeri çekebilir.",
+          "de": "Eine Katze kann ihre Krallen einziehen.",
+          "fr": "Un chat peut rétracter ses griffes.",
+          "it": "Un gatto può ritrarre gli artigli.",
+          "es": "Un gato puede retraer las uñas."
+        },
+        {
+          "en": "The newspaper [retracted] the false story.",
+          "tr": "Gazete yanlış haberi geri çekti.",
+          "de": "Die Zeitung nahm die falsche Meldung zurück.",
+          "fr": "Le journal a retiré l'article mensonger.",
+          "it": "Il giornale ha ritrattato la notizia falsa.",
+          "es": "El periódico retiró la noticia falsa."
+        }
+      ]
+    },
+    {
+      "id": "abstract",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "abs-",
+        "tract"
+      ],
+      "gloss": {
+        "en": "based on ideas, not real things (literally: drawn away)",
+        "tr": "soyut",
+        "de": "abstrakt",
+        "fr": "abstrait",
+        "it": "astratto",
+        "es": "abstracto"
+      },
+      "sentences": [
+        {
+          "en": "Love is an [abstract] idea.",
+          "tr": "Aşk soyut bir kavramdır.",
+          "de": "Liebe ist ein abstrakter Begriff.",
+          "fr": "L'amour est une notion abstraite.",
+          "it": "L'amore è un concetto astratto.",
+          "es": "El amor es un concepto abstracto."
+        },
+        {
+          "en": "I don't understand [abstract] art.",
+          "tr": "Soyut sanattan anlamıyorum.",
+          "de": "Ich verstehe abstrakte Kunst nicht.",
+          "fr": "Je ne comprends pas l'art abstrait.",
+          "it": "Non capisco l'arte astratta.",
+          "es": "No entiendo el arte abstracto."
+        }
+      ]
+    },
+    {
+      "id": "protracted",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "pro-",
+        "tract",
+        "-ed"
+      ],
+      "gloss": {
+        "en": "lasting longer than expected (literally: drawn forward)",
+        "tr": "uzayıp giden",
+        "de": "langwierig",
+        "fr": "prolongé, interminable",
+        "it": "prolungato, lungo",
+        "es": "prolongado"
+      },
+      "sentences": [
+        {
+          "en": "After [protracted] talks, they signed the deal.",
+          "tr": "Uzayıp giden görüşmelerden sonra anlaşmayı imzaladılar.",
+          "de": "Nach langwierigen Verhandlungen unterzeichneten sie den Vertrag.",
+          "fr": "Après des négociations interminables, ils ont signé l'accord.",
+          "it": "Dopo lunghe trattative, hanno firmato l'accordo.",
+          "es": "Tras unas negociaciones prolongadas, firmaron el acuerdo."
+        },
+        {
+          "en": "It was a [protracted] illness.",
+          "tr": "Uzun süren bir hastalıktı.",
+          "de": "Es war eine langwierige Krankheit.",
+          "fr": "C'était une longue maladie.",
+          "it": "È stata una malattia prolungata.",
+          "es": "Fue una enfermedad prolongada."
+        }
+      ]
+    },
+    {
+      "id": "intractable",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "in-not-",
+        "tract",
+        "-able"
+      ],
+      "gloss": {
+        "en": "very hard to solve or control (literally: not able to be handled)",
+        "tr": "çözümü çok zor, inatçı",
+        "de": "hartnäckig, schwer lösbar",
+        "fr": "insoluble, inextricable",
+        "it": "irrisolvibile, intrattabile",
+        "es": "irresoluble, muy difícil de resolver"
+      },
+      "sentences": [
+        {
+          "en": "Traffic in the city is an [intractable] problem.",
+          "tr": "Şehir trafiği çözümü çok zor bir sorun.",
+          "de": "Der Verkehr in der Stadt ist ein hartnäckiges Problem.",
+          "fr": "La circulation en ville est un problème insoluble.",
+          "it": "Il traffico in città è un problema irrisolvibile.",
+          "es": "El tráfico en la ciudad es un problema muy difícil de resolver."
+        },
+        {
+          "en": "Some maths problems stay [intractable] for centuries.",
+          "tr": "Bazı matematik problemleri yüzyıllarca çözülemez.",
+          "de": "Manche Matheprobleme bleiben jahrhundertelang ungelöst.",
+          "fr": "Certains problèmes de maths restent insolubles pendant des siècles.",
+          "it": "Alcuni problemi matematici restano irrisolti per secoli.",
+          "es": "Algunos problemas matemáticos siguen sin resolverse durante siglos."
+        }
+      ]
+    }
+  ]
+}

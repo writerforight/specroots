@@ -858,5 +858,93 @@
       "it": "che può essere, cosa che è",
       "es": "que puede ser, cosa que es"
     }
+  },
+  "ap-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "to, toward (ad- before p)",
+      "tr": "-e doğru (p önünde ad-)",
+      "de": "hin zu (ad- vor p)",
+      "fr": "vers (ad- devant p)",
+      "it": "verso (ad- davanti a p)",
+      "es": "hacia (ad- ante p)"
+    }
+  },
+  "at-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "to, toward (ad- before t)",
+      "tr": "-e doğru (t önünde ad-)",
+      "de": "hin zu (ad- vor t)",
+      "fr": "vers (ad- devant t)",
+      "it": "verso (ad- davanti a t)",
+      "es": "hacia (ad- ante t)"
+    }
+  },
+  "abs-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "away from (ab- before t, c)",
+      "tr": "-den uzağa (t, c önünde ab-)",
+      "de": "weg von (ab- vor t, c)",
+      "fr": "loin de (ab- devant t, c)",
+      "it": "via da (ab- davanti a t, c)",
+      "es": "lejos de (ab- ante t, c)"
+    }
+  },
+  "infra-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "below, beneath",
+      "tr": "alt, altında",
+      "de": "unter, unterhalb",
+      "fr": "en dessous",
+      "it": "sotto",
+      "es": "debajo"
+    }
+  },
+  "-ing": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "happening, being (makes an adjective)",
+      "tr": "olan, süren (sıfat yapar)",
+      "de": "geschehend (bildet ein Adjektiv)",
+      "fr": "en train de (forme un adjectif)",
+      "it": "che sta (forma un aggettivo)",
+      "es": "que está (forma un adjetivo)"
+    }
+  },
+  "-ulum": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "tool or thing for (makes a noun)",
+      "tr": "araç, alet (isim yapar)",
+      "de": "Werkzeug, Ding für (bildet ein Nomen)",
+      "fr": "outil, chose pour (forme un nom)",
+      "it": "strumento, cosa per (forma un nome)",
+      "es": "herramienta, cosa para (forma un sustantivo)"
+    }
+  },
+  "-ix": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "thing (Latin noun ending)",
+      "tr": "şey (Latince isim eki)",
+      "de": "Ding (lateinische Nomenendung)",
+      "fr": "chose (terminaison latine)",
+      "it": "cosa (desinenza latina)",
+      "es": "cosa (terminación latina)"
+    }
+  },
+  "-ment": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "result or means of (makes a noun)",
+      "tr": "sonucu, aracı (isim yapar)",
+      "de": "Ergebnis, Mittel (bildet ein Nomen)",
+      "fr": "résultat, moyen (-ment)",
+      "it": "risultato, mezzo (-mento)",
+      "es": "resultado, medio (-mento)"
+    }
   }
 }

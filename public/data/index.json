@@ -200,6 +200,49 @@
     ]
   },
   {
+    "id": "pend",
+    "forms": [
+      "pend",
+      "pens",
+      "pense"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to hang; to weigh, to pay",
+      "tr": "asmak; tartmak, ödemek",
+      "de": "hängen; wiegen, zahlen",
+      "fr": "pendre; peser, payer",
+      "it": "pendere; pesare, pagare",
+      "es": "colgar; pesar, pagar"
+    },
+    "words": [
+      "depend",
+      "dependent",
+      "dependable",
+      "dependence",
+      "independent",
+      "independence",
+      "suspend",
+      "suspense",
+      "suspension",
+      "expense",
+      "expensive",
+      "inexpensive",
+      "pension",
+      "pensioner",
+      "compensate",
+      "compensation",
+      "dispense",
+      "pendant",
+      "pending",
+      "pendulum",
+      "append",
+      "appendix",
+      "impending",
+      "pensive"
+    ]
+  },
+  {
     "id": "port",
     "forms": [
       "port"
@@ -326,6 +369,82 @@
       "disrespect",
       "respective",
       "introspection"
+    ]
+  },
+  {
+    "id": "struct",
+    "forms": [
+      "struct",
+      "stru",
+      "strue"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to build, to pile up",
+      "tr": "inşa etmek, üst üste koymak",
+      "de": "bauen, aufschichten",
+      "fr": "construire, empiler",
+      "it": "costruire, ammassare",
+      "es": "construir, apilar"
+    },
+    "words": [
+      "structure",
+      "restructure",
+      "infrastructure",
+      "construct",
+      "construction",
+      "constructive",
+      "reconstruct",
+      "reconstruction",
+      "destruction",
+      "destructive",
+      "indestructible",
+      "instruct",
+      "instruction",
+      "instructor",
+      "instructive",
+      "obstruct",
+      "obstruction",
+      "instrument",
+      "instrumental",
+      "construe"
+    ]
+  },
+  {
+    "id": "tract",
+    "forms": [
+      "tract"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to pull, to draw",
+      "tr": "çekmek",
+      "de": "ziehen",
+      "fr": "tirer",
+      "it": "tirare, trarre",
+      "es": "tirar, arrastrar"
+    },
+    "words": [
+      "tract",
+      "tractor",
+      "traction",
+      "attract",
+      "attraction",
+      "attractive",
+      "unattractive",
+      "distract",
+      "distraction",
+      "extract",
+      "extraction",
+      "subtract",
+      "subtraction",
+      "contract",
+      "contractor",
+      "contraction",
+      "retract",
+      "abstract",
+      "protracted",
+      "intractable"
     ]
   },
   {
