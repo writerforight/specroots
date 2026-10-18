@@ -717,6 +717,43 @@
     ]
   },
   {
+    "id": "press",
+    "forms": [
+      "press"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to press, to push",
+      "tr": "bastırmak, sıkmak",
+      "de": "drücken, pressen",
+      "fr": "presser, appuyer",
+      "it": "premere",
+      "es": "presionar, apretar"
+    },
+    "words": [
+      "press",
+      "pressure",
+      "pressing",
+      "express",
+      "expression",
+      "expressive",
+      "impress",
+      "impression",
+      "impressive",
+      "unimpressed",
+      "depress",
+      "depressed",
+      "depression",
+      "oppress",
+      "oppression",
+      "suppress",
+      "compress",
+      "compression",
+      "repress",
+      "irrepressible"
+    ]
+  },
+  {
     "id": "rupt",
     "forms": [
       "rupt"
@@ -789,6 +826,92 @@
       "subscriber",
       "ascribe",
       "indescribable"
+    ]
+  },
+  {
+    "id": "sent",
+    "forms": [
+      "sent",
+      "sens",
+      "sense"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to feel, to perceive",
+      "tr": "hissetmek, algılamak",
+      "de": "fühlen, wahrnehmen",
+      "fr": "sentir, percevoir",
+      "it": "sentire, percepire",
+      "es": "sentir, percibir"
+    },
+    "words": [
+      "sense",
+      "senseless",
+      "nonsense",
+      "sensible",
+      "sensitive",
+      "insensitive",
+      "sensitivity",
+      "sensor",
+      "sensory",
+      "extrasensory",
+      "sensation",
+      "sensational",
+      "sentence",
+      "sentiment",
+      "sentimental",
+      "consent",
+      "consensus",
+      "resent",
+      "resentment",
+      "dissent"
+    ]
+  },
+  {
+    "id": "sist",
+    "forms": [
+      "sist",
+      "ist",
+      "sta",
+      "st",
+      "stat",
+      "stant"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to stand; to make stand",
+      "tr": "durmak, ayakta durmak",
+      "de": "stehen; hinstellen",
+      "fr": "être debout; placer",
+      "it": "stare in piedi; collocare",
+      "es": "estar de pie; colocar"
+    },
+    "words": [
+      "assist",
+      "assistant",
+      "assistance",
+      "insist",
+      "persist",
+      "persistent",
+      "resist",
+      "resistance",
+      "consist",
+      "consistent",
+      "inconsistent",
+      "exist",
+      "existence",
+      "stable",
+      "static",
+      "status",
+      "station",
+      "stationary",
+      "distant",
+      "distance",
+      "instant",
+      "constant",
+      "obstacle",
+      "circumstance",
+      "substance"
     ]
   },
   {

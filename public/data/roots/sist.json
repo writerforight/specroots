@@ -1,0 +1,911 @@
+{
+  "id": "sist",
+  "forms": [
+    "sist",
+    "ist",
+    "sta",
+    "st",
+    "stat",
+    "stant"
+  ],
+  "origin": "la",
+  "etymon": "stare, sistere",
+  "meaning": {
+    "en": "to stand; to make stand",
+    "tr": "durmak, ayakta durmak",
+    "de": "stehen; hinstellen",
+    "fr": "être debout; placer",
+    "it": "stare in piedi; collocare",
+    "es": "estar de pie; colocar"
+  },
+  "words": [
+    {
+      "id": "assist",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "as-",
+        "sist"
+      ],
+      "gloss": {
+        "en": "to help (literally: to stand by)",
+        "tr": "yardım etmek",
+        "de": "helfen, unterstützen",
+        "fr": "aider, assister",
+        "it": "assistere, aiutare",
+        "es": "ayudar, asistir"
+      },
+      "sentences": [
+        {
+          "en": "Can I [assist] you with your bags?",
+          "tr": "Çantalarınıza yardım edebilir miyim?",
+          "de": "Kann ich Ihnen mit dem Gepäck helfen?",
+          "fr": "Puis-je vous aider avec vos sacs ?",
+          "it": "Posso aiutarla con le borse?",
+          "es": "¿Puedo ayudarle con las maletas?"
+        },
+        {
+          "en": "Two nurses [assisted] the surgeon.",
+          "tr": "Cerraha iki hemşire yardım etti.",
+          "de": "Zwei Krankenschwestern assistierten dem Chirurgen.",
+          "fr": "Deux infirmières ont assisté le chirurgien.",
+          "it": "Due infermiere hanno assistito il chirurgo.",
+          "es": "Dos enfermeras asistieron al cirujano."
+        }
+      ]
+    },
+    {
+      "id": "assistant",
+      "pos": "noun",
+      "parent": "assist",
+      "parts": [
+        "as-",
+        "sist",
+        "-ant"
+      ],
+      "gloss": {
+        "en": "a person who helps someone in their work",
+        "tr": "asistan, yardımcı",
+        "de": "der Assistent, die Hilfskraft",
+        "fr": "l'assistant",
+        "it": "l'assistente",
+        "es": "el asistente, el ayudante"
+      },
+      "sentences": [
+        {
+          "en": "Ask the shop [assistant] for help.",
+          "tr": "Satış görevlisinden yardım iste.",
+          "de": "Frag die Verkäuferin um Hilfe.",
+          "fr": "Demande de l'aide au vendeur.",
+          "it": "Chiedi aiuto al commesso.",
+          "es": "Pide ayuda al dependiente."
+        },
+        {
+          "en": "She works as a research [assistant].",
+          "tr": "Araştırma asistanı olarak çalışıyor.",
+          "de": "Sie arbeitet als wissenschaftliche Hilfskraft.",
+          "fr": "Elle travaille comme assistante de recherche.",
+          "it": "Lavora come assistente di ricerca.",
+          "es": "Trabaja como asistente de investigación."
+        }
+      ]
+    },
+    {
+      "id": "assistance",
+      "pos": "noun",
+      "parent": "assist",
+      "parts": [
+        "as-",
+        "sist",
+        "-ance"
+      ],
+      "gloss": {
+        "en": "help",
+        "tr": "yardım",
+        "de": "die Hilfe, die Unterstützung",
+        "fr": "l'aide, l'assistance",
+        "it": "l'assistenza, l'aiuto",
+        "es": "la ayuda, la asistencia"
+      },
+      "sentences": [
+        {
+          "en": "Call this number if you need [assistance].",
+          "tr": "Yardıma ihtiyacın olursa bu numarayı ara.",
+          "de": "Ruf diese Nummer an, wenn du Hilfe brauchst.",
+          "fr": "Appelle ce numéro si tu as besoin d'aide.",
+          "it": "Chiama questo numero se hai bisogno di assistenza.",
+          "es": "Llama a este número si necesitas ayuda."
+        },
+        {
+          "en": "Thank you for your [assistance].",
+          "tr": "Yardımınız için teşekkürler.",
+          "de": "Vielen Dank für Ihre Unterstützung.",
+          "fr": "Merci pour votre aide.",
+          "it": "Grazie per il suo aiuto.",
+          "es": "Gracias por su ayuda."
+        }
+      ]
+    },
+    {
+      "id": "insist",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "in-",
+        "sist"
+      ],
+      "gloss": {
+        "en": "to say firmly that something must happen or is true (literally: to stand on)",
+        "tr": "ısrar etmek",
+        "de": "darauf bestehen",
+        "fr": "insister",
+        "it": "insistere",
+        "es": "insistir"
+      },
+      "sentences": [
+        {
+          "en": "She [insisted] on paying for dinner.",
+          "tr": "Akşam yemeğini ödemekte ısrar etti.",
+          "de": "Sie bestand darauf, das Essen zu bezahlen.",
+          "fr": "Elle a insisté pour payer le dîner.",
+          "it": "Ha insistito per pagare la cena.",
+          "es": "Insistió en pagar la cena."
+        },
+        {
+          "en": "He [insists] that he saw a ghost.",
+          "tr": "Bir hayalet gördüğünde ısrar ediyor.",
+          "de": "Er besteht darauf, einen Geist gesehen zu haben.",
+          "fr": "Il insiste sur le fait qu'il a vu un fantôme.",
+          "it": "Insiste di aver visto un fantasma.",
+          "es": "Insiste en que vio un fantasma."
+        }
+      ]
+    },
+    {
+      "id": "persist",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "per-",
+        "sist"
+      ],
+      "gloss": {
+        "en": "to continue, even when it is difficult (literally: to stand through)",
+        "tr": "sürmek; inatla devam etmek",
+        "de": "anhalten; beharren",
+        "fr": "persister; persévérer",
+        "it": "persistere; insistere",
+        "es": "persistir; insistir"
+      },
+      "sentences": [
+        {
+          "en": "If the pain [persists], see a doctor.",
+          "tr": "Ağrı devam ederse doktora git.",
+          "de": "Wenn die Schmerzen anhalten, geh zum Arzt.",
+          "fr": "Si la douleur persiste, consulte un médecin.",
+          "it": "Se il dolore persiste, vai dal medico.",
+          "es": "Si el dolor persiste, ve al médico."
+        },
+        {
+          "en": "She [persisted] and finally got the job.",
+          "tr": "Pes etmedi ve sonunda işi aldı.",
+          "de": "Sie blieb hartnäckig und bekam die Stelle schließlich.",
+          "fr": "Elle a persévéré et a fini par obtenir le poste.",
+          "it": "Ha insistito e alla fine ha ottenuto il lavoro.",
+          "es": "Insistió y al final consiguió el trabajo."
+        }
+      ]
+    },
+    {
+      "id": "persistent",
+      "pos": "adjective",
+      "parent": "persist",
+      "parts": [
+        "per-",
+        "sist",
+        "-ent"
+      ],
+      "gloss": {
+        "en": "continuing for a long time; not giving up",
+        "tr": "sürekli, inatçı; azimli",
+        "de": "anhaltend; hartnäckig",
+        "fr": "persistant; tenace",
+        "it": "persistente; tenace",
+        "es": "persistente; tenaz"
+      },
+      "sentences": [
+        {
+          "en": "I have a [persistent] cough.",
+          "tr": "Geçmeyen bir öksürüğüm var.",
+          "de": "Ich habe einen hartnäckigen Husten.",
+          "fr": "J'ai une toux persistante.",
+          "it": "Ho una tosse persistente.",
+          "es": "Tengo una tos persistente."
+        },
+        {
+          "en": "Be [persistent] and you will improve.",
+          "tr": "Azimli ol, gelişeceksin.",
+          "de": "Bleib dran, dann wirst du besser.",
+          "fr": "Sois tenace et tu progresseras.",
+          "it": "Sii tenace e migliorerai.",
+          "es": "Sé constante y mejorarás."
+        }
+      ]
+    },
+    {
+      "id": "resist",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "re-",
+        "sist"
+      ],
+      "gloss": {
+        "en": "to fight against something; to stop yourself from doing something (literally: to stand back, against)",
+        "tr": "direnmek; karşı koymak",
+        "de": "widerstehen; sich wehren",
+        "fr": "résister",
+        "it": "resistere",
+        "es": "resistir"
+      },
+      "sentences": [
+        {
+          "en": "I couldn't [resist] the chocolate cake.",
+          "tr": "Çikolatalı keke karşı koyamadım.",
+          "de": "Ich konnte dem Schokoladenkuchen nicht widerstehen.",
+          "fr": "Je n'ai pas pu résister au gâteau au chocolat.",
+          "it": "Non ho resistito alla torta al cioccolato.",
+          "es": "No pude resistirme a la tarta de chocolate."
+        },
+        {
+          "en": "This jacket [resists] water and wind.",
+          "tr": "Bu ceket suya ve rüzgâra dayanıklı.",
+          "de": "Diese Jacke hält Wasser und Wind ab.",
+          "fr": "Cette veste résiste à l'eau et au vent.",
+          "it": "Questa giacca resiste all'acqua e al vento.",
+          "es": "Esta chaqueta resiste el agua y el viento."
+        }
+      ]
+    },
+    {
+      "id": "resistance",
+      "pos": "noun",
+      "parent": "resist",
+      "parts": [
+        "re-",
+        "sist",
+        "-ance"
+      ],
+      "gloss": {
+        "en": "fighting against something; how much a material stops electric current",
+        "tr": "direnç; direniş",
+        "de": "der Widerstand",
+        "fr": "la résistance",
+        "it": "la resistenza",
+        "es": "la resistencia"
+      },
+      "sentences": [
+        {
+          "en": "The plan met strong [resistance].",
+          "tr": "Plan güçlü bir dirençle karşılaştı.",
+          "de": "Der Plan stieß auf starken Widerstand.",
+          "fr": "Le projet a rencontré une forte résistance.",
+          "it": "Il piano ha incontrato una forte resistenza.",
+          "es": "El plan encontró una fuerte resistencia."
+        },
+        {
+          "en": "Copper has low electrical [resistance].",
+          "tr": "Bakırın elektrik direnci düşüktür.",
+          "de": "Kupfer hat einen geringen elektrischen Widerstand.",
+          "fr": "Le cuivre a une faible résistance électrique.",
+          "it": "Il rame ha una bassa resistenza elettrica.",
+          "es": "El cobre tiene una baja resistencia eléctrica."
+        }
+      ]
+    },
+    {
+      "id": "consist",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "con-",
+        "sist"
+      ],
+      "gloss": {
+        "en": "(consist of) to be made of (literally: to stand together)",
+        "tr": "-den oluşmak",
+        "de": "bestehen aus",
+        "fr": "se composer de, consister en",
+        "it": "consistere in, essere composto da",
+        "es": "consistir en, constar de"
+      },
+      "sentences": [
+        {
+          "en": "The team [consists] of five people.",
+          "tr": "Ekip beş kişiden oluşuyor.",
+          "de": "Das Team besteht aus fünf Personen.",
+          "fr": "L'équipe se compose de cinq personnes.",
+          "it": "La squadra è composta da cinque persone.",
+          "es": "El equipo consta de cinco personas."
+        },
+        {
+          "en": "Breakfast [consisted] of bread and tea.",
+          "tr": "Kahvaltı ekmek ve çaydan oluşuyordu.",
+          "de": "Das Frühstück bestand aus Brot und Tee.",
+          "fr": "Le petit-déjeuner se composait de pain et de thé.",
+          "it": "La colazione consisteva in pane e tè.",
+          "es": "El desayuno consistía en pan y té."
+        }
+      ]
+    },
+    {
+      "id": "consistent",
+      "pos": "adjective",
+      "parent": "consist",
+      "parts": [
+        "con-",
+        "sist",
+        "-ent"
+      ],
+      "gloss": {
+        "en": "always the same; agreeing with something",
+        "tr": "tutarlı, istikrarlı",
+        "de": "beständig, konsequent; übereinstimmend",
+        "fr": "constant, régulier; cohérent",
+        "it": "costante; coerente",
+        "es": "constante; coherente"
+      },
+      "sentences": [
+        {
+          "en": "Her work is [consistent] and careful.",
+          "tr": "İşi tutarlı ve özenli.",
+          "de": "Ihre Arbeit ist beständig und sorgfältig.",
+          "fr": "Son travail est régulier et soigné.",
+          "it": "Il suo lavoro è costante e accurato.",
+          "es": "Su trabajo es constante y cuidadoso."
+        },
+        {
+          "en": "His story is [consistent] with the facts.",
+          "tr": "Anlattıkları gerçeklerle tutarlı.",
+          "de": "Seine Geschichte stimmt mit den Fakten überein.",
+          "fr": "Son récit est cohérent avec les faits.",
+          "it": "Il suo racconto è coerente con i fatti.",
+          "es": "Su versión es coherente con los hechos."
+        }
+      ]
+    },
+    {
+      "id": "inconsistent",
+      "pos": "adjective",
+      "parent": "consistent",
+      "parts": [
+        "in-not-",
+        "con-",
+        "sist",
+        "-ent"
+      ],
+      "gloss": {
+        "en": "changing, not always the same; not agreeing",
+        "tr": "tutarsız",
+        "de": "unbeständig; widersprüchlich",
+        "fr": "irrégulier; incohérent",
+        "it": "incostante; incoerente",
+        "es": "irregular; incoherente"
+      },
+      "sentences": [
+        {
+          "en": "The team's results have been [inconsistent].",
+          "tr": "Takımın sonuçları istikrarsız oldu.",
+          "de": "Die Ergebnisse der Mannschaft waren unbeständig.",
+          "fr": "Les résultats de l'équipe ont été irréguliers.",
+          "it": "I risultati della squadra sono stati incostanti.",
+          "es": "Los resultados del equipo han sido irregulares."
+        },
+        {
+          "en": "The two reports are [inconsistent].",
+          "tr": "İki rapor birbiriyle tutarsız.",
+          "de": "Die beiden Berichte widersprechen sich.",
+          "fr": "Les deux rapports sont incohérents.",
+          "it": "I due rapporti sono incoerenti.",
+          "es": "Los dos informes son incoherentes."
+        }
+      ]
+    },
+    {
+      "id": "exist",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ex-",
+        "ist"
+      ],
+      "gloss": {
+        "en": "to be real; to be alive (from Latin exsistere, 'to stand out')",
+        "tr": "var olmak",
+        "de": "existieren, bestehen",
+        "fr": "exister",
+        "it": "esistere",
+        "es": "existir"
+      },
+      "sentences": [
+        {
+          "en": "Do you think aliens [exist]?",
+          "tr": "Sence uzaylılar var mı?",
+          "de": "Glaubst du, dass es Außerirdische gibt?",
+          "fr": "Tu penses que les extraterrestres existent ?",
+          "it": "Credi che gli alieni esistano?",
+          "es": "¿Crees que existen los extraterrestres?"
+        },
+        {
+          "en": "This shop has [existed] for a hundred years.",
+          "tr": "Bu dükkân yüz yıldır var.",
+          "de": "Diesen Laden gibt es seit hundert Jahren.",
+          "fr": "Cette boutique existe depuis cent ans.",
+          "it": "Questo negozio esiste da cento anni.",
+          "es": "Esta tienda existe desde hace cien años."
+        }
+      ]
+    },
+    {
+      "id": "existence",
+      "pos": "noun",
+      "parent": "exist",
+      "parts": [
+        "ex-",
+        "ist",
+        "-ence"
+      ],
+      "gloss": {
+        "en": "the state of being real or alive",
+        "tr": "varlık, var oluş",
+        "de": "die Existenz, das Bestehen",
+        "fr": "l'existence",
+        "it": "l'esistenza",
+        "es": "la existencia"
+      },
+      "sentences": [
+        {
+          "en": "Scientists doubt the [existence] of the monster.",
+          "tr": "Bilim insanları canavarın varlığından şüphe ediyor.",
+          "de": "Wissenschaftler bezweifeln die Existenz des Monsters.",
+          "fr": "Les scientifiques doutent de l'existence du monstre.",
+          "it": "Gli scienziati dubitano dell'esistenza del mostro.",
+          "es": "Los científicos dudan de la existencia del monstruo."
+        },
+        {
+          "en": "The club has been in [existence] since 1920.",
+          "tr": "Kulüp 1920'den beri var.",
+          "de": "Den Verein gibt es seit 1920.",
+          "fr": "Le club existe depuis 1920.",
+          "it": "Il club esiste dal 1920.",
+          "es": "El club existe desde 1920."
+        }
+      ]
+    },
+    {
+      "id": "stable",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "st",
+        "-able"
+      ],
+      "gloss": {
+        "en": "firm, not likely to change or fall (literally: able to stand)",
+        "tr": "sabit, dengeli, istikrarlı",
+        "de": "stabil, fest",
+        "fr": "stable",
+        "it": "stabile",
+        "es": "estable"
+      },
+      "sentences": [
+        {
+          "en": "Make sure the ladder is [stable].",
+          "tr": "Merdivenin sağlam durduğundan emin ol.",
+          "de": "Sorg dafür, dass die Leiter stabil steht.",
+          "fr": "Vérifie que l'échelle est stable.",
+          "it": "Assicurati che la scala sia stabile.",
+          "es": "Asegúrate de que la escalera esté estable."
+        },
+        {
+          "en": "The patient's condition is [stable].",
+          "tr": "Hastanın durumu stabil.",
+          "de": "Der Zustand des Patienten ist stabil.",
+          "fr": "L'état du patient est stable.",
+          "it": "Le condizioni del paziente sono stabili.",
+          "es": "El estado del paciente es estable."
+        }
+      ]
+    },
+    {
+      "id": "static",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "stat",
+        "-ic"
+      ],
+      "gloss": {
+        "en": "not moving or changing (from Greek statikos, 'causing to stand', a relative of the Latin root)",
+        "tr": "durağan, sabit; statik",
+        "de": "statisch, unbewegt",
+        "fr": "statique",
+        "it": "statico",
+        "es": "estático"
+      },
+      "sentences": [
+        {
+          "en": "Prices have stayed [static] this year.",
+          "tr": "Fiyatlar bu yıl sabit kaldı.",
+          "de": "Die Preise sind dieses Jahr gleich geblieben.",
+          "fr": "Les prix sont restés stables cette année.",
+          "it": "I prezzi sono rimasti stabili quest'anno.",
+          "es": "Los precios se han mantenido estables este año."
+        },
+        {
+          "en": "Rubbing a balloon creates [static] electricity.",
+          "tr": "Balonu ovmak statik elektrik oluşturur.",
+          "de": "Wenn man einen Ballon reibt, entsteht statische Elektrizität.",
+          "fr": "Frotter un ballon crée de l'électricité statique.",
+          "it": "Strofinare un palloncino crea elettricità statica.",
+          "es": "Frotar un globo genera electricidad estática."
+        }
+      ]
+    },
+    {
+      "id": "status",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "stat",
+        "-us"
+      ],
+      "gloss": {
+        "en": "position or rank; the current state of something (literally: a standing)",
+        "tr": "statü, konum; durum",
+        "de": "der Status, das Ansehen; der Stand",
+        "fr": "le statut; l'état",
+        "it": "lo status; lo stato",
+        "es": "el estatus; el estado"
+      },
+      "sentences": [
+        {
+          "en": "Check the [status] of your order online.",
+          "tr": "Siparişinin durumunu internetten kontrol et.",
+          "de": "Prüf den Status deiner Bestellung online.",
+          "fr": "Vérifie l'état de ta commande en ligne.",
+          "it": "Controlla lo stato del tuo ordine online.",
+          "es": "Comprueba el estado de tu pedido en línea."
+        },
+        {
+          "en": "In some cultures, teachers have high [status].",
+          "tr": "Bazı kültürlerde öğretmenlerin statüsü yüksektir.",
+          "de": "In manchen Kulturen genießen Lehrer hohes Ansehen.",
+          "fr": "Dans certaines cultures, les enseignants ont un statut élevé.",
+          "it": "In alcune culture gli insegnanti hanno uno status elevato.",
+          "es": "En algunas culturas, los profesores tienen un estatus alto."
+        }
+      ]
+    },
+    {
+      "id": "station",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "stat",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a place where trains or buses stop; a building for a service (literally: a standing place)",
+        "tr": "istasyon; karakol, merkez",
+        "de": "der Bahnhof; die Station, die Wache",
+        "fr": "la gare; la station, le poste",
+        "it": "la stazione",
+        "es": "la estación"
+      },
+      "sentences": [
+        {
+          "en": "Meet me at the [station] at six.",
+          "tr": "Benimle altıda istasyonda buluş.",
+          "de": "Triff mich um sechs am Bahnhof.",
+          "fr": "Retrouve-moi à la gare à six heures.",
+          "it": "Vediamoci alla stazione alle sei.",
+          "es": "Quedamos en la estación a las seis."
+        },
+        {
+          "en": "The nearest police [station] is on Main Street.",
+          "tr": "En yakın karakol ana caddede.",
+          "de": "Die nächste Polizeiwache ist in der Hauptstraße.",
+          "fr": "Le commissariat le plus proche est dans la rue principale.",
+          "it": "La stazione di polizia più vicina è in via principale.",
+          "es": "La comisaría más cercana está en la calle principal."
+        }
+      ]
+    },
+    {
+      "id": "stationary",
+      "pos": "adjective",
+      "parent": "station",
+      "parts": [
+        "stat",
+        "-ion",
+        "-ary"
+      ],
+      "gloss": {
+        "en": "not moving",
+        "tr": "duran, hareketsiz",
+        "de": "stehend, unbewegt",
+        "fr": "à l'arrêt, immobile",
+        "it": "fermo, immobile",
+        "es": "parado, inmóvil"
+      },
+      "sentences": [
+        {
+          "en": "The car hit a [stationary] bus.",
+          "tr": "Araba duran bir otobüse çarptı.",
+          "de": "Das Auto fuhr auf einen stehenden Bus auf.",
+          "fr": "La voiture a percuté un bus à l'arrêt.",
+          "it": "L'auto ha urtato un autobus fermo.",
+          "es": "El coche chocó contra un autobús parado."
+        },
+        {
+          "en": "I exercise on a [stationary] bike in winter.",
+          "tr": "Kışın kondisyon bisikletinde egzersiz yapıyorum.",
+          "de": "Im Winter trainiere ich auf dem Heimtrainer.",
+          "fr": "En hiver, je fais du vélo d'appartement.",
+          "it": "D'inverno mi alleno sulla cyclette.",
+          "es": "En invierno hago ejercicio en una bici estática."
+        }
+      ]
+    },
+    {
+      "id": "distant",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "di-",
+        "stant"
+      ],
+      "gloss": {
+        "en": "far away; not friendly (literally: standing apart)",
+        "tr": "uzak; mesafeli",
+        "de": "fern, entfernt; distanziert",
+        "fr": "lointain; distant",
+        "it": "lontano; distaccato",
+        "es": "lejano; distante"
+      },
+      "sentences": [
+        {
+          "en": "We heard [distant] thunder.",
+          "tr": "Uzaktan gök gürültüsü duyduk.",
+          "de": "Wir hörten fernen Donner.",
+          "fr": "Nous avons entendu le tonnerre au loin.",
+          "it": "Abbiamo sentito un tuono lontano.",
+          "es": "Oímos truenos lejanos."
+        },
+        {
+          "en": "He has been cold and [distant] lately.",
+          "tr": "Son zamanlarda soğuk ve mesafeli.",
+          "de": "Er war in letzter Zeit kühl und distanziert.",
+          "fr": "Il est froid et distant ces temps-ci.",
+          "it": "Ultimamente è freddo e distaccato.",
+          "es": "Últimamente está frío y distante."
+        }
+      ]
+    },
+    {
+      "id": "distance",
+      "pos": "noun",
+      "parent": "distant",
+      "parts": [
+        "di-",
+        "st",
+        "-ance"
+      ],
+      "gloss": {
+        "en": "the amount of space between two places",
+        "tr": "mesafe, uzaklık",
+        "de": "die Entfernung, die Distanz",
+        "fr": "la distance",
+        "it": "la distanza",
+        "es": "la distancia"
+      },
+      "sentences": [
+        {
+          "en": "What's the [distance] from here to the coast?",
+          "tr": "Buradan kıyıya mesafe ne kadar?",
+          "de": "Wie groß ist die Entfernung von hier bis zur Küste?",
+          "fr": "Quelle est la distance d'ici à la côte ?",
+          "it": "Qual è la distanza da qui alla costa?",
+          "es": "¿Qué distancia hay de aquí a la costa?"
+        },
+        {
+          "en": "Keep your [distance] from wild animals.",
+          "tr": "Vahşi hayvanlarla aranda mesafe bırak.",
+          "de": "Halte Abstand zu wilden Tieren.",
+          "fr": "Garde tes distances avec les animaux sauvages.",
+          "it": "Mantieni la distanza dagli animali selvatici.",
+          "es": "Mantén la distancia con los animales salvajes."
+        }
+      ]
+    },
+    {
+      "id": "instant",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "in-",
+        "stant"
+      ],
+      "gloss": {
+        "en": "happening at once; ready in a moment (literally: standing near, present)",
+        "tr": "anında; hazır",
+        "de": "sofortig; Instant-",
+        "fr": "instantané; immédiat",
+        "it": "istantaneo; immediato",
+        "es": "instantáneo; inmediato"
+      },
+      "sentences": [
+        {
+          "en": "The film was an [instant] success.",
+          "tr": "Film anında başarı kazandı.",
+          "de": "Der Film war ein sofortiger Erfolg.",
+          "fr": "Le film a connu un succès immédiat.",
+          "it": "Il film è stato un successo immediato.",
+          "es": "La película fue un éxito instantáneo."
+        },
+        {
+          "en": "I only have [instant] coffee.",
+          "tr": "Sadece hazır kahvem var.",
+          "de": "Ich habe nur löslichen Kaffee.",
+          "fr": "Je n'ai que du café instantané.",
+          "it": "Ho solo caffè solubile.",
+          "es": "Solo tengo café instantáneo."
+        }
+      ]
+    },
+    {
+      "id": "constant",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "con-",
+        "stant"
+      ],
+      "gloss": {
+        "en": "happening all the time; not changing (literally: standing together, firm)",
+        "tr": "sürekli; sabit",
+        "de": "ständig; konstant",
+        "fr": "constant, permanent",
+        "it": "costante, continuo",
+        "es": "constante, continuo"
+      },
+      "sentences": [
+        {
+          "en": "The [constant] noise kept me awake.",
+          "tr": "Sürekli gürültü beni uyutmadı.",
+          "de": "Der ständige Lärm hielt mich wach.",
+          "fr": "Le bruit constant m'a empêché de dormir.",
+          "it": "Il rumore continuo mi ha tenuto sveglio.",
+          "es": "El ruido constante no me dejó dormir."
+        },
+        {
+          "en": "Drive at a [constant] speed.",
+          "tr": "Sabit bir hızla sür.",
+          "de": "Fahr mit konstanter Geschwindigkeit.",
+          "fr": "Roule à vitesse constante.",
+          "it": "Guida a velocità costante.",
+          "es": "Conduce a una velocidad constante."
+        }
+      ]
+    },
+    {
+      "id": "obstacle",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "ob-",
+        "sta",
+        "-cle"
+      ],
+      "gloss": {
+        "en": "something that blocks your way (literally: something that stands against)",
+        "tr": "engel",
+        "de": "das Hindernis",
+        "fr": "l'obstacle",
+        "it": "l'ostacolo",
+        "es": "el obstáculo"
+      },
+      "sentences": [
+        {
+          "en": "The horse jumped over every [obstacle].",
+          "tr": "At her engelin üzerinden atladı.",
+          "de": "Das Pferd sprang über jedes Hindernis.",
+          "fr": "Le cheval a sauté tous les obstacles.",
+          "it": "Il cavallo ha saltato ogni ostacolo.",
+          "es": "El caballo saltó todos los obstáculos."
+        },
+        {
+          "en": "Money is the biggest [obstacle] to our plan.",
+          "tr": "Para planımızın önündeki en büyük engel.",
+          "de": "Geld ist das größte Hindernis für unseren Plan.",
+          "fr": "L'argent est le plus grand obstacle à notre projet.",
+          "it": "Il denaro è il più grande ostacolo al nostro piano.",
+          "es": "El dinero es el mayor obstáculo para nuestro plan."
+        }
+      ]
+    },
+    {
+      "id": "circumstance",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "circum-",
+        "st",
+        "-ance"
+      ],
+      "gloss": {
+        "en": "a fact or condition that affects a situation (literally: something standing around)",
+        "tr": "durum, koşul",
+        "de": "der Umstand",
+        "fr": "la circonstance",
+        "it": "la circostanza",
+        "es": "la circunstancia"
+      },
+      "sentences": [
+        {
+          "en": "Under no [circumstances] should you open this door.",
+          "tr": "Bu kapıyı hiçbir koşulda açmamalısın.",
+          "de": "Unter keinen Umständen darfst du diese Tür öffnen.",
+          "fr": "Tu ne dois en aucun cas ouvrir cette porte.",
+          "it": "In nessuna circostanza devi aprire questa porta.",
+          "es": "Bajo ninguna circunstancia debes abrir esta puerta."
+        },
+        {
+          "en": "Given the [circumstances], you did very well.",
+          "tr": "Koşullar düşünülünce çok iyi iş çıkardın.",
+          "de": "Unter diesen Umständen hast du das sehr gut gemacht.",
+          "fr": "Vu les circonstances, tu t'en es très bien sorti.",
+          "it": "Date le circostanze, te la sei cavata molto bene.",
+          "es": "Dadas las circunstancias, lo hiciste muy bien."
+        }
+      ]
+    },
+    {
+      "id": "substance",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "sub-",
+        "st",
+        "-ance"
+      ],
+      "gloss": {
+        "en": "a material of a particular kind; the main, important part (literally: what stands under)",
+        "tr": "madde; öz",
+        "de": "der Stoff, die Substanz; der Kern",
+        "fr": "la substance; le fond",
+        "it": "la sostanza",
+        "es": "la sustancia"
+      },
+      "sentences": [
+        {
+          "en": "Water is the most common [substance] on Earth.",
+          "tr": "Su yeryüzündeki en yaygın maddedir.",
+          "de": "Wasser ist der häufigste Stoff auf der Erde.",
+          "fr": "L'eau est la substance la plus répandue sur Terre.",
+          "it": "L'acqua è la sostanza più comune sulla Terra.",
+          "es": "El agua es la sustancia más común de la Tierra."
+        },
+        {
+          "en": "The speech was long but had little [substance].",
+          "tr": "Konuşma uzundu ama pek içeriği yoktu.",
+          "de": "Die Rede war lang, hatte aber wenig Substanz.",
+          "fr": "Le discours était long mais manquait de fond.",
+          "it": "Il discorso era lungo ma con poca sostanza.",
+          "es": "El discurso fue largo pero con poca sustancia."
+        }
+      ]
+    }
+  ]
+}

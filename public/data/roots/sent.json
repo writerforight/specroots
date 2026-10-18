@@ -1,0 +1,729 @@
+{
+  "id": "sent",
+  "forms": [
+    "sent",
+    "sens",
+    "sense"
+  ],
+  "origin": "la",
+  "etymon": "sentire",
+  "meaning": {
+    "en": "to feel, to perceive",
+    "tr": "hissetmek, algılamak",
+    "de": "fühlen, wahrnehmen",
+    "fr": "sentir, percevoir",
+    "it": "sentire, percepire",
+    "es": "sentir, percibir"
+  },
+  "words": [
+    {
+      "id": "sense",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "sense"
+      ],
+      "gloss": {
+        "en": "one of sight, hearing, smell, taste and touch; a meaning; good judgement",
+        "tr": "duyu; anlam; sağduyu",
+        "de": "der Sinn; die Bedeutung; der Verstand",
+        "fr": "le sens; le bon sens",
+        "it": "il senso; il buon senso",
+        "es": "el sentido; el sentido común"
+      },
+      "sentences": [
+        {
+          "en": "Dogs have a great [sense] of smell.",
+          "tr": "Köpeklerin koku alma duyusu çok güçlüdür.",
+          "de": "Hunde haben einen hervorragenden Geruchssinn.",
+          "fr": "Les chiens ont un excellent odorat.",
+          "it": "I cani hanno un ottimo senso dell'olfatto.",
+          "es": "Los perros tienen un gran sentido del olfato."
+        },
+        {
+          "en": "Your plan makes [sense].",
+          "tr": "Planın mantıklı.",
+          "de": "Dein Plan ergibt Sinn.",
+          "fr": "Ton plan a du sens.",
+          "it": "Il tuo piano ha senso.",
+          "es": "Tu plan tiene sentido."
+        }
+      ]
+    },
+    {
+      "id": "senseless",
+      "pos": "adjective",
+      "parent": "sense",
+      "parts": [
+        "sense",
+        "-less"
+      ],
+      "gloss": {
+        "en": "without meaning or reason",
+        "tr": "anlamsız, boş yere",
+        "de": "sinnlos",
+        "fr": "insensé, absurde",
+        "it": "insensato, assurdo",
+        "es": "sin sentido, absurdo"
+      },
+      "sentences": [
+        {
+          "en": "It was a [senseless] act of violence.",
+          "tr": "Anlamsız bir şiddet eylemiydi.",
+          "de": "Es war ein sinnloser Gewaltakt.",
+          "fr": "C'était un acte de violence insensé.",
+          "it": "È stato un atto di violenza insensato.",
+          "es": "Fue un acto de violencia sin sentido."
+        },
+        {
+          "en": "Arguing about it is [senseless].",
+          "tr": "Bunun hakkında tartışmak anlamsız.",
+          "de": "Darüber zu streiten ist sinnlos.",
+          "fr": "Se disputer à ce sujet est absurde.",
+          "it": "Litigare su questo è assurdo.",
+          "es": "Discutir por eso no tiene sentido."
+        }
+      ]
+    },
+    {
+      "id": "nonsense",
+      "pos": "noun",
+      "parent": "sense",
+      "parts": [
+        "non-",
+        "sense"
+      ],
+      "gloss": {
+        "en": "words or ideas that have no meaning or are silly",
+        "tr": "saçmalık",
+        "de": "der Unsinn",
+        "fr": "les bêtises, l'absurdité",
+        "it": "le sciocchezze, l'assurdità",
+        "es": "las tonterías, el disparate"
+      },
+      "sentences": [
+        {
+          "en": "Stop talking [nonsense].",
+          "tr": "Saçmalamayı bırak.",
+          "de": "Hör auf, Unsinn zu reden.",
+          "fr": "Arrête de dire des bêtises.",
+          "it": "Smettila di dire sciocchezze.",
+          "es": "Deja de decir tonterías."
+        },
+        {
+          "en": "The idea that cats hate people is [nonsense].",
+          "tr": "Kedilerin insanlardan nefret ettiği fikri saçmalık.",
+          "de": "Die Idee, dass Katzen Menschen hassen, ist Unsinn.",
+          "fr": "L'idée que les chats détestent les gens est absurde.",
+          "it": "L'idea che i gatti odino le persone è un'assurdità.",
+          "es": "La idea de que los gatos odian a la gente es un disparate."
+        }
+      ]
+    },
+    {
+      "id": "sensible",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "sens",
+        "-ible"
+      ],
+      "gloss": {
+        "en": "showing good judgement; practical",
+        "tr": "mantıklı, akıllıca",
+        "de": "vernünftig",
+        "fr": "raisonnable, sensé",
+        "it": "sensato, ragionevole",
+        "es": "sensato"
+      },
+      "sentences": [
+        {
+          "en": "That's a [sensible] idea.",
+          "tr": "Bu mantıklı bir fikir.",
+          "de": "Das ist eine vernünftige Idee.",
+          "fr": "C'est une idée raisonnable.",
+          "it": "È un'idea sensata.",
+          "es": "Es una idea sensata."
+        },
+        {
+          "en": "Wear [sensible] shoes for the hike.",
+          "tr": "Yürüyüş için rahat ve uygun ayakkabı giy.",
+          "de": "Zieh für die Wanderung vernünftige Schuhe an.",
+          "fr": "Mets des chaussures adaptées pour la randonnée.",
+          "it": "Metti scarpe adatte per l'escursione.",
+          "es": "Ponte un calzado adecuado para la excursión."
+        }
+      ]
+    },
+    {
+      "id": "sensitive",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "sens",
+        "-it",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "easily hurt or affected; quick to notice others' feelings",
+        "tr": "hassas, duyarlı",
+        "de": "empfindlich; einfühlsam",
+        "fr": "sensible",
+        "it": "sensibile",
+        "es": "sensible"
+      },
+      "sentences": [
+        {
+          "en": "My teeth are [sensitive] to cold drinks.",
+          "tr": "Dişlerim soğuk içeceklere karşı hassas.",
+          "de": "Meine Zähne sind empfindlich gegen kalte Getränke.",
+          "fr": "Mes dents sont sensibles aux boissons froides.",
+          "it": "I miei denti sono sensibili alle bevande fredde.",
+          "es": "Mis dientes son sensibles a las bebidas frías."
+        },
+        {
+          "en": "She is [sensitive] to other people's feelings.",
+          "tr": "Başkalarının duygularına karşı duyarlı.",
+          "de": "Sie ist einfühlsam gegenüber den Gefühlen anderer.",
+          "fr": "Elle est sensible aux sentiments des autres.",
+          "it": "È sensibile ai sentimenti degli altri.",
+          "es": "Es sensible a los sentimientos de los demás."
+        }
+      ]
+    },
+    {
+      "id": "insensitive",
+      "pos": "adjective",
+      "parent": "sensitive",
+      "parts": [
+        "in-not-",
+        "sens",
+        "-it",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "not noticing or caring about others' feelings",
+        "tr": "duyarsız",
+        "de": "taktlos, unsensibel",
+        "fr": "insensible, maladroit",
+        "it": "insensibile, indelicato",
+        "es": "insensible, poco delicado"
+      },
+      "sentences": [
+        {
+          "en": "That joke was very [insensitive].",
+          "tr": "O şaka çok duyarsızdı.",
+          "de": "Dieser Witz war sehr taktlos.",
+          "fr": "Cette blague était vraiment maladroite.",
+          "it": "Quella battuta è stata molto indelicata.",
+          "es": "Ese chiste fue muy poco delicado."
+        },
+        {
+          "en": "Some medicines make the skin [insensitive] to pain.",
+          "tr": "Bazı ilaçlar cildi acıya duyarsız hâle getirir.",
+          "de": "Manche Medikamente machen die Haut schmerzunempfindlich.",
+          "fr": "Certains médicaments rendent la peau insensible à la douleur.",
+          "it": "Alcuni farmaci rendono la pelle insensibile al dolore.",
+          "es": "Algunos medicamentos hacen la piel insensible al dolor."
+        }
+      ]
+    },
+    {
+      "id": "sensitivity",
+      "pos": "noun",
+      "parent": "sensitive",
+      "parts": [
+        "sens",
+        "-it",
+        "-iv",
+        "-ity"
+      ],
+      "gloss": {
+        "en": "being sensitive; how strongly something reacts",
+        "tr": "hassasiyet, duyarlılık",
+        "de": "die Empfindlichkeit; das Feingefühl",
+        "fr": "la sensibilité",
+        "it": "la sensibilità",
+        "es": "la sensibilidad"
+      },
+      "sentences": [
+        {
+          "en": "Handle the topic with [sensitivity].",
+          "tr": "Konuyu hassasiyetle ele al.",
+          "de": "Geh mit Feingefühl an das Thema heran.",
+          "fr": "Aborde le sujet avec délicatesse.",
+          "it": "Affronta l'argomento con sensibilità.",
+          "es": "Trata el tema con sensibilidad."
+        },
+        {
+          "en": "Turn up the mouse [sensitivity] in the settings.",
+          "tr": "Ayarlardan fare hassasiyetini artır.",
+          "de": "Erhöhe in den Einstellungen die Mausempfindlichkeit.",
+          "fr": "Augmente la sensibilité de la souris dans les réglages.",
+          "it": "Aumenta la sensibilità del mouse nelle impostazioni.",
+          "es": "Sube la sensibilidad del ratón en los ajustes."
+        }
+      ]
+    },
+    {
+      "id": "sensor",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "sens",
+        "-or"
+      ],
+      "gloss": {
+        "en": "a device that notices light, heat, movement and so on (literally: a feeler)",
+        "tr": "sensör, algılayıcı",
+        "de": "der Sensor",
+        "fr": "le capteur",
+        "it": "il sensore",
+        "es": "el sensor"
+      },
+      "sentences": [
+        {
+          "en": "The light turns on when the [sensor] detects movement.",
+          "tr": "Sensör hareket algılayınca ışık yanıyor.",
+          "de": "Das Licht geht an, wenn der Sensor eine Bewegung erkennt.",
+          "fr": "La lumière s'allume quand le capteur détecte un mouvement.",
+          "it": "La luce si accende quando il sensore rileva un movimento.",
+          "es": "La luz se enciende cuando el sensor detecta movimiento."
+        },
+        {
+          "en": "The drone has a height [sensor].",
+          "tr": "Dronun bir yükseklik sensörü var.",
+          "de": "Die Drohne hat einen Höhensensor.",
+          "fr": "Le drone a un capteur d'altitude.",
+          "it": "Il drone ha un sensore di altitudine.",
+          "es": "El dron tiene un sensor de altura."
+        }
+      ]
+    },
+    {
+      "id": "sensory",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "sens",
+        "-ory"
+      ],
+      "gloss": {
+        "en": "related to the senses",
+        "tr": "duyusal",
+        "de": "sensorisch, Sinnes-",
+        "fr": "sensoriel",
+        "it": "sensoriale",
+        "es": "sensorial"
+      },
+      "sentences": [
+        {
+          "en": "Babies learn through [sensory] experiences.",
+          "tr": "Bebekler duyusal deneyimlerle öğrenir.",
+          "de": "Babys lernen durch Sinneserfahrungen.",
+          "fr": "Les bébés apprennent par des expériences sensorielles.",
+          "it": "I neonati imparano attraverso esperienze sensoriali.",
+          "es": "Los bebés aprenden mediante experiencias sensoriales."
+        },
+        {
+          "en": "Loud places can cause [sensory] overload.",
+          "tr": "Gürültülü yerler duyusal aşırı yüklenmeye yol açabilir.",
+          "de": "Laute Orte können zu Reizüberflutung führen.",
+          "fr": "Les lieux bruyants peuvent provoquer une surcharge sensorielle.",
+          "it": "I luoghi rumorosi possono causare un sovraccarico sensoriale.",
+          "es": "Los lugares ruidosos pueden provocar una sobrecarga sensorial."
+        }
+      ]
+    },
+    {
+      "id": "extrasensory",
+      "pos": "adjective",
+      "parent": "sensory",
+      "parts": [
+        "extra-",
+        "sens",
+        "-ory"
+      ],
+      "gloss": {
+        "en": "beyond the normal five senses",
+        "tr": "duyu ötesi",
+        "de": "übersinnlich",
+        "fr": "extrasensoriel",
+        "it": "extrasensoriale",
+        "es": "extrasensorial"
+      },
+      "sentences": [
+        {
+          "en": "He claims to have [extrasensory] powers.",
+          "tr": "Duyu ötesi güçleri olduğunu iddia ediyor.",
+          "de": "Er behauptet, übersinnliche Kräfte zu haben.",
+          "fr": "Il prétend avoir des pouvoirs extrasensoriels.",
+          "it": "Sostiene di avere poteri extrasensoriali.",
+          "es": "Afirma tener poderes extrasensoriales."
+        },
+        {
+          "en": "Science has found no proof of [extrasensory] perception.",
+          "tr": "Bilim duyu ötesi algıya dair hiçbir kanıt bulamadı.",
+          "de": "Die Wissenschaft hat keinen Beweis für außersinnliche Wahrnehmung gefunden.",
+          "fr": "La science n'a trouvé aucune preuve de la perception extrasensorielle.",
+          "it": "La scienza non ha trovato prove della percezione extrasensoriale.",
+          "es": "La ciencia no ha hallado pruebas de la percepción extrasensorial."
+        }
+      ]
+    },
+    {
+      "id": "sensation",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "sens",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "a physical feeling; great excitement",
+        "tr": "his; sansasyon",
+        "de": "das Gefühl, die Empfindung; die Sensation",
+        "fr": "la sensation",
+        "it": "la sensazione; il clamore",
+        "es": "la sensación"
+      },
+      "sentences": [
+        {
+          "en": "I have a burning [sensation] in my throat.",
+          "tr": "Boğazımda yanma hissi var.",
+          "de": "Ich habe ein brennendes Gefühl im Hals.",
+          "fr": "J'ai une sensation de brûlure dans la gorge.",
+          "it": "Ho una sensazione di bruciore in gola.",
+          "es": "Tengo una sensación de ardor en la garganta."
+        },
+        {
+          "en": "The young singer became an overnight [sensation].",
+          "tr": "Genç şarkıcı bir gecede sansasyon oldu.",
+          "de": "Die junge Sängerin wurde über Nacht zur Sensation.",
+          "fr": "La jeune chanteuse est devenue une sensation du jour au lendemain.",
+          "it": "La giovane cantante è diventata un fenomeno dalla sera alla mattina.",
+          "es": "La joven cantante se convirtió de la noche a la mañana en una sensación."
+        }
+      ]
+    },
+    {
+      "id": "sensational",
+      "pos": "adjective",
+      "parent": "sensation",
+      "parts": [
+        "sens",
+        "-ation",
+        "-al"
+      ],
+      "gloss": {
+        "en": "very exciting or very good; trying to shock",
+        "tr": "sansasyonel; muhteşem",
+        "de": "sensationell; reißerisch",
+        "fr": "sensationnel; à sensation",
+        "it": "sensazionale",
+        "es": "sensacional; sensacionalista"
+      },
+      "sentences": [
+        {
+          "en": "The food at this restaurant is [sensational].",
+          "tr": "Bu restoranın yemekleri muhteşem.",
+          "de": "Das Essen in diesem Restaurant ist sensationell.",
+          "fr": "La cuisine de ce restaurant est sensationnelle.",
+          "it": "Il cibo di questo ristorante è sensazionale.",
+          "es": "La comida de este restaurante es sensacional."
+        },
+        {
+          "en": "Don't trust [sensational] headlines.",
+          "tr": "Sansasyonel başlıklara güvenme.",
+          "de": "Trau keinen reißerischen Schlagzeilen.",
+          "fr": "Ne te fie pas aux titres à sensation.",
+          "it": "Non fidarti dei titoli sensazionalistici.",
+          "es": "No te fíes de los titulares sensacionalistas."
+        }
+      ]
+    },
+    {
+      "id": "sentence",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "sent",
+        "-ence"
+      ],
+      "gloss": {
+        "en": "a group of words with a complete meaning; a punishment from a judge (from Latin sententia, 'opinion, feeling')",
+        "tr": "cümle; ceza, hüküm",
+        "de": "der Satz; die Strafe",
+        "fr": "la phrase; la peine",
+        "it": "la frase; la condanna",
+        "es": "la frase, la oración; la condena"
+      },
+      "sentences": [
+        {
+          "en": "Write a [sentence] with each new word.",
+          "tr": "Her yeni kelimeyle bir cümle yaz.",
+          "de": "Schreib mit jedem neuen Wort einen Satz.",
+          "fr": "Écris une phrase avec chaque nouveau mot.",
+          "it": "Scrivi una frase con ogni parola nuova.",
+          "es": "Escribe una frase con cada palabra nueva."
+        },
+        {
+          "en": "The judge gave him a two-year [sentence].",
+          "tr": "Yargıç ona iki yıl hapis cezası verdi.",
+          "de": "Der Richter verurteilte ihn zu zwei Jahren.",
+          "fr": "Le juge l'a condamné à deux ans de prison.",
+          "it": "Il giudice gli ha dato una condanna di due anni.",
+          "es": "El juez le impuso una condena de dos años."
+        }
+      ]
+    },
+    {
+      "id": "sentiment",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "sent",
+        "-iment"
+      ],
+      "gloss": {
+        "en": "a feeling or opinion",
+        "tr": "duygu, düşünce",
+        "de": "das Gefühl, die Stimmung",
+        "fr": "le sentiment, l'opinion",
+        "it": "il sentimento, l'opinione",
+        "es": "el sentimiento, la opinión"
+      },
+      "sentences": [
+        {
+          "en": "I share your [sentiment] completely.",
+          "tr": "Duygularına tamamen katılıyorum.",
+          "de": "Ich teile dein Gefühl voll und ganz.",
+          "fr": "Je partage entièrement ton sentiment.",
+          "it": "Condivido completamente il tuo sentimento.",
+          "es": "Comparto totalmente tu opinión."
+        },
+        {
+          "en": "Public [sentiment] turned against the plan.",
+          "tr": "Kamuoyu plana karşı döndü.",
+          "de": "Die öffentliche Stimmung wandte sich gegen den Plan.",
+          "fr": "L'opinion publique s'est retournée contre le projet.",
+          "it": "Il sentimento pubblico si è rivoltato contro il piano.",
+          "es": "La opinión pública se volvió contra el plan."
+        }
+      ]
+    },
+    {
+      "id": "sentimental",
+      "pos": "adjective",
+      "parent": "sentiment",
+      "parts": [
+        "sent",
+        "-iment",
+        "-al"
+      ],
+      "gloss": {
+        "en": "feeling strong, soft emotions, often about the past",
+        "tr": "duygusal, duygusallık katan",
+        "de": "sentimental",
+        "fr": "sentimental",
+        "it": "sentimentale",
+        "es": "sentimental"
+      },
+      "sentences": [
+        {
+          "en": "The ring has [sentimental] value for me.",
+          "tr": "Yüzüğün benim için manevi değeri var.",
+          "de": "Der Ring hat für mich einen ideellen Wert.",
+          "fr": "La bague a une valeur sentimentale pour moi.",
+          "it": "L'anello ha per me un valore affettivo.",
+          "es": "El anillo tiene un valor sentimental para mí."
+        },
+        {
+          "en": "He gets [sentimental] when he hears old songs.",
+          "tr": "Eski şarkıları duyunca duygusallaşıyor.",
+          "de": "Er wird sentimental, wenn er alte Lieder hört.",
+          "fr": "Il devient sentimental quand il entend de vieilles chansons.",
+          "it": "Diventa sentimentale quando sente vecchie canzoni.",
+          "es": "Se pone sentimental cuando oye canciones antiguas."
+        }
+      ]
+    },
+    {
+      "id": "consent",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "con-",
+        "sent"
+      ],
+      "gloss": {
+        "en": "permission or agreement (literally: feeling together)",
+        "tr": "rıza, onay",
+        "de": "die Zustimmung, die Einwilligung",
+        "fr": "le consentement",
+        "it": "il consenso",
+        "es": "el consentimiento"
+      },
+      "sentences": [
+        {
+          "en": "You need your parents' [consent] for the trip.",
+          "tr": "Gezi için ailenin onayına ihtiyacın var.",
+          "de": "Für die Reise brauchst du die Zustimmung deiner Eltern.",
+          "fr": "Il te faut le consentement de tes parents pour le voyage.",
+          "it": "Per la gita serve il consenso dei genitori.",
+          "es": "Necesitas el consentimiento de tus padres para el viaje."
+        },
+        {
+          "en": "Never share photos of others without their [consent].",
+          "tr": "Başkalarının fotoğraflarını izinleri olmadan asla paylaşma.",
+          "de": "Teile niemals Fotos von anderen ohne ihre Einwilligung.",
+          "fr": "Ne partage jamais des photos des autres sans leur consentement.",
+          "it": "Non condividere mai foto di altri senza il loro consenso.",
+          "es": "Nunca compartas fotos de otros sin su consentimiento."
+        }
+      ]
+    },
+    {
+      "id": "consensus",
+      "pos": "noun",
+      "parent": "consent",
+      "parts": [
+        "con-",
+        "sens",
+        "-us"
+      ],
+      "gloss": {
+        "en": "agreement among most people in a group",
+        "tr": "fikir birliği, uzlaşı",
+        "de": "der Konsens",
+        "fr": "le consensus",
+        "it": "il consenso, l'accordo",
+        "es": "el consenso"
+      },
+      "sentences": [
+        {
+          "en": "After long talks, we reached a [consensus].",
+          "tr": "Uzun görüşmelerden sonra fikir birliğine vardık.",
+          "de": "Nach langen Gesprächen fanden wir einen Konsens.",
+          "fr": "Après de longues discussions, nous sommes parvenus à un consensus.",
+          "it": "Dopo lunghe discussioni abbiamo raggiunto un accordo.",
+          "es": "Tras largas conversaciones, llegamos a un consenso."
+        },
+        {
+          "en": "There is a scientific [consensus] on climate change.",
+          "tr": "İklim değişikliği konusunda bilimsel bir uzlaşı var.",
+          "de": "Beim Klimawandel gibt es einen wissenschaftlichen Konsens.",
+          "fr": "Il existe un consensus scientifique sur le changement climatique.",
+          "it": "C'è un consenso scientifico sul cambiamento climatico.",
+          "es": "Existe un consenso científico sobre el cambio climático."
+        }
+      ]
+    },
+    {
+      "id": "resent",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "re-",
+        "sent"
+      ],
+      "gloss": {
+        "en": "to feel angry about something unfair (literally: to feel back, strongly)",
+        "tr": "içerlemek, kırılmak",
+        "de": "übelnehmen, sich ärgern über",
+        "fr": "en vouloir, mal prendre",
+        "it": "risentirsi per, mal sopportare",
+        "es": "resentirse por, tomar a mal"
+      },
+      "sentences": [
+        {
+          "en": "He [resents] having to work every weekend.",
+          "tr": "Her hafta sonu çalışmak zorunda olmaya içerliyor.",
+          "de": "Er ärgert sich darüber, jedes Wochenende arbeiten zu müssen.",
+          "fr": "Il n'apprécie pas de devoir travailler tous les week-ends.",
+          "it": "Mal sopporta di dover lavorare ogni fine settimana.",
+          "es": "Le molesta tener que trabajar todos los fines de semana."
+        },
+        {
+          "en": "I [resent] being treated like a child.",
+          "tr": "Bana çocuk gibi davranılmasına kırılıyorum.",
+          "de": "Ich nehme es übel, wie ein Kind behandelt zu werden.",
+          "fr": "Je n'aime pas qu'on me traite comme un enfant.",
+          "it": "Non sopporto di essere trattato come un bambino.",
+          "es": "Me molesta que me traten como a un niño."
+        }
+      ]
+    },
+    {
+      "id": "resentment",
+      "pos": "noun",
+      "parent": "resent",
+      "parts": [
+        "re-",
+        "sent",
+        "-ment"
+      ],
+      "gloss": {
+        "en": "a feeling of anger about unfair treatment",
+        "tr": "kırgınlık, içerleme",
+        "de": "der Groll, der Unmut",
+        "fr": "le ressentiment, la rancœur",
+        "it": "il risentimento",
+        "es": "el resentimiento"
+      },
+      "sentences": [
+        {
+          "en": "There is a lot of [resentment] about the new rules.",
+          "tr": "Yeni kurallar konusunda büyük bir kırgınlık var.",
+          "de": "Es gibt viel Unmut über die neuen Regeln.",
+          "fr": "Les nouvelles règles suscitent beaucoup de ressentiment.",
+          "it": "C'è molto risentimento per le nuove regole.",
+          "es": "Hay mucho resentimiento por las nuevas normas."
+        },
+        {
+          "en": "Don't let [resentment] grow; talk about it.",
+          "tr": "Kırgınlığın büyümesine izin verme; konuş.",
+          "de": "Lass keinen Groll wachsen; sprich darüber.",
+          "fr": "Ne laisse pas la rancœur grandir, parles-en.",
+          "it": "Non lasciare crescere il risentimento: parlane.",
+          "es": "No dejes que crezca el resentimiento; háblalo."
+        }
+      ]
+    },
+    {
+      "id": "dissent",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "dis-",
+        "sent"
+      ],
+      "gloss": {
+        "en": "disagreement with an official idea (literally: feeling apart)",
+        "tr": "muhalefet, karşı görüş",
+        "de": "der Widerspruch, die abweichende Meinung",
+        "fr": "la dissidence, le désaccord",
+        "it": "il dissenso",
+        "es": "la disidencia, el desacuerdo"
+      },
+      "sentences": [
+        {
+          "en": "The government does not allow [dissent].",
+          "tr": "Hükümet karşı görüşe izin vermiyor.",
+          "de": "Die Regierung duldet keinen Widerspruch.",
+          "fr": "Le gouvernement ne tolère pas la dissidence.",
+          "it": "Il governo non tollera il dissenso.",
+          "es": "El gobierno no tolera la disidencia."
+        },
+        {
+          "en": "There was some [dissent] within the team.",
+          "tr": "Ekip içinde bazı görüş ayrılıkları vardı.",
+          "de": "Im Team gab es einige abweichende Meinungen.",
+          "fr": "Il y avait un certain désaccord au sein de l'équipe.",
+          "it": "C'era un po' di dissenso all'interno della squadra.",
+          "es": "Hubo cierto desacuerdo dentro del equipo."
+        }
+      ]
+    }
+  ]
+}

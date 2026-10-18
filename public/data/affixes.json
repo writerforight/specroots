@@ -1464,5 +1464,83 @@
       "it": "che tende a (-ive davanti a un altro suffisso)",
       "es": "que tiende a (-ive ante otro sufijo)"
     }
+  },
+  "ir-not-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "not (in- before r)",
+      "tr": "değil (r önünde in-)",
+      "de": "nicht (in- vor r)",
+      "fr": "non (in- devant r)",
+      "it": "non (in- davanti a r)",
+      "es": "no (in- ante r)"
+    },
+    "form": "ir"
+  },
+  "extra-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "outside, beyond",
+      "tr": "dışında, ötesinde",
+      "de": "außerhalb, über … hinaus",
+      "fr": "hors de, au-delà",
+      "it": "fuori, oltre",
+      "es": "fuera de, más allá"
+    }
+  },
+  "as-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "to, toward (ad- before s)",
+      "tr": "-e doğru (s önünde ad-)",
+      "de": "hin zu (ad- vor s)",
+      "fr": "vers (ad- devant s)",
+      "it": "verso (ad- davanti a s)",
+      "es": "hacia (ad- ante s)"
+    }
+  },
+  "-us": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "thing, state (Latin noun ending)",
+      "tr": "şey, durum (Latince isim eki)",
+      "de": "Ding, Zustand (lateinische Nomenendung)",
+      "fr": "chose, état (terminaison latine)",
+      "it": "cosa, stato (desinenza latina)",
+      "es": "cosa, estado (terminación latina)"
+    }
+  },
+  "-iment": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "result or state of (makes a noun)",
+      "tr": "sonucu, durumu (isim yapar)",
+      "de": "Ergebnis, Zustand (bildet ein Nomen)",
+      "fr": "résultat, état (forme un nom)",
+      "it": "risultato, stato (forma un nome)",
+      "es": "resultado, estado (forma un sustantivo)"
+    }
+  },
+  "-ic": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "relating to (makes an adjective)",
+      "tr": "ile ilgili (sıfat yapar)",
+      "de": "bezogen auf (bildet ein Adjektiv)",
+      "fr": "relatif à (-ique)",
+      "it": "relativo a (-ico)",
+      "es": "relativo a (-ico)"
+    }
+  },
+  "-cle": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "thing, means (makes a noun)",
+      "tr": "şey, araç (isim yapar)",
+      "de": "Ding, Mittel (bildet ein Nomen)",
+      "fr": "chose, moyen (forme un nom)",
+      "it": "cosa, mezzo (forma un nome)",
+      "es": "cosa, medio (forma un sustantivo)"
+    }
   }
 }

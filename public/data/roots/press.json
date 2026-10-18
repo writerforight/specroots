@@ -1,0 +1,729 @@
+{
+  "id": "press",
+  "forms": [
+    "press"
+  ],
+  "origin": "la",
+  "etymon": "premere, pressus",
+  "meaning": {
+    "en": "to press, to push",
+    "tr": "bastırmak, sıkmak",
+    "de": "drücken, pressen",
+    "fr": "presser, appuyer",
+    "it": "premere",
+    "es": "presionar, apretar"
+  },
+  "words": [
+    {
+      "id": "press",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "press"
+      ],
+      "gloss": {
+        "en": "to push firmly on something",
+        "tr": "basmak, bastırmak",
+        "de": "drücken",
+        "fr": "appuyer sur",
+        "it": "premere",
+        "es": "pulsar, apretar"
+      },
+      "sentences": [
+        {
+          "en": "[Press] the green button to start.",
+          "tr": "Başlamak için yeşil düğmeye bas.",
+          "de": "Drück zum Starten den grünen Knopf.",
+          "fr": "Appuie sur le bouton vert pour démarrer.",
+          "it": "Premi il pulsante verde per iniziare.",
+          "es": "Pulsa el botón verde para empezar."
+        },
+        {
+          "en": "She [pressed] her face against the window.",
+          "tr": "Yüzünü cama dayadı.",
+          "de": "Sie drückte ihr Gesicht an die Scheibe.",
+          "fr": "Elle a collé son visage contre la vitre.",
+          "it": "Ha premuto il viso contro il vetro.",
+          "es": "Apretó la cara contra la ventana."
+        }
+      ]
+    },
+    {
+      "id": "pressure",
+      "pos": "noun",
+      "parent": "press",
+      "parts": [
+        "press",
+        "-ure"
+      ],
+      "gloss": {
+        "en": "force pushing on something; a feeling that you must do something",
+        "tr": "basınç; baskı",
+        "de": "der Druck",
+        "fr": "la pression",
+        "it": "la pressione",
+        "es": "la presión"
+      },
+      "sentences": [
+        {
+          "en": "Check the tyre [pressure] before the trip.",
+          "tr": "Yolculuktan önce lastik basıncını kontrol et.",
+          "de": "Prüf vor der Fahrt den Reifendruck.",
+          "fr": "Vérifie la pression des pneus avant le voyage.",
+          "it": "Controlla la pressione delle gomme prima del viaggio.",
+          "es": "Comprueba la presión de los neumáticos antes del viaje."
+        },
+        {
+          "en": "Students feel a lot of [pressure] before exams.",
+          "tr": "Öğrenciler sınavlardan önce çok baskı hisseder.",
+          "de": "Studierende stehen vor Prüfungen unter großem Druck.",
+          "fr": "Les étudiants ressentent beaucoup de pression avant les examens.",
+          "it": "Gli studenti sentono molta pressione prima degli esami.",
+          "es": "Los estudiantes sienten mucha presión antes de los exámenes."
+        }
+      ]
+    },
+    {
+      "id": "pressing",
+      "pos": "adjective",
+      "parent": "press",
+      "parts": [
+        "press",
+        "-ing"
+      ],
+      "gloss": {
+        "en": "urgent, needing to be dealt with now",
+        "tr": "acil, ivedi",
+        "de": "dringend",
+        "fr": "pressant, urgent",
+        "it": "urgente, pressante",
+        "es": "urgente, apremiante"
+      },
+      "sentences": [
+        {
+          "en": "Climate change is a [pressing] problem.",
+          "tr": "İklim değişikliği acil bir sorun.",
+          "de": "Der Klimawandel ist ein dringendes Problem.",
+          "fr": "Le changement climatique est un problème urgent.",
+          "it": "Il cambiamento climatico è un problema urgente.",
+          "es": "El cambio climático es un problema urgente."
+        },
+        {
+          "en": "Sorry, I have a [pressing] meeting.",
+          "tr": "Üzgünüm, acil bir toplantım var.",
+          "de": "Tut mir leid, ich habe einen dringenden Termin.",
+          "fr": "Désolé, j'ai une réunion urgente.",
+          "it": "Scusa, ho una riunione urgente.",
+          "es": "Lo siento, tengo una reunión urgente."
+        }
+      ]
+    },
+    {
+      "id": "express",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ex-",
+        "press"
+      ],
+      "gloss": {
+        "en": "to show a feeling or idea in words or actions (literally: to press out)",
+        "tr": "ifade etmek",
+        "de": "ausdrücken",
+        "fr": "exprimer",
+        "it": "esprimere",
+        "es": "expresar"
+      },
+      "sentences": [
+        {
+          "en": "It's hard to [express] how grateful I am.",
+          "tr": "Ne kadar minnettar olduğumu ifade etmek zor.",
+          "de": "Es ist schwer auszudrücken, wie dankbar ich bin.",
+          "fr": "C'est difficile d'exprimer à quel point je suis reconnaissant.",
+          "it": "È difficile esprimere quanto sono grato.",
+          "es": "Es difícil expresar lo agradecido que estoy."
+        },
+        {
+          "en": "Children [express] themselves through drawing.",
+          "tr": "Çocuklar kendilerini resim yaparak ifade eder.",
+          "de": "Kinder drücken sich durch Zeichnen aus.",
+          "fr": "Les enfants s'expriment par le dessin.",
+          "it": "I bambini si esprimono attraverso il disegno.",
+          "es": "Los niños se expresan a través del dibujo."
+        }
+      ]
+    },
+    {
+      "id": "expression",
+      "pos": "noun",
+      "parent": "express",
+      "parts": [
+        "ex-",
+        "press",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a look on someone's face; a group of words with a meaning; showing feelings",
+        "tr": "ifade; deyim",
+        "de": "der Ausdruck; die Redewendung",
+        "fr": "l'expression",
+        "it": "l'espressione",
+        "es": "la expresión"
+      },
+      "sentences": [
+        {
+          "en": "I couldn't read the [expression] on his face.",
+          "tr": "Yüzündeki ifadeyi anlayamadım.",
+          "de": "Ich konnte seinen Gesichtsausdruck nicht deuten.",
+          "fr": "Je n'arrivais pas à lire l'expression de son visage.",
+          "it": "Non riuscivo a capire la sua espressione.",
+          "es": "No pude interpretar la expresión de su cara."
+        },
+        {
+          "en": "\"Break a leg\" is an English [expression].",
+          "tr": "\"Break a leg\" bir İngilizce deyimdir.",
+          "de": "„Break a leg“ ist eine englische Redewendung.",
+          "fr": "« Break a leg » est une expression anglaise.",
+          "it": "«Break a leg» è un'espressione inglese.",
+          "es": "«Break a leg» es una expresión inglesa."
+        }
+      ]
+    },
+    {
+      "id": "expressive",
+      "pos": "adjective",
+      "parent": "express",
+      "parts": [
+        "ex-",
+        "press",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "showing feelings clearly",
+        "tr": "anlamlı, etkileyici, ifadeli",
+        "de": "ausdrucksstark",
+        "fr": "expressif",
+        "it": "espressivo",
+        "es": "expresivo"
+      },
+      "sentences": [
+        {
+          "en": "She has very [expressive] eyes.",
+          "tr": "Çok anlamlı gözleri var.",
+          "de": "Sie hat sehr ausdrucksstarke Augen.",
+          "fr": "Elle a des yeux très expressifs.",
+          "it": "Ha occhi molto espressivi.",
+          "es": "Tiene unos ojos muy expresivos."
+        },
+        {
+          "en": "His playing is quiet but [expressive].",
+          "tr": "Çalışı sakin ama etkileyici.",
+          "de": "Sein Spiel ist leise, aber ausdrucksstark.",
+          "fr": "Son jeu est discret mais expressif.",
+          "it": "Il suo modo di suonare è sommesso ma espressivo.",
+          "es": "Su forma de tocar es suave pero expresiva."
+        }
+      ]
+    },
+    {
+      "id": "impress",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "im-",
+        "press"
+      ],
+      "gloss": {
+        "en": "to make someone admire you (literally: to press into, to leave a mark)",
+        "tr": "etkilemek",
+        "de": "beeindrucken",
+        "fr": "impressionner",
+        "it": "impressionare, colpire",
+        "es": "impresionar"
+      },
+      "sentences": [
+        {
+          "en": "He wanted to [impress] her with his cooking.",
+          "tr": "Yemek yapma becerisiyle onu etkilemek istedi.",
+          "de": "Er wollte sie mit seinen Kochkünsten beeindrucken.",
+          "fr": "Il voulait l'impressionner avec sa cuisine.",
+          "it": "Voleva colpirla con la sua cucina.",
+          "es": "Quería impresionarla con su forma de cocinar."
+        },
+        {
+          "en": "The judges were [impressed] by her speech.",
+          "tr": "Jüri konuşmasından etkilendi.",
+          "de": "Die Jury war von ihrer Rede beeindruckt.",
+          "fr": "Le jury a été impressionné par son discours.",
+          "it": "La giuria è rimasta colpita dal suo discorso.",
+          "es": "Al jurado le impresionó su discurso."
+        }
+      ]
+    },
+    {
+      "id": "impression",
+      "pos": "noun",
+      "parent": "impress",
+      "parts": [
+        "im-",
+        "press",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "an idea or feeling you get about someone or something",
+        "tr": "izlenim",
+        "de": "der Eindruck",
+        "fr": "l'impression",
+        "it": "l'impressione",
+        "es": "la impresión"
+      },
+      "sentences": [
+        {
+          "en": "First [impressions] are important.",
+          "tr": "İlk izlenimler önemlidir.",
+          "de": "Der erste Eindruck ist wichtig.",
+          "fr": "La première impression compte.",
+          "it": "La prima impressione è importante.",
+          "es": "La primera impresión es importante."
+        },
+        {
+          "en": "I got the [impression] that he was bored.",
+          "tr": "Sıkıldığı izlenimini edindim.",
+          "de": "Ich hatte den Eindruck, dass er sich langweilte.",
+          "fr": "J'ai eu l'impression qu'il s'ennuyait.",
+          "it": "Ho avuto l'impressione che si annoiasse.",
+          "es": "Me dio la impresión de que se aburría."
+        }
+      ]
+    },
+    {
+      "id": "impressive",
+      "pos": "adjective",
+      "parent": "impress",
+      "parts": [
+        "im-",
+        "press",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "making people admire it",
+        "tr": "etkileyici",
+        "de": "beeindruckend",
+        "fr": "impressionnant",
+        "it": "impressionante",
+        "es": "impresionante"
+      },
+      "sentences": [
+        {
+          "en": "The view from the tower is [impressive].",
+          "tr": "Kuleden manzara etkileyici.",
+          "de": "Die Aussicht vom Turm ist beeindruckend.",
+          "fr": "La vue depuis la tour est impressionnante.",
+          "it": "La vista dalla torre è impressionante.",
+          "es": "La vista desde la torre es impresionante."
+        },
+        {
+          "en": "Your progress this year is [impressive].",
+          "tr": "Bu yılki ilerlemen etkileyici.",
+          "de": "Dein Fortschritt in diesem Jahr ist beeindruckend.",
+          "fr": "Tes progrès cette année sont impressionnants.",
+          "it": "I tuoi progressi quest'anno sono impressionanti.",
+          "es": "Tu progreso este año es impresionante."
+        }
+      ]
+    },
+    {
+      "id": "unimpressed",
+      "pos": "adjective",
+      "parent": "impress",
+      "parts": [
+        "un-",
+        "im-",
+        "press",
+        "-ed"
+      ],
+      "gloss": {
+        "en": "not thinking that something is good or special",
+        "tr": "etkilenmemiş, beğenmemiş",
+        "de": "unbeeindruckt",
+        "fr": "pas impressionné",
+        "it": "per niente colpito",
+        "es": "poco impresionado"
+      },
+      "sentences": [
+        {
+          "en": "The cat looked [unimpressed] by its new toy.",
+          "tr": "Kedi yeni oyuncağından hiç etkilenmemiş görünüyordu.",
+          "de": "Die Katze wirkte von ihrem neuen Spielzeug unbeeindruckt.",
+          "fr": "Le chat n'avait pas l'air impressionné par son nouveau jouet.",
+          "it": "Il gatto non sembrava per niente colpito dal nuovo gioco.",
+          "es": "El gato parecía poco impresionado con su juguete nuevo."
+        },
+        {
+          "en": "The critics were [unimpressed] by the film.",
+          "tr": "Eleştirmenler filmi beğenmedi.",
+          "de": "Die Kritiker waren von dem Film nicht beeindruckt.",
+          "fr": "Les critiques n'ont pas été impressionnés par le film.",
+          "it": "I critici non sono rimasti colpiti dal film.",
+          "es": "A los críticos no les impresionó la película."
+        }
+      ]
+    },
+    {
+      "id": "depress",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "de-",
+        "press"
+      ],
+      "gloss": {
+        "en": "to make someone sad; to push down (literally: to press down)",
+        "tr": "moralini bozmak; aşağı bastırmak",
+        "de": "deprimieren; herunterdrücken",
+        "fr": "déprimer; enfoncer",
+        "it": "deprimere; premere",
+        "es": "deprimir; presionar"
+      },
+      "sentences": [
+        {
+          "en": "Grey winter days [depress] me.",
+          "tr": "Gri kış günleri moralimi bozuyor.",
+          "de": "Graue Wintertage deprimieren mich.",
+          "fr": "Les journées grises d'hiver me dépriment.",
+          "it": "Le giornate grigie d'inverno mi deprimono.",
+          "es": "Los días grises de invierno me deprimen."
+        },
+        {
+          "en": "[Depress] the pedal slowly.",
+          "tr": "Pedala yavaşça bas.",
+          "de": "Drück das Pedal langsam herunter.",
+          "fr": "Enfonce lentement la pédale.",
+          "it": "Premi lentamente il pedale.",
+          "es": "Pisa el pedal despacio."
+        }
+      ]
+    },
+    {
+      "id": "depressed",
+      "pos": "adjective",
+      "parent": "depress",
+      "parts": [
+        "de-",
+        "press",
+        "-ed"
+      ],
+      "gloss": {
+        "en": "very sad for a long time",
+        "tr": "depresyonda, çok mutsuz",
+        "de": "deprimiert, niedergeschlagen",
+        "fr": "déprimé",
+        "it": "depresso",
+        "es": "deprimido"
+      },
+      "sentences": [
+        {
+          "en": "He felt [depressed] after losing his job.",
+          "tr": "İşini kaybettikten sonra depresyona girdi.",
+          "de": "Nach dem Verlust seiner Arbeit fühlte er sich deprimiert.",
+          "fr": "Il s'est senti déprimé après avoir perdu son emploi.",
+          "it": "Si è sentito depresso dopo aver perso il lavoro.",
+          "es": "Se sintió deprimido tras perder el trabajo."
+        },
+        {
+          "en": "Talk to someone if you feel [depressed].",
+          "tr": "Kendini çok mutsuz hissedersen biriyle konuş.",
+          "de": "Sprich mit jemandem, wenn du dich niedergeschlagen fühlst.",
+          "fr": "Parle à quelqu'un si tu te sens déprimé.",
+          "it": "Parla con qualcuno se ti senti depresso.",
+          "es": "Habla con alguien si te sientes deprimido."
+        }
+      ]
+    },
+    {
+      "id": "depression",
+      "pos": "noun",
+      "parent": "depress",
+      "parts": [
+        "de-",
+        "press",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a medical condition of deep sadness; a time when the economy is very weak",
+        "tr": "depresyon; ekonomik buhran",
+        "de": "die Depression; die Wirtschaftskrise",
+        "fr": "la dépression; la crise",
+        "it": "la depressione; la crisi",
+        "es": "la depresión; la crisis"
+      },
+      "sentences": [
+        {
+          "en": "[Depression] is an illness, not a weakness.",
+          "tr": "Depresyon bir zayıflık değil, bir hastalıktır.",
+          "de": "Depression ist eine Krankheit, keine Schwäche.",
+          "fr": "La dépression est une maladie, pas une faiblesse.",
+          "it": "La depressione è una malattia, non una debolezza.",
+          "es": "La depresión es una enfermedad, no una debilidad."
+        },
+        {
+          "en": "Many people lost everything in the Great [Depression].",
+          "tr": "Büyük Buhran'da birçok kişi her şeyini kaybetti.",
+          "de": "In der Weltwirtschaftskrise verloren viele Menschen alles.",
+          "fr": "Beaucoup de gens ont tout perdu pendant la Grande Dépression.",
+          "it": "Molte persone hanno perso tutto durante la Grande Depressione.",
+          "es": "Mucha gente lo perdió todo en la Gran Depresión."
+        }
+      ]
+    },
+    {
+      "id": "oppress",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "op-",
+        "press"
+      ],
+      "gloss": {
+        "en": "to treat people in a cruel and unfair way (literally: to press against)",
+        "tr": "ezmek, baskı altında tutmak",
+        "de": "unterdrücken",
+        "fr": "opprimer",
+        "it": "opprimere",
+        "es": "oprimir"
+      },
+      "sentences": [
+        {
+          "en": "The king [oppressed] the poor.",
+          "tr": "Kral yoksulları ezdi.",
+          "de": "Der König unterdrückte die Armen.",
+          "fr": "Le roi opprimait les pauvres.",
+          "it": "Il re opprimeva i poveri.",
+          "es": "El rey oprimía a los pobres."
+        },
+        {
+          "en": "No group should be [oppressed] because of its language.",
+          "tr": "Hiçbir grup dili yüzünden baskı görmemeli.",
+          "de": "Keine Gruppe sollte wegen ihrer Sprache unterdrückt werden.",
+          "fr": "Aucun groupe ne devrait être opprimé à cause de sa langue.",
+          "it": "Nessun gruppo dovrebbe essere oppresso per la sua lingua.",
+          "es": "Ningún grupo debería ser oprimido por su lengua."
+        }
+      ]
+    },
+    {
+      "id": "oppression",
+      "pos": "noun",
+      "parent": "oppress",
+      "parts": [
+        "op-",
+        "press",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "cruel and unfair treatment of people",
+        "tr": "baskı, zulüm",
+        "de": "die Unterdrückung",
+        "fr": "l'oppression",
+        "it": "l'oppressione",
+        "es": "la opresión"
+      },
+      "sentences": [
+        {
+          "en": "They fought against [oppression] for years.",
+          "tr": "Yıllarca baskıya karşı mücadele ettiler.",
+          "de": "Sie kämpften jahrelang gegen Unterdrückung.",
+          "fr": "Ils ont lutté pendant des années contre l'oppression.",
+          "it": "Hanno lottato per anni contro l'oppressione.",
+          "es": "Lucharon durante años contra la opresión."
+        },
+        {
+          "en": "The book describes life under [oppression].",
+          "tr": "Kitap baskı altındaki hayatı anlatıyor.",
+          "de": "Das Buch beschreibt das Leben unter Unterdrückung.",
+          "fr": "Le livre décrit la vie sous l'oppression.",
+          "it": "Il libro descrive la vita sotto l'oppressione.",
+          "es": "El libro describe la vida bajo la opresión."
+        }
+      ]
+    },
+    {
+      "id": "suppress",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "sup-",
+        "press"
+      ],
+      "gloss": {
+        "en": "to stop something from being seen, heard or growing (literally: to press under)",
+        "tr": "bastırmak, tutmak",
+        "de": "unterdrücken",
+        "fr": "réprimer, étouffer",
+        "it": "reprimere, soffocare",
+        "es": "reprimir, contener"
+      },
+      "sentences": [
+        {
+          "en": "She [suppressed] a laugh during the speech.",
+          "tr": "Konuşma sırasında gülmemek için kendini tuttu.",
+          "de": "Sie unterdrückte während der Rede ein Lachen.",
+          "fr": "Elle a réprimé un rire pendant le discours.",
+          "it": "Ha trattenuto una risata durante il discorso.",
+          "es": "Contuvo la risa durante el discurso."
+        },
+        {
+          "en": "This medicine [suppresses] a cough.",
+          "tr": "Bu ilaç öksürüğü kesiyor.",
+          "de": "Dieses Medikament unterdrückt den Husten.",
+          "fr": "Ce médicament calme la toux.",
+          "it": "Questo farmaco blocca la tosse.",
+          "es": "Este medicamento calma la tos."
+        }
+      ]
+    },
+    {
+      "id": "compress",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "com-",
+        "press"
+      ],
+      "gloss": {
+        "en": "to press something into a smaller space (literally: to press together)",
+        "tr": "sıkıştırmak",
+        "de": "komprimieren, zusammendrücken",
+        "fr": "compresser",
+        "it": "comprimere",
+        "es": "comprimir"
+      },
+      "sentences": [
+        {
+          "en": "[Compress] the files before you send them.",
+          "tr": "Dosyaları göndermeden önce sıkıştır.",
+          "de": "Komprimiere die Dateien, bevor du sie schickst.",
+          "fr": "Compresse les fichiers avant de les envoyer.",
+          "it": "Comprimi i file prima di inviarli.",
+          "es": "Comprime los archivos antes de enviarlos."
+        },
+        {
+          "en": "The air is [compressed] inside the tank.",
+          "tr": "Hava tankın içinde sıkıştırılmış durumda.",
+          "de": "Die Luft ist im Tank komprimiert.",
+          "fr": "L'air est comprimé dans le réservoir.",
+          "it": "L'aria è compressa nel serbatoio.",
+          "es": "El aire está comprimido dentro del depósito."
+        }
+      ]
+    },
+    {
+      "id": "compression",
+      "pos": "noun",
+      "parent": "compress",
+      "parts": [
+        "com-",
+        "press",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "pressing something into a smaller space",
+        "tr": "sıkıştırma",
+        "de": "die Kompression",
+        "fr": "la compression",
+        "it": "la compressione",
+        "es": "la compresión"
+      },
+      "sentences": [
+        {
+          "en": "Video [compression] makes files much smaller.",
+          "tr": "Video sıkıştırma dosyaları çok küçültür.",
+          "de": "Videokompression macht Dateien viel kleiner.",
+          "fr": "La compression vidéo rend les fichiers beaucoup plus petits.",
+          "it": "La compressione video rende i file molto più piccoli.",
+          "es": "La compresión de vídeo hace los archivos mucho más pequeños."
+        },
+        {
+          "en": "Athletes wear [compression] socks after a race.",
+          "tr": "Sporcular yarıştan sonra kompresyon çorabı giyer.",
+          "de": "Sportler tragen nach dem Rennen Kompressionsstrümpfe.",
+          "fr": "Les sportifs portent des chaussettes de compression après la course.",
+          "it": "Gli atleti indossano calze a compressione dopo la gara.",
+          "es": "Los atletas usan calcetines de compresión después de la carrera."
+        }
+      ]
+    },
+    {
+      "id": "repress",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "re-",
+        "press"
+      ],
+      "gloss": {
+        "en": "to hold back feelings or memories; to control people by force (literally: to press back)",
+        "tr": "bastırmak, içine atmak",
+        "de": "verdrängen; unterdrücken",
+        "fr": "refouler; réprimer",
+        "it": "rimuovere; reprimere",
+        "es": "reprimir"
+      },
+      "sentences": [
+        {
+          "en": "He [repressed] his anger and smiled.",
+          "tr": "Öfkesini bastırıp gülümsedi.",
+          "de": "Er unterdrückte seine Wut und lächelte.",
+          "fr": "Il a refoulé sa colère et a souri.",
+          "it": "Ha represso la rabbia e ha sorriso.",
+          "es": "Reprimió su enfado y sonrió."
+        },
+        {
+          "en": "The army [repressed] the protests.",
+          "tr": "Ordu protestoları bastırdı.",
+          "de": "Die Armee unterdrückte die Proteste.",
+          "fr": "L'armée a réprimé les manifestations.",
+          "it": "L'esercito ha represso le proteste.",
+          "es": "El ejército reprimió las protestas."
+        }
+      ]
+    },
+    {
+      "id": "irrepressible",
+      "pos": "adjective",
+      "parent": "repress",
+      "parts": [
+        "ir-not-",
+        "re-",
+        "press",
+        "-ible"
+      ],
+      "gloss": {
+        "en": "too full of energy or joy to be held back",
+        "tr": "zapt edilemez, coşkulu",
+        "de": "unbändig, nicht zu bremsen",
+        "fr": "irrépressible, débordant",
+        "it": "irrefrenabile",
+        "es": "irreprimible, incontenible"
+      },
+      "sentences": [
+        {
+          "en": "She has an [irrepressible] sense of humour.",
+          "tr": "Zapt edilemez bir mizah anlayışı var.",
+          "de": "Sie hat einen unbändigen Humor.",
+          "fr": "Elle a un sens de l'humour débordant.",
+          "it": "Ha un senso dell'umorismo irrefrenabile.",
+          "es": "Tiene un sentido del humor incontenible."
+        },
+        {
+          "en": "The children's joy was [irrepressible].",
+          "tr": "Çocukların sevinci zapt edilemezdi.",
+          "de": "Die Freude der Kinder war nicht zu bremsen.",
+          "fr": "La joie des enfants était irrépressible.",
+          "it": "La gioia dei bambini era irrefrenabile.",
+          "es": "La alegría de los niños era incontenible."
+        }
+      ]
+    }
+  ]
+}
