@@ -44,7 +44,7 @@ yanına `(az: N)` yaz. Toplam hedef ≈ 1000–2000 kelime.
 - Aynı test iki turdur düzelmiyorsa ya da push reddediliyorsa döngüyü durdur ve nedenini yaz.
 
 ## Durum
-Kök: 5 / 50 (genişletme 3/5) · Kelime: 87
+Kök: 6 / 50 (genişletme 5/5 bitti) · Kelime: 137
 
 ## Kuyruk
 
@@ -52,11 +52,11 @@ Kök: 5 / 50 (genişletme 3/5) · Kelime: 87
 - [x] spec — 29 (expect, suspect, prospect, special, species, specimen, spectacle, spectrum, aspect, retrospect, conspicuous…)
 - [x] port — 20 (support, deport, opportunity, passport, porter, portfolio, airport, purport…)
 - [x] dict — 25 (dictator, verdict, indicate, addict, edict, diction, contradiction, jurisdiction…)
-- [ ] duc (conduct, deduce, induce, reduce, seduce, abduct, aqueduct, educator, producer, productive…)
-- [ ] scrib (prescribe, inscribe, transcribe, scribble, scripture, transcript, postscript, describable…)
+- [x] duc — 30 (conduct, deduce, induce, reduce, seduce, abduct, aqueduct, educator, producer, productive…)
+- [x] scrib — 24 (prescribe, inscribe, transcribe, scribble, scripture, transcript, postscript, describable…)
 
 ### Yeni (Latince)
-- [ ] aud — duymak
+- [x] aud — duymak — 9 (az: 9)
 - [ ] vid / vis — görmek
 - [ ] ject — atmak
 - [ ] mit / miss — göndermek

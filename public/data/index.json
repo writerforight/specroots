@@ -1,5 +1,31 @@
 [
   {
+    "id": "aud",
+    "forms": [
+      "aud"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to hear",
+      "tr": "duymak, işitmek",
+      "de": "hören",
+      "fr": "entendre",
+      "it": "udire, sentire",
+      "es": "oír"
+    },
+    "words": [
+      "audience",
+      "audible",
+      "inaudible",
+      "audit",
+      "auditor",
+      "audition",
+      "auditorium",
+      "auditory",
+      "audio"
+    ]
+  },
+  {
     "id": "dict",
     "forms": [
       "dict",
@@ -65,7 +91,30 @@
       "introduce",
       "introduction",
       "educate",
-      "education"
+      "education",
+      "conduct",
+      "conductor",
+      "deduce",
+      "deduct",
+      "deduction",
+      "induce",
+      "induction",
+      "reduce",
+      "reduction",
+      "abduct",
+      "abduction",
+      "aqueduct",
+      "viaduct",
+      "duct",
+      "educator",
+      "educational",
+      "producer",
+      "productive",
+      "unproductive",
+      "reproduce",
+      "reproduction",
+      "introductory",
+      "seduce"
     ]
   },
   {
@@ -127,7 +176,25 @@
       "subscribe",
       "subscription",
       "script",
-      "manuscript"
+      "manuscript",
+      "prescribe",
+      "prescription",
+      "inscribe",
+      "inscription",
+      "transcribe",
+      "transcript",
+      "transcription",
+      "scribble",
+      "scripture",
+      "postscript",
+      "descriptive",
+      "conscript",
+      "conscription",
+      "scribe",
+      "nondescript",
+      "subscriber",
+      "ascribe",
+      "indescribable"
     ]
   },
   {

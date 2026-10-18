@@ -1,64 +1,1088 @@
 {
   "id": "duc",
-  "forms": ["duc", "duce", "duct"],
+  "forms": [
+    "duc",
+    "duce",
+    "duct"
+  ],
   "origin": "la",
   "etymon": "ducere",
-  "meaning": { "en": "to lead", "tr": "yönlendirmek, götürmek", "de": "führen", "fr": "conduire, mener", "it": "condurre, guidare", "es": "conducir, guiar" },
+  "meaning": {
+    "en": "to lead",
+    "tr": "yönlendirmek, götürmek",
+    "de": "führen",
+    "fr": "conduire, mener",
+    "it": "condurre, guidare",
+    "es": "conducir, guiar"
+  },
   "words": [
     {
-      "id": "produce", "pos": "verb", "parent": null, "parts": ["pro-", "duce"],
-      "gloss": { "en": "to make or create (literally: to lead forward)", "tr": "üretmek", "de": "produzieren, herstellen", "fr": "produire", "it": "produrre", "es": "producir" },
+      "id": "produce",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "pro-",
+        "duce"
+      ],
+      "gloss": {
+        "en": "to make or create (literally: to lead forward)",
+        "tr": "üretmek",
+        "de": "produzieren, herstellen",
+        "fr": "produire",
+        "it": "produrre",
+        "es": "producir"
+      },
       "sentences": [
-        { "en": "This farm [produces] milk and cheese.", "tr": "Bu çiftlik süt ve peynir üretir.", "de": "Dieser Hof produziert Milch und Käse.", "fr": "Cette ferme produit du lait et du fromage.", "it": "Questa fattoria produce latte e formaggio.", "es": "Esta granja produce leche y queso." },
-        { "en": "Solar panels [produce] electricity from light.", "tr": "Güneş panelleri ışıktan elektrik üretir.", "de": "Solarmodule erzeugen Strom aus Licht.", "fr": "Les panneaux solaires produisent de l'électricité à partir de la lumière.", "it": "I pannelli solari producono elettricità dalla luce.", "es": "Los paneles solares producen electricidad a partir de la luz." }
+        {
+          "en": "This farm [produces] milk and cheese.",
+          "tr": "Bu çiftlik süt ve peynir üretir.",
+          "de": "Dieser Hof produziert Milch und Käse.",
+          "fr": "Cette ferme produit du lait et du fromage.",
+          "it": "Questa fattoria produce latte e formaggio.",
+          "es": "Esta granja produce leche y queso."
+        },
+        {
+          "en": "Solar panels [produce] electricity from light.",
+          "tr": "Güneş panelleri ışıktan elektrik üretir.",
+          "de": "Solarmodule erzeugen Strom aus Licht.",
+          "fr": "Les panneaux solaires produisent de l'électricité à partir de la lumière.",
+          "it": "I pannelli solari producono elettricità dalla luce.",
+          "es": "Los paneles solares producen electricidad a partir de la luz."
+        }
       ]
     },
     {
-      "id": "product", "pos": "noun", "parent": "produce", "parts": ["pro-", "duct"],
-      "gloss": { "en": "something that is made", "tr": "ürün", "de": "das Produkt", "fr": "le produit", "it": "il prodotto", "es": "el producto" },
+      "id": "product",
+      "pos": "noun",
+      "parent": "produce",
+      "parts": [
+        "pro-",
+        "duct"
+      ],
+      "gloss": {
+        "en": "something that is made",
+        "tr": "ürün",
+        "de": "das Produkt",
+        "fr": "le produit",
+        "it": "il prodotto",
+        "es": "el producto"
+      },
       "sentences": [
-        { "en": "Their new [product] sold out in a day.", "tr": "Yeni ürünleri bir günde tükendi.", "de": "Ihr neues Produkt war an einem Tag ausverkauft.", "fr": "Leur nouveau produit a été épuisé en un jour.", "it": "Il loro nuovo prodotto è andato esaurito in un giorno.", "es": "Su nuevo producto se agotó en un día." },
-        { "en": "Read the label before you use the [product].", "tr": "Ürünü kullanmadan önce etiketi oku.", "de": "Lies das Etikett, bevor du das Produkt benutzt.", "fr": "Lis l'étiquette avant d'utiliser le produit.", "it": "Leggi l'etichetta prima di usare il prodotto.", "es": "Lee la etiqueta antes de usar el producto." }
+        {
+          "en": "Their new [product] sold out in a day.",
+          "tr": "Yeni ürünleri bir günde tükendi.",
+          "de": "Ihr neues Produkt war an einem Tag ausverkauft.",
+          "fr": "Leur nouveau produit a été épuisé en un jour.",
+          "it": "Il loro nuovo prodotto è andato esaurito in un giorno.",
+          "es": "Su nuevo producto se agotó en un día."
+        },
+        {
+          "en": "Read the label before you use the [product].",
+          "tr": "Ürünü kullanmadan önce etiketi oku.",
+          "de": "Lies das Etikett, bevor du das Produkt benutzt.",
+          "fr": "Lis l'étiquette avant d'utiliser le produit.",
+          "it": "Leggi l'etichetta prima di usare il prodotto.",
+          "es": "Lee la etiqueta antes de usar el producto."
+        }
       ]
     },
     {
-      "id": "production", "pos": "noun", "parent": "produce", "parts": ["pro-", "duct", "-ion"],
-      "gloss": { "en": "the act of making things", "tr": "üretim", "de": "die Produktion, die Herstellung", "fr": "la production", "it": "la produzione", "es": "la producción" },
+      "id": "production",
+      "pos": "noun",
+      "parent": "produce",
+      "parts": [
+        "pro-",
+        "duct",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "the act of making things",
+        "tr": "üretim",
+        "de": "die Produktion, die Herstellung",
+        "fr": "la production",
+        "it": "la produzione",
+        "es": "la producción"
+      },
       "sentences": [
-        { "en": "Car [production] fell last year.", "tr": "Geçen yıl otomobil üretimi düştü.", "de": "Die Autoproduktion ist letztes Jahr gesunken.", "fr": "La production automobile a baissé l'an dernier.", "it": "La produzione di auto è calata l'anno scorso.", "es": "La producción de coches cayó el año pasado." },
-        { "en": "The school [production] of the play was a success.", "tr": "Okulun sahnelediği oyun büyük başarıydı.", "de": "Die Schulaufführung des Stücks war ein Erfolg.", "fr": "La mise en scène de la pièce par l'école a été un succès.", "it": "La messa in scena della scuola è stata un successo.", "es": "El montaje de la obra en el colegio fue un éxito." }
+        {
+          "en": "Car [production] fell last year.",
+          "tr": "Geçen yıl otomobil üretimi düştü.",
+          "de": "Die Autoproduktion ist letztes Jahr gesunken.",
+          "fr": "La production automobile a baissé l'an dernier.",
+          "it": "La produzione di auto è calata l'anno scorso.",
+          "es": "La producción de coches cayó el año pasado."
+        },
+        {
+          "en": "The school [production] of the play was a success.",
+          "tr": "Okulun sahnelediği oyun büyük başarıydı.",
+          "de": "Die Schulaufführung des Stücks war ein Erfolg.",
+          "fr": "La mise en scène de la pièce par l'école a été un succès.",
+          "it": "La messa in scena della scuola è stata un successo.",
+          "es": "El montaje de la obra en el colegio fue un éxito."
+        }
       ]
     },
     {
-      "id": "introduce", "pos": "verb", "parent": null, "parts": ["intro-", "duce"],
-      "gloss": { "en": "to present someone or something new (literally: to lead in)", "tr": "tanıştırmak, tanıtmak", "de": "vorstellen, einführen", "fr": "présenter, introduire", "it": "presentare, introdurre", "es": "presentar, introducir" },
+      "id": "introduce",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "intro-",
+        "duce"
+      ],
+      "gloss": {
+        "en": "to present someone or something new (literally: to lead in)",
+        "tr": "tanıştırmak, tanıtmak",
+        "de": "vorstellen, einführen",
+        "fr": "présenter, introduire",
+        "it": "presentare, introdurre",
+        "es": "presentar, introducir"
+      },
       "sentences": [
-        { "en": "Let me [introduce] you to my sister.", "tr": "Seni kız kardeşimle tanıştırayım.", "de": "Darf ich dir meine Schwester vorstellen?", "fr": "Laisse-moi te présenter ma sœur.", "it": "Lascia che ti presenti mia sorella.", "es": "Déjame presentarte a mi hermana." },
-        { "en": "The city [introduced] a new bus line.", "tr": "Şehir yeni bir otobüs hattı başlattı.", "de": "Die Stadt hat eine neue Buslinie eingeführt.", "fr": "La ville a mis en place une nouvelle ligne de bus.", "it": "La città ha introdotto una nuova linea di autobus.", "es": "La ciudad introdujo una nueva línea de autobús." }
+        {
+          "en": "Let me [introduce] you to my sister.",
+          "tr": "Seni kız kardeşimle tanıştırayım.",
+          "de": "Darf ich dir meine Schwester vorstellen?",
+          "fr": "Laisse-moi te présenter ma sœur.",
+          "it": "Lascia che ti presenti mia sorella.",
+          "es": "Déjame presentarte a mi hermana."
+        },
+        {
+          "en": "The city [introduced] a new bus line.",
+          "tr": "Şehir yeni bir otobüs hattı başlattı.",
+          "de": "Die Stadt hat eine neue Buslinie eingeführt.",
+          "fr": "La ville a mis en place une nouvelle ligne de bus.",
+          "it": "La città ha introdotto una nuova linea di autobus.",
+          "es": "La ciudad introdujo una nueva línea de autobús."
+        }
       ]
     },
     {
-      "id": "introduction", "pos": "noun", "parent": "introduce", "parts": ["intro-", "duct", "-ion"],
-      "gloss": { "en": "the first part of a text or talk; the act of introducing", "tr": "giriş; tanıştırma", "de": "die Einleitung; die Vorstellung", "fr": "l'introduction; la présentation", "it": "l'introduzione; la presentazione", "es": "la introducción; la presentación" },
+      "id": "introduction",
+      "pos": "noun",
+      "parent": "introduce",
+      "parts": [
+        "intro-",
+        "duct",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "the first part of a text or talk; the act of introducing",
+        "tr": "giriş; tanıştırma",
+        "de": "die Einleitung; die Vorstellung",
+        "fr": "l'introduction; la présentation",
+        "it": "l'introduzione; la presentazione",
+        "es": "la introducción; la presentación"
+      },
       "sentences": [
-        { "en": "Write a short [introduction] for your essay.", "tr": "Kompozisyonun için kısa bir giriş yaz.", "de": "Schreib eine kurze Einleitung für deinen Aufsatz.", "fr": "Écris une courte introduction pour ta rédaction.", "it": "Scrivi una breve introduzione per il tuo tema.", "es": "Escribe una introducción breve para tu redacción." },
-        { "en": "After a quick [introduction], the meeting began.", "tr": "Kısa bir tanışmadan sonra toplantı başladı.", "de": "Nach einer kurzen Vorstellung begann das Treffen.", "fr": "Après une brève présentation, la réunion a commencé.", "it": "Dopo una breve presentazione, la riunione è iniziata.", "es": "Tras una breve presentación, empezó la reunión." }
+        {
+          "en": "Write a short [introduction] for your essay.",
+          "tr": "Kompozisyonun için kısa bir giriş yaz.",
+          "de": "Schreib eine kurze Einleitung für deinen Aufsatz.",
+          "fr": "Écris une courte introduction pour ta rédaction.",
+          "it": "Scrivi una breve introduzione per il tuo tema.",
+          "es": "Escribe una introducción breve para tu redacción."
+        },
+        {
+          "en": "After a quick [introduction], the meeting began.",
+          "tr": "Kısa bir tanışmadan sonra toplantı başladı.",
+          "de": "Nach einer kurzen Vorstellung begann das Treffen.",
+          "fr": "Après une brève présentation, la réunion a commencé.",
+          "it": "Dopo una breve presentazione, la riunione è iniziata.",
+          "es": "Tras una breve presentación, empezó la reunión."
+        }
       ]
     },
     {
-      "id": "educate", "pos": "verb", "parent": null, "parts": ["e-", "duc", "-ate"],
-      "gloss": { "en": "to teach (literally: to lead out)", "tr": "eğitmek", "de": "erziehen, ausbilden", "fr": "éduquer, instruire", "it": "educare, istruire", "es": "educar" },
+      "id": "educate",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "e-",
+        "duc",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "to teach (literally: to lead out)",
+        "tr": "eğitmek",
+        "de": "erziehen, ausbilden",
+        "fr": "éduquer, instruire",
+        "it": "educare, istruire",
+        "es": "educar"
+      },
       "sentences": [
-        { "en": "Good schools [educate] the whole child.", "tr": "İyi okullar çocuğu her yönüyle eğitir.", "de": "Gute Schulen bilden das ganze Kind.", "fr": "Les bonnes écoles éduquent l'enfant dans sa globalité.", "it": "Le buone scuole educano il bambino nella sua interezza.", "es": "Las buenas escuelas educan al niño en su totalidad." },
-        { "en": "The campaign [educates] people about recycling.", "tr": "Kampanya insanları geri dönüşüm konusunda bilgilendiriyor.", "de": "Die Kampagne klärt die Menschen über Recycling auf.", "fr": "La campagne sensibilise les gens au recyclage.", "it": "La campagna informa le persone sul riciclo.", "es": "La campaña educa a la gente sobre el reciclaje." }
+        {
+          "en": "Good schools [educate] the whole child.",
+          "tr": "İyi okullar çocuğu her yönüyle eğitir.",
+          "de": "Gute Schulen bilden das ganze Kind.",
+          "fr": "Les bonnes écoles éduquent l'enfant dans sa globalité.",
+          "it": "Le buone scuole educano il bambino nella sua interezza.",
+          "es": "Las buenas escuelas educan al niño en su totalidad."
+        },
+        {
+          "en": "The campaign [educates] people about recycling.",
+          "tr": "Kampanya insanları geri dönüşüm konusunda bilgilendiriyor.",
+          "de": "Die Kampagne klärt die Menschen über Recycling auf.",
+          "fr": "La campagne sensibilise les gens au recyclage.",
+          "it": "La campagna informa le persone sul riciclo.",
+          "es": "La campaña educa a la gente sobre el reciclaje."
+        }
       ]
     },
     {
-      "id": "education", "pos": "noun", "parent": "educate", "parts": ["e-", "duc", "-ation"],
-      "gloss": { "en": "the process of teaching and learning", "tr": "eğitim", "de": "die Bildung, die Ausbildung", "fr": "l'éducation, l'enseignement", "it": "l'istruzione, l'educazione", "es": "la educación" },
+      "id": "education",
+      "pos": "noun",
+      "parent": "educate",
+      "parts": [
+        "e-",
+        "duc",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "the process of teaching and learning",
+        "tr": "eğitim",
+        "de": "die Bildung, die Ausbildung",
+        "fr": "l'éducation, l'enseignement",
+        "it": "l'istruzione, l'educazione",
+        "es": "la educación"
+      },
       "sentences": [
-        { "en": "[Education] is free in many countries.", "tr": "Birçok ülkede eğitim ücretsizdir.", "de": "In vielen Ländern ist Bildung kostenlos.", "fr": "L'éducation est gratuite dans beaucoup de pays.", "it": "In molti paesi l'istruzione è gratuita.", "es": "La educación es gratuita en muchos países." },
-        { "en": "She finished her [education] in Germany.", "tr": "Eğitimini Almanya'da tamamladı.", "de": "Sie hat ihre Ausbildung in Deutschland abgeschlossen.", "fr": "Elle a terminé ses études en Allemagne.", "it": "Ha completato gli studi in Germania.", "es": "Terminó sus estudios en Alemania." }
+        {
+          "en": "[Education] is free in many countries.",
+          "tr": "Birçok ülkede eğitim ücretsizdir.",
+          "de": "In vielen Ländern ist Bildung kostenlos.",
+          "fr": "L'éducation est gratuite dans beaucoup de pays.",
+          "it": "In molti paesi l'istruzione è gratuita.",
+          "es": "La educación es gratuita en muchos países."
+        },
+        {
+          "en": "She finished her [education] in Germany.",
+          "tr": "Eğitimini Almanya'da tamamladı.",
+          "de": "Sie hat ihre Ausbildung in Deutschland abgeschlossen.",
+          "fr": "Elle a terminé ses études en Allemagne.",
+          "it": "Ha completato gli studi in Germania.",
+          "es": "Terminó sus estudios en Alemania."
+        }
+      ]
+    },
+    {
+      "id": "conduct",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "con-",
+        "duct"
+      ],
+      "gloss": {
+        "en": "to organize and carry out; to lead an orchestra (literally: to lead together)",
+        "tr": "yürütmek; yönetmek",
+        "de": "durchführen; dirigieren",
+        "fr": "mener, réaliser; diriger",
+        "it": "condurre; dirigere",
+        "es": "llevar a cabo; dirigir"
+      },
+      "sentences": [
+        {
+          "en": "The scientists [conducted] an experiment.",
+          "tr": "Bilim insanları bir deney yaptı.",
+          "de": "Die Wissenschaftler führten ein Experiment durch.",
+          "fr": "Les scientifiques ont mené une expérience.",
+          "it": "Gli scienziati hanno condotto un esperimento.",
+          "es": "Los científicos llevaron a cabo un experimento."
+        },
+        {
+          "en": "She will [conduct] the orchestra tonight.",
+          "tr": "Bu akşam orkestrayı o yönetecek.",
+          "de": "Sie dirigiert heute Abend das Orchester.",
+          "fr": "Elle dirigera l'orchestre ce soir.",
+          "it": "Stasera dirigerà l'orchestra.",
+          "es": "Esta noche dirigirá la orquesta."
+        }
+      ]
+    },
+    {
+      "id": "conductor",
+      "pos": "noun",
+      "parent": "conduct",
+      "parts": [
+        "con-",
+        "duct",
+        "-or"
+      ],
+      "gloss": {
+        "en": "a person who leads an orchestra; a material that lets heat or electricity pass",
+        "tr": "orkestra şefi; iletken",
+        "de": "der Dirigent; der Leiter",
+        "fr": "le chef d'orchestre; le conducteur",
+        "it": "il direttore d'orchestra; il conduttore",
+        "es": "el director de orquesta; el conductor"
+      },
+      "sentences": [
+        {
+          "en": "The [conductor] raised her baton.",
+          "tr": "Şef batonunu kaldırdı.",
+          "de": "Die Dirigentin hob den Taktstock.",
+          "fr": "La cheffe d'orchestre a levé sa baguette.",
+          "it": "La direttrice d'orchestra ha alzato la bacchetta.",
+          "es": "La directora levantó la batuta."
+        },
+        {
+          "en": "Copper is a good [conductor] of electricity.",
+          "tr": "Bakır iyi bir elektrik iletkenidir.",
+          "de": "Kupfer ist ein guter elektrischer Leiter.",
+          "fr": "Le cuivre est un bon conducteur d'électricité.",
+          "it": "Il rame è un buon conduttore di elettricità.",
+          "es": "El cobre es un buen conductor de la electricidad."
+        }
+      ]
+    },
+    {
+      "id": "deduce",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "de-",
+        "duce"
+      ],
+      "gloss": {
+        "en": "to reach a conclusion from facts (literally: to lead down)",
+        "tr": "sonuç çıkarmak",
+        "de": "folgern, ableiten",
+        "fr": "déduire",
+        "it": "dedurre",
+        "es": "deducir"
+      },
+      "sentences": [
+        {
+          "en": "From the footprints, she [deduced] that a fox had passed.",
+          "tr": "Ayak izlerinden bir tilkinin geçtiği sonucunu çıkardı.",
+          "de": "Aus den Spuren folgerte sie, dass ein Fuchs vorbeigekommen war.",
+          "fr": "Grâce aux empreintes, elle a déduit qu'un renard était passé.",
+          "it": "Dalle impronte ha dedotto che era passata una volpe.",
+          "es": "Por las huellas, dedujo que había pasado un zorro."
+        },
+        {
+          "en": "What can we [deduce] from these results?",
+          "tr": "Bu sonuçlardan ne çıkarabiliriz?",
+          "de": "Was können wir aus diesen Ergebnissen ableiten?",
+          "fr": "Que pouvons-nous déduire de ces résultats ?",
+          "it": "Che cosa possiamo dedurre da questi risultati?",
+          "es": "¿Qué podemos deducir de estos resultados?"
+        }
+      ]
+    },
+    {
+      "id": "deduct",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "de-",
+        "duct"
+      ],
+      "gloss": {
+        "en": "to take an amount away from a total",
+        "tr": "düşmek, kesmek",
+        "de": "abziehen",
+        "fr": "déduire, prélever",
+        "it": "detrarre",
+        "es": "descontar"
+      },
+      "sentences": [
+        {
+          "en": "The bank [deducts] a small fee every month.",
+          "tr": "Banka her ay küçük bir ücret kesiyor.",
+          "de": "Die Bank zieht jeden Monat eine kleine Gebühr ab.",
+          "fr": "La banque prélève de petits frais chaque mois.",
+          "it": "La banca detrae una piccola commissione ogni mese.",
+          "es": "El banco descuenta una pequeña comisión cada mes."
+        },
+        {
+          "en": "Points are [deducted] for late work.",
+          "tr": "Geç teslim edilen ödevlerden puan düşülür.",
+          "de": "Für verspätete Arbeiten werden Punkte abgezogen.",
+          "fr": "Des points sont retirés pour les devoirs en retard.",
+          "it": "Si tolgono punti per i compiti consegnati in ritardo.",
+          "es": "Se descuentan puntos por los trabajos entregados tarde."
+        }
+      ]
+    },
+    {
+      "id": "deduction",
+      "pos": "noun",
+      "parent": "deduce",
+      "parts": [
+        "de-",
+        "duct",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a conclusion reached by reasoning; an amount taken away",
+        "tr": "çıkarım; kesinti",
+        "de": "die Schlussfolgerung; der Abzug",
+        "fr": "la déduction; la retenue",
+        "it": "la deduzione; la detrazione",
+        "es": "la deducción; la retención"
+      },
+      "sentences": [
+        {
+          "en": "Sherlock Holmes is famous for his [deductions].",
+          "tr": "Sherlock Holmes çıkarımlarıyla ünlüdür.",
+          "de": "Sherlock Holmes ist für seine Schlussfolgerungen berühmt.",
+          "fr": "Sherlock Holmes est célèbre pour ses déductions.",
+          "it": "Sherlock Holmes è famoso per le sue deduzioni.",
+          "es": "Sherlock Holmes es famoso por sus deducciones."
+        },
+        {
+          "en": "After tax [deductions], my salary is lower.",
+          "tr": "Vergi kesintilerinden sonra maaşım daha düşük.",
+          "de": "Nach den Steuerabzügen ist mein Gehalt niedriger.",
+          "fr": "Après les retenues d'impôt, mon salaire est plus bas.",
+          "it": "Dopo le trattenute fiscali, il mio stipendio è più basso.",
+          "es": "Después de las retenciones de impuestos, mi sueldo es menor."
+        }
+      ]
+    },
+    {
+      "id": "induce",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "in-",
+        "duce"
+      ],
+      "gloss": {
+        "en": "to cause something, or persuade someone to do it (literally: to lead into)",
+        "tr": "neden olmak; ikna etmek",
+        "de": "herbeiführen; bewegen zu",
+        "fr": "provoquer; inciter",
+        "it": "indurre, provocare",
+        "es": "provocar; inducir"
+      },
+      "sentences": [
+        {
+          "en": "Some medicines can [induce] sleep.",
+          "tr": "Bazı ilaçlar uyku getirebilir.",
+          "de": "Manche Medikamente können Schlaf herbeiführen.",
+          "fr": "Certains médicaments peuvent provoquer le sommeil.",
+          "it": "Alcuni farmaci possono indurre il sonno.",
+          "es": "Algunos medicamentos pueden inducir el sueño."
+        },
+        {
+          "en": "Nothing could [induce] me to jump from that bridge.",
+          "tr": "Hiçbir şey beni o köprüden atlamaya ikna edemezdi.",
+          "de": "Nichts könnte mich dazu bringen, von dieser Brücke zu springen.",
+          "fr": "Rien ne pourrait m'inciter à sauter de ce pont.",
+          "it": "Niente potrebbe indurmi a saltare da quel ponte.",
+          "es": "Nada podría inducirme a saltar de ese puente."
+        }
+      ]
+    },
+    {
+      "id": "induction",
+      "pos": "noun",
+      "parent": "induce",
+      "parts": [
+        "in-",
+        "duct",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "the first training in a new job; reasoning from examples to a rule",
+        "tr": "oryantasyon; tümevarım",
+        "de": "die Einarbeitung; die Induktion",
+        "fr": "l'intégration; l'induction",
+        "it": "l'inserimento; l'induzione",
+        "es": "la formación inicial; la inducción"
+      },
+      "sentences": [
+        {
+          "en": "New staff have a two-day [induction].",
+          "tr": "Yeni çalışanlar iki günlük bir oryantasyondan geçer.",
+          "de": "Neue Mitarbeiter haben eine zweitägige Einarbeitung.",
+          "fr": "Les nouveaux employés suivent deux jours d'intégration.",
+          "it": "Il nuovo personale ha due giorni di inserimento.",
+          "es": "El personal nuevo tiene dos días de formación inicial."
+        },
+        {
+          "en": "Mathematical [induction] proves a rule for every number.",
+          "tr": "Matematiksel tümevarım bir kuralı her sayı için kanıtlar.",
+          "de": "Die vollständige Induktion beweist eine Regel für jede Zahl.",
+          "fr": "La récurrence prouve une règle pour tous les nombres.",
+          "it": "L'induzione matematica dimostra una regola per ogni numero.",
+          "es": "La inducción matemática demuestra una regla para todo número."
+        }
+      ]
+    },
+    {
+      "id": "reduce",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "re-",
+        "duce"
+      ],
+      "gloss": {
+        "en": "to make smaller or less (literally: to lead back)",
+        "tr": "azaltmak, düşürmek",
+        "de": "reduzieren, verringern",
+        "fr": "réduire",
+        "it": "ridurre",
+        "es": "reducir"
+      },
+      "sentences": [
+        {
+          "en": "Walking to work [reduces] stress.",
+          "tr": "İşe yürüyerek gitmek stresi azaltır.",
+          "de": "Zu Fuß zur Arbeit zu gehen verringert Stress.",
+          "fr": "Aller au travail à pied réduit le stress.",
+          "it": "Andare al lavoro a piedi riduce lo stress.",
+          "es": "Ir andando al trabajo reduce el estrés."
+        },
+        {
+          "en": "The shop [reduced] all prices by half.",
+          "tr": "Mağaza bütün fiyatları yarıya indirdi.",
+          "de": "Der Laden hat alle Preise um die Hälfte reduziert.",
+          "fr": "Le magasin a réduit tous les prix de moitié.",
+          "it": "Il negozio ha ridotto tutti i prezzi della metà.",
+          "es": "La tienda redujo todos los precios a la mitad."
+        }
+      ]
+    },
+    {
+      "id": "reduction",
+      "pos": "noun",
+      "parent": "reduce",
+      "parts": [
+        "re-",
+        "duct",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a decrease; a lower price",
+        "tr": "azalma; indirim",
+        "de": "die Verringerung; die Ermäßigung",
+        "fr": "la baisse; la réduction",
+        "it": "la riduzione",
+        "es": "la reducción; el descuento"
+      },
+      "sentences": [
+        {
+          "en": "Students get a 20% [reduction] on tickets.",
+          "tr": "Öğrenciler biletlerde %20 indirim alır.",
+          "de": "Studierende bekommen 20 % Ermäßigung auf Tickets.",
+          "fr": "Les étudiants ont une réduction de 20 % sur les billets.",
+          "it": "Gli studenti hanno una riduzione del 20% sui biglietti.",
+          "es": "Los estudiantes tienen un 20 % de descuento en las entradas."
+        },
+        {
+          "en": "We need a [reduction] in plastic waste.",
+          "tr": "Plastik atıkta bir azalmaya ihtiyacımız var.",
+          "de": "Wir brauchen eine Verringerung des Plastikmülls.",
+          "fr": "Il nous faut une réduction des déchets plastiques.",
+          "it": "Serve una riduzione dei rifiuti di plastica.",
+          "es": "Necesitamos una reducción de los residuos plásticos."
+        }
+      ]
+    },
+    {
+      "id": "abduct",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ab-",
+        "duct"
+      ],
+      "gloss": {
+        "en": "to take someone away by force (literally: to lead away)",
+        "tr": "kaçırmak (insan)",
+        "de": "entführen",
+        "fr": "enlever, kidnapper",
+        "it": "rapire",
+        "es": "secuestrar"
+      },
+      "sentences": [
+        {
+          "en": "In the film, aliens [abduct] a farmer.",
+          "tr": "Filmde uzaylılar bir çiftçiyi kaçırıyor.",
+          "de": "Im Film entführen Außerirdische einen Bauern.",
+          "fr": "Dans le film, des extraterrestres enlèvent un fermier.",
+          "it": "Nel film, gli alieni rapiscono un contadino.",
+          "es": "En la película, unos extraterrestres secuestran a un granjero."
+        },
+        {
+          "en": "The child was [abducted] on the way to school.",
+          "tr": "Çocuk okula giderken kaçırıldı.",
+          "de": "Das Kind wurde auf dem Schulweg entführt.",
+          "fr": "L'enfant a été enlevé sur le chemin de l'école.",
+          "it": "Il bambino è stato rapito mentre andava a scuola.",
+          "es": "El niño fue secuestrado de camino al colegio."
+        }
+      ]
+    },
+    {
+      "id": "abduction",
+      "pos": "noun",
+      "parent": "abduct",
+      "parts": [
+        "ab-",
+        "duct",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "the act of taking someone away by force",
+        "tr": "kaçırma (insan)",
+        "de": "die Entführung",
+        "fr": "l'enlèvement",
+        "it": "il rapimento",
+        "es": "el secuestro"
+      },
+      "sentences": [
+        {
+          "en": "The police are investigating the [abduction].",
+          "tr": "Polis kaçırma olayını soruşturuyor.",
+          "de": "Die Polizei ermittelt wegen der Entführung.",
+          "fr": "La police enquête sur l'enlèvement.",
+          "it": "La polizia indaga sul rapimento.",
+          "es": "La policía investiga el secuestro."
+        },
+        {
+          "en": "The story begins with an [abduction].",
+          "tr": "Hikâye bir kaçırma olayıyla başlıyor.",
+          "de": "Die Geschichte beginnt mit einer Entführung.",
+          "fr": "L'histoire commence par un enlèvement.",
+          "it": "La storia inizia con un rapimento.",
+          "es": "La historia empieza con un secuestro."
+        }
+      ]
+    },
+    {
+      "id": "aqueduct",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "aque-",
+        "duct"
+      ],
+      "gloss": {
+        "en": "a bridge or channel that carries water (literally: a water leader)",
+        "tr": "su kemeri",
+        "de": "das Aquädukt",
+        "fr": "l'aqueduc",
+        "it": "l'acquedotto",
+        "es": "el acueducto"
+      },
+      "sentences": [
+        {
+          "en": "The Romans built [aqueducts] to bring water to cities.",
+          "tr": "Romalılar şehirlere su getirmek için su kemerleri inşa etti.",
+          "de": "Die Römer bauten Aquädukte, um Wasser in die Städte zu bringen.",
+          "fr": "Les Romains construisaient des aqueducs pour amener l'eau en ville.",
+          "it": "I Romani costruivano acquedotti per portare l'acqua nelle città.",
+          "es": "Los romanos construían acueductos para llevar agua a las ciudades."
+        },
+        {
+          "en": "Istanbul still has an old Roman [aqueduct].",
+          "tr": "İstanbul'da hâlâ eski bir Roma su kemeri var.",
+          "de": "In Istanbul steht noch ein altes römisches Aquädukt.",
+          "fr": "Istanbul possède encore un ancien aqueduc romain.",
+          "it": "Istanbul ha ancora un antico acquedotto romano.",
+          "es": "Estambul todavía conserva un antiguo acueducto romano."
+        }
+      ]
+    },
+    {
+      "id": "viaduct",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "via-",
+        "duct"
+      ],
+      "gloss": {
+        "en": "a long bridge that carries a road or railway over a valley (literally: a road leader)",
+        "tr": "viyadük",
+        "de": "das Viadukt, die Talbrücke",
+        "fr": "le viaduc",
+        "it": "il viadotto",
+        "es": "el viaducto"
+      },
+      "sentences": [
+        {
+          "en": "The train crossed a high [viaduct].",
+          "tr": "Tren yüksek bir viyadükten geçti.",
+          "de": "Der Zug fuhr über ein hohes Viadukt.",
+          "fr": "Le train a traversé un haut viaduc.",
+          "it": "Il treno ha attraversato un alto viadotto.",
+          "es": "El tren cruzó un viaducto muy alto."
+        },
+        {
+          "en": "The new [viaduct] saves drivers twenty minutes.",
+          "tr": "Yeni viyadük sürücülere yirmi dakika kazandırıyor.",
+          "de": "Die neue Talbrücke spart Autofahrern zwanzig Minuten.",
+          "fr": "Le nouveau viaduc fait gagner vingt minutes aux automobilistes.",
+          "it": "Il nuovo viadotto fa risparmiare venti minuti agli automobilisti.",
+          "es": "El nuevo viaducto ahorra veinte minutos a los conductores."
+        }
+      ]
+    },
+    {
+      "id": "duct",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "duct"
+      ],
+      "gloss": {
+        "en": "a pipe or tube that carries air, liquid or cables",
+        "tr": "kanal, boru",
+        "de": "der Kanal, die Leitung",
+        "fr": "le conduit, la gaine",
+        "it": "il condotto",
+        "es": "el conducto"
+      },
+      "sentences": [
+        {
+          "en": "The air [duct] is behind the ceiling.",
+          "tr": "Hava kanalı tavanın arkasında.",
+          "de": "Der Luftkanal liegt hinter der Decke.",
+          "fr": "Le conduit d'aération se trouve derrière le plafond.",
+          "it": "Il condotto dell'aria è dietro il soffitto.",
+          "es": "El conducto del aire está detrás del techo."
+        },
+        {
+          "en": "Tears drain through a tiny [duct] near the eye.",
+          "tr": "Gözyaşları gözün yanındaki minik bir kanaldan akar.",
+          "de": "Tränen fließen durch einen winzigen Kanal am Auge ab.",
+          "fr": "Les larmes s'écoulent par un minuscule canal près de l'œil.",
+          "it": "Le lacrime defluiscono da un minuscolo condotto vicino all'occhio.",
+          "es": "Las lágrimas salen por un conducto diminuto junto al ojo."
+        }
+      ]
+    },
+    {
+      "id": "educator",
+      "pos": "noun",
+      "parent": "educate",
+      "parts": [
+        "e-",
+        "duc",
+        "-ator"
+      ],
+      "gloss": {
+        "en": "a teacher, or an expert in education",
+        "tr": "eğitimci",
+        "de": "der Pädagoge, die Lehrkraft",
+        "fr": "l'éducateur, l'enseignant",
+        "it": "l'educatore",
+        "es": "el educador"
+      },
+      "sentences": [
+        {
+          "en": "Our school invited [educators] from five countries.",
+          "tr": "Okulumuz beş ülkeden eğitimci davet etti.",
+          "de": "Unsere Schule hat Lehrkräfte aus fünf Ländern eingeladen.",
+          "fr": "Notre école a invité des enseignants de cinq pays.",
+          "it": "La nostra scuola ha invitato educatori da cinque paesi.",
+          "es": "Nuestra escuela invitó a educadores de cinco países."
+        },
+        {
+          "en": "A good [educator] makes students curious.",
+          "tr": "İyi bir eğitimci öğrencileri meraklandırır.",
+          "de": "Ein guter Pädagoge macht Schüler neugierig.",
+          "fr": "Un bon éducateur rend les élèves curieux.",
+          "it": "Un buon educatore rende curiosi gli studenti.",
+          "es": "Un buen educador despierta la curiosidad de los alumnos."
+        }
+      ]
+    },
+    {
+      "id": "educational",
+      "pos": "adjective",
+      "parent": "education",
+      "parts": [
+        "e-",
+        "duc",
+        "-ation",
+        "-al"
+      ],
+      "gloss": {
+        "en": "related to education; teaching you something",
+        "tr": "eğitici, eğitimle ilgili",
+        "de": "lehrreich; Bildungs-",
+        "fr": "éducatif",
+        "it": "educativo",
+        "es": "educativo"
+      },
+      "sentences": [
+        {
+          "en": "This game is fun and [educational].",
+          "tr": "Bu oyun hem eğlenceli hem eğitici.",
+          "de": "Dieses Spiel ist lustig und lehrreich.",
+          "fr": "Ce jeu est amusant et éducatif.",
+          "it": "Questo gioco è divertente ed educativo.",
+          "es": "Este juego es divertido y educativo."
+        },
+        {
+          "en": "The museum runs [educational] programs for children.",
+          "tr": "Müze çocuklar için eğitim programları düzenliyor.",
+          "de": "Das Museum bietet Bildungsprogramme für Kinder an.",
+          "fr": "Le musée propose des programmes éducatifs pour les enfants.",
+          "it": "Il museo organizza programmi educativi per bambini.",
+          "es": "El museo ofrece programas educativos para niños."
+        }
+      ]
+    },
+    {
+      "id": "producer",
+      "pos": "noun",
+      "parent": "produce",
+      "parts": [
+        "pro-",
+        "duc",
+        "-er"
+      ],
+      "gloss": {
+        "en": "a person, company or country that makes something; a person who organizes a film or record",
+        "tr": "üretici; yapımcı",
+        "de": "der Hersteller; der Produzent",
+        "fr": "le producteur",
+        "it": "il produttore",
+        "es": "el productor"
+      },
+      "sentences": [
+        {
+          "en": "Spain is a big olive oil [producer].",
+          "tr": "İspanya büyük bir zeytinyağı üreticisidir.",
+          "de": "Spanien ist ein großer Olivenölproduzent.",
+          "fr": "L'Espagne est un grand producteur d'huile d'olive.",
+          "it": "La Spagna è un grande produttore di olio d'oliva.",
+          "es": "España es un gran productor de aceite de oliva."
+        },
+        {
+          "en": "The [producer] wants to start filming in May.",
+          "tr": "Yapımcı çekimlere mayısta başlamak istiyor.",
+          "de": "Der Produzent will im Mai mit den Dreharbeiten beginnen.",
+          "fr": "Le producteur veut commencer le tournage en mai.",
+          "it": "Il produttore vuole iniziare le riprese a maggio.",
+          "es": "El productor quiere empezar a rodar en mayo."
+        }
+      ]
+    },
+    {
+      "id": "productive",
+      "pos": "adjective",
+      "parent": "product",
+      "parts": [
+        "pro-",
+        "duct",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "getting a lot done",
+        "tr": "verimli",
+        "de": "produktiv",
+        "fr": "productif",
+        "it": "produttivo",
+        "es": "productivo"
+      },
+      "sentences": [
+        {
+          "en": "I'm most [productive] in the morning.",
+          "tr": "En verimli olduğum zaman sabahlar.",
+          "de": "Morgens bin ich am produktivsten.",
+          "fr": "Je suis plus productif le matin.",
+          "it": "Sono più produttivo la mattina.",
+          "es": "Soy más productivo por la mañana."
+        },
+        {
+          "en": "We had a [productive] meeting today.",
+          "tr": "Bugün verimli bir toplantı yaptık.",
+          "de": "Wir hatten heute ein produktives Treffen.",
+          "fr": "Nous avons eu une réunion productive aujourd'hui.",
+          "it": "Oggi abbiamo avuto una riunione produttiva.",
+          "es": "Hoy hemos tenido una reunión productiva."
+        }
+      ]
+    },
+    {
+      "id": "unproductive",
+      "pos": "adjective",
+      "parent": "productive",
+      "parts": [
+        "un-",
+        "pro-",
+        "duct",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "not getting much done",
+        "tr": "verimsiz",
+        "de": "unproduktiv",
+        "fr": "improductif",
+        "it": "improduttivo",
+        "es": "improductivo"
+      },
+      "sentences": [
+        {
+          "en": "Long meetings are often [unproductive].",
+          "tr": "Uzun toplantılar çoğu zaman verimsizdir.",
+          "de": "Lange Besprechungen sind oft unproduktiv.",
+          "fr": "Les longues réunions sont souvent improductives.",
+          "it": "Le riunioni lunghe sono spesso improduttive.",
+          "es": "Las reuniones largas suelen ser improductivas."
+        },
+        {
+          "en": "I felt tired and [unproductive] all day.",
+          "tr": "Bütün gün yorgun ve verimsiz hissettim.",
+          "de": "Ich fühlte mich den ganzen Tag müde und unproduktiv.",
+          "fr": "Je me suis senti fatigué et improductif toute la journée.",
+          "it": "Mi sono sentito stanco e improduttivo tutto il giorno.",
+          "es": "Me sentí cansado e improductivo todo el día."
+        }
+      ]
+    },
+    {
+      "id": "reproduce",
+      "pos": "verb",
+      "parent": "produce",
+      "parts": [
+        "re-",
+        "pro-",
+        "duce"
+      ],
+      "gloss": {
+        "en": "to make a copy; to have babies or young",
+        "tr": "tekrarlamak, kopyalamak; üremek",
+        "de": "reproduzieren; sich fortpflanzen",
+        "fr": "reproduire; se reproduire",
+        "it": "riprodurre; riprodursi",
+        "es": "reproducir; reproducirse"
+      },
+      "sentences": [
+        {
+          "en": "Scientists could not [reproduce] the result.",
+          "tr": "Bilim insanları sonucu tekrarlayamadı.",
+          "de": "Die Forscher konnten das Ergebnis nicht reproduzieren.",
+          "fr": "Les chercheurs n'ont pas pu reproduire le résultat.",
+          "it": "Gli scienziati non sono riusciti a riprodurre il risultato.",
+          "es": "Los científicos no lograron reproducir el resultado."
+        },
+        {
+          "en": "Rabbits [reproduce] very quickly.",
+          "tr": "Tavşanlar çok hızlı ürer.",
+          "de": "Kaninchen vermehren sich sehr schnell.",
+          "fr": "Les lapins se reproduisent très vite.",
+          "it": "I conigli si riproducono molto in fretta.",
+          "es": "Los conejos se reproducen muy rápido."
+        }
+      ]
+    },
+    {
+      "id": "reproduction",
+      "pos": "noun",
+      "parent": "reproduce",
+      "parts": [
+        "re-",
+        "pro-",
+        "duct",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a copy of a painting or object; the process of having young",
+        "tr": "kopya, röprodüksiyon; üreme",
+        "de": "die Reproduktion, die Nachbildung; die Fortpflanzung",
+        "fr": "la reproduction",
+        "it": "la riproduzione",
+        "es": "la reproducción"
+      },
+      "sentences": [
+        {
+          "en": "The painting in the hall is a [reproduction].",
+          "tr": "Koridordaki tablo bir röprodüksiyon.",
+          "de": "Das Bild im Flur ist eine Reproduktion.",
+          "fr": "Le tableau dans l'entrée est une reproduction.",
+          "it": "Il quadro nell'ingresso è una riproduzione.",
+          "es": "El cuadro del pasillo es una reproducción."
+        },
+        {
+          "en": "We studied plant [reproduction] in biology.",
+          "tr": "Biyolojide bitkilerde üremeyi işledik.",
+          "de": "In Biologie haben wir die Fortpflanzung der Pflanzen behandelt.",
+          "fr": "En biologie, nous avons étudié la reproduction des plantes.",
+          "it": "In biologia abbiamo studiato la riproduzione delle piante.",
+          "es": "En biología estudiamos la reproducción de las plantas."
+        }
+      ]
+    },
+    {
+      "id": "introductory",
+      "pos": "adjective",
+      "parent": "introduction",
+      "parts": [
+        "intro-",
+        "duct",
+        "-ory"
+      ],
+      "gloss": {
+        "en": "first and basic; serving as an introduction",
+        "tr": "giriş niteliğinde, başlangıç",
+        "de": "einführend, Einführungs-",
+        "fr": "d'introduction",
+        "it": "introduttivo",
+        "es": "introductorio"
+      },
+      "sentences": [
+        {
+          "en": "I'm taking an [introductory] course in Spanish.",
+          "tr": "İspanyolca başlangıç kursu alıyorum.",
+          "de": "Ich besuche einen Einführungskurs in Spanisch.",
+          "fr": "Je suis un cours d'introduction à l'espagnol.",
+          "it": "Seguo un corso introduttivo di spagnolo.",
+          "es": "Estoy haciendo un curso introductorio de español."
+        },
+        {
+          "en": "The book has a short [introductory] chapter.",
+          "tr": "Kitabın kısa bir giriş bölümü var.",
+          "de": "Das Buch hat ein kurzes einführendes Kapitel.",
+          "fr": "Le livre a un court chapitre d'introduction.",
+          "it": "Il libro ha un breve capitolo introduttivo.",
+          "es": "El libro tiene un breve capítulo introductorio."
+        }
+      ]
+    },
+    {
+      "id": "seduce",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "se-",
+        "duce"
+      ],
+      "gloss": {
+        "en": "to attract or tempt someone (literally: to lead aside)",
+        "tr": "baştan çıkarmak, cezbetmek",
+        "de": "verführen, verlocken",
+        "fr": "séduire",
+        "it": "sedurre",
+        "es": "seducir"
+      },
+      "sentences": [
+        {
+          "en": "Don't let the low price [seduce] you.",
+          "tr": "Düşük fiyatın seni cezbetmesine izin verme.",
+          "de": "Lass dich nicht vom niedrigen Preis verführen.",
+          "fr": "Ne te laisse pas séduire par le prix bas.",
+          "it": "Non lasciarti sedurre dal prezzo basso.",
+          "es": "No dejes que el precio bajo te seduzca."
+        },
+        {
+          "en": "The smell of fresh bread [seduced] us into the bakery.",
+          "tr": "Taze ekmek kokusu bizi fırına çekti.",
+          "de": "Der Duft von frischem Brot lockte uns in die Bäckerei.",
+          "fr": "L'odeur du pain frais nous a attirés dans la boulangerie.",
+          "it": "Il profumo del pane fresco ci ha attirati in panetteria.",
+          "es": "El olor a pan recién hecho nos atrajo a la panadería."
+        }
       ]
     }
   ]

@@ -526,5 +526,204 @@
       "it": "relativo a (-orio)",
       "es": "relativo a (-orio)"
     }
+  },
+  "con-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "with, together",
+      "tr": "birlikte",
+      "de": "zusammen, mit",
+      "fr": "avec, ensemble",
+      "it": "con, insieme",
+      "es": "con, juntos"
+    }
+  },
+  "ab-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "away from",
+      "tr": "-den uzağa",
+      "de": "weg von",
+      "fr": "loin de",
+      "it": "via da",
+      "es": "lejos de"
+    }
+  },
+  "aque-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "water (Latin aqua)",
+      "tr": "su (Latince aqua)",
+      "de": "Wasser (lateinisch aqua)",
+      "fr": "eau (latin aqua)",
+      "it": "acqua (latino aqua)",
+      "es": "agua (latín aqua)"
+    }
+  },
+  "via-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "road, way (Latin via)",
+      "tr": "yol (Latince via)",
+      "de": "Weg, Straße (lateinisch via)",
+      "fr": "voie, route (latin via)",
+      "it": "via, strada (latino via)",
+      "es": "vía, camino (latín via)"
+    }
+  },
+  "se-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "apart, aside",
+      "tr": "ayrı, kenara",
+      "de": "beiseite, weg",
+      "fr": "à l'écart",
+      "it": "in disparte",
+      "es": "aparte"
+    }
+  },
+  "tran-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "across (trans- before s)",
+      "tr": "öte yana (s önünde trans-)",
+      "de": "hinüber (trans- vor s)",
+      "fr": "au-delà (trans- devant s)",
+      "it": "al di là (trans- davanti a s)",
+      "es": "al otro lado (trans- ante s)"
+    }
+  },
+  "post-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "after",
+      "tr": "sonra",
+      "de": "nach",
+      "fr": "après",
+      "it": "dopo",
+      "es": "después"
+    }
+  },
+  "non-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "not",
+      "tr": "değil, -sız",
+      "de": "nicht",
+      "fr": "non",
+      "it": "non",
+      "es": "no"
+    }
+  },
+  "in-not-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "not",
+      "tr": "değil, -sız",
+      "de": "nicht, un-",
+      "fr": "non, in-",
+      "it": "non, in-",
+      "es": "no, in-"
+    },
+    "form": "in"
+  },
+  "-al": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "relating to (makes an adjective)",
+      "tr": "ile ilgili (sıfat yapar)",
+      "de": "bezogen auf (bildet ein Adjektiv)",
+      "fr": "relatif à (forme un adjectif)",
+      "it": "relativo a (forma un aggettivo)",
+      "es": "relativo a (forma un adjetivo)"
+    }
+  },
+  "-ble": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "again and again, a little (makes a verb)",
+      "tr": "tekrar tekrar, azar azar (fiil yapar)",
+      "de": "immer wieder, ein wenig (bildet ein Verb)",
+      "fr": "sans cesse, un peu (forme un verbe)",
+      "it": "più volte, un poco (forma un verbo)",
+      "es": "una y otra vez, un poco (forma un verbo)"
+    }
+  },
+  "-ure": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "act or result of (makes a noun)",
+      "tr": "eylem ya da sonucu (isim yapar)",
+      "de": "Handlung oder Ergebnis (bildet ein Nomen)",
+      "fr": "action ou résultat (forme un nom)",
+      "it": "azione o risultato (forma un nome)",
+      "es": "acción o resultado (forma un sustantivo)"
+    }
+  },
+  "-io": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "I … (Latin verb ending: audio, 'I hear')",
+      "tr": "-ırım (Latince fiil eki: audio, 'duyarım')",
+      "de": "ich … (lateinische Verbendung: audio, „ich höre“)",
+      "fr": "je … (terminaison latine : audio, « j'entends »)",
+      "it": "io … (desinenza latina: audio, «io odo»)",
+      "es": "yo … (terminación latina: audio, «yo oigo»)"
+    }
+  },
+  "-ience": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "state, quality, group (makes a noun)",
+      "tr": "durum, nitelik, topluluk (isim yapar)",
+      "de": "Zustand, Eigenschaft, Gruppe (bildet ein Nomen)",
+      "fr": "état, qualité, groupe (forme un nom)",
+      "it": "stato, qualità, gruppo (forma un nome)",
+      "es": "estado, cualidad, grupo (forma un sustantivo)"
+    }
+  },
+  "-ible": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "can be done",
+      "tr": "-ebilir",
+      "de": "-bar",
+      "fr": "qui peut être",
+      "it": "che può essere",
+      "es": "que se puede"
+    }
+  },
+  "-it": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "done, heard (Latin past participle)",
+      "tr": "-ilmiş (Latince geçmiş zaman ortacı)",
+      "de": "getan, gehört (lateinisches Partizip)",
+      "fr": "fait, entendu (participe latin)",
+      "it": "fatto, udito (participio latino)",
+      "es": "hecho, oído (participio latino)"
+    }
+  },
+  "-ition": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "act of (makes a noun)",
+      "tr": "eylem (isim yapar)",
+      "de": "Handlung (bildet ein Nomen)",
+      "fr": "action de (forme un nom)",
+      "it": "azione di (forma un nome)",
+      "es": "acción de (forma un sustantivo)"
+    }
+  },
+  "-ium": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "place for (makes a noun)",
+      "tr": "yeri (isim yapar)",
+      "de": "Ort für (bildet ein Nomen)",
+      "fr": "lieu pour (forme un nom)",
+      "it": "luogo per (forma un nome)",
+      "es": "lugar para (forma un sustantivo)"
+    }
   }
 }

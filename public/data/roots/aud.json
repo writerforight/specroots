@@ -1,0 +1,338 @@
+{
+  "id": "aud",
+  "forms": [
+    "aud"
+  ],
+  "origin": "la",
+  "etymon": "audire",
+  "meaning": {
+    "en": "to hear",
+    "tr": "duymak, işitmek",
+    "de": "hören",
+    "fr": "entendre",
+    "it": "udire, sentire",
+    "es": "oír"
+  },
+  "words": [
+    {
+      "id": "audience",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "aud",
+        "-ience"
+      ],
+      "gloss": {
+        "en": "the people who watch or listen to something",
+        "tr": "seyirci; hedef kitle",
+        "de": "das Publikum",
+        "fr": "le public",
+        "it": "il pubblico",
+        "es": "el público"
+      },
+      "sentences": [
+        {
+          "en": "The [audience] laughed at every joke.",
+          "tr": "Seyirciler her şakaya güldü.",
+          "de": "Das Publikum lachte über jeden Witz.",
+          "fr": "Le public riait à chaque blague.",
+          "it": "Il pubblico rideva a ogni battuta.",
+          "es": "El público se reía con cada chiste."
+        },
+        {
+          "en": "Who is the [audience] for this book?",
+          "tr": "Bu kitabın hedef kitlesi kim?",
+          "de": "Für welches Publikum ist dieses Buch gedacht?",
+          "fr": "À quel public ce livre s'adresse-t-il ?",
+          "it": "A quale pubblico si rivolge questo libro?",
+          "es": "¿A qué público va dirigido este libro?"
+        }
+      ]
+    },
+    {
+      "id": "audible",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "aud",
+        "-ible"
+      ],
+      "gloss": {
+        "en": "loud enough to be heard",
+        "tr": "duyulabilir",
+        "de": "hörbar",
+        "fr": "audible",
+        "it": "udibile",
+        "es": "audible"
+      },
+      "sentences": [
+        {
+          "en": "Her voice was barely [audible].",
+          "tr": "Sesi zar zor duyuluyordu.",
+          "de": "Ihre Stimme war kaum hörbar.",
+          "fr": "Sa voix était à peine audible.",
+          "it": "La sua voce era appena udibile.",
+          "es": "Su voz apenas era audible."
+        },
+        {
+          "en": "The alarm is [audible] in every room.",
+          "tr": "Alarm her odadan duyulabiliyor.",
+          "de": "Der Alarm ist in jedem Raum hörbar.",
+          "fr": "L'alarme est audible dans toutes les pièces.",
+          "it": "L'allarme è udibile in ogni stanza.",
+          "es": "La alarma se oye en todas las habitaciones."
+        }
+      ]
+    },
+    {
+      "id": "inaudible",
+      "pos": "adjective",
+      "parent": "audible",
+      "parts": [
+        "in-not-",
+        "aud",
+        "-ible"
+      ],
+      "gloss": {
+        "en": "too quiet to be heard",
+        "tr": "duyulamayacak kadar alçak",
+        "de": "unhörbar",
+        "fr": "inaudible",
+        "it": "non udibile, impercettibile",
+        "es": "inaudible"
+      },
+      "sentences": [
+        {
+          "en": "Dogs can hear sounds that are [inaudible] to us.",
+          "tr": "Köpekler bizim duyamadığımız sesleri duyabilir.",
+          "de": "Hunde hören Töne, die für uns unhörbar sind.",
+          "fr": "Les chiens entendent des sons qui nous sont inaudibles.",
+          "it": "I cani sentono suoni per noi non udibili.",
+          "es": "Los perros oyen sonidos que para nosotros son inaudibles."
+        },
+        {
+          "en": "He said something [inaudible] and left.",
+          "tr": "Duyulmayacak kadar alçak sesle bir şey söyleyip gitti.",
+          "de": "Er murmelte etwas Unhörbares und ging.",
+          "fr": "Il a dit quelque chose d'inaudible et il est parti.",
+          "it": "Ha detto qualcosa di impercettibile ed è uscito.",
+          "es": "Dijo algo inaudible y se fue."
+        }
+      ]
+    },
+    {
+      "id": "audit",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "aud",
+        "-it"
+      ],
+      "gloss": {
+        "en": "an official check of accounts or records (accounts were once read aloud and heard)",
+        "tr": "denetim",
+        "de": "die Prüfung, das Audit",
+        "fr": "l'audit, la vérification des comptes",
+        "it": "la revisione contabile, l'audit",
+        "es": "la auditoría"
+      },
+      "sentences": [
+        {
+          "en": "The company has an [audit] every year.",
+          "tr": "Şirket her yıl denetimden geçer.",
+          "de": "Die Firma wird jedes Jahr geprüft.",
+          "fr": "L'entreprise subit un audit chaque année.",
+          "it": "L'azienda ha una revisione contabile ogni anno.",
+          "es": "La empresa pasa una auditoría cada año."
+        },
+        {
+          "en": "An energy [audit] showed where heat was lost.",
+          "tr": "Enerji denetimi ısının nereden kaçtığını gösterdi.",
+          "de": "Ein Energie-Audit zeigte, wo Wärme verloren ging.",
+          "fr": "Un audit énergétique a montré où la chaleur se perdait.",
+          "it": "Un audit energetico ha mostrato dove si perdeva calore.",
+          "es": "Una auditoría energética mostró dónde se perdía calor."
+        }
+      ]
+    },
+    {
+      "id": "auditor",
+      "pos": "noun",
+      "parent": "audit",
+      "parts": [
+        "aud",
+        "-it",
+        "-or"
+      ],
+      "gloss": {
+        "en": "a person who checks accounts officially",
+        "tr": "denetçi",
+        "de": "der Wirtschaftsprüfer",
+        "fr": "l'auditeur, le commissaire aux comptes",
+        "it": "il revisore dei conti",
+        "es": "el auditor"
+      },
+      "sentences": [
+        {
+          "en": "The [auditor] found a mistake in the accounts.",
+          "tr": "Denetçi hesaplarda bir hata buldu.",
+          "de": "Der Wirtschaftsprüfer fand einen Fehler in den Büchern.",
+          "fr": "L'auditeur a trouvé une erreur dans les comptes.",
+          "it": "Il revisore ha trovato un errore nei conti.",
+          "es": "El auditor encontró un error en las cuentas."
+        },
+        {
+          "en": "She works as an external [auditor].",
+          "tr": "Bağımsız denetçi olarak çalışıyor.",
+          "de": "Sie arbeitet als externe Prüferin.",
+          "fr": "Elle travaille comme auditrice externe.",
+          "it": "Lavora come revisora esterna.",
+          "es": "Trabaja como auditora externa."
+        }
+      ]
+    },
+    {
+      "id": "audition",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "aud",
+        "-ition"
+      ],
+      "gloss": {
+        "en": "a short performance to test an actor, singer or musician (literally: a hearing)",
+        "tr": "seçme",
+        "de": "das Vorsprechen, das Vorsingen",
+        "fr": "l'audition",
+        "it": "il provino, l'audizione",
+        "es": "la audición, la prueba"
+      },
+      "sentences": [
+        {
+          "en": "I have an [audition] for the school play.",
+          "tr": "Okul oyunu için seçmelere katılacağım.",
+          "de": "Ich habe ein Vorsprechen für das Schultheaterstück.",
+          "fr": "J'ai une audition pour la pièce de l'école.",
+          "it": "Ho un provino per lo spettacolo della scuola.",
+          "es": "Tengo una audición para la obra del colegio."
+        },
+        {
+          "en": "She sang at her [audition] and got the part.",
+          "tr": "Seçmede şarkı söyledi ve rolü aldı.",
+          "de": "Sie sang beim Vorsingen und bekam die Rolle.",
+          "fr": "Elle a chanté à son audition et a obtenu le rôle.",
+          "it": "Ha cantato al provino e ha ottenuto la parte.",
+          "es": "Cantó en la prueba y consiguió el papel."
+        }
+      ]
+    },
+    {
+      "id": "auditorium",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "aud",
+        "-it",
+        "-or",
+        "-ium"
+      ],
+      "gloss": {
+        "en": "a large room or building where an audience sits (literally: a place for hearers)",
+        "tr": "salon, oditoryum, amfi",
+        "de": "der Saal, der Hörsaal",
+        "fr": "l'auditorium, l'amphithéâtre",
+        "it": "l'auditorium, l'aula magna",
+        "es": "el auditorio, el aula magna"
+      },
+      "sentences": [
+        {
+          "en": "The [auditorium] holds five hundred people.",
+          "tr": "Salon beş yüz kişi alıyor.",
+          "de": "Der Saal fasst fünfhundert Menschen.",
+          "fr": "L'auditorium peut accueillir cinq cents personnes.",
+          "it": "L'auditorium contiene cinquecento persone.",
+          "es": "En el auditorio caben quinientas personas."
+        },
+        {
+          "en": "Our first lecture is in the main [auditorium].",
+          "tr": "İlk dersimiz büyük amfide.",
+          "de": "Unsere erste Vorlesung ist im großen Hörsaal.",
+          "fr": "Notre premier cours a lieu dans le grand amphithéâtre.",
+          "it": "La nostra prima lezione è nell'aula magna.",
+          "es": "Nuestra primera clase es en el aula magna."
+        }
+      ]
+    },
+    {
+      "id": "auditory",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "aud",
+        "-it",
+        "-ory"
+      ],
+      "gloss": {
+        "en": "related to hearing",
+        "tr": "işitsel",
+        "de": "auditiv, Hör-",
+        "fr": "auditif",
+        "it": "uditivo",
+        "es": "auditivo"
+      },
+      "sentences": [
+        {
+          "en": "Some people are [auditory] learners.",
+          "tr": "Bazı insanlar işiterek daha iyi öğrenir.",
+          "de": "Manche Menschen lernen am besten über das Hören.",
+          "fr": "Certaines personnes apprennent mieux en écoutant.",
+          "it": "Alcune persone imparano meglio ascoltando.",
+          "es": "Algunas personas aprenden mejor escuchando."
+        },
+        {
+          "en": "The [auditory] nerve carries sound to the brain.",
+          "tr": "İşitme siniri sesi beyne taşır.",
+          "de": "Der Hörnerv leitet Schall zum Gehirn.",
+          "fr": "Le nerf auditif transmet le son au cerveau.",
+          "it": "Il nervo uditivo porta il suono al cervello.",
+          "es": "El nervio auditivo lleva el sonido al cerebro."
+        }
+      ]
+    },
+    {
+      "id": "audio",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "aud",
+        "-io"
+      ],
+      "gloss": {
+        "en": "recorded sound (Latin audio, 'I hear')",
+        "tr": "ses, ses kaydı",
+        "de": "der Ton, das Audio",
+        "fr": "le son, l'audio",
+        "it": "l'audio",
+        "es": "el audio"
+      },
+      "sentences": [
+        {
+          "en": "The video has no [audio].",
+          "tr": "Videoda ses yok.",
+          "de": "Das Video hat keinen Ton.",
+          "fr": "La vidéo n'a pas de son.",
+          "it": "Il video non ha audio.",
+          "es": "El vídeo no tiene audio."
+        },
+        {
+          "en": "Send me the [audio] of the lecture.",
+          "tr": "Bana dersin ses kaydını gönder.",
+          "de": "Schick mir die Tonaufnahme der Vorlesung.",
+          "fr": "Envoie-moi l'enregistrement audio du cours.",
+          "it": "Mandami l'audio della lezione.",
+          "es": "Envíame el audio de la clase."
+        }
+      ]
+    }
+  ]
+}
