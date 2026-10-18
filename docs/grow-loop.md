@@ -44,14 +44,14 @@ yanına `(az: N)` yaz. Toplam hedef ≈ 1000–2000 kelime.
 - Aynı test iki turdur düzelmiyorsa ya da push reddediliyorsa döngüyü durdur ve nedenini yaz.
 
 ## Durum
-Kök: 5 / 50 · Kelime: 33
+Kök: 5 / 50 (genişletme 3/5) · Kelime: 87
 
 ## Kuyruk
 
 ### Genişlet (mevcut 5 kök, 20–40 kelimeye)
-- [ ] spec (expect, suspect, prospect, special, species, specimen, spectacle, spectrum, aspect, retrospect, conspicuous…)
-- [ ] port (support, deport, opportunity, passport, porter, portfolio, airport, purport…)
-- [ ] dict (dictator, verdict, indicate, addict, edict, diction, contradiction, jurisdiction…)
+- [x] spec — 29 (expect, suspect, prospect, special, species, specimen, spectacle, spectrum, aspect, retrospect, conspicuous…)
+- [x] port — 20 (support, deport, opportunity, passport, porter, portfolio, airport, purport…)
+- [x] dict — 25 (dictator, verdict, indicate, addict, edict, diction, contradiction, jurisdiction…)
 - [ ] duc (conduct, deduce, induce, reduce, seduce, abduct, aqueduct, educator, producer, productive…)
 - [ ] scrib (prescribe, inscribe, transcribe, scribble, scripture, transcript, postscript, describable…)
 

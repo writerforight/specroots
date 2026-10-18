@@ -2,7 +2,8 @@
   {
     "id": "dict",
     "forms": [
-      "dict"
+      "dict",
+      "dic"
     ],
     "origin": "la",
     "meaning": {
@@ -19,7 +20,26 @@
       "predictable",
       "dictionary",
       "contradict",
-      "dictate"
+      "dictate",
+      "dictation",
+      "dictator",
+      "dictatorship",
+      "verdict",
+      "indicate",
+      "indication",
+      "indicator",
+      "addict",
+      "addiction",
+      "addictive",
+      "contradiction",
+      "contradictory",
+      "unpredictable",
+      "diction",
+      "benediction",
+      "edict",
+      "jurisdiction",
+      "dedicate",
+      "dedication"
     ]
   },
   {
@@ -69,7 +89,20 @@
       "transport",
       "portable",
       "report",
-      "reporter"
+      "reporter",
+      "support",
+      "supporter",
+      "supportive",
+      "deport",
+      "deportation",
+      "porter",
+      "importance",
+      "unimportant",
+      "exporter",
+      "importer",
+      "transportation",
+      "transporter",
+      "teleport"
     ]
   },
   {
@@ -101,7 +134,9 @@
     "id": "spec",
     "forms": [
       "spec",
-      "spect"
+      "spect",
+      "pect",
+      "pic"
     ],
     "origin": "la",
     "meaning": {
@@ -119,7 +154,29 @@
       "respect",
       "respectful",
       "spectator",
-      "perspective"
+      "perspective",
+      "expect",
+      "expectation",
+      "unexpected",
+      "suspect",
+      "suspicion",
+      "suspicious",
+      "prospect",
+      "prospective",
+      "aspect",
+      "special",
+      "specialist",
+      "specialize",
+      "specific",
+      "specify",
+      "specimen",
+      "spectacle",
+      "retrospect",
+      "retrospective",
+      "respectable",
+      "disrespect",
+      "respective",
+      "introspection"
     ]
   }
 ]

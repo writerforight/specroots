@@ -1,56 +1,910 @@
 {
   "id": "dict",
-  "forms": ["dict"],
+  "forms": [
+    "dict",
+    "dic"
+  ],
   "origin": "la",
   "etymon": "dicere",
-  "meaning": { "en": "to say, to speak", "tr": "söylemek, demek", "de": "sagen, sprechen", "fr": "dire", "it": "dire", "es": "decir" },
+  "meaning": {
+    "en": "to say, to speak",
+    "tr": "söylemek, demek",
+    "de": "sagen, sprechen",
+    "fr": "dire",
+    "it": "dire",
+    "es": "decir"
+  },
   "words": [
     {
-      "id": "predict", "pos": "verb", "parent": null, "parts": ["pre-", "dict"],
-      "gloss": { "en": "to say what will happen (literally: to say before)", "tr": "tahmin etmek, öngörmek", "de": "vorhersagen", "fr": "prédire", "it": "prevedere, predire", "es": "predecir" },
+      "id": "predict",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "pre-",
+        "dict"
+      ],
+      "gloss": {
+        "en": "to say what will happen (literally: to say before)",
+        "tr": "tahmin etmek, öngörmek",
+        "de": "vorhersagen",
+        "fr": "prédire",
+        "it": "prevedere, predire",
+        "es": "predecir"
+      },
       "sentences": [
-        { "en": "Nobody can [predict] the future.", "tr": "Kimse geleceği tahmin edemez.", "de": "Niemand kann die Zukunft vorhersagen.", "fr": "Personne ne peut prédire l'avenir.", "it": "Nessuno può prevedere il futuro.", "es": "Nadie puede predecir el futuro." },
-        { "en": "They [predicted] snow, but it was sunny.", "tr": "Kar yağacağını tahmin ettiler ama hava güneşliydi.", "de": "Sie hatten Schnee vorhergesagt, aber es war sonnig.", "fr": "Ils avaient prévu de la neige, mais il faisait beau.", "it": "Avevano previsto la neve, ma c'era il sole.", "es": "Pronosticaron nieve, pero hizo sol." }
+        {
+          "en": "Nobody can [predict] the future.",
+          "tr": "Kimse geleceği tahmin edemez.",
+          "de": "Niemand kann die Zukunft vorhersagen.",
+          "fr": "Personne ne peut prédire l'avenir.",
+          "it": "Nessuno può prevedere il futuro.",
+          "es": "Nadie puede predecir el futuro."
+        },
+        {
+          "en": "They [predicted] snow, but it was sunny.",
+          "tr": "Kar yağacağını tahmin ettiler ama hava güneşliydi.",
+          "de": "Sie hatten Schnee vorhergesagt, aber es war sonnig.",
+          "fr": "Ils avaient prévu de la neige, mais il faisait beau.",
+          "it": "Avevano previsto la neve, ma c'era il sole.",
+          "es": "Pronosticaron nieve, pero hizo sol."
+        }
       ]
     },
     {
-      "id": "prediction", "pos": "noun", "parent": "predict", "parts": ["pre-", "dict", "-ion"],
-      "gloss": { "en": "a statement about what will happen", "tr": "tahmin, öngörü", "de": "die Vorhersage", "fr": "la prédiction, la prévision", "it": "la previsione", "es": "la predicción" },
+      "id": "prediction",
+      "pos": "noun",
+      "parent": "predict",
+      "parts": [
+        "pre-",
+        "dict",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a statement about what will happen",
+        "tr": "tahmin, öngörü",
+        "de": "die Vorhersage",
+        "fr": "la prédiction, la prévision",
+        "it": "la previsione",
+        "es": "la predicción"
+      },
       "sentences": [
-        { "en": "My [prediction] for the match was wrong.", "tr": "Maç için tahminim yanlıştı.", "de": "Meine Vorhersage für das Spiel war falsch.", "fr": "Ma prédiction pour le match était fausse.", "it": "La mia previsione per la partita era sbagliata.", "es": "Mi predicción para el partido fue errónea." },
-        { "en": "The model makes a [prediction] every second.", "tr": "Model her saniye bir tahmin yapar.", "de": "Das Modell macht jede Sekunde eine Vorhersage.", "fr": "Le modèle fait une prédiction chaque seconde.", "it": "Il modello fa una previsione ogni secondo.", "es": "El modelo hace una predicción cada segundo." }
+        {
+          "en": "My [prediction] for the match was wrong.",
+          "tr": "Maç için tahminim yanlıştı.",
+          "de": "Meine Vorhersage für das Spiel war falsch.",
+          "fr": "Ma prédiction pour le match était fausse.",
+          "it": "La mia previsione per la partita era sbagliata.",
+          "es": "Mi predicción para el partido fue errónea."
+        },
+        {
+          "en": "The model makes a [prediction] every second.",
+          "tr": "Model her saniye bir tahmin yapar.",
+          "de": "Das Modell macht jede Sekunde eine Vorhersage.",
+          "fr": "Le modèle fait une prédiction chaque seconde.",
+          "it": "Il modello fa una previsione ogni secondo.",
+          "es": "El modelo hace una predicción cada segundo."
+        }
       ]
     },
     {
-      "id": "predictable", "pos": "adjective", "parent": "predict", "parts": ["pre-", "dict", "-able"],
-      "gloss": { "en": "easy to know in advance", "tr": "tahmin edilebilir", "de": "vorhersehbar", "fr": "prévisible", "it": "prevedibile", "es": "predecible, previsible" },
+      "id": "predictable",
+      "pos": "adjective",
+      "parent": "predict",
+      "parts": [
+        "pre-",
+        "dict",
+        "-able"
+      ],
+      "gloss": {
+        "en": "easy to know in advance",
+        "tr": "tahmin edilebilir",
+        "de": "vorhersehbar",
+        "fr": "prévisible",
+        "it": "prevedibile",
+        "es": "predecible, previsible"
+      },
       "sentences": [
-        { "en": "The ending of the film was very [predictable].", "tr": "Filmin sonu çok tahmin edilebilirdi.", "de": "Das Ende des Films war sehr vorhersehbar.", "fr": "La fin du film était très prévisible.", "it": "Il finale del film era molto prevedibile.", "es": "El final de la película era muy predecible." },
-        { "en": "Babies like a [predictable] daily routine.", "tr": "Bebekler önceden bilinen bir günlük düzeni sever.", "de": "Babys mögen einen vorhersehbaren Tagesablauf.", "fr": "Les bébés aiment une routine prévisible.", "it": "I neonati amano una routine prevedibile.", "es": "A los bebés les gusta una rutina previsible." }
+        {
+          "en": "The ending of the film was very [predictable].",
+          "tr": "Filmin sonu çok tahmin edilebilirdi.",
+          "de": "Das Ende des Films war sehr vorhersehbar.",
+          "fr": "La fin du film était très prévisible.",
+          "it": "Il finale del film era molto prevedibile.",
+          "es": "El final de la película era muy predecible."
+        },
+        {
+          "en": "Babies like a [predictable] daily routine.",
+          "tr": "Bebekler önceden bilinen bir günlük düzeni sever.",
+          "de": "Babys mögen einen vorhersehbaren Tagesablauf.",
+          "fr": "Les bébés aiment une routine prévisible.",
+          "it": "I neonati amano una routine prevedibile.",
+          "es": "A los bebés les gusta una rutina previsible."
+        }
       ]
     },
     {
-      "id": "dictionary", "pos": "noun", "parent": null, "parts": ["dict", "-ion", "-ary"],
-      "gloss": { "en": "a book or list of words and their meanings (a collection of sayings)", "tr": "sözlük", "de": "das Wörterbuch", "fr": "le dictionnaire", "it": "il dizionario", "es": "el diccionario" },
+      "id": "dictionary",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "dict",
+        "-ion",
+        "-ary"
+      ],
+      "gloss": {
+        "en": "a book or list of words and their meanings (a collection of sayings)",
+        "tr": "sözlük",
+        "de": "das Wörterbuch",
+        "fr": "le dictionnaire",
+        "it": "il dizionario",
+        "es": "el diccionario"
+      },
       "sentences": [
-        { "en": "Look the word up in the [dictionary].", "tr": "Kelimeye sözlükten bak.", "de": "Schlag das Wort im Wörterbuch nach.", "fr": "Cherche le mot dans le dictionnaire.", "it": "Cerca la parola nel dizionario.", "es": "Busca la palabra en el diccionario." },
-        { "en": "This [dictionary] has examples for every word.", "tr": "Bu sözlükte her kelime için örnek var.", "de": "Dieses Wörterbuch hat Beispiele für jedes Wort.", "fr": "Ce dictionnaire a des exemples pour chaque mot.", "it": "Questo dizionario ha esempi per ogni parola.", "es": "Este diccionario tiene ejemplos para cada palabra." }
+        {
+          "en": "Look the word up in the [dictionary].",
+          "tr": "Kelimeye sözlükten bak.",
+          "de": "Schlag das Wort im Wörterbuch nach.",
+          "fr": "Cherche le mot dans le dictionnaire.",
+          "it": "Cerca la parola nel dizionario.",
+          "es": "Busca la palabra en el diccionario."
+        },
+        {
+          "en": "This [dictionary] has examples for every word.",
+          "tr": "Bu sözlükte her kelime için örnek var.",
+          "de": "Dieses Wörterbuch hat Beispiele für jedes Wort.",
+          "fr": "Ce dictionnaire a des exemples pour chaque mot.",
+          "it": "Questo dizionario ha esempi per ogni parola.",
+          "es": "Este diccionario tiene ejemplos para cada palabra."
+        }
       ]
     },
     {
-      "id": "contradict", "pos": "verb", "parent": null, "parts": ["contra-", "dict"],
-      "gloss": { "en": "to say the opposite (literally: to speak against)", "tr": "çelişmek, aksini söylemek", "de": "widersprechen", "fr": "contredire", "it": "contraddire", "es": "contradecir" },
+      "id": "contradict",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "contra-",
+        "dict"
+      ],
+      "gloss": {
+        "en": "to say the opposite (literally: to speak against)",
+        "tr": "çelişmek, aksini söylemek",
+        "de": "widersprechen",
+        "fr": "contredire",
+        "it": "contraddire",
+        "es": "contradecir"
+      },
       "sentences": [
-        { "en": "Don't [contradict] your grandmother at dinner.", "tr": "Yemekte büyükannenle ters düşme.", "de": "Widersprich deiner Oma nicht beim Abendessen.", "fr": "Ne contredis pas ta grand-mère au dîner.", "it": "Non contraddire tua nonna a cena.", "es": "No le lleves la contraria a tu abuela en la cena." },
-        { "en": "The two reports [contradict] each other.", "tr": "İki rapor birbiriyle çelişiyor.", "de": "Die beiden Berichte widersprechen sich.", "fr": "Les deux rapports se contredisent.", "it": "I due rapporti si contraddicono.", "es": "Los dos informes se contradicen." }
+        {
+          "en": "Don't [contradict] your grandmother at dinner.",
+          "tr": "Yemekte büyükannenle ters düşme.",
+          "de": "Widersprich deiner Oma nicht beim Abendessen.",
+          "fr": "Ne contredis pas ta grand-mère au dîner.",
+          "it": "Non contraddire tua nonna a cena.",
+          "es": "No le lleves la contraria a tu abuela en la cena."
+        },
+        {
+          "en": "The two reports [contradict] each other.",
+          "tr": "İki rapor birbiriyle çelişiyor.",
+          "de": "Die beiden Berichte widersprechen sich.",
+          "fr": "Les deux rapports se contredisent.",
+          "it": "I due rapporti si contraddicono.",
+          "es": "Los dos informes se contradicen."
+        }
       ]
     },
     {
-      "id": "dictate", "pos": "verb", "parent": null, "parts": ["dict", "-ate"],
-      "gloss": { "en": "to say words for someone to write down; to give orders", "tr": "yazdırmak; dayatmak", "de": "diktieren", "fr": "dicter", "it": "dettare", "es": "dictar" },
+      "id": "dictate",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "dict",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "to say words for someone to write down; to give orders",
+        "tr": "yazdırmak; dayatmak",
+        "de": "diktieren",
+        "fr": "dicter",
+        "it": "dettare",
+        "es": "dictar"
+      },
       "sentences": [
-        { "en": "The teacher [dictated] a short text to the class.", "tr": "Öğretmen sınıfa kısa bir metin yazdırdı.", "de": "Der Lehrer diktierte der Klasse einen kurzen Text.", "fr": "Le professeur a dicté un court texte à la classe.", "it": "L'insegnante ha dettato un breve testo alla classe.", "es": "El profesor dictó un texto corto a la clase." },
-        { "en": "Money should not [dictate] your choices.", "tr": "Seçimlerini para belirlememeli.", "de": "Geld sollte deine Entscheidungen nicht diktieren.", "fr": "L'argent ne devrait pas dicter tes choix.", "it": "Il denaro non dovrebbe dettare le tue scelte.", "es": "El dinero no debería dictar tus decisiones." }
+        {
+          "en": "The teacher [dictated] a short text to the class.",
+          "tr": "Öğretmen sınıfa kısa bir metin yazdırdı.",
+          "de": "Der Lehrer diktierte der Klasse einen kurzen Text.",
+          "fr": "Le professeur a dicté un court texte à la classe.",
+          "it": "L'insegnante ha dettato un breve testo alla classe.",
+          "es": "El profesor dictó un texto corto a la clase."
+        },
+        {
+          "en": "Money should not [dictate] your choices.",
+          "tr": "Seçimlerini para belirlememeli.",
+          "de": "Geld sollte deine Entscheidungen nicht diktieren.",
+          "fr": "L'argent ne devrait pas dicter tes choix.",
+          "it": "Il denaro non dovrebbe dettare le tue scelte.",
+          "es": "El dinero no debería dictar tus decisiones."
+        }
+      ]
+    },
+    {
+      "id": "dictation",
+      "pos": "noun",
+      "parent": "dictate",
+      "parts": [
+        "dict",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "saying words for someone to write; a test where students write what they hear",
+        "tr": "dikte, yazdırma",
+        "de": "das Diktat",
+        "fr": "la dictée",
+        "it": "il dettato",
+        "es": "el dictado"
+      },
+      "sentences": [
+        {
+          "en": "We had a French [dictation] at school today.",
+          "tr": "Bugün okulda Fransızca dikte yaptık.",
+          "de": "Heute hatten wir in der Schule ein Französischdiktat.",
+          "fr": "Aujourd'hui, nous avons eu une dictée de français à l'école.",
+          "it": "Oggi a scuola abbiamo fatto un dettato di francese.",
+          "es": "Hoy tuvimos un dictado de francés en el colegio."
+        },
+        {
+          "en": "My phone types text from [dictation].",
+          "tr": "Telefonum söylediklerimi yazıya döküyor.",
+          "de": "Mein Handy schreibt Texte nach Diktat.",
+          "fr": "Mon téléphone écrit les textes sous la dictée.",
+          "it": "Il mio telefono scrive i testi sotto dettatura.",
+          "es": "Mi teléfono escribe textos por dictado."
+        }
+      ]
+    },
+    {
+      "id": "dictator",
+      "pos": "noun",
+      "parent": "dictate",
+      "parts": [
+        "dict",
+        "-ator"
+      ],
+      "gloss": {
+        "en": "a ruler with total power",
+        "tr": "diktatör",
+        "de": "der Diktator",
+        "fr": "le dictateur",
+        "it": "il dittatore",
+        "es": "el dictador"
+      },
+      "sentences": [
+        {
+          "en": "The [dictator] ruled the country for thirty years.",
+          "tr": "Diktatör ülkeyi otuz yıl yönetti.",
+          "de": "Der Diktator regierte das Land dreißig Jahre lang.",
+          "fr": "Le dictateur a dirigé le pays pendant trente ans.",
+          "it": "Il dittatore ha governato il paese per trent'anni.",
+          "es": "El dictador gobernó el país durante treinta años."
+        },
+        {
+          "en": "People finally forced the [dictator] out.",
+          "tr": "Halk sonunda diktatörü devirdi.",
+          "de": "Das Volk hat den Diktator schließlich gestürzt.",
+          "fr": "Le peuple a fini par chasser le dictateur.",
+          "it": "Alla fine il popolo ha cacciato il dittatore.",
+          "es": "El pueblo acabó echando al dictador."
+        }
+      ]
+    },
+    {
+      "id": "dictatorship",
+      "pos": "noun",
+      "parent": "dictator",
+      "parts": [
+        "dict",
+        "-ator",
+        "-ship"
+      ],
+      "gloss": {
+        "en": "a country or government ruled by a dictator",
+        "tr": "diktatörlük",
+        "de": "die Diktatur",
+        "fr": "la dictature",
+        "it": "la dittatura",
+        "es": "la dictadura"
+      },
+      "sentences": [
+        {
+          "en": "The country was a [dictatorship] until 1990.",
+          "tr": "Ülke 1990'a kadar bir diktatörlüktü.",
+          "de": "Das Land war bis 1990 eine Diktatur.",
+          "fr": "Le pays était une dictature jusqu'en 1990.",
+          "it": "Il paese è stato una dittatura fino al 1990.",
+          "es": "El país fue una dictadura hasta 1990."
+        },
+        {
+          "en": "My grandparents grew up under a [dictatorship].",
+          "tr": "Büyükannemle büyükbabam bir diktatörlük altında büyüdü.",
+          "de": "Meine Großeltern sind in einer Diktatur aufgewachsen.",
+          "fr": "Mes grands-parents ont grandi sous une dictature.",
+          "it": "I miei nonni sono cresciuti sotto una dittatura.",
+          "es": "Mis abuelos crecieron bajo una dictadura."
+        }
+      ]
+    },
+    {
+      "id": "verdict",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "ver-",
+        "dict"
+      ],
+      "gloss": {
+        "en": "a decision of a court or jury (literally: a true saying)",
+        "tr": "karar, hüküm",
+        "de": "das Urteil",
+        "fr": "le verdict",
+        "it": "il verdetto",
+        "es": "el veredicto"
+      },
+      "sentences": [
+        {
+          "en": "The jury will give its [verdict] tomorrow.",
+          "tr": "Jüri kararını yarın açıklayacak.",
+          "de": "Die Geschworenen verkünden morgen ihr Urteil.",
+          "fr": "Le jury rendra son verdict demain.",
+          "it": "La giuria emetterà il verdetto domani.",
+          "es": "El jurado dará su veredicto mañana."
+        },
+        {
+          "en": "So what's your [verdict] on the new café?",
+          "tr": "Peki yeni kafe hakkındaki kararın ne?",
+          "de": "Und, wie lautet dein Urteil über das neue Café?",
+          "fr": "Alors, quel est ton verdict sur le nouveau café ?",
+          "it": "Allora, qual è il tuo verdetto sul nuovo bar?",
+          "es": "Bueno, ¿cuál es tu veredicto sobre la nueva cafetería?"
+        }
+      ]
+    },
+    {
+      "id": "indicate",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "in-",
+        "dic",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "to show or point out (from Latin dicare, 'to proclaim', a relative of dicere)",
+        "tr": "göstermek, işaret etmek",
+        "de": "anzeigen, hinweisen auf",
+        "fr": "indiquer",
+        "it": "indicare",
+        "es": "indicar"
+      },
+      "sentences": [
+        {
+          "en": "The red light [indicates] that the oven is hot.",
+          "tr": "Kırmızı ışık fırının sıcak olduğunu gösterir.",
+          "de": "Das rote Licht zeigt an, dass der Ofen heiß ist.",
+          "fr": "Le voyant rouge indique que le four est chaud.",
+          "it": "La luce rossa indica che il forno è caldo.",
+          "es": "La luz roja indica que el horno está caliente."
+        },
+        {
+          "en": "She [indicated] the door with her hand.",
+          "tr": "Eliyle kapıyı işaret etti.",
+          "de": "Sie zeigte mit der Hand auf die Tür.",
+          "fr": "Elle a indiqué la porte de la main.",
+          "it": "Ha indicato la porta con la mano.",
+          "es": "Señaló la puerta con la mano."
+        }
+      ]
+    },
+    {
+      "id": "indication",
+      "pos": "noun",
+      "parent": "indicate",
+      "parts": [
+        "in-",
+        "dic",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "a sign that something is true or will happen",
+        "tr": "belirti, işaret",
+        "de": "das Anzeichen, der Hinweis",
+        "fr": "l'indication, le signe",
+        "it": "l'indicazione, il segno",
+        "es": "el indicio, la señal"
+      },
+      "sentences": [
+        {
+          "en": "There is no [indication] that he is lying.",
+          "tr": "Yalan söylediğine dair hiçbir belirti yok.",
+          "de": "Es gibt keinen Hinweis darauf, dass er lügt.",
+          "fr": "Rien n'indique qu'il ment.",
+          "it": "Non c'è alcun segno che stia mentendo.",
+          "es": "No hay ningún indicio de que mienta."
+        },
+        {
+          "en": "Dark clouds are an [indication] of rain.",
+          "tr": "Kara bulutlar yağmurun işaretidir.",
+          "de": "Dunkle Wolken sind ein Anzeichen für Regen.",
+          "fr": "Les nuages noirs sont un signe de pluie.",
+          "it": "Le nuvole scure sono un segno di pioggia.",
+          "es": "Las nubes oscuras son señal de lluvia."
+        }
+      ]
+    },
+    {
+      "id": "indicator",
+      "pos": "noun",
+      "parent": "indicate",
+      "parts": [
+        "in-",
+        "dic",
+        "-ator"
+      ],
+      "gloss": {
+        "en": "something that shows a level or state; a car's turn signal",
+        "tr": "gösterge; sinyal",
+        "de": "der Indikator; der Blinker",
+        "fr": "l'indicateur; le clignotant",
+        "it": "l'indicatore; la freccia",
+        "es": "el indicador; el intermitente"
+      },
+      "sentences": [
+        {
+          "en": "Grades are not the only [indicator] of success.",
+          "tr": "Notlar başarının tek göstergesi değildir.",
+          "de": "Noten sind nicht der einzige Indikator für Erfolg.",
+          "fr": "Les notes ne sont pas le seul indicateur de réussite.",
+          "it": "I voti non sono l'unico indicatore di successo.",
+          "es": "Las notas no son el único indicador del éxito."
+        },
+        {
+          "en": "Use your [indicator] before you turn.",
+          "tr": "Dönmeden önce sinyal ver.",
+          "de": "Setz den Blinker, bevor du abbiegst.",
+          "fr": "Mets ton clignotant avant de tourner.",
+          "it": "Metti la freccia prima di girare.",
+          "es": "Pon el intermitente antes de girar."
+        }
+      ]
+    },
+    {
+      "id": "addict",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "ad-",
+        "dict"
+      ],
+      "gloss": {
+        "en": "a person who cannot stop using something (from Latin addicere, 'to hand over')",
+        "tr": "bağımlı; tiryaki",
+        "de": "der/die Süchtige",
+        "fr": "la personne dépendante; l'accro",
+        "it": "la persona dipendente; il patito",
+        "es": "el adicto"
+      },
+      "sentences": [
+        {
+          "en": "He is a coffee [addict].",
+          "tr": "O bir kahve tiryakisi.",
+          "de": "Er ist kaffeesüchtig.",
+          "fr": "C'est un accro au café.",
+          "it": "È un patito del caffè.",
+          "es": "Es un adicto al café."
+        },
+        {
+          "en": "The clinic helps [addicts] recover.",
+          "tr": "Klinik bağımlıların iyileşmesine yardım ediyor.",
+          "de": "Die Klinik hilft Süchtigen bei der Genesung.",
+          "fr": "La clinique aide les personnes dépendantes à se rétablir.",
+          "it": "La clinica aiuta le persone dipendenti a guarire.",
+          "es": "La clínica ayuda a los adictos a recuperarse."
+        }
+      ]
+    },
+    {
+      "id": "addiction",
+      "pos": "noun",
+      "parent": "addict",
+      "parts": [
+        "ad-",
+        "dict",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "the state of not being able to stop doing or using something",
+        "tr": "bağımlılık",
+        "de": "die Sucht, die Abhängigkeit",
+        "fr": "l'addiction, la dépendance",
+        "it": "la dipendenza",
+        "es": "la adicción"
+      },
+      "sentences": [
+        {
+          "en": "Phone [addiction] is common among teenagers.",
+          "tr": "Telefon bağımlılığı gençler arasında yaygın.",
+          "de": "Handysucht ist unter Jugendlichen verbreitet.",
+          "fr": "La dépendance au téléphone est fréquente chez les ados.",
+          "it": "La dipendenza dal telefono è comune tra i ragazzi.",
+          "es": "La adicción al móvil es común entre los adolescentes."
+        },
+        {
+          "en": "He spoke openly about his [addiction].",
+          "tr": "Bağımlılığı hakkında açıkça konuştu.",
+          "de": "Er sprach offen über seine Sucht.",
+          "fr": "Il a parlé ouvertement de son addiction.",
+          "it": "Ha parlato apertamente della sua dipendenza.",
+          "es": "Habló abiertamente de su adicción."
+        }
+      ]
+    },
+    {
+      "id": "addictive",
+      "pos": "adjective",
+      "parent": "addict",
+      "parts": [
+        "ad-",
+        "dict",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "making you want more and more",
+        "tr": "bağımlılık yapan",
+        "de": "süchtig machend",
+        "fr": "addictif, qui rend accro",
+        "it": "che crea dipendenza",
+        "es": "adictivo"
+      },
+      "sentences": [
+        {
+          "en": "This game is really [addictive].",
+          "tr": "Bu oyun gerçekten bağımlılık yapıyor.",
+          "de": "Dieses Spiel macht echt süchtig.",
+          "fr": "Ce jeu est vraiment addictif.",
+          "it": "Questo gioco crea davvero dipendenza.",
+          "es": "Este juego es muy adictivo."
+        },
+        {
+          "en": "Sugar can be [addictive].",
+          "tr": "Şeker bağımlılık yapabilir.",
+          "de": "Zucker kann süchtig machen.",
+          "fr": "Le sucre peut rendre accro.",
+          "it": "Lo zucchero può creare dipendenza.",
+          "es": "El azúcar puede ser adictivo."
+        }
+      ]
+    },
+    {
+      "id": "contradiction",
+      "pos": "noun",
+      "parent": "contradict",
+      "parts": [
+        "contra-",
+        "dict",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a statement or fact that is the opposite of another",
+        "tr": "çelişki",
+        "de": "der Widerspruch",
+        "fr": "la contradiction",
+        "it": "la contraddizione",
+        "es": "la contradicción"
+      },
+      "sentences": [
+        {
+          "en": "There is a [contradiction] in your story.",
+          "tr": "Hikâyende bir çelişki var.",
+          "de": "In deiner Geschichte gibt es einen Widerspruch.",
+          "fr": "Il y a une contradiction dans ton histoire.",
+          "it": "C'è una contraddizione nel tuo racconto.",
+          "es": "Hay una contradicción en tu historia."
+        },
+        {
+          "en": "A silent song sounds like a [contradiction].",
+          "tr": "Sessiz bir şarkı kulağa çelişki gibi geliyor.",
+          "de": "Ein stilles Lied klingt wie ein Widerspruch.",
+          "fr": "Une chanson silencieuse, cela ressemble à une contradiction.",
+          "it": "Una canzone silenziosa sembra una contraddizione.",
+          "es": "Una canción silenciosa parece una contradicción."
+        }
+      ]
+    },
+    {
+      "id": "contradictory",
+      "pos": "adjective",
+      "parent": "contradict",
+      "parts": [
+        "contra-",
+        "dict",
+        "-ory"
+      ],
+      "gloss": {
+        "en": "saying opposite things",
+        "tr": "çelişkili",
+        "de": "widersprüchlich",
+        "fr": "contradictoire",
+        "it": "contraddittorio",
+        "es": "contradictorio"
+      },
+      "sentences": [
+        {
+          "en": "The witnesses gave [contradictory] accounts.",
+          "tr": "Tanıklar çelişkili ifadeler verdi.",
+          "de": "Die Zeugen machten widersprüchliche Aussagen.",
+          "fr": "Les témoins ont fait des récits contradictoires.",
+          "it": "I testimoni hanno dato versioni contraddittorie.",
+          "es": "Los testigos dieron versiones contradictorias."
+        },
+        {
+          "en": "I get [contradictory] advice from everyone.",
+          "tr": "Herkesten çelişkili tavsiyeler alıyorum.",
+          "de": "Ich bekomme von allen widersprüchliche Ratschläge.",
+          "fr": "Tout le monde me donne des conseils contradictoires.",
+          "it": "Ricevo consigli contraddittori da tutti.",
+          "es": "Todo el mundo me da consejos contradictorios."
+        }
+      ]
+    },
+    {
+      "id": "unpredictable",
+      "pos": "adjective",
+      "parent": "predictable",
+      "parts": [
+        "un-",
+        "pre-",
+        "dict",
+        "-able"
+      ],
+      "gloss": {
+        "en": "hard to know in advance",
+        "tr": "öngörülemez, ne yapacağı belli olmayan",
+        "de": "unberechenbar, unvorhersehbar",
+        "fr": "imprévisible",
+        "it": "imprevedibile",
+        "es": "imprevisible, impredecible"
+      },
+      "sentences": [
+        {
+          "en": "The weather in April is [unpredictable].",
+          "tr": "Nisanda havanın ne yapacağı belli olmaz.",
+          "de": "Das Wetter im April ist unberechenbar.",
+          "fr": "Le temps en avril est imprévisible.",
+          "it": "Il tempo ad aprile è imprevedibile.",
+          "es": "El tiempo en abril es imprevisible."
+        },
+        {
+          "en": "Young horses can be [unpredictable].",
+          "tr": "Genç atların ne yapacağı belli olmaz.",
+          "de": "Junge Pferde können unberechenbar sein.",
+          "fr": "Les jeunes chevaux peuvent être imprévisibles.",
+          "it": "I cavalli giovani possono essere imprevedibili.",
+          "es": "Los caballos jóvenes pueden ser impredecibles."
+        }
+      ]
+    },
+    {
+      "id": "diction",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "dict",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "the way someone pronounces words; choice of words",
+        "tr": "diksiyon",
+        "de": "die Aussprache, die Diktion",
+        "fr": "la diction",
+        "it": "la dizione",
+        "es": "la dicción"
+      },
+      "sentences": [
+        {
+          "en": "Actors practice their [diction] every day.",
+          "tr": "Oyuncular her gün diksiyon çalışır.",
+          "de": "Schauspieler üben jeden Tag ihre Aussprache.",
+          "fr": "Les acteurs travaillent leur diction tous les jours.",
+          "it": "Gli attori esercitano la dizione ogni giorno.",
+          "es": "Los actores practican su dicción a diario."
+        },
+        {
+          "en": "Her [diction] is so clear that everyone understands her.",
+          "tr": "Diksiyonu o kadar net ki herkes onu anlıyor.",
+          "de": "Ihre Aussprache ist so klar, dass alle sie verstehen.",
+          "fr": "Sa diction est si claire que tout le monde la comprend.",
+          "it": "La sua dizione è così chiara che tutti la capiscono.",
+          "es": "Su dicción es tan clara que todos la entienden."
+        }
+      ]
+    },
+    {
+      "id": "benediction",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "bene-",
+        "dict",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a blessing (literally: a speaking well)",
+        "tr": "kutsama, hayır dua",
+        "de": "der Segen",
+        "fr": "la bénédiction",
+        "it": "la benedizione",
+        "es": "la bendición"
+      },
+      "sentences": [
+        {
+          "en": "The priest gave a [benediction] at the end.",
+          "tr": "Rahip sonunda kutsama duası okudu.",
+          "de": "Der Priester sprach am Ende den Segen.",
+          "fr": "Le prêtre a donné la bénédiction à la fin.",
+          "it": "Il sacerdote ha impartito la benedizione alla fine.",
+          "es": "El sacerdote dio la bendición al final."
+        },
+        {
+          "en": "The old man raised his hands in [benediction].",
+          "tr": "Yaşlı adam dua eder gibi ellerini kaldırdı.",
+          "de": "Der alte Mann hob segnend die Hände.",
+          "fr": "Le vieil homme leva les mains en signe de bénédiction.",
+          "it": "Il vecchio alzò le mani in segno di benedizione.",
+          "es": "El anciano alzó las manos en señal de bendición."
+        }
+      ]
+    },
+    {
+      "id": "edict",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "e-",
+        "dict"
+      ],
+      "gloss": {
+        "en": "an official order from a ruler (literally: something spoken out)",
+        "tr": "ferman, buyruk",
+        "de": "der Erlass, das Edikt",
+        "fr": "l'édit, le décret",
+        "it": "l'editto",
+        "es": "el edicto"
+      },
+      "sentences": [
+        {
+          "en": "The king issued an [edict] banning the festival.",
+          "tr": "Kral festivali yasaklayan bir ferman çıkardı.",
+          "de": "Der König erließ ein Edikt, das das Fest verbot.",
+          "fr": "Le roi a publié un édit interdisant la fête.",
+          "it": "Il re emanò un editto che vietava la festa.",
+          "es": "El rey promulgó un edicto que prohibía la fiesta."
+        },
+        {
+          "en": "Nobody dared to ignore the [edict].",
+          "tr": "Kimse buyruğu görmezden gelmeye cesaret edemedi.",
+          "de": "Niemand wagte es, den Erlass zu missachten.",
+          "fr": "Personne n'osa ignorer l'édit.",
+          "it": "Nessuno osò ignorare l'editto.",
+          "es": "Nadie se atrevió a ignorar el edicto."
+        }
+      ]
+    },
+    {
+      "id": "jurisdiction",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "juris-",
+        "dict",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "the official power to make legal decisions (literally: a speaking of the law)",
+        "tr": "yargı yetkisi, yetki alanı",
+        "de": "die Zuständigkeit, die Gerichtsbarkeit",
+        "fr": "la juridiction, la compétence",
+        "it": "la giurisdizione",
+        "es": "la jurisdicción"
+      },
+      "sentences": [
+        {
+          "en": "This case is outside the court's [jurisdiction].",
+          "tr": "Bu dava mahkemenin yetki alanı dışında.",
+          "de": "Dieser Fall liegt außerhalb der Zuständigkeit des Gerichts.",
+          "fr": "Cette affaire ne relève pas de la compétence du tribunal.",
+          "it": "Questo caso esula dalla giurisdizione del tribunale.",
+          "es": "Este caso queda fuera de la jurisdicción del tribunal."
+        },
+        {
+          "en": "The city police have no [jurisdiction] on the highway.",
+          "tr": "Şehir polisinin otoyolda yetkisi yok.",
+          "de": "Die Stadtpolizei ist auf der Autobahn nicht zuständig.",
+          "fr": "La police municipale n'est pas compétente sur l'autoroute.",
+          "it": "La polizia municipale non ha giurisdizione sull'autostrada.",
+          "es": "La policía municipal no tiene jurisdicción en la autopista."
+        }
+      ]
+    },
+    {
+      "id": "dedicate",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "de-",
+        "dic",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "to give your time or work to something; to offer a book or song to someone (from Latin dicare, 'to proclaim')",
+        "tr": "adamak; ithaf etmek",
+        "de": "widmen",
+        "fr": "consacrer; dédier",
+        "it": "dedicare",
+        "es": "dedicar"
+      },
+      "sentences": [
+        {
+          "en": "She [dedicated] her life to helping animals.",
+          "tr": "Hayatını hayvanlara yardım etmeye adadı.",
+          "de": "Sie widmete ihr Leben dem Tierschutz.",
+          "fr": "Elle a consacré sa vie à aider les animaux.",
+          "it": "Ha dedicato la vita ad aiutare gli animali.",
+          "es": "Dedicó su vida a ayudar a los animales."
+        },
+        {
+          "en": "I [dedicate] this song to my mother.",
+          "tr": "Bu şarkıyı anneme ithaf ediyorum.",
+          "de": "Ich widme dieses Lied meiner Mutter.",
+          "fr": "Je dédie cette chanson à ma mère.",
+          "it": "Dedico questa canzone a mia madre.",
+          "es": "Le dedico esta canción a mi madre."
+        }
+      ]
+    },
+    {
+      "id": "dedication",
+      "pos": "noun",
+      "parent": "dedicate",
+      "parts": [
+        "de-",
+        "dic",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "hard work and commitment; words that dedicate a book to someone",
+        "tr": "özveri, bağlılık; ithaf",
+        "de": "die Hingabe; die Widmung",
+        "fr": "le dévouement; la dédicace",
+        "it": "la dedizione; la dedica",
+        "es": "la dedicación; la dedicatoria"
+      },
+      "sentences": [
+        {
+          "en": "Learning a language takes [dedication].",
+          "tr": "Bir dil öğrenmek özveri ister.",
+          "de": "Eine Sprache zu lernen erfordert Hingabe.",
+          "fr": "Apprendre une langue demande du dévouement.",
+          "it": "Imparare una lingua richiede dedizione.",
+          "es": "Aprender un idioma requiere dedicación."
+        },
+        {
+          "en": "The book's [dedication] reads 'For my father'.",
+          "tr": "Kitabın ithafında 'Babama' yazıyor.",
+          "de": "Die Widmung des Buches lautet: „Für meinen Vater“.",
+          "fr": "La dédicace du livre dit : « À mon père ».",
+          "it": "La dedica del libro dice: «A mio padre».",
+          "es": "La dedicatoria del libro dice: «Para mi padre»."
+        }
       ]
     }
   ]

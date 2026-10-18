@@ -1,27 +1,530 @@
 {
-  "in-": { "kind": "prefix", "meaning": { "en": "in, into", "tr": "içine", "de": "hinein", "fr": "dans, vers l'intérieur", "it": "dentro", "es": "hacia dentro" } },
-  "im-": { "kind": "prefix", "meaning": { "en": "in, into (in- before m, p, b)", "tr": "içine (m, p, b önünde in-)", "de": "hinein (in- vor m, p, b)", "fr": "dans (in- devant m, p, b)", "it": "dentro (in- davanti a m, p, b)", "es": "hacia dentro (in- ante m, p, b)" } },
-  "re-": { "kind": "prefix", "meaning": { "en": "back, again", "tr": "geri, yeniden", "de": "zurück, wieder", "fr": "en arrière, de nouveau", "it": "indietro, di nuovo", "es": "atrás, de nuevo" } },
-  "per-": { "kind": "prefix", "meaning": { "en": "through", "tr": "içinden, baştan başa", "de": "durch", "fr": "à travers", "it": "attraverso", "es": "a través de" } },
-  "ex-": { "kind": "prefix", "meaning": { "en": "out, out of", "tr": "dışarı", "de": "heraus", "fr": "hors de", "it": "fuori", "es": "hacia fuera" } },
-  "trans-": { "kind": "prefix", "meaning": { "en": "across", "tr": "öte yana, karşıya", "de": "hinüber", "fr": "au-delà, à travers", "it": "al di là, attraverso", "es": "al otro lado" } },
-  "pre-": { "kind": "prefix", "meaning": { "en": "before", "tr": "önce", "de": "vorher", "fr": "avant", "it": "prima", "es": "antes" } },
-  "contra-": { "kind": "prefix", "meaning": { "en": "against", "tr": "karşı", "de": "gegen", "fr": "contre", "it": "contro", "es": "contra" } },
-  "pro-": { "kind": "prefix", "meaning": { "en": "forward", "tr": "ileri", "de": "vorwärts", "fr": "en avant", "it": "in avanti", "es": "hacia delante" } },
-  "intro-": { "kind": "prefix", "meaning": { "en": "inward, into", "tr": "içeri", "de": "hinein", "fr": "vers l'intérieur", "it": "verso l'interno", "es": "hacia dentro" } },
-  "e-": { "kind": "prefix", "meaning": { "en": "out (short for ex-)", "tr": "dışarı (ex- kısa hali)", "de": "heraus (Kurzform von ex-)", "fr": "hors de (forme courte de ex-)", "it": "fuori (forma breve di ex-)", "es": "hacia fuera (forma breve de ex-)" } },
-  "de-": { "kind": "prefix", "meaning": { "en": "down, fully", "tr": "aşağı, tamamen", "de": "herab, völlig", "fr": "vers le bas, complètement", "it": "giù, completamente", "es": "hacia abajo, del todo" } },
-  "sub-": { "kind": "prefix", "meaning": { "en": "under", "tr": "alt", "de": "unter", "fr": "sous", "it": "sotto", "es": "debajo" } },
-  "manu-": { "kind": "prefix", "meaning": { "en": "by hand", "tr": "elle", "de": "mit der Hand", "fr": "à la main", "it": "a mano", "es": "a mano" } },
-  "-ion": { "kind": "suffix", "meaning": { "en": "act or result of (makes a noun)", "tr": "eylem ya da sonucu (isim yapar)", "de": "Handlung oder Ergebnis (bildet ein Nomen)", "fr": "action ou résultat (forme un nom)", "it": "azione o risultato (forma un nome)", "es": "acción o resultado (forma un sustantivo)" } },
-  "-ation": { "kind": "suffix", "meaning": { "en": "act or result of (makes a noun)", "tr": "eylem ya da sonucu (isim yapar)", "de": "Handlung oder Ergebnis (bildet ein Nomen)", "fr": "action ou résultat (forme un nom)", "it": "azione o risultato (forma un nome)", "es": "acción o resultado (forma un sustantivo)" } },
-  "-or": { "kind": "suffix", "meaning": { "en": "person who does", "tr": "yapan kişi", "de": "Person, die etwas tut", "fr": "personne qui fait", "it": "persona che fa", "es": "persona que hace" } },
-  "-er": { "kind": "suffix", "meaning": { "en": "person who does", "tr": "yapan kişi", "de": "Person, die etwas tut", "fr": "personne qui fait", "it": "persona che fa", "es": "persona que hace" } },
-  "-ator": { "kind": "suffix", "meaning": { "en": "person who does", "tr": "yapan kişi", "de": "Person, die etwas tut", "fr": "personne qui fait", "it": "persona che fa", "es": "persona que hace" } },
-  "-ful": { "kind": "suffix", "meaning": { "en": "full of", "tr": "dolu, -li", "de": "voller", "fr": "plein de", "it": "pieno di", "es": "lleno de" } },
-  "-ive": { "kind": "suffix", "meaning": { "en": "tending to, related to", "tr": "ile ilgili", "de": "bezogen auf", "fr": "relatif à", "it": "relativo a", "es": "relativo a" } },
-  "-able": { "kind": "suffix", "meaning": { "en": "can be done", "tr": "-ebilir", "de": "-bar", "fr": "qui peut être", "it": "che può essere", "es": "que se puede" } },
-  "-ant": { "kind": "suffix", "meaning": { "en": "being, doing (makes an adjective)", "tr": "olan, yapan (sıfat yapar)", "de": "seiend, tuend (bildet ein Adjektiv)", "fr": "qui est, qui fait (forme un adjectif)", "it": "che è, che fa (forma un aggettivo)", "es": "que es, que hace (forma un adjetivo)" } },
-  "-ary": { "kind": "suffix", "meaning": { "en": "place or collection of", "tr": "yeri, toplamı", "de": "Ort oder Sammlung von", "fr": "lieu ou recueil de", "it": "luogo o raccolta di", "es": "lugar o colección de" } },
-  "-ate": { "kind": "suffix", "meaning": { "en": "to do, to make (makes a verb)", "tr": "yapmak (fiil yapar)", "de": "machen (bildet ein Verb)", "fr": "faire (forme un verbe)", "it": "fare (forma un verbo)", "es": "hacer (forma un verbo)" } }
+  "in-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "in, into",
+      "tr": "içine",
+      "de": "hinein",
+      "fr": "dans, vers l'intérieur",
+      "it": "dentro",
+      "es": "hacia dentro"
+    }
+  },
+  "im-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "in, into (in- before m, p, b)",
+      "tr": "içine (m, p, b önünde in-)",
+      "de": "hinein (in- vor m, p, b)",
+      "fr": "dans (in- devant m, p, b)",
+      "it": "dentro (in- davanti a m, p, b)",
+      "es": "hacia dentro (in- ante m, p, b)"
+    }
+  },
+  "re-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "back, again",
+      "tr": "geri, yeniden",
+      "de": "zurück, wieder",
+      "fr": "en arrière, de nouveau",
+      "it": "indietro, di nuovo",
+      "es": "atrás, de nuevo"
+    }
+  },
+  "per-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "through",
+      "tr": "içinden, baştan başa",
+      "de": "durch",
+      "fr": "à travers",
+      "it": "attraverso",
+      "es": "a través de"
+    }
+  },
+  "ex-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "out, out of",
+      "tr": "dışarı",
+      "de": "heraus",
+      "fr": "hors de",
+      "it": "fuori",
+      "es": "hacia fuera"
+    }
+  },
+  "trans-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "across",
+      "tr": "öte yana, karşıya",
+      "de": "hinüber",
+      "fr": "au-delà, à travers",
+      "it": "al di là, attraverso",
+      "es": "al otro lado"
+    }
+  },
+  "pre-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "before",
+      "tr": "önce",
+      "de": "vorher",
+      "fr": "avant",
+      "it": "prima",
+      "es": "antes"
+    }
+  },
+  "contra-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "against",
+      "tr": "karşı",
+      "de": "gegen",
+      "fr": "contre",
+      "it": "contro",
+      "es": "contra"
+    }
+  },
+  "pro-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "forward",
+      "tr": "ileri",
+      "de": "vorwärts",
+      "fr": "en avant",
+      "it": "in avanti",
+      "es": "hacia delante"
+    }
+  },
+  "intro-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "inward, into",
+      "tr": "içeri",
+      "de": "hinein",
+      "fr": "vers l'intérieur",
+      "it": "verso l'interno",
+      "es": "hacia dentro"
+    }
+  },
+  "e-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "out (short for ex-)",
+      "tr": "dışarı (ex- kısa hali)",
+      "de": "heraus (Kurzform von ex-)",
+      "fr": "hors de (forme courte de ex-)",
+      "it": "fuori (forma breve di ex-)",
+      "es": "hacia fuera (forma breve de ex-)"
+    }
+  },
+  "de-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "down, away; fully",
+      "tr": "aşağı, uzağa; tamamen",
+      "de": "herab, weg; völlig",
+      "fr": "vers le bas, au loin; complètement",
+      "it": "giù, via; completamente",
+      "es": "hacia abajo, lejos; del todo"
+    }
+  },
+  "sub-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "under",
+      "tr": "alt",
+      "de": "unter",
+      "fr": "sous",
+      "it": "sotto",
+      "es": "debajo"
+    }
+  },
+  "manu-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "by hand",
+      "tr": "elle",
+      "de": "mit der Hand",
+      "fr": "à la main",
+      "it": "a mano",
+      "es": "a mano"
+    }
+  },
+  "-ion": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "act or result of (makes a noun)",
+      "tr": "eylem ya da sonucu (isim yapar)",
+      "de": "Handlung oder Ergebnis (bildet ein Nomen)",
+      "fr": "action ou résultat (forme un nom)",
+      "it": "azione o risultato (forma un nome)",
+      "es": "acción o resultado (forma un sustantivo)"
+    }
+  },
+  "-ation": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "act or result of (makes a noun)",
+      "tr": "eylem ya da sonucu (isim yapar)",
+      "de": "Handlung oder Ergebnis (bildet ein Nomen)",
+      "fr": "action ou résultat (forme un nom)",
+      "it": "azione o risultato (forma un nome)",
+      "es": "acción o resultado (forma un sustantivo)"
+    }
+  },
+  "-or": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "person who does",
+      "tr": "yapan kişi",
+      "de": "Person, die etwas tut",
+      "fr": "personne qui fait",
+      "it": "persona che fa",
+      "es": "persona que hace"
+    }
+  },
+  "-er": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "person who does",
+      "tr": "yapan kişi",
+      "de": "Person, die etwas tut",
+      "fr": "personne qui fait",
+      "it": "persona che fa",
+      "es": "persona que hace"
+    }
+  },
+  "-ator": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "person who does",
+      "tr": "yapan kişi",
+      "de": "Person, die etwas tut",
+      "fr": "personne qui fait",
+      "it": "persona che fa",
+      "es": "persona que hace"
+    }
+  },
+  "-ful": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "full of",
+      "tr": "dolu, -li",
+      "de": "voller",
+      "fr": "plein de",
+      "it": "pieno di",
+      "es": "lleno de"
+    }
+  },
+  "-ive": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "tending to, related to",
+      "tr": "ile ilgili",
+      "de": "bezogen auf",
+      "fr": "relatif à",
+      "it": "relativo a",
+      "es": "relativo a"
+    }
+  },
+  "-able": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "can be done",
+      "tr": "-ebilir",
+      "de": "-bar",
+      "fr": "qui peut être",
+      "it": "che può essere",
+      "es": "que se puede"
+    }
+  },
+  "-ant": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "being, doing (makes an adjective)",
+      "tr": "olan, yapan (sıfat yapar)",
+      "de": "seiend, tuend (bildet ein Adjektiv)",
+      "fr": "qui est, qui fait (forme un adjectif)",
+      "it": "che è, che fa (forma un aggettivo)",
+      "es": "que es, que hace (forma un adjetivo)"
+    }
+  },
+  "-ary": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "place or collection of",
+      "tr": "yeri, toplamı",
+      "de": "Ort oder Sammlung von",
+      "fr": "lieu ou recueil de",
+      "it": "luogo o raccolta di",
+      "es": "lugar o colección de"
+    }
+  },
+  "-ate": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "to do, to make (makes a verb)",
+      "tr": "yapmak (fiil yapar)",
+      "de": "machen (bildet ein Verb)",
+      "fr": "faire (forme un verbe)",
+      "it": "fare (forma un verbo)",
+      "es": "hacer (forma un verbo)"
+    }
+  },
+  "sus-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "up from below (form of sub-)",
+      "tr": "alttan yukarı (sub- biçimi)",
+      "de": "von unten (Form von sub-)",
+      "fr": "par-dessous (forme de sub-)",
+      "it": "da sotto (forma di sub-)",
+      "es": "desde abajo (forma de sub-)"
+    }
+  },
+  "sup-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "under (sub- before p)",
+      "tr": "alt (p önünde sub-)",
+      "de": "unter (sub- vor p)",
+      "fr": "sous (sub- devant p)",
+      "it": "sotto (sub- davanti a p)",
+      "es": "debajo (sub- ante p)"
+    }
+  },
+  "a-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "to, toward (form of ad-)",
+      "tr": "-e doğru (ad- biçimi)",
+      "de": "hin zu (Form von ad-)",
+      "fr": "vers (forme de ad-)",
+      "it": "verso (forma di ad-)",
+      "es": "hacia (forma de ad-)"
+    }
+  },
+  "ad-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "to, toward",
+      "tr": "-e doğru",
+      "de": "hin zu",
+      "fr": "vers",
+      "it": "verso",
+      "es": "hacia"
+    }
+  },
+  "un-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "not",
+      "tr": "değil, -sız",
+      "de": "nicht, un-",
+      "fr": "non, in-",
+      "it": "non, in-",
+      "es": "no, in-"
+    }
+  },
+  "dis-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "not, the opposite of",
+      "tr": "değil, karşıtı",
+      "de": "nicht, Gegenteil von",
+      "fr": "contraire de",
+      "it": "contrario di",
+      "es": "contrario de"
+    }
+  },
+  "retro-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "backward",
+      "tr": "geriye",
+      "de": "zurück",
+      "fr": "en arrière",
+      "it": "all'indietro",
+      "es": "hacia atrás"
+    }
+  },
+  "tele-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "far (Greek)",
+      "tr": "uzak (Yunanca)",
+      "de": "fern (griechisch)",
+      "fr": "loin (grec)",
+      "it": "lontano (greco)",
+      "es": "lejos (griego)"
+    }
+  },
+  "ver-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "true (Latin verus)",
+      "tr": "doğru, gerçek (Latince verus)",
+      "de": "wahr (lateinisch verus)",
+      "fr": "vrai (latin verus)",
+      "it": "vero (latino verus)",
+      "es": "verdadero (latín verus)"
+    }
+  },
+  "bene-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "well, good",
+      "tr": "iyi",
+      "de": "gut",
+      "fr": "bien",
+      "it": "bene",
+      "es": "bien"
+    }
+  },
+  "juris-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "of the law",
+      "tr": "hukukun, yasanın",
+      "de": "des Rechts",
+      "fr": "du droit",
+      "it": "del diritto",
+      "es": "del derecho"
+    }
+  },
+  "-ed": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "having been done (makes an adjective)",
+      "tr": "-miş, -ilmiş (sıfat yapar)",
+      "de": "ge-…-t (Partizip, bildet ein Adjektiv)",
+      "fr": "-é (participe, forme un adjectif)",
+      "it": "-ato (participio, forma un aggettivo)",
+      "es": "-ado (participio, forma un adjetivo)"
+    }
+  },
+  "-ious": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "full of, having (makes an adjective)",
+      "tr": "dolu, -li (sıfat yapar)",
+      "de": "voller, -ig (bildet ein Adjektiv)",
+      "fr": "plein de, -eux (forme un adjectif)",
+      "it": "pieno di, -oso (forma un aggettivo)",
+      "es": "lleno de, -oso (forma un adjetivo)"
+    }
+  },
+  "-ial": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "relating to (makes an adjective)",
+      "tr": "ile ilgili (sıfat yapar)",
+      "de": "bezogen auf (bildet ein Adjektiv)",
+      "fr": "relatif à (forme un adjectif)",
+      "it": "relativo a (forma un aggettivo)",
+      "es": "relativo a (forma un adjetivo)"
+    }
+  },
+  "-ist": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "person who does or knows",
+      "tr": "yapan ya da bilen kişi, -cı",
+      "de": "Person, die etwas tut oder kennt (-ist)",
+      "fr": "personne qui pratique (-iste)",
+      "it": "persona che pratica (-ista)",
+      "es": "persona que practica (-ista)"
+    }
+  },
+  "-ize": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "to make, to do (makes a verb)",
+      "tr": "-leştirmek (fiil yapar)",
+      "de": "-isieren (bildet ein Verb)",
+      "fr": "-iser (forme un verbe)",
+      "it": "-izzare (forma un verbo)",
+      "es": "-izar (forma un verbo)"
+    }
+  },
+  "-ific": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "making (makes an adjective)",
+      "tr": "yapan, kılan (sıfat yapar)",
+      "de": "machend (bildet ein Adjektiv)",
+      "fr": "qui fait (forme un adjectif)",
+      "it": "che fa (forma un aggettivo)",
+      "es": "que hace (forma un adjetivo)"
+    }
+  },
+  "-ify": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "to make (makes a verb)",
+      "tr": "kılmak, yapmak (fiil yapar)",
+      "de": "machen (bildet ein Verb, -ifizieren)",
+      "fr": "rendre, faire (-ifier)",
+      "it": "rendere, fare (-ificare)",
+      "es": "hacer (-ificar)"
+    }
+  },
+  "-imen": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "result or example of",
+      "tr": "sonucu, örneği",
+      "de": "Ergebnis, Beispiel von",
+      "fr": "résultat, exemple de",
+      "it": "risultato, esempio di",
+      "es": "resultado, ejemplo de"
+    }
+  },
+  "-acle": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "thing, means (makes a noun)",
+      "tr": "şey, araç (isim yapar)",
+      "de": "Ding, Mittel (bildet ein Nomen)",
+      "fr": "chose, moyen (forme un nom)",
+      "it": "cosa, mezzo (forma un nome)",
+      "es": "cosa, medio (forma un sustantivo)"
+    }
+  },
+  "-ance": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "state or quality (makes a noun)",
+      "tr": "durum, nitelik (isim yapar)",
+      "de": "Zustand, Eigenschaft (bildet ein Nomen)",
+      "fr": "état, qualité (-ance)",
+      "it": "stato, qualità (-anza)",
+      "es": "estado, cualidad (-ancia)"
+    }
+  },
+  "-ship": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "state, position (makes a noun)",
+      "tr": "durum, konum (-lık)",
+      "de": "Zustand, Stellung (-schaft)",
+      "fr": "état, condition",
+      "it": "stato, condizione",
+      "es": "estado, condición"
+    }
+  },
+  "-ory": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "relating to, tending to (makes an adjective)",
+      "tr": "ile ilgili, -ici (sıfat yapar)",
+      "de": "bezogen auf (bildet ein Adjektiv)",
+      "fr": "relatif à (-oire)",
+      "it": "relativo a (-orio)",
+      "es": "relativo a (-orio)"
+    }
+  }
 }

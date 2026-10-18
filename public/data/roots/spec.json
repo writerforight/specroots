@@ -1,64 +1,1052 @@
 {
   "id": "spec",
-  "forms": ["spec", "spect"],
+  "forms": [
+    "spec",
+    "spect",
+    "pect",
+    "pic"
+  ],
   "origin": "la",
   "etymon": "specere",
-  "meaning": { "en": "to look, to see", "tr": "bakmak, görmek", "de": "schauen, sehen", "fr": "regarder, voir", "it": "guardare, vedere", "es": "mirar, ver" },
+  "meaning": {
+    "en": "to look, to see",
+    "tr": "bakmak, görmek",
+    "de": "schauen, sehen",
+    "fr": "regarder, voir",
+    "it": "guardare, vedere",
+    "es": "mirar, ver"
+  },
   "words": [
     {
-      "id": "inspect", "pos": "verb", "parent": null, "parts": ["in-", "spect"],
-      "gloss": { "en": "to look at something closely", "tr": "incelemek, denetlemek", "de": "untersuchen, prüfen", "fr": "inspecter, examiner", "it": "ispezionare, esaminare", "es": "inspeccionar, examinar" },
+      "id": "inspect",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "in-",
+        "spect"
+      ],
+      "gloss": {
+        "en": "to look at something closely",
+        "tr": "incelemek, denetlemek",
+        "de": "untersuchen, prüfen",
+        "fr": "inspecter, examiner",
+        "it": "ispezionare, esaminare",
+        "es": "inspeccionar, examinar"
+      },
       "sentences": [
-        { "en": "The mechanic [inspected] the brakes before the trip.", "tr": "Tamirci yolculuktan önce frenleri inceledi.", "de": "Der Mechaniker prüfte vor der Reise die Bremsen.", "fr": "Le mécanicien a inspecté les freins avant le voyage.", "it": "Il meccanico ha ispezionato i freni prima del viaggio.", "es": "El mecánico inspeccionó los frenos antes del viaje." },
-        { "en": "Please [inspect] the box before you sign for it.", "tr": "Lütfen teslim almadan önce kutuyu inceleyin.", "de": "Bitte prüfen Sie das Paket, bevor Sie unterschreiben.", "fr": "Veuillez examiner le colis avant de signer.", "it": "Per favore, controlli il pacco prima di firmare.", "es": "Por favor, revise la caja antes de firmar." }
+        {
+          "en": "The mechanic [inspected] the brakes before the trip.",
+          "tr": "Tamirci yolculuktan önce frenleri inceledi.",
+          "de": "Der Mechaniker prüfte vor der Reise die Bremsen.",
+          "fr": "Le mécanicien a inspecté les freins avant le voyage.",
+          "it": "Il meccanico ha ispezionato i freni prima del viaggio.",
+          "es": "El mecánico inspeccionó los frenos antes del viaje."
+        },
+        {
+          "en": "Please [inspect] the box before you sign for it.",
+          "tr": "Lütfen teslim almadan önce kutuyu inceleyin.",
+          "de": "Bitte prüfen Sie das Paket, bevor Sie unterschreiben.",
+          "fr": "Veuillez examiner le colis avant de signer.",
+          "it": "Per favore, controlli il pacco prima di firmare.",
+          "es": "Por favor, revise la caja antes de firmar."
+        }
       ]
     },
     {
-      "id": "inspection", "pos": "noun", "parent": "inspect", "parts": ["in-", "spect", "-ion"],
-      "gloss": { "en": "a careful look or official check", "tr": "denetim, muayene", "de": "die Inspektion, die Prüfung", "fr": "l'inspection, le contrôle", "it": "l'ispezione, il controllo", "es": "la inspección, la revisión" },
+      "id": "inspection",
+      "pos": "noun",
+      "parent": "inspect",
+      "parts": [
+        "in-",
+        "spect",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a careful look or official check",
+        "tr": "denetim, muayene",
+        "de": "die Inspektion, die Prüfung",
+        "fr": "l'inspection, le contrôle",
+        "it": "l'ispezione, il controllo",
+        "es": "la inspección, la revisión"
+      },
       "sentences": [
-        { "en": "The car passed its safety [inspection].", "tr": "Araba güvenlik muayenesinden geçti.", "de": "Das Auto hat die Sicherheitsprüfung bestanden.", "fr": "La voiture a réussi le contrôle de sécurité.", "it": "L'auto ha superato il controllo di sicurezza.", "es": "El coche pasó la inspección de seguridad." },
-        { "en": "A closer [inspection] showed a small crack.", "tr": "Daha yakından bakınca küçük bir çatlak görüldü.", "de": "Bei genauerer Prüfung zeigte sich ein kleiner Riss.", "fr": "Un examen plus attentif a révélé une petite fissure.", "it": "Un esame più attento ha rivelato una piccola crepa.", "es": "Una revisión más atenta mostró una pequeña grieta." }
+        {
+          "en": "The car passed its safety [inspection].",
+          "tr": "Araba güvenlik muayenesinden geçti.",
+          "de": "Das Auto hat die Sicherheitsprüfung bestanden.",
+          "fr": "La voiture a réussi le contrôle de sécurité.",
+          "it": "L'auto ha superato il controllo di sicurezza.",
+          "es": "El coche pasó la inspección de seguridad."
+        },
+        {
+          "en": "A closer [inspection] showed a small crack.",
+          "tr": "Daha yakından bakınca küçük bir çatlak görüldü.",
+          "de": "Bei genauerer Prüfung zeigte sich ein kleiner Riss.",
+          "fr": "Un examen plus attentif a révélé une petite fissure.",
+          "it": "Un esame più attento ha rivelato una piccola crepa.",
+          "es": "Una revisión más atenta mostró una pequeña grieta."
+        }
       ]
     },
     {
-      "id": "inspector", "pos": "noun", "parent": "inspect", "parts": ["in-", "spect", "-or"],
-      "gloss": { "en": "a person whose job is to check things", "tr": "müfettiş, denetçi", "de": "der Inspektor, der Prüfer", "fr": "l'inspecteur", "it": "l'ispettore", "es": "el inspector" },
+      "id": "inspector",
+      "pos": "noun",
+      "parent": "inspect",
+      "parts": [
+        "in-",
+        "spect",
+        "-or"
+      ],
+      "gloss": {
+        "en": "a person whose job is to check things",
+        "tr": "müfettiş, denetçi",
+        "de": "der Inspektor, der Prüfer",
+        "fr": "l'inspecteur",
+        "it": "l'ispettore",
+        "es": "el inspector"
+      },
       "sentences": [
-        { "en": "The [inspector] asked to see the kitchen.", "tr": "Müfettiş mutfağı görmek istedi.", "de": "Der Inspektor wollte die Küche sehen.", "fr": "L'inspecteur a demandé à voir la cuisine.", "it": "L'ispettore ha chiesto di vedere la cucina.", "es": "El inspector pidió ver la cocina." },
-        { "en": "My uncle worked as a tax [inspector].", "tr": "Amcam vergi müfettişi olarak çalıştı.", "de": "Mein Onkel arbeitete als Steuerprüfer.", "fr": "Mon oncle travaillait comme inspecteur des impôts.", "it": "Mio zio lavorava come ispettore delle tasse.", "es": "Mi tío trabajaba como inspector de Hacienda." }
+        {
+          "en": "The [inspector] asked to see the kitchen.",
+          "tr": "Müfettiş mutfağı görmek istedi.",
+          "de": "Der Inspektor wollte die Küche sehen.",
+          "fr": "L'inspecteur a demandé à voir la cuisine.",
+          "it": "L'ispettore ha chiesto di vedere la cucina.",
+          "es": "El inspector pidió ver la cocina."
+        },
+        {
+          "en": "My uncle worked as a tax [inspector].",
+          "tr": "Amcam vergi müfettişi olarak çalıştı.",
+          "de": "Mein Onkel arbeitete als Steuerprüfer.",
+          "fr": "Mon oncle travaillait comme inspecteur des impôts.",
+          "it": "Mio zio lavorava come ispettore delle tasse.",
+          "es": "Mi tío trabajaba como inspector de Hacienda."
+        }
       ]
     },
     {
-      "id": "respect", "pos": "verb", "parent": null, "parts": ["re-", "spect"],
-      "gloss": { "en": "to look up to; to treat with care (literally: to look back at)", "tr": "saygı duymak", "de": "respektieren, achten", "fr": "respecter", "it": "rispettare", "es": "respetar" },
+      "id": "respect",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "re-",
+        "spect"
+      ],
+      "gloss": {
+        "en": "to look up to; to treat with care (literally: to look back at)",
+        "tr": "saygı duymak",
+        "de": "respektieren, achten",
+        "fr": "respecter",
+        "it": "rispettare",
+        "es": "respetar"
+      },
       "sentences": [
-        { "en": "Students [respect] a teacher who is fair.", "tr": "Öğrenciler adil olan bir öğretmene saygı duyar.", "de": "Schüler respektieren einen Lehrer, der fair ist.", "fr": "Les élèves respectent un professeur juste.", "it": "Gli studenti rispettano un insegnante giusto.", "es": "Los alumnos respetan a un profesor justo." },
-        { "en": "We must [respect] the rules of the game.", "tr": "Oyunun kurallarına uymalıyız.", "de": "Wir müssen die Spielregeln respektieren.", "fr": "Nous devons respecter les règles du jeu.", "it": "Dobbiamo rispettare le regole del gioco.", "es": "Debemos respetar las reglas del juego." }
+        {
+          "en": "Students [respect] a teacher who is fair.",
+          "tr": "Öğrenciler adil olan bir öğretmene saygı duyar.",
+          "de": "Schüler respektieren einen Lehrer, der fair ist.",
+          "fr": "Les élèves respectent un professeur juste.",
+          "it": "Gli studenti rispettano un insegnante giusto.",
+          "es": "Los alumnos respetan a un profesor justo."
+        },
+        {
+          "en": "We must [respect] the rules of the game.",
+          "tr": "Oyunun kurallarına uymalıyız.",
+          "de": "Wir müssen die Spielregeln respektieren.",
+          "fr": "Nous devons respecter les règles du jeu.",
+          "it": "Dobbiamo rispettare le regole del gioco.",
+          "es": "Debemos respetar las reglas del juego."
+        }
       ]
     },
     {
-      "id": "respectful", "pos": "adjective", "parent": "respect", "parts": ["re-", "spect", "-ful"],
-      "gloss": { "en": "showing respect", "tr": "saygılı", "de": "respektvoll", "fr": "respectueux", "it": "rispettoso", "es": "respetuoso" },
+      "id": "respectful",
+      "pos": "adjective",
+      "parent": "respect",
+      "parts": [
+        "re-",
+        "spect",
+        "-ful"
+      ],
+      "gloss": {
+        "en": "showing respect",
+        "tr": "saygılı",
+        "de": "respektvoll",
+        "fr": "respectueux",
+        "it": "rispettoso",
+        "es": "respetuoso"
+      },
       "sentences": [
-        { "en": "Be [respectful] when you visit the temple.", "tr": "Tapınağı ziyaret ederken saygılı ol.", "de": "Sei respektvoll, wenn du den Tempel besuchst.", "fr": "Sois respectueux quand tu visites le temple.", "it": "Sii rispettoso quando visiti il tempio.", "es": "Sé respetuoso cuando visites el templo." },
-        { "en": "She gave a short, [respectful] answer.", "tr": "Kısa ve saygılı bir cevap verdi.", "de": "Sie gab eine kurze, respektvolle Antwort.", "fr": "Elle a donné une réponse courte et respectueuse.", "it": "Ha dato una risposta breve e rispettosa.", "es": "Dio una respuesta breve y respetuosa." }
+        {
+          "en": "Be [respectful] when you visit the temple.",
+          "tr": "Tapınağı ziyaret ederken saygılı ol.",
+          "de": "Sei respektvoll, wenn du den Tempel besuchst.",
+          "fr": "Sois respectueux quand tu visites le temple.",
+          "it": "Sii rispettoso quando visiti il tempio.",
+          "es": "Sé respetuoso cuando visites el templo."
+        },
+        {
+          "en": "She gave a short, [respectful] answer.",
+          "tr": "Kısa ve saygılı bir cevap verdi.",
+          "de": "Sie gab eine kurze, respektvolle Antwort.",
+          "fr": "Elle a donné une réponse courte et respectueuse.",
+          "it": "Ha dato una risposta breve e rispettosa.",
+          "es": "Dio una respuesta breve y respetuosa."
+        }
       ]
     },
     {
-      "id": "spectator", "pos": "noun", "parent": null, "parts": ["spect", "-ator"],
-      "gloss": { "en": "a person who watches an event", "tr": "seyirci", "de": "der Zuschauer", "fr": "le spectateur", "it": "lo spettatore", "es": "el espectador" },
+      "id": "spectator",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "spect",
+        "-ator"
+      ],
+      "gloss": {
+        "en": "a person who watches an event",
+        "tr": "seyirci",
+        "de": "der Zuschauer",
+        "fr": "le spectateur",
+        "it": "lo spettatore",
+        "es": "el espectador"
+      },
       "sentences": [
-        { "en": "Thousands of [spectators] filled the stadium.", "tr": "Binlerce seyirci stadı doldurdu.", "de": "Tausende Zuschauer füllten das Stadion.", "fr": "Des milliers de spectateurs remplissaient le stade.", "it": "Migliaia di spettatori riempivano lo stadio.", "es": "Miles de espectadores llenaron el estadio." },
-        { "en": "I was only a [spectator], not a player.", "tr": "Ben sadece seyirciydim, oyuncu değil.", "de": "Ich war nur Zuschauer, kein Spieler.", "fr": "Je n'étais qu'un spectateur, pas un joueur.", "it": "Ero solo uno spettatore, non un giocatore.", "es": "Yo solo era un espectador, no un jugador." }
+        {
+          "en": "Thousands of [spectators] filled the stadium.",
+          "tr": "Binlerce seyirci stadı doldurdu.",
+          "de": "Tausende Zuschauer füllten das Stadion.",
+          "fr": "Des milliers de spectateurs remplissaient le stade.",
+          "it": "Migliaia di spettatori riempivano lo stadio.",
+          "es": "Miles de espectadores llenaron el estadio."
+        },
+        {
+          "en": "I was only a [spectator], not a player.",
+          "tr": "Ben sadece seyirciydim, oyuncu değil.",
+          "de": "Ich war nur Zuschauer, kein Spieler.",
+          "fr": "Je n'étais qu'un spectateur, pas un joueur.",
+          "it": "Ero solo uno spettatore, non un giocatore.",
+          "es": "Yo solo era un espectador, no un jugador."
+        }
       ]
     },
     {
-      "id": "perspective", "pos": "noun", "parent": null, "parts": ["per-", "spect", "-ive"],
-      "gloss": { "en": "a way of seeing (literally: looking through)", "tr": "bakış açısı, perspektif", "de": "die Perspektive, die Sichtweise", "fr": "la perspective, le point de vue", "it": "la prospettiva, il punto di vista", "es": "la perspectiva, el punto de vista" },
+      "id": "perspective",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "per-",
+        "spect",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "a way of seeing (literally: looking through)",
+        "tr": "bakış açısı, perspektif",
+        "de": "die Perspektive, die Sichtweise",
+        "fr": "la perspective, le point de vue",
+        "it": "la prospettiva, il punto di vista",
+        "es": "la perspectiva, el punto de vista"
+      },
       "sentences": [
-        { "en": "Travel gave him a new [perspective] on life.", "tr": "Seyahat ona hayata yeni bir bakış açısı kazandırdı.", "de": "Das Reisen gab ihm eine neue Sicht auf das Leben.", "fr": "Le voyage lui a donné une nouvelle perspective sur la vie.", "it": "Il viaggio gli ha dato una nuova prospettiva sulla vita.", "es": "Viajar le dio una nueva perspectiva de la vida." },
-        { "en": "Try to see it from my [perspective].", "tr": "Bir de benim açımdan bakmaya çalış.", "de": "Versuch, es aus meiner Perspektive zu sehen.", "fr": "Essaie de voir les choses de mon point de vue.", "it": "Prova a vederla dal mio punto di vista.", "es": "Intenta verlo desde mi punto de vista." }
+        {
+          "en": "Travel gave him a new [perspective] on life.",
+          "tr": "Seyahat ona hayata yeni bir bakış açısı kazandırdı.",
+          "de": "Das Reisen gab ihm eine neue Sicht auf das Leben.",
+          "fr": "Le voyage lui a donné une nouvelle perspective sur la vie.",
+          "it": "Il viaggio gli ha dato una nuova prospettiva sulla vita.",
+          "es": "Viajar le dio una nueva perspectiva de la vida."
+        },
+        {
+          "en": "Try to see it from my [perspective].",
+          "tr": "Bir de benim açımdan bakmaya çalış.",
+          "de": "Versuch, es aus meiner Perspektive zu sehen.",
+          "fr": "Essaie de voir les choses de mon point de vue.",
+          "it": "Prova a vederla dal mio punto di vista.",
+          "es": "Intenta verlo desde mi punto de vista."
+        }
+      ]
+    },
+    {
+      "id": "expect",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ex-",
+        "pect"
+      ],
+      "gloss": {
+        "en": "to think something will happen (literally: to look out for)",
+        "tr": "beklemek",
+        "de": "erwarten",
+        "fr": "s'attendre à, attendre",
+        "it": "aspettarsi",
+        "es": "esperar"
+      },
+      "sentences": [
+        {
+          "en": "We [expect] rain tomorrow.",
+          "tr": "Yarın yağmur bekliyoruz.",
+          "de": "Wir erwarten morgen Regen.",
+          "fr": "Nous nous attendons à de la pluie demain.",
+          "it": "Ci aspettiamo pioggia domani.",
+          "es": "Esperamos lluvia mañana."
+        },
+        {
+          "en": "I didn't [expect] to see you here.",
+          "tr": "Seni burada görmeyi beklemiyordum.",
+          "de": "Ich hätte nicht erwartet, dich hier zu sehen.",
+          "fr": "Je ne m'attendais pas à te voir ici.",
+          "it": "Non mi aspettavo di vederti qui.",
+          "es": "No esperaba verte aquí."
+        }
+      ]
+    },
+    {
+      "id": "expectation",
+      "pos": "noun",
+      "parent": "expect",
+      "parts": [
+        "ex-",
+        "pect",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "a belief about what will happen",
+        "tr": "beklenti",
+        "de": "die Erwartung",
+        "fr": "l'attente",
+        "it": "l'aspettativa",
+        "es": "la expectativa"
+      },
+      "sentences": [
+        {
+          "en": "The film did not meet my [expectations].",
+          "tr": "Film beklentilerimi karşılamadı.",
+          "de": "Der Film hat meine Erwartungen nicht erfüllt.",
+          "fr": "Le film n'a pas répondu à mes attentes.",
+          "it": "Il film non ha soddisfatto le mie aspettative.",
+          "es": "La película no cumplió mis expectativas."
+        },
+        {
+          "en": "Her parents have high [expectations] of her.",
+          "tr": "Ailesinin ondan beklentileri yüksek.",
+          "de": "Ihre Eltern haben hohe Erwartungen an sie.",
+          "fr": "Ses parents ont de grandes attentes envers elle.",
+          "it": "I suoi genitori hanno grandi aspettative su di lei.",
+          "es": "Sus padres tienen grandes expectativas puestas en ella."
+        }
+      ]
+    },
+    {
+      "id": "unexpected",
+      "pos": "adjective",
+      "parent": "expect",
+      "parts": [
+        "un-",
+        "ex-",
+        "pect",
+        "-ed"
+      ],
+      "gloss": {
+        "en": "not expected; surprising",
+        "tr": "beklenmedik",
+        "de": "unerwartet",
+        "fr": "inattendu",
+        "it": "inaspettato",
+        "es": "inesperado"
+      },
+      "sentences": [
+        {
+          "en": "We had an [unexpected] visitor last night.",
+          "tr": "Dün gece beklenmedik bir misafirimiz oldu.",
+          "de": "Gestern Abend hatten wir unerwarteten Besuch.",
+          "fr": "Hier soir, nous avons eu une visite inattendue.",
+          "it": "Ieri sera abbiamo avuto una visita inaspettata.",
+          "es": "Anoche tuvimos una visita inesperada."
+        },
+        {
+          "en": "The ending was completely [unexpected].",
+          "tr": "Son tamamen beklenmedikti.",
+          "de": "Das Ende war völlig unerwartet.",
+          "fr": "La fin était complètement inattendue.",
+          "it": "Il finale era del tutto inaspettato.",
+          "es": "El final fue totalmente inesperado."
+        }
+      ]
+    },
+    {
+      "id": "suspect",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "sus-",
+        "pect"
+      ],
+      "gloss": {
+        "en": "to think something bad may be true (literally: to look up at from below)",
+        "tr": "şüphelenmek",
+        "de": "vermuten, verdächtigen",
+        "fr": "soupçonner",
+        "it": "sospettare",
+        "es": "sospechar"
+      },
+      "sentences": [
+        {
+          "en": "I [suspect] he is not telling the truth.",
+          "tr": "Doğruyu söylemediğinden şüpheleniyorum.",
+          "de": "Ich vermute, dass er nicht die Wahrheit sagt.",
+          "fr": "Je soupçonne qu'il ne dit pas la vérité.",
+          "it": "Sospetto che non dica la verità.",
+          "es": "Sospecho que no dice la verdad."
+        },
+        {
+          "en": "The police [suspected] the driver.",
+          "tr": "Polis sürücüden şüphelendi.",
+          "de": "Die Polizei verdächtigte den Fahrer.",
+          "fr": "La police soupçonnait le conducteur.",
+          "it": "La polizia sospettava dell'autista.",
+          "es": "La policía sospechaba del conductor."
+        }
+      ]
+    },
+    {
+      "id": "suspicion",
+      "pos": "noun",
+      "parent": "suspect",
+      "parts": [
+        "sus-",
+        "pic",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a feeling that something is wrong",
+        "tr": "şüphe, kuşku",
+        "de": "der Verdacht",
+        "fr": "le soupçon",
+        "it": "il sospetto",
+        "es": "la sospecha"
+      },
+      "sentences": [
+        {
+          "en": "He was arrested on [suspicion] of theft.",
+          "tr": "Hırsızlık şüphesiyle tutuklandı.",
+          "de": "Er wurde wegen Verdachts auf Diebstahl festgenommen.",
+          "fr": "Il a été arrêté pour soupçon de vol.",
+          "it": "È stato arrestato con il sospetto di furto.",
+          "es": "Fue detenido por sospecha de robo."
+        },
+        {
+          "en": "I have a [suspicion] that she knows.",
+          "tr": "Onun bildiğinden şüpheleniyorum.",
+          "de": "Ich habe den Verdacht, dass sie es weiß.",
+          "fr": "Je soupçonne qu'elle est au courant.",
+          "it": "Ho il sospetto che lei lo sappia.",
+          "es": "Tengo la sospecha de que ella lo sabe."
+        }
+      ]
+    },
+    {
+      "id": "suspicious",
+      "pos": "adjective",
+      "parent": "suspect",
+      "parts": [
+        "sus-",
+        "pic",
+        "-ious"
+      ],
+      "gloss": {
+        "en": "making you think something is wrong; not trusting",
+        "tr": "şüpheli; kuşkulu",
+        "de": "verdächtig; misstrauisch",
+        "fr": "suspect; méfiant",
+        "it": "sospetto; sospettoso",
+        "es": "sospechoso; desconfiado"
+      },
+      "sentences": [
+        {
+          "en": "Call us if you see anything [suspicious].",
+          "tr": "Şüpheli bir şey görürseniz bizi arayın.",
+          "de": "Rufen Sie uns an, wenn Sie etwas Verdächtiges sehen.",
+          "fr": "Appelez-nous si vous voyez quelque chose de suspect.",
+          "it": "Chiamateci se vedete qualcosa di sospetto.",
+          "es": "Llámenos si ve algo sospechoso."
+        },
+        {
+          "en": "My cat is [suspicious] of strangers.",
+          "tr": "Kedim yabancılara karşı kuşkulu.",
+          "de": "Meine Katze ist Fremden gegenüber misstrauisch.",
+          "fr": "Mon chat se méfie des inconnus.",
+          "it": "Il mio gatto è sospettoso con gli estranei.",
+          "es": "Mi gato desconfía de los desconocidos."
+        }
+      ]
+    },
+    {
+      "id": "prospect",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "pro-",
+        "spect"
+      ],
+      "gloss": {
+        "en": "the chance that something will happen (literally: a looking forward)",
+        "tr": "olasılık, ihtimal",
+        "de": "die Aussicht",
+        "fr": "la perspective",
+        "it": "la prospettiva",
+        "es": "la perspectiva"
+      },
+      "sentences": [
+        {
+          "en": "There is little [prospect] of rain this week.",
+          "tr": "Bu hafta yağmur ihtimali az.",
+          "de": "Diese Woche besteht wenig Aussicht auf Regen.",
+          "fr": "Il y a peu de chances de pluie cette semaine.",
+          "it": "Ci sono poche probabilità di pioggia questa settimana.",
+          "es": "Hay pocas posibilidades de lluvia esta semana."
+        },
+        {
+          "en": "The [prospect] of a new job excited her.",
+          "tr": "Yeni bir iş ihtimali onu heyecanlandırdı.",
+          "de": "Die Aussicht auf einen neuen Job begeisterte sie.",
+          "fr": "La perspective d'un nouvel emploi l'enthousiasmait.",
+          "it": "La prospettiva di un nuovo lavoro la entusiasmava.",
+          "es": "La perspectiva de un nuevo trabajo la entusiasmaba."
+        }
+      ]
+    },
+    {
+      "id": "prospective",
+      "pos": "adjective",
+      "parent": "prospect",
+      "parts": [
+        "pro-",
+        "spect",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "likely to become; future",
+        "tr": "muhtemel, aday",
+        "de": "künftig, möglich",
+        "fr": "potentiel, futur",
+        "it": "potenziale, futuro",
+        "es": "posible, futuro"
+      },
+      "sentences": [
+        {
+          "en": "The school shows [prospective] students around.",
+          "tr": "Okul aday öğrencilere binayı gezdiriyor.",
+          "de": "Die Schule führt künftige Schüler herum.",
+          "fr": "L'école fait visiter les lieux aux futurs élèves.",
+          "it": "La scuola fa visitare l'edificio ai futuri studenti.",
+          "es": "La escuela enseña sus instalaciones a los futuros alumnos."
+        },
+        {
+          "en": "We met a [prospective] buyer for the house.",
+          "tr": "Ev için muhtemel bir alıcıyla görüştük.",
+          "de": "Wir haben einen möglichen Käufer für das Haus getroffen.",
+          "fr": "Nous avons rencontré un acheteur potentiel pour la maison.",
+          "it": "Abbiamo incontrato un potenziale acquirente per la casa.",
+          "es": "Conocimos a un posible comprador para la casa."
+        }
+      ]
+    },
+    {
+      "id": "aspect",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "a-",
+        "spect"
+      ],
+      "gloss": {
+        "en": "one part or side of something (literally: a looking at)",
+        "tr": "yön, boyut",
+        "de": "der Aspekt, die Seite",
+        "fr": "l'aspect",
+        "it": "l'aspetto",
+        "es": "el aspecto"
+      },
+      "sentences": [
+        {
+          "en": "Money is only one [aspect] of the problem.",
+          "tr": "Para, sorunun sadece bir boyutu.",
+          "de": "Geld ist nur ein Aspekt des Problems.",
+          "fr": "L'argent n'est qu'un aspect du problème.",
+          "it": "Il denaro è solo un aspetto del problema.",
+          "es": "El dinero es solo un aspecto del problema."
+        },
+        {
+          "en": "We discussed every [aspect] of the plan.",
+          "tr": "Planın her yönünü konuştuk.",
+          "de": "Wir haben jeden Aspekt des Plans besprochen.",
+          "fr": "Nous avons discuté de chaque aspect du projet.",
+          "it": "Abbiamo discusso ogni aspetto del piano.",
+          "es": "Hablamos de cada aspecto del plan."
+        }
+      ]
+    },
+    {
+      "id": "special",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "spec",
+        "-ial"
+      ],
+      "gloss": {
+        "en": "different from usual (from Latin species, 'appearance, kind')",
+        "tr": "özel",
+        "de": "besonders, speziell",
+        "fr": "spécial",
+        "it": "speciale",
+        "es": "especial"
+      },
+      "sentences": [
+        {
+          "en": "Today is a [special] day for our family.",
+          "tr": "Bugün ailemiz için özel bir gün.",
+          "de": "Heute ist ein besonderer Tag für unsere Familie.",
+          "fr": "Aujourd'hui est un jour spécial pour notre famille.",
+          "it": "Oggi è un giorno speciale per la nostra famiglia.",
+          "es": "Hoy es un día especial para nuestra familia."
+        },
+        {
+          "en": "This camera needs a [special] battery.",
+          "tr": "Bu kamera özel bir pil gerektiriyor.",
+          "de": "Diese Kamera braucht eine spezielle Batterie.",
+          "fr": "Cet appareil photo a besoin d'une pile spéciale.",
+          "it": "Questa fotocamera ha bisogno di una batteria speciale.",
+          "es": "Esta cámara necesita una pila especial."
+        }
+      ]
+    },
+    {
+      "id": "specialist",
+      "pos": "noun",
+      "parent": "special",
+      "parts": [
+        "spec",
+        "-ial",
+        "-ist"
+      ],
+      "gloss": {
+        "en": "an expert in one area",
+        "tr": "uzman",
+        "de": "der Spezialist, der Facharzt",
+        "fr": "le spécialiste",
+        "it": "lo specialista",
+        "es": "el especialista"
+      },
+      "sentences": [
+        {
+          "en": "My doctor sent me to a heart [specialist].",
+          "tr": "Doktorum beni bir kalp uzmanına gönderdi.",
+          "de": "Mein Arzt hat mich zu einem Herzspezialisten geschickt.",
+          "fr": "Mon médecin m'a envoyé chez un spécialiste du cœur.",
+          "it": "Il mio medico mi ha mandato da uno specialista del cuore.",
+          "es": "Mi médico me mandó a un especialista del corazón."
+        },
+        {
+          "en": "She is a [specialist] in old maps.",
+          "tr": "Eski haritalar konusunda uzman.",
+          "de": "Sie ist Spezialistin für alte Karten.",
+          "fr": "Elle est spécialiste des cartes anciennes.",
+          "it": "È una specialista di mappe antiche.",
+          "es": "Es especialista en mapas antiguos."
+        }
+      ]
+    },
+    {
+      "id": "specialize",
+      "pos": "verb",
+      "parent": "special",
+      "parts": [
+        "spec",
+        "-ial",
+        "-ize"
+      ],
+      "gloss": {
+        "en": "to focus on one subject or skill",
+        "tr": "uzmanlaşmak",
+        "de": "sich spezialisieren",
+        "fr": "se spécialiser",
+        "it": "specializzarsi",
+        "es": "especializarse"
+      },
+      "sentences": [
+        {
+          "en": "He wants to [specialize] in children's medicine.",
+          "tr": "Çocuk hekimliğinde uzmanlaşmak istiyor.",
+          "de": "Er möchte sich auf Kindermedizin spezialisieren.",
+          "fr": "Il veut se spécialiser en pédiatrie.",
+          "it": "Vuole specializzarsi in pediatria.",
+          "es": "Quiere especializarse en pediatría."
+        },
+        {
+          "en": "This shop [specializes] in Italian coffee.",
+          "tr": "Bu dükkân İtalyan kahvesinde uzman.",
+          "de": "Dieser Laden ist auf italienischen Kaffee spezialisiert.",
+          "fr": "Cette boutique est spécialisée dans le café italien.",
+          "it": "Questo negozio è specializzato in caffè italiano.",
+          "es": "Esta tienda está especializada en café italiano."
+        }
+      ]
+    },
+    {
+      "id": "specific",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "spec",
+        "-ific"
+      ],
+      "gloss": {
+        "en": "exact and clear; about one particular thing",
+        "tr": "belirli, özgül",
+        "de": "bestimmt, konkret",
+        "fr": "précis, spécifique",
+        "it": "specifico, preciso",
+        "es": "específico, concreto"
+      },
+      "sentences": [
+        {
+          "en": "Can you give me a [specific] example?",
+          "tr": "Bana somut bir örnek verebilir misin?",
+          "de": "Kannst du mir ein konkretes Beispiel geben?",
+          "fr": "Peux-tu me donner un exemple précis ?",
+          "it": "Puoi darmi un esempio specifico?",
+          "es": "¿Puedes darme un ejemplo concreto?"
+        },
+        {
+          "en": "Each key opens a [specific] door.",
+          "tr": "Her anahtar belirli bir kapıyı açar.",
+          "de": "Jeder Schlüssel öffnet eine bestimmte Tür.",
+          "fr": "Chaque clé ouvre une porte précise.",
+          "it": "Ogni chiave apre una porta specifica.",
+          "es": "Cada llave abre una puerta específica."
+        }
+      ]
+    },
+    {
+      "id": "specify",
+      "pos": "verb",
+      "parent": "specific",
+      "parts": [
+        "spec",
+        "-ify"
+      ],
+      "gloss": {
+        "en": "to say exactly",
+        "tr": "belirtmek",
+        "de": "genau angeben",
+        "fr": "préciser",
+        "it": "specificare",
+        "es": "especificar"
+      },
+      "sentences": [
+        {
+          "en": "Please [specify] the size you need.",
+          "tr": "Lütfen ihtiyacınız olan bedeni belirtin.",
+          "de": "Bitte geben Sie die Größe an, die Sie brauchen.",
+          "fr": "Veuillez préciser la taille dont vous avez besoin.",
+          "it": "Per favore, specifichi la taglia di cui ha bisogno.",
+          "es": "Por favor, especifique la talla que necesita."
+        },
+        {
+          "en": "The rules don't [specify] a time limit.",
+          "tr": "Kurallar bir süre sınırı belirtmiyor.",
+          "de": "Die Regeln legen keine Zeitgrenze fest.",
+          "fr": "Le règlement ne précise pas de limite de temps.",
+          "it": "Le regole non specificano un limite di tempo.",
+          "es": "Las normas no especifican un límite de tiempo."
+        }
+      ]
+    },
+    {
+      "id": "specimen",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "spec",
+        "-imen"
+      ],
+      "gloss": {
+        "en": "a single example or sample, used for study",
+        "tr": "örnek, numune",
+        "de": "die Probe, das Exemplar",
+        "fr": "le spécimen, l'échantillon",
+        "it": "il campione, l'esemplare",
+        "es": "la muestra, el ejemplar"
+      },
+      "sentences": [
+        {
+          "en": "The nurse took a blood [specimen].",
+          "tr": "Hemşire kan örneği aldı.",
+          "de": "Die Krankenschwester nahm eine Blutprobe.",
+          "fr": "L'infirmière a fait une prise de sang.",
+          "it": "L'infermiera ha prelevato un campione di sangue.",
+          "es": "La enfermera tomó una muestra de sangre."
+        },
+        {
+          "en": "The museum has a rare [specimen] of this butterfly.",
+          "tr": "Müzede bu kelebeğin nadir bir örneği var.",
+          "de": "Das Museum besitzt ein seltenes Exemplar dieses Schmetterlings.",
+          "fr": "Le musée possède un spécimen rare de ce papillon.",
+          "it": "Il museo ha un raro esemplare di questa farfalla.",
+          "es": "El museo tiene un ejemplar raro de esta mariposa."
+        }
+      ]
+    },
+    {
+      "id": "spectacle",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "spect",
+        "-acle"
+      ],
+      "gloss": {
+        "en": "an impressive thing to watch",
+        "tr": "gösteri, görülmeye değer manzara",
+        "de": "das Spektakel, der Anblick",
+        "fr": "le spectacle",
+        "it": "lo spettacolo",
+        "es": "el espectáculo"
+      },
+      "sentences": [
+        {
+          "en": "The fireworks were an amazing [spectacle].",
+          "tr": "Havai fişekler muhteşem bir gösteriydi.",
+          "de": "Das Feuerwerk war ein großartiges Spektakel.",
+          "fr": "Le feu d'artifice était un spectacle incroyable.",
+          "it": "I fuochi d'artificio sono stati uno spettacolo incredibile.",
+          "es": "Los fuegos artificiales fueron un espectáculo increíble."
+        },
+        {
+          "en": "Don't make a [spectacle] of yourself.",
+          "tr": "Kendini rezil etme.",
+          "de": "Mach dich nicht zum Gespött.",
+          "fr": "Ne te donne pas en spectacle.",
+          "it": "Non dare spettacolo.",
+          "es": "No hagas el ridículo."
+        }
+      ]
+    },
+    {
+      "id": "retrospect",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "retro-",
+        "spect"
+      ],
+      "gloss": {
+        "en": "a look back at the past (used in 'in retrospect')",
+        "tr": "geriye bakış; dönüp bakınca",
+        "de": "der Rückblick; im Nachhinein",
+        "fr": "le recul; avec le recul",
+        "it": "il senno di poi; a posteriori",
+        "es": "la retrospectiva; en retrospectiva"
+      },
+      "sentences": [
+        {
+          "en": "In [retrospect], it was a good decision.",
+          "tr": "Dönüp bakınca, iyi bir karardı.",
+          "de": "Im Nachhinein war es eine gute Entscheidung.",
+          "fr": "Avec le recul, c'était une bonne décision.",
+          "it": "Col senno di poi, è stata una buona decisione.",
+          "es": "En retrospectiva, fue una buena decisión."
+        },
+        {
+          "en": "In [retrospect], we should have left earlier.",
+          "tr": "Şimdi düşününce daha erken çıkmalıydık.",
+          "de": "Im Nachhinein hätten wir früher losfahren sollen.",
+          "fr": "Avec le recul, nous aurions dû partir plus tôt.",
+          "it": "Col senno di poi, saremmo dovuti partire prima.",
+          "es": "En retrospectiva, deberíamos haber salido antes."
+        }
+      ]
+    },
+    {
+      "id": "retrospective",
+      "pos": "noun",
+      "parent": "retrospect",
+      "parts": [
+        "retro-",
+        "spect",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "an exhibition or review of past work",
+        "tr": "retrospektif, geçmişe bakış",
+        "de": "die Retrospektive",
+        "fr": "la rétrospective",
+        "it": "la retrospettiva",
+        "es": "la retrospectiva"
+      },
+      "sentences": [
+        {
+          "en": "The museum is holding a [retrospective] of her paintings.",
+          "tr": "Müze onun resimlerinden bir retrospektif sergi düzenliyor.",
+          "de": "Das Museum zeigt eine Retrospektive ihrer Bilder.",
+          "fr": "Le musée organise une rétrospective de ses tableaux.",
+          "it": "Il museo ospita una retrospettiva dei suoi quadri.",
+          "es": "El museo celebra una retrospectiva de sus cuadros."
+        },
+        {
+          "en": "Our team holds a short [retrospective] after each project.",
+          "tr": "Ekibimiz her projeden sonra kısa bir değerlendirme toplantısı yapar.",
+          "de": "Unser Team macht nach jedem Projekt eine kurze Retrospektive.",
+          "fr": "Notre équipe fait une courte rétrospective après chaque projet.",
+          "it": "Il nostro team fa una breve retrospettiva dopo ogni progetto.",
+          "es": "Nuestro equipo hace una breve retrospectiva después de cada proyecto."
+        }
+      ]
+    },
+    {
+      "id": "respectable",
+      "pos": "adjective",
+      "parent": "respect",
+      "parts": [
+        "re-",
+        "spect",
+        "-able"
+      ],
+      "gloss": {
+        "en": "seen as good, honest or acceptable",
+        "tr": "saygın; fena olmayan",
+        "de": "anständig, respektabel",
+        "fr": "respectable, honorable",
+        "it": "rispettabile",
+        "es": "respetable"
+      },
+      "sentences": [
+        {
+          "en": "He comes from a [respectable] family.",
+          "tr": "Saygın bir aileden geliyor.",
+          "de": "Er stammt aus einer anständigen Familie.",
+          "fr": "Il vient d'une famille respectable.",
+          "it": "Viene da una famiglia rispettabile.",
+          "es": "Viene de una familia respetable."
+        },
+        {
+          "en": "She got a [respectable] score on her first try.",
+          "tr": "İlk denemesinde fena olmayan bir puan aldı.",
+          "de": "Beim ersten Versuch erreichte sie ein respektables Ergebnis.",
+          "fr": "Elle a obtenu un score honorable dès son premier essai.",
+          "it": "Al primo tentativo ha ottenuto un punteggio rispettabile.",
+          "es": "Sacó una puntuación respetable en su primer intento."
+        }
+      ]
+    },
+    {
+      "id": "disrespect",
+      "pos": "noun",
+      "parent": "respect",
+      "parts": [
+        "dis-",
+        "re-",
+        "spect"
+      ],
+      "gloss": {
+        "en": "a lack of respect",
+        "tr": "saygısızlık",
+        "de": "die Respektlosigkeit",
+        "fr": "le manque de respect",
+        "it": "la mancanza di rispetto",
+        "es": "la falta de respeto"
+      },
+      "sentences": [
+        {
+          "en": "I meant no [disrespect].",
+          "tr": "Saygısızlık etmek istemedim.",
+          "de": "Ich wollte nicht respektlos sein.",
+          "fr": "Je ne voulais pas manquer de respect.",
+          "it": "Non volevo mancare di rispetto.",
+          "es": "No quería faltar al respeto."
+        },
+        {
+          "en": "Talking during the song showed [disrespect] to the singer.",
+          "tr": "Şarkı sırasında konuşmak şarkıcıya saygısızlıktı.",
+          "de": "Während des Liedes zu reden war respektlos gegenüber der Sängerin.",
+          "fr": "Parler pendant la chanson était un manque de respect envers la chanteuse.",
+          "it": "Parlare durante la canzone era una mancanza di rispetto verso la cantante.",
+          "es": "Hablar durante la canción fue una falta de respeto hacia la cantante."
+        }
+      ]
+    },
+    {
+      "id": "respective",
+      "pos": "adjective",
+      "parent": "respect",
+      "parts": [
+        "re-",
+        "spect",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "belonging to each one separately",
+        "tr": "kendi, ilgili",
+        "de": "jeweilig",
+        "fr": "respectif",
+        "it": "rispettivo",
+        "es": "respectivo"
+      },
+      "sentences": [
+        {
+          "en": "After dinner, we went back to our [respective] rooms.",
+          "tr": "Yemekten sonra herkes kendi odasına döndü.",
+          "de": "Nach dem Essen gingen wir in unsere jeweiligen Zimmer.",
+          "fr": "Après le dîner, nous sommes retournés dans nos chambres respectives.",
+          "it": "Dopo cena siamo tornati nelle nostre rispettive stanze.",
+          "es": "Después de cenar volvimos a nuestras respectivas habitaciones."
+        },
+        {
+          "en": "Both players are the best in their [respective] countries.",
+          "tr": "İki oyuncu da kendi ülkelerinin en iyisi.",
+          "de": "Beide Spieler sind die besten in ihrem jeweiligen Land.",
+          "fr": "Les deux joueurs sont les meilleurs de leurs pays respectifs.",
+          "it": "Entrambi i giocatori sono i migliori nei rispettivi paesi.",
+          "es": "Ambos jugadores son los mejores en sus respectivos países."
+        }
+      ]
+    },
+    {
+      "id": "introspection",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "intro-",
+        "spect",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "looking into your own thoughts and feelings",
+        "tr": "iç gözlem, kendini sorgulama",
+        "de": "die Selbstbeobachtung",
+        "fr": "l'introspection",
+        "it": "l'introspezione",
+        "es": "la introspección"
+      },
+      "sentences": [
+        {
+          "en": "Long walks are good for [introspection].",
+          "tr": "Uzun yürüyüşler iç gözlem için iyidir.",
+          "de": "Lange Spaziergänge sind gut für die Selbstbeobachtung.",
+          "fr": "Les longues promenades favorisent l'introspection.",
+          "it": "Le lunghe passeggiate favoriscono l'introspezione.",
+          "es": "Los paseos largos son buenos para la introspección."
+        },
+        {
+          "en": "After the loss, the team needed some [introspection].",
+          "tr": "Yenilgiden sonra takımın biraz kendini sorgulaması gerekiyordu.",
+          "de": "Nach der Niederlage brauchte das Team etwas Selbstreflexion.",
+          "fr": "Après la défaite, l'équipe avait besoin d'introspection.",
+          "it": "Dopo la sconfitta, la squadra aveva bisogno di un po' di introspezione.",
+          "es": "Tras la derrota, el equipo necesitaba algo de introspección."
+        }
       ]
     }
   ]
