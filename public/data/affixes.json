@@ -2158,5 +2158,348 @@
       "it": "unità di base (linguistica)",
       "es": "unidad básica (lingüística)"
     }
+  },
+  "anti-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "against (Greek)",
+      "tr": "karşı (Yunanca)",
+      "de": "gegen (griechisch)",
+      "fr": "contre (grec)",
+      "it": "contro (greco)",
+      "es": "contra (griego)"
+    }
+  },
+  "il-not-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "not (in- before l)",
+      "tr": "değil (l önünde in-)",
+      "de": "nicht (in- vor l)",
+      "fr": "non (in- devant l)",
+      "it": "non (in- davanti a l)",
+      "es": "no (in- ante l)"
+    },
+    "form": "il"
+  },
+  "a-not-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "not, without (Greek)",
+      "tr": "değil, -sız (Yunanca)",
+      "de": "nicht, ohne (griechisch)",
+      "fr": "non, sans (grec)",
+      "it": "non, senza (greco)",
+      "es": "no, sin (griego)"
+    },
+    "form": "a"
+  },
+  "mono-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "one, alone (Greek)",
+      "tr": "tek (Yunanca)",
+      "de": "allein, ein (griechisch)",
+      "fr": "seul, un (grec)",
+      "it": "solo, uno (greco)",
+      "es": "uno, solo (griego)"
+    }
+  },
+  "cata-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "down, completely (Greek)",
+      "tr": "aşağı, tamamen (Yunanca)",
+      "de": "herab, ganz (griechisch)",
+      "fr": "en bas, entièrement (grec)",
+      "it": "giù, del tutto (greco)",
+      "es": "abajo, del todo (griego)"
+    }
+  },
+  "epi-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "upon, after (Greek)",
+      "tr": "üzerine, sonra (Yunanca)",
+      "de": "auf, nach (griechisch)",
+      "fr": "sur, après (grec)",
+      "it": "sopra, dopo (greco)",
+      "es": "sobre, después (griego)"
+    }
+  },
+  "apo-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "away from (Greek)",
+      "tr": "-den uzak (Yunanca)",
+      "de": "weg von (griechisch)",
+      "fr": "loin de (grec)",
+      "it": "via da (greco)",
+      "es": "lejos de (griego)"
+    }
+  },
+  "ana-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "back, again; according to (Greek)",
+      "tr": "geri, yeniden; -e göre (Yunanca)",
+      "de": "zurück, wieder; gemäß (griechisch)",
+      "fr": "en arrière, de nouveau (grec)",
+      "it": "indietro, di nuovo (greco)",
+      "es": "atrás, de nuevo (griego)"
+    }
+  },
+  "syn-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "together, with (Greek)",
+      "tr": "birlikte (Yunanca)",
+      "de": "zusammen (griechisch)",
+      "fr": "ensemble (grec)",
+      "it": "insieme (greco)",
+      "es": "juntos (griego)"
+    }
+  },
+  "techno-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "skill, craft (Greek tekhne)",
+      "tr": "beceri, zanaat (Yunanca tekhne)",
+      "de": "Kunst, Technik (griechisch tekhne)",
+      "fr": "art, technique (grec tekhne)",
+      "it": "arte, tecnica (greco tekhne)",
+      "es": "arte, técnica (griego tekhne)"
+    }
+  },
+  "eco-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "house, environment (Greek oikos)",
+      "tr": "ev, çevre (Yunanca oikos)",
+      "de": "Haus, Umwelt (griechisch oikos)",
+      "fr": "maison, environnement (grec oikos)",
+      "it": "casa, ambiente (greco oikos)",
+      "es": "casa, entorno (griego oikos)"
+    }
+  },
+  "psycho-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "mind (Greek psykhe)",
+      "tr": "zihin, ruh (Yunanca psykhe)",
+      "de": "Seele, Geist (griechisch psykhe)",
+      "fr": "esprit (grec psykhe)",
+      "it": "mente (greco psykhe)",
+      "es": "mente (griego psykhe)"
+    }
+  },
+  "mytho-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "story, myth (Greek mythos)",
+      "tr": "efsane (Yunanca mythos)",
+      "de": "Mythos, Sage (griechisch mythos)",
+      "fr": "mythe (grec mythos)",
+      "it": "mito (greco mythos)",
+      "es": "mito (griego mythos)"
+    }
+  },
+  "zoo-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "animal (Greek zoion)",
+      "tr": "hayvan (Yunanca zoion)",
+      "de": "Tier (griechisch zoion)",
+      "fr": "animal (grec zoion)",
+      "it": "animale (greco zoion)",
+      "es": "animal (griego zoion)"
+    }
+  },
+  "socio-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "society (Latin socius)",
+      "tr": "toplum (Latince socius)",
+      "de": "Gesellschaft (lateinisch socius)",
+      "fr": "société (latin socius)",
+      "it": "società (latino socius)",
+      "es": "sociedad (latín socius)"
+    }
+  },
+  "neuro-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "nerve (Greek neuron)",
+      "tr": "sinir (Yunanca neuron)",
+      "de": "Nerv (griechisch neuron)",
+      "fr": "nerf (grec neuron)",
+      "it": "nervo (greco neuron)",
+      "es": "nervio (griego neuron)"
+    }
+  },
+  "-logy": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "study of (Greek logos)",
+      "tr": "bilimi (Yunanca logos)",
+      "de": "Lehre von (-logie)",
+      "fr": "étude de (-logie)",
+      "it": "studio di (-logia)",
+      "es": "estudio de (-logía)"
+    }
+  },
+  "-logist": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "person who studies",
+      "tr": "bilimci, uzmanı (-log)",
+      "de": "jemand, der … erforscht (-loge)",
+      "fr": "spécialiste de (-logue)",
+      "it": "studioso di (-logo)",
+      "es": "especialista en (-logo)"
+    }
+  },
+  "-logical": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "related to the study of",
+      "tr": "bilimiyle ilgili (-lojik)",
+      "de": "die Lehre betreffend (-logisch)",
+      "fr": "relatif à l'étude de (-logique)",
+      "it": "relativo allo studio di (-logico)",
+      "es": "relativo al estudio de (-lógico)"
+    }
+  },
+  "-graphy": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "writing about, description of",
+      "tr": "yazımı, tanımı (-grafi)",
+      "de": "Beschreibung von (-grafie)",
+      "fr": "description de (-graphie)",
+      "it": "descrizione di (-grafia)",
+      "es": "descripción de (-grafía)"
+    }
+  },
+  "-tic": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "relating to (makes an adjective or noun)",
+      "tr": "ile ilgili (-tik)",
+      "de": "bezogen auf (-tisch)",
+      "fr": "relatif à (-tique)",
+      "it": "relativo a (-tico)",
+      "es": "relativo a (-tico)"
+    }
+  },
+  "-psy": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "a viewing (Greek opsis)",
+      "tr": "bakma, inceleme (Yunanca opsis)",
+      "de": "Betrachtung (griechisch opsis)",
+      "fr": "examen (grec opsis)",
+      "it": "esame (greco opsis)",
+      "es": "examen (griego opsis)"
+    }
+  },
+  "-sis": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "process, state (Greek)",
+      "tr": "süreç, durum (Yunanca)",
+      "de": "Vorgang, Zustand (griechisch)",
+      "fr": "processus, état (grec)",
+      "it": "processo, stato (greco)",
+      "es": "proceso, estado (griego)"
+    }
+  },
+  "-sphere": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "ball, world (Greek sphaira)",
+      "tr": "küre (Yunanca sphaira)",
+      "de": "Kugel, Sphäre (griechisch sphaira)",
+      "fr": "sphère (grec sphaira)",
+      "it": "sfera (greco sphaira)",
+      "es": "esfera (griego sphaira)"
+    }
+  },
+  "-icle": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "small thing (makes a noun)",
+      "tr": "küçük şey (isim yapar)",
+      "de": "kleines Ding (bildet ein Nomen)",
+      "fr": "petite chose (forme un nom)",
+      "it": "piccola cosa (forma un nome)",
+      "es": "cosa pequeña (forma un sustantivo)"
+    }
+  },
+  "-ology": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "study or account of",
+      "tr": "bilimi, sıralı anlatımı",
+      "de": "Lehre, Abfolge von",
+      "fr": "étude, récit de (-ologie)",
+      "it": "studio, resoconto di (-ologia)",
+      "es": "estudio, relato de (-ología)"
+    }
+  },
+  "-ological": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "in the order of, related to the study of",
+      "tr": "sırasına göre; bilimiyle ilgili",
+      "de": "der Reihe nach; die Lehre betreffend",
+      "fr": "selon l'ordre de; relatif à l'étude de",
+      "it": "secondo l'ordine di; relativo allo studio di",
+      "es": "según el orden de; relativo al estudio de"
+    }
+  },
+  "-ized": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "made to be (makes an adjective)",
+      "tr": "-leştirilmiş (sıfat yapar)",
+      "de": "-isiert (bildet ein Adjektiv)",
+      "fr": "rendu (-isé)",
+      "it": "reso (-izzato)",
+      "es": "hecho (-izado)"
+    }
+  },
+  "-ism": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "belief, practice or state (makes a noun)",
+      "tr": "inanç, durum (-izm)",
+      "de": "Lehre, Zustand (-ismus)",
+      "fr": "doctrine, état (-isme)",
+      "it": "dottrina, stato (-ismo)",
+      "es": "doctrina, estado (-ismo)"
+    }
+  },
+  "-ometer": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "tool that measures",
+      "tr": "ölçer (-metre)",
+      "de": "Messgerät (-meter)",
+      "fr": "instrument de mesure (-omètre)",
+      "it": "strumento di misura (-ometro)",
+      "es": "instrumento de medida (-ómetro)"
+    }
+  },
+  "-ous": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "full of, having (makes an adjective)",
+      "tr": "dolu, -li (sıfat yapar)",
+      "de": "voller, -ig (bildet ein Adjektiv)",
+      "fr": "plein de (-eux)",
+      "it": "pieno di (-oso)",
+      "es": "lleno de (-oso)"
+    }
   }
 }

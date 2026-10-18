@@ -1,0 +1,735 @@
+{
+  "id": "log",
+  "forms": [
+    "log",
+    "logue"
+  ],
+  "origin": "gr",
+  "etymon": "logos",
+  "meaning": {
+    "en": "word, speech; reason, study",
+    "tr": "söz, konuşma; akıl, bilim",
+    "de": "das Wort, die Rede; die Vernunft, die Lehre",
+    "fr": "la parole; la raison, l'étude",
+    "it": "la parola; la ragione, lo studio",
+    "es": "la palabra; la razón, el estudio"
+  },
+  "words": [
+    {
+      "id": "logic",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "log",
+        "-ic"
+      ],
+      "gloss": {
+        "en": "a clear way of thinking and reasoning (literally: the art of reason)",
+        "tr": "mantık",
+        "de": "die Logik",
+        "fr": "la logique",
+        "it": "la logica",
+        "es": "la lógica"
+      },
+      "sentences": [
+        {
+          "en": "I don't follow your [logic].",
+          "tr": "Mantığını takip edemiyorum.",
+          "de": "Ich kann deiner Logik nicht folgen.",
+          "fr": "Je ne suis pas ta logique.",
+          "it": "Non seguo la tua logica.",
+          "es": "No sigo tu lógica."
+        },
+        {
+          "en": "Chess teaches [logic] and patience.",
+          "tr": "Satranç mantık ve sabır öğretir.",
+          "de": "Schach lehrt Logik und Geduld.",
+          "fr": "Les échecs apprennent la logique et la patience.",
+          "it": "Gli scacchi insegnano logica e pazienza.",
+          "es": "El ajedrez enseña lógica y paciencia."
+        }
+      ]
+    },
+    {
+      "id": "logical",
+      "pos": "adjective",
+      "parent": "logic",
+      "parts": [
+        "log",
+        "-ic",
+        "-al"
+      ],
+      "gloss": {
+        "en": "following clear reasoning; sensible",
+        "tr": "mantıklı",
+        "de": "logisch",
+        "fr": "logique",
+        "it": "logico",
+        "es": "lógico"
+      },
+      "sentences": [
+        {
+          "en": "That's the most [logical] answer.",
+          "tr": "En mantıklı cevap bu.",
+          "de": "Das ist die logischste Antwort.",
+          "fr": "C'est la réponse la plus logique.",
+          "it": "È la risposta più logica.",
+          "es": "Es la respuesta más lógica."
+        },
+        {
+          "en": "Put the steps in a [logical] order.",
+          "tr": "Adımları mantıklı bir sıraya koy.",
+          "de": "Bring die Schritte in eine logische Reihenfolge.",
+          "fr": "Mets les étapes dans un ordre logique.",
+          "it": "Metti i passaggi in un ordine logico.",
+          "es": "Pon los pasos en un orden lógico."
+        }
+      ]
+    },
+    {
+      "id": "illogical",
+      "pos": "adjective",
+      "parent": "logical",
+      "parts": [
+        "il-not-",
+        "log",
+        "-ic",
+        "-al"
+      ],
+      "gloss": {
+        "en": "not sensible; not following reason",
+        "tr": "mantıksız",
+        "de": "unlogisch",
+        "fr": "illogique",
+        "it": "illogico",
+        "es": "ilógico"
+      },
+      "sentences": [
+        {
+          "en": "It's [illogical] to buy a car you can't drive.",
+          "tr": "Süremeyeceğin bir arabayı almak mantıksız.",
+          "de": "Es ist unlogisch, ein Auto zu kaufen, das man nicht fahren kann.",
+          "fr": "C'est illogique d'acheter une voiture qu'on ne sait pas conduire.",
+          "it": "È illogico comprare un'auto che non sai guidare.",
+          "es": "Es ilógico comprar un coche que no sabes conducir."
+        },
+        {
+          "en": "His fear of cats is [illogical], but real.",
+          "tr": "Kedi korkusu mantıksız ama gerçek.",
+          "de": "Seine Angst vor Katzen ist unlogisch, aber echt.",
+          "fr": "Sa peur des chats est illogique, mais réelle.",
+          "it": "La sua paura dei gatti è illogica, ma reale.",
+          "es": "Su miedo a los gatos es ilógico, pero real."
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "dia-",
+        "logue"
+      ],
+      "gloss": {
+        "en": "a conversation, especially in a book, film or between groups (literally: speech across)",
+        "tr": "diyalog, karşılıklı konuşma",
+        "de": "der Dialog",
+        "fr": "le dialogue",
+        "it": "il dialogo",
+        "es": "el diálogo"
+      },
+      "sentences": [
+        {
+          "en": "The film has very little [dialogue].",
+          "tr": "Filmde çok az diyalog var.",
+          "de": "Der Film hat sehr wenig Dialog.",
+          "fr": "Le film comporte très peu de dialogues.",
+          "it": "Il film ha pochissimi dialoghi.",
+          "es": "La película tiene muy poco diálogo."
+        },
+        {
+          "en": "Both sides want an open [dialogue].",
+          "tr": "İki taraf da açık bir diyalog istiyor.",
+          "de": "Beide Seiten wollen einen offenen Dialog.",
+          "fr": "Les deux camps veulent un dialogue ouvert.",
+          "it": "Entrambe le parti vogliono un dialogo aperto.",
+          "es": "Ambas partes quieren un diálogo abierto."
+        }
+      ]
+    },
+    {
+      "id": "monologue",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "mono-",
+        "logue"
+      ],
+      "gloss": {
+        "en": "a long speech by one person (literally: speech alone)",
+        "tr": "monolog",
+        "de": "der Monolog",
+        "fr": "le monologue",
+        "it": "il monologo",
+        "es": "el monólogo"
+      },
+      "sentences": [
+        {
+          "en": "The actor's [monologue] lasted ten minutes.",
+          "tr": "Oyuncunun monoloğu on dakika sürdü.",
+          "de": "Der Monolog des Schauspielers dauerte zehn Minuten.",
+          "fr": "Le monologue de l'acteur a duré dix minutes.",
+          "it": "Il monologo dell'attore è durato dieci minuti.",
+          "es": "El monólogo del actor duró diez minutos."
+        },
+        {
+          "en": "It wasn't a conversation, it was a [monologue].",
+          "tr": "Bu bir sohbet değil, monologdu.",
+          "de": "Das war kein Gespräch, das war ein Monolog.",
+          "fr": "Ce n'était pas une conversation, c'était un monologue.",
+          "it": "Non era una conversazione, era un monologo.",
+          "es": "No era una conversación, era un monólogo."
+        }
+      ]
+    },
+    {
+      "id": "catalogue",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "cata-",
+        "logue"
+      ],
+      "gloss": {
+        "en": "a complete list of things, often with pictures (literally: a counting down)",
+        "tr": "katalog",
+        "de": "der Katalog",
+        "fr": "le catalogue",
+        "it": "il catalogo",
+        "es": "el catálogo"
+      },
+      "sentences": [
+        {
+          "en": "Order the shoes from the online [catalogue].",
+          "tr": "Ayakkabıları çevrimiçi katalogdan sipariş et.",
+          "de": "Bestell die Schuhe aus dem Onlinekatalog.",
+          "fr": "Commande les chaussures dans le catalogue en ligne.",
+          "it": "Ordina le scarpe dal catalogo online.",
+          "es": "Pide los zapatos del catálogo en línea."
+        },
+        {
+          "en": "The library [catalogue] lists every book.",
+          "tr": "Kütüphane kataloğu her kitabı listeliyor.",
+          "de": "Der Bibliothekskatalog verzeichnet jedes Buch.",
+          "fr": "Le catalogue de la bibliothèque recense chaque livre.",
+          "it": "Il catalogo della biblioteca elenca ogni libro.",
+          "es": "El catálogo de la biblioteca recoge todos los libros."
+        }
+      ]
+    },
+    {
+      "id": "prologue",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "pro-",
+        "logue"
+      ],
+      "gloss": {
+        "en": "an opening part of a story or play (literally: speech before)",
+        "tr": "önsöz, giriş bölümü",
+        "de": "der Prolog",
+        "fr": "le prologue",
+        "it": "il prologo",
+        "es": "el prólogo"
+      },
+      "sentences": [
+        {
+          "en": "The book begins with a short [prologue].",
+          "tr": "Kitap kısa bir girişle başlıyor.",
+          "de": "Das Buch beginnt mit einem kurzen Prolog.",
+          "fr": "Le livre commence par un court prologue.",
+          "it": "Il libro inizia con un breve prologo.",
+          "es": "El libro empieza con un breve prólogo."
+        },
+        {
+          "en": "The [prologue] takes place a hundred years earlier.",
+          "tr": "Giriş bölümü yüz yıl önce geçiyor.",
+          "de": "Der Prolog spielt hundert Jahre früher.",
+          "fr": "Le prologue se déroule cent ans plus tôt.",
+          "it": "Il prologo si svolge cento anni prima.",
+          "es": "El prólogo transcurre cien años antes."
+        }
+      ]
+    },
+    {
+      "id": "epilogue",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "epi-",
+        "logue"
+      ],
+      "gloss": {
+        "en": "a short part at the end of a story (literally: speech after)",
+        "tr": "sonsöz, kapanış bölümü",
+        "de": "der Epilog, das Nachwort",
+        "fr": "l'épilogue",
+        "it": "l'epilogo",
+        "es": "el epílogo"
+      },
+      "sentences": [
+        {
+          "en": "The [epilogue] tells us what happened years later.",
+          "tr": "Sonsöz yıllar sonra ne olduğunu anlatıyor.",
+          "de": "Der Epilog erzählt, was Jahre später geschah.",
+          "fr": "L'épilogue raconte ce qui s'est passé des années plus tard.",
+          "it": "L'epilogo racconta cosa è successo anni dopo.",
+          "es": "El epílogo cuenta qué pasó años después."
+        },
+        {
+          "en": "Don't skip the [epilogue].",
+          "tr": "Sonsözü atlama.",
+          "de": "Überspring den Epilog nicht.",
+          "fr": "Ne saute pas l'épilogue.",
+          "it": "Non saltare l'epilogo.",
+          "es": "No te saltes el epílogo."
+        }
+      ]
+    },
+    {
+      "id": "apology",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "apo-",
+        "log",
+        "-y"
+      ],
+      "gloss": {
+        "en": "words saying you are sorry (literally: a speech in defence)",
+        "tr": "özür",
+        "de": "die Entschuldigung",
+        "fr": "les excuses",
+        "it": "le scuse",
+        "es": "la disculpa"
+      },
+      "sentences": [
+        {
+          "en": "I owe you an [apology].",
+          "tr": "Sana bir özür borçluyum.",
+          "de": "Ich schulde dir eine Entschuldigung.",
+          "fr": "Je te dois des excuses.",
+          "it": "Ti devo delle scuse.",
+          "es": "Te debo una disculpa."
+        },
+        {
+          "en": "He wrote her a letter of [apology].",
+          "tr": "Ona bir özür mektubu yazdı.",
+          "de": "Er schrieb ihr einen Entschuldigungsbrief.",
+          "fr": "Il lui a écrit une lettre d'excuses.",
+          "it": "Le ha scritto una lettera di scuse.",
+          "es": "Le escribió una carta de disculpa."
+        }
+      ]
+    },
+    {
+      "id": "apologize",
+      "pos": "verb",
+      "parent": "apology",
+      "parts": [
+        "apo-",
+        "log",
+        "-ize"
+      ],
+      "gloss": {
+        "en": "to say you are sorry",
+        "tr": "özür dilemek",
+        "de": "sich entschuldigen",
+        "fr": "s'excuser",
+        "it": "scusarsi",
+        "es": "disculparse, pedir perdón"
+      },
+      "sentences": [
+        {
+          "en": "I [apologize] for being late.",
+          "tr": "Geç kaldığım için özür dilerim.",
+          "de": "Ich entschuldige mich für die Verspätung.",
+          "fr": "Je m'excuse pour le retard.",
+          "it": "Mi scuso per il ritardo.",
+          "es": "Pido disculpas por llegar tarde."
+        },
+        {
+          "en": "You should [apologize] to your sister.",
+          "tr": "Kız kardeşinden özür dilemelisin.",
+          "de": "Du solltest dich bei deiner Schwester entschuldigen.",
+          "fr": "Tu devrais t'excuser auprès de ta sœur.",
+          "it": "Dovresti scusarti con tua sorella.",
+          "es": "Deberías pedirle perdón a tu hermana."
+        }
+      ]
+    },
+    {
+      "id": "analogy",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "ana-",
+        "log",
+        "-y"
+      ],
+      "gloss": {
+        "en": "a comparison that explains something by showing how it is like something else (literally: according to reason, proportion)",
+        "tr": "benzetme, analoji",
+        "de": "die Analogie, der Vergleich",
+        "fr": "l'analogie",
+        "it": "l'analogia",
+        "es": "la analogía"
+      },
+      "sentences": [
+        {
+          "en": "The teacher explained the heart with a pump [analogy].",
+          "tr": "Öğretmen kalbi bir pompa benzetmesiyle anlattı.",
+          "de": "Die Lehrerin erklärte das Herz mit dem Vergleich einer Pumpe.",
+          "fr": "La professeure a expliqué le cœur par l'analogie d'une pompe.",
+          "it": "L'insegnante ha spiegato il cuore con l'analogia di una pompa.",
+          "es": "La profesora explicó el corazón con la analogía de una bomba."
+        },
+        {
+          "en": "Is that a fair [analogy]?",
+          "tr": "Bu adil bir benzetme mi?",
+          "de": "Ist das ein fairer Vergleich?",
+          "fr": "Est-ce une analogie juste ?",
+          "it": "È un'analogia corretta?",
+          "es": "¿Es una analogía justa?"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "techno-",
+        "log",
+        "-y"
+      ],
+      "gloss": {
+        "en": "scientific knowledge used to make tools and machines (literally: the study of craft)",
+        "tr": "teknoloji",
+        "de": "die Technologie, die Technik",
+        "fr": "la technologie",
+        "it": "la tecnologia",
+        "es": "la tecnología"
+      },
+      "sentences": [
+        {
+          "en": "[Technology] has changed how we learn.",
+          "tr": "Teknoloji öğrenme şeklimizi değiştirdi.",
+          "de": "Technologie hat verändert, wie wir lernen.",
+          "fr": "La technologie a changé notre façon d'apprendre.",
+          "it": "La tecnologia ha cambiato il modo in cui impariamo.",
+          "es": "La tecnología ha cambiado nuestra forma de aprender."
+        },
+        {
+          "en": "Solar [technology] is getting cheaper.",
+          "tr": "Güneş enerjisi teknolojisi ucuzluyor.",
+          "de": "Solartechnik wird immer günstiger.",
+          "fr": "La technologie solaire devient moins chère.",
+          "it": "La tecnologia solare sta diventando più economica.",
+          "es": "La tecnología solar es cada vez más barata."
+        }
+      ]
+    },
+    {
+      "id": "technological",
+      "pos": "adjective",
+      "parent": "technology",
+      "parts": [
+        "techno-",
+        "log",
+        "-ic",
+        "-al"
+      ],
+      "gloss": {
+        "en": "related to technology",
+        "tr": "teknolojik",
+        "de": "technologisch, technisch",
+        "fr": "technologique",
+        "it": "tecnologico",
+        "es": "tecnológico"
+      },
+      "sentences": [
+        {
+          "en": "We live in a time of fast [technological] change.",
+          "tr": "Hızlı teknolojik değişim çağında yaşıyoruz.",
+          "de": "Wir leben in einer Zeit schnellen technologischen Wandels.",
+          "fr": "Nous vivons une époque de changements technologiques rapides.",
+          "it": "Viviamo un'epoca di rapidi cambiamenti tecnologici.",
+          "es": "Vivimos una época de rápidos cambios tecnológicos."
+        },
+        {
+          "en": "The phone was a great [technological] step.",
+          "tr": "Telefon büyük bir teknolojik adımdı.",
+          "de": "Das Telefon war ein großer technischer Fortschritt.",
+          "fr": "Le téléphone a été un grand pas technologique.",
+          "it": "Il telefono è stato un grande passo tecnologico.",
+          "es": "El teléfono fue un gran paso tecnológico."
+        }
+      ]
+    },
+    {
+      "id": "ecology",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "eco-",
+        "log",
+        "-y"
+      ],
+      "gloss": {
+        "en": "the study of how living things and their environment affect each other (literally: the study of the house)",
+        "tr": "ekoloji",
+        "de": "die Ökologie",
+        "fr": "l'écologie",
+        "it": "l'ecologia",
+        "es": "la ecología"
+      },
+      "sentences": [
+        {
+          "en": "The new road could harm the [ecology] of the valley.",
+          "tr": "Yeni yol vadinin ekolojisine zarar verebilir.",
+          "de": "Die neue Straße könnte der Ökologie des Tals schaden.",
+          "fr": "La nouvelle route pourrait nuire à l'écologie de la vallée.",
+          "it": "La nuova strada potrebbe danneggiare l'ecologia della valle.",
+          "es": "La nueva carretera podría dañar la ecología del valle."
+        },
+        {
+          "en": "She teaches [ecology] at the university.",
+          "tr": "Üniversitede ekoloji dersi veriyor.",
+          "de": "Sie unterrichtet Ökologie an der Universität.",
+          "fr": "Elle enseigne l'écologie à l'université.",
+          "it": "Insegna ecologia all'università.",
+          "es": "Enseña ecología en la universidad."
+        }
+      ]
+    },
+    {
+      "id": "psychology",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "psycho-",
+        "log",
+        "-y"
+      ],
+      "gloss": {
+        "en": "the study of the mind and behaviour (literally: the study of the soul)",
+        "tr": "psikoloji",
+        "de": "die Psychologie",
+        "fr": "la psychologie",
+        "it": "la psicologia",
+        "es": "la psicología"
+      },
+      "sentences": [
+        {
+          "en": "He is studying [psychology] in Vienna.",
+          "tr": "Viyana'da psikoloji okuyor.",
+          "de": "Er studiert Psychologie in Wien.",
+          "fr": "Il étudie la psychologie à Vienne.",
+          "it": "Studia psicologia a Vienna.",
+          "es": "Estudia psicología en Viena."
+        },
+        {
+          "en": "The [psychology] of colour is used in shops.",
+          "tr": "Mağazalarda renk psikolojisi kullanılıyor.",
+          "de": "In Läden wird Farbpsychologie eingesetzt.",
+          "fr": "La psychologie des couleurs est utilisée dans les magasins.",
+          "it": "La psicologia dei colori si usa nei negozi.",
+          "es": "En las tiendas se usa la psicología del color."
+        }
+      ]
+    },
+    {
+      "id": "geology",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "geo-",
+        "log",
+        "-y"
+      ],
+      "gloss": {
+        "en": "the study of rocks and the structure of the Earth (literally: the study of the earth)",
+        "tr": "jeoloji",
+        "de": "die Geologie",
+        "fr": "la géologie",
+        "it": "la geologia",
+        "es": "la geología"
+      },
+      "sentences": [
+        {
+          "en": "The [geology] of Iceland is full of volcanoes.",
+          "tr": "İzlanda'nın jeolojisi volkanlarla dolu.",
+          "de": "Die Geologie Islands ist voller Vulkane.",
+          "fr": "La géologie de l'Islande est pleine de volcans.",
+          "it": "La geologia dell'Islanda è piena di vulcani.",
+          "es": "La geología de Islandia está llena de volcanes."
+        },
+        {
+          "en": "She has a degree in [geology].",
+          "tr": "Jeoloji diploması var.",
+          "de": "Sie hat einen Abschluss in Geologie.",
+          "fr": "Elle est diplômée en géologie.",
+          "it": "È laureata in geologia.",
+          "es": "Es licenciada en geología."
+        }
+      ]
+    },
+    {
+      "id": "mythology",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "mytho-",
+        "log",
+        "-y"
+      ],
+      "gloss": {
+        "en": "old stories about gods and heroes (literally: the telling of myths)",
+        "tr": "mitoloji",
+        "de": "die Mythologie",
+        "fr": "la mythologie",
+        "it": "la mitologia",
+        "es": "la mitología"
+      },
+      "sentences": [
+        {
+          "en": "Zeus is the king of the gods in Greek [mythology].",
+          "tr": "Yunan mitolojisinde Zeus tanrıların kralıdır.",
+          "de": "Zeus ist in der griechischen Mythologie der König der Götter.",
+          "fr": "Zeus est le roi des dieux dans la mythologie grecque.",
+          "it": "Zeus è il re degli dei nella mitologia greca.",
+          "es": "Zeus es el rey de los dioses en la mitología griega."
+        },
+        {
+          "en": "The film is based on Norse [mythology].",
+          "tr": "Film İskandinav mitolojisine dayanıyor.",
+          "de": "Der Film beruht auf der nordischen Mythologie.",
+          "fr": "Le film s'inspire de la mythologie nordique.",
+          "it": "Il film si basa sulla mitologia norrena.",
+          "es": "La película se basa en la mitología nórdica."
+        }
+      ]
+    },
+    {
+      "id": "zoology",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "zoo-",
+        "log",
+        "-y"
+      ],
+      "gloss": {
+        "en": "the study of animals",
+        "tr": "zooloji, hayvanbilim",
+        "de": "die Zoologie",
+        "fr": "la zoologie",
+        "it": "la zoologia",
+        "es": "la zoología"
+      },
+      "sentences": [
+        {
+          "en": "She chose [zoology] because she loves animals.",
+          "tr": "Hayvanları sevdiği için zoolojiyi seçti.",
+          "de": "Sie wählte Zoologie, weil sie Tiere liebt.",
+          "fr": "Elle a choisi la zoologie parce qu'elle aime les animaux.",
+          "it": "Ha scelto zoologia perché ama gli animali.",
+          "es": "Eligió zoología porque le encantan los animales."
+        },
+        {
+          "en": "The [zoology] museum has a whale skeleton.",
+          "tr": "Zooloji müzesinde bir balina iskeleti var.",
+          "de": "Das Zoologische Museum hat ein Walskelett.",
+          "fr": "Le musée de zoologie possède un squelette de baleine.",
+          "it": "Il museo di zoologia ha uno scheletro di balena.",
+          "es": "El museo de zoología tiene un esqueleto de ballena."
+        }
+      ]
+    },
+    {
+      "id": "sociology",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "socio-",
+        "log",
+        "-y"
+      ],
+      "gloss": {
+        "en": "the study of society and how people live together",
+        "tr": "sosyoloji, toplumbilim",
+        "de": "die Soziologie",
+        "fr": "la sociologie",
+        "it": "la sociologia",
+        "es": "la sociología"
+      },
+      "sentences": [
+        {
+          "en": "[Sociology] looks at how groups behave.",
+          "tr": "Sosyoloji grupların nasıl davrandığını inceler.",
+          "de": "Die Soziologie untersucht, wie sich Gruppen verhalten.",
+          "fr": "La sociologie étudie le comportement des groupes.",
+          "it": "La sociologia studia come si comportano i gruppi.",
+          "es": "La sociología estudia cómo se comportan los grupos."
+        },
+        {
+          "en": "He wrote a [sociology] paper on social media.",
+          "tr": "Sosyal medya üzerine bir sosyoloji makalesi yazdı.",
+          "de": "Er schrieb eine soziologische Arbeit über soziale Medien.",
+          "fr": "Il a écrit un article de sociologie sur les réseaux sociaux.",
+          "it": "Ha scritto un articolo di sociologia sui social.",
+          "es": "Escribió un trabajo de sociología sobre las redes sociales."
+        }
+      ]
+    },
+    {
+      "id": "neurology",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "neuro-",
+        "log",
+        "-y"
+      ],
+      "gloss": {
+        "en": "the study and treatment of the brain and nerves",
+        "tr": "nöroloji",
+        "de": "die Neurologie",
+        "fr": "la neurologie",
+        "it": "la neurologia",
+        "es": "la neurología"
+      },
+      "sentences": [
+        {
+          "en": "She works in the [neurology] department.",
+          "tr": "Nöroloji bölümünde çalışıyor.",
+          "de": "Sie arbeitet in der Neurologie.",
+          "fr": "Elle travaille dans le service de neurologie.",
+          "it": "Lavora nel reparto di neurologia.",
+          "es": "Trabaja en el servicio de neurología."
+        },
+        {
+          "en": "[Neurology] helps us understand memory.",
+          "tr": "Nöroloji hafızayı anlamamıza yardım eder.",
+          "de": "Die Neurologie hilft uns, das Gedächtnis zu verstehen.",
+          "fr": "La neurologie nous aide à comprendre la mémoire.",
+          "it": "La neurologia ci aiuta a capire la memoria.",
+          "es": "La neurología nos ayuda a entender la memoria."
+        }
+      ]
+    }
+  ]
+}

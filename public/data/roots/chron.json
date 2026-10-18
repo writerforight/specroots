@@ -1,0 +1,375 @@
+{
+  "id": "chron",
+  "forms": [
+    "chron"
+  ],
+  "origin": "gr",
+  "etymon": "khronos",
+  "meaning": {
+    "en": "time",
+    "tr": "zaman",
+    "de": "die Zeit",
+    "fr": "le temps",
+    "it": "il tempo",
+    "es": "el tiempo"
+  },
+  "words": [
+    {
+      "id": "chronic",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "chron",
+        "-ic"
+      ],
+      "gloss": {
+        "en": "lasting for a long time, especially an illness (literally: related to time)",
+        "tr": "kronik, süregelen",
+        "de": "chronisch",
+        "fr": "chronique",
+        "it": "cronico",
+        "es": "crónico"
+      },
+      "sentences": [
+        {
+          "en": "She suffers from [chronic] back pain.",
+          "tr": "Kronik bel ağrısı çekiyor.",
+          "de": "Sie leidet an chronischen Rückenschmerzen.",
+          "fr": "Elle souffre de douleurs chroniques au dos.",
+          "it": "Soffre di mal di schiena cronico.",
+          "es": "Sufre dolor de espalda crónico."
+        },
+        {
+          "en": "The city has a [chronic] lack of housing.",
+          "tr": "Şehirde süregelen bir konut sıkıntısı var.",
+          "de": "Die Stadt leidet unter chronischem Wohnungsmangel.",
+          "fr": "La ville souffre d'un manque chronique de logements.",
+          "it": "La città ha una carenza cronica di alloggi.",
+          "es": "La ciudad sufre una falta crónica de vivienda."
+        }
+      ]
+    },
+    {
+      "id": "chronically",
+      "pos": "adverb",
+      "parent": "chronic",
+      "parts": [
+        "chron",
+        "-ic",
+        "-al",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "for a long time; all the time",
+        "tr": "kronik olarak, sürekli",
+        "de": "chronisch, dauerhaft",
+        "fr": "chroniquement, de façon chronique",
+        "it": "cronicamente",
+        "es": "crónicamente"
+      },
+      "sentences": [
+        {
+          "en": "The hospital is [chronically] short of nurses.",
+          "tr": "Hastanede sürekli hemşire açığı var.",
+          "de": "Das Krankenhaus hat chronisch zu wenig Pflegekräfte.",
+          "fr": "L'hôpital manque chroniquement d'infirmiers.",
+          "it": "All'ospedale mancano cronicamente infermieri.",
+          "es": "El hospital tiene una falta crónica de enfermeros."
+        },
+        {
+          "en": "He is [chronically] late.",
+          "tr": "Sürekli geç kalıyor.",
+          "de": "Er kommt chronisch zu spät.",
+          "fr": "Il est toujours en retard.",
+          "it": "È cronicamente in ritardo.",
+          "es": "Llega tarde crónicamente."
+        }
+      ]
+    },
+    {
+      "id": "chronicle",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "chron",
+        "-icle"
+      ],
+      "gloss": {
+        "en": "a written record of events in the order they happened (literally: a book of times)",
+        "tr": "kronik, vakayiname",
+        "de": "die Chronik",
+        "fr": "la chronique",
+        "it": "la cronaca",
+        "es": "la crónica"
+      },
+      "sentences": [
+        {
+          "en": "The monk wrote a [chronicle] of the town.",
+          "tr": "Rahip kasabanın tarihçesini yazdı.",
+          "de": "Der Mönch schrieb eine Chronik der Stadt.",
+          "fr": "Le moine a écrit une chronique de la ville.",
+          "it": "Il monaco ha scritto una cronaca della città.",
+          "es": "El monje escribió una crónica del pueblo."
+        },
+        {
+          "en": "The film is a [chronicle] of one family's life.",
+          "tr": "Film bir ailenin hayatının kroniği.",
+          "de": "Der Film ist die Chronik einer Familie.",
+          "fr": "Le film est la chronique d'une famille.",
+          "it": "Il film è la cronaca della vita di una famiglia.",
+          "es": "La película es la crónica de la vida de una familia."
+        }
+      ]
+    },
+    {
+      "id": "chronology",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "chron",
+        "-ology"
+      ],
+      "gloss": {
+        "en": "the order in which events happened",
+        "tr": "kronoloji, olayların zaman sırası",
+        "de": "die Chronologie, die zeitliche Abfolge",
+        "fr": "la chronologie",
+        "it": "la cronologia",
+        "es": "la cronología"
+      },
+      "sentences": [
+        {
+          "en": "The police tried to work out the [chronology] of events.",
+          "tr": "Polis olayların zaman sırasını çıkarmaya çalıştı.",
+          "de": "Die Polizei versuchte, den zeitlichen Ablauf zu rekonstruieren.",
+          "fr": "La police a essayé d'établir la chronologie des faits.",
+          "it": "La polizia ha cercato di ricostruire la cronologia dei fatti.",
+          "es": "La policía intentó reconstruir la cronología de los hechos."
+        },
+        {
+          "en": "The book has a [chronology] at the back.",
+          "tr": "Kitabın sonunda bir kronoloji var.",
+          "de": "Das Buch hat hinten eine Zeittafel.",
+          "fr": "Le livre comporte une chronologie à la fin.",
+          "it": "Il libro ha una cronologia alla fine.",
+          "es": "El libro tiene una cronología al final."
+        }
+      ]
+    },
+    {
+      "id": "chronological",
+      "pos": "adjective",
+      "parent": "chronology",
+      "parts": [
+        "chron",
+        "-ological"
+      ],
+      "gloss": {
+        "en": "in the order in which events happened",
+        "tr": "kronolojik, zaman sırasına göre",
+        "de": "chronologisch",
+        "fr": "chronologique",
+        "it": "cronologico",
+        "es": "cronológico"
+      },
+      "sentences": [
+        {
+          "en": "List the kings in [chronological] order.",
+          "tr": "Kralları kronolojik sırayla listele.",
+          "de": "Liste die Könige in chronologischer Reihenfolge auf.",
+          "fr": "Liste les rois dans l'ordre chronologique.",
+          "it": "Elenca i re in ordine cronologico.",
+          "es": "Enumera a los reyes en orden cronológico."
+        },
+        {
+          "en": "The photos are sorted in [chronological] order.",
+          "tr": "Fotoğraflar zaman sırasına göre dizilmiş.",
+          "de": "Die Fotos sind chronologisch sortiert.",
+          "fr": "Les photos sont classées par ordre chronologique.",
+          "it": "Le foto sono ordinate cronologicamente.",
+          "es": "Las fotos están ordenadas cronológicamente."
+        }
+      ]
+    },
+    {
+      "id": "synchronize",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "syn-",
+        "chron",
+        "-ize"
+      ],
+      "gloss": {
+        "en": "to make things happen at the same time; to make data the same on two devices (literally: to bring to the same time)",
+        "tr": "eş zamanlamak, senkronize etmek",
+        "de": "synchronisieren, abgleichen",
+        "fr": "synchroniser",
+        "it": "sincronizzare",
+        "es": "sincronizar"
+      },
+      "sentences": [
+        {
+          "en": "Let's [synchronize] our watches.",
+          "tr": "Saatlerimizi eşitleyelim.",
+          "de": "Lass uns unsere Uhren abgleichen.",
+          "fr": "Synchronisons nos montres.",
+          "it": "Sincronizziamo gli orologi.",
+          "es": "Sincronicemos los relojes."
+        },
+        {
+          "en": "The app [synchronizes] your notes across devices.",
+          "tr": "Uygulama notlarını cihazlar arasında eş zamanlıyor.",
+          "de": "Die App synchronisiert deine Notizen zwischen Geräten.",
+          "fr": "L'appli synchronise tes notes entre tes appareils.",
+          "it": "L'app sincronizza le note tra i dispositivi.",
+          "es": "La aplicación sincroniza tus notas entre dispositivos."
+        }
+      ]
+    },
+    {
+      "id": "synchronized",
+      "pos": "adjective",
+      "parent": "synchronize",
+      "parts": [
+        "syn-",
+        "chron",
+        "-ized"
+      ],
+      "gloss": {
+        "en": "happening at exactly the same time",
+        "tr": "eş zamanlı, senkronize",
+        "de": "synchron, im Gleichtakt",
+        "fr": "synchronisé",
+        "it": "sincronizzato",
+        "es": "sincronizado"
+      },
+      "sentences": [
+        {
+          "en": "[Synchronized] swimming looks easy but is very hard.",
+          "tr": "Senkronize yüzme kolay görünür ama çok zordur.",
+          "de": "Synchronschwimmen sieht leicht aus, ist aber sehr schwer.",
+          "fr": "La natation synchronisée a l'air facile mais c'est très dur.",
+          "it": "Il nuoto sincronizzato sembra facile ma è molto difficile.",
+          "es": "La natación sincronizada parece fácil pero es muy difícil."
+        },
+        {
+          "en": "The lights flashed in a [synchronized] pattern.",
+          "tr": "Işıklar eş zamanlı bir düzende yanıp söndü.",
+          "de": "Die Lichter blinkten im Gleichtakt.",
+          "fr": "Les lumières clignotaient de manière synchronisée.",
+          "it": "Le luci lampeggiavano in modo sincronizzato.",
+          "es": "Las luces parpadeaban de forma sincronizada."
+        }
+      ]
+    },
+    {
+      "id": "asynchronous",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "a-not-",
+        "syn-",
+        "chron",
+        "-ous"
+      ],
+      "gloss": {
+        "en": "not happening at the same time (literally: not with time)",
+        "tr": "eş zamansız, asenkron",
+        "de": "asynchron, zeitversetzt",
+        "fr": "asynchrone",
+        "it": "asincrono",
+        "es": "asíncrono"
+      },
+      "sentences": [
+        {
+          "en": "The course uses [asynchronous] video lessons.",
+          "tr": "Kurs eş zamansız video dersler kullanıyor.",
+          "de": "Der Kurs nutzt zeitversetzte Videolektionen.",
+          "fr": "Le cours utilise des leçons vidéo asynchrones.",
+          "it": "Il corso usa videolezioni asincrone.",
+          "es": "El curso usa clases en vídeo asíncronas."
+        },
+        {
+          "en": "Email is an [asynchronous] form of communication.",
+          "tr": "E-posta eş zamansız bir iletişim biçimidir.",
+          "de": "E-Mail ist eine asynchrone Form der Kommunikation.",
+          "fr": "L'e-mail est un moyen de communication asynchrone.",
+          "it": "L'email è una forma di comunicazione asincrona.",
+          "es": "El correo es una forma de comunicación asíncrona."
+        }
+      ]
+    },
+    {
+      "id": "anachronism",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "ana-",
+        "chron",
+        "-ism"
+      ],
+      "gloss": {
+        "en": "something that is in the wrong time period (literally: against time, backwards in time)",
+        "tr": "anakronizm, zaman yanlışlığı",
+        "de": "der Anachronismus",
+        "fr": "l'anachronisme",
+        "it": "l'anacronismo",
+        "es": "el anacronismo"
+      },
+      "sentences": [
+        {
+          "en": "A phone in a Roman film is an [anachronism].",
+          "tr": "Bir Roma filminde telefon olması bir anakronizmdir.",
+          "de": "Ein Telefon in einem Römerfilm ist ein Anachronismus.",
+          "fr": "Un téléphone dans un film sur Rome est un anachronisme.",
+          "it": "Un telefono in un film sull'antica Roma è un anacronismo.",
+          "es": "Un teléfono en una película romana es un anacronismo."
+        },
+        {
+          "en": "Some see the old law as an [anachronism].",
+          "tr": "Bazıları eski yasayı çağ dışı buluyor.",
+          "de": "Manche halten das alte Gesetz für einen Anachronismus.",
+          "fr": "Certains voient la vieille loi comme un anachronisme.",
+          "it": "Alcuni considerano la vecchia legge un anacronismo.",
+          "es": "Algunos ven la vieja ley como un anacronismo."
+        }
+      ]
+    },
+    {
+      "id": "chronometer",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "chron",
+        "-ometer"
+      ],
+      "gloss": {
+        "en": "a very exact clock, used for example on ships (literally: time measurer)",
+        "tr": "kronometre",
+        "de": "das Chronometer",
+        "fr": "le chronomètre",
+        "it": "il cronometro",
+        "es": "el cronómetro"
+      },
+      "sentences": [
+        {
+          "en": "Sailors used a [chronometer] to find their position.",
+          "tr": "Denizciler konumlarını bulmak için kronometre kullanırdı.",
+          "de": "Seeleute bestimmten ihre Position mit einem Chronometer.",
+          "fr": "Les marins utilisaient un chronomètre pour trouver leur position.",
+          "it": "I marinai usavano un cronometro per trovare la posizione.",
+          "es": "Los marineros usaban un cronómetro para saber su posición."
+        },
+        {
+          "en": "The museum has an old ship's [chronometer].",
+          "tr": "Müzede eski bir gemi kronometresi var.",
+          "de": "Das Museum hat ein altes Schiffschronometer.",
+          "fr": "Le musée possède un vieux chronomètre de marine.",
+          "it": "Il museo ha un vecchio cronometro da nave.",
+          "es": "El museo tiene un viejo cronómetro de barco."
+        }
+      ]
+    }
+  ]
+}

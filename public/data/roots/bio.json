@@ -1,0 +1,372 @@
+{
+  "id": "bio",
+  "forms": [
+    "bio"
+  ],
+  "origin": "gr",
+  "etymon": "bios",
+  "meaning": {
+    "en": "life",
+    "tr": "yaşam, hayat",
+    "de": "das Leben",
+    "fr": "la vie",
+    "it": "la vita",
+    "es": "la vida"
+  },
+  "words": [
+    {
+      "id": "biology",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "bio",
+        "-logy"
+      ],
+      "gloss": {
+        "en": "the study of living things (literally: the study of life)",
+        "tr": "biyoloji",
+        "de": "die Biologie",
+        "fr": "la biologie",
+        "it": "la biologia",
+        "es": "la biología"
+      },
+      "sentences": [
+        {
+          "en": "She wants to study marine [biology].",
+          "tr": "Deniz biyolojisi okumak istiyor.",
+          "de": "Sie möchte Meeresbiologie studieren.",
+          "fr": "Elle veut étudier la biologie marine.",
+          "it": "Vuole studiare biologia marina.",
+          "es": "Quiere estudiar biología marina."
+        },
+        {
+          "en": "We dissected a flower in [biology] class.",
+          "tr": "Biyoloji dersinde bir çiçeği inceledik.",
+          "de": "Im Biologieunterricht haben wir eine Blüte zerlegt.",
+          "fr": "En cours de biologie, nous avons disséqué une fleur.",
+          "it": "Nell'ora di biologia abbiamo sezionato un fiore.",
+          "es": "En clase de biología diseccionamos una flor."
+        }
+      ]
+    },
+    {
+      "id": "biologist",
+      "pos": "noun",
+      "parent": "biology",
+      "parts": [
+        "bio",
+        "-logist"
+      ],
+      "gloss": {
+        "en": "a scientist who studies living things",
+        "tr": "biyolog",
+        "de": "der Biologe",
+        "fr": "le biologiste",
+        "it": "il biologo",
+        "es": "el biólogo"
+      },
+      "sentences": [
+        {
+          "en": "A [biologist] counted the birds on the island.",
+          "tr": "Bir biyolog adadaki kuşları saydı.",
+          "de": "Eine Biologin zählte die Vögel auf der Insel.",
+          "fr": "Une biologiste a compté les oiseaux de l'île.",
+          "it": "Una biologa ha contato gli uccelli sull'isola.",
+          "es": "Una bióloga contó las aves de la isla."
+        },
+        {
+          "en": "He works as a [biologist] in a lab.",
+          "tr": "Bir laboratuvarda biyolog olarak çalışıyor.",
+          "de": "Er arbeitet als Biologe in einem Labor.",
+          "fr": "Il travaille comme biologiste dans un laboratoire.",
+          "it": "Lavora come biologo in un laboratorio.",
+          "es": "Trabaja como biólogo en un laboratorio."
+        }
+      ]
+    },
+    {
+      "id": "biological",
+      "pos": "adjective",
+      "parent": "biology",
+      "parts": [
+        "bio",
+        "-logical"
+      ],
+      "gloss": {
+        "en": "related to living things or biology; related by birth",
+        "tr": "biyolojik",
+        "de": "biologisch; leiblich",
+        "fr": "biologique",
+        "it": "biologico",
+        "es": "biológico"
+      },
+      "sentences": [
+        {
+          "en": "Sleep is a [biological] need.",
+          "tr": "Uyku biyolojik bir ihtiyaçtır.",
+          "de": "Schlaf ist ein biologisches Bedürfnis.",
+          "fr": "Le sommeil est un besoin biologique.",
+          "it": "Il sonno è un bisogno biologico.",
+          "es": "Dormir es una necesidad biológica."
+        },
+        {
+          "en": "She met her [biological] father at twenty.",
+          "tr": "Biyolojik babasıyla yirmi yaşında tanıştı.",
+          "de": "Sie lernte ihren leiblichen Vater mit zwanzig kennen.",
+          "fr": "Elle a rencontré son père biologique à vingt ans.",
+          "it": "Ha conosciuto il padre biologico a vent'anni.",
+          "es": "Conoció a su padre biológico a los veinte años."
+        }
+      ]
+    },
+    {
+      "id": "biography",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "bio",
+        "-graphy"
+      ],
+      "gloss": {
+        "en": "a book about someone's life (literally: life writing)",
+        "tr": "biyografi",
+        "de": "die Biografie",
+        "fr": "la biographie",
+        "it": "la biografia",
+        "es": "la biografía"
+      },
+      "sentences": [
+        {
+          "en": "This [biography] of Einstein is very readable.",
+          "tr": "Einstein'ın bu biyografisi çok akıcı.",
+          "de": "Diese Biografie über Einstein liest sich sehr gut.",
+          "fr": "Cette biographie d'Einstein se lit très bien.",
+          "it": "Questa biografia di Einstein si legge molto bene.",
+          "es": "Esta biografía de Einstein se lee muy bien."
+        },
+        {
+          "en": "Her [biography] became a film.",
+          "tr": "Biyografisi filme çekildi.",
+          "de": "Ihre Biografie wurde verfilmt.",
+          "fr": "Sa biographie a été adaptée au cinéma.",
+          "it": "La sua biografia è diventata un film.",
+          "es": "Su biografía se llevó al cine."
+        }
+      ]
+    },
+    {
+      "id": "autobiography",
+      "pos": "noun",
+      "parent": "biography",
+      "parts": [
+        "auto-",
+        "bio",
+        "-graphy"
+      ],
+      "gloss": {
+        "en": "a book someone writes about their own life (literally: self-life writing)",
+        "tr": "otobiyografi",
+        "de": "die Autobiografie",
+        "fr": "l'autobiographie",
+        "it": "l'autobiografia",
+        "es": "la autobiografía"
+      },
+      "sentences": [
+        {
+          "en": "I'm reading the [autobiography] of a famous climber.",
+          "tr": "Ünlü bir dağcının otobiyografisini okuyorum.",
+          "de": "Ich lese die Autobiografie eines berühmten Bergsteigers.",
+          "fr": "Je lis l'autobiographie d'un alpiniste célèbre.",
+          "it": "Sto leggendo l'autobiografia di un famoso alpinista.",
+          "es": "Estoy leyendo la autobiografía de un famoso alpinista."
+        },
+        {
+          "en": "An [autobiography] is written in the first person.",
+          "tr": "Otobiyografi birinci tekil şahısla yazılır.",
+          "de": "Eine Autobiografie wird in der Ich-Form geschrieben.",
+          "fr": "Une autobiographie s'écrit à la première personne.",
+          "it": "Un'autobiografia è scritta in prima persona.",
+          "es": "Una autobiografía se escribe en primera persona."
+        }
+      ]
+    },
+    {
+      "id": "antibiotic",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "anti-",
+        "bio",
+        "-tic"
+      ],
+      "gloss": {
+        "en": "a medicine that kills bacteria (literally: against life)",
+        "tr": "antibiyotik",
+        "de": "das Antibiotikum",
+        "fr": "l'antibiotique",
+        "it": "l'antibiotico",
+        "es": "el antibiótico"
+      },
+      "sentences": [
+        {
+          "en": "The doctor gave me [antibiotics] for the infection.",
+          "tr": "Doktor enfeksiyon için bana antibiyotik verdi.",
+          "de": "Die Ärztin gab mir Antibiotika gegen die Infektion.",
+          "fr": "Le médecin m'a donné des antibiotiques contre l'infection.",
+          "it": "Il medico mi ha dato gli antibiotici per l'infezione.",
+          "es": "El médico me dio antibióticos para la infección."
+        },
+        {
+          "en": "[Antibiotics] don't work against viruses.",
+          "tr": "Antibiyotikler virüslere karşı işe yaramaz.",
+          "de": "Antibiotika wirken nicht gegen Viren.",
+          "fr": "Les antibiotiques n'agissent pas contre les virus.",
+          "it": "Gli antibiotici non funzionano contro i virus.",
+          "es": "Los antibióticos no funcionan contra los virus."
+        }
+      ]
+    },
+    {
+      "id": "probiotic",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "pro-",
+        "bio",
+        "-tic"
+      ],
+      "gloss": {
+        "en": "good bacteria in food that help digestion (literally: for life)",
+        "tr": "probiyotik",
+        "de": "das Probiotikum",
+        "fr": "le probiotique",
+        "it": "il probiotico",
+        "es": "el probiótico"
+      },
+      "sentences": [
+        {
+          "en": "Yogurt contains [probiotics].",
+          "tr": "Yoğurtta probiyotik bulunur.",
+          "de": "Joghurt enthält Probiotika.",
+          "fr": "Le yaourt contient des probiotiques.",
+          "it": "Lo yogurt contiene probiotici.",
+          "es": "El yogur contiene probióticos."
+        },
+        {
+          "en": "Some people take [probiotics] after antibiotics.",
+          "tr": "Bazı insanlar antibiyotikten sonra probiyotik alır.",
+          "de": "Manche nehmen nach Antibiotika Probiotika ein.",
+          "fr": "Certaines personnes prennent des probiotiques après des antibiotiques.",
+          "it": "Alcune persone prendono probiotici dopo gli antibiotici.",
+          "es": "Algunas personas toman probióticos después de los antibióticos."
+        }
+      ]
+    },
+    {
+      "id": "biopsy",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "bio",
+        "-psy"
+      ],
+      "gloss": {
+        "en": "taking a small piece of tissue from the body to examine (literally: a viewing of life)",
+        "tr": "biyopsi",
+        "de": "die Biopsie",
+        "fr": "la biopsie",
+        "it": "la biopsia",
+        "es": "la biopsia"
+      },
+      "sentences": [
+        {
+          "en": "The doctor ordered a [biopsy] to be safe.",
+          "tr": "Doktor emin olmak için biyopsi istedi.",
+          "de": "Die Ärztin ordnete sicherheitshalber eine Biopsie an.",
+          "fr": "Le médecin a demandé une biopsie par précaution.",
+          "it": "Il medico ha chiesto una biopsia per sicurezza.",
+          "es": "La médica pidió una biopsia por precaución."
+        },
+        {
+          "en": "The [biopsy] results came back normal.",
+          "tr": "Biyopsi sonuçları normal çıktı.",
+          "de": "Die Ergebnisse der Biopsie waren unauffällig.",
+          "fr": "Les résultats de la biopsie étaient normaux.",
+          "it": "I risultati della biopsia erano normali.",
+          "es": "Los resultados de la biopsia salieron normales."
+        }
+      ]
+    },
+    {
+      "id": "symbiosis",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "sym-",
+        "bio",
+        "-sis"
+      ],
+      "gloss": {
+        "en": "two living things that live together and help each other (literally: living together)",
+        "tr": "ortak yaşam, simbiyoz",
+        "de": "die Symbiose",
+        "fr": "la symbiose",
+        "it": "la simbiosi",
+        "es": "la simbiosis"
+      },
+      "sentences": [
+        {
+          "en": "Bees and flowers live in [symbiosis].",
+          "tr": "Arılar ve çiçekler ortak yaşam içindedir.",
+          "de": "Bienen und Blumen leben in Symbiose.",
+          "fr": "Les abeilles et les fleurs vivent en symbiose.",
+          "it": "Api e fiori vivono in simbiosi.",
+          "es": "Las abejas y las flores viven en simbiosis."
+        },
+        {
+          "en": "The small fish and the shark have a kind of [symbiosis].",
+          "tr": "Küçük balık ve köpek balığı arasında bir tür ortak yaşam var.",
+          "de": "Der kleine Fisch und der Hai leben in einer Art Symbiose.",
+          "fr": "Le petit poisson et le requin vivent une sorte de symbiose.",
+          "it": "Il pesciolino e lo squalo hanno una specie di simbiosi.",
+          "es": "El pez pequeño y el tiburón tienen una especie de simbiosis."
+        }
+      ]
+    },
+    {
+      "id": "biosphere",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "bio",
+        "-sphere"
+      ],
+      "gloss": {
+        "en": "the part of the Earth where life exists (literally: the sphere of life)",
+        "tr": "biyosfer, canlı küre",
+        "de": "die Biosphäre",
+        "fr": "la biosphère",
+        "it": "la biosfera",
+        "es": "la biosfera"
+      },
+      "sentences": [
+        {
+          "en": "Pollution affects the whole [biosphere].",
+          "tr": "Kirlilik bütün biyosferi etkiliyor.",
+          "de": "Die Verschmutzung betrifft die gesamte Biosphäre.",
+          "fr": "La pollution touche toute la biosphère.",
+          "it": "L'inquinamento colpisce l'intera biosfera.",
+          "es": "La contaminación afecta a toda la biosfera."
+        },
+        {
+          "en": "The forest is a protected [biosphere] reserve.",
+          "tr": "Orman koruma altındaki bir biyosfer rezervi.",
+          "de": "Der Wald ist ein geschütztes Biosphärenreservat.",
+          "fr": "La forêt est une réserve de biosphère protégée.",
+          "it": "La foresta è una riserva della biosfera protetta.",
+          "es": "El bosque es una reserva de la biosfera protegida."
+        }
+      ]
+    }
+  ]
+}

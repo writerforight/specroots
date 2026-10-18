@@ -26,6 +26,33 @@
     ]
   },
   {
+    "id": "bio",
+    "forms": [
+      "bio"
+    ],
+    "origin": "gr",
+    "meaning": {
+      "en": "life",
+      "tr": "yaşam, hayat",
+      "de": "das Leben",
+      "fr": "la vie",
+      "it": "la vita",
+      "es": "la vida"
+    },
+    "words": [
+      "biology",
+      "biologist",
+      "biological",
+      "biography",
+      "autobiography",
+      "antibiotic",
+      "probiotic",
+      "biopsy",
+      "symbiosis",
+      "biosphere"
+    ]
+  },
+  {
     "id": "cap",
     "forms": [
       "cap",
@@ -116,6 +143,33 @@
       "predecessor",
       "concede",
       "concession"
+    ]
+  },
+  {
+    "id": "chron",
+    "forms": [
+      "chron"
+    ],
+    "origin": "gr",
+    "meaning": {
+      "en": "time",
+      "tr": "zaman",
+      "de": "die Zeit",
+      "fr": "le temps",
+      "it": "il tempo",
+      "es": "el tiempo"
+    },
+    "words": [
+      "chronic",
+      "chronically",
+      "chronicle",
+      "chronology",
+      "chronological",
+      "synchronize",
+      "synchronized",
+      "asynchronous",
+      "anachronism",
+      "chronometer"
     ]
   },
   {
@@ -689,6 +743,44 @@
       "allocation",
       "dislocate",
       "collocation"
+    ]
+  },
+  {
+    "id": "log",
+    "forms": [
+      "log",
+      "logue"
+    ],
+    "origin": "gr",
+    "meaning": {
+      "en": "word, speech; reason, study",
+      "tr": "söz, konuşma; akıl, bilim",
+      "de": "das Wort, die Rede; die Vernunft, die Lehre",
+      "fr": "la parole; la raison, l'étude",
+      "it": "la parola; la ragione, lo studio",
+      "es": "la palabra; la razón, el estudio"
+    },
+    "words": [
+      "logic",
+      "logical",
+      "illogical",
+      "dialogue",
+      "monologue",
+      "catalogue",
+      "prologue",
+      "epilogue",
+      "apology",
+      "apologize",
+      "analogy",
+      "technology",
+      "technological",
+      "ecology",
+      "psychology",
+      "geology",
+      "mythology",
+      "zoology",
+      "sociology",
+      "neurology"
     ]
   },
   {
