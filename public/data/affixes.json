@@ -1101,5 +1101,104 @@
       "it": "colui che … (forma un nome)",
       "es": "el que … (forma un sustantivo)"
     }
+  },
+  "suc-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "under, after (sub- before c)",
+      "tr": "alt, ardından (c önünde sub-)",
+      "de": "unter, nach (sub- vor c)",
+      "fr": "sous, après (sub- devant c)",
+      "it": "sotto, dopo (sub- davanti a c)",
+      "es": "debajo, después (sub- ante c)"
+    }
+  },
+  "ef-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "out (ex- before f)",
+      "tr": "dışarı (f önünde ex-)",
+      "de": "heraus (ex- vor f)",
+      "fr": "hors de (ex- devant f)",
+      "it": "fuori (ex- davanti a f)",
+      "es": "hacia fuera (ex- ante f)"
+    }
+  },
+  "af-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "to, toward (ad- before f)",
+      "tr": "-e doğru (f önünde ad-)",
+      "de": "hin zu (ad- vor f)",
+      "fr": "vers (ad- devant f)",
+      "it": "verso (ad- davanti a f)",
+      "es": "hacia (ad- ante f)"
+    }
+  },
+  "arti-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "skill, art (Latin ars)",
+      "tr": "beceri, sanat (Latince ars)",
+      "de": "Kunst, Können (lateinisch ars)",
+      "fr": "art, savoir-faire (latin ars)",
+      "it": "arte, abilità (latino ars)",
+      "es": "arte, habilidad (latín ars)"
+    }
+  },
+  "satis-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "enough (Latin satis)",
+      "tr": "yeterli (Latince satis)",
+      "de": "genug (lateinisch satis)",
+      "fr": "assez (latin satis)",
+      "it": "abbastanza (latino satis)",
+      "es": "bastante (latín satis)"
+    }
+  },
+  "-ibility": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "the quality of being able to be (makes a noun)",
+      "tr": "-ebilirlik (isim yapar)",
+      "de": "-barkeit, -würdigkeit (bildet ein Nomen)",
+      "fr": "-ibilité (forme un nom)",
+      "it": "-ibilità (forma un nome)",
+      "es": "-ibilidad (forma un sustantivo)"
+    }
+  },
+  "-ility": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "quality, state (makes a noun)",
+      "tr": "nitelik, durum (isim yapar)",
+      "de": "Eigenschaft (bildet ein Nomen)",
+      "fr": "qualité (-ilité)",
+      "it": "qualità (-ilità)",
+      "es": "cualidad (-ilidad)"
+    }
+  },
+  "-ulous": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "tending to (makes an adjective)",
+      "tr": "-meye yatkın (sıfat yapar)",
+      "de": "neigend zu (bildet ein Adjektiv)",
+      "fr": "enclin à (forme un adjectif)",
+      "it": "incline a (forma un aggettivo)",
+      "es": "propenso a (forma un adjetivo)"
+    }
+  },
+  "-ibly": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "in a way that can be (makes an adverb)",
+      "tr": "-ebilecek şekilde (zarf yapar)",
+      "de": "auf eine Weise, die … werden kann (bildet ein Adverb)",
+      "fr": "d'une manière qui peut être (forme un adverbe)",
+      "it": "in modo che può essere (forma un avverbio)",
+      "es": "de un modo que puede ser (forma un adverbio)"
+    }
   }
 }

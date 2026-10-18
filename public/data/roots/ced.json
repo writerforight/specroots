@@ -1,0 +1,915 @@
+{
+  "id": "ced",
+  "forms": [
+    "ced",
+    "cede",
+    "ceed",
+    "cess"
+  ],
+  "origin": "la",
+  "etymon": "cedere",
+  "meaning": {
+    "en": "to go; to give way",
+    "tr": "gitmek; geri çekilmek, bırakmak",
+    "de": "gehen; weichen",
+    "fr": "aller; céder",
+    "it": "andare; cedere",
+    "es": "ir; ceder"
+  },
+  "words": [
+    {
+      "id": "proceed",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "pro-",
+        "ceed"
+      ],
+      "gloss": {
+        "en": "to continue or go forward (literally: to go forward)",
+        "tr": "devam etmek, ilerlemek",
+        "de": "fortfahren, weitergehen",
+        "fr": "continuer, se rendre",
+        "it": "procedere, proseguire",
+        "es": "continuar, proceder"
+      },
+      "sentences": [
+        {
+          "en": "Please [proceed] to gate 12.",
+          "tr": "Lütfen 12 numaralı kapıya ilerleyin.",
+          "de": "Bitte gehen Sie zu Gate 12.",
+          "fr": "Veuillez vous rendre à la porte 12.",
+          "it": "Si prega di recarsi al gate 12.",
+          "es": "Diríjanse a la puerta 12, por favor."
+        },
+        {
+          "en": "After a short break, we [proceeded] with the meeting.",
+          "tr": "Kısa bir aradan sonra toplantıya devam ettik.",
+          "de": "Nach einer kurzen Pause setzten wir das Treffen fort.",
+          "fr": "Après une courte pause, nous avons poursuivi la réunion.",
+          "it": "Dopo una breve pausa abbiamo proseguito la riunione.",
+          "es": "Tras un breve descanso, continuamos con la reunión."
+        }
+      ]
+    },
+    {
+      "id": "process",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "pro-",
+        "cess"
+      ],
+      "gloss": {
+        "en": "a series of steps to reach a result (literally: a going forward)",
+        "tr": "süreç, işlem",
+        "de": "der Prozess, der Vorgang",
+        "fr": "le processus, la procédure",
+        "it": "il processo, la procedura",
+        "es": "el proceso"
+      },
+      "sentences": [
+        {
+          "en": "Learning a language is a slow [process].",
+          "tr": "Bir dil öğrenmek yavaş bir süreç.",
+          "de": "Eine Sprache zu lernen ist ein langsamer Prozess.",
+          "fr": "Apprendre une langue est un processus lent.",
+          "it": "Imparare una lingua è un processo lento.",
+          "es": "Aprender un idioma es un proceso lento."
+        },
+        {
+          "en": "The application [process] takes two weeks.",
+          "tr": "Başvuru süreci iki hafta sürüyor.",
+          "de": "Das Bewerbungsverfahren dauert zwei Wochen.",
+          "fr": "La procédure de candidature prend deux semaines.",
+          "it": "La procedura di candidatura dura due settimane.",
+          "es": "El proceso de solicitud dura dos semanas."
+        }
+      ]
+    },
+    {
+      "id": "procession",
+      "pos": "noun",
+      "parent": "process",
+      "parts": [
+        "pro-",
+        "cess",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a line of people moving slowly, often in a ceremony",
+        "tr": "tören alayı, yürüyüş",
+        "de": "die Prozession, der Umzug",
+        "fr": "la procession, le cortège",
+        "it": "la processione, il corteo",
+        "es": "la procesión, el desfile"
+      },
+      "sentences": [
+        {
+          "en": "A long [procession] moved through the old town.",
+          "tr": "Uzun bir tören alayı eski şehirden geçti.",
+          "de": "Ein langer Umzug zog durch die Altstadt.",
+          "fr": "Un long cortège a traversé la vieille ville.",
+          "it": "Una lunga processione ha attraversato il centro storico.",
+          "es": "Una larga procesión recorrió el casco antiguo."
+        },
+        {
+          "en": "The wedding [procession] stopped the traffic.",
+          "tr": "Düğün konvoyu trafiği durdurdu.",
+          "de": "Der Hochzeitszug hielt den Verkehr auf.",
+          "fr": "Le cortège nuptial a bloqué la circulation.",
+          "it": "Il corteo nuziale ha bloccato il traffico.",
+          "es": "El cortejo nupcial paró el tráfico."
+        }
+      ]
+    },
+    {
+      "id": "procedure",
+      "pos": "noun",
+      "parent": "proceed",
+      "parts": [
+        "pro-",
+        "ced",
+        "-ure"
+      ],
+      "gloss": {
+        "en": "the official or normal way of doing something; a medical operation",
+        "tr": "prosedür, işlem",
+        "de": "das Verfahren; der Eingriff",
+        "fr": "la procédure; l'intervention",
+        "it": "la procedura; l'intervento",
+        "es": "el procedimiento; la intervención"
+      },
+      "sentences": [
+        {
+          "en": "Follow the safety [procedure] in an emergency.",
+          "tr": "Acil durumda güvenlik prosedürünü uygula.",
+          "de": "Befolge im Notfall das Sicherheitsverfahren.",
+          "fr": "En cas d'urgence, suis la procédure de sécurité.",
+          "it": "In caso di emergenza segui la procedura di sicurezza.",
+          "es": "En una emergencia, sigue el procedimiento de seguridad."
+        },
+        {
+          "en": "It's a simple [procedure] that takes ten minutes.",
+          "tr": "On dakika süren basit bir işlem.",
+          "de": "Es ist ein einfacher Eingriff, der zehn Minuten dauert.",
+          "fr": "C'est une intervention simple qui prend dix minutes.",
+          "it": "È un intervento semplice che dura dieci minuti.",
+          "es": "Es una intervención sencilla que dura diez minutos."
+        }
+      ]
+    },
+    {
+      "id": "succeed",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "suc-",
+        "ceed"
+      ],
+      "gloss": {
+        "en": "to manage to do what you wanted; to come after someone (literally: to go under, to follow)",
+        "tr": "başarmak; yerine geçmek",
+        "de": "Erfolg haben; nachfolgen",
+        "fr": "réussir; succéder",
+        "it": "riuscire; succedere a",
+        "es": "tener éxito, lograr; suceder"
+      },
+      "sentences": [
+        {
+          "en": "If at first you don't [succeed], try again.",
+          "tr": "İlk seferde başaramazsan tekrar dene.",
+          "de": "Wenn es beim ersten Mal nicht klappt, versuch es noch einmal.",
+          "fr": "Si tu ne réussis pas du premier coup, réessaie.",
+          "it": "Se all'inizio non riesci, riprova.",
+          "es": "Si al principio no lo logras, inténtalo de nuevo."
+        },
+        {
+          "en": "She [succeeded] her father as head of the company.",
+          "tr": "Şirketin başında babasının yerine geçti.",
+          "de": "Sie folgte ihrem Vater als Chefin der Firma nach.",
+          "fr": "Elle a succédé à son père à la tête de l'entreprise.",
+          "it": "È succeduta al padre alla guida dell'azienda.",
+          "es": "Sucedió a su padre al frente de la empresa."
+        }
+      ]
+    },
+    {
+      "id": "success",
+      "pos": "noun",
+      "parent": "succeed",
+      "parts": [
+        "suc-",
+        "cess"
+      ],
+      "gloss": {
+        "en": "the act of reaching a goal",
+        "tr": "başarı",
+        "de": "der Erfolg",
+        "fr": "le succès, la réussite",
+        "it": "il successo",
+        "es": "el éxito"
+      },
+      "sentences": [
+        {
+          "en": "The party was a big [success].",
+          "tr": "Parti büyük bir başarıydı.",
+          "de": "Die Party war ein großer Erfolg.",
+          "fr": "La fête a été un grand succès.",
+          "it": "La festa è stata un grande successo.",
+          "es": "La fiesta fue un gran éxito."
+        },
+        {
+          "en": "Hard work is the key to [success].",
+          "tr": "Çok çalışmak başarının anahtarıdır.",
+          "de": "Harte Arbeit ist der Schlüssel zum Erfolg.",
+          "fr": "Le travail est la clé de la réussite.",
+          "it": "Il duro lavoro è la chiave del successo.",
+          "es": "El trabajo duro es la clave del éxito."
+        }
+      ]
+    },
+    {
+      "id": "successful",
+      "pos": "adjective",
+      "parent": "success",
+      "parts": [
+        "suc-",
+        "cess",
+        "-ful"
+      ],
+      "gloss": {
+        "en": "having reached a goal; doing well",
+        "tr": "başarılı",
+        "de": "erfolgreich",
+        "fr": "réussi; qui a du succès",
+        "it": "riuscito; di successo",
+        "es": "exitoso; que tiene éxito"
+      },
+      "sentences": [
+        {
+          "en": "The operation was [successful].",
+          "tr": "Ameliyat başarılı geçti.",
+          "de": "Die Operation war erfolgreich.",
+          "fr": "L'opération a réussi.",
+          "it": "L'operazione è riuscita.",
+          "es": "La operación fue un éxito."
+        },
+        {
+          "en": "She runs a [successful] bakery.",
+          "tr": "Başarılı bir fırın işletiyor.",
+          "de": "Sie führt eine erfolgreiche Bäckerei.",
+          "fr": "Elle tient une boulangerie qui marche bien.",
+          "it": "Gestisce una panetteria di successo.",
+          "es": "Lleva una panadería de éxito."
+        }
+      ]
+    },
+    {
+      "id": "unsuccessful",
+      "pos": "adjective",
+      "parent": "successful",
+      "parts": [
+        "un-",
+        "suc-",
+        "cess",
+        "-ful"
+      ],
+      "gloss": {
+        "en": "not reaching the goal",
+        "tr": "başarısız",
+        "de": "erfolglos",
+        "fr": "infructueux, sans succès",
+        "it": "senza successo, fallito",
+        "es": "fallido, sin éxito"
+      },
+      "sentences": [
+        {
+          "en": "My first attempt was [unsuccessful].",
+          "tr": "İlk denemem başarısız oldu.",
+          "de": "Mein erster Versuch war erfolglos.",
+          "fr": "Ma première tentative a échoué.",
+          "it": "Il mio primo tentativo non è riuscito.",
+          "es": "Mi primer intento fue fallido."
+        },
+        {
+          "en": "[Unsuccessful] applicants will not be contacted.",
+          "tr": "Kabul edilmeyen adaylarla iletişime geçilmeyecek.",
+          "de": "Abgelehnte Bewerber werden nicht benachrichtigt.",
+          "fr": "Les candidats non retenus ne seront pas contactés.",
+          "it": "I candidati non selezionati non saranno contattati.",
+          "es": "No se contactará con los candidatos no seleccionados."
+        }
+      ]
+    },
+    {
+      "id": "succession",
+      "pos": "noun",
+      "parent": "succeed",
+      "parts": [
+        "suc-",
+        "cess",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a number of things that follow each other; taking someone's place",
+        "tr": "art arda gelme, dizi; yerine geçme",
+        "de": "die Folge; die Nachfolge",
+        "fr": "la succession, la suite",
+        "it": "la successione, la serie",
+        "es": "la sucesión, la serie"
+      },
+      "sentences": [
+        {
+          "en": "They won three games in [succession].",
+          "tr": "Art arda üç maç kazandılar.",
+          "de": "Sie gewannen drei Spiele in Folge.",
+          "fr": "Ils ont gagné trois matchs de suite.",
+          "it": "Hanno vinto tre partite di fila.",
+          "es": "Ganaron tres partidos seguidos."
+        },
+        {
+          "en": "A [succession] of storms hit the coast.",
+          "tr": "Kıyıyı art arda fırtınalar vurdu.",
+          "de": "Eine Reihe von Stürmen traf die Küste.",
+          "fr": "Une succession de tempêtes a frappé la côte.",
+          "it": "Una serie di tempeste ha colpito la costa.",
+          "es": "Una sucesión de tormentas azotó la costa."
+        }
+      ]
+    },
+    {
+      "id": "successor",
+      "pos": "noun",
+      "parent": "succeed",
+      "parts": [
+        "suc-",
+        "cess",
+        "-or"
+      ],
+      "gloss": {
+        "en": "a person or thing that comes after another",
+        "tr": "halef, ardıl",
+        "de": "der Nachfolger",
+        "fr": "le successeur",
+        "it": "il successore",
+        "es": "el sucesor"
+      },
+      "sentences": [
+        {
+          "en": "The king named his [successor].",
+          "tr": "Kral halefini belirledi.",
+          "de": "Der König ernannte seinen Nachfolger.",
+          "fr": "Le roi a désigné son successeur.",
+          "it": "Il re ha nominato il suo successore.",
+          "es": "El rey nombró a su sucesor."
+        },
+        {
+          "en": "This phone is the [successor] to last year's model.",
+          "tr": "Bu telefon geçen yılki modelin devamı.",
+          "de": "Dieses Handy ist der Nachfolger des Vorjahresmodells.",
+          "fr": "Ce téléphone succède au modèle de l'an dernier.",
+          "it": "Questo telefono è il successore del modello dell'anno scorso.",
+          "es": "Este móvil es el sucesor del modelo del año pasado."
+        }
+      ]
+    },
+    {
+      "id": "exceed",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ex-",
+        "ceed"
+      ],
+      "gloss": {
+        "en": "to go beyond a limit or amount (literally: to go out)",
+        "tr": "aşmak, geçmek",
+        "de": "überschreiten, übertreffen",
+        "fr": "dépasser",
+        "it": "superare",
+        "es": "superar, exceder"
+      },
+      "sentences": [
+        {
+          "en": "Don't [exceed] the speed limit.",
+          "tr": "Hız sınırını aşma.",
+          "de": "Überschreite die Geschwindigkeitsbegrenzung nicht.",
+          "fr": "Ne dépasse pas la limite de vitesse.",
+          "it": "Non superare il limite di velocità.",
+          "es": "No superes el límite de velocidad."
+        },
+        {
+          "en": "The results [exceeded] our expectations.",
+          "tr": "Sonuçlar beklentilerimizi aştı.",
+          "de": "Die Ergebnisse übertrafen unsere Erwartungen.",
+          "fr": "Les résultats ont dépassé nos attentes.",
+          "it": "I risultati hanno superato le nostre aspettative.",
+          "es": "Los resultados superaron nuestras expectativas."
+        }
+      ]
+    },
+    {
+      "id": "excess",
+      "pos": "noun",
+      "parent": "exceed",
+      "parts": [
+        "ex-",
+        "cess"
+      ],
+      "gloss": {
+        "en": "an amount that is more than needed",
+        "tr": "fazlalık, aşırılık",
+        "de": "der Überschuss, das Übermaß",
+        "fr": "l'excès",
+        "it": "l'eccesso",
+        "es": "el exceso"
+      },
+      "sentences": [
+        {
+          "en": "Cut off the [excess] fabric.",
+          "tr": "Fazla kumaşı kes.",
+          "de": "Schneide den überschüssigen Stoff ab.",
+          "fr": "Coupe l'excédent de tissu.",
+          "it": "Taglia il tessuto in eccesso.",
+          "es": "Corta la tela sobrante."
+        },
+        {
+          "en": "Sugar in [excess] is bad for your teeth.",
+          "tr": "Fazla şeker dişlere zararlıdır.",
+          "de": "Zu viel Zucker ist schlecht für die Zähne.",
+          "fr": "Le sucre en excès est mauvais pour les dents.",
+          "it": "Lo zucchero in eccesso fa male ai denti.",
+          "es": "El azúcar en exceso es malo para los dientes."
+        }
+      ]
+    },
+    {
+      "id": "excessive",
+      "pos": "adjective",
+      "parent": "excess",
+      "parts": [
+        "ex-",
+        "cess",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "too much",
+        "tr": "aşırı",
+        "de": "übermäßig",
+        "fr": "excessif",
+        "it": "eccessivo",
+        "es": "excesivo"
+      },
+      "sentences": [
+        {
+          "en": "The fine seems [excessive] for a small mistake.",
+          "tr": "Küçük bir hata için ceza aşırı görünüyor.",
+          "de": "Die Strafe scheint für einen kleinen Fehler übertrieben.",
+          "fr": "L'amende semble excessive pour une petite erreur.",
+          "it": "La multa sembra eccessiva per un piccolo errore.",
+          "es": "La multa parece excesiva para un error pequeño."
+        },
+        {
+          "en": "[Excessive] screen time can hurt your eyes.",
+          "tr": "Ekran başında aşırı zaman geçirmek gözlere zarar verebilir.",
+          "de": "Zu viel Zeit vor dem Bildschirm kann den Augen schaden.",
+          "fr": "Un temps d'écran excessif peut abîmer les yeux.",
+          "it": "Troppo tempo davanti agli schermi può far male agli occhi.",
+          "es": "El tiempo excesivo frente a la pantalla puede dañar los ojos."
+        }
+      ]
+    },
+    {
+      "id": "access",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "ac-",
+        "cess"
+      ],
+      "gloss": {
+        "en": "a way in; the right or chance to use something (literally: a going to)",
+        "tr": "erişim, giriş",
+        "de": "der Zugang, der Zugriff",
+        "fr": "l'accès",
+        "it": "l'accesso",
+        "es": "el acceso"
+      },
+      "sentences": [
+        {
+          "en": "Everyone should have [access] to clean water.",
+          "tr": "Herkesin temiz suya erişimi olmalı.",
+          "de": "Jeder sollte Zugang zu sauberem Wasser haben.",
+          "fr": "Tout le monde devrait avoir accès à l'eau potable.",
+          "it": "Tutti dovrebbero avere accesso all'acqua pulita.",
+          "es": "Todo el mundo debería tener acceso al agua potable."
+        },
+        {
+          "en": "You need a password to get [access].",
+          "tr": "Erişim için şifre gerekiyor.",
+          "de": "Für den Zugriff brauchst du ein Passwort.",
+          "fr": "Il faut un mot de passe pour y accéder.",
+          "it": "Serve una password per accedere.",
+          "es": "Necesitas una contraseña para acceder."
+        }
+      ]
+    },
+    {
+      "id": "accessible",
+      "pos": "adjective",
+      "parent": "access",
+      "parts": [
+        "ac-",
+        "cess",
+        "-ible"
+      ],
+      "gloss": {
+        "en": "easy to reach, enter or use",
+        "tr": "erişilebilir, ulaşılabilir",
+        "de": "erreichbar; barrierefrei",
+        "fr": "accessible",
+        "it": "accessibile",
+        "es": "accesible"
+      },
+      "sentences": [
+        {
+          "en": "The museum is [accessible] by wheelchair.",
+          "tr": "Müzeye tekerlekli sandalyeyle girilebiliyor.",
+          "de": "Das Museum ist rollstuhlgerecht.",
+          "fr": "Le musée est accessible en fauteuil roulant.",
+          "it": "Il museo è accessibile in sedia a rotelle.",
+          "es": "El museo es accesible en silla de ruedas."
+        },
+        {
+          "en": "The book makes science [accessible] to everyone.",
+          "tr": "Kitap bilimi herkes için anlaşılır kılıyor.",
+          "de": "Das Buch macht Wissenschaft für alle verständlich.",
+          "fr": "Le livre rend la science accessible à tous.",
+          "it": "Il libro rende la scienza accessibile a tutti.",
+          "es": "El libro hace la ciencia accesible a todos."
+        }
+      ]
+    },
+    {
+      "id": "inaccessible",
+      "pos": "adjective",
+      "parent": "accessible",
+      "parts": [
+        "in-not-",
+        "ac-",
+        "cess",
+        "-ible"
+      ],
+      "gloss": {
+        "en": "impossible or very hard to reach",
+        "tr": "ulaşılamaz, erişilemez",
+        "de": "unzugänglich",
+        "fr": "inaccessible",
+        "it": "inaccessibile",
+        "es": "inaccesible"
+      },
+      "sentences": [
+        {
+          "en": "The village is [inaccessible] in winter.",
+          "tr": "Köye kışın ulaşılamıyor.",
+          "de": "Das Dorf ist im Winter unzugänglich.",
+          "fr": "Le village est inaccessible en hiver.",
+          "it": "Il villaggio è inaccessibile d'inverno.",
+          "es": "El pueblo es inaccesible en invierno."
+        },
+        {
+          "en": "The data was [inaccessible] after the crash.",
+          "tr": "Çökmeden sonra verilere erişilemedi.",
+          "de": "Nach dem Absturz waren die Daten nicht erreichbar.",
+          "fr": "Les données étaient inaccessibles après la panne.",
+          "it": "Dopo il crash i dati erano inaccessibili.",
+          "es": "Los datos quedaron inaccesibles tras el fallo."
+        }
+      ]
+    },
+    {
+      "id": "recede",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "re-",
+        "cede"
+      ],
+      "gloss": {
+        "en": "to move back or become smaller (literally: to go back)",
+        "tr": "geri çekilmek, azalmak",
+        "de": "zurückgehen",
+        "fr": "reculer, se retirer",
+        "it": "ritirarsi, calare",
+        "es": "retroceder, bajar"
+      },
+      "sentences": [
+        {
+          "en": "The water slowly [receded] after the flood.",
+          "tr": "Seldan sonra su yavaş yavaş çekildi.",
+          "de": "Nach der Flut ging das Wasser langsam zurück.",
+          "fr": "Après l'inondation, l'eau s'est lentement retirée.",
+          "it": "Dopo l'alluvione l'acqua si è ritirata lentamente.",
+          "es": "Después de la inundación, el agua bajó poco a poco."
+        },
+        {
+          "en": "The pain [receded] after an hour.",
+          "tr": "Ağrı bir saat sonra hafifledi.",
+          "de": "Der Schmerz ließ nach einer Stunde nach.",
+          "fr": "La douleur s'est atténuée au bout d'une heure.",
+          "it": "Il dolore è calato dopo un'ora.",
+          "es": "El dolor remitió al cabo de una hora."
+        }
+      ]
+    },
+    {
+      "id": "recession",
+      "pos": "noun",
+      "parent": "recede",
+      "parts": [
+        "re-",
+        "cess",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a time when the economy shrinks",
+        "tr": "durgunluk, resesyon",
+        "de": "die Rezession",
+        "fr": "la récession",
+        "it": "la recessione",
+        "es": "la recesión"
+      },
+      "sentences": [
+        {
+          "en": "Many people lost their jobs in the [recession].",
+          "tr": "Durgunlukta birçok kişi işini kaybetti.",
+          "de": "In der Rezession verloren viele Menschen ihre Arbeit.",
+          "fr": "Beaucoup de gens ont perdu leur emploi pendant la récession.",
+          "it": "Molte persone hanno perso il lavoro durante la recessione.",
+          "es": "Mucha gente perdió su empleo en la recesión."
+        },
+        {
+          "en": "Experts fear a [recession] next year.",
+          "tr": "Uzmanlar gelecek yıl bir durgunluktan korkuyor.",
+          "de": "Experten befürchten nächstes Jahr eine Rezession.",
+          "fr": "Les experts craignent une récession l'an prochain.",
+          "it": "Gli esperti temono una recessione l'anno prossimo.",
+          "es": "Los expertos temen una recesión el año que viene."
+        }
+      ]
+    },
+    {
+      "id": "recess",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "re-",
+        "cess"
+      ],
+      "gloss": {
+        "en": "a break between lessons or meetings; a small space in a wall (literally: a going back)",
+        "tr": "teneffüs, ara; duvar oyuğu",
+        "de": "die Pause; die Nische",
+        "fr": "la récréation, la pause; le renfoncement",
+        "it": "la ricreazione, la pausa; la nicchia",
+        "es": "el recreo, el descanso; el hueco"
+      },
+      "sentences": [
+        {
+          "en": "The children play outside during [recess].",
+          "tr": "Çocuklar teneffüste dışarıda oynuyor.",
+          "de": "Die Kinder spielen in der Pause draußen.",
+          "fr": "Les enfants jouent dehors pendant la récréation.",
+          "it": "I bambini giocano fuori durante la ricreazione.",
+          "es": "Los niños juegan fuera durante el recreo."
+        },
+        {
+          "en": "A small statue stands in a [recess] in the wall.",
+          "tr": "Duvardaki bir oyukta küçük bir heykel duruyor.",
+          "de": "In einer Nische in der Wand steht eine kleine Statue.",
+          "fr": "Une petite statue se trouve dans un renfoncement du mur.",
+          "it": "Una piccola statua si trova in una nicchia del muro.",
+          "es": "Una pequeña estatua está en un hueco de la pared."
+        }
+      ]
+    },
+    {
+      "id": "precede",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "pre-",
+        "cede"
+      ],
+      "gloss": {
+        "en": "to come before (literally: to go before)",
+        "tr": "önce gelmek, öncesinde olmak",
+        "de": "vorausgehen",
+        "fr": "précéder",
+        "it": "precedere",
+        "es": "preceder"
+      },
+      "sentences": [
+        {
+          "en": "A short talk [preceded] the film.",
+          "tr": "Filmden önce kısa bir konuşma yapıldı.",
+          "de": "Dem Film ging ein kurzer Vortrag voraus.",
+          "fr": "Une courte présentation a précédé le film.",
+          "it": "Un breve discorso ha preceduto il film.",
+          "es": "Una breve charla precedió a la película."
+        },
+        {
+          "en": "In English, the adjective [precedes] the noun.",
+          "tr": "İngilizcede sıfat isimden önce gelir.",
+          "de": "Im Englischen steht das Adjektiv vor dem Nomen.",
+          "fr": "En anglais, l'adjectif précède le nom.",
+          "it": "In inglese l'aggettivo precede il nome.",
+          "es": "En inglés, el adjetivo precede al sustantivo."
+        }
+      ]
+    },
+    {
+      "id": "precedent",
+      "pos": "noun",
+      "parent": "precede",
+      "parts": [
+        "pre-",
+        "ced",
+        "-ent"
+      ],
+      "gloss": {
+        "en": "an earlier event used as an example for later ones",
+        "tr": "emsal, örnek",
+        "de": "der Präzedenzfall",
+        "fr": "le précédent",
+        "it": "il precedente",
+        "es": "el precedente"
+      },
+      "sentences": [
+        {
+          "en": "This decision sets a [precedent] for future cases.",
+          "tr": "Bu karar gelecekteki davalar için emsal oluşturuyor.",
+          "de": "Diese Entscheidung schafft einen Präzedenzfall.",
+          "fr": "Cette décision crée un précédent pour les affaires futures.",
+          "it": "Questa decisione crea un precedente per i casi futuri.",
+          "es": "Esta decisión sienta un precedente para casos futuros."
+        },
+        {
+          "en": "There is no [precedent] for a crisis like this.",
+          "tr": "Böyle bir krizin örneği yok.",
+          "de": "Für eine solche Krise gibt es kein Vorbild.",
+          "fr": "Il n'y a pas de précédent pour une crise pareille.",
+          "it": "Non c'è un precedente per una crisi del genere.",
+          "es": "No hay precedentes de una crisis así."
+        }
+      ]
+    },
+    {
+      "id": "unprecedented",
+      "pos": "adjective",
+      "parent": "precedent",
+      "parts": [
+        "un-",
+        "pre-",
+        "ced",
+        "-ent",
+        "-ed"
+      ],
+      "gloss": {
+        "en": "never having happened before",
+        "tr": "eşi görülmemiş, benzeri olmayan",
+        "de": "beispiellos",
+        "fr": "sans précédent",
+        "it": "senza precedenti",
+        "es": "sin precedentes"
+      },
+      "sentences": [
+        {
+          "en": "The city saw [unprecedented] heat this summer.",
+          "tr": "Şehir bu yaz eşi görülmemiş bir sıcak yaşadı.",
+          "de": "Die Stadt erlebte diesen Sommer eine beispiellose Hitze.",
+          "fr": "La ville a connu une chaleur sans précédent cet été.",
+          "it": "La città ha vissuto un caldo senza precedenti quest'estate.",
+          "es": "La ciudad vivió un calor sin precedentes este verano."
+        },
+        {
+          "en": "The team had an [unprecedented] run of wins.",
+          "tr": "Takım benzeri görülmemiş bir galibiyet serisi yakaladı.",
+          "de": "Die Mannschaft hatte eine beispiellose Siegesserie.",
+          "fr": "L'équipe a connu une série de victoires sans précédent.",
+          "it": "La squadra ha avuto una serie di vittorie senza precedenti.",
+          "es": "El equipo logró una racha de victorias sin precedentes."
+        }
+      ]
+    },
+    {
+      "id": "predecessor",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "pre-",
+        "de-",
+        "cess",
+        "-or"
+      ],
+      "gloss": {
+        "en": "a person who had a job before someone else (literally: one who went away before)",
+        "tr": "selef, önceki",
+        "de": "der Vorgänger",
+        "fr": "le prédécesseur",
+        "it": "il predecessore",
+        "es": "el predecesor"
+      },
+      "sentences": [
+        {
+          "en": "The new coach is younger than his [predecessor].",
+          "tr": "Yeni teknik direktör selefinden daha genç.",
+          "de": "Der neue Trainer ist jünger als sein Vorgänger.",
+          "fr": "Le nouvel entraîneur est plus jeune que son prédécesseur.",
+          "it": "Il nuovo allenatore è più giovane del suo predecessore.",
+          "es": "El nuevo entrenador es más joven que su predecesor."
+        },
+        {
+          "en": "This model is lighter than its [predecessor].",
+          "tr": "Bu model bir öncekinden daha hafif.",
+          "de": "Dieses Modell ist leichter als sein Vorgänger.",
+          "fr": "Ce modèle est plus léger que son prédécesseur.",
+          "it": "Questo modello è più leggero del predecessore.",
+          "es": "Este modelo es más ligero que su predecesor."
+        }
+      ]
+    },
+    {
+      "id": "concede",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "con-",
+        "cede"
+      ],
+      "gloss": {
+        "en": "to admit something is true; to let the other side have something (literally: to give way together)",
+        "tr": "kabul etmek; (gol, puan) yemek",
+        "de": "einräumen; hinnehmen, kassieren",
+        "fr": "admettre, concéder; encaisser",
+        "it": "ammettere, concedere; subire",
+        "es": "admitir, conceder; encajar"
+      },
+      "sentences": [
+        {
+          "en": "He finally [conceded] that I was right.",
+          "tr": "Sonunda haklı olduğumu kabul etti.",
+          "de": "Er räumte schließlich ein, dass ich recht hatte.",
+          "fr": "Il a fini par admettre que j'avais raison.",
+          "it": "Alla fine ha ammesso che avevo ragione.",
+          "es": "Al final admitió que yo tenía razón."
+        },
+        {
+          "en": "Our team [conceded] two goals in the first half.",
+          "tr": "Takımımız ilk yarıda iki gol yedi.",
+          "de": "Unsere Mannschaft kassierte in der ersten Halbzeit zwei Tore.",
+          "fr": "Notre équipe a encaissé deux buts en première mi-temps.",
+          "it": "La nostra squadra ha subito due gol nel primo tempo.",
+          "es": "Nuestro equipo encajó dos goles en la primera parte."
+        }
+      ]
+    },
+    {
+      "id": "concession",
+      "pos": "noun",
+      "parent": "concede",
+      "parts": [
+        "con-",
+        "cess",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "something given up to reach an agreement; a lower price for some groups",
+        "tr": "taviz, ödün; indirim",
+        "de": "das Zugeständnis; die Ermäßigung",
+        "fr": "la concession; le tarif réduit",
+        "it": "la concessione; la riduzione",
+        "es": "la concesión; el descuento"
+      },
+      "sentences": [
+        {
+          "en": "Both sides made [concessions] to end the strike.",
+          "tr": "Grevi bitirmek için iki taraf da taviz verdi.",
+          "de": "Beide Seiten machten Zugeständnisse, um den Streik zu beenden.",
+          "fr": "Les deux camps ont fait des concessions pour mettre fin à la grève.",
+          "it": "Entrambe le parti hanno fatto concessioni per chiudere lo sciopero.",
+          "es": "Ambas partes hicieron concesiones para acabar con la huelga."
+        },
+        {
+          "en": "There is a [concession] price for students.",
+          "tr": "Öğrencilere indirimli fiyat var.",
+          "de": "Für Studierende gibt es einen ermäßigten Preis.",
+          "fr": "Il y a un tarif réduit pour les étudiants.",
+          "it": "C'è un prezzo ridotto per gli studenti.",
+          "es": "Hay un precio reducido para estudiantes."
+        }
+      ]
+    }
+  ]
+}

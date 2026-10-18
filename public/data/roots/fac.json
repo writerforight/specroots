@@ -1,0 +1,1020 @@
+{
+  "id": "fac",
+  "forms": [
+    "fac",
+    "fact",
+    "fect",
+    "fic",
+    "fit"
+  ],
+  "origin": "la",
+  "etymon": "facere",
+  "meaning": {
+    "en": "to make, to do",
+    "tr": "yapmak, etmek",
+    "de": "machen, tun",
+    "fr": "faire",
+    "it": "fare",
+    "es": "hacer"
+  },
+  "words": [
+    {
+      "id": "fact",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "fact"
+      ],
+      "gloss": {
+        "en": "something that is true (literally: a thing done)",
+        "tr": "gerçek, olgu",
+        "de": "die Tatsache",
+        "fr": "le fait",
+        "it": "il fatto",
+        "es": "el hecho"
+      },
+      "sentences": [
+        {
+          "en": "It's a [fact] that the Earth goes around the Sun.",
+          "tr": "Dünya'nın Güneş'in etrafında döndüğü bir gerçek.",
+          "de": "Es ist eine Tatsache, dass sich die Erde um die Sonne dreht.",
+          "fr": "C'est un fait que la Terre tourne autour du Soleil.",
+          "it": "È un fatto che la Terra gira intorno al Sole.",
+          "es": "Es un hecho que la Tierra gira alrededor del Sol."
+        },
+        {
+          "en": "Check the [facts] before you share the story.",
+          "tr": "Haberi paylaşmadan önce gerçekleri kontrol et.",
+          "de": "Prüf die Fakten, bevor du die Geschichte teilst.",
+          "fr": "Vérifie les faits avant de partager l'histoire.",
+          "it": "Controlla i fatti prima di condividere la notizia.",
+          "es": "Comprueba los hechos antes de compartir la historia."
+        }
+      ]
+    },
+    {
+      "id": "factor",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "fact",
+        "-or"
+      ],
+      "gloss": {
+        "en": "one of the things that cause a result (literally: a maker)",
+        "tr": "etken, faktör",
+        "de": "der Faktor",
+        "fr": "le facteur",
+        "it": "il fattore",
+        "es": "el factor"
+      },
+      "sentences": [
+        {
+          "en": "Price is an important [factor] for most buyers.",
+          "tr": "Fiyat çoğu alıcı için önemli bir etken.",
+          "de": "Der Preis ist für die meisten Käufer ein wichtiger Faktor.",
+          "fr": "Le prix est un facteur important pour la plupart des acheteurs.",
+          "it": "Il prezzo è un fattore importante per la maggior parte degli acquirenti.",
+          "es": "El precio es un factor importante para la mayoría de los compradores."
+        },
+        {
+          "en": "Stress is a big [factor] in heart disease.",
+          "tr": "Stres kalp hastalıklarında büyük bir etken.",
+          "de": "Stress ist ein großer Faktor bei Herzkrankheiten.",
+          "fr": "Le stress est un facteur important des maladies cardiaques.",
+          "it": "Lo stress è un fattore importante nelle malattie cardiache.",
+          "es": "El estrés es un factor importante en las enfermedades del corazón."
+        }
+      ]
+    },
+    {
+      "id": "factory",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "fact",
+        "-ory"
+      ],
+      "gloss": {
+        "en": "a building where things are made in large numbers",
+        "tr": "fabrika",
+        "de": "die Fabrik",
+        "fr": "l'usine",
+        "it": "la fabbrica",
+        "es": "la fábrica"
+      },
+      "sentences": [
+        {
+          "en": "My grandfather worked in a car [factory].",
+          "tr": "Dedem bir otomobil fabrikasında çalıştı.",
+          "de": "Mein Großvater arbeitete in einer Autofabrik.",
+          "fr": "Mon grand-père travaillait dans une usine automobile.",
+          "it": "Mio nonno lavorava in una fabbrica di auto.",
+          "es": "Mi abuelo trabajaba en una fábrica de coches."
+        },
+        {
+          "en": "The new [factory] will create 500 jobs.",
+          "tr": "Yeni fabrika 500 kişiye iş sağlayacak.",
+          "de": "Die neue Fabrik wird 500 Arbeitsplätze schaffen.",
+          "fr": "La nouvelle usine va créer 500 emplois.",
+          "it": "La nuova fabbrica creerà 500 posti di lavoro.",
+          "es": "La nueva fábrica creará 500 empleos."
+        }
+      ]
+    },
+    {
+      "id": "manufacture",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "manu-",
+        "fact",
+        "-ure"
+      ],
+      "gloss": {
+        "en": "to make goods in large numbers, usually with machines (literally: to make by hand)",
+        "tr": "üretmek, imal etmek",
+        "de": "herstellen",
+        "fr": "fabriquer",
+        "it": "fabbricare, produrre",
+        "es": "fabricar"
+      },
+      "sentences": [
+        {
+          "en": "The company [manufactures] bicycles.",
+          "tr": "Şirket bisiklet üretiyor.",
+          "de": "Die Firma stellt Fahrräder her.",
+          "fr": "L'entreprise fabrique des vélos.",
+          "it": "L'azienda produce biciclette.",
+          "es": "La empresa fabrica bicicletas."
+        },
+        {
+          "en": "These parts are [manufactured] in Germany.",
+          "tr": "Bu parçalar Almanya'da üretiliyor.",
+          "de": "Diese Teile werden in Deutschland hergestellt.",
+          "fr": "Ces pièces sont fabriquées en Allemagne.",
+          "it": "Questi pezzi sono fabbricati in Germania.",
+          "es": "Estas piezas se fabrican en Alemania."
+        }
+      ]
+    },
+    {
+      "id": "facility",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "fac",
+        "-ility"
+      ],
+      "gloss": {
+        "en": "a building or service for a special use (from Latin facilis, 'easy to do')",
+        "tr": "tesis, olanak",
+        "de": "die Einrichtung, die Anlage",
+        "fr": "l'installation, l'équipement",
+        "it": "la struttura, l'impianto",
+        "es": "la instalación"
+      },
+      "sentences": [
+        {
+          "en": "The hotel has good sports [facilities].",
+          "tr": "Otelin iyi spor tesisleri var.",
+          "de": "Das Hotel hat gute Sporteinrichtungen.",
+          "fr": "L'hôtel dispose de bonnes installations sportives.",
+          "it": "L'hotel ha buone strutture sportive.",
+          "es": "El hotel tiene buenas instalaciones deportivas."
+        },
+        {
+          "en": "The new research [facility] opens in June.",
+          "tr": "Yeni araştırma tesisi haziranda açılıyor.",
+          "de": "Die neue Forschungseinrichtung öffnet im Juni.",
+          "fr": "Le nouveau centre de recherche ouvre en juin.",
+          "it": "Il nuovo centro di ricerca apre a giugno.",
+          "es": "La nueva instalación de investigación abre en junio."
+        }
+      ]
+    },
+    {
+      "id": "effect",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "ef-",
+        "fect"
+      ],
+      "gloss": {
+        "en": "a change caused by something (literally: something worked out)",
+        "tr": "etki",
+        "de": "die Wirkung, der Effekt",
+        "fr": "l'effet",
+        "it": "l'effetto",
+        "es": "el efecto"
+      },
+      "sentences": [
+        {
+          "en": "The medicine had no [effect].",
+          "tr": "İlacın hiç etkisi olmadı.",
+          "de": "Das Medikament hatte keine Wirkung.",
+          "fr": "Le médicament n'a eu aucun effet.",
+          "it": "Il farmaco non ha avuto effetto.",
+          "es": "El medicamento no tuvo ningún efecto."
+        },
+        {
+          "en": "Music has a strong [effect] on our mood.",
+          "tr": "Müzik ruh halimiz üzerinde güçlü bir etkiye sahip.",
+          "de": "Musik hat eine starke Wirkung auf unsere Stimmung.",
+          "fr": "La musique a un fort effet sur notre humeur.",
+          "it": "La musica ha un forte effetto sul nostro umore.",
+          "es": "La música tiene un fuerte efecto en nuestro estado de ánimo."
+        }
+      ]
+    },
+    {
+      "id": "effective",
+      "pos": "adjective",
+      "parent": "effect",
+      "parts": [
+        "ef-",
+        "fect",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "working well; producing the result you want",
+        "tr": "etkili",
+        "de": "wirksam, effektiv",
+        "fr": "efficace",
+        "it": "efficace",
+        "es": "eficaz"
+      },
+      "sentences": [
+        {
+          "en": "This is an [effective] way to learn words.",
+          "tr": "Bu, kelime öğrenmenin etkili bir yolu.",
+          "de": "Das ist eine wirksame Methode, Wörter zu lernen.",
+          "fr": "C'est une façon efficace d'apprendre des mots.",
+          "it": "È un modo efficace per imparare le parole.",
+          "es": "Es una forma eficaz de aprender palabras."
+        },
+        {
+          "en": "The new rules have been very [effective].",
+          "tr": "Yeni kurallar çok etkili oldu.",
+          "de": "Die neuen Regeln waren sehr wirksam.",
+          "fr": "Les nouvelles règles ont été très efficaces.",
+          "it": "Le nuove regole sono state molto efficaci.",
+          "es": "Las nuevas normas han sido muy eficaces."
+        }
+      ]
+    },
+    {
+      "id": "ineffective",
+      "pos": "adjective",
+      "parent": "effective",
+      "parts": [
+        "in-not-",
+        "ef-",
+        "fect",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "not producing the result you want",
+        "tr": "etkisiz",
+        "de": "unwirksam",
+        "fr": "inefficace",
+        "it": "inefficace",
+        "es": "ineficaz"
+      },
+      "sentences": [
+        {
+          "en": "The old method was slow and [ineffective].",
+          "tr": "Eski yöntem yavaş ve etkisizdi.",
+          "de": "Die alte Methode war langsam und unwirksam.",
+          "fr": "L'ancienne méthode était lente et inefficace.",
+          "it": "Il vecchio metodo era lento e inefficace.",
+          "es": "El método antiguo era lento e ineficaz."
+        },
+        {
+          "en": "Antibiotics are [ineffective] against viruses.",
+          "tr": "Antibiyotikler virüslere karşı etkisizdir.",
+          "de": "Antibiotika sind gegen Viren unwirksam.",
+          "fr": "Les antibiotiques sont inefficaces contre les virus.",
+          "it": "Gli antibiotici sono inefficaci contro i virus.",
+          "es": "Los antibióticos son ineficaces contra los virus."
+        }
+      ]
+    },
+    {
+      "id": "affect",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "af-",
+        "fect"
+      ],
+      "gloss": {
+        "en": "to change or influence something (literally: to do to)",
+        "tr": "etkilemek",
+        "de": "beeinflussen, betreffen",
+        "fr": "affecter, toucher",
+        "it": "influire su, colpire",
+        "es": "afectar"
+      },
+      "sentences": [
+        {
+          "en": "The weather [affects] my mood.",
+          "tr": "Hava ruh halimi etkiliyor.",
+          "de": "Das Wetter beeinflusst meine Stimmung.",
+          "fr": "Le temps influe sur mon humeur.",
+          "it": "Il tempo influisce sul mio umore.",
+          "es": "El tiempo afecta a mi estado de ánimo."
+        },
+        {
+          "en": "Thousands of people were [affected] by the flood.",
+          "tr": "Binlerce kişi selden etkilendi.",
+          "de": "Tausende Menschen waren von der Flut betroffen.",
+          "fr": "Des milliers de personnes ont été touchées par l'inondation.",
+          "it": "Migliaia di persone sono state colpite dall'alluvione.",
+          "es": "Miles de personas se vieron afectadas por la inundación."
+        }
+      ]
+    },
+    {
+      "id": "affection",
+      "pos": "noun",
+      "parent": "affect",
+      "parts": [
+        "af-",
+        "fect",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a feeling of love and liking",
+        "tr": "sevgi, şefkat",
+        "de": "die Zuneigung",
+        "fr": "l'affection",
+        "it": "l'affetto",
+        "es": "el cariño, el afecto"
+      },
+      "sentences": [
+        {
+          "en": "She looked at her grandson with [affection].",
+          "tr": "Torununa sevgiyle baktı.",
+          "de": "Sie sah ihren Enkel voller Zuneigung an.",
+          "fr": "Elle regardait son petit-fils avec affection.",
+          "it": "Guardava il nipote con affetto.",
+          "es": "Miraba a su nieto con cariño."
+        },
+        {
+          "en": "Dogs show [affection] in many ways.",
+          "tr": "Köpekler sevgilerini birçok şekilde gösterir.",
+          "de": "Hunde zeigen ihre Zuneigung auf viele Arten.",
+          "fr": "Les chiens montrent leur affection de bien des façons.",
+          "it": "I cani mostrano affetto in molti modi.",
+          "es": "Los perros muestran su cariño de muchas formas."
+        }
+      ]
+    },
+    {
+      "id": "infect",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "in-",
+        "fect"
+      ],
+      "gloss": {
+        "en": "to give someone a disease; to put a virus into a computer (literally: to put into, to stain)",
+        "tr": "bulaştırmak, enfekte etmek",
+        "de": "anstecken, infizieren",
+        "fr": "infecter, contaminer",
+        "it": "infettare, contagiare",
+        "es": "infectar, contagiar"
+      },
+      "sentences": [
+        {
+          "en": "Wash your hands so you don't [infect] others.",
+          "tr": "Başkalarına bulaştırmamak için ellerini yıka.",
+          "de": "Wasch dir die Hände, damit du andere nicht ansteckst.",
+          "fr": "Lave-toi les mains pour ne pas contaminer les autres.",
+          "it": "Lavati le mani per non contagiare gli altri.",
+          "es": "Lávate las manos para no contagiar a otros."
+        },
+        {
+          "en": "A virus [infected] my laptop.",
+          "tr": "Dizüstü bilgisayarıma virüs bulaştı.",
+          "de": "Ein Virus hat meinen Laptop infiziert.",
+          "fr": "Un virus a infecté mon ordinateur portable.",
+          "it": "Un virus ha infettato il mio portatile.",
+          "es": "Un virus infectó mi portátil."
+        }
+      ]
+    },
+    {
+      "id": "infection",
+      "pos": "noun",
+      "parent": "infect",
+      "parts": [
+        "in-",
+        "fect",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a disease caused by germs or viruses",
+        "tr": "enfeksiyon",
+        "de": "die Infektion, die Entzündung",
+        "fr": "l'infection",
+        "it": "l'infezione",
+        "es": "la infección"
+      },
+      "sentences": [
+        {
+          "en": "She has an ear [infection].",
+          "tr": "Kulak enfeksiyonu geçiriyor.",
+          "de": "Sie hat eine Ohrenentzündung.",
+          "fr": "Elle a une otite.",
+          "it": "Ha un'infezione all'orecchio.",
+          "es": "Tiene una infección de oído."
+        },
+        {
+          "en": "Keep the cut clean to avoid [infection].",
+          "tr": "Enfeksiyon kapmamak için yarayı temiz tut.",
+          "de": "Halte die Wunde sauber, um eine Infektion zu vermeiden.",
+          "fr": "Garde la coupure propre pour éviter l'infection.",
+          "it": "Tieni pulita la ferita per evitare infezioni.",
+          "es": "Mantén limpio el corte para evitar una infección."
+        }
+      ]
+    },
+    {
+      "id": "infectious",
+      "pos": "adjective",
+      "parent": "infect",
+      "parts": [
+        "in-",
+        "fect",
+        "-ious"
+      ],
+      "gloss": {
+        "en": "spreading easily from person to person",
+        "tr": "bulaşıcı",
+        "de": "ansteckend",
+        "fr": "contagieux, infectieux",
+        "it": "contagioso, infettivo",
+        "es": "contagioso, infeccioso"
+      },
+      "sentences": [
+        {
+          "en": "The flu is very [infectious].",
+          "tr": "Grip çok bulaşıcıdır.",
+          "de": "Die Grippe ist sehr ansteckend.",
+          "fr": "La grippe est très contagieuse.",
+          "it": "L'influenza è molto contagiosa.",
+          "es": "La gripe es muy contagiosa."
+        },
+        {
+          "en": "She has an [infectious] laugh.",
+          "tr": "Bulaşıcı bir kahkahası var.",
+          "de": "Sie hat ein ansteckendes Lachen.",
+          "fr": "Elle a un rire contagieux.",
+          "it": "Ha una risata contagiosa.",
+          "es": "Tiene una risa contagiosa."
+        }
+      ]
+    },
+    {
+      "id": "perfect",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "per-",
+        "fect"
+      ],
+      "gloss": {
+        "en": "without any mistakes; completely right (literally: done through, completed)",
+        "tr": "mükemmel, kusursuz",
+        "de": "perfekt, vollkommen",
+        "fr": "parfait",
+        "it": "perfetto",
+        "es": "perfecto"
+      },
+      "sentences": [
+        {
+          "en": "Nobody is [perfect].",
+          "tr": "Kimse mükemmel değildir.",
+          "de": "Niemand ist perfekt.",
+          "fr": "Personne n'est parfait.",
+          "it": "Nessuno è perfetto.",
+          "es": "Nadie es perfecto."
+        },
+        {
+          "en": "It was a [perfect] day for a picnic.",
+          "tr": "Piknik için mükemmel bir gündü.",
+          "de": "Es war ein perfekter Tag für ein Picknick.",
+          "fr": "C'était une journée parfaite pour un pique-nique.",
+          "it": "Era una giornata perfetta per un picnic.",
+          "es": "Era un día perfecto para un pícnic."
+        }
+      ]
+    },
+    {
+      "id": "perfection",
+      "pos": "noun",
+      "parent": "perfect",
+      "parts": [
+        "per-",
+        "fect",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "the state of being perfect",
+        "tr": "mükemmellik",
+        "de": "die Perfektion, die Vollkommenheit",
+        "fr": "la perfection",
+        "it": "la perfezione",
+        "es": "la perfección"
+      },
+      "sentences": [
+        {
+          "en": "The steak was cooked to [perfection].",
+          "tr": "Biftek kusursuz pişmişti.",
+          "de": "Das Steak war perfekt gebraten.",
+          "fr": "Le steak était cuit à la perfection.",
+          "it": "La bistecca era cotta alla perfezione.",
+          "es": "El filete estaba hecho a la perfección."
+        },
+        {
+          "en": "Don't wait for [perfection]; just start.",
+          "tr": "Mükemmelliği bekleme, sadece başla.",
+          "de": "Warte nicht auf Perfektion, fang einfach an.",
+          "fr": "N'attends pas la perfection, commence.",
+          "it": "Non aspettare la perfezione, inizia e basta.",
+          "es": "No esperes la perfección; simplemente empieza."
+        }
+      ]
+    },
+    {
+      "id": "imperfect",
+      "pos": "adjective",
+      "parent": "perfect",
+      "parts": [
+        "im-not-",
+        "per-",
+        "fect"
+      ],
+      "gloss": {
+        "en": "having faults or mistakes",
+        "tr": "kusurlu, eksik",
+        "de": "unvollkommen, fehlerhaft",
+        "fr": "imparfait",
+        "it": "imperfetto",
+        "es": "imperfecto"
+      },
+      "sentences": [
+        {
+          "en": "We live in an [imperfect] world.",
+          "tr": "Kusurlu bir dünyada yaşıyoruz.",
+          "de": "Wir leben in einer unvollkommenen Welt.",
+          "fr": "Nous vivons dans un monde imparfait.",
+          "it": "Viviamo in un mondo imperfetto.",
+          "es": "Vivimos en un mundo imperfecto."
+        },
+        {
+          "en": "The plan is [imperfect], but it's a start.",
+          "tr": "Plan kusurlu ama bir başlangıç.",
+          "de": "Der Plan ist nicht perfekt, aber ein Anfang.",
+          "fr": "Le plan est imparfait, mais c'est un début.",
+          "it": "Il piano è imperfetto, ma è un inizio.",
+          "es": "El plan es imperfecto, pero es un comienzo."
+        }
+      ]
+    },
+    {
+      "id": "defect",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "de-",
+        "fect"
+      ],
+      "gloss": {
+        "en": "a fault in something (literally: something undone, a failing)",
+        "tr": "kusur, arıza",
+        "de": "der Mangel, der Defekt",
+        "fr": "le défaut",
+        "it": "il difetto",
+        "es": "el defecto"
+      },
+      "sentences": [
+        {
+          "en": "The car was recalled because of a [defect].",
+          "tr": "Araba bir kusur yüzünden geri çağrıldı.",
+          "de": "Das Auto wurde wegen eines Mangels zurückgerufen.",
+          "fr": "La voiture a été rappelée à cause d'un défaut.",
+          "it": "L'auto è stata richiamata per un difetto.",
+          "es": "Retiraron el coche por un defecto."
+        },
+        {
+          "en": "The baby was born with a heart [defect].",
+          "tr": "Bebek kalp kusuruyla doğdu.",
+          "de": "Das Baby kam mit einem Herzfehler zur Welt.",
+          "fr": "Le bébé est né avec une malformation cardiaque.",
+          "it": "Il bambino è nato con un difetto cardiaco.",
+          "es": "El bebé nació con un defecto cardíaco."
+        }
+      ]
+    },
+    {
+      "id": "defective",
+      "pos": "adjective",
+      "parent": "defect",
+      "parts": [
+        "de-",
+        "fect",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "not working correctly; having a fault",
+        "tr": "kusurlu, bozuk",
+        "de": "defekt, fehlerhaft",
+        "fr": "défectueux",
+        "it": "difettoso",
+        "es": "defectuoso"
+      },
+      "sentences": [
+        {
+          "en": "I returned the [defective] charger.",
+          "tr": "Bozuk şarj aletini iade ettim.",
+          "de": "Ich habe das defekte Ladegerät zurückgegeben.",
+          "fr": "J'ai rendu le chargeur défectueux.",
+          "it": "Ho restituito il caricabatterie difettoso.",
+          "es": "Devolví el cargador defectuoso."
+        },
+        {
+          "en": "The fire was caused by [defective] wiring.",
+          "tr": "Yangına arızalı kablolar neden oldu.",
+          "de": "Der Brand wurde durch fehlerhafte Leitungen verursacht.",
+          "fr": "L'incendie a été causé par une installation électrique défectueuse.",
+          "it": "L'incendio è stato causato da un impianto elettrico difettoso.",
+          "es": "El incendio lo causó un cableado defectuoso."
+        }
+      ]
+    },
+    {
+      "id": "efficient",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "ef-",
+        "fic",
+        "-ient"
+      ],
+      "gloss": {
+        "en": "working well without wasting time or energy (literally: working out)",
+        "tr": "verimli",
+        "de": "effizient, leistungsfähig",
+        "fr": "efficace, performant",
+        "it": "efficiente",
+        "es": "eficiente"
+      },
+      "sentences": [
+        {
+          "en": "LED lights are more [efficient] than old bulbs.",
+          "tr": "LED lambalar eski ampullerden daha verimli.",
+          "de": "LED-Lampen sind effizienter als alte Glühbirnen.",
+          "fr": "Les LED sont plus performantes que les anciennes ampoules.",
+          "it": "Le luci LED sono più efficienti delle vecchie lampadine.",
+          "es": "Las luces LED son más eficientes que las bombillas antiguas."
+        },
+        {
+          "en": "She is quick and [efficient] at her job.",
+          "tr": "İşinde hızlı ve verimli.",
+          "de": "Sie arbeitet schnell und effizient.",
+          "fr": "Elle est rapide et efficace dans son travail.",
+          "it": "È rapida ed efficiente nel suo lavoro.",
+          "es": "Es rápida y eficiente en su trabajo."
+        }
+      ]
+    },
+    {
+      "id": "sufficient",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "suf-",
+        "fic",
+        "-ient"
+      ],
+      "gloss": {
+        "en": "enough",
+        "tr": "yeterli",
+        "de": "ausreichend",
+        "fr": "suffisant",
+        "it": "sufficiente",
+        "es": "suficiente"
+      },
+      "sentences": [
+        {
+          "en": "One hour should be [sufficient] for the test.",
+          "tr": "Sınav için bir saat yeterli olmalı.",
+          "de": "Eine Stunde sollte für den Test ausreichen.",
+          "fr": "Une heure devrait être suffisante pour le contrôle.",
+          "it": "Un'ora dovrebbe essere sufficiente per la prova.",
+          "es": "Una hora debería ser suficiente para el examen."
+        },
+        {
+          "en": "There is [sufficient] food for everyone.",
+          "tr": "Herkese yetecek kadar yiyecek var.",
+          "de": "Es gibt genug Essen für alle.",
+          "fr": "Il y a suffisamment de nourriture pour tout le monde.",
+          "it": "C'è cibo sufficiente per tutti.",
+          "es": "Hay comida suficiente para todos."
+        }
+      ]
+    },
+    {
+      "id": "insufficient",
+      "pos": "adjective",
+      "parent": "sufficient",
+      "parts": [
+        "in-not-",
+        "suf-",
+        "fic",
+        "-ient"
+      ],
+      "gloss": {
+        "en": "not enough",
+        "tr": "yetersiz",
+        "de": "unzureichend",
+        "fr": "insuffisant",
+        "it": "insufficiente",
+        "es": "insuficiente"
+      },
+      "sentences": [
+        {
+          "en": "The payment failed due to [insufficient] funds.",
+          "tr": "Yetersiz bakiye nedeniyle ödeme başarısız oldu.",
+          "de": "Die Zahlung scheiterte wegen fehlender Deckung.",
+          "fr": "Le paiement a échoué faute de fonds suffisants.",
+          "it": "Il pagamento non è riuscito per fondi insufficienti.",
+          "es": "El pago falló por fondos insuficientes."
+        },
+        {
+          "en": "The evidence was [insufficient] to prove his guilt.",
+          "tr": "Kanıtlar suçunu ispatlamaya yetmedi.",
+          "de": "Die Beweise reichten nicht aus, um seine Schuld zu beweisen.",
+          "fr": "Les preuves étaient insuffisantes pour prouver sa culpabilité.",
+          "it": "Le prove erano insufficienti a dimostrare la sua colpa.",
+          "es": "Las pruebas eran insuficientes para demostrar su culpa."
+        }
+      ]
+    },
+    {
+      "id": "artificial",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "arti-",
+        "fic",
+        "-ial"
+      ],
+      "gloss": {
+        "en": "made by people, not natural (literally: made with skill)",
+        "tr": "yapay",
+        "de": "künstlich",
+        "fr": "artificiel",
+        "it": "artificiale",
+        "es": "artificial"
+      },
+      "sentences": [
+        {
+          "en": "This drink has no [artificial] colours.",
+          "tr": "Bu içecekte yapay renklendirici yok.",
+          "de": "Dieses Getränk hat keine künstlichen Farbstoffe.",
+          "fr": "Cette boisson ne contient pas de colorants artificiels.",
+          "it": "Questa bevanda non ha coloranti artificiali.",
+          "es": "Esta bebida no tiene colorantes artificiales."
+        },
+        {
+          "en": "[Artificial] intelligence is changing many jobs.",
+          "tr": "Yapay zekâ birçok mesleği değiştiriyor.",
+          "de": "Künstliche Intelligenz verändert viele Berufe.",
+          "fr": "L'intelligence artificielle transforme de nombreux métiers.",
+          "it": "L'intelligenza artificiale sta cambiando molti lavori.",
+          "es": "La inteligencia artificial está cambiando muchos trabajos."
+        }
+      ]
+    },
+    {
+      "id": "beneficial",
+      "pos": "adjective",
+      "parent": "benefit",
+      "parts": [
+        "bene-",
+        "fic",
+        "-ial"
+      ],
+      "gloss": {
+        "en": "helpful; having a good effect (literally: doing good)",
+        "tr": "yararlı, faydalı",
+        "de": "nützlich, vorteilhaft",
+        "fr": "bénéfique",
+        "it": "benefico, vantaggioso",
+        "es": "beneficioso"
+      },
+      "sentences": [
+        {
+          "en": "Regular exercise is [beneficial] for your heart.",
+          "tr": "Düzenli egzersiz kalp için faydalıdır.",
+          "de": "Regelmäßige Bewegung ist gut für das Herz.",
+          "fr": "L'exercice régulier est bénéfique pour le cœur.",
+          "it": "L'esercizio regolare fa bene al cuore.",
+          "es": "El ejercicio regular es beneficioso para el corazón."
+        },
+        {
+          "en": "The deal is [beneficial] to both sides.",
+          "tr": "Anlaşma iki taraf için de yararlı.",
+          "de": "Das Abkommen ist für beide Seiten vorteilhaft.",
+          "fr": "L'accord est bénéfique pour les deux parties.",
+          "it": "L'accordo è vantaggioso per entrambe le parti.",
+          "es": "El acuerdo es beneficioso para ambas partes."
+        }
+      ]
+    },
+    {
+      "id": "benefit",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "bene-",
+        "fit"
+      ],
+      "gloss": {
+        "en": "an advantage or help you get from something (literally: a good deed)",
+        "tr": "fayda, yarar; yardım",
+        "de": "der Vorteil, der Nutzen; die Leistung",
+        "fr": "l'avantage, le bienfait; l'allocation",
+        "it": "il vantaggio, il beneficio; il sussidio",
+        "es": "el beneficio, la ventaja; la prestación"
+      },
+      "sentences": [
+        {
+          "en": "One [benefit] of cycling is that it's free.",
+          "tr": "Bisiklete binmenin bir faydası ücretsiz olması.",
+          "de": "Ein Vorteil des Radfahrens ist, dass es nichts kostet.",
+          "fr": "L'un des avantages du vélo, c'est qu'il est gratuit.",
+          "it": "Un vantaggio della bici è che è gratis.",
+          "es": "Una ventaja de ir en bici es que es gratis."
+        },
+        {
+          "en": "The job comes with good [benefits].",
+          "tr": "İşin iyi yan hakları var.",
+          "de": "Die Stelle bietet gute Zusatzleistungen.",
+          "fr": "Le poste offre de bons avantages sociaux.",
+          "it": "Il lavoro offre buoni benefit.",
+          "es": "El trabajo incluye buenas prestaciones."
+        }
+      ]
+    },
+    {
+      "id": "profit",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "pro-",
+        "fit"
+      ],
+      "gloss": {
+        "en": "money you earn after costs are paid (literally: something that goes forward, an advance)",
+        "tr": "kâr",
+        "de": "der Gewinn",
+        "fr": "le bénéfice, le profit",
+        "it": "il profitto, il guadagno",
+        "es": "el beneficio, la ganancia"
+      },
+      "sentences": [
+        {
+          "en": "The shop made a small [profit] this year.",
+          "tr": "Dükkân bu yıl küçük bir kâr elde etti.",
+          "de": "Der Laden hat dieses Jahr einen kleinen Gewinn gemacht.",
+          "fr": "La boutique a réalisé un petit bénéfice cette année.",
+          "it": "Il negozio ha fatto un piccolo profitto quest'anno.",
+          "es": "La tienda obtuvo un pequeño beneficio este año."
+        },
+        {
+          "en": "They sold the house at a [profit].",
+          "tr": "Evi kârla sattılar.",
+          "de": "Sie verkauften das Haus mit Gewinn.",
+          "fr": "Ils ont vendu la maison avec un bénéfice.",
+          "it": "Hanno venduto la casa con un guadagno.",
+          "es": "Vendieron la casa con ganancia."
+        }
+      ]
+    },
+    {
+      "id": "profitable",
+      "pos": "adjective",
+      "parent": "profit",
+      "parts": [
+        "pro-",
+        "fit",
+        "-able"
+      ],
+      "gloss": {
+        "en": "making money",
+        "tr": "kârlı",
+        "de": "profitabel, gewinnbringend",
+        "fr": "rentable",
+        "it": "redditizio",
+        "es": "rentable"
+      },
+      "sentences": [
+        {
+          "en": "The new café quickly became [profitable].",
+          "tr": "Yeni kafe kısa sürede kâr etmeye başladı.",
+          "de": "Das neue Café wurde schnell profitabel.",
+          "fr": "Le nouveau café est vite devenu rentable.",
+          "it": "Il nuovo bar è diventato presto redditizio.",
+          "es": "La nueva cafetería se volvió rentable enseguida."
+        },
+        {
+          "en": "Is it [profitable] to grow tomatoes here?",
+          "tr": "Burada domates yetiştirmek kârlı mı?",
+          "de": "Lohnt es sich, hier Tomaten anzubauen?",
+          "fr": "Est-ce rentable de cultiver des tomates ici ?",
+          "it": "È redditizio coltivare pomodori qui?",
+          "es": "¿Es rentable cultivar tomates aquí?"
+        }
+      ]
+    },
+    {
+      "id": "deficit",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "de-",
+        "fic",
+        "-it"
+      ],
+      "gloss": {
+        "en": "an amount by which something is too small, especially money (literally: it is lacking)",
+        "tr": "açık, eksik",
+        "de": "das Defizit, der Fehlbetrag",
+        "fr": "le déficit",
+        "it": "il deficit, il disavanzo",
+        "es": "el déficit"
+      },
+      "sentences": [
+        {
+          "en": "The country has a large budget [deficit].",
+          "tr": "Ülkenin büyük bir bütçe açığı var.",
+          "de": "Das Land hat ein großes Haushaltsdefizit.",
+          "fr": "Le pays a un important déficit budgétaire.",
+          "it": "Il paese ha un forte deficit di bilancio.",
+          "es": "El país tiene un gran déficit presupuestario."
+        },
+        {
+          "en": "The team came back from a two-goal [deficit].",
+          "tr": "Takım iki gollük farkı kapattı.",
+          "de": "Die Mannschaft holte einen Zwei-Tore-Rückstand auf.",
+          "fr": "L'équipe a remonté un retard de deux buts.",
+          "it": "La squadra ha rimontato uno svantaggio di due gol.",
+          "es": "El equipo remontó una desventaja de dos goles."
+        }
+      ]
+    },
+    {
+      "id": "satisfaction",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "satis-",
+        "fact",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a good feeling when you get what you wanted (literally: making enough)",
+        "tr": "memnuniyet, tatmin",
+        "de": "die Zufriedenheit, die Genugtuung",
+        "fr": "la satisfaction",
+        "it": "la soddisfazione",
+        "es": "la satisfacción"
+      },
+      "sentences": [
+        {
+          "en": "She smiled with [satisfaction].",
+          "tr": "Memnuniyetle gülümsedi.",
+          "de": "Sie lächelte zufrieden.",
+          "fr": "Elle a souri avec satisfaction.",
+          "it": "Ha sorriso con soddisfazione.",
+          "es": "Sonrió con satisfacción."
+        },
+        {
+          "en": "Customer [satisfaction] is our first goal.",
+          "tr": "Müşteri memnuniyeti ilk hedefimiz.",
+          "de": "Kundenzufriedenheit ist unser oberstes Ziel.",
+          "fr": "La satisfaction des clients est notre priorité.",
+          "it": "La soddisfazione dei clienti è il nostro primo obiettivo.",
+          "es": "La satisfacción del cliente es nuestro primer objetivo."
+        }
+      ]
+    }
+  ]
+}

@@ -74,6 +74,79 @@
     ]
   },
   {
+    "id": "ced",
+    "forms": [
+      "ced",
+      "cede",
+      "ceed",
+      "cess"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to go; to give way",
+      "tr": "gitmek; geri çekilmek, bırakmak",
+      "de": "gehen; weichen",
+      "fr": "aller; céder",
+      "it": "andare; cedere",
+      "es": "ir; ceder"
+    },
+    "words": [
+      "proceed",
+      "process",
+      "procession",
+      "procedure",
+      "succeed",
+      "success",
+      "successful",
+      "unsuccessful",
+      "succession",
+      "successor",
+      "exceed",
+      "excess",
+      "excessive",
+      "access",
+      "accessible",
+      "inaccessible",
+      "recede",
+      "recession",
+      "recess",
+      "precede",
+      "precedent",
+      "unprecedented",
+      "predecessor",
+      "concede",
+      "concession"
+    ]
+  },
+  {
+    "id": "cred",
+    "forms": [
+      "cred"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to believe, to trust",
+      "tr": "inanmak, güvenmek",
+      "de": "glauben, vertrauen",
+      "fr": "croire, avoir confiance",
+      "it": "credere, fidarsi",
+      "es": "creer, confiar"
+    },
+    "words": [
+      "credit",
+      "creditor",
+      "discredit",
+      "accredit",
+      "credible",
+      "incredible",
+      "incredibly",
+      "credibility",
+      "credential",
+      "credulous",
+      "incredulous"
+    ]
+  },
+  {
     "id": "dict",
     "forms": [
       "dict",
@@ -163,6 +236,55 @@
       "reproduction",
       "introductory",
       "seduce"
+    ]
+  },
+  {
+    "id": "fac",
+    "forms": [
+      "fac",
+      "fact",
+      "fect",
+      "fic",
+      "fit"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to make, to do",
+      "tr": "yapmak, etmek",
+      "de": "machen, tun",
+      "fr": "faire",
+      "it": "fare",
+      "es": "hacer"
+    },
+    "words": [
+      "fact",
+      "factor",
+      "factory",
+      "manufacture",
+      "facility",
+      "effect",
+      "effective",
+      "ineffective",
+      "affect",
+      "affection",
+      "infect",
+      "infection",
+      "infectious",
+      "perfect",
+      "perfection",
+      "imperfect",
+      "defect",
+      "defective",
+      "efficient",
+      "sufficient",
+      "insufficient",
+      "artificial",
+      "beneficial",
+      "benefit",
+      "profit",
+      "profitable",
+      "deficit",
+      "satisfaction"
     ]
   },
   {

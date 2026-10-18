@@ -1,0 +1,410 @@
+{
+  "id": "cred",
+  "forms": [
+    "cred"
+  ],
+  "origin": "la",
+  "etymon": "credere",
+  "meaning": {
+    "en": "to believe, to trust",
+    "tr": "inanmak, güvenmek",
+    "de": "glauben, vertrauen",
+    "fr": "croire, avoir confiance",
+    "it": "credere, fidarsi",
+    "es": "creer, confiar"
+  },
+  "words": [
+    {
+      "id": "credit",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "cred",
+        "-it"
+      ],
+      "gloss": {
+        "en": "buying now and paying later; praise for something you did (literally: something believed, trusted)",
+        "tr": "kredi, veresiye; övgü, takdir",
+        "de": "der Kredit; die Anerkennung",
+        "fr": "le crédit; le mérite",
+        "it": "il credito; il merito",
+        "es": "el crédito; el mérito"
+      },
+      "sentences": [
+        {
+          "en": "We bought the car on [credit].",
+          "tr": "Arabayı krediyle aldık.",
+          "de": "Wir haben das Auto auf Kredit gekauft.",
+          "fr": "Nous avons acheté la voiture à crédit.",
+          "it": "Abbiamo comprato la macchina a rate.",
+          "es": "Compramos el coche a crédito."
+        },
+        {
+          "en": "She deserves the [credit] for this idea.",
+          "tr": "Bu fikrin takdiri onun hakkı.",
+          "de": "Ihr gebührt die Anerkennung für diese Idee.",
+          "fr": "C'est à elle que revient le mérite de cette idée.",
+          "it": "Il merito di questa idea è suo.",
+          "es": "El mérito de esta idea es suyo."
+        }
+      ]
+    },
+    {
+      "id": "creditor",
+      "pos": "noun",
+      "parent": "credit",
+      "parts": [
+        "cred",
+        "-it",
+        "-or"
+      ],
+      "gloss": {
+        "en": "a person or company that someone owes money to",
+        "tr": "alacaklı",
+        "de": "der Gläubiger",
+        "fr": "le créancier",
+        "it": "il creditore",
+        "es": "el acreedor"
+      },
+      "sentences": [
+        {
+          "en": "The company could not pay its [creditors].",
+          "tr": "Şirket alacaklılarına ödeme yapamadı.",
+          "de": "Die Firma konnte ihre Gläubiger nicht bezahlen.",
+          "fr": "L'entreprise n'a pas pu payer ses créanciers.",
+          "it": "L'azienda non è riuscita a pagare i creditori.",
+          "es": "La empresa no pudo pagar a sus acreedores."
+        },
+        {
+          "en": "The bank is our biggest [creditor].",
+          "tr": "En büyük alacaklımız banka.",
+          "de": "Die Bank ist unser größter Gläubiger.",
+          "fr": "La banque est notre principal créancier.",
+          "it": "La banca è il nostro principale creditore.",
+          "es": "El banco es nuestro mayor acreedor."
+        }
+      ]
+    },
+    {
+      "id": "discredit",
+      "pos": "verb",
+      "parent": "credit",
+      "parts": [
+        "dis-",
+        "cred",
+        "-it"
+      ],
+      "gloss": {
+        "en": "to make people stop believing or trusting someone",
+        "tr": "itibarını zedelemek; çürütmek",
+        "de": "in Misskredit bringen; widerlegen",
+        "fr": "discréditer",
+        "it": "screditare",
+        "es": "desacreditar"
+      },
+      "sentences": [
+        {
+          "en": "They tried to [discredit] the witness.",
+          "tr": "Tanığın güvenilirliğini zedelemeye çalıştılar.",
+          "de": "Sie versuchten, den Zeugen unglaubwürdig zu machen.",
+          "fr": "Ils ont essayé de discréditer le témoin.",
+          "it": "Hanno cercato di screditare il testimone.",
+          "es": "Intentaron desacreditar al testigo."
+        },
+        {
+          "en": "The new study [discredited] the old theory.",
+          "tr": "Yeni çalışma eski teoriyi çürüttü.",
+          "de": "Die neue Studie widerlegte die alte Theorie.",
+          "fr": "La nouvelle étude a discrédité l'ancienne théorie.",
+          "it": "Il nuovo studio ha screditato la vecchia teoria.",
+          "es": "El nuevo estudio desacreditó la antigua teoría."
+        }
+      ]
+    },
+    {
+      "id": "accredit",
+      "pos": "verb",
+      "parent": "credit",
+      "parts": [
+        "ac-",
+        "cred",
+        "-it"
+      ],
+      "gloss": {
+        "en": "to officially approve a school, course or person",
+        "tr": "akredite etmek, resmen tanımak",
+        "de": "akkreditieren, anerkennen",
+        "fr": "accréditer, agréer",
+        "it": "accreditare",
+        "es": "acreditar"
+      },
+      "sentences": [
+        {
+          "en": "The course is [accredited] by the university.",
+          "tr": "Kurs üniversite tarafından resmen tanınıyor.",
+          "de": "Der Kurs ist von der Universität anerkannt.",
+          "fr": "La formation est accréditée par l'université.",
+          "it": "Il corso è accreditato dall'università.",
+          "es": "El curso está acreditado por la universidad."
+        },
+        {
+          "en": "Only [accredited] journalists may enter.",
+          "tr": "Sadece akredite gazeteciler girebilir.",
+          "de": "Nur akkreditierte Journalisten dürfen hinein.",
+          "fr": "Seuls les journalistes accrédités peuvent entrer.",
+          "it": "Possono entrare solo i giornalisti accreditati.",
+          "es": "Solo pueden entrar los periodistas acreditados."
+        }
+      ]
+    },
+    {
+      "id": "credible",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "cred",
+        "-ible"
+      ],
+      "gloss": {
+        "en": "able to be believed",
+        "tr": "inandırıcı, güvenilir",
+        "de": "glaubwürdig",
+        "fr": "crédible",
+        "it": "credibile",
+        "es": "creíble"
+      },
+      "sentences": [
+        {
+          "en": "Her story sounded [credible].",
+          "tr": "Hikâyesi inandırıcı geliyordu.",
+          "de": "Ihre Geschichte klang glaubwürdig.",
+          "fr": "Son histoire semblait crédible.",
+          "it": "La sua storia sembrava credibile.",
+          "es": "Su historia sonaba creíble."
+        },
+        {
+          "en": "We need [credible] sources for the report.",
+          "tr": "Rapor için güvenilir kaynaklara ihtiyacımız var.",
+          "de": "Wir brauchen glaubwürdige Quellen für den Bericht.",
+          "fr": "Il nous faut des sources crédibles pour le rapport.",
+          "it": "Ci servono fonti credibili per il rapporto.",
+          "es": "Necesitamos fuentes creíbles para el informe."
+        }
+      ]
+    },
+    {
+      "id": "incredible",
+      "pos": "adjective",
+      "parent": "credible",
+      "parts": [
+        "in-not-",
+        "cred",
+        "-ible"
+      ],
+      "gloss": {
+        "en": "hard to believe; amazing",
+        "tr": "inanılmaz",
+        "de": "unglaublich",
+        "fr": "incroyable",
+        "it": "incredibile",
+        "es": "increíble"
+      },
+      "sentences": [
+        {
+          "en": "The view from the top is [incredible].",
+          "tr": "Zirvedeki manzara inanılmaz.",
+          "de": "Die Aussicht vom Gipfel ist unglaublich.",
+          "fr": "La vue du sommet est incroyable.",
+          "it": "La vista dalla cima è incredibile.",
+          "es": "La vista desde la cima es increíble."
+        },
+        {
+          "en": "It's [incredible] that nobody was hurt.",
+          "tr": "Kimsenin yaralanmaması inanılmaz.",
+          "de": "Es ist unglaublich, dass niemand verletzt wurde.",
+          "fr": "C'est incroyable que personne n'ait été blessé.",
+          "it": "È incredibile che nessuno si sia fatto male.",
+          "es": "Es increíble que nadie resultara herido."
+        }
+      ]
+    },
+    {
+      "id": "incredibly",
+      "pos": "adverb",
+      "parent": "incredible",
+      "parts": [
+        "in-not-",
+        "cred",
+        "-ibly"
+      ],
+      "gloss": {
+        "en": "very, extremely; in a way that is hard to believe",
+        "tr": "inanılmaz derecede",
+        "de": "unglaublich",
+        "fr": "incroyablement",
+        "it": "incredibilmente",
+        "es": "increíblemente"
+      },
+      "sentences": [
+        {
+          "en": "The test was [incredibly] hard.",
+          "tr": "Sınav inanılmaz zordu.",
+          "de": "Der Test war unglaublich schwer.",
+          "fr": "Le contrôle était incroyablement difficile.",
+          "it": "Il compito era incredibilmente difficile.",
+          "es": "El examen fue increíblemente difícil."
+        },
+        {
+          "en": "[Incredibly], the old car still runs.",
+          "tr": "İnanılmaz ama eski araba hâlâ çalışıyor.",
+          "de": "Unglaublicherweise fährt das alte Auto noch.",
+          "fr": "Incroyablement, la vieille voiture roule encore.",
+          "it": "Incredibilmente, la vecchia macchina funziona ancora.",
+          "es": "Increíblemente, el coche viejo todavía funciona."
+        }
+      ]
+    },
+    {
+      "id": "credibility",
+      "pos": "noun",
+      "parent": "credible",
+      "parts": [
+        "cred",
+        "-ibility"
+      ],
+      "gloss": {
+        "en": "the quality of being believed and trusted",
+        "tr": "inanılırlık, güvenilirlik",
+        "de": "die Glaubwürdigkeit",
+        "fr": "la crédibilité",
+        "it": "la credibilità",
+        "es": "la credibilidad"
+      },
+      "sentences": [
+        {
+          "en": "The scandal hurt the minister's [credibility].",
+          "tr": "Skandal bakanın güvenilirliğine zarar verdi.",
+          "de": "Der Skandal schadete der Glaubwürdigkeit des Ministers.",
+          "fr": "Le scandale a nui à la crédibilité du ministre.",
+          "it": "Lo scandalo ha danneggiato la credibilità del ministro.",
+          "es": "El escándalo dañó la credibilidad del ministro."
+        },
+        {
+          "en": "Facts give your argument [credibility].",
+          "tr": "Gerçekler iddiana inandırıcılık kazandırır.",
+          "de": "Fakten machen dein Argument glaubwürdig.",
+          "fr": "Les faits donnent de la crédibilité à ton argument.",
+          "it": "I fatti danno credibilità alla tua tesi.",
+          "es": "Los datos dan credibilidad a tu argumento."
+        }
+      ]
+    },
+    {
+      "id": "credential",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "cred",
+        "-ent",
+        "-ial"
+      ],
+      "gloss": {
+        "en": "a document or quality that shows you can be trusted (usually plural: credentials)",
+        "tr": "belge, yeterlilik; giriş bilgileri",
+        "de": "der Nachweis, die Qualifikation; die Zugangsdaten",
+        "fr": "les références, les diplômes; les identifiants",
+        "it": "le credenziali, i titoli",
+        "es": "las credenciales, los méritos"
+      },
+      "sentences": [
+        {
+          "en": "She has excellent [credentials] for the job.",
+          "tr": "İş için mükemmel yeterlilikleri var.",
+          "de": "Sie hat hervorragende Qualifikationen für die Stelle.",
+          "fr": "Elle a d'excellentes références pour ce poste.",
+          "it": "Ha ottime credenziali per il lavoro.",
+          "es": "Tiene excelentes credenciales para el puesto."
+        },
+        {
+          "en": "Enter your login [credentials] to continue.",
+          "tr": "Devam etmek için giriş bilgilerini gir.",
+          "de": "Gib deine Zugangsdaten ein, um fortzufahren.",
+          "fr": "Saisis tes identifiants pour continuer.",
+          "it": "Inserisci le tue credenziali per continuare.",
+          "es": "Introduce tus credenciales para continuar."
+        }
+      ]
+    },
+    {
+      "id": "credulous",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "cred",
+        "-ulous"
+      ],
+      "gloss": {
+        "en": "too ready to believe things",
+        "tr": "saf, her şeye inanan",
+        "de": "leichtgläubig",
+        "fr": "crédule",
+        "it": "credulone",
+        "es": "crédulo"
+      },
+      "sentences": [
+        {
+          "en": "Only [credulous] people believe these ads.",
+          "tr": "Bu reklamlara sadece saf insanlar inanır.",
+          "de": "Nur leichtgläubige Menschen glauben diese Werbung.",
+          "fr": "Seules les personnes crédules croient ces publicités.",
+          "it": "Solo le persone credulone credono a queste pubblicità.",
+          "es": "Solo la gente crédula se cree estos anuncios."
+        },
+        {
+          "en": "The [credulous] tourist paid far too much.",
+          "tr": "Saf turist çok fazla para ödedi.",
+          "de": "Der leichtgläubige Tourist zahlte viel zu viel.",
+          "fr": "Le touriste crédule a payé beaucoup trop cher.",
+          "it": "Il turista credulone ha pagato troppo.",
+          "es": "El turista crédulo pagó demasiado."
+        }
+      ]
+    },
+    {
+      "id": "incredulous",
+      "pos": "adjective",
+      "parent": "credulous",
+      "parts": [
+        "in-not-",
+        "cred",
+        "-ulous"
+      ],
+      "gloss": {
+        "en": "not able or willing to believe something",
+        "tr": "inanmayan, şaşkın",
+        "de": "ungläubig",
+        "fr": "incrédule",
+        "it": "incredulo",
+        "es": "incrédulo"
+      },
+      "sentences": [
+        {
+          "en": "She gave me an [incredulous] look.",
+          "tr": "Bana inanamıyormuş gibi baktı.",
+          "de": "Sie sah mich ungläubig an.",
+          "fr": "Elle m'a lancé un regard incrédule.",
+          "it": "Mi ha guardato incredula.",
+          "es": "Me miró con incredulidad."
+        },
+        {
+          "en": "He was [incredulous] when he heard the price.",
+          "tr": "Fiyatı duyunca inanamadı.",
+          "de": "Als er den Preis hörte, war er ungläubig.",
+          "fr": "Il était incrédule en entendant le prix.",
+          "it": "Era incredulo quando ha sentito il prezzo.",
+          "es": "Se quedó incrédulo al oír el precio."
+        }
+      ]
+    }
+  ]
+}
