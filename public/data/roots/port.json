@@ -1,0 +1,65 @@
+{
+  "id": "port",
+  "forms": ["port"],
+  "origin": "la",
+  "etymon": "portare",
+  "meaning": { "en": "to carry", "tr": "taşımak", "de": "tragen", "fr": "porter", "it": "portare", "es": "llevar" },
+  "words": [
+    {
+      "id": "export", "pos": "verb", "parent": null, "parts": ["ex-", "port"],
+      "gloss": { "en": "to send goods to another country (literally: to carry out)", "tr": "ihraç etmek", "de": "exportieren, ausführen", "fr": "exporter", "it": "esportare", "es": "exportar" },
+      "sentences": [
+        { "en": "Turkey [exports] a lot of hazelnuts.", "tr": "Türkiye çok fındık ihraç eder.", "de": "Die Türkei exportiert viele Haselnüsse.", "fr": "La Turquie exporte beaucoup de noisettes.", "it": "La Turchia esporta molte nocciole.", "es": "Turquía exporta muchas avellanas." },
+        { "en": "You can [export] the file as a PDF.", "tr": "Dosyayı PDF olarak dışa aktarabilirsin.", "de": "Du kannst die Datei als PDF exportieren.", "fr": "Tu peux exporter le fichier en PDF.", "it": "Puoi esportare il file in PDF.", "es": "Puedes exportar el archivo como PDF." }
+      ]
+    },
+    {
+      "id": "import", "pos": "verb", "parent": null, "parts": ["im-", "port"],
+      "gloss": { "en": "to bring goods in from another country (literally: to carry in)", "tr": "ithal etmek", "de": "importieren, einführen", "fr": "importer", "it": "importare", "es": "importar" },
+      "sentences": [
+        { "en": "Many countries [import] oil.", "tr": "Birçok ülke petrol ithal eder.", "de": "Viele Länder importieren Öl.", "fr": "Beaucoup de pays importent du pétrole.", "it": "Molti paesi importano petrolio.", "es": "Muchos países importan petróleo." },
+        { "en": "I [imported] my old photos into the new phone.", "tr": "Eski fotoğraflarımı yeni telefona aktardım.", "de": "Ich habe meine alten Fotos auf das neue Handy importiert.", "fr": "J'ai importé mes anciennes photos sur le nouveau téléphone.", "it": "Ho importato le mie vecchie foto nel nuovo telefono.", "es": "Importé mis fotos antiguas al teléfono nuevo." }
+      ]
+    },
+    {
+      "id": "important", "pos": "adjective", "parent": "import", "parts": ["im-", "port", "-ant"],
+      "gloss": { "en": "having great value or effect (from 'carrying weight')", "tr": "önemli", "de": "wichtig", "fr": "important", "it": "importante", "es": "importante" },
+      "sentences": [
+        { "en": "Sleep is [important] before an exam.", "tr": "Sınavdan önce uyku önemlidir.", "de": "Schlaf ist vor einer Prüfung wichtig.", "fr": "Le sommeil est important avant un examen.", "it": "Il sonno è importante prima di un esame.", "es": "Dormir es importante antes de un examen." },
+        { "en": "This is the most [important] part of the job.", "tr": "Bu, işin en önemli kısmı.", "de": "Das ist der wichtigste Teil der Arbeit.", "fr": "C'est la partie la plus importante du travail.", "it": "Questa è la parte più importante del lavoro.", "es": "Esta es la parte más importante del trabajo." }
+      ]
+    },
+    {
+      "id": "transport", "pos": "verb", "parent": null, "parts": ["trans-", "port"],
+      "gloss": { "en": "to move people or goods from one place to another (literally: to carry across)", "tr": "taşımak, nakletmek", "de": "transportieren, befördern", "fr": "transporter", "it": "trasportare", "es": "transportar" },
+      "sentences": [
+        { "en": "Trucks [transport] the fruit to the city.", "tr": "Kamyonlar meyveyi şehre taşır.", "de": "Lastwagen transportieren das Obst in die Stadt.", "fr": "Des camions transportent les fruits en ville.", "it": "I camion trasportano la frutta in città.", "es": "Los camiones transportan la fruta a la ciudad." },
+        { "en": "Blood [transports] oxygen around the body.", "tr": "Kan oksijeni vücudun her yerine taşır.", "de": "Das Blut transportiert Sauerstoff durch den Körper.", "fr": "Le sang transporte l'oxygène dans tout le corps.", "it": "Il sangue trasporta l'ossigeno in tutto il corpo.", "es": "La sangre transporta oxígeno por todo el cuerpo." }
+      ]
+    },
+    {
+      "id": "portable", "pos": "adjective", "parent": null, "parts": ["port", "-able"],
+      "gloss": { "en": "easy to carry", "tr": "taşınabilir", "de": "tragbar", "fr": "portable, portatif", "it": "portatile", "es": "portátil" },
+      "sentences": [
+        { "en": "We took a [portable] speaker to the beach.", "tr": "Plaja taşınabilir bir hoparlör götürdük.", "de": "Wir haben einen tragbaren Lautsprecher an den Strand mitgenommen.", "fr": "Nous avons emporté une enceinte portable à la plage.", "it": "Abbiamo portato una cassa portatile in spiaggia.", "es": "Llevamos un altavoz portátil a la playa." },
+        { "en": "This heater is small and [portable].", "tr": "Bu ısıtıcı küçük ve taşınabilir.", "de": "Diese Heizung ist klein und tragbar.", "fr": "Ce radiateur est petit et portatif.", "it": "Questa stufa è piccola e portatile.", "es": "Esta estufa es pequeña y portátil." }
+      ]
+    },
+    {
+      "id": "report", "pos": "verb", "parent": null, "parts": ["re-", "port"],
+      "gloss": { "en": "to tell what happened (literally: to carry back)", "tr": "bildirmek, rapor etmek", "de": "berichten, melden", "fr": "rapporter, signaler", "it": "riferire, segnalare", "es": "informar, denunciar" },
+      "sentences": [
+        { "en": "Please [report] any problems to the manager.", "tr": "Lütfen her sorunu müdüre bildirin.", "de": "Bitte melden Sie alle Probleme dem Leiter.", "fr": "Veuillez signaler tout problème au responsable.", "it": "Per favore, segnalate ogni problema al responsabile.", "es": "Por favor, informe de cualquier problema al encargado." },
+        { "en": "The news [reported] heavy rain in the north.", "tr": "Haberler kuzeyde şiddetli yağmur olduğunu bildirdi.", "de": "Die Nachrichten berichteten von starkem Regen im Norden.", "fr": "Les informations ont signalé de fortes pluies dans le nord.", "it": "Il telegiornale ha riferito forti piogge al nord.", "es": "Las noticias informaron de fuertes lluvias en el norte." }
+      ]
+    },
+    {
+      "id": "reporter", "pos": "noun", "parent": "report", "parts": ["re-", "port", "-er"],
+      "gloss": { "en": "a person who reports news", "tr": "muhabir", "de": "der Reporter", "fr": "le reporter, le journaliste", "it": "il reporter, il cronista", "es": "el reportero" },
+      "sentences": [
+        { "en": "A [reporter] asked the mayor a question.", "tr": "Bir muhabir belediye başkanına bir soru sordu.", "de": "Ein Reporter stellte dem Bürgermeister eine Frage.", "fr": "Un journaliste a posé une question au maire.", "it": "Un cronista ha fatto una domanda al sindaco.", "es": "Un reportero le hizo una pregunta al alcalde." },
+        { "en": "She wants to be a sports [reporter].", "tr": "Spor muhabiri olmak istiyor.", "de": "Sie möchte Sportreporterin werden.", "fr": "Elle veut devenir journaliste sportive.", "it": "Vuole diventare una cronista sportiva.", "es": "Quiere ser reportera deportiva." }
+      ]
+    }
+  ]
+}

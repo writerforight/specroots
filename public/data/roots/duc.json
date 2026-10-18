@@ -1,0 +1,65 @@
+{
+  "id": "duc",
+  "forms": ["duc", "duce", "duct"],
+  "origin": "la",
+  "etymon": "ducere",
+  "meaning": { "en": "to lead", "tr": "yönlendirmek, götürmek", "de": "führen", "fr": "conduire, mener", "it": "condurre, guidare", "es": "conducir, guiar" },
+  "words": [
+    {
+      "id": "produce", "pos": "verb", "parent": null, "parts": ["pro-", "duce"],
+      "gloss": { "en": "to make or create (literally: to lead forward)", "tr": "üretmek", "de": "produzieren, herstellen", "fr": "produire", "it": "produrre", "es": "producir" },
+      "sentences": [
+        { "en": "This farm [produces] milk and cheese.", "tr": "Bu çiftlik süt ve peynir üretir.", "de": "Dieser Hof produziert Milch und Käse.", "fr": "Cette ferme produit du lait et du fromage.", "it": "Questa fattoria produce latte e formaggio.", "es": "Esta granja produce leche y queso." },
+        { "en": "Solar panels [produce] electricity from light.", "tr": "Güneş panelleri ışıktan elektrik üretir.", "de": "Solarmodule erzeugen Strom aus Licht.", "fr": "Les panneaux solaires produisent de l'électricité à partir de la lumière.", "it": "I pannelli solari producono elettricità dalla luce.", "es": "Los paneles solares producen electricidad a partir de la luz." }
+      ]
+    },
+    {
+      "id": "product", "pos": "noun", "parent": "produce", "parts": ["pro-", "duct"],
+      "gloss": { "en": "something that is made", "tr": "ürün", "de": "das Produkt", "fr": "le produit", "it": "il prodotto", "es": "el producto" },
+      "sentences": [
+        { "en": "Their new [product] sold out in a day.", "tr": "Yeni ürünleri bir günde tükendi.", "de": "Ihr neues Produkt war an einem Tag ausverkauft.", "fr": "Leur nouveau produit a été épuisé en un jour.", "it": "Il loro nuovo prodotto è andato esaurito in un giorno.", "es": "Su nuevo producto se agotó en un día." },
+        { "en": "Read the label before you use the [product].", "tr": "Ürünü kullanmadan önce etiketi oku.", "de": "Lies das Etikett, bevor du das Produkt benutzt.", "fr": "Lis l'étiquette avant d'utiliser le produit.", "it": "Leggi l'etichetta prima di usare il prodotto.", "es": "Lee la etiqueta antes de usar el producto." }
+      ]
+    },
+    {
+      "id": "production", "pos": "noun", "parent": "produce", "parts": ["pro-", "duct", "-ion"],
+      "gloss": { "en": "the act of making things", "tr": "üretim", "de": "die Produktion, die Herstellung", "fr": "la production", "it": "la produzione", "es": "la producción" },
+      "sentences": [
+        { "en": "Car [production] fell last year.", "tr": "Geçen yıl otomobil üretimi düştü.", "de": "Die Autoproduktion ist letztes Jahr gesunken.", "fr": "La production automobile a baissé l'an dernier.", "it": "La produzione di auto è calata l'anno scorso.", "es": "La producción de coches cayó el año pasado." },
+        { "en": "The school [production] of the play was a success.", "tr": "Okulun sahnelediği oyun büyük başarıydı.", "de": "Die Schulaufführung des Stücks war ein Erfolg.", "fr": "La mise en scène de la pièce par l'école a été un succès.", "it": "La messa in scena della scuola è stata un successo.", "es": "El montaje de la obra en el colegio fue un éxito." }
+      ]
+    },
+    {
+      "id": "introduce", "pos": "verb", "parent": null, "parts": ["intro-", "duce"],
+      "gloss": { "en": "to present someone or something new (literally: to lead in)", "tr": "tanıştırmak, tanıtmak", "de": "vorstellen, einführen", "fr": "présenter, introduire", "it": "presentare, introdurre", "es": "presentar, introducir" },
+      "sentences": [
+        { "en": "Let me [introduce] you to my sister.", "tr": "Seni kız kardeşimle tanıştırayım.", "de": "Darf ich dir meine Schwester vorstellen?", "fr": "Laisse-moi te présenter ma sœur.", "it": "Lascia che ti presenti mia sorella.", "es": "Déjame presentarte a mi hermana." },
+        { "en": "The city [introduced] a new bus line.", "tr": "Şehir yeni bir otobüs hattı başlattı.", "de": "Die Stadt hat eine neue Buslinie eingeführt.", "fr": "La ville a mis en place une nouvelle ligne de bus.", "it": "La città ha introdotto una nuova linea di autobus.", "es": "La ciudad introdujo una nueva línea de autobús." }
+      ]
+    },
+    {
+      "id": "introduction", "pos": "noun", "parent": "introduce", "parts": ["intro-", "duct", "-ion"],
+      "gloss": { "en": "the first part of a text or talk; the act of introducing", "tr": "giriş; tanıştırma", "de": "die Einleitung; die Vorstellung", "fr": "l'introduction; la présentation", "it": "l'introduzione; la presentazione", "es": "la introducción; la presentación" },
+      "sentences": [
+        { "en": "Write a short [introduction] for your essay.", "tr": "Kompozisyonun için kısa bir giriş yaz.", "de": "Schreib eine kurze Einleitung für deinen Aufsatz.", "fr": "Écris une courte introduction pour ta rédaction.", "it": "Scrivi una breve introduzione per il tuo tema.", "es": "Escribe una introducción breve para tu redacción." },
+        { "en": "After a quick [introduction], the meeting began.", "tr": "Kısa bir tanışmadan sonra toplantı başladı.", "de": "Nach einer kurzen Vorstellung begann das Treffen.", "fr": "Après une brève présentation, la réunion a commencé.", "it": "Dopo una breve presentazione, la riunione è iniziata.", "es": "Tras una breve presentación, empezó la reunión." }
+      ]
+    },
+    {
+      "id": "educate", "pos": "verb", "parent": null, "parts": ["e-", "duc", "-ate"],
+      "gloss": { "en": "to teach (literally: to lead out)", "tr": "eğitmek", "de": "erziehen, ausbilden", "fr": "éduquer, instruire", "it": "educare, istruire", "es": "educar" },
+      "sentences": [
+        { "en": "Good schools [educate] the whole child.", "tr": "İyi okullar çocuğu her yönüyle eğitir.", "de": "Gute Schulen bilden das ganze Kind.", "fr": "Les bonnes écoles éduquent l'enfant dans sa globalité.", "it": "Le buone scuole educano il bambino nella sua interezza.", "es": "Las buenas escuelas educan al niño en su totalidad." },
+        { "en": "The campaign [educates] people about recycling.", "tr": "Kampanya insanları geri dönüşüm konusunda bilgilendiriyor.", "de": "Die Kampagne klärt die Menschen über Recycling auf.", "fr": "La campagne sensibilise les gens au recyclage.", "it": "La campagna informa le persone sul riciclo.", "es": "La campaña educa a la gente sobre el reciclaje." }
+      ]
+    },
+    {
+      "id": "education", "pos": "noun", "parent": "educate", "parts": ["e-", "duc", "-ation"],
+      "gloss": { "en": "the process of teaching and learning", "tr": "eğitim", "de": "die Bildung, die Ausbildung", "fr": "l'éducation, l'enseignement", "it": "l'istruzione, l'educazione", "es": "la educación" },
+      "sentences": [
+        { "en": "[Education] is free in many countries.", "tr": "Birçok ülkede eğitim ücretsizdir.", "de": "In vielen Ländern ist Bildung kostenlos.", "fr": "L'éducation est gratuite dans beaucoup de pays.", "it": "In molti paesi l'istruzione è gratuita.", "es": "La educación es gratuita en muchos países." },
+        { "en": "She finished her [education] in Germany.", "tr": "Eğitimini Almanya'da tamamladı.", "de": "Sie hat ihre Ausbildung in Deutschland abgeschlossen.", "fr": "Elle a terminé ses études en Allemagne.", "it": "Ha completato gli studi in Germania.", "es": "Terminó sus estudios en Alemania." }
+      ]
+    }
+  ]
+}

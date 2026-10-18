@@ -1,0 +1,57 @@
+{
+  "id": "scrib",
+  "forms": ["scrib", "scribe", "script"],
+  "origin": "la",
+  "etymon": "scribere",
+  "meaning": { "en": "to write", "tr": "yazmak", "de": "schreiben", "fr": "écrire", "it": "scrivere", "es": "escribir" },
+  "words": [
+    {
+      "id": "describe", "pos": "verb", "parent": null, "parts": ["de-", "scribe"],
+      "gloss": { "en": "to say what something is like (literally: to write down)", "tr": "tarif etmek, betimlemek", "de": "beschreiben", "fr": "décrire", "it": "descrivere", "es": "describir" },
+      "sentences": [
+        { "en": "Can you [describe] the man you saw?", "tr": "Gördüğün adamı tarif edebilir misin?", "de": "Kannst du den Mann beschreiben, den du gesehen hast?", "fr": "Peux-tu décrire l'homme que tu as vu ?", "it": "Puoi descrivere l'uomo che hai visto?", "es": "¿Puedes describir al hombre que viste?" },
+        { "en": "Words cannot [describe] how happy I am.", "tr": "Ne kadar mutlu olduğumu kelimeler anlatamaz.", "de": "Worte können nicht beschreiben, wie glücklich ich bin.", "fr": "Les mots ne peuvent pas décrire à quel point je suis heureux.", "it": "Le parole non possono descrivere quanto sono felice.", "es": "Las palabras no pueden describir lo feliz que soy." }
+      ]
+    },
+    {
+      "id": "description", "pos": "noun", "parent": "describe", "parts": ["de-", "script", "-ion"],
+      "gloss": { "en": "words that say what something is like", "tr": "tarif, açıklama", "de": "die Beschreibung", "fr": "la description", "it": "la descrizione", "es": "la descripción" },
+      "sentences": [
+        { "en": "The hotel looked just like the [description].", "tr": "Otel tam da tarif edildiği gibiydi.", "de": "Das Hotel sah genau wie in der Beschreibung aus.", "fr": "L'hôtel ressemblait exactement à la description.", "it": "L'hotel era proprio come nella descrizione.", "es": "El hotel era igual que en la descripción." },
+        { "en": "Add a short [description] to each photo.", "tr": "Her fotoğrafa kısa bir açıklama ekle.", "de": "Füge jedem Foto eine kurze Beschreibung hinzu.", "fr": "Ajoute une courte description à chaque photo.", "it": "Aggiungi una breve descrizione a ogni foto.", "es": "Añade una descripción breve a cada foto." }
+      ]
+    },
+    {
+      "id": "subscribe", "pos": "verb", "parent": null, "parts": ["sub-", "scribe"],
+      "gloss": { "en": "to sign up for regular updates (literally: to write one's name under)", "tr": "abone olmak", "de": "abonnieren", "fr": "s'abonner", "it": "abbonarsi, iscriversi", "es": "suscribirse" },
+      "sentences": [
+        { "en": "I [subscribed] to a science magazine.", "tr": "Bir bilim dergisine abone oldum.", "de": "Ich habe eine Wissenschaftszeitschrift abonniert.", "fr": "Je me suis abonné à un magazine scientifique.", "it": "Mi sono abbonato a una rivista scientifica.", "es": "Me suscribí a una revista de ciencia." },
+        { "en": "[Subscribe] to get a message when a new video comes out.", "tr": "Yeni video çıkınca mesaj almak için abone ol.", "de": "Abonniere, um eine Nachricht zu bekommen, wenn ein neues Video erscheint.", "fr": "Abonne-toi pour recevoir un message à chaque nouvelle vidéo.", "it": "Iscriviti per ricevere un messaggio quando esce un nuovo video.", "es": "Suscríbete para recibir un mensaje cuando salga un vídeo nuevo." }
+      ]
+    },
+    {
+      "id": "subscription", "pos": "noun", "parent": "subscribe", "parts": ["sub-", "script", "-ion"],
+      "gloss": { "en": "a regular payment to receive something", "tr": "abonelik", "de": "das Abonnement", "fr": "l'abonnement", "it": "l'abbonamento", "es": "la suscripción" },
+      "sentences": [
+        { "en": "My gym [subscription] ends in May.", "tr": "Spor salonu aboneliğim mayısta bitiyor.", "de": "Mein Fitnessstudio-Abo endet im Mai.", "fr": "Mon abonnement à la salle de sport se termine en mai.", "it": "Il mio abbonamento in palestra scade a maggio.", "es": "Mi suscripción al gimnasio termina en mayo." },
+        { "en": "You can cancel the [subscription] at any time.", "tr": "Aboneliği istediğin zaman iptal edebilirsin.", "de": "Du kannst das Abo jederzeit kündigen.", "fr": "Tu peux résilier l'abonnement à tout moment.", "it": "Puoi disdire l'abbonamento in qualsiasi momento.", "es": "Puedes cancelar la suscripción en cualquier momento." }
+      ]
+    },
+    {
+      "id": "script", "pos": "noun", "parent": null, "parts": ["script"],
+      "gloss": { "en": "the written text of a film or play; a short computer program", "tr": "senaryo; betik", "de": "das Drehbuch; das Skript", "fr": "le scénario; le script", "it": "la sceneggiatura; lo script", "es": "el guion; el script" },
+      "sentences": [
+        { "en": "The actors read the [script] together.", "tr": "Oyuncular senaryoyu birlikte okudu.", "de": "Die Schauspieler lasen das Drehbuch gemeinsam.", "fr": "Les acteurs ont lu le scénario ensemble.", "it": "Gli attori hanno letto la sceneggiatura insieme.", "es": "Los actores leyeron el guion juntos." },
+        { "en": "I wrote a small [script] to rename my files.", "tr": "Dosyalarımın adını değiştirmek için küçük bir betik yazdım.", "de": "Ich habe ein kleines Skript geschrieben, um meine Dateien umzubenennen.", "fr": "J'ai écrit un petit script pour renommer mes fichiers.", "it": "Ho scritto un piccolo script per rinominare i miei file.", "es": "Escribí un pequeño script para renombrar mis archivos." }
+      ]
+    },
+    {
+      "id": "manuscript", "pos": "noun", "parent": "script", "parts": ["manu-", "script"],
+      "gloss": { "en": "a text written by hand, or an author's text before printing", "tr": "el yazması; müsvedde", "de": "das Manuskript, die Handschrift", "fr": "le manuscrit", "it": "il manoscritto", "es": "el manuscrito" },
+      "sentences": [
+        { "en": "The library keeps a thousand-year-old [manuscript].", "tr": "Kütüphane bin yıllık bir el yazmasını saklıyor.", "de": "Die Bibliothek bewahrt eine tausend Jahre alte Handschrift auf.", "fr": "La bibliothèque conserve un manuscrit vieux de mille ans.", "it": "La biblioteca conserva un manoscritto di mille anni.", "es": "La biblioteca guarda un manuscrito de mil años." },
+        { "en": "She sent her [manuscript] to three publishers.", "tr": "Müsveddesini üç yayınevine gönderdi.", "de": "Sie schickte ihr Manuskript an drei Verlage.", "fr": "Elle a envoyé son manuscrit à trois éditeurs.", "it": "Ha inviato il suo manoscritto a tre editori.", "es": "Envió su manuscrito a tres editoriales." }
+      ]
+    }
+  ]
+}

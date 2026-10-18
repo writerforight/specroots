@@ -1,0 +1,125 @@
+[
+  {
+    "id": "dict",
+    "forms": [
+      "dict"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to say, to speak",
+      "tr": "söylemek, demek",
+      "de": "sagen, sprechen",
+      "fr": "dire",
+      "it": "dire",
+      "es": "decir"
+    },
+    "words": [
+      "predict",
+      "prediction",
+      "predictable",
+      "dictionary",
+      "contradict",
+      "dictate"
+    ]
+  },
+  {
+    "id": "duc",
+    "forms": [
+      "duc",
+      "duce",
+      "duct"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to lead",
+      "tr": "yönlendirmek, götürmek",
+      "de": "führen",
+      "fr": "conduire, mener",
+      "it": "condurre, guidare",
+      "es": "conducir, guiar"
+    },
+    "words": [
+      "produce",
+      "product",
+      "production",
+      "introduce",
+      "introduction",
+      "educate",
+      "education"
+    ]
+  },
+  {
+    "id": "port",
+    "forms": [
+      "port"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to carry",
+      "tr": "taşımak",
+      "de": "tragen",
+      "fr": "porter",
+      "it": "portare",
+      "es": "llevar"
+    },
+    "words": [
+      "export",
+      "import",
+      "important",
+      "transport",
+      "portable",
+      "report",
+      "reporter"
+    ]
+  },
+  {
+    "id": "scrib",
+    "forms": [
+      "scrib",
+      "scribe",
+      "script"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to write",
+      "tr": "yazmak",
+      "de": "schreiben",
+      "fr": "écrire",
+      "it": "scrivere",
+      "es": "escribir"
+    },
+    "words": [
+      "describe",
+      "description",
+      "subscribe",
+      "subscription",
+      "script",
+      "manuscript"
+    ]
+  },
+  {
+    "id": "spec",
+    "forms": [
+      "spec",
+      "spect"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to look, to see",
+      "tr": "bakmak, görmek",
+      "de": "schauen, sehen",
+      "fr": "regarder, voir",
+      "it": "guardare, vedere",
+      "es": "mirar, ver"
+    },
+    "words": [
+      "inspect",
+      "inspection",
+      "inspector",
+      "respect",
+      "respectful",
+      "spectator",
+      "perspective"
+    ]
+  }
+]

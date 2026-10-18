@@ -1,0 +1,65 @@
+{
+  "id": "spec",
+  "forms": ["spec", "spect"],
+  "origin": "la",
+  "etymon": "specere",
+  "meaning": { "en": "to look, to see", "tr": "bakmak, görmek", "de": "schauen, sehen", "fr": "regarder, voir", "it": "guardare, vedere", "es": "mirar, ver" },
+  "words": [
+    {
+      "id": "inspect", "pos": "verb", "parent": null, "parts": ["in-", "spect"],
+      "gloss": { "en": "to look at something closely", "tr": "incelemek, denetlemek", "de": "untersuchen, prüfen", "fr": "inspecter, examiner", "it": "ispezionare, esaminare", "es": "inspeccionar, examinar" },
+      "sentences": [
+        { "en": "The mechanic [inspected] the brakes before the trip.", "tr": "Tamirci yolculuktan önce frenleri inceledi.", "de": "Der Mechaniker prüfte vor der Reise die Bremsen.", "fr": "Le mécanicien a inspecté les freins avant le voyage.", "it": "Il meccanico ha ispezionato i freni prima del viaggio.", "es": "El mecánico inspeccionó los frenos antes del viaje." },
+        { "en": "Please [inspect] the box before you sign for it.", "tr": "Lütfen teslim almadan önce kutuyu inceleyin.", "de": "Bitte prüfen Sie das Paket, bevor Sie unterschreiben.", "fr": "Veuillez examiner le colis avant de signer.", "it": "Per favore, controlli il pacco prima di firmare.", "es": "Por favor, revise la caja antes de firmar." }
+      ]
+    },
+    {
+      "id": "inspection", "pos": "noun", "parent": "inspect", "parts": ["in-", "spect", "-ion"],
+      "gloss": { "en": "a careful look or official check", "tr": "denetim, muayene", "de": "die Inspektion, die Prüfung", "fr": "l'inspection, le contrôle", "it": "l'ispezione, il controllo", "es": "la inspección, la revisión" },
+      "sentences": [
+        { "en": "The car passed its safety [inspection].", "tr": "Araba güvenlik muayenesinden geçti.", "de": "Das Auto hat die Sicherheitsprüfung bestanden.", "fr": "La voiture a réussi le contrôle de sécurité.", "it": "L'auto ha superato il controllo di sicurezza.", "es": "El coche pasó la inspección de seguridad." },
+        { "en": "A closer [inspection] showed a small crack.", "tr": "Daha yakından bakınca küçük bir çatlak görüldü.", "de": "Bei genauerer Prüfung zeigte sich ein kleiner Riss.", "fr": "Un examen plus attentif a révélé une petite fissure.", "it": "Un esame più attento ha rivelato una piccola crepa.", "es": "Una revisión más atenta mostró una pequeña grieta." }
+      ]
+    },
+    {
+      "id": "inspector", "pos": "noun", "parent": "inspect", "parts": ["in-", "spect", "-or"],
+      "gloss": { "en": "a person whose job is to check things", "tr": "müfettiş, denetçi", "de": "der Inspektor, der Prüfer", "fr": "l'inspecteur", "it": "l'ispettore", "es": "el inspector" },
+      "sentences": [
+        { "en": "The [inspector] asked to see the kitchen.", "tr": "Müfettiş mutfağı görmek istedi.", "de": "Der Inspektor wollte die Küche sehen.", "fr": "L'inspecteur a demandé à voir la cuisine.", "it": "L'ispettore ha chiesto di vedere la cucina.", "es": "El inspector pidió ver la cocina." },
+        { "en": "My uncle worked as a tax [inspector].", "tr": "Amcam vergi müfettişi olarak çalıştı.", "de": "Mein Onkel arbeitete als Steuerprüfer.", "fr": "Mon oncle travaillait comme inspecteur des impôts.", "it": "Mio zio lavorava come ispettore delle tasse.", "es": "Mi tío trabajaba como inspector de Hacienda." }
+      ]
+    },
+    {
+      "id": "respect", "pos": "verb", "parent": null, "parts": ["re-", "spect"],
+      "gloss": { "en": "to look up to; to treat with care (literally: to look back at)", "tr": "saygı duymak", "de": "respektieren, achten", "fr": "respecter", "it": "rispettare", "es": "respetar" },
+      "sentences": [
+        { "en": "Students [respect] a teacher who is fair.", "tr": "Öğrenciler adil olan bir öğretmene saygı duyar.", "de": "Schüler respektieren einen Lehrer, der fair ist.", "fr": "Les élèves respectent un professeur juste.", "it": "Gli studenti rispettano un insegnante giusto.", "es": "Los alumnos respetan a un profesor justo." },
+        { "en": "We must [respect] the rules of the game.", "tr": "Oyunun kurallarına uymalıyız.", "de": "Wir müssen die Spielregeln respektieren.", "fr": "Nous devons respecter les règles du jeu.", "it": "Dobbiamo rispettare le regole del gioco.", "es": "Debemos respetar las reglas del juego." }
+      ]
+    },
+    {
+      "id": "respectful", "pos": "adjective", "parent": "respect", "parts": ["re-", "spect", "-ful"],
+      "gloss": { "en": "showing respect", "tr": "saygılı", "de": "respektvoll", "fr": "respectueux", "it": "rispettoso", "es": "respetuoso" },
+      "sentences": [
+        { "en": "Be [respectful] when you visit the temple.", "tr": "Tapınağı ziyaret ederken saygılı ol.", "de": "Sei respektvoll, wenn du den Tempel besuchst.", "fr": "Sois respectueux quand tu visites le temple.", "it": "Sii rispettoso quando visiti il tempio.", "es": "Sé respetuoso cuando visites el templo." },
+        { "en": "She gave a short, [respectful] answer.", "tr": "Kısa ve saygılı bir cevap verdi.", "de": "Sie gab eine kurze, respektvolle Antwort.", "fr": "Elle a donné une réponse courte et respectueuse.", "it": "Ha dato una risposta breve e rispettosa.", "es": "Dio una respuesta breve y respetuosa." }
+      ]
+    },
+    {
+      "id": "spectator", "pos": "noun", "parent": null, "parts": ["spect", "-ator"],
+      "gloss": { "en": "a person who watches an event", "tr": "seyirci", "de": "der Zuschauer", "fr": "le spectateur", "it": "lo spettatore", "es": "el espectador" },
+      "sentences": [
+        { "en": "Thousands of [spectators] filled the stadium.", "tr": "Binlerce seyirci stadı doldurdu.", "de": "Tausende Zuschauer füllten das Stadion.", "fr": "Des milliers de spectateurs remplissaient le stade.", "it": "Migliaia di spettatori riempivano lo stadio.", "es": "Miles de espectadores llenaron el estadio." },
+        { "en": "I was only a [spectator], not a player.", "tr": "Ben sadece seyirciydim, oyuncu değil.", "de": "Ich war nur Zuschauer, kein Spieler.", "fr": "Je n'étais qu'un spectateur, pas un joueur.", "it": "Ero solo uno spettatore, non un giocatore.", "es": "Yo solo era un espectador, no un jugador." }
+      ]
+    },
+    {
+      "id": "perspective", "pos": "noun", "parent": null, "parts": ["per-", "spect", "-ive"],
+      "gloss": { "en": "a way of seeing (literally: looking through)", "tr": "bakış açısı, perspektif", "de": "die Perspektive, die Sichtweise", "fr": "la perspective, le point de vue", "it": "la prospettiva, il punto di vista", "es": "la perspectiva, el punto de vista" },
+      "sentences": [
+        { "en": "Travel gave him a new [perspective] on life.", "tr": "Seyahat ona hayata yeni bir bakış açısı kazandırdı.", "de": "Das Reisen gab ihm eine neue Sicht auf das Leben.", "fr": "Le voyage lui a donné une nouvelle perspective sur la vie.", "it": "Il viaggio gli ha dato una nuova prospettiva sulla vita.", "es": "Viajar le dio una nueva perspectiva de la vida." },
+        { "en": "Try to see it from my [perspective].", "tr": "Bir de benim açımdan bakmaya çalış.", "de": "Versuch, es aus meiner Perspektive zu sehen.", "fr": "Essaie de voir les choses de mon point de vue.", "it": "Prova a vederla dal mio punto di vista.", "es": "Intenta verlo desde mi punto de vista." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+/* Design tokens. Change the look here; app.css only uses these variables. */
+:root {
+  --font-text: ui-serif, Georgia, 'Iowan Old Style', 'Times New Roman', serif;
+  --font-ui: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+
+  --radius: 10px;
+  --gap: 16px;
+  --list-width: 300px;
+
+  --bg: #f7f6f2;
+  --surface: #ffffff;
+  --surface-2: #f0eee8;
+  --text: #1c1e1d;
+  --text-muted: #5f6461;
+  --border: #e2dfd7;
+  --accent: #2f5d50;
+  --accent-soft: #e2ece8;
+  --on-accent: #ffffff;
+  --mark: #fbe7a6;
+  --prefix: #7a4f9a;
+  --suffix: #a2532c;
+  --shadow: 0 1px 2px rgb(0 0 0 / 0.04), 0 4px 16px rgb(0 0 0 / 0.04);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) {
+    --bg: #111312;
+    --surface: #191c1b;
+    --surface-2: #222624;
+    --text: #e7e5e0;
+    --text-muted: #a3a8a4;
+    --border: #2d3230;
+    --accent: #84bfa9;
+    --accent-soft: #1f3029;
+    --on-accent: #0d1a15;
+    --mark: #5b4a17;
+    --prefix: #c6a3e3;
+    --suffix: #e6a27e;
+    --shadow: none;
+  }
+}
+
+:root[data-theme='dark'] {
+  --bg: #111312;
+  --surface: #191c1b;
+  --surface-2: #222624;
+  --text: #e7e5e0;
+  --text-muted: #a3a8a4;
+  --border: #2d3230;
+  --accent: #84bfa9;
+  --accent-soft: #1f3029;
+  --on-accent: #0d1a15;
+  --mark: #5b4a17;
+  --prefix: #c6a3e3;
+  --suffix: #e6a27e;
+  --shadow: none;
+}

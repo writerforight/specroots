@@ -1,0 +1,57 @@
+{
+  "id": "dict",
+  "forms": ["dict"],
+  "origin": "la",
+  "etymon": "dicere",
+  "meaning": { "en": "to say, to speak", "tr": "söylemek, demek", "de": "sagen, sprechen", "fr": "dire", "it": "dire", "es": "decir" },
+  "words": [
+    {
+      "id": "predict", "pos": "verb", "parent": null, "parts": ["pre-", "dict"],
+      "gloss": { "en": "to say what will happen (literally: to say before)", "tr": "tahmin etmek, öngörmek", "de": "vorhersagen", "fr": "prédire", "it": "prevedere, predire", "es": "predecir" },
+      "sentences": [
+        { "en": "Nobody can [predict] the future.", "tr": "Kimse geleceği tahmin edemez.", "de": "Niemand kann die Zukunft vorhersagen.", "fr": "Personne ne peut prédire l'avenir.", "it": "Nessuno può prevedere il futuro.", "es": "Nadie puede predecir el futuro." },
+        { "en": "They [predicted] snow, but it was sunny.", "tr": "Kar yağacağını tahmin ettiler ama hava güneşliydi.", "de": "Sie hatten Schnee vorhergesagt, aber es war sonnig.", "fr": "Ils avaient prévu de la neige, mais il faisait beau.", "it": "Avevano previsto la neve, ma c'era il sole.", "es": "Pronosticaron nieve, pero hizo sol." }
+      ]
+    },
+    {
+      "id": "prediction", "pos": "noun", "parent": "predict", "parts": ["pre-", "dict", "-ion"],
+      "gloss": { "en": "a statement about what will happen", "tr": "tahmin, öngörü", "de": "die Vorhersage", "fr": "la prédiction, la prévision", "it": "la previsione", "es": "la predicción" },
+      "sentences": [
+        { "en": "My [prediction] for the match was wrong.", "tr": "Maç için tahminim yanlıştı.", "de": "Meine Vorhersage für das Spiel war falsch.", "fr": "Ma prédiction pour le match était fausse.", "it": "La mia previsione per la partita era sbagliata.", "es": "Mi predicción para el partido fue errónea." },
+        { "en": "The model makes a [prediction] every second.", "tr": "Model her saniye bir tahmin yapar.", "de": "Das Modell macht jede Sekunde eine Vorhersage.", "fr": "Le modèle fait une prédiction chaque seconde.", "it": "Il modello fa una previsione ogni secondo.", "es": "El modelo hace una predicción cada segundo." }
+      ]
+    },
+    {
+      "id": "predictable", "pos": "adjective", "parent": "predict", "parts": ["pre-", "dict", "-able"],
+      "gloss": { "en": "easy to know in advance", "tr": "tahmin edilebilir", "de": "vorhersehbar", "fr": "prévisible", "it": "prevedibile", "es": "predecible, previsible" },
+      "sentences": [
+        { "en": "The ending of the film was very [predictable].", "tr": "Filmin sonu çok tahmin edilebilirdi.", "de": "Das Ende des Films war sehr vorhersehbar.", "fr": "La fin du film était très prévisible.", "it": "Il finale del film era molto prevedibile.", "es": "El final de la película era muy predecible." },
+        { "en": "Babies like a [predictable] daily routine.", "tr": "Bebekler önceden bilinen bir günlük düzeni sever.", "de": "Babys mögen einen vorhersehbaren Tagesablauf.", "fr": "Les bébés aiment une routine prévisible.", "it": "I neonati amano una routine prevedibile.", "es": "A los bebés les gusta una rutina previsible." }
+      ]
+    },
+    {
+      "id": "dictionary", "pos": "noun", "parent": null, "parts": ["dict", "-ion", "-ary"],
+      "gloss": { "en": "a book or list of words and their meanings (a collection of sayings)", "tr": "sözlük", "de": "das Wörterbuch", "fr": "le dictionnaire", "it": "il dizionario", "es": "el diccionario" },
+      "sentences": [
+        { "en": "Look the word up in the [dictionary].", "tr": "Kelimeye sözlükten bak.", "de": "Schlag das Wort im Wörterbuch nach.", "fr": "Cherche le mot dans le dictionnaire.", "it": "Cerca la parola nel dizionario.", "es": "Busca la palabra en el diccionario." },
+        { "en": "This [dictionary] has examples for every word.", "tr": "Bu sözlükte her kelime için örnek var.", "de": "Dieses Wörterbuch hat Beispiele für jedes Wort.", "fr": "Ce dictionnaire a des exemples pour chaque mot.", "it": "Questo dizionario ha esempi per ogni parola.", "es": "Este diccionario tiene ejemplos para cada palabra." }
+      ]
+    },
+    {
+      "id": "contradict", "pos": "verb", "parent": null, "parts": ["contra-", "dict"],
+      "gloss": { "en": "to say the opposite (literally: to speak against)", "tr": "çelişmek, aksini söylemek", "de": "widersprechen", "fr": "contredire", "it": "contraddire", "es": "contradecir" },
+      "sentences": [
+        { "en": "Don't [contradict] your grandmother at dinner.", "tr": "Yemekte büyükannenle ters düşme.", "de": "Widersprich deiner Oma nicht beim Abendessen.", "fr": "Ne contredis pas ta grand-mère au dîner.", "it": "Non contraddire tua nonna a cena.", "es": "No le lleves la contraria a tu abuela en la cena." },
+        { "en": "The two reports [contradict] each other.", "tr": "İki rapor birbiriyle çelişiyor.", "de": "Die beiden Berichte widersprechen sich.", "fr": "Les deux rapports se contredisent.", "it": "I due rapporti si contraddicono.", "es": "Los dos informes se contradicen." }
+      ]
+    },
+    {
+      "id": "dictate", "pos": "verb", "parent": null, "parts": ["dict", "-ate"],
+      "gloss": { "en": "to say words for someone to write down; to give orders", "tr": "yazdırmak; dayatmak", "de": "diktieren", "fr": "dicter", "it": "dettare", "es": "dictar" },
+      "sentences": [
+        { "en": "The teacher [dictated] a short text to the class.", "tr": "Öğretmen sınıfa kısa bir metin yazdırdı.", "de": "Der Lehrer diktierte der Klasse einen kurzen Text.", "fr": "Le professeur a dicté un court texte à la classe.", "it": "L'insegnante ha dettato un breve testo alla classe.", "es": "El profesor dictó un texto corto a la clase." },
+        { "en": "Money should not [dictate] your choices.", "tr": "Seçimlerini para belirlememeli.", "de": "Geld sollte deine Entscheidungen nicht diktieren.", "fr": "L'argent ne devrait pas dicter tes choix.", "it": "Il denaro non dovrebbe dettare le tue scelte.", "es": "El dinero no debería dictar tus decisiones." }
+      ]
+    }
+  ]
+}
