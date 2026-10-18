@@ -1,0 +1,551 @@
+{
+  "id": "junct",
+  "forms": [
+    "junct",
+    "join"
+  ],
+  "origin": "la",
+  "etymon": "iungere",
+  "meaning": {
+    "en": "to join",
+    "tr": "birleştirmek, bağlamak",
+    "de": "verbinden",
+    "fr": "joindre, unir",
+    "it": "unire, congiungere",
+    "es": "unir, juntar"
+  },
+  "words": [
+    {
+      "id": "join",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "join"
+      ],
+      "gloss": {
+        "en": "to connect; to become a member; to come together with others (from Old French joindre, from Latin iungere)",
+        "tr": "birleştirmek; katılmak, üye olmak",
+        "de": "verbinden; beitreten; sich anschließen",
+        "fr": "relier; rejoindre, adhérer",
+        "it": "unire; unirsi a, iscriversi",
+        "es": "unir; unirse a, apuntarse"
+      },
+      "sentences": [
+        {
+          "en": "Would you like to [join] us for dinner?",
+          "tr": "Akşam yemeğinde bize katılmak ister misin?",
+          "de": "Möchtest du mit uns zu Abend essen?",
+          "fr": "Tu veux te joindre à nous pour dîner ?",
+          "it": "Vuoi unirti a noi per cena?",
+          "es": "¿Quieres cenar con nosotros?"
+        },
+        {
+          "en": "She [joined] the football club last year.",
+          "tr": "Geçen yıl futbol kulübüne üye oldu.",
+          "de": "Sie ist letztes Jahr dem Fußballverein beigetreten.",
+          "fr": "Elle s'est inscrite au club de foot l'an dernier.",
+          "it": "Si è iscritta alla squadra di calcio l'anno scorso.",
+          "es": "Se apuntó al club de fútbol el año pasado."
+        }
+      ]
+    },
+    {
+      "id": "joiner",
+      "pos": "noun",
+      "parent": "join",
+      "parts": [
+        "join",
+        "-er"
+      ],
+      "gloss": {
+        "en": "a person who makes wooden doors, windows and furniture",
+        "tr": "doğramacı, marangoz",
+        "de": "der Tischler, der Schreiner",
+        "fr": "le menuisier",
+        "it": "il falegname",
+        "es": "el carpintero"
+      },
+      "sentences": [
+        {
+          "en": "The [joiner] made new windows for the house.",
+          "tr": "Doğramacı eve yeni pencereler yaptı.",
+          "de": "Der Tischler machte neue Fenster für das Haus.",
+          "fr": "Le menuisier a fait de nouvelles fenêtres pour la maison.",
+          "it": "Il falegname ha fatto nuove finestre per la casa.",
+          "es": "El carpintero hizo ventanas nuevas para la casa."
+        },
+        {
+          "en": "My uncle trained as a [joiner].",
+          "tr": "Amcam doğramacılık eğitimi aldı.",
+          "de": "Mein Onkel hat eine Tischlerlehre gemacht.",
+          "fr": "Mon oncle a été formé comme menuisier.",
+          "it": "Mio zio ha fatto l'apprendistato da falegname.",
+          "es": "Mi tío se formó como carpintero."
+        }
+      ]
+    },
+    {
+      "id": "joint",
+      "pos": "noun",
+      "parent": "join",
+      "parts": [
+        "join",
+        "-t"
+      ],
+      "gloss": {
+        "en": "a place where two bones or parts meet",
+        "tr": "eklem; bağlantı yeri",
+        "de": "das Gelenk; die Verbindungsstelle",
+        "fr": "l'articulation; le joint",
+        "it": "l'articolazione; il giunto",
+        "es": "la articulación; la junta"
+      },
+      "sentences": [
+        {
+          "en": "My knee [joint] hurts when it rains.",
+          "tr": "Yağmur yağınca diz eklemim ağrıyor.",
+          "de": "Mein Kniegelenk tut weh, wenn es regnet.",
+          "fr": "Mon genou me fait mal quand il pleut.",
+          "it": "Mi fa male l'articolazione del ginocchio quando piove.",
+          "es": "Me duele la rodilla cuando llueve."
+        },
+        {
+          "en": "Water was leaking from a [joint] in the pipe.",
+          "tr": "Borunun bir bağlantı yerinden su sızıyordu.",
+          "de": "An einer Verbindungsstelle des Rohrs trat Wasser aus.",
+          "fr": "De l'eau fuyait d'un joint du tuyau.",
+          "it": "L'acqua perdeva da un giunto del tubo.",
+          "es": "Salía agua por una junta de la tubería."
+        }
+      ]
+    },
+    {
+      "id": "jointly",
+      "pos": "adverb",
+      "parent": "joint",
+      "parts": [
+        "join",
+        "-t",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "together, shared by two or more people",
+        "tr": "ortaklaşa, birlikte",
+        "de": "gemeinsam",
+        "fr": "conjointement, ensemble",
+        "it": "congiuntamente, insieme",
+        "es": "conjuntamente"
+      },
+      "sentences": [
+        {
+          "en": "The house is [jointly] owned by two sisters.",
+          "tr": "Ev iki kız kardeşin ortak mülkü.",
+          "de": "Das Haus gehört zwei Schwestern gemeinsam.",
+          "fr": "La maison appartient conjointement à deux sœurs.",
+          "it": "La casa è di proprietà congiunta di due sorelle.",
+          "es": "La casa pertenece conjuntamente a dos hermanas."
+        },
+        {
+          "en": "The two schools [jointly] organize the festival.",
+          "tr": "İki okul festivali birlikte düzenliyor.",
+          "de": "Die beiden Schulen organisieren das Fest gemeinsam.",
+          "fr": "Les deux écoles organisent ensemble le festival.",
+          "it": "Le due scuole organizzano insieme il festival.",
+          "es": "Los dos colegios organizan juntos el festival."
+        }
+      ]
+    },
+    {
+      "id": "disjointed",
+      "pos": "adjective",
+      "parent": "joint",
+      "parts": [
+        "dis-",
+        "join",
+        "-t",
+        "-ed"
+      ],
+      "gloss": {
+        "en": "not connected in a clear order",
+        "tr": "kopuk, dağınık",
+        "de": "zusammenhanglos",
+        "fr": "décousu",
+        "it": "sconnesso, frammentario",
+        "es": "inconexo, deshilvanado"
+      },
+      "sentences": [
+        {
+          "en": "The film felt [disjointed] and hard to follow.",
+          "tr": "Film kopuk ve takibi zor geldi.",
+          "de": "Der Film wirkte zusammenhanglos und schwer verständlich.",
+          "fr": "Le film semblait décousu et difficile à suivre.",
+          "it": "Il film sembrava sconnesso e difficile da seguire.",
+          "es": "La película parecía inconexa y difícil de seguir."
+        },
+        {
+          "en": "His speech was [disjointed] because he was nervous.",
+          "tr": "Heyecanlı olduğu için konuşması dağınıktı.",
+          "de": "Seine Rede war zusammenhanglos, weil er nervös war.",
+          "fr": "Son discours était décousu parce qu'il était nerveux.",
+          "it": "Il suo discorso era sconnesso perché era nervoso.",
+          "es": "Su discurso fue deshilvanado porque estaba nervioso."
+        }
+      ]
+    },
+    {
+      "id": "adjoin",
+      "pos": "verb",
+      "parent": "join",
+      "parts": [
+        "ad-",
+        "join"
+      ],
+      "gloss": {
+        "en": "to be next to and touching (literally: to join to)",
+        "tr": "bitişik olmak",
+        "de": "angrenzen an",
+        "fr": "être attenant à, jouxter",
+        "it": "confinare con",
+        "es": "lindar con, estar contiguo a"
+      },
+      "sentences": [
+        {
+          "en": "The kitchen [adjoins] the dining room.",
+          "tr": "Mutfak yemek odasına bitişik.",
+          "de": "Die Küche grenzt an das Esszimmer.",
+          "fr": "La cuisine est attenante à la salle à manger.",
+          "it": "La cucina confina con la sala da pranzo.",
+          "es": "La cocina está contigua al comedor."
+        },
+        {
+          "en": "Our garden [adjoins] a small forest.",
+          "tr": "Bahçemiz küçük bir ormana bitişik.",
+          "de": "Unser Garten grenzt an einen kleinen Wald.",
+          "fr": "Notre jardin jouxte une petite forêt.",
+          "it": "Il nostro giardino confina con un piccolo bosco.",
+          "es": "Nuestro jardín linda con un pequeño bosque."
+        }
+      ]
+    },
+    {
+      "id": "adjoining",
+      "pos": "adjective",
+      "parent": "adjoin",
+      "parts": [
+        "ad-",
+        "join",
+        "-ing"
+      ],
+      "gloss": {
+        "en": "next to and connected",
+        "tr": "bitişik; birbirine açılan",
+        "de": "angrenzend; benachbart",
+        "fr": "voisin; communicant",
+        "it": "adiacente; comunicante",
+        "es": "contiguo; comunicado"
+      },
+      "sentences": [
+        {
+          "en": "We booked two [adjoining] rooms.",
+          "tr": "Birbirine açılan iki oda ayırttık.",
+          "de": "Wir haben zwei nebeneinanderliegende Zimmer gebucht.",
+          "fr": "Nous avons réservé deux chambres communicantes.",
+          "it": "Abbiamo prenotato due camere comunicanti.",
+          "es": "Reservamos dos habitaciones comunicadas."
+        },
+        {
+          "en": "The noise came from the [adjoining] flat.",
+          "tr": "Gürültü yan daireden geliyordu.",
+          "de": "Der Lärm kam aus der Nachbarwohnung.",
+          "fr": "Le bruit venait de l'appartement voisin.",
+          "it": "Il rumore veniva dall'appartamento accanto.",
+          "es": "El ruido venía del piso de al lado."
+        }
+      ]
+    },
+    {
+      "id": "rejoin",
+      "pos": "verb",
+      "parent": "join",
+      "parts": [
+        "re-",
+        "join"
+      ],
+      "gloss": {
+        "en": "to join again; to come back to a group",
+        "tr": "yeniden katılmak, geri dönmek",
+        "de": "zurückkehren zu; wieder zu jemandem stoßen",
+        "fr": "rejoindre, réintégrer",
+        "it": "rientrare in; raggiungere di nuovo",
+        "es": "reincorporarse a; volver a reunirse con"
+      },
+      "sentences": [
+        {
+          "en": "After his injury, he [rejoined] the team.",
+          "tr": "Sakatlığından sonra takıma geri döndü.",
+          "de": "Nach seiner Verletzung kehrte er ins Team zurück.",
+          "fr": "Après sa blessure, il a réintégré l'équipe.",
+          "it": "Dopo l'infortunio è rientrato in squadra.",
+          "es": "Tras su lesión, se reincorporó al equipo."
+        },
+        {
+          "en": "I'll [rejoin] you at the café later.",
+          "tr": "Kafede size sonra tekrar katılırım.",
+          "de": "Ich stoße später im Café wieder zu euch.",
+          "fr": "Je vous retrouve au café plus tard.",
+          "it": "Vi raggiungo di nuovo al bar più tardi.",
+          "es": "Me reúno otra vez con vosotros en la cafetería luego."
+        }
+      ]
+    },
+    {
+      "id": "conjoined",
+      "pos": "adjective",
+      "parent": "join",
+      "parts": [
+        "con-",
+        "join",
+        "-ed"
+      ],
+      "gloss": {
+        "en": "joined together",
+        "tr": "yapışık; birleşik",
+        "de": "zusammengewachsen; siamesisch",
+        "fr": "siamois; réuni",
+        "it": "siamese; congiunto",
+        "es": "siamés; unido"
+      },
+      "sentences": [
+        {
+          "en": "The doctors separated the [conjoined] twins.",
+          "tr": "Doktorlar yapışık ikizleri ayırdı.",
+          "de": "Die Ärzte trennten die siamesischen Zwillinge.",
+          "fr": "Les médecins ont séparé les jumeaux siamois.",
+          "it": "I medici hanno separato i gemelli siamesi.",
+          "es": "Los médicos separaron a los gemelos siameses."
+        },
+        {
+          "en": "The two villages grew until they were [conjoined].",
+          "tr": "İki köy büyüyerek birleşti.",
+          "de": "Die beiden Dörfer wuchsen, bis sie zusammengewachsen waren.",
+          "fr": "Les deux villages ont grandi jusqu'à se rejoindre.",
+          "it": "I due villaggi sono cresciuti fino a unirsi.",
+          "es": "Los dos pueblos crecieron hasta quedar unidos."
+        }
+      ]
+    },
+    {
+      "id": "junction",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "junct",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a place where roads or railway lines meet",
+        "tr": "kavşak",
+        "de": "die Kreuzung; der Knotenpunkt",
+        "fr": "le carrefour; le nœud",
+        "it": "l'incrocio; il nodo",
+        "es": "el cruce; el empalme"
+      },
+      "sentences": [
+        {
+          "en": "Turn left at the next [junction].",
+          "tr": "Bir sonraki kavşaktan sola dön.",
+          "de": "Bieg an der nächsten Kreuzung links ab.",
+          "fr": "Tourne à gauche au prochain carrefour.",
+          "it": "Gira a sinistra al prossimo incrocio.",
+          "es": "Gira a la izquierda en el próximo cruce."
+        },
+        {
+          "en": "The town grew up around a railway [junction].",
+          "tr": "Kasaba bir demiryolu kavşağının etrafında büyüdü.",
+          "de": "Die Stadt entstand rund um einen Eisenbahnknoten.",
+          "fr": "La ville s'est développée autour d'un nœud ferroviaire.",
+          "it": "La città è cresciuta intorno a un nodo ferroviario.",
+          "es": "El pueblo creció alrededor de un empalme ferroviario."
+        }
+      ]
+    },
+    {
+      "id": "juncture",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "junct",
+        "-ure"
+      ],
+      "gloss": {
+        "en": "a particular point in time",
+        "tr": "an, aşama, nokta",
+        "de": "der Zeitpunkt, der Punkt",
+        "fr": "le stade, le moment",
+        "it": "il punto, il momento",
+        "es": "el momento, la coyuntura"
+      },
+      "sentences": [
+        {
+          "en": "At this [juncture], we need to decide.",
+          "tr": "Bu aşamada karar vermemiz gerekiyor.",
+          "de": "An diesem Punkt müssen wir uns entscheiden.",
+          "fr": "À ce stade, nous devons décider.",
+          "it": "A questo punto dobbiamo decidere.",
+          "es": "En este momento tenemos que decidir."
+        },
+        {
+          "en": "The talks are at a critical [juncture].",
+          "tr": "Görüşmeler kritik bir noktada.",
+          "de": "Die Gespräche befinden sich an einem kritischen Punkt.",
+          "fr": "Les négociations sont à un moment critique.",
+          "it": "I colloqui sono a un punto critico.",
+          "es": "Las negociaciones están en un momento crítico."
+        }
+      ]
+    },
+    {
+      "id": "conjunction",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "con-",
+        "junct",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a word like 'and' or 'but'; (in conjunction with) together with",
+        "tr": "bağlaç; birliktelik",
+        "de": "die Konjunktion, das Bindewort",
+        "fr": "la conjonction",
+        "it": "la congiunzione",
+        "es": "la conjunción"
+      },
+      "sentences": [
+        {
+          "en": "\"And\" and \"but\" are [conjunctions].",
+          "tr": "\"And\" ve \"but\" bağlaçtır.",
+          "de": "„And“ und „but“ sind Konjunktionen.",
+          "fr": "« And » et « but » sont des conjonctions.",
+          "it": "«And» e «but» sono congiunzioni.",
+          "es": "«And» y «but» son conjunciones."
+        },
+        {
+          "en": "The police worked in [conjunction] with the army.",
+          "tr": "Polis orduyla birlikte çalıştı.",
+          "de": "Die Polizei arbeitete zusammen mit der Armee.",
+          "fr": "La police a travaillé conjointement avec l'armée.",
+          "it": "La polizia ha lavorato insieme all'esercito.",
+          "es": "La policía trabajó junto con el ejército."
+        }
+      ]
+    },
+    {
+      "id": "injunction",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "in-",
+        "junct",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "an official court order to stop doing something (literally: something joined onto, an order)",
+        "tr": "ihtiyati tedbir kararı",
+        "de": "die einstweilige Verfügung",
+        "fr": "l'injonction, l'ordonnance",
+        "it": "l'ingiunzione",
+        "es": "el requerimiento judicial"
+      },
+      "sentences": [
+        {
+          "en": "The court issued an [injunction] against the company.",
+          "tr": "Mahkeme şirkete karşı tedbir kararı verdi.",
+          "de": "Das Gericht erließ eine einstweilige Verfügung gegen die Firma.",
+          "fr": "Le tribunal a prononcé une injonction contre l'entreprise.",
+          "it": "Il tribunale ha emesso un'ingiunzione contro l'azienda.",
+          "es": "El tribunal dictó un requerimiento contra la empresa."
+        },
+        {
+          "en": "An [injunction] stopped the building work.",
+          "tr": "Bir tedbir kararı inşaatı durdurdu.",
+          "de": "Eine einstweilige Verfügung stoppte die Bauarbeiten.",
+          "fr": "Une ordonnance a arrêté les travaux.",
+          "it": "Un'ingiunzione ha fermato i lavori.",
+          "es": "Un requerimiento judicial paró las obras."
+        }
+      ]
+    },
+    {
+      "id": "adjunct",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "ad-",
+        "junct"
+      ],
+      "gloss": {
+        "en": "something added to a main thing (literally: joined to)",
+        "tr": "ek, tamamlayıcı",
+        "de": "die Ergänzung, der Zusatz",
+        "fr": "le complément",
+        "it": "il complemento, l'aggiunta",
+        "es": "el complemento"
+      },
+      "sentences": [
+        {
+          "en": "The app is an [adjunct] to the textbook, not a replacement.",
+          "tr": "Uygulama ders kitabının yerine değil, tamamlayıcısı.",
+          "de": "Die App ist eine Ergänzung zum Lehrbuch, kein Ersatz.",
+          "fr": "L'appli est un complément du manuel, pas un remplacement.",
+          "it": "L'app è un complemento al libro, non un sostituto.",
+          "es": "La aplicación es un complemento del libro, no un sustituto."
+        },
+        {
+          "en": "Exercise is a useful [adjunct] to medicine.",
+          "tr": "Egzersiz tedaviye yararlı bir ektir.",
+          "de": "Bewegung ist eine nützliche Ergänzung zur Medizin.",
+          "fr": "L'exercice est un complément utile aux médicaments.",
+          "it": "L'esercizio è un'utile aggiunta ai farmaci.",
+          "es": "El ejercicio es un complemento útil de la medicina."
+        }
+      ]
+    },
+    {
+      "id": "subjunctive",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "sub-",
+        "junct",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "a verb form for wishes or unreal things, as in 'if I were you' (literally: joined under, in a dependent clause)",
+        "tr": "dilek kipi",
+        "de": "der Konjunktiv",
+        "fr": "le subjonctif",
+        "it": "il congiuntivo",
+        "es": "el subjuntivo"
+      },
+      "sentences": [
+        {
+          "en": "Spanish uses the [subjunctive] a lot.",
+          "tr": "İspanyolca dilek kipini çok kullanır.",
+          "de": "Im Spanischen benutzt man den Subjuntivo sehr oft.",
+          "fr": "L'espagnol utilise beaucoup le subjonctif.",
+          "it": "Lo spagnolo usa molto il congiuntivo.",
+          "es": "El español usa mucho el subjuntivo."
+        },
+        {
+          "en": "\"If I were rich\" is in the [subjunctive].",
+          "tr": "\"If I were rich\" dilek kipindedir.",
+          "de": "„If I were rich“ steht im Konjunktiv.",
+          "fr": "« If I were rich » est au subjonctif.",
+          "it": "«If I were rich» è al congiuntivo.",
+          "es": "«If I were rich» está en subjuntivo."
+        }
+      ]
+    }
+  ]
+}

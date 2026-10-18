@@ -325,6 +325,85 @@
     ]
   },
   {
+    "id": "form",
+    "forms": [
+      "form"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "shape",
+      "tr": "biçim, şekil",
+      "de": "Form, Gestalt",
+      "fr": "forme",
+      "it": "forma",
+      "es": "forma"
+    },
+    "words": [
+      "form",
+      "formal",
+      "informal",
+      "formality",
+      "formation",
+      "formative",
+      "formula",
+      "formless",
+      "inform",
+      "information",
+      "informative",
+      "misinform",
+      "transform",
+      "transformation",
+      "reform",
+      "reformer",
+      "conform",
+      "conformity",
+      "uniform",
+      "deform",
+      "deformity",
+      "platform"
+    ]
+  },
+  {
+    "id": "grad",
+    "forms": [
+      "grad",
+      "grade",
+      "gress",
+      "gredi"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to step; a step",
+      "tr": "adım atmak; adım, basamak",
+      "de": "schreiten; der Schritt, die Stufe",
+      "fr": "marcher; le pas, le degré",
+      "it": "camminare; il passo, il grado",
+      "es": "caminar; el paso, el grado"
+    },
+    "words": [
+      "grade",
+      "gradual",
+      "gradually",
+      "gradient",
+      "graduate",
+      "graduation",
+      "upgrade",
+      "downgrade",
+      "degrade",
+      "centigrade",
+      "retrograde",
+      "progress",
+      "progressive",
+      "progression",
+      "aggressive",
+      "aggression",
+      "congress",
+      "digress",
+      "regress",
+      "ingredient"
+    ]
+  },
+  {
     "id": "ject",
     "forms": [
       "ject"
@@ -359,6 +438,39 @@
       "dejected",
       "conjecture",
       "adjective"
+    ]
+  },
+  {
+    "id": "junct",
+    "forms": [
+      "junct",
+      "join"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to join",
+      "tr": "birleştirmek, bağlamak",
+      "de": "verbinden",
+      "fr": "joindre, unir",
+      "it": "unire, congiungere",
+      "es": "unir, juntar"
+    },
+    "words": [
+      "join",
+      "joiner",
+      "joint",
+      "jointly",
+      "disjointed",
+      "adjoin",
+      "adjoining",
+      "rejoin",
+      "conjoined",
+      "junction",
+      "juncture",
+      "conjunction",
+      "injunction",
+      "adjunct",
+      "subjunctive"
     ]
   },
   {

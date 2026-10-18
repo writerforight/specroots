@@ -1,0 +1,726 @@
+{
+  "id": "grad",
+  "forms": [
+    "grad",
+    "grade",
+    "gress",
+    "gredi"
+  ],
+  "origin": "la",
+  "etymon": "gradi, gradus",
+  "meaning": {
+    "en": "to step; a step",
+    "tr": "adım atmak; adım, basamak",
+    "de": "schreiten; der Schritt, die Stufe",
+    "fr": "marcher; le pas, le degré",
+    "it": "camminare; il passo, il grado",
+    "es": "caminar; el paso, el grado"
+  },
+  "words": [
+    {
+      "id": "grade",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "grade"
+      ],
+      "gloss": {
+        "en": "a level of quality; a mark for school work (literally: a step)",
+        "tr": "not; derece, kalite",
+        "de": "die Note; die Qualitätsstufe",
+        "fr": "la note; la qualité",
+        "it": "il voto; la qualità",
+        "es": "la nota; la calidad"
+      },
+      "sentences": [
+        {
+          "en": "She got a good [grade] in maths.",
+          "tr": "Matematikten iyi not aldı.",
+          "de": "Sie hat eine gute Note in Mathe bekommen.",
+          "fr": "Elle a eu une bonne note en maths.",
+          "it": "Ha preso un bel voto in matematica.",
+          "es": "Sacó buena nota en matemáticas."
+        },
+        {
+          "en": "This is high-[grade] steel.",
+          "tr": "Bu yüksek kaliteli çelik.",
+          "de": "Das ist hochwertiger Stahl.",
+          "fr": "C'est de l'acier de haute qualité.",
+          "it": "È acciaio di alta qualità.",
+          "es": "Es acero de alta calidad."
+        }
+      ]
+    },
+    {
+      "id": "gradual",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "grad",
+        "-ual"
+      ],
+      "gloss": {
+        "en": "happening slowly, step by step",
+        "tr": "kademeli, yavaş yavaş olan",
+        "de": "allmählich, schrittweise",
+        "fr": "progressif",
+        "it": "graduale",
+        "es": "gradual, progresivo"
+      },
+      "sentences": [
+        {
+          "en": "There was a [gradual] change in the weather.",
+          "tr": "Havada yavaş yavaş bir değişim oldu.",
+          "de": "Das Wetter änderte sich allmählich.",
+          "fr": "Le temps a changé de façon progressive.",
+          "it": "C'è stato un cambiamento graduale del tempo.",
+          "es": "Hubo un cambio gradual en el tiempo."
+        },
+        {
+          "en": "Learning a language is a [gradual] process.",
+          "tr": "Dil öğrenmek kademeli bir süreçtir.",
+          "de": "Eine Sprache zu lernen ist ein schrittweiser Prozess.",
+          "fr": "Apprendre une langue est un processus progressif.",
+          "it": "Imparare una lingua è un processo graduale.",
+          "es": "Aprender un idioma es un proceso gradual."
+        }
+      ]
+    },
+    {
+      "id": "gradually",
+      "pos": "adverb",
+      "parent": "gradual",
+      "parts": [
+        "grad",
+        "-ual",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "slowly, step by step",
+        "tr": "yavaş yavaş, giderek",
+        "de": "allmählich, nach und nach",
+        "fr": "peu à peu, progressivement",
+        "it": "a poco a poco, gradualmente",
+        "es": "poco a poco, gradualmente"
+      },
+      "sentences": [
+        {
+          "en": "The room [gradually] got darker.",
+          "tr": "Oda yavaş yavaş karardı.",
+          "de": "Das Zimmer wurde allmählich dunkler.",
+          "fr": "La pièce s'est peu à peu assombrie.",
+          "it": "La stanza è diventata a poco a poco più buia.",
+          "es": "La habitación se fue oscureciendo poco a poco."
+        },
+        {
+          "en": "Add the milk [gradually] while you stir.",
+          "tr": "Karıştırırken sütü yavaş yavaş ekle.",
+          "de": "Gib die Milch unter Rühren nach und nach dazu.",
+          "fr": "Ajoute le lait progressivement en remuant.",
+          "it": "Aggiungi il latte a poco a poco mescolando.",
+          "es": "Añade la leche poco a poco mientras remueves."
+        }
+      ]
+    },
+    {
+      "id": "gradient",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "grad",
+        "-ient"
+      ],
+      "gloss": {
+        "en": "how steep a slope is; a slow change of colour or value",
+        "tr": "eğim; renk geçişi; gradyan",
+        "de": "die Steigung; der Farbverlauf; der Gradient",
+        "fr": "la pente; le dégradé; le gradient",
+        "it": "la pendenza; la sfumatura; il gradiente",
+        "es": "la pendiente; el degradado; el gradiente"
+      },
+      "sentences": [
+        {
+          "en": "The road has a steep [gradient] near the top.",
+          "tr": "Yolun zirveye yakın kısmında dik bir eğim var.",
+          "de": "Die Straße hat kurz vor dem Gipfel eine starke Steigung.",
+          "fr": "La route a une forte pente près du sommet.",
+          "it": "La strada ha una forte pendenza vicino alla cima.",
+          "es": "La carretera tiene una fuerte pendiente cerca de la cima."
+        },
+        {
+          "en": "The background is a [gradient] from blue to white.",
+          "tr": "Arka plan maviden beyaza bir renk geçişi.",
+          "de": "Der Hintergrund ist ein Farbverlauf von Blau zu Weiß.",
+          "fr": "Le fond est un dégradé du bleu au blanc.",
+          "it": "Lo sfondo è una sfumatura dal blu al bianco.",
+          "es": "El fondo es un degradado de azul a blanco."
+        }
+      ]
+    },
+    {
+      "id": "graduate",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "grad",
+        "-uate"
+      ],
+      "gloss": {
+        "en": "to finish a course at a school or university (literally: to take a step, a degree)",
+        "tr": "mezun olmak",
+        "de": "den Abschluss machen",
+        "fr": "obtenir son diplôme",
+        "it": "laurearsi, diplomarsi",
+        "es": "graduarse"
+      },
+      "sentences": [
+        {
+          "en": "She [graduated] from university last year.",
+          "tr": "Geçen yıl üniversiteden mezun oldu.",
+          "de": "Sie hat letztes Jahr ihren Uniabschluss gemacht.",
+          "fr": "Elle a obtenu son diplôme universitaire l'an dernier.",
+          "it": "Si è laureata l'anno scorso.",
+          "es": "Se graduó en la universidad el año pasado."
+        },
+        {
+          "en": "I want to [graduate] before I turn twenty-five.",
+          "tr": "Yirmi beş yaşından önce mezun olmak istiyorum.",
+          "de": "Ich will meinen Abschluss machen, bevor ich fünfundzwanzig werde.",
+          "fr": "Je veux être diplômé avant mes vingt-cinq ans.",
+          "it": "Voglio laurearmi prima dei venticinque anni.",
+          "es": "Quiero graduarme antes de cumplir veinticinco años."
+        }
+      ]
+    },
+    {
+      "id": "graduation",
+      "pos": "noun",
+      "parent": "graduate",
+      "parts": [
+        "grad",
+        "-uation"
+      ],
+      "gloss": {
+        "en": "finishing school or university; the ceremony for it",
+        "tr": "mezuniyet; mezuniyet töreni",
+        "de": "der Abschluss; die Abschlussfeier",
+        "fr": "l'obtention du diplôme; la remise des diplômes",
+        "it": "la laurea; la cerimonia di laurea",
+        "es": "la graduación"
+      },
+      "sentences": [
+        {
+          "en": "My parents came to my [graduation].",
+          "tr": "Ailem mezuniyet törenime geldi.",
+          "de": "Meine Eltern kamen zu meiner Abschlussfeier.",
+          "fr": "Mes parents sont venus à ma remise de diplôme.",
+          "it": "I miei genitori sono venuti alla mia laurea.",
+          "es": "Mis padres vinieron a mi graduación."
+        },
+        {
+          "en": "After [graduation], he moved to Berlin.",
+          "tr": "Mezun olduktan sonra Berlin'e taşındı.",
+          "de": "Nach dem Abschluss zog er nach Berlin.",
+          "fr": "Après son diplôme, il a déménagé à Berlin.",
+          "it": "Dopo la laurea si è trasferito a Berlino.",
+          "es": "Después de graduarse, se mudó a Berlín."
+        }
+      ]
+    },
+    {
+      "id": "upgrade",
+      "pos": "verb",
+      "parent": "grade",
+      "parts": [
+        "up-",
+        "grade"
+      ],
+      "gloss": {
+        "en": "to make something better or newer",
+        "tr": "yükseltmek, iyileştirmek",
+        "de": "aufrüsten, hochstufen",
+        "fr": "améliorer, surclasser",
+        "it": "potenziare, migliorare",
+        "es": "mejorar, ampliar"
+      },
+      "sentences": [
+        {
+          "en": "I [upgraded] my laptop's memory.",
+          "tr": "Dizüstü bilgisayarımın belleğini yükselttim.",
+          "de": "Ich habe den Arbeitsspeicher meines Laptops aufgerüstet.",
+          "fr": "J'ai augmenté la mémoire de mon ordinateur portable.",
+          "it": "Ho potenziato la memoria del mio portatile.",
+          "es": "Amplié la memoria de mi portátil."
+        },
+        {
+          "en": "The airline [upgraded] us to business class.",
+          "tr": "Havayolu bizi business sınıfına geçirdi.",
+          "de": "Die Fluggesellschaft stufte uns in die Businessklasse hoch.",
+          "fr": "La compagnie nous a surclassés en classe affaires.",
+          "it": "La compagnia ci ha spostati in business class.",
+          "es": "La aerolínea nos subió a clase business."
+        }
+      ]
+    },
+    {
+      "id": "downgrade",
+      "pos": "verb",
+      "parent": "grade",
+      "parts": [
+        "down-",
+        "grade"
+      ],
+      "gloss": {
+        "en": "to lower in level or value",
+        "tr": "seviyesini düşürmek",
+        "de": "herabstufen",
+        "fr": "rétrograder, abaisser",
+        "it": "declassare",
+        "es": "rebajar, degradar"
+      },
+      "sentences": [
+        {
+          "en": "The storm was [downgraded] overnight.",
+          "tr": "Fırtınanın seviyesi gece boyunca düşürüldü.",
+          "de": "Der Sturm wurde über Nacht herabgestuft.",
+          "fr": "La tempête a été rétrogradée pendant la nuit.",
+          "it": "La tempesta è stata declassata durante la notte.",
+          "es": "La tormenta se rebajó de categoría durante la noche."
+        },
+        {
+          "en": "Banks [downgraded] the country's credit rating.",
+          "tr": "Bankalar ülkenin kredi notunu düşürdü.",
+          "de": "Die Banken stuften die Kreditwürdigkeit des Landes herab.",
+          "fr": "Les banques ont abaissé la note de crédit du pays.",
+          "it": "Le banche hanno declassato il rating del paese.",
+          "es": "Los bancos rebajaron la calificación crediticia del país."
+        }
+      ]
+    },
+    {
+      "id": "degrade",
+      "pos": "verb",
+      "parent": "grade",
+      "parts": [
+        "de-",
+        "grade"
+      ],
+      "gloss": {
+        "en": "to become or make worse; to break down slowly; to treat without respect (literally: to step down)",
+        "tr": "bozulmak, çözünmek; kalitesini düşürmek",
+        "de": "sich abbauen; verschlechtern",
+        "fr": "se dégrader; dégrader",
+        "it": "degradarsi; degradare",
+        "es": "degradarse; degradar"
+      },
+      "sentences": [
+        {
+          "en": "Plastic takes hundreds of years to [degrade].",
+          "tr": "Plastiğin çözünmesi yüzlerce yıl sürer.",
+          "de": "Plastik braucht Hunderte von Jahren, um sich abzubauen.",
+          "fr": "Le plastique met des centaines d'années à se dégrader.",
+          "it": "La plastica impiega centinaia di anni a degradarsi.",
+          "es": "El plástico tarda cientos de años en degradarse."
+        },
+        {
+          "en": "Low light [degrades] the quality of the photo.",
+          "tr": "Az ışık fotoğrafın kalitesini düşürür.",
+          "de": "Wenig Licht verschlechtert die Bildqualität.",
+          "fr": "Le manque de lumière dégrade la qualité de la photo.",
+          "it": "La poca luce degrada la qualità della foto.",
+          "es": "La poca luz degrada la calidad de la foto."
+        }
+      ]
+    },
+    {
+      "id": "centigrade",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "centi-",
+        "grade"
+      ],
+      "gloss": {
+        "en": "using a scale where water freezes at 0 and boils at 100 (literally: a hundred steps)",
+        "tr": "santigrat",
+        "de": "Celsius",
+        "fr": "Celsius, centigrade",
+        "it": "centigrado",
+        "es": "centígrado"
+      },
+      "sentences": [
+        {
+          "en": "Water boils at 100 degrees [centigrade].",
+          "tr": "Su 100 santigrat derecede kaynar.",
+          "de": "Wasser kocht bei 100 Grad Celsius.",
+          "fr": "L'eau bout à 100 degrés Celsius.",
+          "it": "L'acqua bolle a 100 gradi centigradi.",
+          "es": "El agua hierve a 100 grados centígrados."
+        },
+        {
+          "en": "It was 35 degrees [centigrade] in the shade.",
+          "tr": "Gölgede 35 santigrat dereceydi.",
+          "de": "Es waren 35 Grad Celsius im Schatten.",
+          "fr": "Il faisait 35 degrés Celsius à l'ombre.",
+          "it": "C'erano 35 gradi centigradi all'ombra.",
+          "es": "Hacía 35 grados centígrados a la sombra."
+        }
+      ]
+    },
+    {
+      "id": "retrograde",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "retro-",
+        "grade"
+      ],
+      "gloss": {
+        "en": "moving backward; going back to a worse state (literally: stepping backward)",
+        "tr": "geriye giden; gerici",
+        "de": "rückläufig; rückschrittlich",
+        "fr": "rétrograde",
+        "it": "retrogrado",
+        "es": "retrógrado"
+      },
+      "sentences": [
+        {
+          "en": "Closing the library is a [retrograde] step.",
+          "tr": "Kütüphaneyi kapatmak geriye doğru bir adım.",
+          "de": "Die Schließung der Bibliothek ist ein Rückschritt.",
+          "fr": "Fermer la bibliothèque serait un pas en arrière.",
+          "it": "Chiudere la biblioteca è un passo indietro.",
+          "es": "Cerrar la biblioteca es un paso atrás."
+        },
+        {
+          "en": "Some planets seem to move in [retrograde] motion.",
+          "tr": "Bazı gezegenler geriye doğru hareket ediyormuş gibi görünür.",
+          "de": "Manche Planeten scheinen sich rückläufig zu bewegen.",
+          "fr": "Certaines planètes semblent avoir un mouvement rétrograde.",
+          "it": "Alcuni pianeti sembrano muoversi di moto retrogrado.",
+          "es": "Algunos planetas parecen moverse con movimiento retrógrado."
+        }
+      ]
+    },
+    {
+      "id": "progress",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "pro-",
+        "gress"
+      ],
+      "gloss": {
+        "en": "movement toward a goal (literally: a stepping forward)",
+        "tr": "ilerleme, gelişme",
+        "de": "der Fortschritt",
+        "fr": "le progrès",
+        "it": "il progresso",
+        "es": "el progreso, los avances"
+      },
+      "sentences": [
+        {
+          "en": "You've made good [progress] this term.",
+          "tr": "Bu dönem iyi ilerleme kaydettin.",
+          "de": "Du hast in diesem Halbjahr gute Fortschritte gemacht.",
+          "fr": "Tu as fait de bons progrès ce trimestre.",
+          "it": "Hai fatto buoni progressi questo trimestre.",
+          "es": "Has hecho buenos progresos este trimestre."
+        },
+        {
+          "en": "Work on the bridge is in [progress].",
+          "tr": "Köprüdeki çalışmalar sürüyor.",
+          "de": "Die Arbeiten an der Brücke sind im Gange.",
+          "fr": "Les travaux sur le pont sont en cours.",
+          "it": "I lavori sul ponte sono in corso.",
+          "es": "Las obras del puente están en curso."
+        }
+      ]
+    },
+    {
+      "id": "progressive",
+      "pos": "adjective",
+      "parent": "progress",
+      "parts": [
+        "pro-",
+        "gress",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "supporting new ideas; happening step by step",
+        "tr": "ilerici; giderek artan",
+        "de": "fortschrittlich; fortschreitend",
+        "fr": "progressiste; progressif",
+        "it": "progressista; progressivo",
+        "es": "progresista; progresivo"
+      },
+      "sentences": [
+        {
+          "en": "The city has a [progressive] mayor.",
+          "tr": "Şehrin ilerici bir belediye başkanı var.",
+          "de": "Die Stadt hat eine fortschrittliche Bürgermeisterin.",
+          "fr": "La ville a une maire progressiste.",
+          "it": "La città ha una sindaca progressista.",
+          "es": "La ciudad tiene una alcaldesa progresista."
+        },
+        {
+          "en": "The disease causes [progressive] loss of sight.",
+          "tr": "Hastalık giderek artan görme kaybına yol açıyor.",
+          "de": "Die Krankheit führt zu fortschreitendem Sehverlust.",
+          "fr": "La maladie provoque une perte progressive de la vue.",
+          "it": "La malattia causa una perdita progressiva della vista.",
+          "es": "La enfermedad provoca una pérdida progresiva de la vista."
+        }
+      ]
+    },
+    {
+      "id": "progression",
+      "pos": "noun",
+      "parent": "progress",
+      "parts": [
+        "pro-",
+        "gress",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "moving from one stage to the next; a series",
+        "tr": "ilerleyiş; dizi",
+        "de": "der Verlauf; die Folge",
+        "fr": "la progression",
+        "it": "la progressione",
+        "es": "la progresión"
+      },
+      "sentences": [
+        {
+          "en": "The game has a natural [progression] of levels.",
+          "tr": "Oyunda seviyeler doğal bir sırayla ilerliyor.",
+          "de": "Das Spiel hat eine natürliche Abfolge von Levels.",
+          "fr": "Le jeu a une progression naturelle des niveaux.",
+          "it": "Il gioco ha una progressione naturale dei livelli.",
+          "es": "El juego tiene una progresión natural de niveles."
+        },
+        {
+          "en": "The song uses a simple chord [progression].",
+          "tr": "Şarkı basit bir akor dizisi kullanıyor.",
+          "de": "Das Lied benutzt eine einfache Akkordfolge.",
+          "fr": "La chanson utilise une suite d'accords simple.",
+          "it": "La canzone usa una semplice progressione di accordi.",
+          "es": "La canción usa una progresión de acordes sencilla."
+        }
+      ]
+    },
+    {
+      "id": "aggressive",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "ag-",
+        "gress",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "angry and ready to attack; very forceful (literally: stepping toward)",
+        "tr": "saldırgan; agresif",
+        "de": "aggressiv",
+        "fr": "agressif",
+        "it": "aggressivo",
+        "es": "agresivo"
+      },
+      "sentences": [
+        {
+          "en": "The dog became [aggressive] when we came close.",
+          "tr": "Yaklaşınca köpek saldırganlaştı.",
+          "de": "Der Hund wurde aggressiv, als wir näher kamen.",
+          "fr": "Le chien est devenu agressif quand on s'est approchés.",
+          "it": "Il cane è diventato aggressivo quando ci siamo avvicinati.",
+          "es": "El perro se puso agresivo cuando nos acercamos."
+        },
+        {
+          "en": "They used [aggressive] marketing to sell the app.",
+          "tr": "Uygulamayı satmak için agresif bir pazarlama kullandılar.",
+          "de": "Sie verkauften die App mit aggressivem Marketing.",
+          "fr": "Ils ont utilisé un marketing agressif pour vendre l'appli.",
+          "it": "Hanno usato un marketing aggressivo per vendere l'app.",
+          "es": "Usaron un marketing agresivo para vender la aplicación."
+        }
+      ]
+    },
+    {
+      "id": "aggression",
+      "pos": "noun",
+      "parent": "aggressive",
+      "parts": [
+        "ag-",
+        "gress",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "angry, violent behaviour; an attack",
+        "tr": "saldırganlık; saldırı",
+        "de": "die Aggression",
+        "fr": "l'agressivité; l'agression",
+        "it": "l'aggressività; l'aggressione",
+        "es": "la agresividad; la agresión"
+      },
+      "sentences": [
+        {
+          "en": "Lack of sleep can lead to [aggression].",
+          "tr": "Uykusuzluk saldırganlığa yol açabilir.",
+          "de": "Schlafmangel kann zu Aggression führen.",
+          "fr": "Le manque de sommeil peut mener à l'agressivité.",
+          "it": "La mancanza di sonno può portare all'aggressività.",
+          "es": "La falta de sueño puede provocar agresividad."
+        },
+        {
+          "en": "The attack was an act of [aggression].",
+          "tr": "Saldırı düşmanca bir eylemdi.",
+          "de": "Der Angriff war ein Akt der Aggression.",
+          "fr": "L'attaque était un acte d'agression.",
+          "it": "L'attacco è stato un atto di aggressione.",
+          "es": "El ataque fue un acto de agresión."
+        }
+      ]
+    },
+    {
+      "id": "congress",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "con-",
+        "gress"
+      ],
+      "gloss": {
+        "en": "a large formal meeting; the law-making group in some countries (literally: a stepping together)",
+        "tr": "kongre; meclis",
+        "de": "der Kongress",
+        "fr": "le congrès",
+        "it": "il congresso",
+        "es": "el congreso"
+      },
+      "sentences": [
+        {
+          "en": "Doctors from forty countries met at the [congress].",
+          "tr": "Kırk ülkeden doktorlar kongrede bir araya geldi.",
+          "de": "Ärzte aus vierzig Ländern trafen sich auf dem Kongress.",
+          "fr": "Des médecins de quarante pays se sont réunis au congrès.",
+          "it": "Medici di quaranta paesi si sono riuniti al congresso.",
+          "es": "Médicos de cuarenta países se reunieron en el congreso."
+        },
+        {
+          "en": "The law was passed by [Congress].",
+          "tr": "Yasa Kongre tarafından kabul edildi.",
+          "de": "Das Gesetz wurde vom Kongress verabschiedet.",
+          "fr": "La loi a été adoptée par le Congrès.",
+          "it": "La legge è stata approvata dal Congresso.",
+          "es": "La ley fue aprobada por el Congreso."
+        }
+      ]
+    },
+    {
+      "id": "digress",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "di-",
+        "gress"
+      ],
+      "gloss": {
+        "en": "to talk about something that is not the main subject (literally: to step aside)",
+        "tr": "konudan sapmak",
+        "de": "abschweifen",
+        "fr": "s'écarter du sujet, digresser",
+        "it": "divagare",
+        "es": "desviarse del tema"
+      },
+      "sentences": [
+        {
+          "en": "Sorry, I [digress]; let's go back to the plan.",
+          "tr": "Pardon, konudan saptım; plana dönelim.",
+          "de": "Entschuldigung, ich schweife ab; zurück zum Plan.",
+          "fr": "Pardon, je m'égare ; revenons au plan.",
+          "it": "Scusate, divago; torniamo al piano.",
+          "es": "Perdón, me desvío; volvamos al plan."
+        },
+        {
+          "en": "The teacher often [digresses] into funny stories.",
+          "tr": "Öğretmen sık sık konudan sapıp komik hikâyeler anlatır.",
+          "de": "Der Lehrer schweift oft zu lustigen Geschichten ab.",
+          "fr": "Le professeur se lance souvent dans des histoires drôles.",
+          "it": "L'insegnante divaga spesso in storie divertenti.",
+          "es": "El profesor a menudo se desvía con historias divertidas."
+        }
+      ]
+    },
+    {
+      "id": "regress",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "re-",
+        "gress"
+      ],
+      "gloss": {
+        "en": "to go back to an earlier, worse state (literally: to step back)",
+        "tr": "gerilemek",
+        "de": "sich zurückentwickeln",
+        "fr": "régresser",
+        "it": "regredire",
+        "es": "retroceder"
+      },
+      "sentences": [
+        {
+          "en": "Without practice, your skills will [regress].",
+          "tr": "Pratik yapmazsan becerilerin geriler.",
+          "de": "Ohne Übung bilden sich deine Fähigkeiten zurück.",
+          "fr": "Sans entraînement, tes compétences vont régresser.",
+          "it": "Senza pratica, le tue abilità regrediranno.",
+          "es": "Sin práctica, tus habilidades retrocederán."
+        },
+        {
+          "en": "Under stress, some children [regress] and act younger.",
+          "tr": "Stres altında bazı çocuklar geriler ve daha küçük gibi davranır.",
+          "de": "Unter Stress fallen manche Kinder in jüngere Verhaltensweisen zurück.",
+          "fr": "Sous le stress, certains enfants régressent et se comportent comme des plus petits.",
+          "it": "Sotto stress alcuni bambini regrediscono e si comportano da più piccoli.",
+          "es": "Con estrés, algunos niños retroceden y actúan como si fueran más pequeños."
+        }
+      ]
+    },
+    {
+      "id": "ingredient",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "in-",
+        "gredi",
+        "-ent"
+      ],
+      "gloss": {
+        "en": "one of the foods in a recipe; one part of something (literally: something that steps in)",
+        "tr": "malzeme; unsur",
+        "de": "die Zutat; der Bestandteil",
+        "fr": "l'ingrédient",
+        "it": "l'ingrediente",
+        "es": "el ingrediente"
+      },
+      "sentences": [
+        {
+          "en": "Mix all the [ingredients] in a bowl.",
+          "tr": "Bütün malzemeleri bir kâsede karıştır.",
+          "de": "Misch alle Zutaten in einer Schüssel.",
+          "fr": "Mélange tous les ingrédients dans un bol.",
+          "it": "Mescola tutti gli ingredienti in una ciotola.",
+          "es": "Mezcla todos los ingredientes en un bol."
+        },
+        {
+          "en": "Trust is the key [ingredient] of friendship.",
+          "tr": "Güven arkadaşlığın en önemli unsurudur.",
+          "de": "Vertrauen ist der wichtigste Bestandteil einer Freundschaft.",
+          "fr": "La confiance est l'ingrédient essentiel de l'amitié.",
+          "it": "La fiducia è l'ingrediente chiave dell'amicizia.",
+          "es": "La confianza es el ingrediente clave de la amistad."
+        }
+      ]
+    }
+  ]
+}

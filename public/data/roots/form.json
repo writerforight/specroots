@@ -1,0 +1,796 @@
+{
+  "id": "form",
+  "forms": [
+    "form"
+  ],
+  "origin": "la",
+  "etymon": "forma",
+  "meaning": {
+    "en": "shape",
+    "tr": "biçim, şekil",
+    "de": "Form, Gestalt",
+    "fr": "forme",
+    "it": "forma",
+    "es": "forma"
+  },
+  "words": [
+    {
+      "id": "form",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "form"
+      ],
+      "gloss": {
+        "en": "a shape or type; a paper with spaces to fill in",
+        "tr": "biçim, hâl; form",
+        "de": "die Form, die Art; das Formular",
+        "fr": "la forme; le formulaire",
+        "it": "la forma; il modulo",
+        "es": "la forma; el formulario"
+      },
+      "sentences": [
+        {
+          "en": "Fill in this [form] and sign it.",
+          "tr": "Bu formu doldurup imzala.",
+          "de": "Füll dieses Formular aus und unterschreib es.",
+          "fr": "Remplis ce formulaire et signe-le.",
+          "it": "Compila questo modulo e firmalo.",
+          "es": "Rellena este formulario y fírmalo."
+        },
+        {
+          "en": "Ice is a [form] of water.",
+          "tr": "Buz, suyun bir hâlidir.",
+          "de": "Eis ist eine Form von Wasser.",
+          "fr": "La glace est une forme d'eau.",
+          "it": "Il ghiaccio è una forma d'acqua.",
+          "es": "El hielo es una forma de agua."
+        }
+      ]
+    },
+    {
+      "id": "formal",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "form",
+        "-al"
+      ],
+      "gloss": {
+        "en": "serious and following rules, not relaxed",
+        "tr": "resmî",
+        "de": "formell, offiziell",
+        "fr": "habillé, officiel",
+        "it": "formale",
+        "es": "formal"
+      },
+      "sentences": [
+        {
+          "en": "Wear a [formal] suit to the interview.",
+          "tr": "Mülakata resmî bir takım elbise giy.",
+          "de": "Trag zum Vorstellungsgespräch einen formellen Anzug.",
+          "fr": "Mets un costume habillé pour l'entretien.",
+          "it": "Indossa un abito formale al colloquio.",
+          "es": "Ponte un traje formal para la entrevista."
+        },
+        {
+          "en": "We received a [formal] invitation.",
+          "tr": "Resmî bir davet aldık.",
+          "de": "Wir haben eine offizielle Einladung bekommen.",
+          "fr": "Nous avons reçu une invitation officielle.",
+          "it": "Abbiamo ricevuto un invito formale.",
+          "es": "Recibimos una invitación formal."
+        }
+      ]
+    },
+    {
+      "id": "informal",
+      "pos": "adjective",
+      "parent": "formal",
+      "parts": [
+        "in-not-",
+        "form",
+        "-al"
+      ],
+      "gloss": {
+        "en": "relaxed and friendly, not official",
+        "tr": "gayriresmî, samimi",
+        "de": "informell, locker",
+        "fr": "décontracté, familier",
+        "it": "informale",
+        "es": "informal"
+      },
+      "sentences": [
+        {
+          "en": "It's an [informal] party, so wear jeans.",
+          "tr": "Resmî olmayan bir parti, kot giyebilirsin.",
+          "de": "Es ist eine lockere Party, also zieh Jeans an.",
+          "fr": "C'est une fête décontractée, mets un jean.",
+          "it": "È una festa informale, mettiti i jeans.",
+          "es": "Es una fiesta informal, ponte vaqueros."
+        },
+        {
+          "en": "Use [informal] language with your friends.",
+          "tr": "Arkadaşlarınla samimi bir dil kullan.",
+          "de": "Benutze mit Freunden eine lockere Sprache.",
+          "fr": "Utilise un langage familier avec tes amis.",
+          "it": "Usa un linguaggio informale con gli amici.",
+          "es": "Usa un lenguaje informal con tus amigos."
+        }
+      ]
+    },
+    {
+      "id": "formality",
+      "pos": "noun",
+      "parent": "formal",
+      "parts": [
+        "form",
+        "-al",
+        "-ity"
+      ],
+      "gloss": {
+        "en": "an official step that must be done; serious, polite behaviour",
+        "tr": "formalite; resmiyet",
+        "de": "die Formalität; die Förmlichkeit",
+        "fr": "la formalité; le formalisme",
+        "it": "la formalità",
+        "es": "el trámite; la formalidad"
+      },
+      "sentences": [
+        {
+          "en": "Signing the paper is just a [formality].",
+          "tr": "Belgeyi imzalamak sadece bir formalite.",
+          "de": "Die Unterschrift ist nur eine Formalität.",
+          "fr": "Signer le papier n'est qu'une formalité.",
+          "it": "Firmare il foglio è solo una formalità.",
+          "es": "Firmar el papel es solo un trámite."
+        },
+        {
+          "en": "There is less [formality] in small companies.",
+          "tr": "Küçük şirketlerde daha az resmiyet var.",
+          "de": "In kleinen Firmen geht es weniger förmlich zu.",
+          "fr": "Il y a moins de formalisme dans les petites entreprises.",
+          "it": "Nelle piccole aziende c'è meno formalità.",
+          "es": "En las empresas pequeñas hay menos formalidad."
+        }
+      ]
+    },
+    {
+      "id": "formation",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "form",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "the way something is made or arranged",
+        "tr": "oluşum; düzen, diziliş",
+        "de": "die Entstehung; die Formation",
+        "fr": "la formation",
+        "it": "la formazione",
+        "es": "la formación"
+      },
+      "sentences": [
+        {
+          "en": "We studied the [formation] of rain clouds.",
+          "tr": "Yağmur bulutlarının oluşumunu inceledik.",
+          "de": "Wir haben die Entstehung von Regenwolken untersucht.",
+          "fr": "Nous avons étudié la formation des nuages de pluie.",
+          "it": "Abbiamo studiato la formazione delle nuvole di pioggia.",
+          "es": "Estudiamos la formación de las nubes de lluvia."
+        },
+        {
+          "en": "The birds flew in a V [formation].",
+          "tr": "Kuşlar V düzeninde uçtu.",
+          "de": "Die Vögel flogen in V-Formation.",
+          "fr": "Les oiseaux volaient en formation en V.",
+          "it": "Gli uccelli volavano in formazione a V.",
+          "es": "Los pájaros volaban en formación de V."
+        }
+      ]
+    },
+    {
+      "id": "formative",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "form",
+        "-ative"
+      ],
+      "gloss": {
+        "en": "having a strong effect on how someone develops",
+        "tr": "şekillendirici",
+        "de": "prägend",
+        "fr": "formateur, déterminant",
+        "it": "formativo",
+        "es": "formativo, decisivo"
+      },
+      "sentences": [
+        {
+          "en": "Your teenage years are [formative].",
+          "tr": "Ergenlik yılları insanı şekillendirir.",
+          "de": "Die Teenagerjahre sind prägend.",
+          "fr": "L'adolescence est une période déterminante.",
+          "it": "Gli anni dell'adolescenza sono formativi.",
+          "es": "La adolescencia es una etapa decisiva."
+        },
+        {
+          "en": "Travel had a [formative] effect on her.",
+          "tr": "Seyahat onu derinden şekillendirdi.",
+          "de": "Das Reisen hat sie stark geprägt.",
+          "fr": "Les voyages ont eu sur elle un effet formateur.",
+          "it": "I viaggi hanno avuto su di lei un effetto formativo.",
+          "es": "Viajar tuvo un efecto formativo en ella."
+        }
+      ]
+    },
+    {
+      "id": "formula",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "form",
+        "-ula"
+      ],
+      "gloss": {
+        "en": "a rule written with letters and numbers; a fixed way to do something (literally: a small form)",
+        "tr": "formül",
+        "de": "die Formel",
+        "fr": "la formule",
+        "it": "la formula",
+        "es": "la fórmula"
+      },
+      "sentences": [
+        {
+          "en": "Learn the [formula] for the area of a circle.",
+          "tr": "Dairenin alanının formülünü öğren.",
+          "de": "Lern die Formel für den Flächeninhalt eines Kreises.",
+          "fr": "Apprends la formule de l'aire d'un cercle.",
+          "it": "Impara la formula dell'area del cerchio.",
+          "es": "Aprende la fórmula del área del círculo."
+        },
+        {
+          "en": "There is no magic [formula] for success.",
+          "tr": "Başarının sihirli bir formülü yok.",
+          "de": "Es gibt keine Zauberformel für Erfolg.",
+          "fr": "Il n'y a pas de formule magique pour réussir.",
+          "it": "Non esiste una formula magica per il successo.",
+          "es": "No hay una fórmula mágica para el éxito."
+        }
+      ]
+    },
+    {
+      "id": "formless",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "form",
+        "-less"
+      ],
+      "gloss": {
+        "en": "without a clear shape",
+        "tr": "şekilsiz, biçimsiz",
+        "de": "formlos, gestaltlos",
+        "fr": "informe",
+        "it": "informe, senza forma",
+        "es": "informe, sin forma"
+      },
+      "sentences": [
+        {
+          "en": "In the fog, the trees were dark, [formless] shapes.",
+          "tr": "Sisin içinde ağaçlar karanlık, şekilsiz gölgelerdi.",
+          "de": "Im Nebel waren die Bäume dunkle, formlose Schatten.",
+          "fr": "Dans le brouillard, les arbres n'étaient que des masses sombres et informes.",
+          "it": "Nella nebbia gli alberi erano ombre scure e informi.",
+          "es": "En la niebla, los árboles eran sombras oscuras e informes."
+        },
+        {
+          "en": "The clay is [formless] until you shape it.",
+          "tr": "Kil, sen şekil verene kadar biçimsizdir.",
+          "de": "Der Ton ist formlos, bis man ihn formt.",
+          "fr": "L'argile est informe tant qu'on ne la façonne pas.",
+          "it": "L'argilla è informe finché non la modelli.",
+          "es": "La arcilla no tiene forma hasta que la moldeas."
+        }
+      ]
+    },
+    {
+      "id": "inform",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "in-",
+        "form"
+      ],
+      "gloss": {
+        "en": "to tell someone facts (literally: to give form to the mind)",
+        "tr": "bilgilendirmek, haber vermek",
+        "de": "informieren, mitteilen",
+        "fr": "informer, prévenir",
+        "it": "informare, avvisare",
+        "es": "informar, avisar"
+      },
+      "sentences": [
+        {
+          "en": "Please [inform] us if you are late.",
+          "tr": "Geç kalırsan lütfen bize haber ver.",
+          "de": "Bitte informiere uns, wenn du dich verspätest.",
+          "fr": "Préviens-nous si tu es en retard, s'il te plaît.",
+          "it": "Per favore, avvisaci se sei in ritardo.",
+          "es": "Por favor, avísanos si llegas tarde."
+        },
+        {
+          "en": "The doctor [informed] him of the results.",
+          "tr": "Doktor onu sonuçlar hakkında bilgilendirdi.",
+          "de": "Der Arzt teilte ihm die Ergebnisse mit.",
+          "fr": "Le médecin l'a informé des résultats.",
+          "it": "Il medico lo ha informato dei risultati.",
+          "es": "El médico le informó de los resultados."
+        }
+      ]
+    },
+    {
+      "id": "information",
+      "pos": "noun",
+      "parent": "inform",
+      "parts": [
+        "in-",
+        "form",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "facts about something",
+        "tr": "bilgi",
+        "de": "die Information, die Angaben",
+        "fr": "les informations, les renseignements",
+        "it": "le informazioni",
+        "es": "la información"
+      },
+      "sentences": [
+        {
+          "en": "For more [information], visit our website.",
+          "tr": "Daha fazla bilgi için web sitemizi ziyaret edin.",
+          "de": "Weitere Informationen finden Sie auf unserer Website.",
+          "fr": "Pour plus d'informations, consultez notre site.",
+          "it": "Per ulteriori informazioni, visitate il nostro sito.",
+          "es": "Para más información, visite nuestra web."
+        },
+        {
+          "en": "The [information] on the sign was wrong.",
+          "tr": "Tabeladaki bilgi yanlıştı.",
+          "de": "Die Angaben auf dem Schild waren falsch.",
+          "fr": "Les informations sur le panneau étaient fausses.",
+          "it": "Le informazioni sul cartello erano sbagliate.",
+          "es": "La información del cartel era incorrecta."
+        }
+      ]
+    },
+    {
+      "id": "informative",
+      "pos": "adjective",
+      "parent": "inform",
+      "parts": [
+        "in-",
+        "form",
+        "-ative"
+      ],
+      "gloss": {
+        "en": "giving useful information",
+        "tr": "bilgilendirici",
+        "de": "informativ, aufschlussreich",
+        "fr": "instructif, informatif",
+        "it": "istruttivo, informativo",
+        "es": "informativo"
+      },
+      "sentences": [
+        {
+          "en": "The talk was short but very [informative].",
+          "tr": "Konuşma kısa ama çok bilgilendiriciydi.",
+          "de": "Der Vortrag war kurz, aber sehr informativ.",
+          "fr": "L'exposé était court mais très instructif.",
+          "it": "Il discorso era breve ma molto istruttivo.",
+          "es": "La charla fue corta pero muy informativa."
+        },
+        {
+          "en": "The museum has [informative] signs in five languages.",
+          "tr": "Müzede beş dilde bilgilendirici tabelalar var.",
+          "de": "Das Museum hat informative Schilder in fünf Sprachen.",
+          "fr": "Le musée a des panneaux explicatifs en cinq langues.",
+          "it": "Il museo ha cartelli informativi in cinque lingue.",
+          "es": "El museo tiene carteles informativos en cinco idiomas."
+        }
+      ]
+    },
+    {
+      "id": "misinform",
+      "pos": "verb",
+      "parent": "inform",
+      "parts": [
+        "mis-",
+        "in-",
+        "form"
+      ],
+      "gloss": {
+        "en": "to give someone wrong information",
+        "tr": "yanlış bilgi vermek",
+        "de": "falsch informieren",
+        "fr": "mal informer, désinformer",
+        "it": "informare male, disinformare",
+        "es": "informar mal, desinformar"
+      },
+      "sentences": [
+        {
+          "en": "I'm sorry, you were [misinformed].",
+          "tr": "Üzgünüm, size yanlış bilgi verilmiş.",
+          "de": "Tut mir leid, man hat Sie falsch informiert.",
+          "fr": "Je suis désolé, on vous a mal informé.",
+          "it": "Mi dispiace, l'hanno informata male.",
+          "es": "Lo siento, le informaron mal."
+        },
+        {
+          "en": "Some websites [misinform] people about health.",
+          "tr": "Bazı siteler insanlara sağlık konusunda yanlış bilgi veriyor.",
+          "de": "Manche Websites informieren Menschen falsch über Gesundheit.",
+          "fr": "Certains sites désinforment les gens sur la santé.",
+          "it": "Alcuni siti disinformano le persone sulla salute.",
+          "es": "Algunas webs desinforman a la gente sobre la salud."
+        }
+      ]
+    },
+    {
+      "id": "transform",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "trans-",
+        "form"
+      ],
+      "gloss": {
+        "en": "to change completely (literally: to change across into another form)",
+        "tr": "dönüştürmek, tamamen değiştirmek",
+        "de": "verwandeln, umgestalten",
+        "fr": "transformer",
+        "it": "trasformare",
+        "es": "transformar"
+      },
+      "sentences": [
+        {
+          "en": "The new park [transformed] the area.",
+          "tr": "Yeni park bölgeyi tamamen değiştirdi.",
+          "de": "Der neue Park hat das Viertel verwandelt.",
+          "fr": "Le nouveau parc a transformé le quartier.",
+          "it": "Il nuovo parco ha trasformato la zona.",
+          "es": "El nuevo parque transformó la zona."
+        },
+        {
+          "en": "A caterpillar [transforms] into a butterfly.",
+          "tr": "Tırtıl kelebeğe dönüşür.",
+          "de": "Eine Raupe verwandelt sich in einen Schmetterling.",
+          "fr": "Une chenille se transforme en papillon.",
+          "it": "Un bruco si trasforma in farfalla.",
+          "es": "Una oruga se transforma en mariposa."
+        }
+      ]
+    },
+    {
+      "id": "transformation",
+      "pos": "noun",
+      "parent": "transform",
+      "parts": [
+        "trans-",
+        "form",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "a complete change",
+        "tr": "dönüşüm",
+        "de": "der Wandel, die Verwandlung; die Abbildung",
+        "fr": "la transformation",
+        "it": "la trasformazione",
+        "es": "la transformación"
+      },
+      "sentences": [
+        {
+          "en": "The city has gone through a big [transformation].",
+          "tr": "Şehir büyük bir dönüşüm geçirdi.",
+          "de": "Die Stadt hat einen großen Wandel durchgemacht.",
+          "fr": "La ville a connu une grande transformation.",
+          "it": "La città ha subito una grande trasformazione.",
+          "es": "La ciudad ha vivido una gran transformación."
+        },
+        {
+          "en": "A rotation is a simple [transformation] in geometry.",
+          "tr": "Döndürme geometride basit bir dönüşümdür.",
+          "de": "Eine Drehung ist eine einfache Abbildung in der Geometrie.",
+          "fr": "Une rotation est une transformation simple en géométrie.",
+          "it": "Una rotazione è una semplice trasformazione geometrica.",
+          "es": "Una rotación es una transformación sencilla en geometría."
+        }
+      ]
+    },
+    {
+      "id": "reform",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "re-",
+        "form"
+      ],
+      "gloss": {
+        "en": "to change a system to make it better (literally: to form again)",
+        "tr": "reform yapmak, yeniden düzenlemek",
+        "de": "reformieren",
+        "fr": "réformer",
+        "it": "riformare",
+        "es": "reformar"
+      },
+      "sentences": [
+        {
+          "en": "The government wants to [reform] the schools.",
+          "tr": "Hükümet okullarda reform yapmak istiyor.",
+          "de": "Die Regierung will die Schulen reformieren.",
+          "fr": "Le gouvernement veut réformer l'école.",
+          "it": "Il governo vuole riformare la scuola.",
+          "es": "El gobierno quiere reformar las escuelas."
+        },
+        {
+          "en": "The tax system was [reformed] in 2020.",
+          "tr": "Vergi sistemi 2020'de yeniden düzenlendi.",
+          "de": "Das Steuersystem wurde 2020 reformiert.",
+          "fr": "Le système fiscal a été réformé en 2020.",
+          "it": "Il sistema fiscale è stato riformato nel 2020.",
+          "es": "El sistema fiscal se reformó en 2020."
+        }
+      ]
+    },
+    {
+      "id": "reformer",
+      "pos": "noun",
+      "parent": "reform",
+      "parts": [
+        "re-",
+        "form",
+        "-er"
+      ],
+      "gloss": {
+        "en": "a person who works to change a system",
+        "tr": "reformcu",
+        "de": "der Reformer",
+        "fr": "le réformateur",
+        "it": "il riformatore",
+        "es": "el reformista"
+      },
+      "sentences": [
+        {
+          "en": "She was a great social [reformer].",
+          "tr": "Büyük bir toplumsal reformcuydu.",
+          "de": "Sie war eine große Sozialreformerin.",
+          "fr": "C'était une grande réformatrice sociale.",
+          "it": "Era una grande riformatrice sociale.",
+          "es": "Fue una gran reformista social."
+        },
+        {
+          "en": "The young [reformers] wanted cleaner politics.",
+          "tr": "Genç reformcular daha temiz bir siyaset istiyordu.",
+          "de": "Die jungen Reformer wollten sauberere Politik.",
+          "fr": "Les jeunes réformateurs voulaient une politique plus propre.",
+          "it": "I giovani riformatori volevano una politica più pulita.",
+          "es": "Los jóvenes reformistas querían una política más limpia."
+        }
+      ]
+    },
+    {
+      "id": "conform",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "con-",
+        "form"
+      ],
+      "gloss": {
+        "en": "to follow the usual rules or behave like others (literally: to shape together)",
+        "tr": "uymak",
+        "de": "entsprechen; sich anpassen",
+        "fr": "être conforme; se conformer",
+        "it": "essere conforme; conformarsi",
+        "es": "ajustarse; adaptarse"
+      },
+      "sentences": [
+        {
+          "en": "All toys must [conform] to safety rules.",
+          "tr": "Bütün oyuncaklar güvenlik kurallarına uymalı.",
+          "de": "Alle Spielzeuge müssen den Sicherheitsvorschriften entsprechen.",
+          "fr": "Tous les jouets doivent être conformes aux règles de sécurité.",
+          "it": "Tutti i giocattoli devono essere conformi alle norme di sicurezza.",
+          "es": "Todos los juguetes deben ajustarse a las normas de seguridad."
+        },
+        {
+          "en": "He refused to [conform] and dressed as he liked.",
+          "tr": "Kalıplara uymayı reddetti ve istediği gibi giyindi.",
+          "de": "Er weigerte sich, sich anzupassen, und zog sich an, wie er wollte.",
+          "fr": "Il a refusé de se conformer et s'habillait comme il voulait.",
+          "it": "Si è rifiutato di conformarsi e si vestiva come voleva.",
+          "es": "Se negó a adaptarse y se vestía como quería."
+        }
+      ]
+    },
+    {
+      "id": "conformity",
+      "pos": "noun",
+      "parent": "conform",
+      "parts": [
+        "con-",
+        "form",
+        "-ity"
+      ],
+      "gloss": {
+        "en": "behaving like everyone else; following rules",
+        "tr": "tek tiplik; uygunluk",
+        "de": "die Anpassung; die Übereinstimmung",
+        "fr": "le conformisme; la conformité",
+        "it": "il conformismo; la conformità",
+        "es": "el conformismo; la conformidad"
+      },
+      "sentences": [
+        {
+          "en": "School uniforms encourage [conformity].",
+          "tr": "Okul formaları tek tipliği teşvik ediyor.",
+          "de": "Schuluniformen fördern Anpassung.",
+          "fr": "Les uniformes scolaires encouragent le conformisme.",
+          "it": "Le divise scolastiche incoraggiano il conformismo.",
+          "es": "Los uniformes escolares fomentan el conformismo."
+        },
+        {
+          "en": "The building was checked for [conformity] with the rules.",
+          "tr": "Binanın kurallara uygunluğu kontrol edildi.",
+          "de": "Das Gebäude wurde auf Übereinstimmung mit den Vorschriften geprüft.",
+          "fr": "On a vérifié la conformité du bâtiment aux règles.",
+          "it": "È stata verificata la conformità dell'edificio alle norme.",
+          "es": "Se comprobó la conformidad del edificio con las normas."
+        }
+      ]
+    },
+    {
+      "id": "uniform",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "uni-",
+        "form"
+      ],
+      "gloss": {
+        "en": "special clothes that everyone in a group wears (literally: one form)",
+        "tr": "üniforma, forma",
+        "de": "die Uniform",
+        "fr": "l'uniforme",
+        "it": "la divisa, l'uniforme",
+        "es": "el uniforme"
+      },
+      "sentences": [
+        {
+          "en": "Nurses wear a blue [uniform].",
+          "tr": "Hemşireler mavi üniforma giyer.",
+          "de": "Krankenschwestern tragen eine blaue Uniform.",
+          "fr": "Les infirmières portent un uniforme bleu.",
+          "it": "Le infermiere indossano una divisa blu.",
+          "es": "Las enfermeras llevan un uniforme azul."
+        },
+        {
+          "en": "Do students wear a [uniform] at your school?",
+          "tr": "Sizin okulda öğrenciler forma giyiyor mu?",
+          "de": "Tragen die Schüler an deiner Schule eine Uniform?",
+          "fr": "Les élèves portent-ils un uniforme dans ton école ?",
+          "it": "Nella tua scuola gli studenti portano la divisa?",
+          "es": "¿Llevan uniforme los alumnos en tu colegio?"
+        }
+      ]
+    },
+    {
+      "id": "deform",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "de-",
+        "form"
+      ],
+      "gloss": {
+        "en": "to change the normal shape of something, often badly",
+        "tr": "şeklini bozmak",
+        "de": "verformen",
+        "fr": "déformer",
+        "it": "deformare",
+        "es": "deformar"
+      },
+      "sentences": [
+        {
+          "en": "Heat can [deform] plastic.",
+          "tr": "Isı plastiğin şeklini bozabilir.",
+          "de": "Hitze kann Plastik verformen.",
+          "fr": "La chaleur peut déformer le plastique.",
+          "it": "Il calore può deformare la plastica.",
+          "es": "El calor puede deformar el plástico."
+        },
+        {
+          "en": "The car door was [deformed] in the crash.",
+          "tr": "Araba kapısı kazada şekil değiştirdi.",
+          "de": "Die Autotür wurde beim Unfall verformt.",
+          "fr": "La portière s'est déformée dans l'accident.",
+          "it": "La portiera si è deformata nell'incidente.",
+          "es": "La puerta del coche se deformó en el choque."
+        }
+      ]
+    },
+    {
+      "id": "deformity",
+      "pos": "noun",
+      "parent": "deform",
+      "parts": [
+        "de-",
+        "form",
+        "-ity"
+      ],
+      "gloss": {
+        "en": "a part of the body with an unusual shape",
+        "tr": "şekil bozukluğu",
+        "de": "die Fehlbildung",
+        "fr": "la malformation, la difformité",
+        "it": "la deformità, la malformazione",
+        "es": "la deformidad, la malformación"
+      },
+      "sentences": [
+        {
+          "en": "Surgery corrected the [deformity] in his foot.",
+          "tr": "Ameliyat ayağındaki şekil bozukluğunu düzeltti.",
+          "de": "Eine Operation korrigierte die Fehlbildung an seinem Fuß.",
+          "fr": "Une opération a corrigé la malformation de son pied.",
+          "it": "Un intervento ha corretto la deformità del suo piede.",
+          "es": "Una operación corrigió la deformidad de su pie."
+        },
+        {
+          "en": "The disease can cause [deformity] of the bones.",
+          "tr": "Hastalık kemiklerde şekil bozukluğuna yol açabilir.",
+          "de": "Die Krankheit kann Knochenfehlbildungen verursachen.",
+          "fr": "La maladie peut provoquer une déformation des os.",
+          "it": "La malattia può causare deformità ossee.",
+          "es": "La enfermedad puede causar deformidad en los huesos."
+        }
+      ]
+    },
+    {
+      "id": "platform",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "plat-",
+        "form"
+      ],
+      "gloss": {
+        "en": "a raised flat area; the place at a station where you get on a train; a service where people share things (from French plate-forme, 'flat form')",
+        "tr": "peron; platform",
+        "de": "der Bahnsteig, das Gleis; die Plattform",
+        "fr": "le quai; la plateforme",
+        "it": "il binario; la piattaforma",
+        "es": "el andén; la plataforma"
+      },
+      "sentences": [
+        {
+          "en": "The train leaves from [platform] 4.",
+          "tr": "Tren 4. perondan kalkıyor.",
+          "de": "Der Zug fährt von Gleis 4 ab.",
+          "fr": "Le train part du quai 4.",
+          "it": "Il treno parte dal binario 4.",
+          "es": "El tren sale del andén 4."
+        },
+        {
+          "en": "Musicians share their songs on many [platforms].",
+          "tr": "Müzisyenler şarkılarını birçok platformda paylaşıyor.",
+          "de": "Musiker teilen ihre Lieder auf vielen Plattformen.",
+          "fr": "Les musiciens partagent leurs chansons sur de nombreuses plateformes.",
+          "it": "I musicisti condividono le loro canzoni su molte piattaforme.",
+          "es": "Los músicos comparten sus canciones en muchas plataformas."
+        }
+      ]
+    }
+  ]
+}

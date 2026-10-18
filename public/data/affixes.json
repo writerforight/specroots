@@ -1200,5 +1200,181 @@
       "it": "in modo che può essere (forma un avverbio)",
       "es": "de un modo que puede ser (forma un adverbio)"
     }
+  },
+  "uni-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "one",
+      "tr": "tek, bir",
+      "de": "ein, einheitlich",
+      "fr": "un, unique",
+      "it": "uno, unico",
+      "es": "uno, único"
+    }
+  },
+  "plat-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "flat (French plat)",
+      "tr": "düz (Fransızca plat)",
+      "de": "flach (französisch plat)",
+      "fr": "plat",
+      "it": "piatto (francese plat)",
+      "es": "plano (francés plat)"
+    }
+  },
+  "mis-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "wrongly, badly",
+      "tr": "yanlış, kötü",
+      "de": "falsch, schlecht",
+      "fr": "mal, de travers",
+      "it": "male, erroneamente",
+      "es": "mal, erróneamente"
+    }
+  },
+  "up-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "up, higher",
+      "tr": "yukarı",
+      "de": "hinauf, höher",
+      "fr": "vers le haut",
+      "it": "su, in alto",
+      "es": "arriba, más alto"
+    }
+  },
+  "down-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "down, lower",
+      "tr": "aşağı",
+      "de": "hinunter, niedriger",
+      "fr": "vers le bas",
+      "it": "giù, in basso",
+      "es": "abajo, más bajo"
+    }
+  },
+  "ag-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "to, toward (ad- before g)",
+      "tr": "-e doğru (g önünde ad-)",
+      "de": "hin zu (ad- vor g)",
+      "fr": "vers (ad- devant g)",
+      "it": "verso (ad- davanti a g)",
+      "es": "hacia (ad- ante g)"
+    }
+  },
+  "di-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "apart, aside (form of dis-)",
+      "tr": "ayrı, kenara (dis- biçimi)",
+      "de": "auseinander, beiseite (Form von dis-)",
+      "fr": "à l'écart (forme de dis-)",
+      "it": "in disparte (forma di dis-)",
+      "es": "aparte (forma de dis-)"
+    }
+  },
+  "centi-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "hundred",
+      "tr": "yüz",
+      "de": "hundert",
+      "fr": "cent",
+      "it": "cento",
+      "es": "cien"
+    }
+  },
+  "-ula": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "small (makes a noun)",
+      "tr": "küçük (isim yapar)",
+      "de": "klein (bildet ein Nomen)",
+      "fr": "petit (forme un nom)",
+      "it": "piccolo (forma un nome)",
+      "es": "pequeño (forma un sustantivo)"
+    }
+  },
+  "-ative": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "tending to, doing (makes an adjective)",
+      "tr": "-ici, eden (sıfat yapar)",
+      "de": "neigend zu, tuend (bildet ein Adjektiv)",
+      "fr": "qui tend à (-atif)",
+      "it": "che tende a (-ativo)",
+      "es": "que tiende a (-ativo)"
+    }
+  },
+  "-ity": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "state or quality (makes a noun)",
+      "tr": "durum, nitelik (-lık)",
+      "de": "Zustand, Eigenschaft (-ität, -heit)",
+      "fr": "état, qualité (-ité)",
+      "it": "stato, qualità (-ità)",
+      "es": "estado, cualidad (-idad)"
+    }
+  },
+  "-less": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "without (makes an adjective)",
+      "tr": "-sız",
+      "de": "ohne, -los",
+      "fr": "sans",
+      "it": "senza",
+      "es": "sin"
+    }
+  },
+  "-uate": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "to make, to do (makes a verb)",
+      "tr": "yapmak (fiil yapar)",
+      "de": "machen (bildet ein Verb)",
+      "fr": "faire (forme un verbe)",
+      "it": "fare (forma un verbo)",
+      "es": "hacer (forma un verbo)"
+    }
+  },
+  "-uation": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "act or result of (makes a noun)",
+      "tr": "eylem ya da sonucu (isim yapar)",
+      "de": "Handlung oder Ergebnis (bildet ein Nomen)",
+      "fr": "action ou résultat (forme un nom)",
+      "it": "azione o risultato (forma un nome)",
+      "es": "acción o resultado (forma un sustantivo)"
+    }
+  },
+  "-ly": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "in a … way (makes an adverb)",
+      "tr": "-ca, -ce, şekilde (zarf yapar)",
+      "de": "auf … Weise (bildet ein Adverb)",
+      "fr": "-ment (forme un adverbe)",
+      "it": "-mente (forma un avverbio)",
+      "es": "-mente (forma un adverbio)"
+    }
+  },
+  "-t": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "joined, done (old past participle)",
+      "tr": "-miş (eski geçmiş zaman ortacı)",
+      "de": "verbunden, getan (altes Partizip)",
+      "fr": "joint, fait (ancien participe)",
+      "it": "unito, fatto (antico participio)",
+      "es": "unido, hecho (antiguo participio)"
+    }
   }
 }

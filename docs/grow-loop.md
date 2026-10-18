@@ -44,7 +44,7 @@ yanına `(az: N)` yaz. Toplam hedef ≈ 1000–2000 kelime.
 - Aynı test iki turdur düzelmiyorsa ya da push reddediliyorsa döngüyü durdur ve nedenini yaz.
 
 ## Durum
-Kök: 18 / 50 · Kelime: 399
+Kök: 21 / 50 · Kelime: 456
 
 ## Kuyruk
 
@@ -69,9 +69,9 @@ Kök: 18 / 50 · Kelime: 399
 - [x] ced / cess — gitmek — 25
 - [x] cred — inanmak — 11 (az: 11)
 - [x] fac / fact / fect — yapmak — 28
-- [ ] form — biçim
-- [ ] grad / gress — adım atmak
-- [ ] junct — birleştirmek
+- [x] form — biçim — 22
+- [x] grad / gress — adım atmak — 20
+- [x] junct — birleştirmek — 15 (az: 15)
 - [ ] loc — yer
 - [ ] mov / mot — hareket etmek
 - [ ] pon / pos — koymak
