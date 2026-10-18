@@ -1,0 +1,553 @@
+{
+  "id": "rupt",
+  "forms": [
+    "rupt"
+  ],
+  "origin": "la",
+  "etymon": "rumpere",
+  "meaning": {
+    "en": "to break",
+    "tr": "kırmak, koparmak",
+    "de": "brechen",
+    "fr": "rompre",
+    "it": "rompere",
+    "es": "romper"
+  },
+  "words": [
+    {
+      "id": "interrupt",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "inter-",
+        "rupt"
+      ],
+      "gloss": {
+        "en": "to stop someone while they are speaking or doing something (literally: to break between)",
+        "tr": "sözünü kesmek; yarıda kesmek",
+        "de": "unterbrechen",
+        "fr": "interrompre",
+        "it": "interrompere",
+        "es": "interrumpir"
+      },
+      "sentences": [
+        {
+          "en": "Please don't [interrupt] me.",
+          "tr": "Lütfen sözümü kesme.",
+          "de": "Bitte unterbrich mich nicht.",
+          "fr": "Ne m'interromps pas, s'il te plaît.",
+          "it": "Per favore, non interrompermi.",
+          "es": "Por favor, no me interrumpas."
+        },
+        {
+          "en": "A phone call [interrupted] our dinner.",
+          "tr": "Bir telefon akşam yemeğimizi böldü.",
+          "de": "Ein Anruf unterbrach unser Abendessen.",
+          "fr": "Un appel a interrompu notre dîner.",
+          "it": "Una telefonata ha interrotto la nostra cena.",
+          "es": "Una llamada interrumpió nuestra cena."
+        }
+      ]
+    },
+    {
+      "id": "interruption",
+      "pos": "noun",
+      "parent": "interrupt",
+      "parts": [
+        "inter-",
+        "rupt",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a short stop in an activity",
+        "tr": "kesinti, bölünme",
+        "de": "die Unterbrechung",
+        "fr": "l'interruption",
+        "it": "l'interruzione",
+        "es": "la interrupción"
+      },
+      "sentences": [
+        {
+          "en": "I worked for three hours without [interruption].",
+          "tr": "Üç saat hiç ara vermeden çalıştım.",
+          "de": "Ich habe drei Stunden ohne Unterbrechung gearbeitet.",
+          "fr": "J'ai travaillé trois heures sans interruption.",
+          "it": "Ho lavorato tre ore senza interruzioni.",
+          "es": "Trabajé tres horas sin interrupción."
+        },
+        {
+          "en": "Sorry for the [interruption].",
+          "tr": "Böldüğüm için özür dilerim.",
+          "de": "Entschuldigung für die Unterbrechung.",
+          "fr": "Désolé pour l'interruption.",
+          "it": "Scusate l'interruzione.",
+          "es": "Perdón por la interrupción."
+        }
+      ]
+    },
+    {
+      "id": "uninterrupted",
+      "pos": "adjective",
+      "parent": "interrupt",
+      "parts": [
+        "un-",
+        "inter-",
+        "rupt",
+        "-ed"
+      ],
+      "gloss": {
+        "en": "continuous, without a break",
+        "tr": "kesintisiz",
+        "de": "ununterbrochen; frei",
+        "fr": "ininterrompu; dégagé",
+        "it": "ininterrotto; libero",
+        "es": "ininterrumpido; despejado"
+      },
+      "sentences": [
+        {
+          "en": "I need an hour of [uninterrupted] sleep.",
+          "tr": "Bir saatlik kesintisiz uykuya ihtiyacım var.",
+          "de": "Ich brauche eine Stunde ununterbrochenen Schlaf.",
+          "fr": "J'ai besoin d'une heure de sommeil ininterrompu.",
+          "it": "Ho bisogno di un'ora di sonno ininterrotto.",
+          "es": "Necesito una hora de sueño ininterrumpido."
+        },
+        {
+          "en": "The hotel has an [uninterrupted] view of the sea.",
+          "tr": "Otelin önü açık bir deniz manzarası var.",
+          "de": "Das Hotel hat freien Blick aufs Meer.",
+          "fr": "L'hôtel a une vue dégagée sur la mer.",
+          "it": "L'hotel ha una vista libera sul mare.",
+          "es": "El hotel tiene vistas despejadas al mar."
+        }
+      ]
+    },
+    {
+      "id": "erupt",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "e-",
+        "rupt"
+      ],
+      "gloss": {
+        "en": "to explode suddenly, like a volcano; to start suddenly (literally: to break out)",
+        "tr": "patlamak, püskürmek; aniden çıkmak",
+        "de": "ausbrechen",
+        "fr": "entrer en éruption; éclater",
+        "it": "eruttare; scoppiare",
+        "es": "entrar en erupción; estallar"
+      },
+      "sentences": [
+        {
+          "en": "The volcano [erupted] last night.",
+          "tr": "Yanardağ dün gece patladı.",
+          "de": "Der Vulkan ist letzte Nacht ausgebrochen.",
+          "fr": "Le volcan est entré en éruption cette nuit.",
+          "it": "Il vulcano ha eruttato stanotte.",
+          "es": "El volcán entró en erupción anoche."
+        },
+        {
+          "en": "Fighting [erupted] after the match.",
+          "tr": "Maçtan sonra kavga çıktı.",
+          "de": "Nach dem Spiel brachen Kämpfe aus.",
+          "fr": "Des bagarres ont éclaté après le match.",
+          "it": "Dopo la partita sono scoppiati degli scontri.",
+          "es": "Tras el partido estallaron peleas."
+        }
+      ]
+    },
+    {
+      "id": "eruption",
+      "pos": "noun",
+      "parent": "erupt",
+      "parts": [
+        "e-",
+        "rupt",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "the explosion of a volcano; a sudden start",
+        "tr": "patlama, püskürme",
+        "de": "der Ausbruch",
+        "fr": "l'éruption",
+        "it": "l'eruzione",
+        "es": "la erupción"
+      },
+      "sentences": [
+        {
+          "en": "The [eruption] covered the town in ash.",
+          "tr": "Patlama kasabayı küle buladı.",
+          "de": "Der Ausbruch bedeckte die Stadt mit Asche.",
+          "fr": "L'éruption a recouvert la ville de cendres.",
+          "it": "L'eruzione ha coperto la città di cenere.",
+          "es": "La erupción cubrió el pueblo de ceniza."
+        },
+        {
+          "en": "Pompeii was destroyed by an [eruption] in 79 AD.",
+          "tr": "Pompeii MS 79'da bir yanardağ patlamasıyla yok oldu.",
+          "de": "Pompeji wurde 79 n. Chr. durch einen Vulkanausbruch zerstört.",
+          "fr": "Pompéi a été détruite par une éruption en 79 apr. J.-C.",
+          "it": "Pompei fu distrutta da un'eruzione nel 79 d.C.",
+          "es": "Pompeya fue destruida por una erupción en el año 79."
+        }
+      ]
+    },
+    {
+      "id": "disrupt",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "dis-",
+        "rupt"
+      ],
+      "gloss": {
+        "en": "to stop something from working normally (literally: to break apart)",
+        "tr": "aksatmak, bozmak",
+        "de": "stören",
+        "fr": "perturber",
+        "it": "interrompere, disturbare",
+        "es": "alterar; interrumpir"
+      },
+      "sentences": [
+        {
+          "en": "Snow [disrupted] train services.",
+          "tr": "Kar tren seferlerini aksattı.",
+          "de": "Schnee störte den Zugverkehr.",
+          "fr": "La neige a perturbé le trafic ferroviaire.",
+          "it": "La neve ha interrotto il servizio ferroviario.",
+          "es": "La nieve alteró el servicio de trenes."
+        },
+        {
+          "en": "Please don't [disrupt] the lesson.",
+          "tr": "Lütfen dersi bölme.",
+          "de": "Bitte stör den Unterricht nicht.",
+          "fr": "Ne perturbe pas le cours, s'il te plaît.",
+          "it": "Per favore, non disturbare la lezione.",
+          "es": "Por favor, no interrumpas la clase."
+        }
+      ]
+    },
+    {
+      "id": "disruption",
+      "pos": "noun",
+      "parent": "disrupt",
+      "parts": [
+        "dis-",
+        "rupt",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a problem that stops something from working normally",
+        "tr": "aksama, kesinti",
+        "de": "die Störung",
+        "fr": "la perturbation",
+        "it": "il disagio, l'interruzione",
+        "es": "la alteración; las molestias"
+      },
+      "sentences": [
+        {
+          "en": "The strike caused [disruption] at the airport.",
+          "tr": "Grev havalimanında aksamalara yol açtı.",
+          "de": "Der Streik verursachte Störungen am Flughafen.",
+          "fr": "La grève a provoqué des perturbations à l'aéroport.",
+          "it": "Lo sciopero ha causato disagi all'aeroporto.",
+          "es": "La huelga provocó alteraciones en el aeropuerto."
+        },
+        {
+          "en": "Sorry for any [disruption] during the repairs.",
+          "tr": "Onarım sırasında yaşanabilecek aksaklıklar için özür dileriz.",
+          "de": "Entschuldigen Sie die Störungen während der Reparatur.",
+          "fr": "Veuillez excuser la gêne occasionnée par les travaux.",
+          "it": "Ci scusiamo per i disagi durante i lavori.",
+          "es": "Disculpen las molestias durante las obras."
+        }
+      ]
+    },
+    {
+      "id": "disruptive",
+      "pos": "adjective",
+      "parent": "disrupt",
+      "parts": [
+        "dis-",
+        "rupt",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "causing trouble; changing things in a big way",
+        "tr": "sorun çıkaran; köklü değişim yaratan",
+        "de": "störend; umwälzend",
+        "fr": "perturbateur; révolutionnaire",
+        "it": "che disturba; dirompente",
+        "es": "conflictivo; disruptivo"
+      },
+      "sentences": [
+        {
+          "en": "One [disruptive] student can stop the whole class.",
+          "tr": "Sorun çıkaran tek bir öğrenci bütün sınıfı durdurabilir.",
+          "de": "Ein störender Schüler kann die ganze Klasse aufhalten.",
+          "fr": "Un seul élève perturbateur peut bloquer toute la classe.",
+          "it": "Un solo studente che disturba può bloccare tutta la classe.",
+          "es": "Un solo alumno conflictivo puede parar toda la clase."
+        },
+        {
+          "en": "The smartphone was a [disruptive] invention.",
+          "tr": "Akıllı telefon köklü değişim yaratan bir buluştu.",
+          "de": "Das Smartphone war eine umwälzende Erfindung.",
+          "fr": "Le smartphone a été une invention révolutionnaire.",
+          "it": "Lo smartphone è stato un'invenzione dirompente.",
+          "es": "El smartphone fue un invento disruptivo."
+        }
+      ]
+    },
+    {
+      "id": "corrupt",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "cor-",
+        "rupt"
+      ],
+      "gloss": {
+        "en": "dishonest, using power for money; (of a file) damaged (literally: completely broken)",
+        "tr": "yozlaşmış, rüşvetçi; bozuk",
+        "de": "korrupt; beschädigt",
+        "fr": "corrompu; endommagé",
+        "it": "corrotto; danneggiato",
+        "es": "corrupto; dañado"
+      },
+      "sentences": [
+        {
+          "en": "The [corrupt] mayor took money from builders.",
+          "tr": "Yozlaşmış belediye başkanı müteahhitlerden para aldı.",
+          "de": "Der korrupte Bürgermeister nahm Geld von Baufirmen.",
+          "fr": "Le maire corrompu recevait de l'argent des promoteurs.",
+          "it": "Il sindaco corrotto prendeva soldi dai costruttori.",
+          "es": "El alcalde corrupto aceptaba dinero de las constructoras."
+        },
+        {
+          "en": "The file is [corrupt] and won't open.",
+          "tr": "Dosya bozuk, açılmıyor.",
+          "de": "Die Datei ist beschädigt und lässt sich nicht öffnen.",
+          "fr": "Le fichier est endommagé et ne s'ouvre pas.",
+          "it": "Il file è danneggiato e non si apre.",
+          "es": "El archivo está dañado y no se abre."
+        }
+      ]
+    },
+    {
+      "id": "corruption",
+      "pos": "noun",
+      "parent": "corrupt",
+      "parts": [
+        "cor-",
+        "rupt",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "dishonest use of power for money",
+        "tr": "yolsuzluk, rüşvet",
+        "de": "die Korruption",
+        "fr": "la corruption",
+        "it": "la corruzione",
+        "es": "la corrupción"
+      },
+      "sentences": [
+        {
+          "en": "People protested against [corruption].",
+          "tr": "İnsanlar yolsuzluğa karşı protesto yaptı.",
+          "de": "Die Menschen protestierten gegen Korruption.",
+          "fr": "Les gens ont manifesté contre la corruption.",
+          "it": "La gente ha protestato contro la corruzione.",
+          "es": "La gente protestó contra la corrupción."
+        },
+        {
+          "en": "The minister resigned after a [corruption] scandal.",
+          "tr": "Bakan bir yolsuzluk skandalından sonra istifa etti.",
+          "de": "Der Minister trat nach einem Korruptionsskandal zurück.",
+          "fr": "Le ministre a démissionné après un scandale de corruption.",
+          "it": "Il ministro si è dimesso dopo uno scandalo di corruzione.",
+          "es": "El ministro dimitió tras un escándalo de corrupción."
+        }
+      ]
+    },
+    {
+      "id": "incorruptible",
+      "pos": "adjective",
+      "parent": "corrupt",
+      "parts": [
+        "in-not-",
+        "cor-",
+        "rupt",
+        "-ible"
+      ],
+      "gloss": {
+        "en": "too honest to be corrupted",
+        "tr": "rüşvet almaz, dürüst",
+        "de": "unbestechlich",
+        "fr": "incorruptible",
+        "it": "incorruttibile",
+        "es": "insobornable, incorruptible"
+      },
+      "sentences": [
+        {
+          "en": "The judge was known as [incorruptible].",
+          "tr": "Yargıç rüşvet almamasıyla tanınırdı.",
+          "de": "Die Richterin galt als unbestechlich.",
+          "fr": "La juge était réputée incorruptible.",
+          "it": "Il giudice era noto per essere incorruttibile.",
+          "es": "La jueza tenía fama de insobornable."
+        },
+        {
+          "en": "We need [incorruptible] leaders.",
+          "tr": "Rüşvet almayan, dürüst liderlere ihtiyacımız var.",
+          "de": "Wir brauchen unbestechliche Führungskräfte.",
+          "fr": "Nous avons besoin de dirigeants incorruptibles.",
+          "it": "Abbiamo bisogno di leader incorruttibili.",
+          "es": "Necesitamos líderes insobornables."
+        }
+      ]
+    },
+    {
+      "id": "bankrupt",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "bank-",
+        "rupt"
+      ],
+      "gloss": {
+        "en": "unable to pay debts (from Italian banca rotta, 'broken bench')",
+        "tr": "iflas etmiş",
+        "de": "bankrott, pleite",
+        "fr": "en faillite",
+        "it": "fallito, in bancarotta",
+        "es": "en quiebra"
+      },
+      "sentences": [
+        {
+          "en": "The airline went [bankrupt] last year.",
+          "tr": "Havayolu şirketi geçen yıl iflas etti.",
+          "de": "Die Fluggesellschaft ging letztes Jahr pleite.",
+          "fr": "La compagnie aérienne a fait faillite l'an dernier.",
+          "it": "La compagnia aerea è fallita l'anno scorso.",
+          "es": "La aerolínea quebró el año pasado."
+        },
+        {
+          "en": "The war left the country [bankrupt].",
+          "tr": "Savaş ülkeyi iflas ettirdi.",
+          "de": "Der Krieg ließ das Land bankrott zurück.",
+          "fr": "La guerre a laissé le pays en faillite.",
+          "it": "La guerra ha lasciato il paese in bancarotta.",
+          "es": "La guerra dejó al país en quiebra."
+        }
+      ]
+    },
+    {
+      "id": "bankruptcy",
+      "pos": "noun",
+      "parent": "bankrupt",
+      "parts": [
+        "bank-",
+        "rupt",
+        "-cy"
+      ],
+      "gloss": {
+        "en": "the state of being unable to pay debts",
+        "tr": "iflas",
+        "de": "die Insolvenz, der Konkurs",
+        "fr": "la faillite",
+        "it": "il fallimento, la bancarotta",
+        "es": "la quiebra, la bancarrota"
+      },
+      "sentences": [
+        {
+          "en": "The company filed for [bankruptcy].",
+          "tr": "Şirket iflas başvurusu yaptı.",
+          "de": "Die Firma meldete Insolvenz an.",
+          "fr": "L'entreprise s'est déclarée en faillite.",
+          "it": "L'azienda ha dichiarato fallimento.",
+          "es": "La empresa se declaró en quiebra."
+        },
+        {
+          "en": "High prices pushed many shops into [bankruptcy].",
+          "tr": "Yüksek fiyatlar birçok dükkânı iflasa sürükledi.",
+          "de": "Hohe Preise trieben viele Läden in die Insolvenz.",
+          "fr": "Les prix élevés ont poussé beaucoup de magasins à la faillite.",
+          "it": "I prezzi alti hanno portato molti negozi al fallimento.",
+          "es": "Los precios altos llevaron a muchas tiendas a la quiebra."
+        }
+      ]
+    },
+    {
+      "id": "abrupt",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "ab-",
+        "rupt"
+      ],
+      "gloss": {
+        "en": "sudden and unexpected; short and rude (literally: broken off)",
+        "tr": "ani; sert, kaba",
+        "de": "abrupt, plötzlich; schroff",
+        "fr": "brusque",
+        "it": "brusco, improvviso",
+        "es": "brusco, repentino"
+      },
+      "sentences": [
+        {
+          "en": "The bus came to an [abrupt] stop.",
+          "tr": "Otobüs aniden durdu.",
+          "de": "Der Bus hielt abrupt an.",
+          "fr": "Le bus s'est arrêté brusquement.",
+          "it": "L'autobus si è fermato di colpo.",
+          "es": "El autobús frenó de golpe."
+        },
+        {
+          "en": "Sorry if I was [abrupt] on the phone.",
+          "tr": "Telefonda sert konuştuysam özür dilerim.",
+          "de": "Entschuldige, wenn ich am Telefon schroff war.",
+          "fr": "Désolé si j'ai été brusque au téléphone.",
+          "it": "Scusa se sono stato brusco al telefono.",
+          "es": "Perdona si fui brusco por teléfono."
+        }
+      ]
+    },
+    {
+      "id": "rupture",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "rupt",
+        "-ure"
+      ],
+      "gloss": {
+        "en": "a sudden break or burst",
+        "tr": "yırtılma, kopma; patlama",
+        "de": "der Riss, der Bruch",
+        "fr": "la rupture",
+        "it": "la rottura",
+        "es": "la rotura"
+      },
+      "sentences": [
+        {
+          "en": "The pipe [rupture] flooded the street.",
+          "tr": "Borunun patlaması sokağı su bastırdı.",
+          "de": "Der Rohrbruch überflutete die Straße.",
+          "fr": "La rupture du tuyau a inondé la rue.",
+          "it": "La rottura del tubo ha allagato la strada.",
+          "es": "La rotura de la tubería inundó la calle."
+        },
+        {
+          "en": "He had surgery for a muscle [rupture].",
+          "tr": "Kas yırtılması nedeniyle ameliyat oldu.",
+          "de": "Er wurde wegen eines Muskelrisses operiert.",
+          "fr": "Il a été opéré d'une rupture musculaire.",
+          "it": "È stato operato per una rottura muscolare.",
+          "es": "Lo operaron de una rotura muscular."
+        }
+      ]
+    }
+  ]
+}

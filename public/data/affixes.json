@@ -946,5 +946,160 @@
       "it": "risultato, mezzo (-mento)",
       "es": "resultado, medio (-mento)"
     }
+  },
+  "cor-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "completely, together (con- before r)",
+      "tr": "tamamen, birlikte (r önünde con-)",
+      "de": "völlig, zusammen (con- vor r)",
+      "fr": "complètement, ensemble (con- devant r)",
+      "it": "completamente, insieme (con- davanti a r)",
+      "es": "completamente, juntos (con- ante r)"
+    }
+  },
+  "bank-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "bench, bank (Italian banca)",
+      "tr": "tezgâh, banka (İtalyanca banca)",
+      "de": "Bank, Tisch (italienisch banca)",
+      "fr": "banc, banque (italien banca)",
+      "it": "banco, banca (italiano banca)",
+      "es": "banco, mesa (italiano banca)"
+    }
+  },
+  "of-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "toward (ob- before f)",
+      "tr": "-e doğru (f önünde ob-)",
+      "de": "hin zu (ob- vor f)",
+      "fr": "vers (ob- devant f)",
+      "it": "verso (ob- davanti a f)",
+      "es": "hacia (ob- ante f)"
+    }
+  },
+  "dif-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "apart (dis- before f)",
+      "tr": "ayrı (f önünde dis-)",
+      "de": "auseinander (dis- vor f)",
+      "fr": "à part (dis- devant f)",
+      "it": "separato (dis- davanti a f)",
+      "es": "aparte (dis- ante f)"
+    }
+  },
+  "suf-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "under (sub- before f)",
+      "tr": "alt (f önünde sub-)",
+      "de": "unter (sub- vor f)",
+      "fr": "sous (sub- devant f)",
+      "it": "sotto (sub- davanti a f)",
+      "es": "debajo (sub- ante f)"
+    }
+  },
+  "circum-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "around",
+      "tr": "çevresinde",
+      "de": "um … herum",
+      "fr": "autour",
+      "it": "intorno",
+      "es": "alrededor"
+    }
+  },
+  "ac-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "to, toward (ad- before c)",
+      "tr": "-e doğru (c önünde ad-)",
+      "de": "hin zu (ad- vor c)",
+      "fr": "vers (ad- devant c)",
+      "it": "verso (ad- davanti a c)",
+      "es": "hacia (ad- ante c)"
+    }
+  },
+  "parti-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "part (Latin pars)",
+      "tr": "parça (Latince pars)",
+      "de": "Teil (lateinisch pars)",
+      "fr": "partie (latin pars)",
+      "it": "parte (latino pars)",
+      "es": "parte (latín pars)"
+    }
+  },
+  "anti-before-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "before (form of ante-)",
+      "tr": "önce (ante- biçimi)",
+      "de": "vorher (Form von ante-)",
+      "fr": "avant (forme de ante-)",
+      "it": "prima (forma di ante-)",
+      "es": "antes (forma de ante-)"
+    },
+    "form": "anti"
+  },
+  "-cy": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "state or quality (makes a noun)",
+      "tr": "durum, nitelik (isim yapar)",
+      "de": "Zustand (bildet ein Nomen)",
+      "fr": "état (forme un nom)",
+      "it": "stato (forma un nome)",
+      "es": "estado (forma un sustantivo)"
+    }
+  },
+  "-ee": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "person who is …ed or who does (makes a noun)",
+      "tr": "-ilen ya da yapan kişi (isim yapar)",
+      "de": "Person, die … wird oder tut (bildet ein Nomen)",
+      "fr": "personne qui est …ée ou qui fait",
+      "it": "persona che è …ata o che fa",
+      "es": "persona que es …ada o que hace"
+    }
+  },
+  "-endum": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "thing that must be done (Latin)",
+      "tr": "yapılması gereken şey (Latince)",
+      "de": "etwas, das getan werden muss (lateinisch)",
+      "fr": "chose à faire (latin)",
+      "it": "cosa da fare (latino)",
+      "es": "cosa que debe hacerse (latín)"
+    }
+  },
+  "-acity": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "ability, quality (makes a noun)",
+      "tr": "yeti, nitelik (isim yapar)",
+      "de": "Fähigkeit, Eigenschaft (bildet ein Nomen)",
+      "fr": "capacité, qualité (forme un nom)",
+      "it": "capacità, qualità (forma un nome)",
+      "es": "capacidad, cualidad (forma un sustantivo)"
+    }
+  },
+  "-ient": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "one who … (makes a noun or adjective)",
+      "tr": "-en kişi (isim ya da sıfat yapar)",
+      "de": "jemand, der … (bildet ein Nomen)",
+      "fr": "celui qui … (forme un nom)",
+      "it": "colui che … (forma un nome)",
+      "es": "el que … (forma un sustantivo)"
+    }
   }
 }

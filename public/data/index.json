@@ -26,6 +26,54 @@
     ]
   },
   {
+    "id": "cap",
+    "forms": [
+      "cap",
+      "capt",
+      "cept",
+      "ceive",
+      "ceiv",
+      "cip"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to take, to seize",
+      "tr": "almak, tutmak",
+      "de": "nehmen, fassen",
+      "fr": "prendre, saisir",
+      "it": "prendere, afferrare",
+      "es": "tomar, coger"
+    },
+    "words": [
+      "capture",
+      "captive",
+      "capable",
+      "capacity",
+      "accept",
+      "acceptable",
+      "acceptance",
+      "except",
+      "exception",
+      "exceptional",
+      "conceive",
+      "concept",
+      "perceive",
+      "perception",
+      "receive",
+      "receiver",
+      "reception",
+      "receptive",
+      "recipient",
+      "deceive",
+      "deception",
+      "intercept",
+      "susceptible",
+      "participate",
+      "participant",
+      "anticipate"
+    ]
+  },
+  {
     "id": "dict",
     "forms": [
       "dict",
@@ -115,6 +163,43 @@
       "reproduction",
       "introductory",
       "seduce"
+    ]
+  },
+  {
+    "id": "fer",
+    "forms": [
+      "fer"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to carry, to bring",
+      "tr": "taşımak, getirmek",
+      "de": "tragen, bringen",
+      "fr": "porter, apporter",
+      "it": "portare",
+      "es": "llevar, traer"
+    },
+    "words": [
+      "transfer",
+      "refer",
+      "reference",
+      "referee",
+      "referendum",
+      "prefer",
+      "preference",
+      "preferable",
+      "offer",
+      "differ",
+      "different",
+      "difference",
+      "indifferent",
+      "confer",
+      "conference",
+      "infer",
+      "inference",
+      "suffer",
+      "defer",
+      "circumference"
     ]
   },
   {
@@ -277,6 +362,38 @@
       "transportation",
       "transporter",
       "teleport"
+    ]
+  },
+  {
+    "id": "rupt",
+    "forms": [
+      "rupt"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to break",
+      "tr": "kırmak, koparmak",
+      "de": "brechen",
+      "fr": "rompre",
+      "it": "rompere",
+      "es": "romper"
+    },
+    "words": [
+      "interrupt",
+      "interruption",
+      "uninterrupted",
+      "erupt",
+      "eruption",
+      "disrupt",
+      "disruption",
+      "disruptive",
+      "corrupt",
+      "corruption",
+      "incorruptible",
+      "bankrupt",
+      "bankruptcy",
+      "abrupt",
+      "rupture"
     ]
   },
   {

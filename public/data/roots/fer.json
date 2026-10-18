@@ -1,0 +1,730 @@
+{
+  "id": "fer",
+  "forms": [
+    "fer"
+  ],
+  "origin": "la",
+  "etymon": "ferre",
+  "meaning": {
+    "en": "to carry, to bring",
+    "tr": "taşımak, getirmek",
+    "de": "tragen, bringen",
+    "fr": "porter, apporter",
+    "it": "portare",
+    "es": "llevar, traer"
+  },
+  "words": [
+    {
+      "id": "transfer",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "trans-",
+        "fer"
+      ],
+      "gloss": {
+        "en": "to move from one place or person to another (literally: to carry across)",
+        "tr": "havale etmek, aktarmak; nakil olmak",
+        "de": "überweisen; übertragen; wechseln",
+        "fr": "virer, transférer; changer",
+        "it": "trasferire; trasferirsi",
+        "es": "transferir; cambiarse"
+      },
+      "sentences": [
+        {
+          "en": "I [transferred] the money to your account.",
+          "tr": "Parayı hesabına havale ettim.",
+          "de": "Ich habe das Geld auf dein Konto überwiesen.",
+          "fr": "J'ai viré l'argent sur ton compte.",
+          "it": "Ho trasferito i soldi sul tuo conto.",
+          "es": "Te transferí el dinero a tu cuenta."
+        },
+        {
+          "en": "She [transferred] to a school in Berlin.",
+          "tr": "Berlin'deki bir okula nakil oldu.",
+          "de": "Sie wechselte an eine Schule in Berlin.",
+          "fr": "Elle a changé pour une école à Berlin.",
+          "it": "Si è trasferita in una scuola di Berlino.",
+          "es": "Se cambió a un colegio de Berlín."
+        }
+      ]
+    },
+    {
+      "id": "refer",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "re-",
+        "fer"
+      ],
+      "gloss": {
+        "en": "to mention; to send someone to another person for help (literally: to carry back)",
+        "tr": "bahsetmek, kastetmek; yönlendirmek",
+        "de": "meinen, sich beziehen auf; überweisen",
+        "fr": "parler de, faire référence à; adresser",
+        "it": "riferirsi a; indirizzare",
+        "es": "referirse a; derivar"
+      },
+      "sentences": [
+        {
+          "en": "Who are you [referring] to?",
+          "tr": "Kimden bahsediyorsun?",
+          "de": "Wen meinst du?",
+          "fr": "De qui parles-tu ?",
+          "it": "A chi ti riferisci?",
+          "es": "¿A quién te refieres?"
+        },
+        {
+          "en": "My doctor [referred] me to a specialist.",
+          "tr": "Doktorum beni bir uzmana yönlendirdi.",
+          "de": "Mein Arzt hat mich an einen Facharzt überwiesen.",
+          "fr": "Mon médecin m'a adressé à un spécialiste.",
+          "it": "Il mio medico mi ha indirizzato da uno specialista.",
+          "es": "Mi médico me derivó a un especialista."
+        }
+      ]
+    },
+    {
+      "id": "reference",
+      "pos": "noun",
+      "parent": "refer",
+      "parts": [
+        "re-",
+        "fer",
+        "-ence"
+      ],
+      "gloss": {
+        "en": "a mention; a source you use; a letter about someone's work",
+        "tr": "kaynak, atıf; referans mektubu",
+        "de": "die Quelle, der Verweis; das Zeugnis",
+        "fr": "la source, la référence; la lettre de recommandation",
+        "it": "la fonte, il riferimento; la referenza",
+        "es": "la referencia, la fuente; la carta de referencia"
+      },
+      "sentences": [
+        {
+          "en": "List all your [references] at the end.",
+          "tr": "Bütün kaynaklarını sona yaz.",
+          "de": "Führe alle Quellen am Ende auf.",
+          "fr": "Liste toutes tes références à la fin.",
+          "it": "Elenca tutte le fonti alla fine.",
+          "es": "Pon todas las referencias al final."
+        },
+        {
+          "en": "My old boss wrote me a good [reference].",
+          "tr": "Eski patronum bana iyi bir referans mektubu yazdı.",
+          "de": "Mein alter Chef hat mir ein gutes Zeugnis geschrieben.",
+          "fr": "Mon ancien patron m'a écrit une bonne lettre de recommandation.",
+          "it": "Il mio vecchio capo mi ha scritto una buona referenza.",
+          "es": "Mi antiguo jefe me escribió una buena carta de referencia."
+        }
+      ]
+    },
+    {
+      "id": "referee",
+      "pos": "noun",
+      "parent": "refer",
+      "parts": [
+        "re-",
+        "fer",
+        "-ee"
+      ],
+      "gloss": {
+        "en": "an official who makes sure players follow the rules (the person a question is referred to)",
+        "tr": "hakem",
+        "de": "der Schiedsrichter",
+        "fr": "l'arbitre",
+        "it": "l'arbitro",
+        "es": "el árbitro"
+      },
+      "sentences": [
+        {
+          "en": "The [referee] blew the whistle.",
+          "tr": "Hakem düdüğü çaldı.",
+          "de": "Der Schiedsrichter pfiff.",
+          "fr": "L'arbitre a sifflé.",
+          "it": "L'arbitro ha fischiato.",
+          "es": "El árbitro pitó."
+        },
+        {
+          "en": "Players should never shout at the [referee].",
+          "tr": "Oyuncular hakeme asla bağırmamalı.",
+          "de": "Spieler sollten den Schiedsrichter nie anschreien.",
+          "fr": "Les joueurs ne devraient jamais crier sur l'arbitre.",
+          "it": "I giocatori non dovrebbero mai urlare contro l'arbitro.",
+          "es": "Los jugadores nunca deberían gritar al árbitro."
+        }
+      ]
+    },
+    {
+      "id": "referendum",
+      "pos": "noun",
+      "parent": "refer",
+      "parts": [
+        "re-",
+        "fer",
+        "-endum"
+      ],
+      "gloss": {
+        "en": "a vote by all citizens on one question (literally: something to be carried back to the people)",
+        "tr": "referandum, halk oylaması",
+        "de": "die Volksabstimmung",
+        "fr": "le référendum",
+        "it": "il referendum",
+        "es": "el referéndum"
+      },
+      "sentences": [
+        {
+          "en": "The country held a [referendum] on the new law.",
+          "tr": "Ülke yeni yasa için referandum yaptı.",
+          "de": "Das Land hielt eine Volksabstimmung über das neue Gesetz ab.",
+          "fr": "Le pays a organisé un référendum sur la nouvelle loi.",
+          "it": "Il paese ha tenuto un referendum sulla nuova legge.",
+          "es": "El país celebró un referéndum sobre la nueva ley."
+        },
+        {
+          "en": "Most people voted yes in the [referendum].",
+          "tr": "Halkın çoğu referandumda evet dedi.",
+          "de": "Die meisten stimmten bei der Volksabstimmung mit Ja.",
+          "fr": "La plupart des gens ont voté oui au référendum.",
+          "it": "La maggior parte ha votato sì al referendum.",
+          "es": "La mayoría votó sí en el referéndum."
+        }
+      ]
+    },
+    {
+      "id": "prefer",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "pre-",
+        "fer"
+      ],
+      "gloss": {
+        "en": "to like one thing more than another (literally: to carry before)",
+        "tr": "tercih etmek",
+        "de": "bevorzugen, lieber mögen",
+        "fr": "préférer",
+        "it": "preferire",
+        "es": "preferir"
+      },
+      "sentences": [
+        {
+          "en": "I [prefer] tea to coffee.",
+          "tr": "Çayı kahveye tercih ederim.",
+          "de": "Ich trinke lieber Tee als Kaffee.",
+          "fr": "Je préfère le thé au café.",
+          "it": "Preferisco il tè al caffè.",
+          "es": "Prefiero el té al café."
+        },
+        {
+          "en": "Would you [prefer] to sit by the window?",
+          "tr": "Pencere kenarında oturmayı tercih eder misiniz?",
+          "de": "Möchten Sie lieber am Fenster sitzen?",
+          "fr": "Préférez-vous vous asseoir près de la fenêtre ?",
+          "it": "Preferisce sedersi vicino al finestrino?",
+          "es": "¿Prefiere sentarse junto a la ventana?"
+        }
+      ]
+    },
+    {
+      "id": "preference",
+      "pos": "noun",
+      "parent": "prefer",
+      "parts": [
+        "pre-",
+        "fer",
+        "-ence"
+      ],
+      "gloss": {
+        "en": "a liking for one thing more than another; a setting",
+        "tr": "tercih",
+        "de": "die Vorliebe; die Einstellung",
+        "fr": "la préférence",
+        "it": "la preferenza",
+        "es": "la preferencia"
+      },
+      "sentences": [
+        {
+          "en": "Do you have a [preference] for the date?",
+          "tr": "Tarih için bir tercihin var mı?",
+          "de": "Hast du einen Wunsch für das Datum?",
+          "fr": "As-tu une préférence pour la date ?",
+          "it": "Hai una preferenza per la data?",
+          "es": "¿Tienes alguna preferencia para la fecha?"
+        },
+        {
+          "en": "Change your language [preferences] in the settings.",
+          "tr": "Dil tercihlerini ayarlardan değiştir.",
+          "de": "Ändere deine Spracheinstellungen in den Einstellungen.",
+          "fr": "Modifie tes préférences de langue dans les réglages.",
+          "it": "Cambia le preferenze di lingua nelle impostazioni.",
+          "es": "Cambia tus preferencias de idioma en los ajustes."
+        }
+      ]
+    },
+    {
+      "id": "preferable",
+      "pos": "adjective",
+      "parent": "prefer",
+      "parts": [
+        "pre-",
+        "fer",
+        "-able"
+      ],
+      "gloss": {
+        "en": "better, more suitable",
+        "tr": "tercih edilir, daha iyi",
+        "de": "vorzuziehen, besser",
+        "fr": "préférable",
+        "it": "preferibile",
+        "es": "preferible"
+      },
+      "sentences": [
+        {
+          "en": "A short walk is [preferable] to no exercise at all.",
+          "tr": "Kısa bir yürüyüş, hiç hareket etmemekten iyidir.",
+          "de": "Ein kurzer Spaziergang ist besser als gar keine Bewegung.",
+          "fr": "Une courte promenade est préférable à pas d'exercice du tout.",
+          "it": "Una breve passeggiata è preferibile a nessun esercizio.",
+          "es": "Un paseo corto es preferible a no hacer nada de ejercicio."
+        },
+        {
+          "en": "It's [preferable] to book a table.",
+          "tr": "Masa ayırtmak daha iyi olur.",
+          "de": "Es ist besser, einen Tisch zu reservieren.",
+          "fr": "Il est préférable de réserver une table.",
+          "it": "È preferibile prenotare un tavolo.",
+          "es": "Es preferible reservar mesa."
+        }
+      ]
+    },
+    {
+      "id": "offer",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "of-",
+        "fer"
+      ],
+      "gloss": {
+        "en": "to say you will give or do something (literally: to carry toward)",
+        "tr": "teklif etmek, ikram etmek",
+        "de": "anbieten",
+        "fr": "offrir, proposer",
+        "it": "offrire",
+        "es": "ofrecer"
+      },
+      "sentences": [
+        {
+          "en": "She [offered] me a cup of tea.",
+          "tr": "Bana bir fincan çay ikram etti.",
+          "de": "Sie bot mir eine Tasse Tee an.",
+          "fr": "Elle m'a offert une tasse de thé.",
+          "it": "Mi ha offerto una tazza di tè.",
+          "es": "Me ofreció una taza de té."
+        },
+        {
+          "en": "They [offered] him the job.",
+          "tr": "Ona işi teklif ettiler.",
+          "de": "Sie boten ihm die Stelle an.",
+          "fr": "Ils lui ont proposé le poste.",
+          "it": "Gli hanno offerto il lavoro.",
+          "es": "Le ofrecieron el trabajo."
+        }
+      ]
+    },
+    {
+      "id": "differ",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "dif-",
+        "fer"
+      ],
+      "gloss": {
+        "en": "to be not the same; to disagree (literally: to carry apart)",
+        "tr": "farklı olmak; farklı düşünmek",
+        "de": "sich unterscheiden",
+        "fr": "différer; ne pas être d'accord",
+        "it": "variare; pensarla diversamente",
+        "es": "variar; discrepar"
+      },
+      "sentences": [
+        {
+          "en": "Prices [differ] from shop to shop.",
+          "tr": "Fiyatlar dükkândan dükkâna değişiyor.",
+          "de": "Die Preise unterscheiden sich von Laden zu Laden.",
+          "fr": "Les prix diffèrent d'un magasin à l'autre.",
+          "it": "I prezzi variano da negozio a negozio.",
+          "es": "Los precios varían de una tienda a otra."
+        },
+        {
+          "en": "We [differ] on this question.",
+          "tr": "Bu konuda farklı düşünüyoruz.",
+          "de": "In dieser Frage sind wir unterschiedlicher Meinung.",
+          "fr": "Nous ne sommes pas d'accord sur cette question.",
+          "it": "Su questa questione la pensiamo diversamente.",
+          "es": "En esta cuestión discrepamos."
+        }
+      ]
+    },
+    {
+      "id": "different",
+      "pos": "adjective",
+      "parent": "differ",
+      "parts": [
+        "dif-",
+        "fer",
+        "-ent"
+      ],
+      "gloss": {
+        "en": "not the same",
+        "tr": "farklı",
+        "de": "anders, verschieden",
+        "fr": "différent, autre",
+        "it": "diverso",
+        "es": "diferente, distinto"
+      },
+      "sentences": [
+        {
+          "en": "The twins look the same but are very [different].",
+          "tr": "İkizler aynı görünüyor ama çok farklılar.",
+          "de": "Die Zwillinge sehen gleich aus, sind aber sehr verschieden.",
+          "fr": "Les jumeaux se ressemblent mais sont très différents.",
+          "it": "I gemelli si somigliano ma sono molto diversi.",
+          "es": "Los gemelos se parecen pero son muy diferentes."
+        },
+        {
+          "en": "Let's try a [different] way.",
+          "tr": "Farklı bir yol deneyelim.",
+          "de": "Lass uns einen anderen Weg versuchen.",
+          "fr": "Essayons une autre méthode.",
+          "it": "Proviamo un modo diverso.",
+          "es": "Probemos de otra manera."
+        }
+      ]
+    },
+    {
+      "id": "difference",
+      "pos": "noun",
+      "parent": "different",
+      "parts": [
+        "dif-",
+        "fer",
+        "-ence"
+      ],
+      "gloss": {
+        "en": "the way in which things are not the same",
+        "tr": "fark",
+        "de": "der Unterschied",
+        "fr": "la différence",
+        "it": "la differenza",
+        "es": "la diferencia"
+      },
+      "sentences": [
+        {
+          "en": "Can you see the [difference] between the two pictures?",
+          "tr": "İki resim arasındaki farkı görebiliyor musun?",
+          "de": "Siehst du den Unterschied zwischen den beiden Bildern?",
+          "fr": "Tu vois la différence entre les deux images ?",
+          "it": "Vedi la differenza tra le due immagini?",
+          "es": "¿Ves la diferencia entre las dos imágenes?"
+        },
+        {
+          "en": "Small changes can make a big [difference].",
+          "tr": "Küçük değişiklikler büyük fark yaratabilir.",
+          "de": "Kleine Änderungen können viel bewirken.",
+          "fr": "De petits changements peuvent faire une grande différence.",
+          "it": "Piccoli cambiamenti possono fare una grande differenza.",
+          "es": "Pequeños cambios pueden marcar una gran diferencia."
+        }
+      ]
+    },
+    {
+      "id": "indifferent",
+      "pos": "adjective",
+      "parent": "different",
+      "parts": [
+        "in-not-",
+        "dif-",
+        "fer",
+        "-ent"
+      ],
+      "gloss": {
+        "en": "not caring or interested",
+        "tr": "kayıtsız, ilgisiz",
+        "de": "gleichgültig",
+        "fr": "indifférent",
+        "it": "indifferente",
+        "es": "indiferente"
+      },
+      "sentences": [
+        {
+          "en": "He seemed [indifferent] to the result.",
+          "tr": "Sonuca kayıtsız görünüyordu.",
+          "de": "Das Ergebnis schien ihm gleichgültig zu sein.",
+          "fr": "Il semblait indifférent au résultat.",
+          "it": "Sembrava indifferente al risultato.",
+          "es": "Parecía indiferente al resultado."
+        },
+        {
+          "en": "How can you be [indifferent] to so much pain?",
+          "tr": "Bu kadar acıya nasıl kayıtsız kalabilirsin?",
+          "de": "Wie kann dir so viel Leid gleichgültig sein?",
+          "fr": "Comment peux-tu rester indifférent à tant de souffrance ?",
+          "it": "Come puoi restare indifferente a tanto dolore?",
+          "es": "¿Cómo puedes ser indiferente a tanto dolor?"
+        }
+      ]
+    },
+    {
+      "id": "confer",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "con-",
+        "fer"
+      ],
+      "gloss": {
+        "en": "to discuss in order to decide; to give an honour (literally: to bring together)",
+        "tr": "görüşmek, danışmak; (unvan) vermek",
+        "de": "sich beraten; verleihen",
+        "fr": "se concerter; conférer",
+        "it": "consultarsi; conferire",
+        "es": "deliberar; conceder"
+      },
+      "sentences": [
+        {
+          "en": "The judges [conferred] before giving the result.",
+          "tr": "Jüri üyeleri sonucu açıklamadan önce görüştü.",
+          "de": "Die Jury beriet sich, bevor sie das Ergebnis verkündete.",
+          "fr": "Les juges se sont concertés avant d'annoncer le résultat.",
+          "it": "I giudici si sono consultati prima di dare il risultato.",
+          "es": "Los jueces deliberaron antes de dar el resultado."
+        },
+        {
+          "en": "The university [conferred] an honorary degree on her.",
+          "tr": "Üniversite ona fahri doktora unvanı verdi.",
+          "de": "Die Universität verlieh ihr die Ehrendoktorwürde.",
+          "fr": "L'université lui a conféré un doctorat honorifique.",
+          "it": "L'università le ha conferito una laurea ad honorem.",
+          "es": "La universidad le concedió un doctorado honoris causa."
+        }
+      ]
+    },
+    {
+      "id": "conference",
+      "pos": "noun",
+      "parent": "confer",
+      "parts": [
+        "con-",
+        "fer",
+        "-ence"
+      ],
+      "gloss": {
+        "en": "a large meeting where people discuss a subject",
+        "tr": "konferans",
+        "de": "die Konferenz, die Tagung",
+        "fr": "la conférence, le congrès",
+        "it": "la conferenza, il convegno",
+        "es": "el congreso, la conferencia"
+      },
+      "sentences": [
+        {
+          "en": "She is speaking at a [conference] in Vienna.",
+          "tr": "Viyana'daki bir konferansta konuşma yapacak.",
+          "de": "Sie hält einen Vortrag auf einer Konferenz in Wien.",
+          "fr": "Elle intervient lors d'une conférence à Vienne.",
+          "it": "Interviene a una conferenza a Vienna.",
+          "es": "Va a hablar en un congreso en Viena."
+        },
+        {
+          "en": "We had a video [conference] with the team in Spain.",
+          "tr": "İspanya'daki ekiple bir video konferans yaptık.",
+          "de": "Wir hatten eine Videokonferenz mit dem Team in Spanien.",
+          "fr": "Nous avons eu une visioconférence avec l'équipe en Espagne.",
+          "it": "Abbiamo fatto una videoconferenza con il team in Spagna.",
+          "es": "Tuvimos una videoconferencia con el equipo de España."
+        }
+      ]
+    },
+    {
+      "id": "infer",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "in-",
+        "fer"
+      ],
+      "gloss": {
+        "en": "to decide something from facts or hints (literally: to bring in)",
+        "tr": "sonuç çıkarmak, anlamak",
+        "de": "schließen, folgern",
+        "fr": "déduire",
+        "it": "dedurre",
+        "es": "deducir, inferir"
+      },
+      "sentences": [
+        {
+          "en": "From her smile, I [inferred] that she had passed.",
+          "tr": "Gülümsemesinden geçtiğini anladım.",
+          "de": "Aus ihrem Lächeln schloss ich, dass sie bestanden hatte.",
+          "fr": "À son sourire, j'ai déduit qu'elle avait réussi.",
+          "it": "Dal suo sorriso ho dedotto che aveva passato l'esame.",
+          "es": "Por su sonrisa, deduje que había aprobado."
+        },
+        {
+          "en": "What can you [infer] from the data?",
+          "tr": "Verilerden ne sonuç çıkarabilirsin?",
+          "de": "Was kannst du aus den Daten schließen?",
+          "fr": "Que peux-tu déduire des données ?",
+          "it": "Che cosa puoi dedurre dai dati?",
+          "es": "¿Qué puedes inferir de los datos?"
+        }
+      ]
+    },
+    {
+      "id": "inference",
+      "pos": "noun",
+      "parent": "infer",
+      "parts": [
+        "in-",
+        "fer",
+        "-ence"
+      ],
+      "gloss": {
+        "en": "a conclusion based on facts; (in AI) running a trained model",
+        "tr": "çıkarım",
+        "de": "die Schlussfolgerung; die Inferenz",
+        "fr": "la déduction; l'inférence",
+        "it": "la deduzione; l'inferenza",
+        "es": "la inferencia, la deducción"
+      },
+      "sentences": [
+        {
+          "en": "The reader must make an [inference] from the clues.",
+          "tr": "Okuyucunun ipuçlarından bir çıkarım yapması gerekiyor.",
+          "de": "Der Leser muss aus den Hinweisen eine Schlussfolgerung ziehen.",
+          "fr": "Le lecteur doit tirer une déduction des indices.",
+          "it": "Il lettore deve fare una deduzione dagli indizi.",
+          "es": "El lector debe hacer una inferencia a partir de las pistas."
+        },
+        {
+          "en": "[Inference] on a phone must be fast.",
+          "tr": "Telefonda çıkarım hızlı olmalı.",
+          "de": "Inferenz auf einem Handy muss schnell sein.",
+          "fr": "L'inférence sur un téléphone doit être rapide.",
+          "it": "L'inferenza su un telefono deve essere veloce.",
+          "es": "La inferencia en un móvil debe ser rápida."
+        }
+      ]
+    },
+    {
+      "id": "suffer",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "suf-",
+        "fer"
+      ],
+      "gloss": {
+        "en": "to feel pain or have a problem (literally: to carry from below)",
+        "tr": "acı çekmek; muzdarip olmak",
+        "de": "leiden",
+        "fr": "souffrir",
+        "it": "soffrire",
+        "es": "sufrir"
+      },
+      "sentences": [
+        {
+          "en": "She [suffers] from headaches.",
+          "tr": "Baş ağrılarından muzdarip.",
+          "de": "Sie leidet unter Kopfschmerzen.",
+          "fr": "Elle souffre de maux de tête.",
+          "it": "Soffre di mal di testa.",
+          "es": "Sufre dolores de cabeza."
+        },
+        {
+          "en": "The animals [suffered] in the heat.",
+          "tr": "Hayvanlar sıcakta acı çekti.",
+          "de": "Die Tiere litten unter der Hitze.",
+          "fr": "Les animaux ont souffert de la chaleur.",
+          "it": "Gli animali hanno sofferto il caldo.",
+          "es": "Los animales sufrieron con el calor."
+        }
+      ]
+    },
+    {
+      "id": "defer",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "de-",
+        "fer"
+      ],
+      "gloss": {
+        "en": "to put off until later (literally: to carry away)",
+        "tr": "ertelemek",
+        "de": "aufschieben, verschieben",
+        "fr": "reporter, différer",
+        "it": "rimandare, differire",
+        "es": "aplazar"
+      },
+      "sentences": [
+        {
+          "en": "You can [defer] payment until next month.",
+          "tr": "Ödemeyi gelecek aya erteleyebilirsin.",
+          "de": "Du kannst die Zahlung auf nächsten Monat verschieben.",
+          "fr": "Tu peux reporter le paiement au mois prochain.",
+          "it": "Puoi rimandare il pagamento al mese prossimo.",
+          "es": "Puedes aplazar el pago hasta el mes que viene."
+        },
+        {
+          "en": "She [deferred] her studies for a year to travel.",
+          "tr": "Seyahat etmek için okulunu bir yıl erteledi.",
+          "de": "Sie verschob ihr Studium um ein Jahr, um zu reisen.",
+          "fr": "Elle a reporté ses études d'un an pour voyager.",
+          "it": "Ha rimandato gli studi di un anno per viaggiare.",
+          "es": "Aplazó sus estudios un año para viajar."
+        }
+      ]
+    },
+    {
+      "id": "circumference",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "circum-",
+        "fer",
+        "-ence"
+      ],
+      "gloss": {
+        "en": "the distance around a circle (literally: a carrying around)",
+        "tr": "çevre (dairenin)",
+        "de": "der Umfang",
+        "fr": "la circonférence",
+        "it": "la circonferenza",
+        "es": "la circunferencia"
+      },
+      "sentences": [
+        {
+          "en": "Measure the [circumference] of the tree.",
+          "tr": "Ağacın çevresini ölç.",
+          "de": "Miss den Umfang des Baumes.",
+          "fr": "Mesure la circonférence de l'arbre.",
+          "it": "Misura la circonferenza dell'albero.",
+          "es": "Mide la circunferencia del árbol."
+        },
+        {
+          "en": "The Earth's [circumference] is about 40,000 km.",
+          "tr": "Dünya'nın çevresi yaklaşık 40.000 km'dir.",
+          "de": "Der Erdumfang beträgt etwa 40.000 km.",
+          "fr": "La circonférence de la Terre est d'environ 40 000 km.",
+          "it": "La circonferenza della Terra è di circa 40.000 km.",
+          "es": "La circunferencia de la Tierra es de unos 40.000 km."
+        }
+      ]
+    }
+  ]
+}

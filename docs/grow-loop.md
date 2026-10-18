@@ -44,7 +44,7 @@ yanına `(az: N)` yaz. Toplam hedef ≈ 1000–2000 kelime.
 - Aynı test iki turdur düzelmiyorsa ya da push reddediliyorsa döngüyü durdur ve nedenini yaz.
 
 ## Durum
-Kök: 12 / 50 · Kelime: 274
+Kök: 15 / 50 · Kelime: 335
 
 ## Kuyruk
 
@@ -63,9 +63,9 @@ Kök: 12 / 50 · Kelime: 274
 - [x] pend / pens — asmak, tartmak — 24
 - [x] tract — çekmek — 20
 - [x] struct — kurmak — 20
-- [ ] rupt — kırmak
-- [ ] fer — taşımak
-- [ ] cap / cept / ceive — almak
+- [x] rupt — kırmak — 15 (az: 15)
+- [x] fer — taşımak — 20
+- [x] cap / cept / ceive — almak — 26
 - [ ] ced / cess — gitmek
 - [ ] cred — inanmak
 - [ ] fac / fact / fect — yapmak

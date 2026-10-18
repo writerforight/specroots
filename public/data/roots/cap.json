@@ -1,0 +1,948 @@
+{
+  "id": "cap",
+  "forms": [
+    "cap",
+    "capt",
+    "cept",
+    "ceive",
+    "ceiv",
+    "cip"
+  ],
+  "origin": "la",
+  "etymon": "capere",
+  "meaning": {
+    "en": "to take, to seize",
+    "tr": "almak, tutmak",
+    "de": "nehmen, fassen",
+    "fr": "prendre, saisir",
+    "it": "prendere, afferrare",
+    "es": "tomar, coger"
+  },
+  "words": [
+    {
+      "id": "capture",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "capt",
+        "-ure"
+      ],
+      "gloss": {
+        "en": "to catch; to take by force; to record a feeling or image",
+        "tr": "yakalamak, ele geçirmek",
+        "de": "fangen, fassen; einfangen",
+        "fr": "capturer; capter",
+        "it": "catturare; cogliere",
+        "es": "capturar; captar"
+      },
+      "sentences": [
+        {
+          "en": "The police [captured] the thief at the station.",
+          "tr": "Polis hırsızı istasyonda yakaladı.",
+          "de": "Die Polizei fasste den Dieb am Bahnhof.",
+          "fr": "La police a capturé le voleur à la gare.",
+          "it": "La polizia ha catturato il ladro alla stazione.",
+          "es": "La policía capturó al ladrón en la estación."
+        },
+        {
+          "en": "The photo [captures] the beauty of the place.",
+          "tr": "Fotoğraf oranın güzelliğini yakalıyor.",
+          "de": "Das Foto fängt die Schönheit des Ortes ein.",
+          "fr": "La photo capte la beauté du lieu.",
+          "it": "La foto coglie la bellezza del luogo.",
+          "es": "La foto capta la belleza del lugar."
+        }
+      ]
+    },
+    {
+      "id": "captive",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "capt",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "kept as a prisoner; not free",
+        "tr": "esir, tutsak; kapalı yerde tutulan",
+        "de": "gefangen",
+        "fr": "captif, en captivité",
+        "it": "prigioniero, in cattività",
+        "es": "cautivo, en cautividad"
+      },
+      "sentences": [
+        {
+          "en": "The soldiers were held [captive] for a year.",
+          "tr": "Askerler bir yıl esir tutuldu.",
+          "de": "Die Soldaten wurden ein Jahr lang gefangen gehalten.",
+          "fr": "Les soldats ont été retenus captifs pendant un an.",
+          "it": "I soldati sono stati tenuti prigionieri per un anno.",
+          "es": "Los soldados estuvieron cautivos durante un año."
+        },
+        {
+          "en": "[Captive] animals often feel stressed.",
+          "tr": "Kapalı yerde tutulan hayvanlar sık sık stres yaşar.",
+          "de": "Gefangene Tiere sind oft gestresst.",
+          "fr": "Les animaux en captivité sont souvent stressés.",
+          "it": "Gli animali in cattività sono spesso stressati.",
+          "es": "Los animales en cautividad suelen estar estresados."
+        }
+      ]
+    },
+    {
+      "id": "capable",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "cap",
+        "-able"
+      ],
+      "gloss": {
+        "en": "able to do something well (literally: able to take, to hold)",
+        "tr": "yetenekli; -ebilecek durumda",
+        "de": "fähig",
+        "fr": "compétent; capable",
+        "it": "capace",
+        "es": "capaz"
+      },
+      "sentences": [
+        {
+          "en": "She is a very [capable] manager.",
+          "tr": "Çok yetenekli bir yönetici.",
+          "de": "Sie ist eine sehr fähige Managerin.",
+          "fr": "C'est une gestionnaire très compétente.",
+          "it": "È una manager molto capace.",
+          "es": "Es una directora muy capaz."
+        },
+        {
+          "en": "Is this car [capable] of going faster?",
+          "tr": "Bu araba daha hızlı gidebilir mi?",
+          "de": "Kann dieses Auto noch schneller fahren?",
+          "fr": "Cette voiture est-elle capable d'aller plus vite ?",
+          "it": "Questa macchina è capace di andare più veloce?",
+          "es": "¿Este coche es capaz de ir más rápido?"
+        }
+      ]
+    },
+    {
+      "id": "capacity",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "cap",
+        "-acity"
+      ],
+      "gloss": {
+        "en": "the amount something can hold; ability",
+        "tr": "kapasite",
+        "de": "das Fassungsvermögen, die Kapazität",
+        "fr": "la capacité, la contenance",
+        "it": "la capienza, la capacità",
+        "es": "el aforo, la capacidad"
+      },
+      "sentences": [
+        {
+          "en": "The stadium has a [capacity] of 50,000.",
+          "tr": "Stadyumun kapasitesi 50.000 kişi.",
+          "de": "Das Stadion fasst 50.000 Menschen.",
+          "fr": "Le stade a une capacité de 50 000 places.",
+          "it": "Lo stadio ha una capienza di 50.000 posti.",
+          "es": "El estadio tiene un aforo de 50.000 personas."
+        },
+        {
+          "en": "The battery's [capacity] drops in the cold.",
+          "tr": "Pilin kapasitesi soğukta düşer.",
+          "de": "Die Kapazität des Akkus sinkt bei Kälte.",
+          "fr": "La capacité de la batterie baisse par temps froid.",
+          "it": "La capacità della batteria cala con il freddo.",
+          "es": "La capacidad de la batería baja con el frío."
+        }
+      ]
+    },
+    {
+      "id": "accept",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ac-",
+        "cept"
+      ],
+      "gloss": {
+        "en": "to agree to take or believe something (literally: to take to oneself)",
+        "tr": "kabul etmek",
+        "de": "annehmen, akzeptieren",
+        "fr": "accepter",
+        "it": "accettare",
+        "es": "aceptar"
+      },
+      "sentences": [
+        {
+          "en": "She [accepted] the job offer.",
+          "tr": "İş teklifini kabul etti.",
+          "de": "Sie nahm das Jobangebot an.",
+          "fr": "Elle a accepté l'offre d'emploi.",
+          "it": "Ha accettato l'offerta di lavoro.",
+          "es": "Aceptó la oferta de trabajo."
+        },
+        {
+          "en": "Do you [accept] credit cards?",
+          "tr": "Kredi kartı kabul ediyor musunuz?",
+          "de": "Nehmen Sie Kreditkarten?",
+          "fr": "Vous acceptez les cartes de crédit ?",
+          "it": "Accettate carte di credito?",
+          "es": "¿Aceptan tarjetas de crédito?"
+        }
+      ]
+    },
+    {
+      "id": "acceptable",
+      "pos": "adjective",
+      "parent": "accept",
+      "parts": [
+        "ac-",
+        "cept",
+        "-able"
+      ],
+      "gloss": {
+        "en": "good enough; allowed",
+        "tr": "kabul edilebilir",
+        "de": "annehmbar, akzeptabel",
+        "fr": "acceptable",
+        "it": "accettabile",
+        "es": "aceptable"
+      },
+      "sentences": [
+        {
+          "en": "Is this price [acceptable] to you?",
+          "tr": "Bu fiyat senin için kabul edilebilir mi?",
+          "de": "Ist dieser Preis für dich annehmbar?",
+          "fr": "Ce prix est-il acceptable pour toi ?",
+          "it": "Questo prezzo ti sembra accettabile?",
+          "es": "¿Te parece aceptable este precio?"
+        },
+        {
+          "en": "Shouting at people is not [acceptable].",
+          "tr": "İnsanlara bağırmak kabul edilemez.",
+          "de": "Leute anzuschreien ist nicht akzeptabel.",
+          "fr": "Crier sur les gens n'est pas acceptable.",
+          "it": "Urlare contro le persone non è accettabile.",
+          "es": "Gritar a la gente no es aceptable."
+        }
+      ]
+    },
+    {
+      "id": "acceptance",
+      "pos": "noun",
+      "parent": "accept",
+      "parts": [
+        "ac-",
+        "cept",
+        "-ance"
+      ],
+      "gloss": {
+        "en": "the act of agreeing to take or believe something",
+        "tr": "kabul",
+        "de": "die Zusage; die Akzeptanz",
+        "fr": "l'admission; l'acceptation",
+        "it": "l'accettazione",
+        "es": "la admisión; la aceptación"
+      },
+      "sentences": [
+        {
+          "en": "I got a letter of [acceptance] from the university.",
+          "tr": "Üniversiteden kabul mektubu aldım.",
+          "de": "Ich habe eine Zusage von der Universität bekommen.",
+          "fr": "J'ai reçu une lettre d'admission de l'université.",
+          "it": "Ho ricevuto la lettera di accettazione dall'università.",
+          "es": "Recibí la carta de admisión de la universidad."
+        },
+        {
+          "en": "[Acceptance] of the new rules is growing.",
+          "tr": "Yeni kuralların kabul görmesi artıyor.",
+          "de": "Die Akzeptanz der neuen Regeln wächst.",
+          "fr": "L'acceptation des nouvelles règles progresse.",
+          "it": "L'accettazione delle nuove regole sta crescendo.",
+          "es": "La aceptación de las nuevas normas va en aumento."
+        }
+      ]
+    },
+    {
+      "id": "except",
+      "pos": "preposition",
+      "parent": null,
+      "parts": [
+        "ex-",
+        "cept"
+      ],
+      "gloss": {
+        "en": "not including (literally: taken out)",
+        "tr": "hariç, dışında",
+        "de": "außer",
+        "fr": "sauf",
+        "it": "tranne",
+        "es": "excepto, menos"
+      },
+      "sentences": [
+        {
+          "en": "The shop is open every day [except] Sunday.",
+          "tr": "Dükkân pazar hariç her gün açık.",
+          "de": "Der Laden ist jeden Tag außer Sonntag geöffnet.",
+          "fr": "Le magasin est ouvert tous les jours sauf le dimanche.",
+          "it": "Il negozio è aperto tutti i giorni tranne la domenica.",
+          "es": "La tienda abre todos los días excepto el domingo."
+        },
+        {
+          "en": "Everyone came [except] Tom.",
+          "tr": "Tom dışında herkes geldi.",
+          "de": "Alle kamen außer Tom.",
+          "fr": "Tout le monde est venu sauf Tom.",
+          "it": "Sono venuti tutti tranne Tom.",
+          "es": "Vinieron todos menos Tom."
+        }
+      ]
+    },
+    {
+      "id": "exception",
+      "pos": "noun",
+      "parent": "except",
+      "parts": [
+        "ex-",
+        "cept",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "something that does not follow the rule",
+        "tr": "istisna",
+        "de": "die Ausnahme",
+        "fr": "l'exception",
+        "it": "l'eccezione",
+        "es": "la excepción"
+      },
+      "sentences": [
+        {
+          "en": "Every rule has an [exception].",
+          "tr": "Her kuralın bir istisnası vardır.",
+          "de": "Jede Regel hat eine Ausnahme.",
+          "fr": "Toute règle a son exception.",
+          "it": "Ogni regola ha un'eccezione.",
+          "es": "Toda regla tiene una excepción."
+        },
+        {
+          "en": "We can make an [exception] this time.",
+          "tr": "Bu sefer bir istisna yapabiliriz.",
+          "de": "Diesmal können wir eine Ausnahme machen.",
+          "fr": "Nous pouvons faire une exception cette fois.",
+          "it": "Questa volta possiamo fare un'eccezione.",
+          "es": "Esta vez podemos hacer una excepción."
+        }
+      ]
+    },
+    {
+      "id": "exceptional",
+      "pos": "adjective",
+      "parent": "exception",
+      "parts": [
+        "ex-",
+        "cept",
+        "-ion",
+        "-al"
+      ],
+      "gloss": {
+        "en": "unusually good; unusual",
+        "tr": "olağanüstü; istisnai",
+        "de": "außergewöhnlich",
+        "fr": "exceptionnel",
+        "it": "eccezionale",
+        "es": "excepcional"
+      },
+      "sentences": [
+        {
+          "en": "She is an [exceptional] student.",
+          "tr": "Olağanüstü bir öğrenci.",
+          "de": "Sie ist eine außergewöhnliche Studentin.",
+          "fr": "C'est une étudiante exceptionnelle.",
+          "it": "È una studentessa eccezionale.",
+          "es": "Es una estudiante excepcional."
+        },
+        {
+          "en": "Only in [exceptional] cases can you pay later.",
+          "tr": "Sonra ödemek sadece istisnai durumlarda mümkün.",
+          "de": "Nur in Ausnahmefällen kann man später zahlen.",
+          "fr": "Ce n'est que dans des cas exceptionnels qu'on peut payer plus tard.",
+          "it": "Solo in casi eccezionali si può pagare dopo.",
+          "es": "Solo en casos excepcionales se puede pagar más tarde."
+        }
+      ]
+    },
+    {
+      "id": "conceive",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "con-",
+        "ceive"
+      ],
+      "gloss": {
+        "en": "to form an idea; to imagine; to become pregnant (literally: to take together)",
+        "tr": "tasarlamak; hayal etmek; gebe kalmak",
+        "de": "sich ausdenken; sich vorstellen",
+        "fr": "concevoir",
+        "it": "concepire",
+        "es": "concebir"
+      },
+      "sentences": [
+        {
+          "en": "Who first [conceived] the idea of a library?",
+          "tr": "Kütüphane fikrini ilk kim düşündü?",
+          "de": "Wer hatte als Erster die Idee einer Bibliothek?",
+          "fr": "Qui a conçu le premier l'idée d'une bibliothèque ?",
+          "it": "Chi ha concepito per primo l'idea di una biblioteca?",
+          "es": "¿Quién concibió por primera vez la idea de una biblioteca?"
+        },
+        {
+          "en": "I can't [conceive] of a life without music.",
+          "tr": "Müziksiz bir hayat düşünemiyorum.",
+          "de": "Ich kann mir ein Leben ohne Musik nicht vorstellen.",
+          "fr": "Je ne peux pas concevoir une vie sans musique.",
+          "it": "Non riesco a concepire una vita senza musica.",
+          "es": "No puedo concebir una vida sin música."
+        }
+      ]
+    },
+    {
+      "id": "concept",
+      "pos": "noun",
+      "parent": "conceive",
+      "parts": [
+        "con-",
+        "cept"
+      ],
+      "gloss": {
+        "en": "an idea of what something is",
+        "tr": "kavram; fikir",
+        "de": "der Begriff, das Konzept",
+        "fr": "le concept",
+        "it": "il concetto",
+        "es": "el concepto"
+      },
+      "sentences": [
+        {
+          "en": "Time is a difficult [concept] for small children.",
+          "tr": "Zaman küçük çocuklar için zor bir kavram.",
+          "de": "Zeit ist für kleine Kinder ein schwieriger Begriff.",
+          "fr": "Le temps est un concept difficile pour les jeunes enfants.",
+          "it": "Il tempo è un concetto difficile per i bambini piccoli.",
+          "es": "El tiempo es un concepto difícil para los niños pequeños."
+        },
+        {
+          "en": "The [concept] behind the app is simple.",
+          "tr": "Uygulamanın arkasındaki fikir basit.",
+          "de": "Das Konzept hinter der App ist einfach.",
+          "fr": "Le concept de l'appli est simple.",
+          "it": "Il concetto alla base dell'app è semplice.",
+          "es": "El concepto de la aplicación es sencillo."
+        }
+      ]
+    },
+    {
+      "id": "perceive",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "per-",
+        "ceive"
+      ],
+      "gloss": {
+        "en": "to notice or understand something (literally: to take through)",
+        "tr": "algılamak, fark etmek",
+        "de": "wahrnehmen",
+        "fr": "percevoir",
+        "it": "percepire",
+        "es": "percibir"
+      },
+      "sentences": [
+        {
+          "en": "Dogs [perceive] sounds we cannot hear.",
+          "tr": "Köpekler bizim duyamadığımız sesleri algılar.",
+          "de": "Hunde nehmen Geräusche wahr, die wir nicht hören.",
+          "fr": "Les chiens perçoivent des sons que nous n'entendons pas.",
+          "it": "I cani percepiscono suoni che noi non sentiamo.",
+          "es": "Los perros perciben sonidos que nosotros no oímos."
+        },
+        {
+          "en": "He is [perceived] as a strong leader.",
+          "tr": "Güçlü bir lider olarak görülüyor.",
+          "de": "Er wird als starker Anführer wahrgenommen.",
+          "fr": "Il est perçu comme un leader fort.",
+          "it": "È percepito come un leader forte.",
+          "es": "Se le percibe como un líder fuerte."
+        }
+      ]
+    },
+    {
+      "id": "perception",
+      "pos": "noun",
+      "parent": "perceive",
+      "parts": [
+        "per-",
+        "cept",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "the way you notice or understand something",
+        "tr": "algı",
+        "de": "die Wahrnehmung; das Bild",
+        "fr": "la perception; l'image",
+        "it": "la percezione",
+        "es": "la percepción"
+      },
+      "sentences": [
+        {
+          "en": "Colour [perception] differs from person to person.",
+          "tr": "Renk algısı kişiden kişiye değişir.",
+          "de": "Die Farbwahrnehmung ist bei jedem Menschen anders.",
+          "fr": "La perception des couleurs varie d'une personne à l'autre.",
+          "it": "La percezione dei colori varia da persona a persona.",
+          "es": "La percepción del color varía de una persona a otra."
+        },
+        {
+          "en": "The public [perception] of the company is poor.",
+          "tr": "Şirketin kamuoyundaki imajı kötü.",
+          "de": "Das öffentliche Bild der Firma ist schlecht.",
+          "fr": "L'image de l'entreprise auprès du public est mauvaise.",
+          "it": "La percezione pubblica dell'azienda è negativa.",
+          "es": "La percepción pública de la empresa es mala."
+        }
+      ]
+    },
+    {
+      "id": "receive",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "re-",
+        "ceive"
+      ],
+      "gloss": {
+        "en": "to get something that is given or sent (literally: to take back)",
+        "tr": "almak",
+        "de": "erhalten, bekommen",
+        "fr": "recevoir",
+        "it": "ricevere",
+        "es": "recibir"
+      },
+      "sentences": [
+        {
+          "en": "Did you [receive] my message?",
+          "tr": "Mesajımı aldın mı?",
+          "de": "Hast du meine Nachricht bekommen?",
+          "fr": "As-tu reçu mon message ?",
+          "it": "Hai ricevuto il mio messaggio?",
+          "es": "¿Recibiste mi mensaje?"
+        },
+        {
+          "en": "She [received] a prize for her photos.",
+          "tr": "Fotoğrafları için ödül aldı.",
+          "de": "Sie erhielt einen Preis für ihre Fotos.",
+          "fr": "Elle a reçu un prix pour ses photos.",
+          "it": "Ha ricevuto un premio per le sue foto.",
+          "es": "Recibió un premio por sus fotos."
+        }
+      ]
+    },
+    {
+      "id": "receiver",
+      "pos": "noun",
+      "parent": "receive",
+      "parts": [
+        "re-",
+        "ceiv",
+        "-er"
+      ],
+      "gloss": {
+        "en": "the part of a phone you hold; a device that receives signals",
+        "tr": "ahize; alıcı",
+        "de": "der Hörer; der Empfänger",
+        "fr": "le combiné; le récepteur",
+        "it": "la cornetta; il ricevitore",
+        "es": "el auricular; el receptor"
+      },
+      "sentences": [
+        {
+          "en": "He picked up the [receiver] and listened.",
+          "tr": "Ahizeyi kaldırıp dinledi.",
+          "de": "Er nahm den Hörer ab und hörte zu.",
+          "fr": "Il a décroché le combiné et a écouté.",
+          "it": "Ha sollevato la cornetta e ha ascoltato.",
+          "es": "Descolgó el auricular y escuchó."
+        },
+        {
+          "en": "The radio [receiver] picks up signals from far away.",
+          "tr": "Radyo alıcısı uzaktaki sinyalleri yakalıyor.",
+          "de": "Der Funkempfänger fängt Signale aus großer Ferne auf.",
+          "fr": "Le récepteur radio capte des signaux lointains.",
+          "it": "Il ricevitore radio capta segnali da lontano.",
+          "es": "El receptor de radio capta señales lejanas."
+        }
+      ]
+    },
+    {
+      "id": "reception",
+      "pos": "noun",
+      "parent": "receive",
+      "parts": [
+        "re-",
+        "cept",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "the front desk of a hotel or office; the way something is received",
+        "tr": "resepsiyon; karşılanma",
+        "de": "die Rezeption; die Aufnahme",
+        "fr": "la réception; l'accueil",
+        "it": "la reception; l'accoglienza",
+        "es": "la recepción; la acogida"
+      },
+      "sentences": [
+        {
+          "en": "Leave your key at [reception].",
+          "tr": "Anahtarını resepsiyona bırak.",
+          "de": "Gib deinen Schlüssel an der Rezeption ab.",
+          "fr": "Laisse ta clé à la réception.",
+          "it": "Lascia la chiave alla reception.",
+          "es": "Deja la llave en recepción."
+        },
+        {
+          "en": "The film got a warm [reception] in Cannes.",
+          "tr": "Film Cannes'da sıcak karşılandı.",
+          "de": "Der Film wurde in Cannes herzlich aufgenommen.",
+          "fr": "Le film a reçu un accueil chaleureux à Cannes.",
+          "it": "Il film ha avuto un'accoglienza calorosa a Cannes.",
+          "es": "La película tuvo una cálida acogida en Cannes."
+        }
+      ]
+    },
+    {
+      "id": "receptive",
+      "pos": "adjective",
+      "parent": "receive",
+      "parts": [
+        "re-",
+        "cept",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "willing to listen to new ideas",
+        "tr": "açık, yeniliklere açık",
+        "de": "aufgeschlossen, empfänglich",
+        "fr": "réceptif, ouvert",
+        "it": "aperto, ricettivo",
+        "es": "receptivo"
+      },
+      "sentences": [
+        {
+          "en": "The new boss is [receptive] to suggestions.",
+          "tr": "Yeni patron önerilere açık.",
+          "de": "Die neue Chefin ist offen für Vorschläge.",
+          "fr": "La nouvelle patronne est réceptive aux suggestions.",
+          "it": "La nuova capa è aperta ai suggerimenti.",
+          "es": "La nueva jefa es receptiva a las sugerencias."
+        },
+        {
+          "en": "Children are very [receptive] to new languages.",
+          "tr": "Çocuklar yeni dillere çok açıktır.",
+          "de": "Kinder sind für neue Sprachen sehr empfänglich.",
+          "fr": "Les enfants sont très réceptifs aux nouvelles langues.",
+          "it": "I bambini sono molto ricettivi alle nuove lingue.",
+          "es": "Los niños son muy receptivos a los idiomas nuevos."
+        }
+      ]
+    },
+    {
+      "id": "recipient",
+      "pos": "noun",
+      "parent": "receive",
+      "parts": [
+        "re-",
+        "cip",
+        "-ient"
+      ],
+      "gloss": {
+        "en": "a person who receives something",
+        "tr": "alıcı; ödülü alan kişi",
+        "de": "der Empfänger; der Preisträger",
+        "fr": "le destinataire; le lauréat",
+        "it": "il destinatario; il vincitore",
+        "es": "el destinatario; el galardonado"
+      },
+      "sentences": [
+        {
+          "en": "Check the [recipient] before you send the email.",
+          "tr": "E-postayı göndermeden önce alıcıyı kontrol et.",
+          "de": "Prüf den Empfänger, bevor du die E-Mail abschickst.",
+          "fr": "Vérifie le destinataire avant d'envoyer l'e-mail.",
+          "it": "Controlla il destinatario prima di inviare l'email.",
+          "es": "Comprueba el destinatario antes de enviar el correo."
+        },
+        {
+          "en": "She was the youngest [recipient] of the prize.",
+          "tr": "Ödülü alan en genç kişiydi.",
+          "de": "Sie war die jüngste Preisträgerin.",
+          "fr": "Elle était la plus jeune lauréate du prix.",
+          "it": "È stata la più giovane vincitrice del premio.",
+          "es": "Fue la galardonada más joven del premio."
+        }
+      ]
+    },
+    {
+      "id": "deceive",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "de-",
+        "ceive"
+      ],
+      "gloss": {
+        "en": "to make someone believe something false (literally: to take away, to trap)",
+        "tr": "kandırmak, aldatmak; yanıltmak",
+        "de": "täuschen",
+        "fr": "tromper",
+        "it": "ingannare",
+        "es": "engañar"
+      },
+      "sentences": [
+        {
+          "en": "The ad [deceived] many customers.",
+          "tr": "Reklam birçok müşteriyi kandırdı.",
+          "de": "Die Werbung täuschte viele Kunden.",
+          "fr": "La publicité a trompé beaucoup de clients.",
+          "it": "La pubblicità ha ingannato molti clienti.",
+          "es": "El anuncio engañó a muchos clientes."
+        },
+        {
+          "en": "Don't let first impressions [deceive] you.",
+          "tr": "İlk izlenimlerin seni yanıltmasına izin verme.",
+          "de": "Lass dich vom ersten Eindruck nicht täuschen.",
+          "fr": "Ne te laisse pas tromper par les premières impressions.",
+          "it": "Non lasciarti ingannare dalle prime impressioni.",
+          "es": "No dejes que las primeras impresiones te engañen."
+        }
+      ]
+    },
+    {
+      "id": "deception",
+      "pos": "noun",
+      "parent": "deceive",
+      "parts": [
+        "de-",
+        "cept",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "the act of making someone believe something false",
+        "tr": "aldatma, hile",
+        "de": "die Täuschung",
+        "fr": "la tromperie",
+        "it": "l'inganno",
+        "es": "el engaño"
+      },
+      "sentences": [
+        {
+          "en": "The magician's trick is pure [deception].",
+          "tr": "Sihirbazın numarası tamamen göz boyama.",
+          "de": "Der Trick des Zauberers ist reine Täuschung.",
+          "fr": "Le tour du magicien n'est que tromperie.",
+          "it": "Il trucco del mago è puro inganno.",
+          "es": "El truco del mago es puro engaño."
+        },
+        {
+          "en": "He won the game through [deception].",
+          "tr": "Oyunu hileyle kazandı.",
+          "de": "Er gewann das Spiel durch Täuschung.",
+          "fr": "Il a gagné la partie par la tromperie.",
+          "it": "Ha vinto la partita con l'inganno.",
+          "es": "Ganó la partida mediante el engaño."
+        }
+      ]
+    },
+    {
+      "id": "intercept",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "inter-",
+        "cept"
+      ],
+      "gloss": {
+        "en": "to stop something on its way (literally: to take between)",
+        "tr": "yolda yakalamak, önünü kesmek",
+        "de": "abfangen",
+        "fr": "intercepter",
+        "it": "intercettare",
+        "es": "interceptar"
+      },
+      "sentences": [
+        {
+          "en": "The defender [intercepted] the pass.",
+          "tr": "Defans oyuncusu pası kesti.",
+          "de": "Der Verteidiger fing den Pass ab.",
+          "fr": "Le défenseur a intercepté la passe.",
+          "it": "Il difensore ha intercettato il passaggio.",
+          "es": "El defensa interceptó el pase."
+        },
+        {
+          "en": "Police [intercepted] the shipment at the border.",
+          "tr": "Polis sevkiyatı sınırda yakaladı.",
+          "de": "Die Polizei fing die Lieferung an der Grenze ab.",
+          "fr": "La police a intercepté la cargaison à la frontière.",
+          "it": "La polizia ha intercettato il carico al confine.",
+          "es": "La policía interceptó el envío en la frontera."
+        }
+      ]
+    },
+    {
+      "id": "susceptible",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "sus-",
+        "cept",
+        "-ible"
+      ],
+      "gloss": {
+        "en": "easily affected or influenced (literally: able to take up from below)",
+        "tr": "yatkın, hassas",
+        "de": "anfällig",
+        "fr": "vulnérable, sensible",
+        "it": "predisposto, sensibile",
+        "es": "propenso, susceptible"
+      },
+      "sentences": [
+        {
+          "en": "Old people are more [susceptible] to the flu.",
+          "tr": "Yaşlılar gribe daha yatkındır.",
+          "de": "Ältere Menschen sind anfälliger für Grippe.",
+          "fr": "Les personnes âgées sont plus vulnérables à la grippe.",
+          "it": "Gli anziani sono più predisposti all'influenza.",
+          "es": "Las personas mayores son más propensas a la gripe."
+        },
+        {
+          "en": "Teenagers can be [susceptible] to peer pressure.",
+          "tr": "Gençler akran baskısına karşı hassas olabilir.",
+          "de": "Jugendliche können anfällig für Gruppendruck sein.",
+          "fr": "Les ados peuvent être sensibles à la pression du groupe.",
+          "it": "Gli adolescenti possono essere sensibili alla pressione dei coetanei.",
+          "es": "Los adolescentes pueden ser susceptibles a la presión del grupo."
+        }
+      ]
+    },
+    {
+      "id": "participate",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "parti-",
+        "cip",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "to take part (literally: to take a part)",
+        "tr": "katılmak",
+        "de": "teilnehmen, sich beteiligen",
+        "fr": "participer",
+        "it": "partecipare",
+        "es": "participar"
+      },
+      "sentences": [
+        {
+          "en": "Everyone [participated] in the game.",
+          "tr": "Herkes oyuna katıldı.",
+          "de": "Alle nahmen am Spiel teil.",
+          "fr": "Tout le monde a participé au jeu.",
+          "it": "Tutti hanno partecipato al gioco.",
+          "es": "Todos participaron en el juego."
+        },
+        {
+          "en": "I want to [participate] more in class.",
+          "tr": "Derse daha çok katılmak istiyorum.",
+          "de": "Ich möchte mich mehr am Unterricht beteiligen.",
+          "fr": "Je veux participer davantage en classe.",
+          "it": "Voglio partecipare di più in classe.",
+          "es": "Quiero participar más en clase."
+        }
+      ]
+    },
+    {
+      "id": "participant",
+      "pos": "noun",
+      "parent": "participate",
+      "parts": [
+        "parti-",
+        "cip",
+        "-ant"
+      ],
+      "gloss": {
+        "en": "a person who takes part",
+        "tr": "katılımcı",
+        "de": "der Teilnehmer",
+        "fr": "le participant",
+        "it": "il partecipante",
+        "es": "el participante"
+      },
+      "sentences": [
+        {
+          "en": "Each [participant] gets a T-shirt.",
+          "tr": "Her katılımcıya bir tişört veriliyor.",
+          "de": "Jeder Teilnehmer bekommt ein T-Shirt.",
+          "fr": "Chaque participant reçoit un t-shirt.",
+          "it": "Ogni partecipante riceve una maglietta.",
+          "es": "Cada participante recibe una camiseta."
+        },
+        {
+          "en": "The study had two hundred [participants].",
+          "tr": "Çalışmaya iki yüz kişi katıldı.",
+          "de": "An der Studie nahmen zweihundert Personen teil.",
+          "fr": "L'étude comptait deux cents participants.",
+          "it": "Lo studio ha avuto duecento partecipanti.",
+          "es": "El estudio contó con doscientos participantes."
+        }
+      ]
+    },
+    {
+      "id": "anticipate",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "anti-before-",
+        "cip",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "to expect and prepare for something (literally: to take before)",
+        "tr": "öngörmek, beklemek",
+        "de": "erwarten, vorhersehen",
+        "fr": "prévoir, anticiper",
+        "it": "prevedere",
+        "es": "prever, anticiparse"
+      },
+      "sentences": [
+        {
+          "en": "We [anticipate] a lot of visitors this summer.",
+          "tr": "Bu yaz çok ziyaretçi bekliyoruz.",
+          "de": "Wir erwarten diesen Sommer viele Besucher.",
+          "fr": "Nous prévoyons beaucoup de visiteurs cet été.",
+          "it": "Prevediamo molti visitatori quest'estate.",
+          "es": "Prevemos muchos visitantes este verano."
+        },
+        {
+          "en": "A good driver [anticipates] danger.",
+          "tr": "İyi bir sürücü tehlikeyi önceden sezer.",
+          "de": "Ein guter Fahrer erkennt Gefahren im Voraus.",
+          "fr": "Un bon conducteur anticipe le danger.",
+          "it": "Un buon guidatore prevede il pericolo.",
+          "es": "Un buen conductor se anticipa al peligro."
+        }
+      ]
+    }
+  ]
+}
