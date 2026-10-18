@@ -44,7 +44,7 @@ yanına `(az: N)` yaz. Toplam hedef ≈ 1000–2000 kelime.
 - Aynı test iki turdur düzelmiyorsa ya da push reddediliyorsa döngüyü durdur ve nedenini yaz.
 
 ## Durum
-Kök: 39 / 50 · Kelime: 787
+Kök: 42 / 50 · Kelime: 845
 
 ## Kuyruk
 
@@ -90,11 +90,11 @@ Kök: 39 / 50 · Kelime: 787
 - [x] cid / cis — kesmek — 15 (az: 15)
 - [x] mand — emretmek — 9 (az: 9)
 - [x] ven / vent — gelmek — 22
-- [ ] plic / ply — katlamak
+- [x] plic / ply — katlamak — 23
 
 ### Yeni (Yunanca, `"origin": "gr"`)
-- [ ] graph / gram — yazmak, çizmek
-- [ ] phon — ses
+- [x] graph / gram — yazmak, çizmek — 20
+- [x] phon — ses — 15 (az: 15)
 - [ ] bio — yaşam
 - [ ] log — söz, bilim
 - [ ] chron — zaman

@@ -554,6 +554,45 @@
     ]
   },
   {
+    "id": "graph",
+    "forms": [
+      "graph",
+      "gram",
+      "gramm"
+    ],
+    "origin": "gr",
+    "meaning": {
+      "en": "to write, to draw; something written",
+      "tr": "yazmak, çizmek; yazılı şey",
+      "de": "schreiben, zeichnen; das Geschriebene",
+      "fr": "écrire, dessiner; un écrit",
+      "it": "scrivere, disegnare; uno scritto",
+      "es": "escribir, dibujar; algo escrito"
+    },
+    "words": [
+      "graph",
+      "graphic",
+      "photograph",
+      "photography",
+      "photographer",
+      "paragraph",
+      "autograph",
+      "biography",
+      "autobiography",
+      "geography",
+      "calligraphy",
+      "choreography",
+      "telegram",
+      "diagram",
+      "program",
+      "programmer",
+      "kilogram",
+      "hologram",
+      "demographic",
+      "grammar"
+    ]
+  },
+  {
     "id": "ject",
     "forms": [
       "ject"
@@ -843,6 +882,82 @@
       "appendix",
       "impending",
       "pensive"
+    ]
+  },
+  {
+    "id": "phon",
+    "forms": [
+      "phon",
+      "phone"
+    ],
+    "origin": "gr",
+    "meaning": {
+      "en": "sound, voice",
+      "tr": "ses",
+      "de": "der Laut, die Stimme",
+      "fr": "le son, la voix",
+      "it": "il suono, la voce",
+      "es": "el sonido, la voz"
+    },
+    "words": [
+      "phone",
+      "telephone",
+      "smartphone",
+      "microphone",
+      "megaphone",
+      "headphones",
+      "symphony",
+      "cacophony",
+      "saxophone",
+      "xylophone",
+      "homophone",
+      "francophone",
+      "phonetic",
+      "phonics",
+      "phoneme"
+    ]
+  },
+  {
+    "id": "plic",
+    "forms": [
+      "plic",
+      "ply",
+      "plex",
+      "ploy"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to fold, to twist together",
+      "tr": "katlamak, bükmek",
+      "de": "falten, flechten",
+      "fr": "plier, tresser",
+      "it": "piegare, intrecciare",
+      "es": "plegar, entrelazar"
+    },
+    "words": [
+      "apply",
+      "application",
+      "applicant",
+      "reply",
+      "imply",
+      "implication",
+      "implicit",
+      "explicit",
+      "complicate",
+      "complicated",
+      "complication",
+      "complex",
+      "complexity",
+      "perplexed",
+      "duplicate",
+      "multiply",
+      "multiplication",
+      "employ",
+      "employer",
+      "employee",
+      "employment",
+      "unemployment",
+      "deploy"
     ]
   },
   {

@@ -1,0 +1,546 @@
+{
+  "id": "phon",
+  "forms": [
+    "phon",
+    "phone"
+  ],
+  "origin": "gr",
+  "etymon": "phone",
+  "meaning": {
+    "en": "sound, voice",
+    "tr": "ses",
+    "de": "der Laut, die Stimme",
+    "fr": "le son, la voix",
+    "it": "il suono, la voce",
+    "es": "el sonido, la voz"
+  },
+  "words": [
+    {
+      "id": "phone",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "phone"
+      ],
+      "gloss": {
+        "en": "a telephone, especially a mobile one (short for telephone)",
+        "tr": "telefon",
+        "de": "das Telefon, das Handy",
+        "fr": "le téléphone",
+        "it": "il telefono",
+        "es": "el teléfono"
+      },
+      "sentences": [
+        {
+          "en": "My [phone] battery is almost empty.",
+          "tr": "Telefonumun şarjı bitmek üzere.",
+          "de": "Mein Handyakku ist fast leer.",
+          "fr": "La batterie de mon téléphone est presque vide.",
+          "it": "La batteria del telefono è quasi scarica.",
+          "es": "La batería del móvil está casi agotada."
+        },
+        {
+          "en": "Put your [phone] away during dinner.",
+          "tr": "Yemekte telefonunu bırak.",
+          "de": "Leg beim Essen dein Handy weg.",
+          "fr": "Range ton téléphone pendant le dîner.",
+          "it": "Metti via il telefono durante la cena.",
+          "es": "Deja el móvil durante la cena."
+        }
+      ]
+    },
+    {
+      "id": "telephone",
+      "pos": "noun",
+      "parent": "phone",
+      "parts": [
+        "tele-",
+        "phone"
+      ],
+      "gloss": {
+        "en": "a device for talking to someone far away (literally: far sound)",
+        "tr": "telefon",
+        "de": "das Telefon",
+        "fr": "le téléphone",
+        "it": "il telefono",
+        "es": "el teléfono"
+      },
+      "sentences": [
+        {
+          "en": "Bell was one of the inventors of the [telephone].",
+          "tr": "Bell telefonun mucitlerinden biriydi.",
+          "de": "Bell war einer der Erfinder des Telefons.",
+          "fr": "Bell est l'un des inventeurs du téléphone.",
+          "it": "Bell fu uno degli inventori del telefono.",
+          "es": "Bell fue uno de los inventores del teléfono."
+        },
+        {
+          "en": "Please write your [telephone] number here.",
+          "tr": "Lütfen telefon numaranızı buraya yazın.",
+          "de": "Bitte schreiben Sie Ihre Telefonnummer hierhin.",
+          "fr": "Veuillez écrire votre numéro de téléphone ici.",
+          "it": "Scriva qui il suo numero di telefono, per favore.",
+          "es": "Por favor, escriba aquí su número de teléfono."
+        }
+      ]
+    },
+    {
+      "id": "smartphone",
+      "pos": "noun",
+      "parent": "phone",
+      "parts": [
+        "smart-",
+        "phone"
+      ],
+      "gloss": {
+        "en": "a mobile phone that works like a small computer",
+        "tr": "akıllı telefon",
+        "de": "das Smartphone",
+        "fr": "le smartphone",
+        "it": "lo smartphone",
+        "es": "el smartphone, el teléfono inteligente"
+      },
+      "sentences": [
+        {
+          "en": "Almost every student has a [smartphone].",
+          "tr": "Neredeyse her öğrencinin akıllı telefonu var.",
+          "de": "Fast jeder Schüler hat ein Smartphone.",
+          "fr": "Presque tous les élèves ont un smartphone.",
+          "it": "Quasi ogni studente ha uno smartphone.",
+          "es": "Casi todos los alumnos tienen un smartphone."
+        },
+        {
+          "en": "The app works on any [smartphone].",
+          "tr": "Uygulama her akıllı telefonda çalışıyor.",
+          "de": "Die App funktioniert auf jedem Smartphone.",
+          "fr": "L'appli fonctionne sur n'importe quel smartphone.",
+          "it": "L'app funziona su qualsiasi smartphone.",
+          "es": "La aplicación funciona en cualquier smartphone."
+        }
+      ]
+    },
+    {
+      "id": "microphone",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "micro-",
+        "phone"
+      ],
+      "gloss": {
+        "en": "a device that records or makes sounds louder (literally: small sound)",
+        "tr": "mikrofon",
+        "de": "das Mikrofon",
+        "fr": "le microphone, le micro",
+        "it": "il microfono",
+        "es": "el micrófono"
+      },
+      "sentences": [
+        {
+          "en": "Speak into the [microphone], please.",
+          "tr": "Lütfen mikrofona konuşun.",
+          "de": "Bitte sprechen Sie ins Mikrofon.",
+          "fr": "Parlez dans le micro, s'il vous plaît.",
+          "it": "Parli nel microfono, per favore.",
+          "es": "Hable al micrófono, por favor."
+        },
+        {
+          "en": "My laptop has a built-in [microphone].",
+          "tr": "Dizüstü bilgisayarımda dahili bir mikrofon var.",
+          "de": "Mein Laptop hat ein eingebautes Mikrofon.",
+          "fr": "Mon ordinateur portable a un micro intégré.",
+          "it": "Il mio portatile ha un microfono integrato.",
+          "es": "Mi portátil tiene un micrófono integrado."
+        }
+      ]
+    },
+    {
+      "id": "megaphone",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "mega-",
+        "phone"
+      ],
+      "gloss": {
+        "en": "a cone that makes your voice louder (literally: large sound)",
+        "tr": "megafon",
+        "de": "das Megafon",
+        "fr": "le mégaphone",
+        "it": "il megafono",
+        "es": "el megáfono"
+      },
+      "sentences": [
+        {
+          "en": "The guide used a [megaphone] to talk to the group.",
+          "tr": "Rehber grupla konuşmak için megafon kullandı.",
+          "de": "Der Führer benutzte ein Megafon, um zur Gruppe zu sprechen.",
+          "fr": "Le guide utilisait un mégaphone pour parler au groupe.",
+          "it": "La guida usava un megafono per parlare al gruppo.",
+          "es": "El guía usó un megáfono para hablar al grupo."
+        },
+        {
+          "en": "Protesters shouted through a [megaphone].",
+          "tr": "Protestocular megafonla bağırdı.",
+          "de": "Demonstranten riefen durch ein Megafon.",
+          "fr": "Les manifestants criaient dans un mégaphone.",
+          "it": "I manifestanti gridavano in un megafono.",
+          "es": "Los manifestantes gritaban con un megáfono."
+        }
+      ]
+    },
+    {
+      "id": "headphones",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "head-",
+        "phone",
+        "-s"
+      ],
+      "gloss": {
+        "en": "a device you wear on your ears to listen to sound",
+        "tr": "kulaklık",
+        "de": "die Kopfhörer",
+        "fr": "le casque (audio)",
+        "it": "le cuffie",
+        "es": "los auriculares"
+      },
+      "sentences": [
+        {
+          "en": "I study with [headphones] on.",
+          "tr": "Kulaklık takarak ders çalışıyorum.",
+          "de": "Ich lerne mit Kopfhörern.",
+          "fr": "J'étudie avec un casque sur les oreilles.",
+          "it": "Studio con le cuffie.",
+          "es": "Estudio con los auriculares puestos."
+        },
+        {
+          "en": "These [headphones] block out noise.",
+          "tr": "Bu kulaklık gürültüyü engelliyor.",
+          "de": "Diese Kopfhörer blenden Lärm aus.",
+          "fr": "Ce casque bloque le bruit.",
+          "it": "Queste cuffie isolano dal rumore.",
+          "es": "Estos auriculares bloquean el ruido."
+        }
+      ]
+    },
+    {
+      "id": "symphony",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "sym-",
+        "phon",
+        "-y"
+      ],
+      "gloss": {
+        "en": "a long piece of music for an orchestra (literally: sounding together)",
+        "tr": "senfoni",
+        "de": "die Sinfonie",
+        "fr": "la symphonie",
+        "it": "la sinfonia",
+        "es": "la sinfonía"
+      },
+      "sentences": [
+        {
+          "en": "Beethoven wrote nine [symphonies].",
+          "tr": "Beethoven dokuz senfoni yazdı.",
+          "de": "Beethoven schrieb neun Sinfonien.",
+          "fr": "Beethoven a écrit neuf symphonies.",
+          "it": "Beethoven ha scritto nove sinfonie.",
+          "es": "Beethoven escribió nueve sinfonías."
+        },
+        {
+          "en": "We heard a [symphony] by Dvořák.",
+          "tr": "Dvořák'ın bir senfonisini dinledik.",
+          "de": "Wir hörten eine Sinfonie von Dvořák.",
+          "fr": "Nous avons écouté une symphonie de Dvořák.",
+          "it": "Abbiamo ascoltato una sinfonia di Dvořák.",
+          "es": "Escuchamos una sinfonía de Dvořák."
+        }
+      ]
+    },
+    {
+      "id": "cacophony",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "caco-",
+        "phon",
+        "-y"
+      ],
+      "gloss": {
+        "en": "a loud, unpleasant mix of sounds (literally: bad sound)",
+        "tr": "kakofoni, ses karmaşası",
+        "de": "das Getöse, die Kakofonie",
+        "fr": "la cacophonie",
+        "it": "la cacofonia",
+        "es": "la cacofonía"
+      },
+      "sentences": [
+        {
+          "en": "The market was a [cacophony] of voices.",
+          "tr": "Pazar bir ses karmaşasıydı.",
+          "de": "Der Markt war ein Getöse aus Stimmen.",
+          "fr": "Le marché était une cacophonie de voix.",
+          "it": "Il mercato era una cacofonia di voci.",
+          "es": "El mercado era una cacofonía de voces."
+        },
+        {
+          "en": "A [cacophony] of car horns woke me up.",
+          "tr": "Korna sesleri karmaşası beni uyandırdı.",
+          "de": "Ein Hupkonzert weckte mich auf.",
+          "fr": "Une cacophonie de klaxons m'a réveillé.",
+          "it": "Una cacofonia di clacson mi ha svegliato.",
+          "es": "Una cacofonía de bocinas me despertó."
+        }
+      ]
+    },
+    {
+      "id": "saxophone",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "saxo-",
+        "phone"
+      ],
+      "gloss": {
+        "en": "a curved metal instrument used in jazz (named after its inventor, Adolphe Sax)",
+        "tr": "saksafon",
+        "de": "das Saxofon",
+        "fr": "le saxophone",
+        "it": "il sassofono",
+        "es": "el saxofón"
+      },
+      "sentences": [
+        {
+          "en": "He plays the [saxophone] in a jazz band.",
+          "tr": "Bir caz grubunda saksafon çalıyor.",
+          "de": "Er spielt Saxofon in einer Jazzband.",
+          "fr": "Il joue du saxophone dans un groupe de jazz.",
+          "it": "Suona il sassofono in un gruppo jazz.",
+          "es": "Toca el saxofón en un grupo de jazz."
+        },
+        {
+          "en": "The [saxophone] solo was the best part.",
+          "tr": "Saksafon solosu en güzel kısımdı.",
+          "de": "Das Saxofonsolo war der beste Teil.",
+          "fr": "Le solo de saxophone était le meilleur moment.",
+          "it": "L'assolo di sassofono è stato il momento migliore.",
+          "es": "El solo de saxofón fue lo mejor."
+        }
+      ]
+    },
+    {
+      "id": "xylophone",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "xylo-",
+        "phone"
+      ],
+      "gloss": {
+        "en": "an instrument with wooden bars that you hit (literally: wood sound)",
+        "tr": "ksilofon",
+        "de": "das Xylofon",
+        "fr": "le xylophone",
+        "it": "lo xilofono",
+        "es": "el xilófono"
+      },
+      "sentences": [
+        {
+          "en": "Children love playing the [xylophone].",
+          "tr": "Çocuklar ksilofon çalmayı çok sever.",
+          "de": "Kinder spielen gern Xylofon.",
+          "fr": "Les enfants adorent jouer du xylophone.",
+          "it": "I bambini adorano suonare lo xilofono.",
+          "es": "A los niños les encanta tocar el xilófono."
+        },
+        {
+          "en": "Each bar of the [xylophone] makes a different note.",
+          "tr": "Ksilofonun her çubuğu farklı bir nota çıkarır.",
+          "de": "Jeder Stab des Xylofons erzeugt einen anderen Ton.",
+          "fr": "Chaque lame du xylophone donne une note différente.",
+          "it": "Ogni barretta dello xilofono produce una nota diversa.",
+          "es": "Cada lámina del xilófono da una nota distinta."
+        }
+      ]
+    },
+    {
+      "id": "homophone",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "homo-",
+        "phone"
+      ],
+      "gloss": {
+        "en": "a word that sounds like another but means something different, like 'two' and 'too' (literally: same sound)",
+        "tr": "sesteş kelime",
+        "de": "das Homofon",
+        "fr": "l'homophone",
+        "it": "l'omofono",
+        "es": "el homófono"
+      },
+      "sentences": [
+        {
+          "en": "\"Sea\" and \"see\" are [homophones].",
+          "tr": "\"Sea\" ve \"see\" sesteş kelimelerdir.",
+          "de": "„Sea“ und „see“ sind Homofone.",
+          "fr": "« Sea » et « see » sont des homophones.",
+          "it": "«Sea» e «see» sono omofoni.",
+          "es": "«Sea» y «see» son homófonos."
+        },
+        {
+          "en": "English has many tricky [homophones].",
+          "tr": "İngilizcede çok sayıda kafa karıştırıcı sesteş kelime var.",
+          "de": "Das Englische hat viele knifflige Homofone.",
+          "fr": "L'anglais a beaucoup d'homophones piégeux.",
+          "it": "L'inglese ha molti omofoni insidiosi.",
+          "es": "El inglés tiene muchos homófonos engañosos."
+        }
+      ]
+    },
+    {
+      "id": "francophone",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "franco-",
+        "phone"
+      ],
+      "gloss": {
+        "en": "French-speaking (literally: French sound)",
+        "tr": "Fransızca konuşan",
+        "de": "französischsprachig, frankophon",
+        "fr": "francophone",
+        "it": "francofono",
+        "es": "francófono"
+      },
+      "sentences": [
+        {
+          "en": "Quebec is a [francophone] province.",
+          "tr": "Quebec Fransızca konuşulan bir eyalet.",
+          "de": "Quebec ist eine französischsprachige Provinz.",
+          "fr": "Le Québec est une province francophone.",
+          "it": "Il Québec è una provincia francofona.",
+          "es": "Quebec es una provincia francófona."
+        },
+        {
+          "en": "Many African countries are [francophone].",
+          "tr": "Birçok Afrika ülkesinde Fransızca konuşuluyor.",
+          "de": "Viele afrikanische Länder sind frankophon.",
+          "fr": "De nombreux pays africains sont francophones.",
+          "it": "Molti paesi africani sono francofoni.",
+          "es": "Muchos países africanos son francófonos."
+        }
+      ]
+    },
+    {
+      "id": "phonetic",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "phon",
+        "-etic"
+      ],
+      "gloss": {
+        "en": "related to the sounds of speech",
+        "tr": "sesbilimsel, fonetik",
+        "de": "phonetisch, Laut-",
+        "fr": "phonétique",
+        "it": "fonetico",
+        "es": "fonético"
+      },
+      "sentences": [
+        {
+          "en": "Dictionaries use [phonetic] symbols to show sounds.",
+          "tr": "Sözlükler sesleri göstermek için fonetik semboller kullanır.",
+          "de": "Wörterbücher zeigen Laute mit phonetischen Zeichen.",
+          "fr": "Les dictionnaires utilisent des symboles phonétiques.",
+          "it": "I dizionari usano simboli fonetici per i suoni.",
+          "es": "Los diccionarios usan símbolos fonéticos para los sonidos."
+        },
+        {
+          "en": "Turkish spelling is very [phonetic].",
+          "tr": "Türkçe yazım büyük ölçüde okunduğu gibidir.",
+          "de": "Die türkische Rechtschreibung ist sehr lautgetreu.",
+          "fr": "L'orthographe turque est très phonétique.",
+          "it": "L'ortografia turca è molto fonetica.",
+          "es": "La ortografía turca es muy fonética."
+        }
+      ]
+    },
+    {
+      "id": "phonics",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "phon",
+        "-ics"
+      ],
+      "gloss": {
+        "en": "a way of teaching reading through the sounds of letters",
+        "tr": "ses temelli okuma öğretimi",
+        "de": "die Lautiermethode",
+        "fr": "la méthode syllabique",
+        "it": "il metodo fonico",
+        "es": "el método fonético"
+      },
+      "sentences": [
+        {
+          "en": "Young children learn to read with [phonics].",
+          "tr": "Küçük çocuklar okumayı harf sesleriyle öğrenir.",
+          "de": "Kleine Kinder lernen mit der Lautiermethode lesen.",
+          "fr": "Les jeunes enfants apprennent à lire avec la méthode syllabique.",
+          "it": "I bambini piccoli imparano a leggere con il metodo fonico.",
+          "es": "Los niños pequeños aprenden a leer con el método fonético."
+        },
+        {
+          "en": "[Phonics] helps with spelling too.",
+          "tr": "Bu yöntem yazıma da yardım eder.",
+          "de": "Die Lautiermethode hilft auch bei der Rechtschreibung.",
+          "fr": "La méthode syllabique aide aussi pour l'orthographe.",
+          "it": "Il metodo fonico aiuta anche con l'ortografia.",
+          "es": "El método fonético también ayuda con la ortografía."
+        }
+      ]
+    },
+    {
+      "id": "phoneme",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "phon",
+        "-eme"
+      ],
+      "gloss": {
+        "en": "the smallest unit of sound that changes meaning, like /b/ in 'bat'",
+        "tr": "ses birimi, fonem",
+        "de": "das Phonem",
+        "fr": "le phonème",
+        "it": "il fonema",
+        "es": "el fonema"
+      },
+      "sentences": [
+        {
+          "en": "\"Bat\" and \"pat\" differ by one [phoneme].",
+          "tr": "\"Bat\" ve \"pat\" tek bir ses biriminde ayrılır.",
+          "de": "„Bat“ und „pat“ unterscheiden sich in einem Phonem.",
+          "fr": "« Bat » et « pat » diffèrent d'un seul phonème.",
+          "it": "«Bat» e «pat» differiscono per un fonema.",
+          "es": "«Bat» y «pat» se diferencian en un fonema."
+        },
+        {
+          "en": "English has about 44 [phonemes].",
+          "tr": "İngilizcede yaklaşık 44 ses birimi var.",
+          "de": "Das Englische hat etwa 44 Phoneme.",
+          "fr": "L'anglais compte environ 44 phonèmes.",
+          "it": "L'inglese ha circa 44 fonemi.",
+          "es": "El inglés tiene unos 44 fonemas."
+        }
+      ]
+    }
+  ]
+}

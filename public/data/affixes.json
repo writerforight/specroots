@@ -1839,5 +1839,324 @@
       "it": "(desinenza verbale francese: venir)",
       "es": "(terminación verbal francesa: venir)"
     }
+  },
+  "du-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "two",
+      "tr": "iki",
+      "de": "zwei",
+      "fr": "deux",
+      "it": "due",
+      "es": "dos"
+    }
+  },
+  "multi-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "many",
+      "tr": "çok",
+      "de": "viel",
+      "fr": "plusieurs",
+      "it": "molti",
+      "es": "muchos"
+    }
+  },
+  "em-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "in, into (French form of in- before p, b)",
+      "tr": "içine (p, b önünde in- Fransızca biçimi)",
+      "de": "hinein (französische Form von in- vor p, b)",
+      "fr": "dans (forme française de in- devant p, b)",
+      "it": "dentro (forma francese di in- davanti a p, b)",
+      "es": "dentro (forma francesa de in- ante p, b)"
+    }
+  },
+  "photo-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "light (Greek phos)",
+      "tr": "ışık (Yunanca phos)",
+      "de": "Licht (griechisch phos)",
+      "fr": "lumière (grec phos)",
+      "it": "luce (greco phos)",
+      "es": "luz (griego phos)"
+    }
+  },
+  "para-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "beside (Greek)",
+      "tr": "yanında (Yunanca)",
+      "de": "neben (griechisch)",
+      "fr": "à côté (grec)",
+      "it": "accanto (greco)",
+      "es": "al lado (griego)"
+    }
+  },
+  "bio-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "life (Greek bios)",
+      "tr": "yaşam (Yunanca bios)",
+      "de": "Leben (griechisch bios)",
+      "fr": "vie (grec bios)",
+      "it": "vita (greco bios)",
+      "es": "vida (griego bios)"
+    }
+  },
+  "geo-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "earth (Greek ge)",
+      "tr": "yer, dünya (Yunanca ge)",
+      "de": "Erde (griechisch ge)",
+      "fr": "terre (grec ge)",
+      "it": "terra (greco ge)",
+      "es": "tierra (griego ge)"
+    }
+  },
+  "calli-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "beautiful (Greek kallos)",
+      "tr": "güzel (Yunanca kallos)",
+      "de": "schön (griechisch kallos)",
+      "fr": "beau (grec kallos)",
+      "it": "bello (greco kallos)",
+      "es": "bello (griego kallos)"
+    }
+  },
+  "choreo-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "dance (Greek khoreia)",
+      "tr": "dans (Yunanca khoreia)",
+      "de": "Tanz (griechisch khoreia)",
+      "fr": "danse (grec khoreia)",
+      "it": "danza (greco khoreia)",
+      "es": "danza (griego khoreia)"
+    }
+  },
+  "dia-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "across, through (Greek)",
+      "tr": "içinden, karşıdan karşıya (Yunanca)",
+      "de": "durch, quer (griechisch)",
+      "fr": "à travers (grec)",
+      "it": "attraverso (greco)",
+      "es": "a través (griego)"
+    }
+  },
+  "kilo-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "thousand (Greek khilioi)",
+      "tr": "bin (Yunanca khilioi)",
+      "de": "tausend (griechisch khilioi)",
+      "fr": "mille (grec khilioi)",
+      "it": "mille (greco khilioi)",
+      "es": "mil (griego khilioi)"
+    }
+  },
+  "holo-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "whole (Greek holos)",
+      "tr": "bütün (Yunanca holos)",
+      "de": "ganz (griechisch holos)",
+      "fr": "entier (grec holos)",
+      "it": "intero (greco holos)",
+      "es": "entero (griego holos)"
+    }
+  },
+  "demo-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "people (Greek demos)",
+      "tr": "halk (Yunanca demos)",
+      "de": "Volk (griechisch demos)",
+      "fr": "peuple (grec demos)",
+      "it": "popolo (greco demos)",
+      "es": "pueblo (griego demos)"
+    }
+  },
+  "micro-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "small (Greek mikros)",
+      "tr": "küçük (Yunanca mikros)",
+      "de": "klein (griechisch mikros)",
+      "fr": "petit (grec mikros)",
+      "it": "piccolo (greco mikros)",
+      "es": "pequeño (griego mikros)"
+    }
+  },
+  "mega-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "large (Greek megas)",
+      "tr": "büyük (Yunanca megas)",
+      "de": "groß (griechisch megas)",
+      "fr": "grand (grec megas)",
+      "it": "grande (greco megas)",
+      "es": "grande (griego megas)"
+    }
+  },
+  "head-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "head (English)",
+      "tr": "baş (İngilizce)",
+      "de": "Kopf (englisch)",
+      "fr": "tête (anglais)",
+      "it": "testa (inglese)",
+      "es": "cabeza (inglés)"
+    }
+  },
+  "smart-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "clever (English)",
+      "tr": "akıllı (İngilizce)",
+      "de": "klug (englisch)",
+      "fr": "intelligent (anglais)",
+      "it": "intelligente (inglese)",
+      "es": "inteligente (inglés)"
+    }
+  },
+  "sym-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "together (Greek, before p, b, m)",
+      "tr": "birlikte (Yunanca, p, b, m önünde)",
+      "de": "zusammen (griechisch, vor p, b, m)",
+      "fr": "ensemble (grec, devant p, b, m)",
+      "it": "insieme (greco, davanti a p, b, m)",
+      "es": "juntos (griego, ante p, b, m)"
+    }
+  },
+  "saxo-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "Sax (Adolphe Sax, the inventor's name)",
+      "tr": "Sax (mucit Adolphe Sax'ın adı)",
+      "de": "Sax (Name des Erfinders Adolphe Sax)",
+      "fr": "Sax (nom de l'inventeur Adolphe Sax)",
+      "it": "Sax (nome dell'inventore Adolphe Sax)",
+      "es": "Sax (nombre del inventor Adolphe Sax)"
+    }
+  },
+  "xylo-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "wood (Greek xylon)",
+      "tr": "ahşap (Yunanca xylon)",
+      "de": "Holz (griechisch xylon)",
+      "fr": "bois (grec xylon)",
+      "it": "legno (greco xylon)",
+      "es": "madera (griego xylon)"
+    }
+  },
+  "homo-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "same (Greek homos)",
+      "tr": "aynı (Yunanca homos)",
+      "de": "gleich (griechisch homos)",
+      "fr": "même (grec homos)",
+      "it": "stesso (greco homos)",
+      "es": "mismo (griego homos)"
+    }
+  },
+  "caco-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "bad (Greek kakos)",
+      "tr": "kötü (Yunanca kakos)",
+      "de": "schlecht (griechisch kakos)",
+      "fr": "mauvais (grec kakos)",
+      "it": "cattivo (greco kakos)",
+      "es": "malo (griego kakos)"
+    }
+  },
+  "franco-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "French",
+      "tr": "Fransız",
+      "de": "französisch",
+      "fr": "français",
+      "it": "francese",
+      "es": "francés"
+    }
+  },
+  "-ated": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "having been made (makes an adjective)",
+      "tr": "-laştırılmış (sıfat yapar)",
+      "de": "gemacht, -iert (bildet ein Adjektiv)",
+      "fr": "rendu (-é)",
+      "it": "reso (-ato)",
+      "es": "hecho (-ado)"
+    }
+  },
+  "-ar": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "relating to (makes a noun or adjective)",
+      "tr": "ile ilgili",
+      "de": "bezogen auf",
+      "fr": "relatif à",
+      "it": "relativo a",
+      "es": "relativo a"
+    }
+  },
+  "-s": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "more than one (plural)",
+      "tr": "çoğul eki (-ler)",
+      "de": "Mehrzahl",
+      "fr": "pluriel",
+      "it": "plurale",
+      "es": "plural"
+    }
+  },
+  "-etic": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "relating to (makes an adjective)",
+      "tr": "ile ilgili (sıfat yapar)",
+      "de": "bezogen auf (bildet ein Adjektiv)",
+      "fr": "relatif à (-étique)",
+      "it": "relativo a (-etico)",
+      "es": "relativo a (-ético)"
+    }
+  },
+  "-ics": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "study or skill of (makes a noun)",
+      "tr": "bilgisi, tekniği (isim yapar)",
+      "de": "Lehre, Technik (bildet ein Nomen)",
+      "fr": "étude de (-ique)",
+      "it": "studio di (-ica)",
+      "es": "estudio de (-ica)"
+    }
+  },
+  "-eme": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "basic unit (linguistics)",
+      "tr": "temel birim (dilbilim)",
+      "de": "Grundeinheit (Sprachwissenschaft)",
+      "fr": "unité de base (linguistique)",
+      "it": "unità di base (linguistica)",
+      "es": "unidad básica (lingüística)"
+    }
   }
 }

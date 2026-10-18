@@ -1,0 +1,729 @@
+{
+  "id": "graph",
+  "forms": [
+    "graph",
+    "gram",
+    "gramm"
+  ],
+  "origin": "gr",
+  "etymon": "graphein, gramma",
+  "meaning": {
+    "en": "to write, to draw; something written",
+    "tr": "yazmak, çizmek; yazılı şey",
+    "de": "schreiben, zeichnen; das Geschriebene",
+    "fr": "écrire, dessiner; un écrit",
+    "it": "scrivere, disegnare; uno scritto",
+    "es": "escribir, dibujar; algo escrito"
+  },
+  "words": [
+    {
+      "id": "graph",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "graph"
+      ],
+      "gloss": {
+        "en": "a drawing that shows how numbers are related",
+        "tr": "grafik, çizge",
+        "de": "das Diagramm, der Graph",
+        "fr": "le graphique",
+        "it": "il grafico",
+        "es": "el gráfico"
+      },
+      "sentences": [
+        {
+          "en": "The [graph] shows sales for each month.",
+          "tr": "Grafik her ayın satışlarını gösteriyor.",
+          "de": "Das Diagramm zeigt die Verkäufe für jeden Monat.",
+          "fr": "Le graphique montre les ventes de chaque mois.",
+          "it": "Il grafico mostra le vendite di ogni mese.",
+          "es": "El gráfico muestra las ventas de cada mes."
+        },
+        {
+          "en": "Draw a [graph] of the temperature.",
+          "tr": "Sıcaklığın grafiğini çiz.",
+          "de": "Zeichne ein Diagramm der Temperatur.",
+          "fr": "Trace un graphique de la température.",
+          "it": "Disegna un grafico della temperatura.",
+          "es": "Dibuja un gráfico de la temperatura."
+        }
+      ]
+    },
+    {
+      "id": "graphic",
+      "pos": "adjective",
+      "parent": "graph",
+      "parts": [
+        "graph",
+        "-ic"
+      ],
+      "gloss": {
+        "en": "related to drawing or images; very clear and detailed",
+        "tr": "grafik; açık seçik, çarpıcı",
+        "de": "grafisch; anschaulich, drastisch",
+        "fr": "graphique; cru, très réaliste",
+        "it": "grafico; crudo, esplicito",
+        "es": "gráfico; crudo, explícito"
+      },
+      "sentences": [
+        {
+          "en": "She studied [graphic] design.",
+          "tr": "Grafik tasarım okudu.",
+          "de": "Sie hat Grafikdesign studiert.",
+          "fr": "Elle a étudié le graphisme.",
+          "it": "Ha studiato graphic design.",
+          "es": "Estudió diseño gráfico."
+        },
+        {
+          "en": "The film has some [graphic] scenes.",
+          "tr": "Filmde bazı çarpıcı sahneler var.",
+          "de": "Der Film enthält einige drastische Szenen.",
+          "fr": "Le film contient des scènes crues.",
+          "it": "Il film contiene alcune scene crude.",
+          "es": "La película tiene algunas escenas crudas."
+        }
+      ]
+    },
+    {
+      "id": "photograph",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "photo-",
+        "graph"
+      ],
+      "gloss": {
+        "en": "a picture made with a camera (literally: written with light)",
+        "tr": "fotoğraf",
+        "de": "die Fotografie, das Foto",
+        "fr": "la photographie",
+        "it": "la fotografia",
+        "es": "la fotografía"
+      },
+      "sentences": [
+        {
+          "en": "This [photograph] was taken in 1950.",
+          "tr": "Bu fotoğraf 1950'de çekildi.",
+          "de": "Dieses Foto wurde 1950 aufgenommen.",
+          "fr": "Cette photographie a été prise en 1950.",
+          "it": "Questa fotografia è stata scattata nel 1950.",
+          "es": "Esta fotografía se tomó en 1950."
+        },
+        {
+          "en": "Can I take a [photograph] of you?",
+          "tr": "Fotoğrafını çekebilir miyim?",
+          "de": "Darf ich ein Foto von dir machen?",
+          "fr": "Je peux te prendre en photo ?",
+          "it": "Posso farti una foto?",
+          "es": "¿Puedo hacerte una foto?"
+        }
+      ]
+    },
+    {
+      "id": "photography",
+      "pos": "noun",
+      "parent": "photograph",
+      "parts": [
+        "photo-",
+        "graph",
+        "-y"
+      ],
+      "gloss": {
+        "en": "the art or job of taking photographs",
+        "tr": "fotoğrafçılık",
+        "de": "die Fotografie",
+        "fr": "la photographie",
+        "it": "la fotografia",
+        "es": "la fotografía"
+      },
+      "sentences": [
+        {
+          "en": "She is taking a [photography] course.",
+          "tr": "Fotoğrafçılık kursuna gidiyor.",
+          "de": "Sie macht einen Fotokurs.",
+          "fr": "Elle suit un cours de photographie.",
+          "it": "Segue un corso di fotografia.",
+          "es": "Está haciendo un curso de fotografía."
+        },
+        {
+          "en": "[Photography] is not allowed in the museum.",
+          "tr": "Müzede fotoğraf çekmek yasak.",
+          "de": "Fotografieren ist im Museum nicht erlaubt.",
+          "fr": "La photographie est interdite dans le musée.",
+          "it": "Nel museo non è permesso fotografare.",
+          "es": "No se permite hacer fotos en el museo."
+        }
+      ]
+    },
+    {
+      "id": "photographer",
+      "pos": "noun",
+      "parent": "photograph",
+      "parts": [
+        "photo-",
+        "graph",
+        "-er"
+      ],
+      "gloss": {
+        "en": "a person who takes photographs",
+        "tr": "fotoğrafçı",
+        "de": "der Fotograf",
+        "fr": "le photographe",
+        "it": "il fotografo",
+        "es": "el fotógrafo"
+      },
+      "sentences": [
+        {
+          "en": "The [photographer] asked us to smile.",
+          "tr": "Fotoğrafçı gülümsememizi istedi.",
+          "de": "Der Fotograf bat uns zu lächeln.",
+          "fr": "Le photographe nous a demandé de sourire.",
+          "it": "Il fotografo ci ha chiesto di sorridere.",
+          "es": "El fotógrafo nos pidió que sonriéramos."
+        },
+        {
+          "en": "She works as a wildlife [photographer].",
+          "tr": "Yaban hayatı fotoğrafçısı olarak çalışıyor.",
+          "de": "Sie arbeitet als Tierfotografin.",
+          "fr": "Elle travaille comme photographe animalière.",
+          "it": "Lavora come fotografa naturalista.",
+          "es": "Trabaja como fotógrafa de naturaleza."
+        }
+      ]
+    },
+    {
+      "id": "paragraph",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "para-",
+        "graph"
+      ],
+      "gloss": {
+        "en": "a group of sentences that begins on a new line (literally: written beside, a mark in the margin)",
+        "tr": "paragraf",
+        "de": "der Absatz",
+        "fr": "le paragraphe",
+        "it": "il paragrafo",
+        "es": "el párrafo"
+      },
+      "sentences": [
+        {
+          "en": "Start a new [paragraph] for each idea.",
+          "tr": "Her fikir için yeni bir paragraf başlat.",
+          "de": "Beginne für jeden Gedanken einen neuen Absatz.",
+          "fr": "Commence un nouveau paragraphe pour chaque idée.",
+          "it": "Inizia un nuovo paragrafo per ogni idea.",
+          "es": "Empieza un párrafo nuevo para cada idea."
+        },
+        {
+          "en": "Read the first [paragraph] aloud.",
+          "tr": "İlk paragrafı yüksek sesle oku.",
+          "de": "Lies den ersten Absatz laut vor.",
+          "fr": "Lis le premier paragraphe à voix haute.",
+          "it": "Leggi il primo paragrafo ad alta voce.",
+          "es": "Lee el primer párrafo en voz alta."
+        }
+      ]
+    },
+    {
+      "id": "autograph",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "auto-",
+        "graph"
+      ],
+      "gloss": {
+        "en": "a famous person's signature (literally: self-written)",
+        "tr": "imza (ünlü birinin)",
+        "de": "das Autogramm",
+        "fr": "l'autographe",
+        "it": "l'autografo",
+        "es": "el autógrafo"
+      },
+      "sentences": [
+        {
+          "en": "The fans waited for the singer's [autograph].",
+          "tr": "Hayranlar şarkıcının imzası için bekledi.",
+          "de": "Die Fans warteten auf ein Autogramm der Sängerin.",
+          "fr": "Les fans attendaient l'autographe de la chanteuse.",
+          "it": "I fan aspettavano l'autografo della cantante.",
+          "es": "Los fans esperaban el autógrafo de la cantante."
+        },
+        {
+          "en": "I have a football with three [autographs] on it.",
+          "tr": "Üzerinde üç imza olan bir futbol topum var.",
+          "de": "Ich habe einen Fußball mit drei Autogrammen.",
+          "fr": "J'ai un ballon de foot avec trois autographes.",
+          "it": "Ho un pallone con tre autografi.",
+          "es": "Tengo un balón con tres autógrafos."
+        }
+      ]
+    },
+    {
+      "id": "biography",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "bio-",
+        "graph",
+        "-y"
+      ],
+      "gloss": {
+        "en": "a book about someone's life (literally: life writing)",
+        "tr": "biyografi, yaşam öyküsü",
+        "de": "die Biografie",
+        "fr": "la biographie",
+        "it": "la biografia",
+        "es": "la biografía"
+      },
+      "sentences": [
+        {
+          "en": "I'm reading a [biography] of Marie Curie.",
+          "tr": "Marie Curie'nin biyografisini okuyorum.",
+          "de": "Ich lese eine Biografie über Marie Curie.",
+          "fr": "Je lis une biographie de Marie Curie.",
+          "it": "Sto leggendo una biografia di Marie Curie.",
+          "es": "Estoy leyendo una biografía de Marie Curie."
+        },
+        {
+          "en": "Write a short [biography] for the website.",
+          "tr": "Web sitesi için kısa bir biyografi yaz.",
+          "de": "Schreib eine kurze Biografie für die Website.",
+          "fr": "Écris une courte biographie pour le site.",
+          "it": "Scrivi una breve biografia per il sito.",
+          "es": "Escribe una breve biografía para la web."
+        }
+      ]
+    },
+    {
+      "id": "autobiography",
+      "pos": "noun",
+      "parent": "biography",
+      "parts": [
+        "auto-",
+        "bio-",
+        "graph",
+        "-y"
+      ],
+      "gloss": {
+        "en": "a book someone writes about their own life (literally: self-life writing)",
+        "tr": "otobiyografi",
+        "de": "die Autobiografie",
+        "fr": "l'autobiographie",
+        "it": "l'autobiografia",
+        "es": "la autobiografía"
+      },
+      "sentences": [
+        {
+          "en": "The actor published his [autobiography] last year.",
+          "tr": "Oyuncu geçen yıl otobiyografisini yayımladı.",
+          "de": "Der Schauspieler veröffentlichte letztes Jahr seine Autobiografie.",
+          "fr": "L'acteur a publié son autobiographie l'an dernier.",
+          "it": "L'attore ha pubblicato la sua autobiografia l'anno scorso.",
+          "es": "El actor publicó su autobiografía el año pasado."
+        },
+        {
+          "en": "In her [autobiography], she writes about her childhood.",
+          "tr": "Otobiyografisinde çocukluğunu anlatıyor.",
+          "de": "In ihrer Autobiografie schreibt sie über ihre Kindheit.",
+          "fr": "Dans son autobiographie, elle parle de son enfance.",
+          "it": "Nella sua autobiografia parla della sua infanzia.",
+          "es": "En su autobiografía, habla de su infancia."
+        }
+      ]
+    },
+    {
+      "id": "geography",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "geo-",
+        "graph",
+        "-y"
+      ],
+      "gloss": {
+        "en": "the study of the Earth, its countries and people (literally: earth writing)",
+        "tr": "coğrafya",
+        "de": "die Geografie, die Erdkunde",
+        "fr": "la géographie",
+        "it": "la geografia",
+        "es": "la geografía"
+      },
+      "sentences": [
+        {
+          "en": "We have [geography] on Tuesdays.",
+          "tr": "Salıları coğrafya dersimiz var.",
+          "de": "Dienstags haben wir Erdkunde.",
+          "fr": "Nous avons géographie le mardi.",
+          "it": "Il martedì abbiamo geografia.",
+          "es": "Los martes tenemos geografía."
+        },
+        {
+          "en": "The [geography] of the island makes travel slow.",
+          "tr": "Adanın coğrafyası seyahati yavaşlatıyor.",
+          "de": "Die Geografie der Insel macht Reisen langsam.",
+          "fr": "La géographie de l'île rend les déplacements lents.",
+          "it": "La geografia dell'isola rende i viaggi lenti.",
+          "es": "La geografía de la isla hace que viajar sea lento."
+        }
+      ]
+    },
+    {
+      "id": "calligraphy",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "calli-",
+        "graph",
+        "-y"
+      ],
+      "gloss": {
+        "en": "the art of beautiful handwriting (literally: beautiful writing)",
+        "tr": "hat sanatı, kaligrafi",
+        "de": "die Kalligrafie, die Schönschrift",
+        "fr": "la calligraphie",
+        "it": "la calligrafia",
+        "es": "la caligrafía"
+      },
+      "sentences": [
+        {
+          "en": "Ottoman [calligraphy] is famous for its beauty.",
+          "tr": "Osmanlı hat sanatı güzelliğiyle ünlüdür.",
+          "de": "Osmanische Kalligrafie ist für ihre Schönheit berühmt.",
+          "fr": "La calligraphie ottomane est célèbre pour sa beauté.",
+          "it": "La calligrafia ottomana è famosa per la sua bellezza.",
+          "es": "La caligrafía otomana es famosa por su belleza."
+        },
+        {
+          "en": "She learned Chinese [calligraphy] with a brush.",
+          "tr": "Fırçayla Çin kaligrafisi öğrendi.",
+          "de": "Sie lernte chinesische Kalligrafie mit dem Pinsel.",
+          "fr": "Elle a appris la calligraphie chinoise au pinceau.",
+          "it": "Ha imparato la calligrafia cinese con il pennello.",
+          "es": "Aprendió caligrafía china con pincel."
+        }
+      ]
+    },
+    {
+      "id": "choreography",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "choreo-",
+        "graph",
+        "-y"
+      ],
+      "gloss": {
+        "en": "the steps and movements of a dance (literally: dance writing)",
+        "tr": "koreografi",
+        "de": "die Choreografie",
+        "fr": "la chorégraphie",
+        "it": "la coreografia",
+        "es": "la coreografía"
+      },
+      "sentences": [
+        {
+          "en": "The [choreography] of the show was amazing.",
+          "tr": "Gösterinin koreografisi muhteşemdi.",
+          "de": "Die Choreografie der Show war großartig.",
+          "fr": "La chorégraphie du spectacle était incroyable.",
+          "it": "La coreografia dello spettacolo era fantastica.",
+          "es": "La coreografía del espectáculo fue increíble."
+        },
+        {
+          "en": "They practised the [choreography] for weeks.",
+          "tr": "Koreografiyi haftalarca çalıştılar.",
+          "de": "Sie übten die Choreografie wochenlang.",
+          "fr": "Ils ont répété la chorégraphie pendant des semaines.",
+          "it": "Hanno provato la coreografia per settimane.",
+          "es": "Ensayaron la coreografía durante semanas."
+        }
+      ]
+    },
+    {
+      "id": "telegram",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "tele-",
+        "gram"
+      ],
+      "gloss": {
+        "en": "a short message sent by electric signals, used in the past (literally: far writing)",
+        "tr": "telgraf, telgraf mesajı",
+        "de": "das Telegramm",
+        "fr": "le télégramme",
+        "it": "il telegramma",
+        "es": "el telegrama"
+      },
+      "sentences": [
+        {
+          "en": "My grandfather got the news by [telegram].",
+          "tr": "Dedem haberi telgrafla aldı.",
+          "de": "Mein Großvater bekam die Nachricht per Telegramm.",
+          "fr": "Mon grand-père a appris la nouvelle par télégramme.",
+          "it": "Mio nonno ha ricevuto la notizia per telegramma.",
+          "es": "Mi abuelo recibió la noticia por telegrama."
+        },
+        {
+          "en": "A [telegram] cost money for every word.",
+          "tr": "Telgrafta her kelime için para ödenirdi.",
+          "de": "Bei einem Telegramm kostete jedes Wort Geld.",
+          "fr": "Dans un télégramme, chaque mot coûtait de l'argent.",
+          "it": "In un telegramma si pagava ogni parola.",
+          "es": "En un telegrama se pagaba cada palabra."
+        }
+      ]
+    },
+    {
+      "id": "diagram",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "dia-",
+        "gram"
+      ],
+      "gloss": {
+        "en": "a simple drawing that explains how something works (literally: drawn through, marked out)",
+        "tr": "şema, diyagram",
+        "de": "das Diagramm, die Skizze",
+        "fr": "le schéma, le diagramme",
+        "it": "lo schema, il diagramma",
+        "es": "el diagrama, el esquema"
+      },
+      "sentences": [
+        {
+          "en": "The [diagram] shows the parts of a flower.",
+          "tr": "Şema bir çiçeğin bölümlerini gösteriyor.",
+          "de": "Das Diagramm zeigt die Teile einer Blüte.",
+          "fr": "Le schéma montre les parties d'une fleur.",
+          "it": "Lo schema mostra le parti di un fiore.",
+          "es": "El diagrama muestra las partes de una flor."
+        },
+        {
+          "en": "Draw a [diagram] to explain your idea.",
+          "tr": "Fikrini açıklamak için bir şema çiz.",
+          "de": "Zeichne eine Skizze, um deine Idee zu erklären.",
+          "fr": "Fais un schéma pour expliquer ton idée.",
+          "it": "Disegna uno schema per spiegare la tua idea.",
+          "es": "Haz un esquema para explicar tu idea."
+        }
+      ]
+    },
+    {
+      "id": "program",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "pro-",
+        "gram"
+      ],
+      "gloss": {
+        "en": "a set of instructions for a computer; a plan of events (literally: something written before)",
+        "tr": "program",
+        "de": "das Programm",
+        "fr": "le programme",
+        "it": "il programma",
+        "es": "el programa"
+      },
+      "sentences": [
+        {
+          "en": "I wrote a small [program] to sort my photos.",
+          "tr": "Fotoğraflarımı sıralamak için küçük bir program yazdım.",
+          "de": "Ich habe ein kleines Programm geschrieben, um meine Fotos zu sortieren.",
+          "fr": "J'ai écrit un petit programme pour trier mes photos.",
+          "it": "Ho scritto un piccolo programma per ordinare le foto.",
+          "es": "Escribí un pequeño programa para ordenar mis fotos."
+        },
+        {
+          "en": "The festival [program] is online.",
+          "tr": "Festival programı internette.",
+          "de": "Das Festivalprogramm ist online.",
+          "fr": "Le programme du festival est en ligne.",
+          "it": "Il programma del festival è online.",
+          "es": "El programa del festival está en internet."
+        }
+      ]
+    },
+    {
+      "id": "programmer",
+      "pos": "noun",
+      "parent": "program",
+      "parts": [
+        "pro-",
+        "gramm",
+        "-er"
+      ],
+      "gloss": {
+        "en": "a person who writes computer programs",
+        "tr": "programcı",
+        "de": "der Programmierer",
+        "fr": "le programmeur",
+        "it": "il programmatore",
+        "es": "el programador"
+      },
+      "sentences": [
+        {
+          "en": "She works as a [programmer] for a game studio.",
+          "tr": "Bir oyun stüdyosunda programcı olarak çalışıyor.",
+          "de": "Sie arbeitet als Programmiererin bei einem Spielestudio.",
+          "fr": "Elle est programmeuse dans un studio de jeux vidéo.",
+          "it": "Lavora come programmatrice in uno studio di videogiochi.",
+          "es": "Trabaja como programadora en un estudio de videojuegos."
+        },
+        {
+          "en": "Good [programmers] write clear code.",
+          "tr": "İyi programcılar anlaşılır kod yazar.",
+          "de": "Gute Programmierer schreiben verständlichen Code.",
+          "fr": "Les bons programmeurs écrivent du code clair.",
+          "it": "I bravi programmatori scrivono codice chiaro.",
+          "es": "Los buenos programadores escriben código claro."
+        }
+      ]
+    },
+    {
+      "id": "kilogram",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "kilo-",
+        "gram"
+      ],
+      "gloss": {
+        "en": "a unit of weight, 1,000 grams (gram from Greek gramma, 'a small weight')",
+        "tr": "kilogram",
+        "de": "das Kilogramm",
+        "fr": "le kilogramme",
+        "it": "il chilogrammo",
+        "es": "el kilogramo"
+      },
+      "sentences": [
+        {
+          "en": "A litre of water weighs one [kilogram].",
+          "tr": "Bir litre su bir kilogram gelir.",
+          "de": "Ein Liter Wasser wiegt ein Kilogramm.",
+          "fr": "Un litre d'eau pèse un kilogramme.",
+          "it": "Un litro d'acqua pesa un chilogrammo.",
+          "es": "Un litro de agua pesa un kilogramo."
+        },
+        {
+          "en": "The bag must weigh less than twenty [kilograms].",
+          "tr": "Çanta yirmi kilogramdan hafif olmalı.",
+          "de": "Die Tasche muss weniger als zwanzig Kilogramm wiegen.",
+          "fr": "Le sac doit peser moins de vingt kilogrammes.",
+          "it": "La borsa deve pesare meno di venti chilogrammi.",
+          "es": "La maleta debe pesar menos de veinte kilogramos."
+        }
+      ]
+    },
+    {
+      "id": "hologram",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "holo-",
+        "gram"
+      ],
+      "gloss": {
+        "en": "a 3D image made with light (literally: whole drawing)",
+        "tr": "hologram",
+        "de": "das Hologramm",
+        "fr": "l'hologramme",
+        "it": "l'ologramma",
+        "es": "el holograma"
+      },
+      "sentences": [
+        {
+          "en": "The banknote has a small [hologram].",
+          "tr": "Banknotta küçük bir hologram var.",
+          "de": "Der Geldschein hat ein kleines Hologramm.",
+          "fr": "Le billet comporte un petit hologramme.",
+          "it": "La banconota ha un piccolo ologramma.",
+          "es": "El billete tiene un pequeño holograma."
+        },
+        {
+          "en": "A [hologram] of the singer appeared on stage.",
+          "tr": "Sahnede şarkıcının bir hologramı belirdi.",
+          "de": "Ein Hologramm der Sängerin erschien auf der Bühne.",
+          "fr": "Un hologramme de la chanteuse est apparu sur scène.",
+          "it": "Sul palco è apparso un ologramma della cantante.",
+          "es": "Un holograma de la cantante apareció en el escenario."
+        }
+      ]
+    },
+    {
+      "id": "demographic",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "demo-",
+        "graph",
+        "-ic"
+      ],
+      "gloss": {
+        "en": "related to the numbers and types of people in a population (literally: people writing)",
+        "tr": "demografik, nüfusla ilgili",
+        "de": "demografisch",
+        "fr": "démographique",
+        "it": "demografico",
+        "es": "demográfico"
+      },
+      "sentences": [
+        {
+          "en": "Europe faces big [demographic] changes.",
+          "tr": "Avrupa büyük demografik değişikliklerle karşı karşıya.",
+          "de": "Europa steht vor großen demografischen Veränderungen.",
+          "fr": "L'Europe fait face à de grands changements démographiques.",
+          "it": "L'Europa affronta grandi cambiamenti demografici.",
+          "es": "Europa afronta grandes cambios demográficos."
+        },
+        {
+          "en": "The app collects no [demographic] data.",
+          "tr": "Uygulama hiçbir demografik veri toplamıyor.",
+          "de": "Die App erhebt keine demografischen Daten.",
+          "fr": "L'appli ne collecte aucune donnée démographique.",
+          "it": "L'app non raccoglie dati demografici.",
+          "es": "La aplicación no recoge datos demográficos."
+        }
+      ]
+    },
+    {
+      "id": "grammar",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "gramm",
+        "-ar"
+      ],
+      "gloss": {
+        "en": "the rules of how words are used in a language (from Greek grammatike, 'the art of letters')",
+        "tr": "dilbilgisi",
+        "de": "die Grammatik",
+        "fr": "la grammaire",
+        "it": "la grammatica",
+        "es": "la gramática"
+      },
+      "sentences": [
+        {
+          "en": "German [grammar] has four cases.",
+          "tr": "Alman dilbilgisinde dört hâl vardır.",
+          "de": "Die deutsche Grammatik hat vier Fälle.",
+          "fr": "La grammaire allemande a quatre cas.",
+          "it": "La grammatica tedesca ha quattro casi.",
+          "es": "La gramática alemana tiene cuatro casos."
+        },
+        {
+          "en": "Check your [grammar] before you send the email.",
+          "tr": "E-postayı göndermeden önce dilbilgisini kontrol et.",
+          "de": "Prüf die Grammatik, bevor du die E-Mail schickst.",
+          "fr": "Vérifie ta grammaire avant d'envoyer l'e-mail.",
+          "it": "Controlla la grammatica prima di inviare l'email.",
+          "es": "Revisa la gramática antes de enviar el correo."
+        }
+      ]
+    }
+  ]
+}

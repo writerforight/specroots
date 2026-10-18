@@ -1,0 +1,843 @@
+{
+  "id": "plic",
+  "forms": [
+    "plic",
+    "ply",
+    "plex",
+    "ploy"
+  ],
+  "origin": "la",
+  "etymon": "plicare, plectere",
+  "meaning": {
+    "en": "to fold, to twist together",
+    "tr": "katlamak, bükmek",
+    "de": "falten, flechten",
+    "fr": "plier, tresser",
+    "it": "piegare, intrecciare",
+    "es": "plegar, entrelazar"
+  },
+  "words": [
+    {
+      "id": "apply",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ap-",
+        "ply"
+      ],
+      "gloss": {
+        "en": "to ask officially for a job or place; to put on or use (literally: to fold toward)",
+        "tr": "başvurmak; sürmek, uygulamak",
+        "de": "sich bewerben; auftragen, anwenden",
+        "fr": "postuler; appliquer",
+        "it": "candidarsi; applicare",
+        "es": "solicitar; aplicar"
+      },
+      "sentences": [
+        {
+          "en": "She [applied] for a job at the museum.",
+          "tr": "Müzedeki bir işe başvurdu.",
+          "de": "Sie bewarb sich um eine Stelle im Museum.",
+          "fr": "Elle a postulé à un emploi au musée.",
+          "it": "Si è candidata per un lavoro al museo.",
+          "es": "Solicitó un trabajo en el museo."
+        },
+        {
+          "en": "[Apply] the cream twice a day.",
+          "tr": "Kremi günde iki kez sür.",
+          "de": "Trag die Creme zweimal täglich auf.",
+          "fr": "Applique la crème deux fois par jour.",
+          "it": "Applica la crema due volte al giorno.",
+          "es": "Aplica la crema dos veces al día."
+        }
+      ]
+    },
+    {
+      "id": "application",
+      "pos": "noun",
+      "parent": "apply",
+      "parts": [
+        "ap-",
+        "plic",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "a formal request; a computer program; putting something to use",
+        "tr": "başvuru; uygulama",
+        "de": "die Bewerbung, der Antrag; die Anwendung",
+        "fr": "la candidature, la demande; l'application",
+        "it": "la domanda; l'applicazione",
+        "es": "la solicitud; la aplicación"
+      },
+      "sentences": [
+        {
+          "en": "Send your [application] before Friday.",
+          "tr": "Başvurunu cumadan önce gönder.",
+          "de": "Schick deine Bewerbung vor Freitag ab.",
+          "fr": "Envoie ta candidature avant vendredi.",
+          "it": "Invia la domanda prima di venerdì.",
+          "es": "Envía tu solicitud antes del viernes."
+        },
+        {
+          "en": "This [application] works offline.",
+          "tr": "Bu uygulama internetsiz çalışıyor.",
+          "de": "Diese Anwendung funktioniert offline.",
+          "fr": "Cette application fonctionne hors ligne.",
+          "it": "Questa applicazione funziona offline.",
+          "es": "Esta aplicación funciona sin conexión."
+        }
+      ]
+    },
+    {
+      "id": "applicant",
+      "pos": "noun",
+      "parent": "apply",
+      "parts": [
+        "ap-",
+        "plic",
+        "-ant"
+      ],
+      "gloss": {
+        "en": "a person who applies for something",
+        "tr": "başvuru sahibi, aday",
+        "de": "der Bewerber",
+        "fr": "le candidat",
+        "it": "il candidato",
+        "es": "el candidato, el solicitante"
+      },
+      "sentences": [
+        {
+          "en": "There were two hundred [applicants] for the job.",
+          "tr": "İş için iki yüz başvuru sahibi vardı.",
+          "de": "Es gab zweihundert Bewerber für die Stelle.",
+          "fr": "Il y avait deux cents candidats pour le poste.",
+          "it": "C'erano duecento candidati per il posto.",
+          "es": "Hubo doscientos candidatos para el puesto."
+        },
+        {
+          "en": "Each [applicant] must send a CV.",
+          "tr": "Her aday bir özgeçmiş göndermeli.",
+          "de": "Jeder Bewerber muss einen Lebenslauf schicken.",
+          "fr": "Chaque candidat doit envoyer un CV.",
+          "it": "Ogni candidato deve inviare un CV.",
+          "es": "Cada solicitante debe enviar un currículum."
+        }
+      ]
+    },
+    {
+      "id": "reply",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "re-",
+        "ply"
+      ],
+      "gloss": {
+        "en": "to answer (literally: to fold back)",
+        "tr": "cevap vermek, yanıtlamak",
+        "de": "antworten",
+        "fr": "répondre",
+        "it": "rispondere",
+        "es": "responder"
+      },
+      "sentences": [
+        {
+          "en": "She didn't [reply] to my message.",
+          "tr": "Mesajıma cevap vermedi.",
+          "de": "Sie hat auf meine Nachricht nicht geantwortet.",
+          "fr": "Elle n'a pas répondu à mon message.",
+          "it": "Non ha risposto al mio messaggio.",
+          "es": "No respondió a mi mensaje."
+        },
+        {
+          "en": "Please [reply] by Monday.",
+          "tr": "Lütfen pazartesiye kadar yanıt verin.",
+          "de": "Bitte antworten Sie bis Montag.",
+          "fr": "Merci de répondre avant lundi.",
+          "it": "Per favore, rispondete entro lunedì.",
+          "es": "Por favor, responda antes del lunes."
+        }
+      ]
+    },
+    {
+      "id": "imply",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "im-",
+        "ply"
+      ],
+      "gloss": {
+        "en": "to suggest something without saying it directly (literally: to fold in)",
+        "tr": "ima etmek, dolaylı olarak söylemek",
+        "de": "andeuten, implizieren",
+        "fr": "sous-entendre, impliquer",
+        "it": "implicare, sottintendere",
+        "es": "insinuar, dar a entender"
+      },
+      "sentences": [
+        {
+          "en": "Are you [implying] that I'm lazy?",
+          "tr": "Tembel olduğumu mu ima ediyorsun?",
+          "de": "Willst du damit andeuten, dass ich faul bin?",
+          "fr": "Tu sous-entends que je suis paresseux ?",
+          "it": "Stai insinuando che sono pigro?",
+          "es": "¿Insinúas que soy perezoso?"
+        },
+        {
+          "en": "Silence doesn't always [imply] agreement.",
+          "tr": "Sessizlik her zaman onay anlamına gelmez.",
+          "de": "Schweigen bedeutet nicht immer Zustimmung.",
+          "fr": "Le silence n'implique pas toujours l'accord.",
+          "it": "Il silenzio non implica sempre consenso.",
+          "es": "El silencio no siempre implica acuerdo."
+        }
+      ]
+    },
+    {
+      "id": "implication",
+      "pos": "noun",
+      "parent": "imply",
+      "parts": [
+        "im-",
+        "plic",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "a possible effect; something suggested but not said",
+        "tr": "sonuç, etki; ima",
+        "de": "die Folge, die Auswirkung; die Andeutung",
+        "fr": "la conséquence; le sous-entendu",
+        "it": "la conseguenza; l'implicazione",
+        "es": "la consecuencia; la implicación"
+      },
+      "sentences": [
+        {
+          "en": "Think about the [implications] of your decision.",
+          "tr": "Kararının olası sonuçlarını düşün.",
+          "de": "Denk über die Folgen deiner Entscheidung nach.",
+          "fr": "Réfléchis aux conséquences de ta décision.",
+          "it": "Pensa alle conseguenze della tua decisione.",
+          "es": "Piensa en las consecuencias de tu decisión."
+        },
+        {
+          "en": "The [implication] was that we had failed.",
+          "tr": "İma edilen, başarısız olduğumuzdu.",
+          "de": "Die Andeutung war, dass wir versagt hatten.",
+          "fr": "Le sous-entendu, c'était que nous avions échoué.",
+          "it": "L'implicazione era che avevamo fallito.",
+          "es": "Lo que se daba a entender es que habíamos fracasado."
+        }
+      ]
+    },
+    {
+      "id": "implicit",
+      "pos": "adjective",
+      "parent": "imply",
+      "parts": [
+        "im-",
+        "plic",
+        "-it"
+      ],
+      "gloss": {
+        "en": "suggested but not said directly; complete, without doubt",
+        "tr": "örtük, üstü kapalı; tam, kayıtsız şartsız",
+        "de": "unausgesprochen, implizit; bedingungslos",
+        "fr": "implicite; absolu",
+        "it": "implicito; totale",
+        "es": "implícito; absoluto"
+      },
+      "sentences": [
+        {
+          "en": "There was an [implicit] threat in his words.",
+          "tr": "Sözlerinde üstü kapalı bir tehdit vardı.",
+          "de": "In seinen Worten lag eine unausgesprochene Drohung.",
+          "fr": "Il y avait une menace implicite dans ses paroles.",
+          "it": "Nelle sue parole c'era una minaccia implicita.",
+          "es": "Había una amenaza implícita en sus palabras."
+        },
+        {
+          "en": "I have [implicit] trust in her.",
+          "tr": "Ona kayıtsız şartsız güveniyorum.",
+          "de": "Ich vertraue ihr bedingungslos.",
+          "fr": "J'ai une confiance absolue en elle.",
+          "it": "Ho una fiducia totale in lei.",
+          "es": "Tengo una confianza absoluta en ella."
+        }
+      ]
+    },
+    {
+      "id": "explicit",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "ex-",
+        "plic",
+        "-it"
+      ],
+      "gloss": {
+        "en": "clear and direct, leaving nothing unclear (literally: unfolded)",
+        "tr": "açık, net, açıkça belirtilmiş",
+        "de": "ausdrücklich, deutlich",
+        "fr": "explicite",
+        "it": "esplicito",
+        "es": "explícito"
+      },
+      "sentences": [
+        {
+          "en": "She gave [explicit] instructions.",
+          "tr": "Açık talimatlar verdi.",
+          "de": "Sie gab ausdrückliche Anweisungen.",
+          "fr": "Elle a donné des instructions explicites.",
+          "it": "Ha dato istruzioni esplicite.",
+          "es": "Dio instrucciones explícitas."
+        },
+        {
+          "en": "The rules are [explicit] about phones in class.",
+          "tr": "Kurallar derste telefon konusunda açık.",
+          "de": "Die Regeln sind bei Handys im Unterricht eindeutig.",
+          "fr": "Le règlement est explicite sur les téléphones en classe.",
+          "it": "Le regole sono esplicite sui telefoni in classe.",
+          "es": "Las normas son explícitas sobre los móviles en clase."
+        }
+      ]
+    },
+    {
+      "id": "complicate",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "com-",
+        "plic",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "to make more difficult (literally: to fold together)",
+        "tr": "karmaşıklaştırmak, zorlaştırmak",
+        "de": "verkomplizieren, erschweren",
+        "fr": "compliquer",
+        "it": "complicare",
+        "es": "complicar"
+      },
+      "sentences": [
+        {
+          "en": "Don't [complicate] things.",
+          "tr": "İşleri karmaşıklaştırma.",
+          "de": "Mach die Sache nicht komplizierter.",
+          "fr": "Ne complique pas les choses.",
+          "it": "Non complicare le cose.",
+          "es": "No compliques las cosas."
+        },
+        {
+          "en": "Bad weather [complicated] the rescue.",
+          "tr": "Kötü hava kurtarma çalışmalarını zorlaştırdı.",
+          "de": "Schlechtes Wetter erschwerte die Rettung.",
+          "fr": "Le mauvais temps a compliqué le sauvetage.",
+          "it": "Il maltempo ha complicato il soccorso.",
+          "es": "El mal tiempo complicó el rescate."
+        }
+      ]
+    },
+    {
+      "id": "complicated",
+      "pos": "adjective",
+      "parent": "complicate",
+      "parts": [
+        "com-",
+        "plic",
+        "-ated"
+      ],
+      "gloss": {
+        "en": "difficult to understand or deal with",
+        "tr": "karmaşık",
+        "de": "kompliziert",
+        "fr": "compliqué",
+        "it": "complicato",
+        "es": "complicado"
+      },
+      "sentences": [
+        {
+          "en": "The instructions are too [complicated].",
+          "tr": "Talimatlar çok karmaşık.",
+          "de": "Die Anleitung ist zu kompliziert.",
+          "fr": "Les instructions sont trop compliquées.",
+          "it": "Le istruzioni sono troppo complicate.",
+          "es": "Las instrucciones son demasiado complicadas."
+        },
+        {
+          "en": "It's a [complicated] situation.",
+          "tr": "Karmaşık bir durum.",
+          "de": "Es ist eine komplizierte Situation.",
+          "fr": "C'est une situation compliquée.",
+          "it": "È una situazione complicata.",
+          "es": "Es una situación complicada."
+        }
+      ]
+    },
+    {
+      "id": "complication",
+      "pos": "noun",
+      "parent": "complicate",
+      "parts": [
+        "com-",
+        "plic",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "a new problem that makes things harder; a medical problem after an illness",
+        "tr": "komplikasyon, sorun",
+        "de": "die Komplikation",
+        "fr": "la complication",
+        "it": "la complicazione",
+        "es": "la complicación"
+      },
+      "sentences": [
+        {
+          "en": "The operation went well, with no [complications].",
+          "tr": "Ameliyat komplikasyonsuz, iyi geçti.",
+          "de": "Die Operation verlief gut, ohne Komplikationen.",
+          "fr": "L'opération s'est bien passée, sans complications.",
+          "it": "L'operazione è andata bene, senza complicazioni.",
+          "es": "La operación salió bien, sin complicaciones."
+        },
+        {
+          "en": "A late train was one more [complication].",
+          "tr": "Gecikmeli tren bir sorun daha demekti.",
+          "de": "Ein verspäteter Zug war eine weitere Komplikation.",
+          "fr": "Un train en retard était une complication de plus.",
+          "it": "Un treno in ritardo è stato un'altra complicazione.",
+          "es": "Un tren con retraso fue una complicación más."
+        }
+      ]
+    },
+    {
+      "id": "complex",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "com-",
+        "plex"
+      ],
+      "gloss": {
+        "en": "made of many connected parts; difficult (literally: woven together)",
+        "tr": "karmaşık, girift",
+        "de": "komplex, vielschichtig",
+        "fr": "complexe",
+        "it": "complesso",
+        "es": "complejo"
+      },
+      "sentences": [
+        {
+          "en": "The brain is a very [complex] organ.",
+          "tr": "Beyin çok karmaşık bir organdır.",
+          "de": "Das Gehirn ist ein sehr komplexes Organ.",
+          "fr": "Le cerveau est un organe très complexe.",
+          "it": "Il cervello è un organo molto complesso.",
+          "es": "El cerebro es un órgano muy complejo."
+        },
+        {
+          "en": "It's a [complex] problem with no easy answer.",
+          "tr": "Kolay cevabı olmayan girift bir sorun.",
+          "de": "Es ist ein vielschichtiges Problem ohne einfache Lösung.",
+          "fr": "C'est un problème complexe sans réponse facile.",
+          "it": "È un problema complesso senza una risposta facile.",
+          "es": "Es un problema complejo sin respuesta fácil."
+        }
+      ]
+    },
+    {
+      "id": "complexity",
+      "pos": "noun",
+      "parent": "complex",
+      "parts": [
+        "com-",
+        "plex",
+        "-ity"
+      ],
+      "gloss": {
+        "en": "the state of having many connected parts",
+        "tr": "karmaşıklık",
+        "de": "die Komplexität",
+        "fr": "la complexité",
+        "it": "la complessità",
+        "es": "la complejidad"
+      },
+      "sentences": [
+        {
+          "en": "Don't underestimate the [complexity] of the task.",
+          "tr": "Görevin karmaşıklığını hafife alma.",
+          "de": "Unterschätze die Komplexität der Aufgabe nicht.",
+          "fr": "Ne sous-estime pas la complexité de la tâche.",
+          "it": "Non sottovalutare la complessità del compito.",
+          "es": "No subestimes la complejidad de la tarea."
+        },
+        {
+          "en": "The game grows in [complexity] at each level.",
+          "tr": "Oyun her seviyede daha karmaşık hâle geliyor.",
+          "de": "Das Spiel wird mit jedem Level komplexer.",
+          "fr": "Le jeu gagne en complexité à chaque niveau.",
+          "it": "Il gioco cresce in complessità a ogni livello.",
+          "es": "El juego gana complejidad en cada nivel."
+        }
+      ]
+    },
+    {
+      "id": "perplexed",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "per-",
+        "plex",
+        "-ed"
+      ],
+      "gloss": {
+        "en": "confused because you don't understand (literally: completely tangled)",
+        "tr": "şaşkın, kafası karışmış",
+        "de": "verwirrt, ratlos",
+        "fr": "perplexe",
+        "it": "perplesso",
+        "es": "perplejo"
+      },
+      "sentences": [
+        {
+          "en": "She looked [perplexed] by the question.",
+          "tr": "Soru karşısında şaşkın görünüyordu.",
+          "de": "Sie wirkte von der Frage verwirrt.",
+          "fr": "Elle a semblé perplexe devant la question.",
+          "it": "Sembrava perplessa per la domanda.",
+          "es": "Pareció perpleja ante la pregunta."
+        },
+        {
+          "en": "I'm [perplexed] by his strange behaviour.",
+          "tr": "Garip davranışları kafamı karıştırıyor.",
+          "de": "Sein seltsames Verhalten macht mich ratlos.",
+          "fr": "Son comportement étrange me laisse perplexe.",
+          "it": "Il suo strano comportamento mi lascia perplesso.",
+          "es": "Su extraño comportamiento me deja perplejo."
+        }
+      ]
+    },
+    {
+      "id": "duplicate",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "du-",
+        "plic",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "an exact copy (literally: folded twice)",
+        "tr": "kopya, eş",
+        "de": "das Duplikat, die Kopie",
+        "fr": "le double, le duplicata",
+        "it": "il duplicato, la copia",
+        "es": "el duplicado, la copia"
+      },
+      "sentences": [
+        {
+          "en": "Keep a [duplicate] of the key at a friend's.",
+          "tr": "Anahtarın bir kopyasını bir arkadaşında tut.",
+          "de": "Bewahre einen Zweitschlüssel bei einem Freund auf.",
+          "fr": "Garde un double de la clé chez un ami.",
+          "it": "Tieni un duplicato della chiave da un amico.",
+          "es": "Deja una copia de la llave en casa de un amigo."
+        },
+        {
+          "en": "The app deletes [duplicate] photos.",
+          "tr": "Uygulama aynı fotoğrafların kopyalarını siliyor.",
+          "de": "Die App löscht doppelte Fotos.",
+          "fr": "L'appli supprime les photos en double.",
+          "it": "L'app elimina le foto duplicate.",
+          "es": "La aplicación borra las fotos duplicadas."
+        }
+      ]
+    },
+    {
+      "id": "multiply",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "multi-",
+        "ply"
+      ],
+      "gloss": {
+        "en": "to add a number to itself many times; to grow in number (literally: to fold many times)",
+        "tr": "çarpmak; çoğalmak",
+        "de": "multiplizieren; sich vermehren",
+        "fr": "multiplier; se multiplier",
+        "it": "moltiplicare; moltiplicarsi",
+        "es": "multiplicar; multiplicarse"
+      },
+      "sentences": [
+        {
+          "en": "[Multiply] six by seven.",
+          "tr": "Altıyı yediyle çarp.",
+          "de": "Multipliziere sechs mit sieben.",
+          "fr": "Multiplie six par sept.",
+          "it": "Moltiplica sei per sette.",
+          "es": "Multiplica seis por siete."
+        },
+        {
+          "en": "Bacteria [multiply] very quickly.",
+          "tr": "Bakteriler çok hızlı çoğalır.",
+          "de": "Bakterien vermehren sich sehr schnell.",
+          "fr": "Les bactéries se multiplient très vite.",
+          "it": "I batteri si moltiplicano molto in fretta.",
+          "es": "Las bacterias se multiplican muy rápido."
+        }
+      ]
+    },
+    {
+      "id": "multiplication",
+      "pos": "noun",
+      "parent": "multiply",
+      "parts": [
+        "multi-",
+        "plic",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "the act of multiplying numbers",
+        "tr": "çarpma (işlemi)",
+        "de": "die Multiplikation",
+        "fr": "la multiplication",
+        "it": "la moltiplicazione",
+        "es": "la multiplicación"
+      },
+      "sentences": [
+        {
+          "en": "Children learn [multiplication] at school.",
+          "tr": "Çocuklar okulda çarpmayı öğrenir.",
+          "de": "Kinder lernen in der Schule das Multiplizieren.",
+          "fr": "Les enfants apprennent la multiplication à l'école.",
+          "it": "I bambini imparano la moltiplicazione a scuola.",
+          "es": "Los niños aprenden a multiplicar en el colegio."
+        },
+        {
+          "en": "She knows her [multiplication] tables by heart.",
+          "tr": "Çarpım tablosunu ezbere biliyor.",
+          "de": "Sie kann das Einmaleins auswendig.",
+          "fr": "Elle connaît ses tables de multiplication par cœur.",
+          "it": "Sa le tabelline a memoria.",
+          "es": "Se sabe las tablas de multiplicar de memoria."
+        }
+      ]
+    },
+    {
+      "id": "employ",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "em-",
+        "ploy"
+      ],
+      "gloss": {
+        "en": "to give someone a paid job; to use (from French employer, from Latin implicare, 'to fold in')",
+        "tr": "işe almak, istihdam etmek; kullanmak",
+        "de": "beschäftigen; einsetzen",
+        "fr": "employer; utiliser",
+        "it": "impiegare, assumere; utilizzare",
+        "es": "emplear; utilizar"
+      },
+      "sentences": [
+        {
+          "en": "The factory [employs] three hundred people.",
+          "tr": "Fabrika üç yüz kişiyi istihdam ediyor.",
+          "de": "Die Fabrik beschäftigt dreihundert Menschen.",
+          "fr": "L'usine emploie trois cents personnes.",
+          "it": "La fabbrica impiega trecento persone.",
+          "es": "La fábrica emplea a trescientas personas."
+        },
+        {
+          "en": "They [employed] a new method to clean the water.",
+          "tr": "Suyu temizlemek için yeni bir yöntem kullandılar.",
+          "de": "Sie setzten eine neue Methode zur Wasserreinigung ein.",
+          "fr": "Ils ont utilisé une nouvelle méthode pour purifier l'eau.",
+          "it": "Hanno impiegato un nuovo metodo per pulire l'acqua.",
+          "es": "Emplearon un nuevo método para limpiar el agua."
+        }
+      ]
+    },
+    {
+      "id": "employer",
+      "pos": "noun",
+      "parent": "employ",
+      "parts": [
+        "em-",
+        "ploy",
+        "-er"
+      ],
+      "gloss": {
+        "en": "a person or company that employs people",
+        "tr": "işveren",
+        "de": "der Arbeitgeber",
+        "fr": "l'employeur",
+        "it": "il datore di lavoro",
+        "es": "el empleador, la empresa"
+      },
+      "sentences": [
+        {
+          "en": "My [employer] pays for my train ticket.",
+          "tr": "İşverenim tren biletimi ödüyor.",
+          "de": "Mein Arbeitgeber bezahlt mein Zugticket.",
+          "fr": "Mon employeur paie mon billet de train.",
+          "it": "Il mio datore di lavoro mi paga il biglietto del treno.",
+          "es": "Mi empresa me paga el billete de tren."
+        },
+        {
+          "en": "The city is the largest [employer] in the area.",
+          "tr": "Belediye bölgedeki en büyük işveren.",
+          "de": "Die Stadt ist der größte Arbeitgeber der Region.",
+          "fr": "La ville est le plus gros employeur de la région.",
+          "it": "Il comune è il maggiore datore di lavoro della zona.",
+          "es": "El ayuntamiento es el mayor empleador de la zona."
+        }
+      ]
+    },
+    {
+      "id": "employee",
+      "pos": "noun",
+      "parent": "employ",
+      "parts": [
+        "em-",
+        "ploy",
+        "-ee"
+      ],
+      "gloss": {
+        "en": "a person who works for someone for pay",
+        "tr": "çalışan, işçi",
+        "de": "der Arbeitnehmer, der Angestellte",
+        "fr": "l'employé, le salarié",
+        "it": "il dipendente",
+        "es": "el empleado"
+      },
+      "sentences": [
+        {
+          "en": "The company has fifty [employees].",
+          "tr": "Şirketin elli çalışanı var.",
+          "de": "Die Firma hat fünfzig Angestellte.",
+          "fr": "L'entreprise compte cinquante salariés.",
+          "it": "L'azienda ha cinquanta dipendenti.",
+          "es": "La empresa tiene cincuenta empleados."
+        },
+        {
+          "en": "Every new [employee] gets a laptop.",
+          "tr": "Her yeni çalışana bir dizüstü bilgisayar veriliyor.",
+          "de": "Jeder neue Mitarbeiter bekommt einen Laptop.",
+          "fr": "Chaque nouvel employé reçoit un ordinateur portable.",
+          "it": "Ogni nuovo dipendente riceve un portatile.",
+          "es": "Cada empleado nuevo recibe un portátil."
+        }
+      ]
+    },
+    {
+      "id": "employment",
+      "pos": "noun",
+      "parent": "employ",
+      "parts": [
+        "em-",
+        "ploy",
+        "-ment"
+      ],
+      "gloss": {
+        "en": "having a paid job; work",
+        "tr": "istihdam, iş",
+        "de": "die Beschäftigung, die Arbeit",
+        "fr": "l'emploi",
+        "it": "l'occupazione, il lavoro",
+        "es": "el empleo"
+      },
+      "sentences": [
+        {
+          "en": "She found [employment] at a bank.",
+          "tr": "Bir bankada iş buldu.",
+          "de": "Sie fand eine Anstellung bei einer Bank.",
+          "fr": "Elle a trouvé un emploi dans une banque.",
+          "it": "Ha trovato lavoro in una banca.",
+          "es": "Encontró empleo en un banco."
+        },
+        {
+          "en": "The new factory will create [employment] for many people.",
+          "tr": "Yeni fabrika birçok kişiye iş sağlayacak.",
+          "de": "Die neue Fabrik wird vielen Menschen Arbeit geben.",
+          "fr": "La nouvelle usine va créer des emplois pour beaucoup de gens.",
+          "it": "La nuova fabbrica creerà occupazione per molte persone.",
+          "es": "La nueva fábrica creará empleo para mucha gente."
+        }
+      ]
+    },
+    {
+      "id": "unemployment",
+      "pos": "noun",
+      "parent": "employment",
+      "parts": [
+        "un-",
+        "em-",
+        "ploy",
+        "-ment"
+      ],
+      "gloss": {
+        "en": "not having a paid job; the number of people without jobs",
+        "tr": "işsizlik",
+        "de": "die Arbeitslosigkeit",
+        "fr": "le chômage",
+        "it": "la disoccupazione",
+        "es": "el desempleo, el paro"
+      },
+      "sentences": [
+        {
+          "en": "[Unemployment] fell to five percent.",
+          "tr": "İşsizlik yüzde beşe düştü.",
+          "de": "Die Arbeitslosigkeit sank auf fünf Prozent.",
+          "fr": "Le chômage est tombé à cinq pour cent.",
+          "it": "La disoccupazione è scesa al cinque per cento.",
+          "es": "El desempleo bajó al cinco por ciento."
+        },
+        {
+          "en": "Youth [unemployment] is a big problem here.",
+          "tr": "Burada genç işsizliği büyük bir sorun.",
+          "de": "Jugendarbeitslosigkeit ist hier ein großes Problem.",
+          "fr": "Le chômage des jeunes est un gros problème ici.",
+          "it": "Qui la disoccupazione giovanile è un grande problema.",
+          "es": "Aquí el paro juvenil es un gran problema."
+        }
+      ]
+    },
+    {
+      "id": "deploy",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "de-",
+        "ploy"
+      ],
+      "gloss": {
+        "en": "to put soldiers, tools or software into use (literally: to unfold)",
+        "tr": "konuşlandırmak; yayına almak",
+        "de": "einsetzen; bereitstellen",
+        "fr": "déployer",
+        "it": "schierare; distribuire",
+        "es": "desplegar"
+      },
+      "sentences": [
+        {
+          "en": "The army [deployed] troops to the border.",
+          "tr": "Ordu sınıra asker konuşlandırdı.",
+          "de": "Die Armee setzte Truppen an der Grenze ein.",
+          "fr": "L'armée a déployé des troupes à la frontière.",
+          "it": "L'esercito ha schierato truppe al confine.",
+          "es": "El ejército desplegó tropas en la frontera."
+        },
+        {
+          "en": "We [deploy] the website every time we push.",
+          "tr": "Her push'ta web sitesini yayına alıyoruz.",
+          "de": "Wir stellen die Website bei jedem Push neu bereit.",
+          "fr": "Nous déployons le site à chaque push.",
+          "it": "Distribuiamo il sito a ogni push.",
+          "es": "Desplegamos la web cada vez que hacemos push."
+        }
+      ]
+    }
+  ]
+}
