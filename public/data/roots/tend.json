@@ -1,0 +1,730 @@
+{
+  "id": "tend",
+  "forms": [
+    "tend",
+    "tens",
+    "tense",
+    "tent"
+  ],
+  "origin": "la",
+  "etymon": "tendere",
+  "meaning": {
+    "en": "to stretch, to reach toward",
+    "tr": "germek, uzanmak, yönelmek",
+    "de": "spannen, sich ausstrecken",
+    "fr": "tendre",
+    "it": "tendere",
+    "es": "tender, extender"
+  },
+  "words": [
+    {
+      "id": "tend",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "tend"
+      ],
+      "gloss": {
+        "en": "to usually do or be something (literally: to stretch toward)",
+        "tr": "eğiliminde olmak, -me eğilimi göstermek",
+        "de": "neigen zu, dazu tendieren",
+        "fr": "avoir tendance à",
+        "it": "tendere a",
+        "es": "tender a, soler"
+      },
+      "sentences": [
+        {
+          "en": "I [tend] to wake up early.",
+          "tr": "Erken uyanma eğilimindeyim.",
+          "de": "Ich wache meistens früh auf.",
+          "fr": "J'ai tendance à me réveiller tôt.",
+          "it": "Tendo a svegliarmi presto.",
+          "es": "Suelo despertarme temprano."
+        },
+        {
+          "en": "Prices [tend] to rise in summer.",
+          "tr": "Fiyatlar yazın artma eğilimindedir.",
+          "de": "Die Preise steigen im Sommer meistens.",
+          "fr": "Les prix ont tendance à augmenter en été.",
+          "it": "I prezzi tendono a salire d'estate.",
+          "es": "Los precios tienden a subir en verano."
+        }
+      ]
+    },
+    {
+      "id": "tendency",
+      "pos": "noun",
+      "parent": "tend",
+      "parts": [
+        "tend",
+        "-ency"
+      ],
+      "gloss": {
+        "en": "a habit of behaving or happening in a certain way",
+        "tr": "eğilim",
+        "de": "die Neigung, die Tendenz",
+        "fr": "la tendance",
+        "it": "la tendenza",
+        "es": "la tendencia"
+      },
+      "sentences": [
+        {
+          "en": "He has a [tendency] to talk too fast.",
+          "tr": "Çok hızlı konuşma eğilimi var.",
+          "de": "Er neigt dazu, zu schnell zu sprechen.",
+          "fr": "Il a tendance à parler trop vite.",
+          "it": "Ha la tendenza a parlare troppo in fretta.",
+          "es": "Tiene tendencia a hablar demasiado rápido."
+        },
+        {
+          "en": "There is a growing [tendency] to work from home.",
+          "tr": "Evden çalışma eğilimi giderek artıyor.",
+          "de": "Es gibt eine wachsende Tendenz zum Homeoffice.",
+          "fr": "Il y a une tendance croissante au télétravail.",
+          "it": "C'è una crescente tendenza a lavorare da casa.",
+          "es": "Hay una tendencia creciente a trabajar desde casa."
+        }
+      ]
+    },
+    {
+      "id": "attend",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "at-",
+        "tend"
+      ],
+      "gloss": {
+        "en": "to go to an event or school (literally: to stretch toward)",
+        "tr": "katılmak, gitmek",
+        "de": "teilnehmen an, besuchen",
+        "fr": "assister à; fréquenter",
+        "it": "frequentare; partecipare a",
+        "es": "asistir a"
+      },
+      "sentences": [
+        {
+          "en": "Over a hundred people [attended] the meeting.",
+          "tr": "Toplantıya yüzden fazla kişi katıldı.",
+          "de": "Über hundert Menschen nahmen an der Versammlung teil.",
+          "fr": "Plus de cent personnes ont assisté à la réunion.",
+          "it": "Più di cento persone hanno partecipato alla riunione.",
+          "es": "Más de cien personas asistieron a la reunión."
+        },
+        {
+          "en": "Which school do you [attend]?",
+          "tr": "Hangi okula gidiyorsun?",
+          "de": "Welche Schule besuchst du?",
+          "fr": "Quelle école fréquentes-tu ?",
+          "it": "Che scuola frequenti?",
+          "es": "¿A qué colegio vas?"
+        }
+      ]
+    },
+    {
+      "id": "attendance",
+      "pos": "noun",
+      "parent": "attend",
+      "parts": [
+        "at-",
+        "tend",
+        "-ance"
+      ],
+      "gloss": {
+        "en": "being present at a place; the number of people present",
+        "tr": "devam; katılım",
+        "de": "die Anwesenheit; die Teilnehmerzahl",
+        "fr": "l'assiduité; la fréquentation",
+        "it": "la frequenza; l'affluenza",
+        "es": "la asistencia"
+      },
+      "sentences": [
+        {
+          "en": "[Attendance] at lectures is required.",
+          "tr": "Derslere devam zorunlu.",
+          "de": "Die Anwesenheit bei den Vorlesungen ist Pflicht.",
+          "fr": "La présence aux cours est obligatoire.",
+          "it": "La frequenza alle lezioni è obbligatoria.",
+          "es": "La asistencia a clase es obligatoria."
+        },
+        {
+          "en": "The concert had a record [attendance].",
+          "tr": "Konser rekor katılım gördü.",
+          "de": "Das Konzert hatte eine Rekordbesucherzahl.",
+          "fr": "Le concert a battu un record d'affluence.",
+          "it": "Il concerto ha avuto un'affluenza record.",
+          "es": "El concierto tuvo una asistencia récord."
+        }
+      ]
+    },
+    {
+      "id": "attention",
+      "pos": "noun",
+      "parent": "attend",
+      "parts": [
+        "at-",
+        "tent",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "the act of watching, listening or thinking carefully",
+        "tr": "dikkat",
+        "de": "die Aufmerksamkeit",
+        "fr": "l'attention",
+        "it": "l'attenzione",
+        "es": "la atención"
+      },
+      "sentences": [
+        {
+          "en": "Pay [attention] to the road.",
+          "tr": "Yola dikkat et.",
+          "de": "Achte auf die Straße.",
+          "fr": "Fais attention à la route.",
+          "it": "Fai attenzione alla strada.",
+          "es": "Presta atención a la carretera."
+        },
+        {
+          "en": "Babies need a lot of [attention].",
+          "tr": "Bebekler çok ilgi ister.",
+          "de": "Babys brauchen viel Aufmerksamkeit.",
+          "fr": "Les bébés ont besoin de beaucoup d'attention.",
+          "it": "I neonati hanno bisogno di molte attenzioni.",
+          "es": "Los bebés necesitan mucha atención."
+        }
+      ]
+    },
+    {
+      "id": "attentive",
+      "pos": "adjective",
+      "parent": "attention",
+      "parts": [
+        "at-",
+        "tent",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "listening or watching carefully; caring about others' needs",
+        "tr": "dikkatli; ilgili",
+        "de": "aufmerksam",
+        "fr": "attentif",
+        "it": "attento",
+        "es": "atento"
+      },
+      "sentences": [
+        {
+          "en": "The students were quiet and [attentive].",
+          "tr": "Öğrenciler sessiz ve dikkatliydi.",
+          "de": "Die Schüler waren ruhig und aufmerksam.",
+          "fr": "Les élèves étaient calmes et attentifs.",
+          "it": "Gli studenti erano silenziosi e attenti.",
+          "es": "Los alumnos estaban callados y atentos."
+        },
+        {
+          "en": "The staff at the hotel were very [attentive].",
+          "tr": "Oteldeki çalışanlar çok ilgiliydi.",
+          "de": "Das Hotelpersonal war sehr aufmerksam.",
+          "fr": "Le personnel de l'hôtel était aux petits soins.",
+          "it": "Il personale dell'hotel era molto attento.",
+          "es": "El personal del hotel fue muy atento."
+        }
+      ]
+    },
+    {
+      "id": "inattentive",
+      "pos": "adjective",
+      "parent": "attentive",
+      "parts": [
+        "in-not-",
+        "at-",
+        "tent",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "not paying attention",
+        "tr": "dikkatsiz",
+        "de": "unaufmerksam",
+        "fr": "inattentif, distrait",
+        "it": "disattento",
+        "es": "distraído, poco atento"
+      },
+      "sentences": [
+        {
+          "en": "[Inattentive] drivers cause many accidents.",
+          "tr": "Dikkatsiz sürücüler birçok kazaya yol açıyor.",
+          "de": "Unaufmerksame Fahrer verursachen viele Unfälle.",
+          "fr": "Les conducteurs distraits causent beaucoup d'accidents.",
+          "it": "I guidatori disattenti causano molti incidenti.",
+          "es": "Los conductores distraídos causan muchos accidentes."
+        },
+        {
+          "en": "He was tired and [inattentive] in class.",
+          "tr": "Derste yorgun ve dikkatsizdi.",
+          "de": "Er war im Unterricht müde und unaufmerksam.",
+          "fr": "Il était fatigué et distrait en classe.",
+          "it": "Era stanco e disattento in classe.",
+          "es": "Estaba cansado y distraído en clase."
+        }
+      ]
+    },
+    {
+      "id": "intend",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "in-",
+        "tend"
+      ],
+      "gloss": {
+        "en": "to plan to do something (literally: to stretch toward)",
+        "tr": "niyet etmek, planlamak",
+        "de": "beabsichtigen, vorhaben",
+        "fr": "avoir l'intention de",
+        "it": "avere intenzione di",
+        "es": "tener la intención de"
+      },
+      "sentences": [
+        {
+          "en": "I [intend] to finish the book this week.",
+          "tr": "Kitabı bu hafta bitirmeyi planlıyorum.",
+          "de": "Ich habe vor, das Buch diese Woche zu beenden.",
+          "fr": "J'ai l'intention de finir le livre cette semaine.",
+          "it": "Ho intenzione di finire il libro questa settimana.",
+          "es": "Tengo la intención de terminar el libro esta semana."
+        },
+        {
+          "en": "The book is [intended] for beginners.",
+          "tr": "Kitap yeni başlayanlar için hazırlandı.",
+          "de": "Das Buch ist für Anfänger gedacht.",
+          "fr": "Le livre est destiné aux débutants.",
+          "it": "Il libro è pensato per i principianti.",
+          "es": "El libro está pensado para principiantes."
+        }
+      ]
+    },
+    {
+      "id": "intention",
+      "pos": "noun",
+      "parent": "intend",
+      "parts": [
+        "in-",
+        "tent",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "something you plan to do",
+        "tr": "niyet, amaç",
+        "de": "die Absicht",
+        "fr": "l'intention",
+        "it": "l'intenzione",
+        "es": "la intención"
+      },
+      "sentences": [
+        {
+          "en": "I have no [intention] of moving.",
+          "tr": "Taşınmak gibi bir niyetim yok.",
+          "de": "Ich habe nicht die Absicht umzuziehen.",
+          "fr": "Je n'ai aucune intention de déménager.",
+          "it": "Non ho alcuna intenzione di trasferirmi.",
+          "es": "No tengo ninguna intención de mudarme."
+        },
+        {
+          "en": "She had good [intentions], but the plan failed.",
+          "tr": "İyi niyetliydi ama plan başarısız oldu.",
+          "de": "Sie hatte gute Absichten, aber der Plan scheiterte.",
+          "fr": "Elle avait de bonnes intentions, mais le projet a échoué.",
+          "it": "Aveva buone intenzioni, ma il piano è fallito.",
+          "es": "Tenía buenas intenciones, pero el plan fracasó."
+        }
+      ]
+    },
+    {
+      "id": "unintentional",
+      "pos": "adjective",
+      "parent": "intention",
+      "parts": [
+        "un-",
+        "in-",
+        "tent",
+        "-ion",
+        "-al"
+      ],
+      "gloss": {
+        "en": "not done on purpose",
+        "tr": "kasıtsız, istemeden yapılan",
+        "de": "unbeabsichtigt",
+        "fr": "involontaire",
+        "it": "involontario",
+        "es": "involuntario, sin querer"
+      },
+      "sentences": [
+        {
+          "en": "I'm sorry, the mistake was [unintentional].",
+          "tr": "Özür dilerim, hata kasıtsızdı.",
+          "de": "Entschuldigung, der Fehler war unbeabsichtigt.",
+          "fr": "Désolé, l'erreur était involontaire.",
+          "it": "Scusa, l'errore era involontario.",
+          "es": "Lo siento, el error fue involuntario."
+        },
+        {
+          "en": "The joke caused [unintentional] offence.",
+          "tr": "Şaka istemeden insanları kırdı.",
+          "de": "Der Witz kränkte die Leute unbeabsichtigt.",
+          "fr": "La blague a vexé les gens sans le vouloir.",
+          "it": "La battuta ha offeso le persone senza volerlo.",
+          "es": "El chiste ofendió sin querer."
+        }
+      ]
+    },
+    {
+      "id": "intense",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "in-",
+        "tense"
+      ],
+      "gloss": {
+        "en": "very strong or extreme (literally: stretched tight)",
+        "tr": "yoğun, şiddetli",
+        "de": "intensiv, heftig",
+        "fr": "intense",
+        "it": "intenso",
+        "es": "intenso"
+      },
+      "sentences": [
+        {
+          "en": "The heat in August was [intense].",
+          "tr": "Ağustostaki sıcak çok şiddetliydi.",
+          "de": "Die Hitze im August war heftig.",
+          "fr": "La chaleur en août était intense.",
+          "it": "Il caldo ad agosto era intenso.",
+          "es": "El calor en agosto fue intenso."
+        },
+        {
+          "en": "It was an [intense] week of training.",
+          "tr": "Yoğun bir antrenman haftasıydı.",
+          "de": "Es war eine intensive Trainingswoche.",
+          "fr": "C'était une semaine d'entraînement intense.",
+          "it": "È stata una settimana di allenamento intensa.",
+          "es": "Fue una semana de entrenamiento intensa."
+        }
+      ]
+    },
+    {
+      "id": "intensity",
+      "pos": "noun",
+      "parent": "intense",
+      "parts": [
+        "in-",
+        "tens",
+        "-ity"
+      ],
+      "gloss": {
+        "en": "how strong something is",
+        "tr": "yoğunluk, şiddet",
+        "de": "die Intensität, die Stärke",
+        "fr": "l'intensité",
+        "it": "l'intensità",
+        "es": "la intensidad"
+      },
+      "sentences": [
+        {
+          "en": "The storm grew in [intensity].",
+          "tr": "Fırtınanın şiddeti arttı.",
+          "de": "Der Sturm nahm an Stärke zu.",
+          "fr": "La tempête a gagné en intensité.",
+          "it": "La tempesta è cresciuta di intensità.",
+          "es": "La tormenta ganó intensidad."
+        },
+        {
+          "en": "Change the [intensity] of the light with this button.",
+          "tr": "Işığın şiddetini bu düğmeyle değiştir.",
+          "de": "Mit diesem Knopf änderst du die Lichtstärke.",
+          "fr": "Change l'intensité de la lumière avec ce bouton.",
+          "it": "Cambia l'intensità della luce con questo pulsante.",
+          "es": "Cambia la intensidad de la luz con este botón."
+        }
+      ]
+    },
+    {
+      "id": "extend",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ex-",
+        "tend"
+      ],
+      "gloss": {
+        "en": "to make longer or bigger; to reach (literally: to stretch out)",
+        "tr": "uzatmak; genişletmek",
+        "de": "verlängern; erweitern",
+        "fr": "prolonger; étendre",
+        "it": "prolungare; estendere",
+        "es": "prolongar; ampliar"
+      },
+      "sentences": [
+        {
+          "en": "Can I [extend] my visa?",
+          "tr": "Vizemi uzatabilir miyim?",
+          "de": "Kann ich mein Visum verlängern?",
+          "fr": "Puis-je prolonger mon visa ?",
+          "it": "Posso prolungare il mio visto?",
+          "es": "¿Puedo prolongar mi visado?"
+        },
+        {
+          "en": "The forest [extends] to the river.",
+          "tr": "Orman nehre kadar uzanıyor.",
+          "de": "Der Wald erstreckt sich bis zum Fluss.",
+          "fr": "La forêt s'étend jusqu'à la rivière.",
+          "it": "Il bosco si estende fino al fiume.",
+          "es": "El bosque se extiende hasta el río."
+        }
+      ]
+    },
+    {
+      "id": "extension",
+      "pos": "noun",
+      "parent": "extend",
+      "parts": [
+        "ex-",
+        "tens",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "an added part or extra time; a phone line inside a building",
+        "tr": "uzatma, ek süre; ek bina; dahili hat",
+        "de": "die Verlängerung; der Anbau; die Durchwahl",
+        "fr": "la prolongation; l'extension; le poste",
+        "it": "la proroga; l'ampliamento; l'interno",
+        "es": "la prórroga; la ampliación; la extensión"
+      },
+      "sentences": [
+        {
+          "en": "I asked for an [extension] on my essay.",
+          "tr": "Ödevim için ek süre istedim.",
+          "de": "Ich habe um eine Verlängerung für meinen Aufsatz gebeten.",
+          "fr": "J'ai demandé un délai supplémentaire pour ma rédaction.",
+          "it": "Ho chiesto una proroga per il mio tema.",
+          "es": "Pedí una prórroga para mi trabajo."
+        },
+        {
+          "en": "Call me on [extension] 214.",
+          "tr": "Beni 214 numaralı dahili hattan ara.",
+          "de": "Ruf mich unter der Durchwahl 214 an.",
+          "fr": "Appelle-moi au poste 214.",
+          "it": "Chiamami all'interno 214.",
+          "es": "Llámame a la extensión 214."
+        }
+      ]
+    },
+    {
+      "id": "extensive",
+      "pos": "adjective",
+      "parent": "extend",
+      "parts": [
+        "ex-",
+        "tens",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "covering a large area or many things",
+        "tr": "kapsamlı, geniş",
+        "de": "umfangreich, ausgedehnt",
+        "fr": "étendu, vaste, approfondi",
+        "it": "esteso, ampio",
+        "es": "extenso, amplio"
+      },
+      "sentences": [
+        {
+          "en": "The storm caused [extensive] damage.",
+          "tr": "Fırtına geniş çaplı hasara yol açtı.",
+          "de": "Der Sturm richtete umfangreiche Schäden an.",
+          "fr": "La tempête a causé d'importants dégâts.",
+          "it": "La tempesta ha causato danni estesi.",
+          "es": "La tormenta causó daños extensos."
+        },
+        {
+          "en": "She has [extensive] experience in teaching.",
+          "tr": "Öğretmenlikte kapsamlı bir deneyimi var.",
+          "de": "Sie hat umfangreiche Erfahrung im Unterrichten.",
+          "fr": "Elle a une vaste expérience de l'enseignement.",
+          "it": "Ha un'ampia esperienza nell'insegnamento.",
+          "es": "Tiene amplia experiencia en la enseñanza."
+        }
+      ]
+    },
+    {
+      "id": "extent",
+      "pos": "noun",
+      "parent": "extend",
+      "parts": [
+        "ex-",
+        "tent"
+      ],
+      "gloss": {
+        "en": "how large or important something is",
+        "tr": "boyut, kapsam, derece",
+        "de": "das Ausmaß",
+        "fr": "l'étendue, l'ampleur",
+        "it": "la portata, l'entità",
+        "es": "el alcance, la magnitud"
+      },
+      "sentences": [
+        {
+          "en": "We don't know the [extent] of the damage yet.",
+          "tr": "Hasarın boyutunu henüz bilmiyoruz.",
+          "de": "Wir kennen das Ausmaß des Schadens noch nicht.",
+          "fr": "Nous ne connaissons pas encore l'ampleur des dégâts.",
+          "it": "Non conosciamo ancora l'entità dei danni.",
+          "es": "Aún no sabemos el alcance de los daños."
+        },
+        {
+          "en": "I agree with you to some [extent].",
+          "tr": "Sana bir dereceye kadar katılıyorum.",
+          "de": "Ich stimme dir bis zu einem gewissen Grad zu.",
+          "fr": "Je suis d'accord avec toi dans une certaine mesure.",
+          "it": "Sono d'accordo con te fino a un certo punto.",
+          "es": "Estoy de acuerdo contigo hasta cierto punto."
+        }
+      ]
+    },
+    {
+      "id": "pretend",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "pre-",
+        "tend"
+      ],
+      "gloss": {
+        "en": "to act as if something is true when it is not (literally: to stretch in front, to hold out)",
+        "tr": "-mış gibi yapmak",
+        "de": "so tun, als ob",
+        "fr": "faire semblant",
+        "it": "fingere, fare finta",
+        "es": "fingir, hacer como si"
+      },
+      "sentences": [
+        {
+          "en": "He [pretended] to be asleep.",
+          "tr": "Uyuyormuş gibi yaptı.",
+          "de": "Er tat so, als ob er schliefe.",
+          "fr": "Il a fait semblant de dormir.",
+          "it": "Ha fatto finta di dormire.",
+          "es": "Fingió estar dormido."
+        },
+        {
+          "en": "Let's [pretend] we are pirates.",
+          "tr": "Korsanmışız gibi yapalım.",
+          "de": "Lass uns so tun, als wären wir Piraten.",
+          "fr": "Faisons semblant d'être des pirates.",
+          "it": "Facciamo finta di essere pirati.",
+          "es": "Juguemos a que somos piratas."
+        }
+      ]
+    },
+    {
+      "id": "tense",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "tense"
+      ],
+      "gloss": {
+        "en": "nervous and unable to relax; stretched tight",
+        "tr": "gergin",
+        "de": "angespannt",
+        "fr": "tendu",
+        "it": "teso",
+        "es": "tenso"
+      },
+      "sentences": [
+        {
+          "en": "Everyone was [tense] before the results.",
+          "tr": "Sonuçlardan önce herkes gergindi.",
+          "de": "Vor den Ergebnissen waren alle angespannt.",
+          "fr": "Tout le monde était tendu avant les résultats.",
+          "it": "Tutti erano tesi prima dei risultati.",
+          "es": "Todos estaban tensos antes de los resultados."
+        },
+        {
+          "en": "My shoulders feel [tense] after work.",
+          "tr": "İşten sonra omuzlarım gergin oluyor.",
+          "de": "Nach der Arbeit sind meine Schultern verspannt.",
+          "fr": "J'ai les épaules tendues après le travail.",
+          "it": "Dopo il lavoro ho le spalle tese.",
+          "es": "Después del trabajo tengo los hombros tensos."
+        }
+      ]
+    },
+    {
+      "id": "tension",
+      "pos": "noun",
+      "parent": "tense",
+      "parts": [
+        "tens",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a nervous feeling; how tight something is stretched",
+        "tr": "gerginlik; gerilim",
+        "de": "die Spannung, die Anspannung",
+        "fr": "la tension",
+        "it": "la tensione",
+        "es": "la tensión"
+      },
+      "sentences": [
+        {
+          "en": "You could feel the [tension] in the room.",
+          "tr": "Odadaki gerginliği hissedebiliyordun.",
+          "de": "Man konnte die Spannung im Raum spüren.",
+          "fr": "On pouvait sentir la tension dans la pièce.",
+          "it": "Si sentiva la tensione nella stanza.",
+          "es": "Se notaba la tensión en la sala."
+        },
+        {
+          "en": "Check the [tension] of the bike chain.",
+          "tr": "Bisiklet zincirinin gerginliğini kontrol et.",
+          "de": "Prüf die Spannung der Fahrradkette.",
+          "fr": "Vérifie la tension de la chaîne du vélo.",
+          "it": "Controlla la tensione della catena della bici.",
+          "es": "Comprueba la tensión de la cadena de la bici."
+        }
+      ]
+    },
+    {
+      "id": "tent",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "tent"
+      ],
+      "gloss": {
+        "en": "a shelter made of cloth held up by poles (from Latin tentorium, 'something stretched')",
+        "tr": "çadır",
+        "de": "das Zelt",
+        "fr": "la tente",
+        "it": "la tenda",
+        "es": "la tienda de campaña"
+      },
+      "sentences": [
+        {
+          "en": "We slept in a [tent] by the lake.",
+          "tr": "Gölün kenarında çadırda uyuduk.",
+          "de": "Wir schliefen in einem Zelt am See.",
+          "fr": "Nous avons dormi sous une tente au bord du lac.",
+          "it": "Abbiamo dormito in tenda vicino al lago.",
+          "es": "Dormimos en una tienda de campaña junto al lago."
+        },
+        {
+          "en": "It took an hour to put up the [tent].",
+          "tr": "Çadırı kurmak bir saat sürdü.",
+          "de": "Das Zelt aufzubauen dauerte eine Stunde.",
+          "fr": "Il a fallu une heure pour monter la tente.",
+          "it": "Ci è voluta un'ora per montare la tenda.",
+          "es": "Montar la tienda nos llevó una hora."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,804 @@
+{
+  "id": "vert",
+  "forms": [
+    "vert",
+    "vers",
+    "verse"
+  ],
+  "origin": "la",
+  "etymon": "vertere",
+  "meaning": {
+    "en": "to turn",
+    "tr": "çevirmek, döndürmek",
+    "de": "drehen, wenden",
+    "fr": "tourner",
+    "it": "girare, volgere",
+    "es": "girar, volver"
+  },
+  "words": [
+    {
+      "id": "convert",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "con-",
+        "vert"
+      ],
+      "gloss": {
+        "en": "to change from one form or system to another (literally: to turn together, completely)",
+        "tr": "dönüştürmek, çevirmek",
+        "de": "umwandeln, umrechnen",
+        "fr": "convertir",
+        "it": "convertire",
+        "es": "convertir"
+      },
+      "sentences": [
+        {
+          "en": "[Convert] the price from dollars to euros.",
+          "tr": "Fiyatı dolardan avroya çevir.",
+          "de": "Rechne den Preis von Dollar in Euro um.",
+          "fr": "Convertis le prix de dollars en euros.",
+          "it": "Converti il prezzo da dollari a euro.",
+          "es": "Convierte el precio de dólares a euros."
+        },
+        {
+          "en": "They [converted] the old factory into flats.",
+          "tr": "Eski fabrikayı dairelere dönüştürdüler.",
+          "de": "Sie bauten die alte Fabrik zu Wohnungen um.",
+          "fr": "Ils ont transformé l'ancienne usine en appartements.",
+          "it": "Hanno trasformato la vecchia fabbrica in appartamenti.",
+          "es": "Convirtieron la vieja fábrica en pisos."
+        }
+      ]
+    },
+    {
+      "id": "conversion",
+      "pos": "noun",
+      "parent": "convert",
+      "parts": [
+        "con-",
+        "vers",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "changing from one form or system to another",
+        "tr": "dönüşüm, çevirme",
+        "de": "die Umwandlung, die Umrechnung",
+        "fr": "la conversion",
+        "it": "la conversione",
+        "es": "la conversión"
+      },
+      "sentences": [
+        {
+          "en": "The app does currency [conversion] offline.",
+          "tr": "Uygulama döviz çevirmeyi internetsiz yapıyor.",
+          "de": "Die App rechnet Währungen offline um.",
+          "fr": "L'appli fait la conversion des devises hors ligne.",
+          "it": "L'app fa la conversione di valuta offline.",
+          "es": "La aplicación hace la conversión de divisas sin conexión."
+        },
+        {
+          "en": "The [conversion] of the barn took a year.",
+          "tr": "Ahırın dönüştürülmesi bir yıl sürdü.",
+          "de": "Der Umbau der Scheune dauerte ein Jahr.",
+          "fr": "La transformation de la grange a pris un an.",
+          "it": "La ristrutturazione del fienile è durata un anno.",
+          "es": "La reforma del granero duró un año."
+        }
+      ]
+    },
+    {
+      "id": "conversation",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "con-",
+        "vers",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "a talk between people (from Latin conversari, 'to turn about with, to live with')",
+        "tr": "sohbet, konuşma",
+        "de": "das Gespräch",
+        "fr": "la conversation",
+        "it": "la conversazione",
+        "es": "la conversación"
+      },
+      "sentences": [
+        {
+          "en": "We had a long [conversation] about music.",
+          "tr": "Müzik hakkında uzun bir sohbet ettik.",
+          "de": "Wir hatten ein langes Gespräch über Musik.",
+          "fr": "Nous avons eu une longue conversation sur la musique.",
+          "it": "Abbiamo fatto una lunga conversazione sulla musica.",
+          "es": "Tuvimos una larga conversación sobre música."
+        },
+        {
+          "en": "Practise [conversation] with a partner.",
+          "tr": "Bir partnerle konuşma pratiği yap.",
+          "de": "Übe Gespräche mit einem Partner.",
+          "fr": "Entraîne-toi à la conversation avec un partenaire.",
+          "it": "Esercita la conversazione con un compagno.",
+          "es": "Practica la conversación con un compañero."
+        }
+      ]
+    },
+    {
+      "id": "reverse",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "re-",
+        "verse"
+      ],
+      "gloss": {
+        "en": "to change to the opposite; to drive backwards (literally: to turn back)",
+        "tr": "tersine çevirmek; geri geri gitmek",
+        "de": "umkehren; rückwärts fahren",
+        "fr": "inverser; faire marche arrière",
+        "it": "invertire; fare retromarcia",
+        "es": "invertir; dar marcha atrás"
+      },
+      "sentences": [
+        {
+          "en": "The court [reversed] the decision.",
+          "tr": "Mahkeme kararı bozdu.",
+          "de": "Das Gericht hob die Entscheidung auf.",
+          "fr": "Le tribunal a annulé la décision.",
+          "it": "Il tribunale ha ribaltato la decisione.",
+          "es": "El tribunal revocó la decisión."
+        },
+        {
+          "en": "[Reverse] slowly into the parking space.",
+          "tr": "Park yerine yavaşça geri geri gir.",
+          "de": "Fahr langsam rückwärts in die Parklücke.",
+          "fr": "Recule lentement dans la place de parking.",
+          "it": "Entra in retromarcia nel parcheggio lentamente.",
+          "es": "Entra marcha atrás despacio en la plaza."
+        }
+      ]
+    },
+    {
+      "id": "irreversible",
+      "pos": "adjective",
+      "parent": "reverse",
+      "parts": [
+        "ir-not-",
+        "re-",
+        "vers",
+        "-ible"
+      ],
+      "gloss": {
+        "en": "impossible to change back",
+        "tr": "geri dönüşü olmayan",
+        "de": "unumkehrbar",
+        "fr": "irréversible",
+        "it": "irreversibile",
+        "es": "irreversible"
+      },
+      "sentences": [
+        {
+          "en": "The damage to the forest is [irreversible].",
+          "tr": "Ormana verilen zarar geri dönüşü olmayan bir zarar.",
+          "de": "Der Schaden am Wald ist unumkehrbar.",
+          "fr": "Les dégâts causés à la forêt sont irréversibles.",
+          "it": "Il danno alla foresta è irreversibile.",
+          "es": "El daño al bosque es irreversible."
+        },
+        {
+          "en": "Think carefully; this step is [irreversible].",
+          "tr": "İyi düşün; bu adımın geri dönüşü yok.",
+          "de": "Denk gut nach; dieser Schritt ist unumkehrbar.",
+          "fr": "Réfléchis bien, cette étape est irréversible.",
+          "it": "Pensaci bene: questo passo è irreversibile.",
+          "es": "Piénsalo bien; este paso es irreversible."
+        }
+      ]
+    },
+    {
+      "id": "version",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "vers",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "one form of something that is a little different (literally: a turning)",
+        "tr": "sürüm, versiyon; anlatım",
+        "de": "die Version, die Fassung",
+        "fr": "la version",
+        "it": "la versione",
+        "es": "la versión"
+      },
+      "sentences": [
+        {
+          "en": "Update the app to the latest [version].",
+          "tr": "Uygulamayı en son sürüme güncelle.",
+          "de": "Aktualisiere die App auf die neueste Version.",
+          "fr": "Mets l'appli à jour avec la dernière version.",
+          "it": "Aggiorna l'app all'ultima versione.",
+          "es": "Actualiza la aplicación a la última versión."
+        },
+        {
+          "en": "Her [version] of the story is different.",
+          "tr": "Onun anlattığı hikâye farklı.",
+          "de": "Ihre Version der Geschichte ist anders.",
+          "fr": "Sa version de l'histoire est différente.",
+          "it": "La sua versione della storia è diversa.",
+          "es": "Su versión de la historia es distinta."
+        }
+      ]
+    },
+    {
+      "id": "universe",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "uni-",
+        "verse"
+      ],
+      "gloss": {
+        "en": "everything that exists, all of space (literally: turned into one)",
+        "tr": "evren",
+        "de": "das Universum, das Weltall",
+        "fr": "l'univers",
+        "it": "l'universo",
+        "es": "el universo"
+      },
+      "sentences": [
+        {
+          "en": "The [universe] is about 14 billion years old.",
+          "tr": "Evren yaklaşık 14 milyar yaşında.",
+          "de": "Das Universum ist etwa 14 Milliarden Jahre alt.",
+          "fr": "L'univers a environ 14 milliards d'années.",
+          "it": "L'universo ha circa 14 miliardi di anni.",
+          "es": "El universo tiene unos 14 000 millones de años."
+        },
+        {
+          "en": "Are we alone in the [universe]?",
+          "tr": "Evrende yalnız mıyız?",
+          "de": "Sind wir allein im Universum?",
+          "fr": "Sommes-nous seuls dans l'univers ?",
+          "it": "Siamo soli nell'universo?",
+          "es": "¿Estamos solos en el universo?"
+        }
+      ]
+    },
+    {
+      "id": "universal",
+      "pos": "adjective",
+      "parent": "universe",
+      "parts": [
+        "uni-",
+        "vers",
+        "-al"
+      ],
+      "gloss": {
+        "en": "for everyone or everywhere",
+        "tr": "evrensel, genel",
+        "de": "universell, allgemein",
+        "fr": "universel",
+        "it": "universale",
+        "es": "universal"
+      },
+      "sentences": [
+        {
+          "en": "Music is a [universal] language.",
+          "tr": "Müzik evrensel bir dildir.",
+          "de": "Musik ist eine universelle Sprache.",
+          "fr": "La musique est un langage universel.",
+          "it": "La musica è un linguaggio universale.",
+          "es": "La música es un lenguaje universal."
+        },
+        {
+          "en": "This charger is [universal].",
+          "tr": "Bu şarj aleti her cihaza uyuyor.",
+          "de": "Dieses Ladegerät passt für alle Geräte.",
+          "fr": "Ce chargeur est universel.",
+          "it": "Questo caricabatterie è universale.",
+          "es": "Este cargador es universal."
+        }
+      ]
+    },
+    {
+      "id": "university",
+      "pos": "noun",
+      "parent": "universe",
+      "parts": [
+        "uni-",
+        "vers",
+        "-ity"
+      ],
+      "gloss": {
+        "en": "a place of higher education (from Latin universitas, 'the whole, a community')",
+        "tr": "üniversite",
+        "de": "die Universität",
+        "fr": "l'université",
+        "it": "l'università",
+        "es": "la universidad"
+      },
+      "sentences": [
+        {
+          "en": "She studies engineering at [university].",
+          "tr": "Üniversitede mühendislik okuyor.",
+          "de": "Sie studiert Ingenieurwesen an der Universität.",
+          "fr": "Elle étudie l'ingénierie à l'université.",
+          "it": "Studia ingegneria all'università.",
+          "es": "Estudia ingeniería en la universidad."
+        },
+        {
+          "en": "The [university] has a large library.",
+          "tr": "Üniversitenin büyük bir kütüphanesi var.",
+          "de": "Die Universität hat eine große Bibliothek.",
+          "fr": "L'université a une grande bibliothèque.",
+          "it": "L'università ha una grande biblioteca.",
+          "es": "La universidad tiene una gran biblioteca."
+        }
+      ]
+    },
+    {
+      "id": "diverse",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "di-",
+        "verse"
+      ],
+      "gloss": {
+        "en": "very different from each other; varied (literally: turned in different directions)",
+        "tr": "çeşitli, farklı",
+        "de": "vielfältig, unterschiedlich",
+        "fr": "divers, varié",
+        "it": "vario, eterogeneo",
+        "es": "diverso, variado"
+      },
+      "sentences": [
+        {
+          "en": "The city has a [diverse] population.",
+          "tr": "Şehrin çok çeşitli bir nüfusu var.",
+          "de": "Die Stadt hat eine vielfältige Bevölkerung.",
+          "fr": "La ville a une population variée.",
+          "it": "La città ha una popolazione eterogenea.",
+          "es": "La ciudad tiene una población diversa."
+        },
+        {
+          "en": "She has [diverse] interests, from art to physics.",
+          "tr": "Sanattan fiziğe kadar çeşitli ilgi alanları var.",
+          "de": "Sie hat vielfältige Interessen, von Kunst bis Physik.",
+          "fr": "Elle a des centres d'intérêt variés, de l'art à la physique.",
+          "it": "Ha interessi vari, dall'arte alla fisica.",
+          "es": "Tiene intereses variados, del arte a la física."
+        }
+      ]
+    },
+    {
+      "id": "diversity",
+      "pos": "noun",
+      "parent": "diverse",
+      "parts": [
+        "di-",
+        "vers",
+        "-ity"
+      ],
+      "gloss": {
+        "en": "a range of many different things or people",
+        "tr": "çeşitlilik",
+        "de": "die Vielfalt",
+        "fr": "la diversité",
+        "it": "la diversità",
+        "es": "la diversidad"
+      },
+      "sentences": [
+        {
+          "en": "The rainforest has great [diversity] of life.",
+          "tr": "Yağmur ormanında büyük bir canlı çeşitliliği var.",
+          "de": "Der Regenwald hat eine große Artenvielfalt.",
+          "fr": "La forêt tropicale abrite une grande diversité de vie.",
+          "it": "La foresta pluviale ha una grande diversità di vita.",
+          "es": "La selva tiene una gran diversidad de vida."
+        },
+        {
+          "en": "Our team values [diversity].",
+          "tr": "Ekibimiz çeşitliliğe değer verir.",
+          "de": "Unser Team schätzt Vielfalt.",
+          "fr": "Notre équipe valorise la diversité.",
+          "it": "Il nostro team valorizza la diversità.",
+          "es": "Nuestro equipo valora la diversidad."
+        }
+      ]
+    },
+    {
+      "id": "divert",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "di-",
+        "vert"
+      ],
+      "gloss": {
+        "en": "to change the direction of something (literally: to turn aside)",
+        "tr": "yönünü değiştirmek, saptırmak",
+        "de": "umleiten; ablenken",
+        "fr": "dévier, détourner",
+        "it": "deviare, distogliere",
+        "es": "desviar"
+      },
+      "sentences": [
+        {
+          "en": "The flight was [diverted] to another airport.",
+          "tr": "Uçak başka bir havalimanına yönlendirildi.",
+          "de": "Der Flug wurde zu einem anderen Flughafen umgeleitet.",
+          "fr": "Le vol a été dérouté vers un autre aéroport.",
+          "it": "Il volo è stato dirottato su un altro aeroporto.",
+          "es": "El vuelo fue desviado a otro aeropuerto."
+        },
+        {
+          "en": "He tried to [divert] attention from the problem.",
+          "tr": "Dikkati sorundan başka yöne çekmeye çalıştı.",
+          "de": "Er versuchte, von dem Problem abzulenken.",
+          "fr": "Il a essayé de détourner l'attention du problème.",
+          "it": "Ha cercato di distogliere l'attenzione dal problema.",
+          "es": "Intentó desviar la atención del problema."
+        }
+      ]
+    },
+    {
+      "id": "advertise",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ad-",
+        "vert",
+        "-ise"
+      ],
+      "gloss": {
+        "en": "to tell the public about a product or job (literally: to turn attention toward)",
+        "tr": "reklamını yapmak; ilan vermek",
+        "de": "werben für; ausschreiben",
+        "fr": "faire de la publicité pour; passer une annonce",
+        "it": "pubblicizzare; mettere un annuncio",
+        "es": "anunciar, hacer publicidad"
+      },
+      "sentences": [
+        {
+          "en": "They [advertise] the new phone everywhere.",
+          "tr": "Yeni telefonun reklamını her yerde yapıyorlar.",
+          "de": "Sie werben überall für das neue Handy.",
+          "fr": "Ils font de la publicité pour le nouveau téléphone partout.",
+          "it": "Pubblicizzano il nuovo telefono ovunque.",
+          "es": "Anuncian el nuevo móvil en todas partes."
+        },
+        {
+          "en": "The job was [advertised] online.",
+          "tr": "İş ilanı internette yayımlandı.",
+          "de": "Die Stelle wurde online ausgeschrieben.",
+          "fr": "L'offre d'emploi a été publiée en ligne.",
+          "it": "L'annuncio di lavoro è stato pubblicato online.",
+          "es": "El puesto se anunció en internet."
+        }
+      ]
+    },
+    {
+      "id": "advertisement",
+      "pos": "noun",
+      "parent": "advertise",
+      "parts": [
+        "ad-",
+        "vert",
+        "-ise",
+        "-ment"
+      ],
+      "gloss": {
+        "en": "a notice or short film that tells people about a product",
+        "tr": "reklam; ilan",
+        "de": "die Werbung, die Anzeige",
+        "fr": "la publicité, l'annonce",
+        "it": "la pubblicità, l'annuncio",
+        "es": "el anuncio"
+      },
+      "sentences": [
+        {
+          "en": "I saw an [advertisement] for the job in the paper.",
+          "tr": "Gazetede iş ilanını gördüm.",
+          "de": "Ich habe die Stellenanzeige in der Zeitung gesehen.",
+          "fr": "J'ai vu l'annonce pour le poste dans le journal.",
+          "it": "Ho visto l'annuncio di lavoro sul giornale.",
+          "es": "Vi el anuncio del puesto en el periódico."
+        },
+        {
+          "en": "The video starts with a long [advertisement].",
+          "tr": "Video uzun bir reklamla başlıyor.",
+          "de": "Das Video beginnt mit einer langen Werbung.",
+          "fr": "La vidéo commence par une longue publicité.",
+          "it": "Il video inizia con una lunga pubblicità.",
+          "es": "El vídeo empieza con un anuncio largo."
+        }
+      ]
+    },
+    {
+      "id": "controversy",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "contro-",
+        "vers",
+        "-y"
+      ],
+      "gloss": {
+        "en": "strong public disagreement (literally: a turning against)",
+        "tr": "tartışma, anlaşmazlık",
+        "de": "die Kontroverse, der Streit",
+        "fr": "la controverse, la polémique",
+        "it": "la controversia, la polemica",
+        "es": "la controversia, la polémica"
+      },
+      "sentences": [
+        {
+          "en": "The new law caused a lot of [controversy].",
+          "tr": "Yeni yasa büyük tartışmaya yol açtı.",
+          "de": "Das neue Gesetz löste viel Streit aus.",
+          "fr": "La nouvelle loi a suscité une vive polémique.",
+          "it": "La nuova legge ha suscitato molte polemiche.",
+          "es": "La nueva ley generó mucha polémica."
+        },
+        {
+          "en": "The referee's decision led to [controversy].",
+          "tr": "Hakemin kararı tartışmaya neden oldu.",
+          "de": "Die Entscheidung des Schiedsrichters sorgte für eine Kontroverse.",
+          "fr": "La décision de l'arbitre a provoqué une controverse.",
+          "it": "La decisione dell'arbitro ha creato polemiche.",
+          "es": "La decisión del árbitro generó controversia."
+        }
+      ]
+    },
+    {
+      "id": "controversial",
+      "pos": "adjective",
+      "parent": "controversy",
+      "parts": [
+        "contro-",
+        "vers",
+        "-ial"
+      ],
+      "gloss": {
+        "en": "causing strong disagreement",
+        "tr": "tartışmalı",
+        "de": "umstritten, kontrovers",
+        "fr": "controversé",
+        "it": "controverso",
+        "es": "polémico, controvertido"
+      },
+      "sentences": [
+        {
+          "en": "It's a [controversial] topic, so be careful.",
+          "tr": "Tartışmalı bir konu, dikkatli ol.",
+          "de": "Es ist ein umstrittenes Thema, also sei vorsichtig.",
+          "fr": "C'est un sujet controversé, sois prudent.",
+          "it": "È un argomento controverso, quindi fai attenzione.",
+          "es": "Es un tema polémico, así que ten cuidado."
+        },
+        {
+          "en": "The film's ending was [controversial].",
+          "tr": "Filmin sonu tartışma yarattı.",
+          "de": "Das Ende des Films war umstritten.",
+          "fr": "La fin du film a fait polémique.",
+          "it": "Il finale del film è stato controverso.",
+          "es": "El final de la película fue polémico."
+        }
+      ]
+    },
+    {
+      "id": "versatile",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "vers",
+        "-atile"
+      ],
+      "gloss": {
+        "en": "able to do many different things (literally: able to turn easily)",
+        "tr": "çok yönlü, çok amaçlı",
+        "de": "vielseitig",
+        "fr": "polyvalent",
+        "it": "versatile, poliedrico",
+        "es": "versátil, polivalente"
+      },
+      "sentences": [
+        {
+          "en": "She is a [versatile] actor.",
+          "tr": "Çok yönlü bir oyuncu.",
+          "de": "Sie ist eine vielseitige Schauspielerin.",
+          "fr": "C'est une actrice polyvalente.",
+          "it": "È un'attrice versatile.",
+          "es": "Es una actriz versátil."
+        },
+        {
+          "en": "Rice is a [versatile] food.",
+          "tr": "Pirinç çok amaçlı bir yiyecektir.",
+          "de": "Reis ist ein vielseitiges Lebensmittel.",
+          "fr": "Le riz est un aliment polyvalent.",
+          "it": "Il riso è un alimento versatile.",
+          "es": "El arroz es un alimento versátil."
+        }
+      ]
+    },
+    {
+      "id": "introvert",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "intro-",
+        "vert"
+      ],
+      "gloss": {
+        "en": "a quiet person who prefers being alone or in small groups (literally: turned inward)",
+        "tr": "içe dönük kişi",
+        "de": "der introvertierte Mensch",
+        "fr": "l'introverti",
+        "it": "l'introverso",
+        "es": "el introvertido"
+      },
+      "sentences": [
+        {
+          "en": "As an [introvert], I need time alone after parties.",
+          "tr": "İçe dönük biri olarak partilerden sonra yalnız kalmaya ihtiyacım var.",
+          "de": "Als introvertierter Mensch brauche ich nach Partys Zeit für mich.",
+          "fr": "En tant qu'introverti, j'ai besoin d'être seul après les fêtes.",
+          "it": "Da introverso, dopo le feste ho bisogno di stare da solo.",
+          "es": "Como introvertido, necesito estar solo después de las fiestas."
+        },
+        {
+          "en": "Many [introverts] are great listeners.",
+          "tr": "İçe dönük birçok insan çok iyi dinleyicidir.",
+          "de": "Viele Introvertierte sind gute Zuhörer.",
+          "fr": "Beaucoup d'introvertis sont d'excellents auditeurs.",
+          "it": "Molti introversi sono ottimi ascoltatori.",
+          "es": "Muchos introvertidos saben escuchar muy bien."
+        }
+      ]
+    },
+    {
+      "id": "extrovert",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "extro-",
+        "vert"
+      ],
+      "gloss": {
+        "en": "an outgoing person who enjoys being with others (literally: turned outward)",
+        "tr": "dışa dönük kişi",
+        "de": "der extrovertierte Mensch",
+        "fr": "l'extraverti",
+        "it": "l'estroverso",
+        "es": "el extrovertido"
+      },
+      "sentences": [
+        {
+          "en": "My brother is a real [extrovert].",
+          "tr": "Kardeşim tam bir dışa dönük.",
+          "de": "Mein Bruder ist ein echter Extrovertierter.",
+          "fr": "Mon frère est un vrai extraverti.",
+          "it": "Mio fratello è un vero estroverso.",
+          "es": "Mi hermano es un auténtico extrovertido."
+        },
+        {
+          "en": "[Extroverts] get energy from being with people.",
+          "tr": "Dışa dönük insanlar enerjilerini başkalarıyla birlikte olmaktan alır.",
+          "de": "Extrovertierte tanken Energie unter Menschen.",
+          "fr": "Les extravertis tirent leur énergie des autres.",
+          "it": "Gli estroversi si caricano stando con gli altri.",
+          "es": "Los extrovertidos se cargan de energía estando con gente."
+        }
+      ]
+    },
+    {
+      "id": "vertical",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "vert",
+        "-ic",
+        "-al"
+      ],
+      "gloss": {
+        "en": "standing straight up, at 90 degrees to the ground (from Latin vertex, 'turning point, top')",
+        "tr": "dikey",
+        "de": "senkrecht, vertikal",
+        "fr": "vertical",
+        "it": "verticale",
+        "es": "vertical"
+      },
+      "sentences": [
+        {
+          "en": "Draw a [vertical] line down the page.",
+          "tr": "Sayfaya yukarıdan aşağı dikey bir çizgi çiz.",
+          "de": "Zieh eine senkrechte Linie über die Seite.",
+          "fr": "Trace une ligne verticale sur la page.",
+          "it": "Traccia una linea verticale sulla pagina.",
+          "es": "Traza una línea vertical en la página."
+        },
+        {
+          "en": "The climbers faced a [vertical] wall of ice.",
+          "tr": "Dağcılar dimdik bir buz duvarıyla karşılaştı.",
+          "de": "Die Bergsteiger standen vor einer senkrechten Eiswand.",
+          "fr": "Les alpinistes faisaient face à un mur de glace vertical.",
+          "it": "Gli alpinisti avevano davanti una parete di ghiaccio verticale.",
+          "es": "Los escaladores se enfrentaron a una pared de hielo vertical."
+        }
+      ]
+    },
+    {
+      "id": "anniversary",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "anni-",
+        "vers",
+        "-ary"
+      ],
+      "gloss": {
+        "en": "the same date as an important event in a past year (literally: the year turning back)",
+        "tr": "yıl dönümü",
+        "de": "der Jahrestag",
+        "fr": "l'anniversaire (d'un événement)",
+        "it": "l'anniversario",
+        "es": "el aniversario"
+      },
+      "sentences": [
+        {
+          "en": "Today is my parents' wedding [anniversary].",
+          "tr": "Bugün annemle babamın evlilik yıl dönümü.",
+          "de": "Heute ist der Hochzeitstag meiner Eltern.",
+          "fr": "Aujourd'hui, c'est l'anniversaire de mariage de mes parents.",
+          "it": "Oggi è l'anniversario di matrimonio dei miei genitori.",
+          "es": "Hoy es el aniversario de boda de mis padres."
+        },
+        {
+          "en": "The school celebrates its 100th [anniversary] this year.",
+          "tr": "Okul bu yıl 100. yılını kutluyor.",
+          "de": "Die Schule feiert dieses Jahr ihr hundertjähriges Bestehen.",
+          "fr": "L'école fête son centenaire cette année.",
+          "it": "La scuola festeggia quest'anno il centenario.",
+          "es": "El colegio celebra este año su centenario."
+        }
+      ]
+    },
+    {
+      "id": "adverse",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "ad-",
+        "verse"
+      ],
+      "gloss": {
+        "en": "harmful or unfavourable (literally: turned against)",
+        "tr": "olumsuz, ters",
+        "de": "ungünstig, nachteilig",
+        "fr": "défavorable, négatif",
+        "it": "avverso, sfavorevole",
+        "es": "adverso, desfavorable"
+      },
+      "sentences": [
+        {
+          "en": "The flight was cancelled due to [adverse] weather.",
+          "tr": "Uçuş kötü hava koşulları nedeniyle iptal edildi.",
+          "de": "Der Flug wurde wegen ungünstiger Wetterbedingungen gestrichen.",
+          "fr": "Le vol a été annulé en raison de conditions météo défavorables.",
+          "it": "Il volo è stato cancellato per condizioni meteo avverse.",
+          "es": "El vuelo se canceló por condiciones meteorológicas adversas."
+        },
+        {
+          "en": "The medicine has few [adverse] effects.",
+          "tr": "İlacın az yan etkisi var.",
+          "de": "Das Medikament hat wenige Nebenwirkungen.",
+          "fr": "Le médicament a peu d'effets indésirables.",
+          "it": "Il farmaco ha pochi effetti avversi.",
+          "es": "El medicamento tiene pocos efectos adversos."
+        }
+      ]
+    }
+  ]
+}

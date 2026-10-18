@@ -1003,6 +1003,87 @@
     ]
   },
   {
+    "id": "ten",
+    "forms": [
+      "ten",
+      "tain",
+      "tin",
+      "tent"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to hold, to keep",
+      "tr": "tutmak",
+      "de": "halten",
+      "fr": "tenir",
+      "it": "tenere",
+      "es": "tener, sostener"
+    },
+    "words": [
+      "contain",
+      "container",
+      "content",
+      "continent",
+      "continue",
+      "maintain",
+      "maintenance",
+      "obtain",
+      "retain",
+      "retention",
+      "detain",
+      "detention",
+      "entertain",
+      "entertainment",
+      "sustain",
+      "sustainable",
+      "abstain",
+      "tenant",
+      "tenacious",
+      "pertinent",
+      "lieutenant"
+    ]
+  },
+  {
+    "id": "tend",
+    "forms": [
+      "tend",
+      "tens",
+      "tense",
+      "tent"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to stretch, to reach toward",
+      "tr": "germek, uzanmak, yönelmek",
+      "de": "spannen, sich ausstrecken",
+      "fr": "tendre",
+      "it": "tendere",
+      "es": "tender, extender"
+    },
+    "words": [
+      "tend",
+      "tendency",
+      "attend",
+      "attendance",
+      "attention",
+      "attentive",
+      "inattentive",
+      "intend",
+      "intention",
+      "unintentional",
+      "intense",
+      "intensity",
+      "extend",
+      "extension",
+      "extensive",
+      "extent",
+      "pretend",
+      "tense",
+      "tension",
+      "tent"
+    ]
+  },
+  {
     "id": "tract",
     "forms": [
       "tract"
@@ -1037,6 +1118,47 @@
       "abstract",
       "protracted",
       "intractable"
+    ]
+  },
+  {
+    "id": "vert",
+    "forms": [
+      "vert",
+      "vers",
+      "verse"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to turn",
+      "tr": "çevirmek, döndürmek",
+      "de": "drehen, wenden",
+      "fr": "tourner",
+      "it": "girare, volgere",
+      "es": "girar, volver"
+    },
+    "words": [
+      "convert",
+      "conversion",
+      "conversation",
+      "reverse",
+      "irreversible",
+      "version",
+      "universe",
+      "universal",
+      "university",
+      "diverse",
+      "diversity",
+      "divert",
+      "advertise",
+      "advertisement",
+      "controversy",
+      "controversial",
+      "versatile",
+      "introvert",
+      "extrovert",
+      "vertical",
+      "anniversary",
+      "adverse"
     ]
   },
   {

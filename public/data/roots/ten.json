@@ -1,0 +1,766 @@
+{
+  "id": "ten",
+  "forms": [
+    "ten",
+    "tain",
+    "tin",
+    "tent"
+  ],
+  "origin": "la",
+  "etymon": "tenere",
+  "meaning": {
+    "en": "to hold, to keep",
+    "tr": "tutmak",
+    "de": "halten",
+    "fr": "tenir",
+    "it": "tenere",
+    "es": "tener, sostener"
+  },
+  "words": [
+    {
+      "id": "contain",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "con-",
+        "tain"
+      ],
+      "gloss": {
+        "en": "to have something inside (literally: to hold together)",
+        "tr": "içermek, kapsamak",
+        "de": "enthalten",
+        "fr": "contenir",
+        "it": "contenere",
+        "es": "contener"
+      },
+      "sentences": [
+        {
+          "en": "This drink [contains] a lot of sugar.",
+          "tr": "Bu içecek çok şeker içeriyor.",
+          "de": "Dieses Getränk enthält viel Zucker.",
+          "fr": "Cette boisson contient beaucoup de sucre.",
+          "it": "Questa bevanda contiene molto zucchero.",
+          "es": "Esta bebida contiene mucho azúcar."
+        },
+        {
+          "en": "The box [contained] old letters.",
+          "tr": "Kutuda eski mektuplar vardı.",
+          "de": "Die Kiste enthielt alte Briefe.",
+          "fr": "La boîte contenait de vieilles lettres.",
+          "it": "La scatola conteneva vecchie lettere.",
+          "es": "La caja contenía cartas antiguas."
+        }
+      ]
+    },
+    {
+      "id": "container",
+      "pos": "noun",
+      "parent": "contain",
+      "parts": [
+        "con-",
+        "tain",
+        "-er"
+      ],
+      "gloss": {
+        "en": "a box, bottle or similar object for holding things",
+        "tr": "kap, kutu; konteyner",
+        "de": "der Behälter; der Container",
+        "fr": "le récipient; le conteneur",
+        "it": "il contenitore; il container",
+        "es": "el recipiente; el contenedor"
+      },
+      "sentences": [
+        {
+          "en": "Keep the rice in a closed [container].",
+          "tr": "Pirinci kapalı bir kapta sakla.",
+          "de": "Bewahre den Reis in einem geschlossenen Behälter auf.",
+          "fr": "Garde le riz dans un récipient fermé.",
+          "it": "Conserva il riso in un contenitore chiuso.",
+          "es": "Guarda el arroz en un recipiente cerrado."
+        },
+        {
+          "en": "The ship carries thousands of [containers].",
+          "tr": "Gemi binlerce konteyner taşıyor.",
+          "de": "Das Schiff transportiert Tausende Container.",
+          "fr": "Le navire transporte des milliers de conteneurs.",
+          "it": "La nave trasporta migliaia di container.",
+          "es": "El barco transporta miles de contenedores."
+        }
+      ]
+    },
+    {
+      "id": "content",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "con-",
+        "tent"
+      ],
+      "gloss": {
+        "en": "what is inside something; the subject of a book or website (literally: what is held together)",
+        "tr": "içerik",
+        "de": "der Inhalt",
+        "fr": "le contenu",
+        "it": "il contenuto",
+        "es": "el contenido"
+      },
+      "sentences": [
+        {
+          "en": "The [contents] of the box fell on the floor.",
+          "tr": "Kutunun içindekiler yere düştü.",
+          "de": "Der Inhalt der Kiste fiel auf den Boden.",
+          "fr": "Le contenu de la boîte est tombé par terre.",
+          "it": "Il contenuto della scatola è caduto a terra.",
+          "es": "El contenido de la caja cayó al suelo."
+        },
+        {
+          "en": "She creates [content] for a cooking channel.",
+          "tr": "Bir yemek kanalı için içerik üretiyor.",
+          "de": "Sie erstellt Inhalte für einen Kochkanal.",
+          "fr": "Elle crée du contenu pour une chaîne de cuisine.",
+          "it": "Crea contenuti per un canale di cucina.",
+          "es": "Crea contenido para un canal de cocina."
+        }
+      ]
+    },
+    {
+      "id": "continent",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "con-",
+        "tin",
+        "-ent"
+      ],
+      "gloss": {
+        "en": "one of the large land areas of the Earth (literally: land held together)",
+        "tr": "kıta",
+        "de": "der Kontinent",
+        "fr": "le continent",
+        "it": "il continente",
+        "es": "el continente"
+      },
+      "sentences": [
+        {
+          "en": "Africa is the second largest [continent].",
+          "tr": "Afrika ikinci en büyük kıtadır.",
+          "de": "Afrika ist der zweitgrößte Kontinent.",
+          "fr": "L'Afrique est le deuxième plus grand continent.",
+          "it": "L'Africa è il secondo continente più grande.",
+          "es": "África es el segundo continente más grande."
+        },
+        {
+          "en": "She has visited every [continent] except Antarctica.",
+          "tr": "Antarktika hariç her kıtayı gezdi.",
+          "de": "Sie hat jeden Kontinent außer der Antarktis besucht.",
+          "fr": "Elle a visité tous les continents sauf l'Antarctique.",
+          "it": "Ha visitato tutti i continenti tranne l'Antartide.",
+          "es": "Ha visitado todos los continentes menos la Antártida."
+        }
+      ]
+    },
+    {
+      "id": "continue",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "con-",
+        "tin",
+        "-ue"
+      ],
+      "gloss": {
+        "en": "to keep doing something (from Latin continuare, 'to hold together, to join')",
+        "tr": "devam etmek",
+        "de": "fortsetzen, weitermachen",
+        "fr": "continuer",
+        "it": "continuare",
+        "es": "continuar, seguir"
+      },
+      "sentences": [
+        {
+          "en": "Please [continue], I'm listening.",
+          "tr": "Lütfen devam et, dinliyorum.",
+          "de": "Bitte mach weiter, ich höre zu.",
+          "fr": "Continue, je t'écoute.",
+          "it": "Continua, ti ascolto.",
+          "es": "Sigue, te escucho."
+        },
+        {
+          "en": "The rain [continued] all night.",
+          "tr": "Yağmur bütün gece sürdü.",
+          "de": "Der Regen hielt die ganze Nacht an.",
+          "fr": "La pluie a continué toute la nuit.",
+          "it": "La pioggia è continuata tutta la notte.",
+          "es": "La lluvia continuó toda la noche."
+        }
+      ]
+    },
+    {
+      "id": "maintain",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "main-",
+        "tain"
+      ],
+      "gloss": {
+        "en": "to keep something in good condition or at the same level (literally: to hold in the hand)",
+        "tr": "sürdürmek, korumak; bakımını yapmak",
+        "de": "aufrechterhalten; instand halten",
+        "fr": "maintenir; entretenir",
+        "it": "mantenere; curare la manutenzione",
+        "es": "mantener"
+      },
+      "sentences": [
+        {
+          "en": "It's hard to [maintain] a big garden.",
+          "tr": "Büyük bir bahçenin bakımı zor.",
+          "de": "Es ist schwer, einen großen Garten zu pflegen.",
+          "fr": "C'est difficile d'entretenir un grand jardin.",
+          "it": "È difficile curare un grande giardino.",
+          "es": "Es difícil mantener un jardín grande."
+        },
+        {
+          "en": "[Maintain] a safe distance from the car in front.",
+          "tr": "Öndeki araçla güvenli mesafeyi koru.",
+          "de": "Halte sicheren Abstand zum vorderen Auto.",
+          "fr": "Garde une distance de sécurité avec la voiture de devant.",
+          "it": "Mantieni una distanza di sicurezza dall'auto davanti.",
+          "es": "Mantén una distancia de seguridad con el coche de delante."
+        }
+      ]
+    },
+    {
+      "id": "maintenance",
+      "pos": "noun",
+      "parent": "maintain",
+      "parts": [
+        "main-",
+        "ten",
+        "-ance"
+      ],
+      "gloss": {
+        "en": "the work of keeping something in good condition",
+        "tr": "bakım",
+        "de": "die Wartung, die Instandhaltung",
+        "fr": "l'entretien, la maintenance",
+        "it": "la manutenzione",
+        "es": "el mantenimiento"
+      },
+      "sentences": [
+        {
+          "en": "The lift is closed for [maintenance].",
+          "tr": "Asansör bakım için kapalı.",
+          "de": "Der Aufzug ist wegen Wartung außer Betrieb.",
+          "fr": "L'ascenseur est fermé pour maintenance.",
+          "it": "L'ascensore è chiuso per manutenzione.",
+          "es": "El ascensor está cerrado por mantenimiento."
+        },
+        {
+          "en": "Old houses need a lot of [maintenance].",
+          "tr": "Eski evler çok bakım ister.",
+          "de": "Alte Häuser brauchen viel Instandhaltung.",
+          "fr": "Les vieilles maisons demandent beaucoup d'entretien.",
+          "it": "Le case vecchie richiedono molta manutenzione.",
+          "es": "Las casas viejas necesitan mucho mantenimiento."
+        }
+      ]
+    },
+    {
+      "id": "obtain",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ob-",
+        "tain"
+      ],
+      "gloss": {
+        "en": "to get something, often with effort (literally: to hold toward)",
+        "tr": "elde etmek, edinmek",
+        "de": "erhalten, erlangen",
+        "fr": "obtenir",
+        "it": "ottenere",
+        "es": "obtener, conseguir"
+      },
+      "sentences": [
+        {
+          "en": "You must [obtain] a visa before you travel.",
+          "tr": "Seyahat etmeden önce vize almalısın.",
+          "de": "Du musst vor der Reise ein Visum beantragen und erhalten.",
+          "fr": "Tu dois obtenir un visa avant de partir.",
+          "it": "Devi ottenere il visto prima di partire.",
+          "es": "Debes obtener un visado antes de viajar."
+        },
+        {
+          "en": "Where did you [obtain] this information?",
+          "tr": "Bu bilgiyi nereden edindin?",
+          "de": "Woher hast du diese Information?",
+          "fr": "Où as-tu obtenu cette information ?",
+          "it": "Dove hai ottenuto questa informazione?",
+          "es": "¿Dónde conseguiste esta información?"
+        }
+      ]
+    },
+    {
+      "id": "retain",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "re-",
+        "tain"
+      ],
+      "gloss": {
+        "en": "to keep; to continue to have (literally: to hold back)",
+        "tr": "tutmak, korumak; hafızada tutmak",
+        "de": "behalten; speichern",
+        "fr": "retenir, conserver",
+        "it": "trattenere, conservare",
+        "es": "retener, conservar"
+      },
+      "sentences": [
+        {
+          "en": "This soil [retains] water well.",
+          "tr": "Bu toprak suyu iyi tutar.",
+          "de": "Dieser Boden speichert Wasser gut.",
+          "fr": "Ce sol retient bien l'eau.",
+          "it": "Questo terreno trattiene bene l'acqua.",
+          "es": "Este suelo retiene bien el agua."
+        },
+        {
+          "en": "Repeating words helps you [retain] them.",
+          "tr": "Kelimeleri tekrar etmek onları hafızanda tutmana yardım eder.",
+          "de": "Wiederholen hilft dir, Wörter zu behalten.",
+          "fr": "Répéter les mots aide à les retenir.",
+          "it": "Ripetere le parole ti aiuta a ricordarle.",
+          "es": "Repetir las palabras te ayuda a retenerlas."
+        }
+      ]
+    },
+    {
+      "id": "retention",
+      "pos": "noun",
+      "parent": "retain",
+      "parts": [
+        "re-",
+        "tent",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "keeping something",
+        "tr": "tutma, elde tutma",
+        "de": "das Behalten, die Speicherung",
+        "fr": "la rétention, la conservation",
+        "it": "la ritenzione, il mantenimento",
+        "es": "la retención"
+      },
+      "sentences": [
+        {
+          "en": "The company has a problem with staff [retention].",
+          "tr": "Şirketin çalışanlarını elde tutmakla ilgili bir sorunu var.",
+          "de": "Die Firma hat Probleme, ihre Mitarbeiter zu halten.",
+          "fr": "L'entreprise a du mal à fidéliser son personnel.",
+          "it": "L'azienda fatica a trattenere il personale.",
+          "es": "La empresa tiene problemas para retener al personal."
+        },
+        {
+          "en": "Sleep improves memory [retention].",
+          "tr": "Uyku bilgilerin hafızada kalmasını kolaylaştırır.",
+          "de": "Schlaf verbessert das Behalten von Gelerntem.",
+          "fr": "Le sommeil améliore la mémorisation.",
+          "it": "Il sonno migliora la memorizzazione.",
+          "es": "El sueño mejora la retención de la memoria."
+        }
+      ]
+    },
+    {
+      "id": "detain",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "de-",
+        "tain"
+      ],
+      "gloss": {
+        "en": "to keep someone in a place, often by the police (literally: to hold away)",
+        "tr": "gözaltına almak; alıkoymak",
+        "de": "festhalten, in Gewahrsam nehmen",
+        "fr": "retenir, placer en détention",
+        "it": "trattenere, fermare",
+        "es": "detener, retener"
+      },
+      "sentences": [
+        {
+          "en": "Police [detained] two men after the fight.",
+          "tr": "Polis kavgadan sonra iki adamı gözaltına aldı.",
+          "de": "Die Polizei nahm nach der Schlägerei zwei Männer fest.",
+          "fr": "La police a interpellé deux hommes après la bagarre.",
+          "it": "La polizia ha fermato due uomini dopo la rissa.",
+          "es": "La policía detuvo a dos hombres tras la pelea."
+        },
+        {
+          "en": "I won't [detain] you any longer.",
+          "tr": "Seni daha fazla alıkoymayayım.",
+          "de": "Ich will dich nicht länger aufhalten.",
+          "fr": "Je ne vais pas te retenir plus longtemps.",
+          "it": "Non ti trattengo oltre.",
+          "es": "No te entretengo más."
+        }
+      ]
+    },
+    {
+      "id": "detention",
+      "pos": "noun",
+      "parent": "detain",
+      "parts": [
+        "de-",
+        "tent",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "being kept in a place as a punishment",
+        "tr": "gözaltı, tutukluluk; okulda ceza",
+        "de": "die Haft; das Nachsitzen",
+        "fr": "la détention; la retenue",
+        "it": "la detenzione; la punizione dopo scuola",
+        "es": "la detención; el castigo después de clase"
+      },
+      "sentences": [
+        {
+          "en": "He was held in [detention] for two days.",
+          "tr": "İki gün gözaltında tutuldu.",
+          "de": "Er wurde zwei Tage in Haft gehalten.",
+          "fr": "Il a été maintenu en détention pendant deux jours.",
+          "it": "È stato tenuto in detenzione per due giorni.",
+          "es": "Estuvo detenido dos días."
+        },
+        {
+          "en": "Talking in class got me a [detention].",
+          "tr": "Derste konuştuğum için okuldan sonra cezaya kaldım.",
+          "de": "Weil ich im Unterricht geredet habe, musste ich nachsitzen.",
+          "fr": "J'ai eu une retenue pour avoir parlé en classe.",
+          "it": "Ho preso una punizione per aver parlato in classe.",
+          "es": "Me castigaron después de clase por hablar en el aula."
+        }
+      ]
+    },
+    {
+      "id": "entertain",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "enter-",
+        "tain"
+      ],
+      "gloss": {
+        "en": "to keep people interested and amused (literally: to hold between, to keep busy)",
+        "tr": "eğlendirmek; misafir ağırlamak",
+        "de": "unterhalten; bewirten",
+        "fr": "divertir; recevoir",
+        "it": "intrattenere; ricevere ospiti",
+        "es": "entretener; recibir invitados"
+      },
+      "sentences": [
+        {
+          "en": "A clown [entertained] the children.",
+          "tr": "Bir palyaço çocukları eğlendirdi.",
+          "de": "Ein Clown unterhielt die Kinder.",
+          "fr": "Un clown a diverti les enfants.",
+          "it": "Un pagliaccio ha intrattenuto i bambini.",
+          "es": "Un payaso entretuvo a los niños."
+        },
+        {
+          "en": "They love to [entertain] friends at home.",
+          "tr": "Evde arkadaş ağırlamayı çok severler.",
+          "de": "Sie bewirten gern Freunde zu Hause.",
+          "fr": "Ils adorent recevoir des amis chez eux.",
+          "it": "Amano ricevere amici a casa.",
+          "es": "Les encanta recibir amigos en casa."
+        }
+      ]
+    },
+    {
+      "id": "entertainment",
+      "pos": "noun",
+      "parent": "entertain",
+      "parts": [
+        "enter-",
+        "tain",
+        "-ment"
+      ],
+      "gloss": {
+        "en": "films, music, shows and other things that amuse people",
+        "tr": "eğlence",
+        "de": "die Unterhaltung",
+        "fr": "le divertissement",
+        "it": "l'intrattenimento",
+        "es": "el entretenimiento"
+      },
+      "sentences": [
+        {
+          "en": "The hotel offers live [entertainment] every night.",
+          "tr": "Otel her akşam canlı eğlence sunuyor.",
+          "de": "Das Hotel bietet jeden Abend Live-Unterhaltung.",
+          "fr": "L'hôtel propose des spectacles tous les soirs.",
+          "it": "L'hotel offre intrattenimento dal vivo ogni sera.",
+          "es": "El hotel ofrece entretenimiento en directo cada noche."
+        },
+        {
+          "en": "For [entertainment], we played cards.",
+          "tr": "Eğlence olsun diye kâğıt oynadık.",
+          "de": "Zur Unterhaltung haben wir Karten gespielt.",
+          "fr": "Pour nous divertir, nous avons joué aux cartes.",
+          "it": "Per svago abbiamo giocato a carte.",
+          "es": "Para entretenernos, jugamos a las cartas."
+        }
+      ]
+    },
+    {
+      "id": "sustain",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "sus-",
+        "tain"
+      ],
+      "gloss": {
+        "en": "to keep something going; to suffer an injury (literally: to hold up from below)",
+        "tr": "sürdürmek; (yara) almak",
+        "de": "aufrechterhalten; erleiden",
+        "fr": "maintenir; subir",
+        "it": "sostenere; subire",
+        "es": "mantener; sufrir"
+      },
+      "sentences": [
+        {
+          "en": "We can't [sustain] this speed for long.",
+          "tr": "Bu hızı uzun süre sürdüremeyiz.",
+          "de": "Wir können dieses Tempo nicht lange halten.",
+          "fr": "Nous ne pouvons pas maintenir ce rythme longtemps.",
+          "it": "Non possiamo sostenere questo ritmo a lungo.",
+          "es": "No podemos mantener este ritmo mucho tiempo."
+        },
+        {
+          "en": "The driver [sustained] minor injuries.",
+          "tr": "Sürücü hafif yaralandı.",
+          "de": "Der Fahrer erlitt leichte Verletzungen.",
+          "fr": "Le conducteur a été légèrement blessé.",
+          "it": "Il conducente ha riportato lievi ferite.",
+          "es": "El conductor sufrió heridas leves."
+        }
+      ]
+    },
+    {
+      "id": "sustainable",
+      "pos": "adjective",
+      "parent": "sustain",
+      "parts": [
+        "sus-",
+        "tain",
+        "-able"
+      ],
+      "gloss": {
+        "en": "able to continue without harming the environment",
+        "tr": "sürdürülebilir",
+        "de": "nachhaltig",
+        "fr": "durable",
+        "it": "sostenibile",
+        "es": "sostenible"
+      },
+      "sentences": [
+        {
+          "en": "We need [sustainable] sources of energy.",
+          "tr": "Sürdürülebilir enerji kaynaklarına ihtiyacımız var.",
+          "de": "Wir brauchen nachhaltige Energiequellen.",
+          "fr": "Nous avons besoin de sources d'énergie durables.",
+          "it": "Abbiamo bisogno di fonti di energia sostenibili.",
+          "es": "Necesitamos fuentes de energía sostenibles."
+        },
+        {
+          "en": "Is this way of farming [sustainable]?",
+          "tr": "Bu tarım yöntemi sürdürülebilir mi?",
+          "de": "Ist diese Art der Landwirtschaft nachhaltig?",
+          "fr": "Cette façon de cultiver est-elle durable ?",
+          "it": "Questo modo di coltivare è sostenibile?",
+          "es": "¿Es sostenible esta forma de cultivar?"
+        }
+      ]
+    },
+    {
+      "id": "abstain",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "abs-",
+        "tain"
+      ],
+      "gloss": {
+        "en": "to choose not to do something, such as vote or drink (literally: to hold away)",
+        "tr": "kaçınmak; çekimser kalmak",
+        "de": "sich enthalten; verzichten",
+        "fr": "s'abstenir",
+        "it": "astenersi",
+        "es": "abstenerse"
+      },
+      "sentences": [
+        {
+          "en": "Three members [abstained] from the vote.",
+          "tr": "Üç üye oylamada çekimser kaldı.",
+          "de": "Drei Mitglieder enthielten sich der Stimme.",
+          "fr": "Trois membres se sont abstenus lors du vote.",
+          "it": "Tre membri si sono astenuti dal voto.",
+          "es": "Tres miembros se abstuvieron en la votación."
+        },
+        {
+          "en": "Please [abstain] from eating before the test.",
+          "tr": "Lütfen testten önce yemek yemekten kaçının.",
+          "de": "Bitte verzichten Sie vor dem Test aufs Essen.",
+          "fr": "Veuillez vous abstenir de manger avant l'examen.",
+          "it": "Per favore, astenetevi dal mangiare prima dell'esame.",
+          "es": "Por favor, absténgase de comer antes de la prueba."
+        }
+      ]
+    },
+    {
+      "id": "tenant",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "ten",
+        "-ant"
+      ],
+      "gloss": {
+        "en": "a person who rents a home from someone (literally: one who holds)",
+        "tr": "kiracı",
+        "de": "der Mieter",
+        "fr": "le locataire",
+        "it": "l'inquilino",
+        "es": "el inquilino"
+      },
+      "sentences": [
+        {
+          "en": "The new [tenants] move in next week.",
+          "tr": "Yeni kiracılar haftaya taşınıyor.",
+          "de": "Die neuen Mieter ziehen nächste Woche ein.",
+          "fr": "Les nouveaux locataires emménagent la semaine prochaine.",
+          "it": "I nuovi inquilini entrano la settimana prossima.",
+          "es": "Los nuevos inquilinos se mudan la semana que viene."
+        },
+        {
+          "en": "The [tenant] complained about the heating.",
+          "tr": "Kiracı kaloriferden şikâyet etti.",
+          "de": "Der Mieter beschwerte sich über die Heizung.",
+          "fr": "Le locataire s'est plaint du chauffage.",
+          "it": "L'inquilino si è lamentato del riscaldamento.",
+          "es": "El inquilino se quejó de la calefacción."
+        }
+      ]
+    },
+    {
+      "id": "tenacious",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "ten",
+        "-acious"
+      ],
+      "gloss": {
+        "en": "not giving up easily (literally: holding fast)",
+        "tr": "azimli, inatçı",
+        "de": "hartnäckig, beharrlich",
+        "fr": "tenace",
+        "it": "tenace",
+        "es": "tenaz"
+      },
+      "sentences": [
+        {
+          "en": "She is a [tenacious] defender.",
+          "tr": "Azimli bir savunma oyuncusu.",
+          "de": "Sie ist eine hartnäckige Verteidigerin.",
+          "fr": "C'est une défenseuse tenace.",
+          "it": "È una difensora tenace.",
+          "es": "Es una defensa tenaz."
+        },
+        {
+          "en": "Only a [tenacious] reporter could find the truth.",
+          "tr": "Gerçeği ancak azimli bir muhabir bulabilirdi.",
+          "de": "Nur ein beharrlicher Reporter konnte die Wahrheit finden.",
+          "fr": "Seul un journaliste tenace pouvait découvrir la vérité.",
+          "it": "Solo un giornalista tenace poteva scoprire la verità.",
+          "es": "Solo un periodista tenaz podía descubrir la verdad."
+        }
+      ]
+    },
+    {
+      "id": "pertinent",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "per-",
+        "tin",
+        "-ent"
+      ],
+      "gloss": {
+        "en": "directly related to the subject (literally: holding through, reaching to)",
+        "tr": "ilgili, yerinde",
+        "de": "relevant, sachdienlich",
+        "fr": "pertinent",
+        "it": "pertinente",
+        "es": "pertinente"
+      },
+      "sentences": [
+        {
+          "en": "Please ask only [pertinent] questions.",
+          "tr": "Lütfen sadece konuyla ilgili sorular sorun.",
+          "de": "Bitte stellen Sie nur sachdienliche Fragen.",
+          "fr": "Veuillez ne poser que des questions pertinentes.",
+          "it": "Per favore, fate solo domande pertinenti.",
+          "es": "Por favor, haga solo preguntas pertinentes."
+        },
+        {
+          "en": "She made a very [pertinent] point.",
+          "tr": "Çok yerinde bir noktaya değindi.",
+          "de": "Sie machte einen sehr treffenden Punkt.",
+          "fr": "Elle a fait une remarque très pertinente.",
+          "it": "Ha fatto un'osservazione molto pertinente.",
+          "es": "Hizo una observación muy pertinente."
+        }
+      ]
+    },
+    {
+      "id": "lieutenant",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "lieu-",
+        "ten",
+        "-ant"
+      ],
+      "gloss": {
+        "en": "an officer in the army or navy (from French, 'one who holds the place' of a higher officer)",
+        "tr": "teğmen",
+        "de": "der Leutnant",
+        "fr": "le lieutenant",
+        "it": "il tenente",
+        "es": "el teniente"
+      },
+      "sentences": [
+        {
+          "en": "The [lieutenant] gave the order to march.",
+          "tr": "Teğmen yürüyüş emrini verdi.",
+          "de": "Der Leutnant gab den Befehl zum Marsch.",
+          "fr": "Le lieutenant a donné l'ordre de marcher.",
+          "it": "Il tenente ha dato l'ordine di marciare.",
+          "es": "El teniente dio la orden de marchar."
+        },
+        {
+          "en": "Her grandfather was a [lieutenant] in the navy.",
+          "tr": "Dedesi donanmada teğmendi.",
+          "de": "Ihr Großvater war Leutnant zur See.",
+          "fr": "Son grand-père était lieutenant de vaisseau.",
+          "it": "Suo nonno era tenente di vascello.",
+          "es": "Su abuelo fue teniente de la marina."
+        }
+      ]
+    }
+  ]
+}

@@ -44,7 +44,7 @@ yanına `(az: N)` yaz. Toplam hedef ≈ 1000–2000 kelime.
 - Aynı test iki turdur düzelmiyorsa ya da push reddediliyorsa döngüyü durdur ve nedenini yaz.
 
 ## Durum
-Kök: 27 / 50 · Kelime: 579
+Kök: 30 / 50 · Kelime: 642
 
 ## Kuyruk
 
@@ -78,9 +78,9 @@ Kök: 27 / 50 · Kelime: 579
 - [x] press — bastırmak — 20
 - [x] sent / sens — hissetmek — 20
 - [x] sist / sta — durmak — 25
-- [ ] ten / tain — tutmak
-- [ ] tend / tens — germek, uzanmak
-- [ ] vert / vers — çevirmek
+- [x] ten / tain — tutmak — 21
+- [x] tend / tens — germek, uzanmak — 20
+- [x] vert / vers — çevirmek — 22
 - [ ] voc / vok — seslenmek
 - [ ] cur / curs — koşmak
 - [ ] spir — nefes almak

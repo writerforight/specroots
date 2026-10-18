@@ -1542,5 +1542,137 @@
       "it": "cosa, mezzo (forma un nome)",
       "es": "cosa, medio (forma un sustantivo)"
     }
+  },
+  "main-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "by hand (French form of manu-)",
+      "tr": "elle (manu- Fransızca biçimi)",
+      "de": "mit der Hand (französische Form von manu-)",
+      "fr": "à la main (forme française de manu-)",
+      "it": "a mano (forma francese di manu-)",
+      "es": "a mano (forma francesa de manu-)"
+    }
+  },
+  "enter-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "between (French entre, from inter-)",
+      "tr": "arasında (Fransızca entre, inter-'den)",
+      "de": "zwischen (französisch entre, von inter-)",
+      "fr": "entre (de inter-)",
+      "it": "tra (francese entre, da inter-)",
+      "es": "entre (francés entre, de inter-)"
+    }
+  },
+  "lieu-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "place (French lieu, from Latin locus)",
+      "tr": "yer (Fransızca lieu, Latince locus'tan)",
+      "de": "Ort (französisch lieu, von locus)",
+      "fr": "lieu (du latin locus)",
+      "it": "luogo (francese lieu, dal latino locus)",
+      "es": "lugar (francés lieu, del latín locus)"
+    }
+  },
+  "contro-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "against (form of contra-)",
+      "tr": "karşı (contra- biçimi)",
+      "de": "gegen (Form von contra-)",
+      "fr": "contre (forme de contra-)",
+      "it": "contro (forma di contra-)",
+      "es": "contra (forma de contra-)"
+    }
+  },
+  "extro-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "outward (form of extra-)",
+      "tr": "dışa doğru (extra- biçimi)",
+      "de": "nach außen (Form von extra-)",
+      "fr": "vers l'extérieur (forme de extra-)",
+      "it": "verso l'esterno (forma di extra-)",
+      "es": "hacia fuera (forma de extra-)"
+    }
+  },
+  "anni-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "year (Latin annus)",
+      "tr": "yıl (Latince annus)",
+      "de": "Jahr (lateinisch annus)",
+      "fr": "année (latin annus)",
+      "it": "anno (latino annus)",
+      "es": "año (latín annus)"
+    }
+  },
+  "-ue": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "(verb ending from Latin -uare)",
+      "tr": "(Latince -uare'den fiil eki)",
+      "de": "(Verbendung aus lateinisch -uare)",
+      "fr": "(terminaison verbale du latin -uare)",
+      "it": "(desinenza verbale dal latino -uare)",
+      "es": "(terminación verbal del latín -uare)"
+    }
+  },
+  "-acious": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "tending to, full of (makes an adjective)",
+      "tr": "-meye yatkın, dolu (sıfat yapar)",
+      "de": "neigend zu, voller (bildet ein Adjektiv)",
+      "fr": "enclin à (-ace)",
+      "it": "incline a (-ace)",
+      "es": "propenso a (-az)"
+    }
+  },
+  "-ency": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "state or quality (makes a noun)",
+      "tr": "durum, eğilim (isim yapar)",
+      "de": "Zustand, Neigung (bildet ein Nomen)",
+      "fr": "état (-ence)",
+      "it": "stato (-enza)",
+      "es": "estado (-encia)"
+    }
+  },
+  "-ise": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "to make, to do (makes a verb)",
+      "tr": "yapmak (fiil yapar)",
+      "de": "machen (bildet ein Verb)",
+      "fr": "faire (forme un verbe)",
+      "it": "fare (forma un verbo)",
+      "es": "hacer (forma un verbo)"
+    }
+  },
+  "-y": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "state or quality (makes a noun)",
+      "tr": "durum, nitelik (isim yapar)",
+      "de": "Zustand (bildet ein Nomen)",
+      "fr": "état (forme un nom)",
+      "it": "stato (forma un nome)",
+      "es": "estado (forma un sustantivo)"
+    }
+  },
+  "-atile": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "able to (makes an adjective)",
+      "tr": "-ebilen (sıfat yapar)",
+      "de": "fähig zu (bildet ein Adjektiv)",
+      "fr": "capable de (-atile)",
+      "it": "capace di (-atile)",
+      "es": "capaz de (-átil)"
+    }
   }
 }
