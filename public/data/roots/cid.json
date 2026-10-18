@@ -1,0 +1,556 @@
+{
+  "id": "cid",
+  "forms": [
+    "cid",
+    "cide",
+    "cis",
+    "cise"
+  ],
+  "origin": "la",
+  "etymon": "caedere, caesus",
+  "meaning": {
+    "en": "to cut; to kill",
+    "tr": "kesmek; öldürmek",
+    "de": "schneiden; töten",
+    "fr": "couper; tuer",
+    "it": "tagliare; uccidere",
+    "es": "cortar; matar"
+  },
+  "words": [
+    {
+      "id": "decide",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "de-",
+        "cide"
+      ],
+      "gloss": {
+        "en": "to choose after thinking (literally: to cut off other choices)",
+        "tr": "karar vermek",
+        "de": "entscheiden",
+        "fr": "décider",
+        "it": "decidere",
+        "es": "decidir"
+      },
+      "sentences": [
+        {
+          "en": "I can't [decide] what to wear.",
+          "tr": "Ne giyeceğime karar veremiyorum.",
+          "de": "Ich kann mich nicht entscheiden, was ich anziehe.",
+          "fr": "Je n'arrive pas à décider quoi mettre.",
+          "it": "Non riesco a decidere cosa mettermi.",
+          "es": "No consigo decidir qué ponerme."
+        },
+        {
+          "en": "We [decided] to stay at home.",
+          "tr": "Evde kalmaya karar verdik.",
+          "de": "Wir haben beschlossen, zu Hause zu bleiben.",
+          "fr": "Nous avons décidé de rester à la maison.",
+          "it": "Abbiamo deciso di restare a casa.",
+          "es": "Decidimos quedarnos en casa."
+        }
+      ]
+    },
+    {
+      "id": "decision",
+      "pos": "noun",
+      "parent": "decide",
+      "parts": [
+        "de-",
+        "cis",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a choice you make after thinking",
+        "tr": "karar",
+        "de": "die Entscheidung",
+        "fr": "la décision",
+        "it": "la decisione",
+        "es": "la decisión"
+      },
+      "sentences": [
+        {
+          "en": "It was a hard [decision] to leave.",
+          "tr": "Gitmek zor bir karardı.",
+          "de": "Es war eine schwere Entscheidung zu gehen.",
+          "fr": "Partir a été une décision difficile.",
+          "it": "Andarsene è stata una decisione difficile.",
+          "es": "Irse fue una decisión difícil."
+        },
+        {
+          "en": "The judge will make a [decision] tomorrow.",
+          "tr": "Yargıç yarın karar verecek.",
+          "de": "Der Richter trifft morgen eine Entscheidung.",
+          "fr": "Le juge rendra sa décision demain.",
+          "it": "Il giudice prenderà una decisione domani.",
+          "es": "El juez tomará una decisión mañana."
+        }
+      ]
+    },
+    {
+      "id": "decisive",
+      "pos": "adjective",
+      "parent": "decide",
+      "parts": [
+        "de-",
+        "cis",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "able to decide quickly; having a strong effect on the result",
+        "tr": "kararlı; belirleyici",
+        "de": "entschlossen; entscheidend",
+        "fr": "décidé; décisif",
+        "it": "risoluto; decisivo",
+        "es": "decidido; decisivo"
+      },
+      "sentences": [
+        {
+          "en": "A good leader is [decisive].",
+          "tr": "İyi bir lider kararlıdır.",
+          "de": "Ein guter Anführer ist entschlossen.",
+          "fr": "Un bon chef est décidé.",
+          "it": "Un buon leader è risoluto.",
+          "es": "Un buen líder es decidido."
+        },
+        {
+          "en": "The second goal was [decisive].",
+          "tr": "İkinci gol belirleyici oldu.",
+          "de": "Das zweite Tor war entscheidend.",
+          "fr": "Le deuxième but a été décisif.",
+          "it": "Il secondo gol è stato decisivo.",
+          "es": "El segundo gol fue decisivo."
+        }
+      ]
+    },
+    {
+      "id": "indecisive",
+      "pos": "adjective",
+      "parent": "decisive",
+      "parts": [
+        "in-not-",
+        "de-",
+        "cis",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "not able to make decisions quickly",
+        "tr": "kararsız",
+        "de": "unentschlossen",
+        "fr": "indécis",
+        "it": "indeciso",
+        "es": "indeciso"
+      },
+      "sentences": [
+        {
+          "en": "I'm too [indecisive] to choose from a long menu.",
+          "tr": "Uzun bir menüden seçim yapamayacak kadar kararsızım.",
+          "de": "Ich bin zu unentschlossen, um aus einer langen Karte zu wählen.",
+          "fr": "Je suis trop indécis pour choisir dans une longue carte.",
+          "it": "Sono troppo indeciso per scegliere da un menù lungo.",
+          "es": "Soy demasiado indeciso para elegir en una carta larga."
+        },
+        {
+          "en": "The team looked [indecisive] in attack.",
+          "tr": "Takım hücumda kararsız göründü.",
+          "de": "Die Mannschaft wirkte im Angriff unentschlossen.",
+          "fr": "L'équipe a semblé indécise en attaque.",
+          "it": "La squadra è sembrata indecisa in attacco.",
+          "es": "El equipo pareció indeciso en ataque."
+        }
+      ]
+    },
+    {
+      "id": "undecided",
+      "pos": "adjective",
+      "parent": "decide",
+      "parts": [
+        "un-",
+        "de-",
+        "cid",
+        "-ed"
+      ],
+      "gloss": {
+        "en": "not yet having made a decision",
+        "tr": "kararsız, henüz karar vermemiş",
+        "de": "unentschieden, unschlüssig",
+        "fr": "indécis",
+        "it": "indeciso",
+        "es": "indeciso"
+      },
+      "sentences": [
+        {
+          "en": "Many voters are still [undecided].",
+          "tr": "Birçok seçmen hâlâ kararsız.",
+          "de": "Viele Wähler sind noch unentschlossen.",
+          "fr": "Beaucoup d'électeurs sont encore indécis.",
+          "it": "Molti elettori sono ancora indecisi.",
+          "es": "Muchos votantes siguen indecisos."
+        },
+        {
+          "en": "I'm [undecided] about which course to take.",
+          "tr": "Hangi kursu alacağım konusunda henüz karar vermedim.",
+          "de": "Ich bin unschlüssig, welchen Kurs ich belegen soll.",
+          "fr": "Je ne sais pas encore quel cours suivre.",
+          "it": "Sono indeciso su quale corso seguire.",
+          "es": "Estoy indeciso sobre qué curso hacer."
+        }
+      ]
+    },
+    {
+      "id": "precise",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "pre-",
+        "cise"
+      ],
+      "gloss": {
+        "en": "exact and correct (literally: cut off in front, trimmed)",
+        "tr": "kesin, tam, hassas",
+        "de": "genau, präzise",
+        "fr": "précis",
+        "it": "preciso",
+        "es": "preciso, exacto"
+      },
+      "sentences": [
+        {
+          "en": "Give me the [precise] time of the train.",
+          "tr": "Bana trenin tam saatini söyle.",
+          "de": "Sag mir die genaue Abfahrtszeit des Zuges.",
+          "fr": "Donne-moi l'heure précise du train.",
+          "it": "Dimmi l'orario preciso del treno.",
+          "es": "Dime la hora exacta del tren."
+        },
+        {
+          "en": "Surgeons need very [precise] hands.",
+          "tr": "Cerrahların çok hassas ellere ihtiyacı var.",
+          "de": "Chirurgen brauchen sehr präzise Hände.",
+          "fr": "Les chirurgiens ont besoin de mains très précises.",
+          "it": "I chirurghi hanno bisogno di mani molto precise.",
+          "es": "Los cirujanos necesitan unas manos muy precisas."
+        }
+      ]
+    },
+    {
+      "id": "precision",
+      "pos": "noun",
+      "parent": "precise",
+      "parts": [
+        "pre-",
+        "cis",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "being exact and correct",
+        "tr": "kesinlik, hassasiyet",
+        "de": "die Genauigkeit, die Präzision",
+        "fr": "la précision",
+        "it": "la precisione",
+        "es": "la precisión"
+      },
+      "sentences": [
+        {
+          "en": "The watch is made with great [precision].",
+          "tr": "Saat büyük bir hassasiyetle yapılmış.",
+          "de": "Die Uhr ist mit großer Präzision gefertigt.",
+          "fr": "La montre est fabriquée avec une grande précision.",
+          "it": "L'orologio è realizzato con grande precisione.",
+          "es": "El reloj está hecho con gran precisión."
+        },
+        {
+          "en": "[Precision] matters more than speed here.",
+          "tr": "Burada hızdan çok kesinlik önemli.",
+          "de": "Hier zählt Genauigkeit mehr als Geschwindigkeit.",
+          "fr": "Ici, la précision compte plus que la vitesse.",
+          "it": "Qui la precisione conta più della velocità.",
+          "es": "Aquí importa más la precisión que la velocidad."
+        }
+      ]
+    },
+    {
+      "id": "imprecise",
+      "pos": "adjective",
+      "parent": "precise",
+      "parts": [
+        "im-not-",
+        "pre-",
+        "cise"
+      ],
+      "gloss": {
+        "en": "not exact",
+        "tr": "belirsiz, kesin olmayan",
+        "de": "ungenau",
+        "fr": "imprécis",
+        "it": "impreciso",
+        "es": "impreciso"
+      },
+      "sentences": [
+        {
+          "en": "The map was old and [imprecise].",
+          "tr": "Harita eski ve hatalıydı.",
+          "de": "Die Karte war alt und ungenau.",
+          "fr": "La carte était vieille et imprécise.",
+          "it": "La mappa era vecchia e imprecisa.",
+          "es": "El mapa era viejo e impreciso."
+        },
+        {
+          "en": "\"Soon\" is an [imprecise] answer.",
+          "tr": "\"Yakında\" belirsiz bir cevap.",
+          "de": "„Bald“ ist eine ungenaue Antwort.",
+          "fr": "« Bientôt » est une réponse imprécise.",
+          "it": "«Presto» è una risposta imprecisa.",
+          "es": "«Pronto» es una respuesta imprecisa."
+        }
+      ]
+    },
+    {
+      "id": "concise",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "con-",
+        "cise"
+      ],
+      "gloss": {
+        "en": "short and clear (literally: cut up, cut short)",
+        "tr": "kısa ve öz",
+        "de": "knapp, prägnant",
+        "fr": "concis",
+        "it": "conciso",
+        "es": "conciso"
+      },
+      "sentences": [
+        {
+          "en": "Keep your answers [concise].",
+          "tr": "Cevaplarını kısa ve öz tut.",
+          "de": "Halte deine Antworten knapp.",
+          "fr": "Sois concis dans tes réponses.",
+          "it": "Rispondi in modo conciso.",
+          "es": "Sé conciso en tus respuestas."
+        },
+        {
+          "en": "This [concise] guide fits in your pocket.",
+          "tr": "Bu kısa rehber cebine sığar.",
+          "de": "Dieser knappe Führer passt in die Tasche.",
+          "fr": "Ce guide concis tient dans la poche.",
+          "it": "Questa guida concisa sta in tasca.",
+          "es": "Esta guía concisa cabe en el bolsillo."
+        }
+      ]
+    },
+    {
+      "id": "incision",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "in-",
+        "cis",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a cut made by a surgeon (literally: a cutting into)",
+        "tr": "kesi",
+        "de": "der Schnitt",
+        "fr": "l'incision",
+        "it": "l'incisione",
+        "es": "la incisión"
+      },
+      "sentences": [
+        {
+          "en": "The doctor made a small [incision].",
+          "tr": "Doktor küçük bir kesi yaptı.",
+          "de": "Die Ärztin machte einen kleinen Schnitt.",
+          "fr": "Le médecin a fait une petite incision.",
+          "it": "Il medico ha fatto una piccola incisione.",
+          "es": "La médica hizo una pequeña incisión."
+        },
+        {
+          "en": "The [incision] healed in two weeks.",
+          "tr": "Kesi iki haftada iyileşti.",
+          "de": "Der Schnitt heilte in zwei Wochen.",
+          "fr": "L'incision a cicatrisé en deux semaines.",
+          "it": "L'incisione è guarita in due settimane.",
+          "es": "La incisión se curó en dos semanas."
+        }
+      ]
+    },
+    {
+      "id": "incisive",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "in-",
+        "cis",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "clear, sharp and direct (literally: cutting into)",
+        "tr": "keskin, isabetli",
+        "de": "scharfsinnig, treffend",
+        "fr": "incisif, percutant",
+        "it": "incisivo, acuto",
+        "es": "incisivo, agudo"
+      },
+      "sentences": [
+        {
+          "en": "She asked a few [incisive] questions.",
+          "tr": "Birkaç keskin soru sordu.",
+          "de": "Sie stellte ein paar scharfsinnige Fragen.",
+          "fr": "Elle a posé quelques questions incisives.",
+          "it": "Ha fatto alcune domande incisive.",
+          "es": "Hizo algunas preguntas incisivas."
+        },
+        {
+          "en": "His review of the film was short and [incisive].",
+          "tr": "Film hakkındaki eleştirisi kısa ve isabetliydi.",
+          "de": "Seine Filmkritik war kurz und treffend.",
+          "fr": "Sa critique du film était courte et percutante.",
+          "it": "La sua recensione del film era breve e incisiva.",
+          "es": "Su crítica de la película fue breve y aguda."
+        }
+      ]
+    },
+    {
+      "id": "homicide",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "homi-",
+        "cide"
+      ],
+      "gloss": {
+        "en": "the crime of killing a person (literally: human killing)",
+        "tr": "cinayet, adam öldürme",
+        "de": "die Tötung, der Mord",
+        "fr": "l'homicide",
+        "it": "l'omicidio",
+        "es": "el homicidio"
+      },
+      "sentences": [
+        {
+          "en": "The police are treating the case as [homicide].",
+          "tr": "Polis olayı cinayet olarak ele alıyor.",
+          "de": "Die Polizei behandelt den Fall als Tötungsdelikt.",
+          "fr": "La police traite l'affaire comme un homicide.",
+          "it": "La polizia tratta il caso come omicidio.",
+          "es": "La policía investiga el caso como homicidio."
+        },
+        {
+          "en": "She works as a [homicide] detective.",
+          "tr": "Cinayet masasında dedektif olarak çalışıyor.",
+          "de": "Sie arbeitet als Ermittlerin bei der Mordkommission.",
+          "fr": "Elle est inspectrice à la brigade criminelle.",
+          "it": "Lavora come detective della squadra omicidi.",
+          "es": "Trabaja como detective de homicidios."
+        }
+      ]
+    },
+    {
+      "id": "genocide",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "geno-",
+        "cide"
+      ],
+      "gloss": {
+        "en": "the killing of a whole people or group (literally: killing a race)",
+        "tr": "soykırım",
+        "de": "der Völkermord",
+        "fr": "le génocide",
+        "it": "il genocidio",
+        "es": "el genocidio"
+      },
+      "sentences": [
+        {
+          "en": "The museum teaches visitors about [genocide].",
+          "tr": "Müze ziyaretçilere soykırım hakkında bilgi veriyor.",
+          "de": "Das Museum klärt Besucher über Völkermord auf.",
+          "fr": "Le musée informe les visiteurs sur le génocide.",
+          "it": "Il museo insegna ai visitatori cosa sia il genocidio.",
+          "es": "El museo enseña a los visitantes sobre el genocidio."
+        },
+        {
+          "en": "International law forbids [genocide].",
+          "tr": "Uluslararası hukuk soykırımı yasaklar.",
+          "de": "Das Völkerrecht verbietet Völkermord.",
+          "fr": "Le droit international interdit le génocide.",
+          "it": "Il diritto internazionale vieta il genocidio.",
+          "es": "El derecho internacional prohíbe el genocidio."
+        }
+      ]
+    },
+    {
+      "id": "pesticide",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "pesti-",
+        "cide"
+      ],
+      "gloss": {
+        "en": "a chemical that kills insects or other pests",
+        "tr": "tarım ilacı, pestisit",
+        "de": "das Pestizid",
+        "fr": "le pesticide",
+        "it": "il pesticida",
+        "es": "el pesticida"
+      },
+      "sentences": [
+        {
+          "en": "These apples were grown without [pesticides].",
+          "tr": "Bu elmalar tarım ilacı kullanılmadan yetiştirildi.",
+          "de": "Diese Äpfel wurden ohne Pestizide angebaut.",
+          "fr": "Ces pommes ont été cultivées sans pesticides.",
+          "it": "Queste mele sono state coltivate senza pesticidi.",
+          "es": "Estas manzanas se cultivaron sin pesticidas."
+        },
+        {
+          "en": "Some [pesticides] harm bees.",
+          "tr": "Bazı tarım ilaçları arılara zarar veriyor.",
+          "de": "Manche Pestizide schaden Bienen.",
+          "fr": "Certains pesticides nuisent aux abeilles.",
+          "it": "Alcuni pesticidi danneggiano le api.",
+          "es": "Algunos pesticidas dañan a las abejas."
+        }
+      ]
+    },
+    {
+      "id": "insecticide",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "insecti-",
+        "cide"
+      ],
+      "gloss": {
+        "en": "a chemical that kills insects",
+        "tr": "böcek ilacı",
+        "de": "das Insektizid, das Insektenvernichtungsmittel",
+        "fr": "l'insecticide",
+        "it": "l'insetticida",
+        "es": "el insecticida"
+      },
+      "sentences": [
+        {
+          "en": "He sprayed [insecticide] on the roses.",
+          "tr": "Güllere böcek ilacı sıktı.",
+          "de": "Er sprühte Insektizid auf die Rosen.",
+          "fr": "Il a pulvérisé de l'insecticide sur les roses.",
+          "it": "Ha spruzzato insetticida sulle rose.",
+          "es": "Echó insecticida a las rosas."
+        },
+        {
+          "en": "Keep the [insecticide] away from children.",
+          "tr": "Böcek ilacını çocuklardan uzak tut.",
+          "de": "Bewahre das Insektizid außerhalb der Reichweite von Kindern auf.",
+          "fr": "Garde l'insecticide hors de portée des enfants.",
+          "it": "Tieni l'insetticida lontano dai bambini.",
+          "es": "Mantén el insecticida lejos de los niños."
+        }
+      ]
+    }
+  ]
+}

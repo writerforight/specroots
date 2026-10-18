@@ -44,7 +44,7 @@ yanına `(az: N)` yaz. Toplam hedef ≈ 1000–2000 kelime.
 - Aynı test iki turdur düzelmiyorsa ya da push reddediliyorsa döngüyü durdur ve nedenini yaz.
 
 ## Durum
-Kök: 36 / 50 · Kelime: 741
+Kök: 39 / 50 · Kelime: 787
 
 ## Kuyruk
 
@@ -87,9 +87,9 @@ Kök: 36 / 50 · Kelime: 741
 - [x] flect / flex — bükmek — 13 (az: 13)
 - [x] pel / puls — itmek — 14 (az: 14)
 - [x] clud / clus — kapamak — 20
-- [ ] cid / cis — kesmek
-- [ ] mand — emretmek
-- [ ] ven / vent — gelmek
+- [x] cid / cis — kesmek — 15 (az: 15)
+- [x] mand — emretmek — 9 (az: 9)
+- [x] ven / vent — gelmek — 22
 - [ ] plic / ply — katlamak
 
 ### Yeni (Yunanca, `"origin": "gr"`)

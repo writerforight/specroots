@@ -1,0 +1,339 @@
+{
+  "id": "mand",
+  "forms": [
+    "mand",
+    "mend"
+  ],
+  "origin": "la",
+  "etymon": "mandare",
+  "meaning": {
+    "en": "to order; to entrust",
+    "tr": "emretmek; emanet etmek",
+    "de": "befehlen; anvertrauen",
+    "fr": "ordonner; confier",
+    "it": "ordinare; affidare",
+    "es": "ordenar; encomendar"
+  },
+  "words": [
+    {
+      "id": "command",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "com-",
+        "mand"
+      ],
+      "gloss": {
+        "en": "an order; control over something; an instruction for a computer",
+        "tr": "emir, komut; hâkimiyet",
+        "de": "der Befehl; die Beherrschung",
+        "fr": "l'ordre; la maîtrise; la commande",
+        "it": "il comando; la padronanza",
+        "es": "la orden; el dominio; el comando"
+      },
+      "sentences": [
+        {
+          "en": "Type this [command] into the terminal.",
+          "tr": "Bu komutu terminale yaz.",
+          "de": "Gib diesen Befehl ins Terminal ein.",
+          "fr": "Tape cette commande dans le terminal.",
+          "it": "Digita questo comando nel terminale.",
+          "es": "Escribe este comando en la terminal."
+        },
+        {
+          "en": "She has a good [command] of Spanish.",
+          "tr": "İspanyolcaya iyi hâkim.",
+          "de": "Sie beherrscht Spanisch gut.",
+          "fr": "Elle a une bonne maîtrise de l'espagnol.",
+          "it": "Ha una buona padronanza dello spagnolo.",
+          "es": "Tiene un buen dominio del español."
+        }
+      ]
+    },
+    {
+      "id": "commander",
+      "pos": "noun",
+      "parent": "command",
+      "parts": [
+        "com-",
+        "mand",
+        "-er"
+      ],
+      "gloss": {
+        "en": "an officer in charge of soldiers or a ship",
+        "tr": "komutan",
+        "de": "der Kommandant, der Befehlshaber",
+        "fr": "le commandant",
+        "it": "il comandante",
+        "es": "el comandante"
+      },
+      "sentences": [
+        {
+          "en": "The [commander] gave the order to retreat.",
+          "tr": "Komutan geri çekilme emrini verdi.",
+          "de": "Der Kommandant gab den Befehl zum Rückzug.",
+          "fr": "Le commandant a donné l'ordre de battre en retraite.",
+          "it": "Il comandante ha dato l'ordine di ritirarsi.",
+          "es": "El comandante dio la orden de retirada."
+        },
+        {
+          "en": "She became the first female [commander] of the ship.",
+          "tr": "Geminin ilk kadın komutanı oldu.",
+          "de": "Sie wurde die erste Kommandantin des Schiffes.",
+          "fr": "Elle est devenue la première femme commandant du navire.",
+          "it": "È diventata la prima donna comandante della nave.",
+          "es": "Se convirtió en la primera mujer comandante del barco."
+        }
+      ]
+    },
+    {
+      "id": "commend",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "com-",
+        "mend"
+      ],
+      "gloss": {
+        "en": "to praise officially (literally: to entrust completely)",
+        "tr": "övmek, takdir etmek",
+        "de": "loben",
+        "fr": "louer, féliciter",
+        "it": "lodare, elogiare",
+        "es": "elogiar, felicitar"
+      },
+      "sentences": [
+        {
+          "en": "The firefighters were [commended] for their courage.",
+          "tr": "İtfaiyeciler cesaretleri için takdir edildi.",
+          "de": "Die Feuerwehrleute wurden für ihren Mut gelobt.",
+          "fr": "Les pompiers ont été félicités pour leur courage.",
+          "it": "I vigili del fuoco sono stati elogiati per il loro coraggio.",
+          "es": "Felicitaron a los bomberos por su valentía."
+        },
+        {
+          "en": "I [commend] you on your hard work.",
+          "tr": "Sıkı çalışman için seni takdir ediyorum.",
+          "de": "Ich lobe dich für deine harte Arbeit.",
+          "fr": "Je te félicite pour ton travail.",
+          "it": "Ti lodo per il tuo impegno.",
+          "es": "Te felicito por tu esfuerzo."
+        }
+      ]
+    },
+    {
+      "id": "demand",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "de-",
+        "mand"
+      ],
+      "gloss": {
+        "en": "to ask for something firmly (literally: to order down, to entrust)",
+        "tr": "talep etmek, istemek",
+        "de": "verlangen, fordern",
+        "fr": "exiger",
+        "it": "esigere, pretendere",
+        "es": "exigir"
+      },
+      "sentences": [
+        {
+          "en": "The workers [demanded] better pay.",
+          "tr": "İşçiler daha iyi maaş talep etti.",
+          "de": "Die Arbeiter forderten bessere Bezahlung.",
+          "fr": "Les ouvriers ont exigé de meilleurs salaires.",
+          "it": "Gli operai hanno preteso stipendi migliori.",
+          "es": "Los trabajadores exigieron mejores salarios."
+        },
+        {
+          "en": "This job [demands] a lot of patience.",
+          "tr": "Bu iş çok sabır gerektiriyor.",
+          "de": "Dieser Job verlangt viel Geduld.",
+          "fr": "Ce travail exige beaucoup de patience.",
+          "it": "Questo lavoro richiede molta pazienza.",
+          "es": "Este trabajo exige mucha paciencia."
+        }
+      ]
+    },
+    {
+      "id": "demanding",
+      "pos": "adjective",
+      "parent": "demand",
+      "parts": [
+        "de-",
+        "mand",
+        "-ing"
+      ],
+      "gloss": {
+        "en": "needing a lot of time, energy or skill",
+        "tr": "zahmetli, yorucu; titiz",
+        "de": "anspruchsvoll, fordernd",
+        "fr": "exigeant",
+        "it": "impegnativo, esigente",
+        "es": "exigente"
+      },
+      "sentences": [
+        {
+          "en": "Nursing is a [demanding] job.",
+          "tr": "Hemşirelik zahmetli bir meslek.",
+          "de": "Krankenpflege ist ein anstrengender Beruf.",
+          "fr": "Le métier d'infirmier est exigeant.",
+          "it": "Fare l'infermiere è un lavoro impegnativo.",
+          "es": "La enfermería es un trabajo exigente."
+        },
+        {
+          "en": "Our teacher is strict and [demanding].",
+          "tr": "Öğretmenimiz katı ve titiz.",
+          "de": "Unsere Lehrerin ist streng und anspruchsvoll.",
+          "fr": "Notre professeure est stricte et exigeante.",
+          "it": "La nostra insegnante è severa ed esigente.",
+          "es": "Nuestra profesora es estricta y exigente."
+        }
+      ]
+    },
+    {
+      "id": "mandate",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "mand",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "official permission or an order to do something",
+        "tr": "yetki; zorunluluk, talimat",
+        "de": "das Mandat, der Auftrag",
+        "fr": "le mandat",
+        "it": "il mandato",
+        "es": "el mandato"
+      },
+      "sentences": [
+        {
+          "en": "The new government has a clear [mandate] for change.",
+          "tr": "Yeni hükümetin değişim için açık bir yetkisi var.",
+          "de": "Die neue Regierung hat einen klaren Auftrag für Veränderung.",
+          "fr": "Le nouveau gouvernement a un mandat clair pour le changement.",
+          "it": "Il nuovo governo ha un chiaro mandato per il cambiamento.",
+          "es": "El nuevo gobierno tiene un claro mandato para el cambio."
+        },
+        {
+          "en": "The city lifted the mask [mandate].",
+          "tr": "Belediye maske zorunluluğunu kaldırdı.",
+          "de": "Die Stadt hob die Maskenpflicht auf.",
+          "fr": "La ville a levé l'obligation du port du masque.",
+          "it": "La città ha revocato l'obbligo della mascherina.",
+          "es": "El ayuntamiento levantó la obligatoriedad de la mascarilla."
+        }
+      ]
+    },
+    {
+      "id": "mandatory",
+      "pos": "adjective",
+      "parent": "mandate",
+      "parts": [
+        "mand",
+        "-atory"
+      ],
+      "gloss": {
+        "en": "required by a rule or law",
+        "tr": "zorunlu",
+        "de": "verpflichtend, Pflicht-",
+        "fr": "obligatoire",
+        "it": "obbligatorio",
+        "es": "obligatorio"
+      },
+      "sentences": [
+        {
+          "en": "Attendance at the meeting is [mandatory].",
+          "tr": "Toplantıya katılım zorunlu.",
+          "de": "Die Teilnahme an der Sitzung ist Pflicht.",
+          "fr": "La présence à la réunion est obligatoire.",
+          "it": "La partecipazione alla riunione è obbligatoria.",
+          "es": "La asistencia a la reunión es obligatoria."
+        },
+        {
+          "en": "Fields marked with a star are [mandatory].",
+          "tr": "Yıldızla işaretli alanlar zorunlu.",
+          "de": "Mit Stern markierte Felder sind Pflichtfelder.",
+          "fr": "Les champs marqués d'une étoile sont obligatoires.",
+          "it": "I campi contrassegnati da un asterisco sono obbligatori.",
+          "es": "Los campos marcados con asterisco son obligatorios."
+        }
+      ]
+    },
+    {
+      "id": "recommend",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "re-",
+        "com-",
+        "mend"
+      ],
+      "gloss": {
+        "en": "to suggest that something is good (literally: to entrust again, strongly)",
+        "tr": "tavsiye etmek, önermek",
+        "de": "empfehlen",
+        "fr": "recommander, conseiller",
+        "it": "consigliare, raccomandare",
+        "es": "recomendar"
+      },
+      "sentences": [
+        {
+          "en": "Can you [recommend] a good restaurant?",
+          "tr": "İyi bir restoran tavsiye edebilir misin?",
+          "de": "Kannst du ein gutes Restaurant empfehlen?",
+          "fr": "Tu peux me conseiller un bon restaurant ?",
+          "it": "Puoi consigliarmi un buon ristorante?",
+          "es": "¿Puedes recomendarme un buen restaurante?"
+        },
+        {
+          "en": "Doctors [recommend] eight hours of sleep.",
+          "tr": "Doktorlar sekiz saat uyku öneriyor.",
+          "de": "Ärzte empfehlen acht Stunden Schlaf.",
+          "fr": "Les médecins recommandent huit heures de sommeil.",
+          "it": "I medici raccomandano otto ore di sonno.",
+          "es": "Los médicos recomiendan dormir ocho horas."
+        }
+      ]
+    },
+    {
+      "id": "recommendation",
+      "pos": "noun",
+      "parent": "recommend",
+      "parts": [
+        "re-",
+        "com-",
+        "mend",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "a suggestion that something is good; a letter of support",
+        "tr": "tavsiye, öneri; referans",
+        "de": "die Empfehlung",
+        "fr": "la recommandation",
+        "it": "la raccomandazione, il consiglio",
+        "es": "la recomendación"
+      },
+      "sentences": [
+        {
+          "en": "I bought this book on your [recommendation].",
+          "tr": "Bu kitabı senin tavsiyen üzerine aldım.",
+          "de": "Ich habe dieses Buch auf deine Empfehlung gekauft.",
+          "fr": "J'ai acheté ce livre sur ta recommandation.",
+          "it": "Ho comprato questo libro su tuo consiglio.",
+          "es": "Compré este libro por recomendación tuya."
+        },
+        {
+          "en": "My teacher wrote a letter of [recommendation].",
+          "tr": "Öğretmenim bir referans mektubu yazdı.",
+          "de": "Meine Lehrerin hat mir ein Empfehlungsschreiben geschrieben.",
+          "fr": "Mon professeur m'a écrit une lettre de recommandation.",
+          "it": "La mia insegnante mi ha scritto una lettera di raccomandazione.",
+          "es": "Mi profesora me escribió una carta de recomendación."
+        }
+      ]
+    }
+  ]
+}

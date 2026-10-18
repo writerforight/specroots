@@ -1,0 +1,809 @@
+{
+  "id": "ven",
+  "forms": [
+    "ven",
+    "vene",
+    "vent",
+    "venue"
+  ],
+  "origin": "la",
+  "etymon": "venire, ventus",
+  "meaning": {
+    "en": "to come",
+    "tr": "gelmek",
+    "de": "kommen",
+    "fr": "venir",
+    "it": "venire",
+    "es": "venir"
+  },
+  "words": [
+    {
+      "id": "event",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "e-",
+        "vent"
+      ],
+      "gloss": {
+        "en": "something that happens, especially something important (literally: an outcome, a coming out)",
+        "tr": "olay; etkinlik",
+        "de": "das Ereignis; die Veranstaltung",
+        "fr": "l'événement",
+        "it": "l'evento",
+        "es": "el acontecimiento; el evento"
+      },
+      "sentences": [
+        {
+          "en": "The wedding was the [event] of the year.",
+          "tr": "Düğün yılın olayıydı.",
+          "de": "Die Hochzeit war das Ereignis des Jahres.",
+          "fr": "Le mariage a été l'événement de l'année.",
+          "it": "Il matrimonio è stato l'evento dell'anno.",
+          "es": "La boda fue el acontecimiento del año."
+        },
+        {
+          "en": "The [event] starts at seven.",
+          "tr": "Etkinlik yedide başlıyor.",
+          "de": "Die Veranstaltung beginnt um sieben.",
+          "fr": "L'événement commence à dix-neuf heures.",
+          "it": "L'evento inizia alle sette.",
+          "es": "El evento empieza a las siete."
+        }
+      ]
+    },
+    {
+      "id": "eventual",
+      "pos": "adjective",
+      "parent": "event",
+      "parts": [
+        "e-",
+        "vent",
+        "-ual"
+      ],
+      "gloss": {
+        "en": "happening at the end of a process",
+        "tr": "sonunda olan, nihai",
+        "de": "schließlich, letztendlich",
+        "fr": "final (qui finit par arriver)",
+        "it": "finale",
+        "es": "final"
+      },
+      "sentences": [
+        {
+          "en": "Nobody expected their [eventual] success.",
+          "tr": "Sonunda başarılı olacaklarını kimse beklemiyordu.",
+          "de": "Niemand hatte mit ihrem schließlichen Erfolg gerechnet.",
+          "fr": "Personne ne s'attendait à leur succès final.",
+          "it": "Nessuno si aspettava il loro successo finale.",
+          "es": "Nadie esperaba su éxito final."
+        },
+        {
+          "en": "The [eventual] cost was twice the plan.",
+          "tr": "Nihai maliyet planlananın iki katıydı.",
+          "de": "Die Kosten waren am Ende doppelt so hoch wie geplant.",
+          "fr": "Le coût final a été le double du budget prévu.",
+          "it": "Il costo finale è stato il doppio del previsto.",
+          "es": "El coste final fue el doble de lo previsto."
+        }
+      ]
+    },
+    {
+      "id": "eventually",
+      "pos": "adverb",
+      "parent": "eventual",
+      "parts": [
+        "e-",
+        "vent",
+        "-ual",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "in the end, after a long time",
+        "tr": "sonunda, eninde sonunda",
+        "de": "schließlich, irgendwann",
+        "fr": "finalement, à la fin",
+        "it": "alla fine",
+        "es": "al final, finalmente"
+      },
+      "sentences": [
+        {
+          "en": "We [eventually] found the hotel.",
+          "tr": "Sonunda oteli bulduk.",
+          "de": "Schließlich fanden wir das Hotel.",
+          "fr": "Nous avons fini par trouver l'hôtel.",
+          "it": "Alla fine abbiamo trovato l'hotel.",
+          "es": "Al final encontramos el hotel."
+        },
+        {
+          "en": "You'll get used to it [eventually].",
+          "tr": "Eninde sonunda alışırsın.",
+          "de": "Irgendwann gewöhnst du dich daran.",
+          "fr": "Tu finiras par t'y habituer.",
+          "it": "Prima o poi ti ci abituerai.",
+          "es": "Al final te acostumbrarás."
+        }
+      ]
+    },
+    {
+      "id": "invent",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "in-",
+        "vent"
+      ],
+      "gloss": {
+        "en": "to create something new; to make up a story (literally: to come upon)",
+        "tr": "icat etmek; uydurmak",
+        "de": "erfinden",
+        "fr": "inventer",
+        "it": "inventare",
+        "es": "inventar"
+      },
+      "sentences": [
+        {
+          "en": "Who [invented] the telephone?",
+          "tr": "Telefonu kim icat etti?",
+          "de": "Wer hat das Telefon erfunden?",
+          "fr": "Qui a inventé le téléphone ?",
+          "it": "Chi ha inventato il telefono?",
+          "es": "¿Quién inventó el teléfono?"
+        },
+        {
+          "en": "He [invented] an excuse for being late.",
+          "tr": "Geç kalmak için bir bahane uydurdu.",
+          "de": "Er erfand eine Ausrede für sein Zuspätkommen.",
+          "fr": "Il a inventé une excuse pour son retard.",
+          "it": "Si è inventato una scusa per il ritardo.",
+          "es": "Se inventó una excusa por llegar tarde."
+        }
+      ]
+    },
+    {
+      "id": "invention",
+      "pos": "noun",
+      "parent": "invent",
+      "parts": [
+        "in-",
+        "vent",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "something new that someone has created",
+        "tr": "buluş, icat",
+        "de": "die Erfindung",
+        "fr": "l'invention",
+        "it": "l'invenzione",
+        "es": "el invento, la invención"
+      },
+      "sentences": [
+        {
+          "en": "The printing press was a great [invention].",
+          "tr": "Matbaa büyük bir icattı.",
+          "de": "Der Buchdruck war eine große Erfindung.",
+          "fr": "L'imprimerie a été une grande invention.",
+          "it": "La stampa è stata una grande invenzione.",
+          "es": "La imprenta fue un gran invento."
+        },
+        {
+          "en": "Necessity is the mother of [invention].",
+          "tr": "İhtiyaç icadın anasıdır.",
+          "de": "Not macht erfinderisch.",
+          "fr": "La nécessité est mère de l'invention.",
+          "it": "La necessità aguzza l'ingegno.",
+          "es": "La necesidad es la madre de la invención."
+        }
+      ]
+    },
+    {
+      "id": "inventor",
+      "pos": "noun",
+      "parent": "invent",
+      "parts": [
+        "in-",
+        "vent",
+        "-or"
+      ],
+      "gloss": {
+        "en": "a person who invents things",
+        "tr": "mucit",
+        "de": "der Erfinder",
+        "fr": "l'inventeur",
+        "it": "l'inventore",
+        "es": "el inventor"
+      },
+      "sentences": [
+        {
+          "en": "The [inventor] of the bicycle was German.",
+          "tr": "Bisikletin mucidi Almandı.",
+          "de": "Der Erfinder des Fahrrads war Deutscher.",
+          "fr": "L'inventeur du vélo était allemand.",
+          "it": "L'inventore della bicicletta era tedesco.",
+          "es": "El inventor de la bicicleta era alemán."
+        },
+        {
+          "en": "She is a young [inventor] with three patents.",
+          "tr": "Üç patenti olan genç bir mucit.",
+          "de": "Sie ist eine junge Erfinderin mit drei Patenten.",
+          "fr": "C'est une jeune inventrice avec trois brevets.",
+          "it": "È una giovane inventrice con tre brevetti.",
+          "es": "Es una joven inventora con tres patentes."
+        }
+      ]
+    },
+    {
+      "id": "inventory",
+      "pos": "noun",
+      "parent": "invent",
+      "parts": [
+        "in-",
+        "vent",
+        "-ory"
+      ],
+      "gloss": {
+        "en": "a list of all the things in a place; the goods a shop has (literally: a list of things found)",
+        "tr": "envanter, stok",
+        "de": "das Inventar, der Bestand",
+        "fr": "l'inventaire, le stock",
+        "it": "l'inventario, le scorte",
+        "es": "el inventario, las existencias"
+      },
+      "sentences": [
+        {
+          "en": "We do an [inventory] of the shop every January.",
+          "tr": "Her ocak ayında dükkânın envanterini çıkarırız.",
+          "de": "Wir machen jeden Januar Inventur im Laden.",
+          "fr": "Nous faisons l'inventaire du magasin chaque janvier.",
+          "it": "Facciamo l'inventario del negozio ogni gennaio.",
+          "es": "Hacemos inventario de la tienda cada enero."
+        },
+        {
+          "en": "The game shows your [inventory] on the right.",
+          "tr": "Oyun envanterini sağda gösteriyor.",
+          "de": "Das Spiel zeigt dein Inventar rechts an.",
+          "fr": "Le jeu affiche ton inventaire à droite.",
+          "it": "Il gioco mostra il tuo inventario a destra.",
+          "es": "El juego muestra tu inventario a la derecha."
+        }
+      ]
+    },
+    {
+      "id": "prevent",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "pre-",
+        "vent"
+      ],
+      "gloss": {
+        "en": "to stop something from happening (literally: to come before)",
+        "tr": "önlemek, engellemek",
+        "de": "verhindern, vorbeugen",
+        "fr": "empêcher, prévenir",
+        "it": "prevenire, impedire",
+        "es": "prevenir, evitar"
+      },
+      "sentences": [
+        {
+          "en": "Wash your hands to [prevent] illness.",
+          "tr": "Hastalığı önlemek için ellerini yıka.",
+          "de": "Wasch dir die Hände, um Krankheiten vorzubeugen.",
+          "fr": "Lave-toi les mains pour prévenir les maladies.",
+          "it": "Lavati le mani per prevenire le malattie.",
+          "es": "Lávate las manos para prevenir enfermedades."
+        },
+        {
+          "en": "The snow [prevented] us from leaving.",
+          "tr": "Kar çıkmamıza engel oldu.",
+          "de": "Der Schnee hinderte uns daran abzureisen.",
+          "fr": "La neige nous a empêchés de partir.",
+          "it": "La neve ci ha impedito di partire.",
+          "es": "La nieve nos impidió salir."
+        }
+      ]
+    },
+    {
+      "id": "prevention",
+      "pos": "noun",
+      "parent": "prevent",
+      "parts": [
+        "pre-",
+        "vent",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "stopping something bad before it happens",
+        "tr": "önleme, korunma",
+        "de": "die Vorbeugung, die Prävention",
+        "fr": "la prévention",
+        "it": "la prevenzione",
+        "es": "la prevención"
+      },
+      "sentences": [
+        {
+          "en": "[Prevention] is better than cure.",
+          "tr": "Önlem tedaviden iyidir.",
+          "de": "Vorbeugen ist besser als heilen.",
+          "fr": "Mieux vaut prévenir que guérir.",
+          "it": "Prevenire è meglio che curare.",
+          "es": "Más vale prevenir que curar."
+        },
+        {
+          "en": "The city runs a fire [prevention] campaign.",
+          "tr": "Belediye yangın önleme kampanyası yürütüyor.",
+          "de": "Die Stadt führt eine Kampagne zur Brandverhütung durch.",
+          "fr": "La ville mène une campagne de prévention des incendies.",
+          "it": "Il comune organizza una campagna di prevenzione incendi.",
+          "es": "El ayuntamiento lleva a cabo una campaña de prevención de incendios."
+        }
+      ]
+    },
+    {
+      "id": "adventure",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "ad-",
+        "vent",
+        "-ure"
+      ],
+      "gloss": {
+        "en": "an exciting and unusual experience (literally: what is about to come)",
+        "tr": "macera",
+        "de": "das Abenteuer",
+        "fr": "l'aventure",
+        "it": "l'avventura",
+        "es": "la aventura"
+      },
+      "sentences": [
+        {
+          "en": "Our trip to the mountains was a real [adventure].",
+          "tr": "Dağlara gezimiz gerçek bir maceraydı.",
+          "de": "Unsere Reise in die Berge war ein echtes Abenteuer.",
+          "fr": "Notre voyage à la montagne a été une vraie aventure.",
+          "it": "Il viaggio in montagna è stato una vera avventura.",
+          "es": "Nuestro viaje a la montaña fue toda una aventura."
+        },
+        {
+          "en": "He loves [adventure] stories.",
+          "tr": "Macera hikâyelerini çok seviyor.",
+          "de": "Er liebt Abenteuergeschichten.",
+          "fr": "Il adore les histoires d'aventure.",
+          "it": "Adora le storie d'avventura.",
+          "es": "Le encantan las historias de aventuras."
+        }
+      ]
+    },
+    {
+      "id": "convention",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "con-",
+        "vent",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a usual way of doing things; a large meeting; an agreement between countries (literally: a coming together)",
+        "tr": "gelenek, alışkanlık; kongre; sözleşme",
+        "de": "die Konvention, der Brauch; der Kongress",
+        "fr": "la convention; le congrès",
+        "it": "la convenzione; il congresso",
+        "es": "la convención; el congreso"
+      },
+      "sentences": [
+        {
+          "en": "By [convention], the bride wears white.",
+          "tr": "Geleneğe göre gelin beyaz giyer.",
+          "de": "Traditionell trägt die Braut Weiß.",
+          "fr": "Par convention, la mariée porte du blanc.",
+          "it": "Per convenzione, la sposa veste di bianco.",
+          "es": "Por convención, la novia viste de blanco."
+        },
+        {
+          "en": "Thousands of fans came to the comic [convention].",
+          "tr": "Çizgi roman fuarına binlerce hayran geldi.",
+          "de": "Tausende Fans kamen zur Comic-Messe.",
+          "fr": "Des milliers de fans sont venus à la convention de BD.",
+          "it": "Migliaia di fan sono venuti alla fiera del fumetto.",
+          "es": "Miles de fans acudieron a la convención de cómics."
+        }
+      ]
+    },
+    {
+      "id": "conventional",
+      "pos": "adjective",
+      "parent": "convention",
+      "parts": [
+        "con-",
+        "vent",
+        "-ion",
+        "-al"
+      ],
+      "gloss": {
+        "en": "usual, traditional",
+        "tr": "geleneksel, alışılmış",
+        "de": "herkömmlich, konventionell",
+        "fr": "classique, conventionnel",
+        "it": "convenzionale, tradizionale",
+        "es": "convencional, tradicional"
+      },
+      "sentences": [
+        {
+          "en": "They had a [conventional] wedding in a church.",
+          "tr": "Kilisede geleneksel bir düğün yaptılar.",
+          "de": "Sie hatten eine klassische Hochzeit in einer Kirche.",
+          "fr": "Ils se sont mariés de façon classique à l'église.",
+          "it": "Hanno fatto un matrimonio tradizionale in chiesa.",
+          "es": "Tuvieron una boda tradicional en una iglesia."
+        },
+        {
+          "en": "Electric cars are cheaper to run than [conventional] cars.",
+          "tr": "Elektrikli arabaların kullanımı geleneksel arabalardan daha ucuz.",
+          "de": "Elektroautos sind im Betrieb günstiger als herkömmliche Autos.",
+          "fr": "Les voitures électriques coûtent moins cher à l'usage que les voitures classiques.",
+          "it": "Le auto elettriche costano meno da usare di quelle tradizionali.",
+          "es": "Los coches eléctricos son más baratos de usar que los convencionales."
+        }
+      ]
+    },
+    {
+      "id": "unconventional",
+      "pos": "adjective",
+      "parent": "conventional",
+      "parts": [
+        "un-",
+        "con-",
+        "vent",
+        "-ion",
+        "-al"
+      ],
+      "gloss": {
+        "en": "not following the usual way",
+        "tr": "alışılmadık, sıra dışı",
+        "de": "unkonventionell, ungewöhnlich",
+        "fr": "original, peu conventionnel",
+        "it": "insolito, non convenzionale",
+        "es": "poco convencional"
+      },
+      "sentences": [
+        {
+          "en": "She has an [unconventional] way of teaching.",
+          "tr": "Alışılmadık bir öğretme yöntemi var.",
+          "de": "Sie hat eine unkonventionelle Art zu unterrichten.",
+          "fr": "Elle a une façon peu conventionnelle d'enseigner.",
+          "it": "Ha un modo di insegnare non convenzionale.",
+          "es": "Tiene una forma poco convencional de enseñar."
+        },
+        {
+          "en": "The house has an [unconventional] design.",
+          "tr": "Evin sıra dışı bir tasarımı var.",
+          "de": "Das Haus hat ein ungewöhnliches Design.",
+          "fr": "La maison a une architecture originale.",
+          "it": "La casa ha un design insolito.",
+          "es": "La casa tiene un diseño poco convencional."
+        }
+      ]
+    },
+    {
+      "id": "intervene",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "inter-",
+        "vene"
+      ],
+      "gloss": {
+        "en": "to become involved to stop or change something (literally: to come between)",
+        "tr": "müdahale etmek, araya girmek",
+        "de": "eingreifen",
+        "fr": "intervenir",
+        "it": "intervenire",
+        "es": "intervenir"
+      },
+      "sentences": [
+        {
+          "en": "The teacher [intervened] to stop the fight.",
+          "tr": "Öğretmen kavgayı durdurmak için araya girdi.",
+          "de": "Der Lehrer griff ein, um den Streit zu beenden.",
+          "fr": "Le professeur est intervenu pour arrêter la bagarre.",
+          "it": "L'insegnante è intervenuto per fermare la lite.",
+          "es": "El profesor intervino para parar la pelea."
+        },
+        {
+          "en": "The government refused to [intervene].",
+          "tr": "Hükümet müdahale etmeyi reddetti.",
+          "de": "Die Regierung weigerte sich einzugreifen.",
+          "fr": "Le gouvernement a refusé d'intervenir.",
+          "it": "Il governo si è rifiutato di intervenire.",
+          "es": "El gobierno se negó a intervenir."
+        }
+      ]
+    },
+    {
+      "id": "intervention",
+      "pos": "noun",
+      "parent": "intervene",
+      "parts": [
+        "inter-",
+        "vent",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "an action to stop or change something",
+        "tr": "müdahale",
+        "de": "das Eingreifen, die Intervention",
+        "fr": "l'intervention",
+        "it": "l'intervento",
+        "es": "la intervención"
+      },
+      "sentences": [
+        {
+          "en": "Without quick [intervention], the patient could have died.",
+          "tr": "Hızlı müdahale olmasaydı hasta ölebilirdi.",
+          "de": "Ohne schnelles Eingreifen hätte der Patient sterben können.",
+          "fr": "Sans une intervention rapide, le patient aurait pu mourir.",
+          "it": "Senza un intervento rapido il paziente sarebbe potuto morire.",
+          "es": "Sin una intervención rápida, el paciente podría haber muerto."
+        },
+        {
+          "en": "The plants grow without human [intervention].",
+          "tr": "Bitkiler insan müdahalesi olmadan büyüyor.",
+          "de": "Die Pflanzen wachsen ohne menschliches Zutun.",
+          "fr": "Les plantes poussent sans intervention humaine.",
+          "it": "Le piante crescono senza intervento umano.",
+          "es": "Las plantas crecen sin intervención humana."
+        }
+      ]
+    },
+    {
+      "id": "convenient",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "con-",
+        "ven",
+        "-ient"
+      ],
+      "gloss": {
+        "en": "easy and useful for your needs (literally: coming together, fitting)",
+        "tr": "uygun, elverişli, kullanışlı",
+        "de": "praktisch, günstig",
+        "fr": "pratique, commode",
+        "it": "comodo, conveniente",
+        "es": "cómodo, práctico"
+      },
+      "sentences": [
+        {
+          "en": "Is Friday [convenient] for you?",
+          "tr": "Cuma senin için uygun mu?",
+          "de": "Passt dir Freitag?",
+          "fr": "Vendredi, ça te convient ?",
+          "it": "Venerdì ti va bene?",
+          "es": "¿Te viene bien el viernes?"
+        },
+        {
+          "en": "The flat is in a [convenient] location.",
+          "tr": "Daire elverişli bir konumda.",
+          "de": "Die Wohnung liegt sehr günstig.",
+          "fr": "L'appartement est bien situé.",
+          "it": "L'appartamento è in una posizione comoda.",
+          "es": "El piso está en una ubicación práctica."
+        }
+      ]
+    },
+    {
+      "id": "inconvenient",
+      "pos": "adjective",
+      "parent": "convenient",
+      "parts": [
+        "in-not-",
+        "con-",
+        "ven",
+        "-ient"
+      ],
+      "gloss": {
+        "en": "causing problems or difficulty",
+        "tr": "uygunsuz, zahmetli",
+        "de": "ungünstig, lästig",
+        "fr": "gênant, peu pratique",
+        "it": "scomodo, inopportuno",
+        "es": "inoportuno, incómodo"
+      },
+      "sentences": [
+        {
+          "en": "Sorry to call at such an [inconvenient] time.",
+          "tr": "Böyle uygunsuz bir saatte aradığım için özür dilerim.",
+          "de": "Entschuldige, dass ich zu so einer ungünstigen Zeit anrufe.",
+          "fr": "Désolé d'appeler à une heure aussi gênante.",
+          "it": "Scusa se chiamo a un'ora così scomoda.",
+          "es": "Perdona que llame a una hora tan inoportuna."
+        },
+        {
+          "en": "Living far from the station is [inconvenient].",
+          "tr": "İstasyona uzak oturmak zahmetli.",
+          "de": "Weit vom Bahnhof zu wohnen ist lästig.",
+          "fr": "Habiter loin de la gare n'est pas pratique.",
+          "it": "Abitare lontano dalla stazione è scomodo.",
+          "es": "Vivir lejos de la estación es incómodo."
+        }
+      ]
+    },
+    {
+      "id": "circumvent",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "circum-",
+        "vent"
+      ],
+      "gloss": {
+        "en": "to find a way around a rule or problem (literally: to come around)",
+        "tr": "etrafından dolaşmak, atlatmak",
+        "de": "umgehen",
+        "fr": "contourner",
+        "it": "aggirare",
+        "es": "eludir, sortear"
+      },
+      "sentences": [
+        {
+          "en": "They found a way to [circumvent] the rules.",
+          "tr": "Kuralları delmenin bir yolunu buldular.",
+          "de": "Sie fanden einen Weg, die Regeln zu umgehen.",
+          "fr": "Ils ont trouvé un moyen de contourner les règles.",
+          "it": "Hanno trovato un modo per aggirare le regole.",
+          "es": "Encontraron una forma de eludir las normas."
+        },
+        {
+          "en": "We [circumvented] the traffic by taking a side road.",
+          "tr": "Ara yoldan giderek trafiği atlattık.",
+          "de": "Wir umgingen den Stau über eine Nebenstraße.",
+          "fr": "Nous avons contourné les bouchons par une petite route.",
+          "it": "Abbiamo aggirato il traffico prendendo una strada secondaria.",
+          "es": "Sorteamos el atasco por una carretera secundaria."
+        }
+      ]
+    },
+    {
+      "id": "venue",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "venue"
+      ],
+      "gloss": {
+        "en": "the place where an event happens (from French venir, 'to come')",
+        "tr": "mekân, etkinlik yeri",
+        "de": "der Veranstaltungsort",
+        "fr": "le lieu (d'un événement), la salle",
+        "it": "la sede, il locale",
+        "es": "el lugar, el recinto"
+      },
+      "sentences": [
+        {
+          "en": "The concert [venue] holds two thousand people.",
+          "tr": "Konser mekânı iki bin kişi alıyor.",
+          "de": "Der Konzertort fasst zweitausend Menschen.",
+          "fr": "La salle de concert peut accueillir deux mille personnes.",
+          "it": "Il locale del concerto contiene duemila persone.",
+          "es": "El recinto del concierto tiene capacidad para dos mil personas."
+        },
+        {
+          "en": "We need a [venue] for the wedding.",
+          "tr": "Düğün için bir mekâna ihtiyacımız var.",
+          "de": "Wir brauchen einen Ort für die Hochzeit.",
+          "fr": "Il nous faut un lieu pour le mariage.",
+          "it": "Ci serve un posto per il matrimonio.",
+          "es": "Necesitamos un lugar para la boda."
+        }
+      ]
+    },
+    {
+      "id": "avenue",
+      "pos": "noun",
+      "parent": "venue",
+      "parts": [
+        "a-",
+        "venue"
+      ],
+      "gloss": {
+        "en": "a wide street, often with trees; a possible way of doing something (literally: a way of coming to)",
+        "tr": "cadde, bulvar; yol, seçenek",
+        "de": "die Allee, die Avenue; der Weg",
+        "fr": "l'avenue; la piste",
+        "it": "il viale; la strada, la via",
+        "es": "la avenida; la vía"
+      },
+      "sentences": [
+        {
+          "en": "The museum is on Fifth [Avenue].",
+          "tr": "Müze Beşinci Cadde'de.",
+          "de": "Das Museum liegt an der Fifth Avenue.",
+          "fr": "Le musée se trouve sur la Cinquième Avenue.",
+          "it": "Il museo è sulla Quinta Strada.",
+          "es": "El museo está en la Quinta Avenida."
+        },
+        {
+          "en": "We should explore every [avenue] before we decide.",
+          "tr": "Karar vermeden önce her yolu denemeliyiz.",
+          "de": "Wir sollten jeden Weg prüfen, bevor wir entscheiden.",
+          "fr": "Nous devrions explorer toutes les pistes avant de décider.",
+          "it": "Dovremmo esplorare ogni strada prima di decidere.",
+          "es": "Deberíamos explorar todas las vías antes de decidir."
+        }
+      ]
+    },
+    {
+      "id": "revenue",
+      "pos": "noun",
+      "parent": "venue",
+      "parts": [
+        "re-",
+        "venue"
+      ],
+      "gloss": {
+        "en": "money that a company or government receives (literally: what comes back)",
+        "tr": "gelir, hasılat",
+        "de": "die Einnahmen, der Umsatz",
+        "fr": "les recettes, le chiffre d'affaires",
+        "it": "le entrate, il fatturato",
+        "es": "los ingresos"
+      },
+      "sentences": [
+        {
+          "en": "The company's [revenue] grew by ten percent.",
+          "tr": "Şirketin geliri yüzde on arttı.",
+          "de": "Der Umsatz der Firma stieg um zehn Prozent.",
+          "fr": "Le chiffre d'affaires de l'entreprise a augmenté de dix pour cent.",
+          "it": "Il fatturato dell'azienda è cresciuto del dieci per cento.",
+          "es": "Los ingresos de la empresa crecieron un diez por ciento."
+        },
+        {
+          "en": "Tourism brings in most of the island's [revenue].",
+          "tr": "Adanın gelirinin çoğu turizmden geliyor.",
+          "de": "Der Tourismus bringt den Großteil der Einnahmen der Insel.",
+          "fr": "Le tourisme rapporte l'essentiel des recettes de l'île.",
+          "it": "Il turismo porta la maggior parte delle entrate dell'isola.",
+          "es": "El turismo aporta la mayor parte de los ingresos de la isla."
+        }
+      ]
+    },
+    {
+      "id": "souvenir",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "sou-",
+        "ven",
+        "-ir"
+      ],
+      "gloss": {
+        "en": "something you buy to remember a place (from French se souvenir, 'to remember', literally: to come up in the mind)",
+        "tr": "hatıra, hediyelik eşya",
+        "de": "das Andenken, das Souvenir",
+        "fr": "le souvenir",
+        "it": "il souvenir, il ricordo",
+        "es": "el recuerdo, el souvenir"
+      },
+      "sentences": [
+        {
+          "en": "I bought a small [souvenir] for my sister.",
+          "tr": "Kız kardeşim için küçük bir hatıra aldım.",
+          "de": "Ich habe ein kleines Andenken für meine Schwester gekauft.",
+          "fr": "J'ai acheté un petit souvenir pour ma sœur.",
+          "it": "Ho comprato un piccolo souvenir per mia sorella.",
+          "es": "Compré un pequeño recuerdo para mi hermana."
+        },
+        {
+          "en": "The [souvenir] shops near the castle are expensive.",
+          "tr": "Kalenin yakınındaki hediyelik eşya dükkânları pahalı.",
+          "de": "Die Souvenirläden an der Burg sind teuer.",
+          "fr": "Les boutiques de souvenirs près du château sont chères.",
+          "it": "I negozi di souvenir vicino al castello sono cari.",
+          "es": "Las tiendas de recuerdos cerca del castillo son caras."
+        }
+      ]
+    }
+  ]
+}

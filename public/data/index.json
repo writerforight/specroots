@@ -119,6 +119,41 @@
     ]
   },
   {
+    "id": "cid",
+    "forms": [
+      "cid",
+      "cide",
+      "cis",
+      "cise"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to cut; to kill",
+      "tr": "kesmek; öldürmek",
+      "de": "schneiden; töten",
+      "fr": "couper; tuer",
+      "it": "tagliare; uccidere",
+      "es": "cortar; matar"
+    },
+    "words": [
+      "decide",
+      "decision",
+      "decisive",
+      "indecisive",
+      "undecided",
+      "precise",
+      "precision",
+      "imprecise",
+      "concise",
+      "incision",
+      "incisive",
+      "homicide",
+      "genocide",
+      "pesticide",
+      "insecticide"
+    ]
+  },
+  {
     "id": "clud",
     "forms": [
       "clud",
@@ -615,6 +650,33 @@
       "allocation",
       "dislocate",
       "collocation"
+    ]
+  },
+  {
+    "id": "mand",
+    "forms": [
+      "mand",
+      "mend"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to order; to entrust",
+      "tr": "emretmek; emanet etmek",
+      "de": "befehlen; anvertrauen",
+      "fr": "ordonner; confier",
+      "it": "ordinare; affidare",
+      "es": "ordenar; encomendar"
+    },
+    "words": [
+      "command",
+      "commander",
+      "commend",
+      "demand",
+      "demanding",
+      "mandate",
+      "mandatory",
+      "recommend",
+      "recommendation"
     ]
   },
   {
@@ -1304,6 +1366,48 @@
       "abstract",
       "protracted",
       "intractable"
+    ]
+  },
+  {
+    "id": "ven",
+    "forms": [
+      "ven",
+      "vene",
+      "vent",
+      "venue"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to come",
+      "tr": "gelmek",
+      "de": "kommen",
+      "fr": "venir",
+      "it": "venire",
+      "es": "venir"
+    },
+    "words": [
+      "event",
+      "eventual",
+      "eventually",
+      "invent",
+      "invention",
+      "inventor",
+      "inventory",
+      "prevent",
+      "prevention",
+      "adventure",
+      "convention",
+      "conventional",
+      "unconventional",
+      "intervene",
+      "intervention",
+      "convenient",
+      "inconvenient",
+      "circumvent",
+      "venue",
+      "avenue",
+      "revenue",
+      "souvenir"
     ]
   },
   {

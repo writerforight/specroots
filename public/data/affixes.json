@@ -1773,5 +1773,71 @@
       "it": "piccolo (forma un nome)",
       "es": "pequeño (forma un sustantivo)"
     }
+  },
+  "homi-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "human being (Latin homo)",
+      "tr": "insan (Latince homo)",
+      "de": "Mensch (lateinisch homo)",
+      "fr": "être humain (latin homo)",
+      "it": "essere umano (latino homo)",
+      "es": "ser humano (latín homo)"
+    }
+  },
+  "geno-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "people, race (Greek genos)",
+      "tr": "halk, soy (Yunanca genos)",
+      "de": "Volk, Geschlecht (griechisch genos)",
+      "fr": "peuple, race (grec genos)",
+      "it": "popolo, stirpe (greco genos)",
+      "es": "pueblo, linaje (griego genos)"
+    }
+  },
+  "pesti-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "pest (Latin pestis)",
+      "tr": "zararlı (Latince pestis)",
+      "de": "Schädling (lateinisch pestis)",
+      "fr": "nuisible (latin pestis)",
+      "it": "parassita (latino pestis)",
+      "es": "plaga (latín pestis)"
+    }
+  },
+  "insecti-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "insect",
+      "tr": "böcek",
+      "de": "Insekt",
+      "fr": "insecte",
+      "it": "insetto",
+      "es": "insecto"
+    }
+  },
+  "sou-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "under, up (French form of sub-)",
+      "tr": "alttan (sub- Fransızca biçimi)",
+      "de": "unter (französische Form von sub-)",
+      "fr": "sous (forme française de sub-)",
+      "it": "sotto (forma francese di sub-)",
+      "es": "debajo (forma francesa de sub-)"
+    }
+  },
+  "-ir": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "(French verb ending, as in venir)",
+      "tr": "(Fransızca fiil eki: venir)",
+      "de": "(französische Verbendung, wie in venir)",
+      "fr": "(terminaison verbale française : venir)",
+      "it": "(desinenza verbale francese: venir)",
+      "es": "(terminación verbal francesa: venir)"
+    }
   }
 }
