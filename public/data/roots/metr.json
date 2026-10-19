@@ -1,0 +1,732 @@
+{
+  "id": "metr",
+  "forms": [
+    "metr",
+    "meter"
+  ],
+  "origin": "gr",
+  "etymon": "metron",
+  "meaning": {
+    "en": "measure",
+    "tr": "ölçü, ölçmek",
+    "de": "das Maß, messen",
+    "fr": "la mesure, mesurer",
+    "it": "la misura, misurare",
+    "es": "la medida, medir"
+  },
+  "words": [
+    {
+      "id": "meter",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "meter"
+      ],
+      "gloss": {
+        "en": "a unit of length (100 centimeters); also a device that measures something, like a parking meter",
+        "tr": "metre; sayaç",
+        "de": "der Meter; der Zähler",
+        "fr": "le mètre; le compteur",
+        "it": "il metro; il contatore",
+        "es": "el metro; el contador"
+      },
+      "sentences": [
+        {
+          "en": "The pool is twenty-five [meters] long.",
+          "tr": "Havuz yirmi beş metre uzunluğunda.",
+          "de": "Das Becken ist fünfundzwanzig Meter lang.",
+          "fr": "La piscine fait vingt-cinq mètres de long.",
+          "it": "La piscina è lunga venticinque metri.",
+          "es": "La piscina mide veinticinco metros de largo."
+        },
+        {
+          "en": "He put two coins in the parking [meter].",
+          "tr": "Park sayacına iki bozuk para attı.",
+          "de": "Er warf zwei Münzen in die Parkuhr.",
+          "fr": "Il a mis deux pièces dans le parcmètre.",
+          "it": "Ha messo due monete nel parchimetro.",
+          "es": "Echó dos monedas en el parquímetro."
+        }
+      ]
+    },
+    {
+      "id": "metric",
+      "pos": "adjective",
+      "parent": "meter",
+      "parts": [
+        "metr",
+        "-ic"
+      ],
+      "gloss": {
+        "en": "using the meter, the kilogram and other units based on ten",
+        "tr": "metrik",
+        "de": "metrisch",
+        "fr": "métrique",
+        "it": "metrico",
+        "es": "métrico"
+      },
+      "sentences": [
+        {
+          "en": "Most countries use the [metric] system.",
+          "tr": "Çoğu ülke metrik sistemi kullanır.",
+          "de": "Die meisten Länder verwenden das metrische System.",
+          "fr": "La plupart des pays utilisent le système métrique.",
+          "it": "La maggior parte dei paesi usa il sistema metrico.",
+          "es": "La mayoría de los países usa el sistema métrico."
+        },
+        {
+          "en": "Give me the weight in [metric] units, please.",
+          "tr": "Ağırlığı lütfen metrik birimlerle söyle.",
+          "de": "Nenn mir das Gewicht bitte in metrischen Einheiten.",
+          "fr": "Donne-moi le poids en unités métriques, s'il te plaît.",
+          "it": "Dammi il peso in unità metriche, per favore.",
+          "es": "Dame el peso en unidades métricas, por favor."
+        }
+      ]
+    },
+    {
+      "id": "metrics",
+      "pos": "noun",
+      "parent": "metric",
+      "parts": [
+        "metr",
+        "-ic",
+        "-s"
+      ],
+      "gloss": {
+        "en": "numbers used to measure how well something is doing",
+        "tr": "ölçütler, metrikler",
+        "de": "die Kennzahlen",
+        "fr": "les indicateurs",
+        "it": "le metriche",
+        "es": "las métricas"
+      },
+      "sentences": [
+        {
+          "en": "Which [metrics] show that the website is improving?",
+          "tr": "Hangi ölçütler web sitesinin iyileştiğini gösteriyor?",
+          "de": "Welche Kennzahlen zeigen, dass die Website besser wird?",
+          "fr": "Quels indicateurs montrent que le site s'améliore ?",
+          "it": "Quali metriche mostrano che il sito sta migliorando?",
+          "es": "¿Qué métricas muestran que el sitio web está mejorando?"
+        },
+        {
+          "en": "The team checks its [metrics] every Monday.",
+          "tr": "Ekip ölçütlerini her pazartesi kontrol eder.",
+          "de": "Das Team prüft seine Kennzahlen jeden Montag.",
+          "fr": "L'équipe vérifie ses indicateurs chaque lundi.",
+          "it": "Il team controlla le sue metriche ogni lunedì.",
+          "es": "El equipo revisa sus métricas cada lunes."
+        }
+      ]
+    },
+    {
+      "id": "symmetry",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "sym-",
+        "metr",
+        "-y"
+      ],
+      "gloss": {
+        "en": "the quality of having two matching halves (literally: measured together)",
+        "tr": "simetri, bakışım",
+        "de": "die Symmetrie",
+        "fr": "la symétrie",
+        "it": "la simmetria",
+        "es": "la simetría"
+      },
+      "sentences": [
+        {
+          "en": "A butterfly's wings show perfect [symmetry].",
+          "tr": "Bir kelebeğin kanatları kusursuz bir simetri gösterir.",
+          "de": "Die Flügel eines Schmetterlings zeigen perfekte Symmetrie.",
+          "fr": "Les ailes d'un papillon montrent une symétrie parfaite.",
+          "it": "Le ali di una farfalla mostrano una simmetria perfetta.",
+          "es": "Las alas de una mariposa muestran una simetría perfecta."
+        },
+        {
+          "en": "The architect loved [symmetry], so both towers are identical.",
+          "tr": "Mimar simetriyi severdi, bu yüzden iki kule de aynıdır.",
+          "de": "Der Architekt liebte Symmetrie, deshalb sind beide Türme gleich.",
+          "fr": "L'architecte aimait la symétrie, donc les deux tours sont identiques.",
+          "it": "L'architetto amava la simmetria, quindi le due torri sono identiche.",
+          "es": "Al arquitecto le encantaba la simetría, así que ambas torres son idénticas."
+        }
+      ]
+    },
+    {
+      "id": "symmetrical",
+      "pos": "adjective",
+      "parent": "symmetry",
+      "parts": [
+        "sym-",
+        "metr",
+        "-ic",
+        "-al"
+      ],
+      "gloss": {
+        "en": "having two halves that match each other",
+        "tr": "simetrik, bakışımlı",
+        "de": "symmetrisch",
+        "fr": "symétrique",
+        "it": "simmetrico",
+        "es": "simétrico"
+      },
+      "sentences": [
+        {
+          "en": "The human face is almost [symmetrical].",
+          "tr": "İnsan yüzü neredeyse simetriktir.",
+          "de": "Das menschliche Gesicht ist fast symmetrisch.",
+          "fr": "Le visage humain est presque symétrique.",
+          "it": "Il volto umano è quasi simmetrico.",
+          "es": "El rostro humano es casi simétrico."
+        },
+        {
+          "en": "Fold the paper to make a [symmetrical] heart.",
+          "tr": "Simetrik bir kalp yapmak için kâğıdı katla.",
+          "de": "Falte das Papier, um ein symmetrisches Herz zu machen.",
+          "fr": "Plie le papier pour faire un cœur symétrique.",
+          "it": "Piega il foglio per fare un cuore simmetrico.",
+          "es": "Dobla el papel para hacer un corazón simétrico."
+        }
+      ]
+    },
+    {
+      "id": "asymmetrical",
+      "pos": "adjective",
+      "parent": "symmetrical",
+      "parts": [
+        "a-not-",
+        "sym-",
+        "metr",
+        "-ic",
+        "-al"
+      ],
+      "gloss": {
+        "en": "with two sides that do not match",
+        "tr": "asimetrik, bakışımsız",
+        "de": "asymmetrisch",
+        "fr": "asymétrique",
+        "it": "asimmetrico",
+        "es": "asimétrico"
+      },
+      "sentences": [
+        {
+          "en": "She wore an [asymmetrical] dress with one sleeve.",
+          "tr": "Tek kollu, asimetrik bir elbise giydi.",
+          "de": "Sie trug ein asymmetrisches Kleid mit einem Ärmel.",
+          "fr": "Elle portait une robe asymétrique à une seule manche.",
+          "it": "Indossava un abito asimmetrico con una sola manica.",
+          "es": "Llevaba un vestido asimétrico de una sola manga."
+        },
+        {
+          "en": "The old house has an [asymmetrical] roof.",
+          "tr": "Eski evin asimetrik bir çatısı var.",
+          "de": "Das alte Haus hat ein asymmetrisches Dach.",
+          "fr": "La vieille maison a un toit asymétrique.",
+          "it": "La vecchia casa ha un tetto asimmetrico.",
+          "es": "La casa vieja tiene un tejado asimétrico."
+        }
+      ]
+    },
+    {
+      "id": "geometry",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "geo-",
+        "metr",
+        "-y"
+      ],
+      "gloss": {
+        "en": "the part of mathematics about shapes, lines and angles (literally: measuring the earth)",
+        "tr": "geometri",
+        "de": "die Geometrie",
+        "fr": "la géométrie",
+        "it": "la geometria",
+        "es": "la geometría"
+      },
+      "sentences": [
+        {
+          "en": "In [geometry] we learned how to measure angles.",
+          "tr": "Geometride açıların nasıl ölçüleceğini öğrendik.",
+          "de": "In Geometrie haben wir gelernt, Winkel zu messen.",
+          "fr": "En géométrie, nous avons appris à mesurer les angles.",
+          "it": "In geometria abbiamo imparato a misurare gli angoli.",
+          "es": "En geometría aprendimos a medir ángulos."
+        },
+        {
+          "en": "The ancient Egyptians used [geometry] to divide their fields.",
+          "tr": "Eski Mısırlılar tarlalarını bölmek için geometri kullandı.",
+          "de": "Die alten Ägypter teilten ihre Felder mit Hilfe der Geometrie.",
+          "fr": "Les anciens Égyptiens utilisaient la géométrie pour partager leurs champs.",
+          "it": "Gli antichi egizi usavano la geometria per dividere i campi.",
+          "es": "Los antiguos egipcios usaban la geometría para dividir sus campos."
+        }
+      ]
+    },
+    {
+      "id": "geometric",
+      "pos": "adjective",
+      "parent": "geometry",
+      "parts": [
+        "geo-",
+        "metr",
+        "-ic"
+      ],
+      "gloss": {
+        "en": "made of simple shapes such as lines, circles and squares",
+        "tr": "geometrik",
+        "de": "geometrisch",
+        "fr": "géométrique",
+        "it": "geometrico",
+        "es": "geométrico"
+      },
+      "sentences": [
+        {
+          "en": "The rug has a [geometric] pattern of triangles.",
+          "tr": "Halıda üçgenlerden oluşan geometrik bir desen var.",
+          "de": "Der Teppich hat ein geometrisches Muster aus Dreiecken.",
+          "fr": "Le tapis a un motif géométrique de triangles.",
+          "it": "Il tappeto ha un motivo geometrico di triangoli.",
+          "es": "La alfombra tiene un dibujo geométrico de triángulos."
+        },
+        {
+          "en": "Squares and circles are [geometric] shapes.",
+          "tr": "Kareler ve daireler geometrik şekillerdir.",
+          "de": "Quadrate und Kreise sind geometrische Formen.",
+          "fr": "Les carrés et les cercles sont des formes géométriques.",
+          "it": "Quadrati e cerchi sono forme geometriche.",
+          "es": "Los cuadrados y los círculos son formas geométricas."
+        }
+      ]
+    },
+    {
+      "id": "trigonometry",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "trigono-",
+        "metr",
+        "-y"
+      ],
+      "gloss": {
+        "en": "the mathematics of triangles: their sides and angles (literally: measuring triangles)",
+        "tr": "trigonometri",
+        "de": "die Trigonometrie",
+        "fr": "la trigonométrie",
+        "it": "la trigonometria",
+        "es": "la trigonometría"
+      },
+      "sentences": [
+        {
+          "en": "Engineers use [trigonometry] to calculate the height of bridges.",
+          "tr": "Mühendisler köprülerin yüksekliğini hesaplamak için trigonometri kullanır.",
+          "de": "Ingenieure berechnen die Höhe von Brücken mit Trigonometrie.",
+          "fr": "Les ingénieurs utilisent la trigonométrie pour calculer la hauteur des ponts.",
+          "it": "Gli ingegneri usano la trigonometria per calcolare l'altezza dei ponti.",
+          "es": "Los ingenieros usan la trigonometría para calcular la altura de los puentes."
+        },
+        {
+          "en": "Our [trigonometry] test was all about sines and cosines.",
+          "tr": "Trigonometri sınavımız tamamen sinüs ve kosinüs üzerineydi.",
+          "de": "Unser Trigonometrie-Test drehte sich nur um Sinus und Kosinus.",
+          "fr": "Notre contrôle de trigonométrie portait sur les sinus et les cosinus.",
+          "it": "La nostra verifica di trigonometria era tutta su seni e coseni.",
+          "es": "Nuestro examen de trigonometría trataba solo de senos y cosenos."
+        }
+      ]
+    },
+    {
+      "id": "thermometer",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "thermo-",
+        "meter"
+      ],
+      "gloss": {
+        "en": "a tool that measures temperature (literally: heat measurer)",
+        "tr": "termometre, derece",
+        "de": "das Thermometer",
+        "fr": "le thermomètre",
+        "it": "il termometro",
+        "es": "el termómetro"
+      },
+      "sentences": [
+        {
+          "en": "The [thermometer] says it is minus five outside.",
+          "tr": "Termometre dışarıda eksi beş derece olduğunu gösteriyor.",
+          "de": "Das Thermometer zeigt draußen minus fünf Grad.",
+          "fr": "Le thermomètre indique moins cinq dehors.",
+          "it": "Il termometro segna meno cinque fuori.",
+          "es": "El termómetro marca cinco bajo cero afuera."
+        },
+        {
+          "en": "The nurse put a [thermometer] under my tongue.",
+          "tr": "Hemşire dilimin altına bir termometre koydu.",
+          "de": "Die Krankenschwester legte mir ein Thermometer unter die Zunge.",
+          "fr": "L'infirmière m'a mis un thermomètre sous la langue.",
+          "it": "L'infermiera mi ha messo un termometro sotto la lingua.",
+          "es": "La enfermera me puso un termómetro debajo de la lengua."
+        }
+      ]
+    },
+    {
+      "id": "barometer",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "baro-",
+        "meter"
+      ],
+      "gloss": {
+        "en": "a tool that measures air pressure to help predict the weather; also anything that shows how a situation is changing",
+        "tr": "barometre",
+        "de": "das Barometer",
+        "fr": "le baromètre",
+        "it": "il barometro",
+        "es": "el barómetro"
+      },
+      "sentences": [
+        {
+          "en": "The [barometer] is falling, so rain is coming.",
+          "tr": "Barometre düşüyor, yani yağmur geliyor.",
+          "de": "Das Barometer fällt, also kommt Regen.",
+          "fr": "Le baromètre baisse, donc la pluie arrive.",
+          "it": "Il barometro scende, quindi arriva la pioggia.",
+          "es": "El barómetro está bajando, así que viene lluvia."
+        },
+        {
+          "en": "Shop sales are a [barometer] of the economy.",
+          "tr": "Mağaza satışları ekonominin bir barometresidir.",
+          "de": "Die Umsätze der Geschäfte sind ein Barometer der Wirtschaft.",
+          "fr": "Les ventes des magasins sont un baromètre de l'économie.",
+          "it": "Le vendite dei negozi sono un barometro dell'economia.",
+          "es": "Las ventas de las tiendas son un barómetro de la economía."
+        }
+      ]
+    },
+    {
+      "id": "speedometer",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "speedo-",
+        "meter"
+      ],
+      "gloss": {
+        "en": "the dial in a vehicle that shows how fast it is going",
+        "tr": "hız göstergesi",
+        "de": "der Tachometer, der Tacho",
+        "fr": "le compteur de vitesse",
+        "it": "il tachimetro",
+        "es": "el velocímetro"
+      },
+      "sentences": [
+        {
+          "en": "Check the [speedometer]; you're driving too fast.",
+          "tr": "Hız göstergesine bak, çok hızlı sürüyorsun.",
+          "de": "Schau auf den Tacho, du fährst zu schnell.",
+          "fr": "Regarde le compteur, tu roules trop vite.",
+          "it": "Guarda il tachimetro, stai andando troppo veloce.",
+          "es": "Mira el velocímetro, vas demasiado rápido."
+        },
+        {
+          "en": "The [speedometer] on my bike stopped working.",
+          "tr": "Bisikletimin hız göstergesi çalışmayı bıraktı.",
+          "de": "Der Tacho an meinem Fahrrad funktioniert nicht mehr.",
+          "fr": "Le compteur de mon vélo ne marche plus.",
+          "it": "Il tachimetro della mia bici non funziona più.",
+          "es": "El velocímetro de mi bici dejó de funcionar."
+        }
+      ]
+    },
+    {
+      "id": "kilometer",
+      "pos": "noun",
+      "parent": "meter",
+      "parts": [
+        "kilo-",
+        "meter"
+      ],
+      "gloss": {
+        "en": "a thousand meters",
+        "tr": "kilometre",
+        "de": "der Kilometer",
+        "fr": "le kilomètre",
+        "it": "il chilometro",
+        "es": "el kilómetro"
+      },
+      "sentences": [
+        {
+          "en": "The school is one [kilometer] from our house.",
+          "tr": "Okul evimize bir kilometre uzaklıkta.",
+          "de": "Die Schule ist einen Kilometer von unserem Haus entfernt.",
+          "fr": "L'école est à un kilomètre de chez nous.",
+          "it": "La scuola è a un chilometro da casa nostra.",
+          "es": "La escuela está a un kilómetro de nuestra casa."
+        },
+        {
+          "en": "She runs ten [kilometers] every Sunday.",
+          "tr": "Her pazar on kilometre koşuyor.",
+          "de": "Sie läuft jeden Sonntag zehn Kilometer.",
+          "fr": "Elle court dix kilomètres chaque dimanche.",
+          "it": "Corre dieci chilometri ogni domenica.",
+          "es": "Corre diez kilómetros cada domingo."
+        }
+      ]
+    },
+    {
+      "id": "centimeter",
+      "pos": "noun",
+      "parent": "meter",
+      "parts": [
+        "centi-",
+        "meter"
+      ],
+      "gloss": {
+        "en": "one hundredth of a meter",
+        "tr": "santimetre",
+        "de": "der Zentimeter",
+        "fr": "le centimètre",
+        "it": "il centimetro",
+        "es": "el centímetro"
+      },
+      "sentences": [
+        {
+          "en": "My son grew five [centimeters] this year.",
+          "tr": "Oğlum bu yıl beş santimetre uzadı.",
+          "de": "Mein Sohn ist dieses Jahr fünf Zentimeter gewachsen.",
+          "fr": "Mon fils a grandi de cinq centimètres cette année.",
+          "it": "Mio figlio è cresciuto di cinque centimetri quest'anno.",
+          "es": "Mi hijo creció cinco centímetros este año."
+        },
+        {
+          "en": "Draw a line exactly ten [centimeters] long.",
+          "tr": "Tam on santimetre uzunluğunda bir çizgi çiz.",
+          "de": "Zeichne eine genau zehn Zentimeter lange Linie.",
+          "fr": "Trace une ligne d'exactement dix centimètres.",
+          "it": "Disegna una linea lunga esattamente dieci centimetri.",
+          "es": "Dibuja una línea de exactamente diez centímetros."
+        }
+      ]
+    },
+    {
+      "id": "millimeter",
+      "pos": "noun",
+      "parent": "meter",
+      "parts": [
+        "milli-",
+        "meter"
+      ],
+      "gloss": {
+        "en": "one thousandth of a meter",
+        "tr": "milimetre",
+        "de": "der Millimeter",
+        "fr": "le millimètre",
+        "it": "il millimetro",
+        "es": "el milímetro"
+      },
+      "sentences": [
+        {
+          "en": "The screw is only three [millimeters] wide.",
+          "tr": "Vida yalnızca üç milimetre genişliğinde.",
+          "de": "Die Schraube ist nur drei Millimeter breit.",
+          "fr": "La vis ne fait que trois millimètres de large.",
+          "it": "La vite è larga solo tre millimetri.",
+          "es": "El tornillo mide solo tres milímetros de ancho."
+        },
+        {
+          "en": "The ball missed the goal by a [millimeter].",
+          "tr": "Top kaleyi bir milimetreyle ıskaladı.",
+          "de": "Der Ball verfehlte das Tor um einen Millimeter.",
+          "fr": "Le ballon a raté le but d'un millimètre.",
+          "it": "Il pallone ha mancato la porta di un millimetro.",
+          "es": "El balón no entró por un milímetro."
+        }
+      ]
+    },
+    {
+      "id": "diameter",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "dia-",
+        "meter"
+      ],
+      "gloss": {
+        "en": "a straight line through the center of a circle, from one side to the other (literally: measure across)",
+        "tr": "çap",
+        "de": "der Durchmesser",
+        "fr": "le diamètre",
+        "it": "il diametro",
+        "es": "el diámetro"
+      },
+      "sentences": [
+        {
+          "en": "The pizza has a [diameter] of thirty centimeters.",
+          "tr": "Pizzanın çapı otuz santimetre.",
+          "de": "Die Pizza hat einen Durchmesser von dreißig Zentimetern.",
+          "fr": "La pizza a un diamètre de trente centimètres.",
+          "it": "La pizza ha un diametro di trenta centimetri.",
+          "es": "La pizza tiene un diámetro de treinta centímetros."
+        },
+        {
+          "en": "The [diameter] is twice as long as the radius.",
+          "tr": "Çap, yarıçapın iki katı uzunluğundadır.",
+          "de": "Der Durchmesser ist doppelt so lang wie der Radius.",
+          "fr": "Le diamètre est deux fois plus long que le rayon.",
+          "it": "Il diametro è lungo il doppio del raggio.",
+          "es": "El diámetro mide el doble que el radio."
+        }
+      ]
+    },
+    {
+      "id": "diametrically",
+      "pos": "adverb",
+      "parent": "diameter",
+      "parts": [
+        "dia-",
+        "metr",
+        "-ic",
+        "-al",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "completely, as far apart as the two ends of a diameter (often in \"diametrically opposed\")",
+        "tr": "tamamen, taban tabana (zıt)",
+        "de": "diametral, völlig (entgegengesetzt)",
+        "fr": "diamétralement",
+        "it": "diametralmente",
+        "es": "diametralmente"
+      },
+      "sentences": [
+        {
+          "en": "The two parties hold [diametrically] opposed views.",
+          "tr": "İki partinin görüşleri taban tabana zıt.",
+          "de": "Die beiden Parteien vertreten diametral entgegengesetzte Ansichten.",
+          "fr": "Les deux partis ont des opinions diamétralement opposées.",
+          "it": "I due partiti hanno opinioni diametralmente opposte.",
+          "es": "Los dos partidos tienen opiniones diametralmente opuestas."
+        },
+        {
+          "en": "My brother and I are [diametrically] different.",
+          "tr": "Kardeşimle ben tamamen farklıyız.",
+          "de": "Mein Bruder und ich sind völlig verschieden.",
+          "fr": "Mon frère et moi sommes diamétralement différents.",
+          "it": "Io e mio fratello siamo diametralmente diversi.",
+          "es": "Mi hermano y yo somos diametralmente distintos."
+        }
+      ]
+    },
+    {
+      "id": "perimeter",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "peri-",
+        "meter"
+      ],
+      "gloss": {
+        "en": "the line around the edge of a shape or an area, or its length (literally: measure around)",
+        "tr": "çevre; dış sınır",
+        "de": "der Umfang; die Grenze",
+        "fr": "le périmètre",
+        "it": "il perimetro",
+        "es": "el perímetro"
+      },
+      "sentences": [
+        {
+          "en": "Find the [perimeter] of a square with four-centimeter sides.",
+          "tr": "Kenarları dört santimetre olan bir karenin çevresini bul.",
+          "de": "Berechne den Umfang eines Quadrats mit vier Zentimeter langen Seiten.",
+          "fr": "Calcule le périmètre d'un carré de quatre centimètres de côté.",
+          "it": "Trova il perimetro di un quadrato con lati di quattro centimetri.",
+          "es": "Halla el perímetro de un cuadrado de cuatro centímetros de lado."
+        },
+        {
+          "en": "Guards walked along the [perimeter] of the airport.",
+          "tr": "Bekçiler havalimanının dış sınırı boyunca yürüdü.",
+          "de": "Wachleute gingen die Grenze des Flughafens entlang.",
+          "fr": "Des gardes longeaient le périmètre de l'aéroport.",
+          "it": "Le guardie camminavano lungo il perimetro dell'aeroporto.",
+          "es": "Unos guardias recorrían el perímetro del aeropuerto."
+        }
+      ]
+    },
+    {
+      "id": "parameter",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "para-",
+        "meter"
+      ],
+      "gloss": {
+        "en": "a limit or a set value that decides how something works (literally: measure beside)",
+        "tr": "parametre; sınır",
+        "de": "der Parameter; der Rahmen",
+        "fr": "le paramètre",
+        "it": "il parametro",
+        "es": "el parámetro"
+      },
+      "sentences": [
+        {
+          "en": "We must work within the [parameters] of the budget.",
+          "tr": "Bütçenin sınırları içinde çalışmalıyız.",
+          "de": "Wir müssen im Rahmen des Budgets arbeiten.",
+          "fr": "Nous devons travailler dans les paramètres du budget.",
+          "it": "Dobbiamo lavorare entro i parametri del budget.",
+          "es": "Debemos trabajar dentro de los parámetros del presupuesto."
+        },
+        {
+          "en": "Change this [parameter] to make the program run faster.",
+          "tr": "Programın daha hızlı çalışması için bu parametreyi değiştir.",
+          "de": "Ändere diesen Parameter, damit das Programm schneller läuft.",
+          "fr": "Change ce paramètre pour que le programme tourne plus vite.",
+          "it": "Cambia questo parametro per far girare il programma più veloce.",
+          "es": "Cambia este parámetro para que el programa vaya más rápido."
+        }
+      ]
+    },
+    {
+      "id": "biometric",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "bio-",
+        "metr",
+        "-ic"
+      ],
+      "gloss": {
+        "en": "using measurements of the body, such as fingerprints or the face, to identify a person",
+        "tr": "biyometrik",
+        "de": "biometrisch",
+        "fr": "biométrique",
+        "it": "biometrico",
+        "es": "biométrico"
+      },
+      "sentences": [
+        {
+          "en": "My new passport has a [biometric] chip.",
+          "tr": "Yeni pasaportumda biyometrik bir çip var.",
+          "de": "Mein neuer Pass hat einen biometrischen Chip.",
+          "fr": "Mon nouveau passeport a une puce biométrique.",
+          "it": "Il mio nuovo passaporto ha un chip biometrico.",
+          "es": "Mi nuevo pasaporte tiene un chip biométrico."
+        },
+        {
+          "en": "The phone uses [biometric] data like your fingerprint.",
+          "tr": "Telefon parmak izin gibi biyometrik verileri kullanır.",
+          "de": "Das Handy nutzt biometrische Daten wie deinen Fingerabdruck.",
+          "fr": "Le téléphone utilise des données biométriques comme ton empreinte.",
+          "it": "Il telefono usa dati biometrici come la tua impronta digitale.",
+          "es": "El teléfono usa datos biométricos como tu huella dactilar."
+        }
+      ]
+    }
+  ]
+}

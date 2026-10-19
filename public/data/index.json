@@ -811,6 +811,44 @@
     ]
   },
   {
+    "id": "metr",
+    "forms": [
+      "metr",
+      "meter"
+    ],
+    "origin": "gr",
+    "meaning": {
+      "en": "measure",
+      "tr": "ölçü, ölçmek",
+      "de": "das Maß, messen",
+      "fr": "la mesure, mesurer",
+      "it": "la misura, misurare",
+      "es": "la medida, medir"
+    },
+    "words": [
+      "meter",
+      "metric",
+      "metrics",
+      "symmetry",
+      "symmetrical",
+      "asymmetrical",
+      "geometry",
+      "geometric",
+      "trigonometry",
+      "thermometer",
+      "barometer",
+      "speedometer",
+      "kilometer",
+      "centimeter",
+      "millimeter",
+      "diameter",
+      "diametrically",
+      "perimeter",
+      "parameter",
+      "biometric"
+    ]
+  },
+  {
     "id": "mit",
     "forms": [
       "mit",
@@ -856,6 +894,32 @@
     ]
   },
   {
+    "id": "morph",
+    "forms": [
+      "morph"
+    ],
+    "origin": "gr",
+    "meaning": {
+      "en": "form, shape",
+      "tr": "biçim, şekil",
+      "de": "die Form, die Gestalt",
+      "fr": "la forme",
+      "it": "la forma",
+      "es": "la forma"
+    },
+    "words": [
+      "morph",
+      "metamorphosis",
+      "metamorphic",
+      "amorphous",
+      "morphology",
+      "morphological",
+      "morpheme",
+      "anthropomorphic",
+      "anthropomorphism"
+    ]
+  },
+  {
     "id": "mov",
     "forms": [
       "mov",
@@ -897,6 +961,41 @@
       "mobility",
       "immobile",
       "automobile"
+    ]
+  },
+  {
+    "id": "path",
+    "forms": [
+      "path"
+    ],
+    "origin": "gr",
+    "meaning": {
+      "en": "feeling, suffering",
+      "tr": "duygu, acı",
+      "de": "das Gefühl, das Leiden",
+      "fr": "le sentiment, la souffrance",
+      "it": "il sentimento, la sofferenza",
+      "es": "el sentimiento, el sufrimiento"
+    },
+    "words": [
+      "sympathy",
+      "sympathetic",
+      "unsympathetic",
+      "sympathize",
+      "empathy",
+      "empathetic",
+      "empathize",
+      "apathy",
+      "apathetic",
+      "pathetic",
+      "antipathy",
+      "telepathy",
+      "telepathic",
+      "psychopath",
+      "psychopathic",
+      "pathology",
+      "pathological",
+      "homeopathy"
     ]
   },
   {

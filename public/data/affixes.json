@@ -2501,5 +2501,127 @@
       "it": "pieno di (-oso)",
       "es": "lleno de (-oso)"
     }
+  },
+  "thermo-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "heat (Greek thermos)",
+      "tr": "ısı (Yunanca thermos)",
+      "de": "Wärme (griechisch thermos)",
+      "fr": "chaleur (grec thermos)",
+      "it": "calore (greco thermos)",
+      "es": "calor (griego thermos)"
+    }
+  },
+  "baro-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "weight, pressure (Greek baros)",
+      "tr": "ağırlık, basınç (Yunanca baros)",
+      "de": "Gewicht, Druck (griechisch baros)",
+      "fr": "poids, pression (grec baros)",
+      "it": "peso, pressione (greco baros)",
+      "es": "peso, presión (griego baros)"
+    }
+  },
+  "speedo-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "speed (English speed)",
+      "tr": "hız (İngilizce speed)",
+      "de": "Geschwindigkeit (englisch speed)",
+      "fr": "vitesse (anglais speed)",
+      "it": "velocità (inglese speed)",
+      "es": "velocidad (inglés speed)"
+    }
+  },
+  "milli-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "thousandth (Latin mille)",
+      "tr": "binde bir (Latince mille)",
+      "de": "Tausendstel (lateinisch mille)",
+      "fr": "millième (latin mille)",
+      "it": "millesimo (latino mille)",
+      "es": "milésima (latín mille)"
+    }
+  },
+  "peri-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "around (Greek)",
+      "tr": "çevresinde (Yunanca)",
+      "de": "um … herum (griechisch)",
+      "fr": "autour (grec)",
+      "it": "intorno (greco)",
+      "es": "alrededor (griego)"
+    }
+  },
+  "trigono-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "triangle (Greek trigonon)",
+      "tr": "üçgen (Yunanca trigonon)",
+      "de": "Dreieck (griechisch trigonon)",
+      "fr": "triangle (grec trigonon)",
+      "it": "triangolo (greco trigonon)",
+      "es": "triángulo (griego trigonon)"
+    }
+  },
+  "meta-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "change, beyond (Greek)",
+      "tr": "değişim, öte (Yunanca)",
+      "de": "Wandel, über … hinaus (griechisch)",
+      "fr": "changement, au-delà (grec)",
+      "it": "cambiamento, oltre (greco)",
+      "es": "cambio, más allá (griego)"
+    }
+  },
+  "homeo-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "similar (Greek homoios)",
+      "tr": "benzer (Yunanca homoios)",
+      "de": "ähnlich (griechisch homoios)",
+      "fr": "semblable (grec homoios)",
+      "it": "simile (greco homoios)",
+      "es": "semejante (griego homoios)"
+    }
+  },
+  "anthropo-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "human (Greek anthropos)",
+      "tr": "insan (Yunanca anthropos)",
+      "de": "Mensch (griechisch anthropos)",
+      "fr": "humain (grec anthropos)",
+      "it": "essere umano (greco anthropos)",
+      "es": "ser humano (griego anthropos)"
+    }
+  },
+  "em-gr-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "in (Greek en-, before p, b, m)",
+      "tr": "içinde (Yunanca en-, p, b, m önünde)",
+      "de": "in, hinein (griechisch en-, vor p, b, m)",
+      "fr": "dans (grec en-, devant p, b, m)",
+      "it": "dentro (greco en-, davanti a p, b, m)",
+      "es": "dentro (griego en-, ante p, b, m)"
+    },
+    "form": "em"
+  },
+  "-osis": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "process or condition (Greek; makes a noun)",
+      "tr": "süreç, durum (Yunanca; isim yapar)",
+      "de": "Vorgang, Zustand (griechisch; bildet ein Nomen)",
+      "fr": "processus, état (-ose)",
+      "it": "processo, condizione (-osi)",
+      "es": "proceso, estado (-osis)"
+    }
   }
 }

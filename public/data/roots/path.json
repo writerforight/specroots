@@ -1,0 +1,663 @@
+{
+  "id": "path",
+  "forms": [
+    "path"
+  ],
+  "origin": "gr",
+  "etymon": "pathos",
+  "meaning": {
+    "en": "feeling, suffering",
+    "tr": "duygu, acı",
+    "de": "das Gefühl, das Leiden",
+    "fr": "le sentiment, la souffrance",
+    "it": "il sentimento, la sofferenza",
+    "es": "el sentimiento, el sufrimiento"
+  },
+  "words": [
+    {
+      "id": "sympathy",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "sym-",
+        "path",
+        "-y"
+      ],
+      "gloss": {
+        "en": "feeling sorry for someone in trouble; support for an idea (literally: feeling together)",
+        "tr": "acıma, duygudaşlık; taziye; destek",
+        "de": "das Mitgefühl, die Anteilnahme",
+        "fr": "la compassion; les condoléances",
+        "it": "la compassione, la vicinanza",
+        "es": "la compasión; las condolencias"
+      },
+      "sentences": [
+        {
+          "en": "We sent a card to show our [sympathy].",
+          "tr": "Üzüntümüzü paylaştığımızı göstermek için bir kart gönderdik.",
+          "de": "Wir haben eine Karte geschickt, um unsere Anteilnahme zu zeigen.",
+          "fr": "Nous avons envoyé une carte pour exprimer notre compassion.",
+          "it": "Abbiamo mandato un biglietto per esprimere la nostra vicinanza.",
+          "es": "Enviamos una tarjeta para mostrar nuestras condolencias."
+        },
+        {
+          "en": "I have no [sympathy] for people who cheat.",
+          "tr": "Hile yapan insanlara hiç acımam.",
+          "de": "Ich habe kein Mitleid mit Leuten, die betrügen.",
+          "fr": "Je n'ai aucune compassion pour les tricheurs.",
+          "it": "Non provo alcuna compassione per chi imbroglia.",
+          "es": "No siento ninguna compasión por los tramposos."
+        }
+      ]
+    },
+    {
+      "id": "sympathetic",
+      "pos": "adjective",
+      "parent": "sympathy",
+      "parts": [
+        "sym-",
+        "path",
+        "-etic"
+      ],
+      "gloss": {
+        "en": "kind to someone who is in trouble; agreeing with an idea",
+        "tr": "anlayışlı, şefkatli; destekleyen",
+        "de": "mitfühlend, verständnisvoll",
+        "fr": "compatissant, bienveillant",
+        "it": "comprensivo, solidale",
+        "es": "comprensivo, compasivo"
+      },
+      "sentences": [
+        {
+          "en": "The teacher was [sympathetic] when my dog died.",
+          "tr": "Köpeğim öldüğünde öğretmen çok anlayışlıydı.",
+          "de": "Die Lehrerin war verständnisvoll, als mein Hund starb.",
+          "fr": "La prof a été compatissante quand mon chien est mort.",
+          "it": "L'insegnante è stata comprensiva quando è morto il mio cane.",
+          "es": "La profesora fue comprensiva cuando murió mi perro."
+        },
+        {
+          "en": "Most voters are [sympathetic] to the nurses' demands.",
+          "tr": "Seçmenlerin çoğu hemşirelerin taleplerine destek veriyor.",
+          "de": "Die meisten Wähler haben Verständnis für die Forderungen der Pflegekräfte.",
+          "fr": "La plupart des électeurs soutiennent les revendications des infirmières.",
+          "it": "La maggior parte degli elettori appoggia le richieste degli infermieri.",
+          "es": "La mayoría de los votantes apoya las demandas de las enfermeras."
+        }
+      ]
+    },
+    {
+      "id": "unsympathetic",
+      "pos": "adjective",
+      "parent": "sympathetic",
+      "parts": [
+        "un-",
+        "sym-",
+        "path",
+        "-etic"
+      ],
+      "gloss": {
+        "en": "not kind or caring about someone's problems",
+        "tr": "anlayışsız, duyarsız",
+        "de": "verständnislos, ohne Mitgefühl",
+        "fr": "peu compatissant, indifférent",
+        "it": "poco comprensivo, insensibile",
+        "es": "poco comprensivo, insensible"
+      },
+      "sentences": [
+        {
+          "en": "The manager was [unsympathetic] and refused my day off.",
+          "tr": "Müdür anlayışsızdı ve izin günümü reddetti.",
+          "de": "Der Chef war verständnislos und lehnte meinen freien Tag ab.",
+          "fr": "Le directeur a été indifférent et m'a refusé mon jour de congé.",
+          "it": "Il capo è stato poco comprensivo e mi ha negato il giorno libero.",
+          "es": "El jefe fue poco comprensivo y me negó el día libre."
+        },
+        {
+          "en": "Don't be so [unsympathetic]; she is really sad.",
+          "tr": "Bu kadar duyarsız olma, gerçekten üzgün.",
+          "de": "Sei nicht so verständnislos; sie ist wirklich traurig.",
+          "fr": "Ne sois pas si indifférent ; elle est vraiment triste.",
+          "it": "Non essere così insensibile, è davvero triste.",
+          "es": "No seas tan insensible; está muy triste de verdad."
+        }
+      ]
+    },
+    {
+      "id": "sympathize",
+      "pos": "verb",
+      "parent": "sympathy",
+      "parts": [
+        "sym-",
+        "path",
+        "-ize"
+      ],
+      "gloss": {
+        "en": "to feel sorry for someone, or to support their ideas",
+        "tr": "halinden anlamak; desteklemek",
+        "de": "mitfühlen; sympathisieren",
+        "fr": "compatir; soutenir",
+        "it": "capire; solidarizzare",
+        "es": "compadecerse; simpatizar"
+      },
+      "sentences": [
+        {
+          "en": "I [sympathize] with you; my first job was hard too.",
+          "tr": "Halini anlıyorum, benim ilk işim de zordu.",
+          "de": "Ich fühle mit dir; mein erster Job war auch schwer.",
+          "fr": "Je compatis ; mon premier travail était dur aussi.",
+          "it": "Ti capisco, anche il mio primo lavoro è stato duro.",
+          "es": "Te comprendo; mi primer trabajo también fue duro."
+        },
+        {
+          "en": "Many people [sympathized] with the striking workers.",
+          "tr": "Pek çok insan grevdeki işçileri destekledi.",
+          "de": "Viele Menschen sympathisierten mit den streikenden Arbeitern.",
+          "fr": "Beaucoup de gens soutenaient les ouvriers en grève.",
+          "it": "Molte persone solidarizzavano con gli operai in sciopero.",
+          "es": "Mucha gente simpatizaba con los trabajadores en huelga."
+        }
+      ]
+    },
+    {
+      "id": "empathy",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "em-gr-",
+        "path",
+        "-y"
+      ],
+      "gloss": {
+        "en": "the ability to understand and share another person's feelings (literally: feeling in)",
+        "tr": "empati, eşduyum",
+        "de": "die Empathie, das Einfühlungsvermögen",
+        "fr": "l'empathie",
+        "it": "l'empatia",
+        "es": "la empatía"
+      },
+      "sentences": [
+        {
+          "en": "Good doctors listen with [empathy].",
+          "tr": "İyi doktorlar empatiyle dinler.",
+          "de": "Gute Ärzte hören mit Empathie zu.",
+          "fr": "Les bons médecins écoutent avec empathie.",
+          "it": "I buoni medici ascoltano con empatia.",
+          "es": "Los buenos médicos escuchan con empatía."
+        },
+        {
+          "en": "Reading novels can help children develop [empathy].",
+          "tr": "Roman okumak çocukların empati geliştirmesine yardım edebilir.",
+          "de": "Romane lesen kann Kindern helfen, Empathie zu entwickeln.",
+          "fr": "Lire des romans peut aider les enfants à développer leur empathie.",
+          "it": "Leggere romanzi può aiutare i bambini a sviluppare empatia.",
+          "es": "Leer novelas puede ayudar a los niños a desarrollar empatía."
+        }
+      ]
+    },
+    {
+      "id": "empathetic",
+      "pos": "adjective",
+      "parent": "empathy",
+      "parts": [
+        "em-gr-",
+        "path",
+        "-etic"
+      ],
+      "gloss": {
+        "en": "able to understand how others feel",
+        "tr": "empatik, empati kuran",
+        "de": "einfühlsam, empathisch",
+        "fr": "empathique",
+        "it": "empatico",
+        "es": "empático"
+      },
+      "sentences": [
+        {
+          "en": "She is an [empathetic] friend who always listens.",
+          "tr": "Her zaman dinleyen, empati kuran bir arkadaştır.",
+          "de": "Sie ist eine einfühlsame Freundin, die immer zuhört.",
+          "fr": "C'est une amie empathique qui écoute toujours.",
+          "it": "È un'amica empatica che ascolta sempre.",
+          "es": "Es una amiga empática que siempre escucha."
+        },
+        {
+          "en": "Nurses need to be patient and [empathetic].",
+          "tr": "Hemşirelerin sabırlı ve empatik olması gerekir.",
+          "de": "Pflegekräfte müssen geduldig und einfühlsam sein.",
+          "fr": "Les infirmiers doivent être patients et empathiques.",
+          "it": "Gli infermieri devono essere pazienti ed empatici.",
+          "es": "Los enfermeros tienen que ser pacientes y empáticos."
+        }
+      ]
+    },
+    {
+      "id": "empathize",
+      "pos": "verb",
+      "parent": "empathy",
+      "parts": [
+        "em-gr-",
+        "path",
+        "-ize"
+      ],
+      "gloss": {
+        "en": "to understand someone's feelings as if they were your own",
+        "tr": "empati kurmak",
+        "de": "sich einfühlen",
+        "fr": "se mettre à la place de",
+        "it": "immedesimarsi",
+        "es": "empatizar"
+      },
+      "sentences": [
+        {
+          "en": "It's easier to [empathize] when you've had the same problem.",
+          "tr": "Aynı sorunu yaşadıysan empati kurmak daha kolaydır.",
+          "de": "Man kann sich leichter einfühlen, wenn man dasselbe Problem hatte.",
+          "fr": "On se met plus facilement à la place de l'autre quand on a vécu la même chose.",
+          "it": "È più facile immedesimarsi quando si è avuto lo stesso problema.",
+          "es": "Es más fácil empatizar cuando has tenido el mismo problema."
+        },
+        {
+          "en": "Readers [empathize] with the lonely hero.",
+          "tr": "Okurlar yalnız kahramanla empati kurar.",
+          "de": "Die Leser fühlen sich in den einsamen Helden ein.",
+          "fr": "Les lecteurs se mettent à la place du héros solitaire.",
+          "it": "I lettori si immedesimano nell'eroe solitario.",
+          "es": "Los lectores empatizan con el héroe solitario."
+        }
+      ]
+    },
+    {
+      "id": "apathy",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "a-not-",
+        "path",
+        "-y"
+      ],
+      "gloss": {
+        "en": "a lack of interest or feeling (literally: without feeling)",
+        "tr": "ilgisizlik, kayıtsızlık",
+        "de": "die Gleichgültigkeit, die Apathie",
+        "fr": "l'apathie, l'indifférence",
+        "it": "l'apatia, l'indifferenza",
+        "es": "la apatía"
+      },
+      "sentences": [
+        {
+          "en": "Voter [apathy] led to a very low turnout.",
+          "tr": "Seçmen ilgisizliği çok düşük bir katılıma yol açtı.",
+          "de": "Die Gleichgültigkeit der Wähler führte zu einer sehr niedrigen Wahlbeteiligung.",
+          "fr": "L'apathie des électeurs a entraîné une très faible participation.",
+          "it": "L'apatia degli elettori ha portato a un'affluenza molto bassa.",
+          "es": "La apatía de los votantes provocó una participación muy baja."
+        },
+        {
+          "en": "After weeks of rain, a kind of [apathy] set in.",
+          "tr": "Haftalarca süren yağmurdan sonra bir tür kayıtsızlık başladı.",
+          "de": "Nach wochenlangem Regen machte sich eine Art Apathie breit.",
+          "fr": "Après des semaines de pluie, une sorte d'apathie s'est installée.",
+          "it": "Dopo settimane di pioggia è subentrata una specie di apatia.",
+          "es": "Tras semanas de lluvia, se instaló una especie de apatía."
+        }
+      ]
+    },
+    {
+      "id": "apathetic",
+      "pos": "adjective",
+      "parent": "apathy",
+      "parts": [
+        "a-not-",
+        "path",
+        "-etic"
+      ],
+      "gloss": {
+        "en": "showing no interest or energy",
+        "tr": "ilgisiz, kayıtsız",
+        "de": "gleichgültig, teilnahmslos",
+        "fr": "apathique, indifférent",
+        "it": "apatico, indifferente",
+        "es": "apático"
+      },
+      "sentences": [
+        {
+          "en": "Young people are not as [apathetic] as people think.",
+          "tr": "Gençler sanıldığı kadar ilgisiz değil.",
+          "de": "Junge Leute sind nicht so gleichgültig, wie man denkt.",
+          "fr": "Les jeunes ne sont pas aussi apathiques qu'on le croit.",
+          "it": "I giovani non sono così apatici come si pensa.",
+          "es": "Los jóvenes no son tan apáticos como se cree."
+        },
+        {
+          "en": "The [apathetic] students barely looked up from their phones.",
+          "tr": "İlgisiz öğrenciler telefonlarından başlarını zar zor kaldırdı.",
+          "de": "Die teilnahmslosen Schüler sahen kaum von ihren Handys auf.",
+          "fr": "Les élèves apathiques levaient à peine les yeux de leur téléphone.",
+          "it": "Gli studenti apatici alzavano appena gli occhi dal telefono.",
+          "es": "Los alumnos apáticos apenas levantaban la vista del móvil."
+        }
+      ]
+    },
+    {
+      "id": "pathetic",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "path",
+        "-etic"
+      ],
+      "gloss": {
+        "en": "so weak or bad that it makes you feel pity or annoyance (at first: stirring the feelings)",
+        "tr": "acınası, zavallı",
+        "de": "erbärmlich, kläglich",
+        "fr": "pitoyable, lamentable",
+        "it": "patetico, penoso",
+        "es": "patético, lamentable"
+      },
+      "sentences": [
+        {
+          "en": "What a [pathetic] excuse for being late!",
+          "tr": "Geç kalmak için ne acınası bir bahane!",
+          "de": "Was für eine erbärmliche Ausrede fürs Zuspätkommen!",
+          "fr": "Quelle excuse pitoyable pour ton retard !",
+          "it": "Che scusa penosa per il ritardo!",
+          "es": "¡Qué excusa tan patética para llegar tarde!"
+        },
+        {
+          "en": "The wet kitten made a [pathetic] little cry.",
+          "tr": "Islak yavru kedi zavallı, küçük bir ses çıkardı.",
+          "de": "Das nasse Kätzchen gab ein klägliches Maunzen von sich.",
+          "fr": "Le chaton mouillé a poussé un petit cri pitoyable.",
+          "it": "Il gattino bagnato emise un piccolo verso penoso.",
+          "es": "El gatito mojado soltó un maullido lastimero."
+        }
+      ]
+    },
+    {
+      "id": "antipathy",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "anti-",
+        "path",
+        "-y"
+      ],
+      "gloss": {
+        "en": "a strong feeling of dislike (literally: feeling against)",
+        "tr": "antipati, hoşlanmama",
+        "de": "die Abneigung, die Antipathie",
+        "fr": "l'antipathie, l'aversion",
+        "it": "l'antipatia, l'avversione",
+        "es": "la antipatía, la aversión"
+      },
+      "sentences": [
+        {
+          "en": "His [antipathy] toward cats started in childhood.",
+          "tr": "Kedilere olan antipatisi çocuklukta başladı.",
+          "de": "Seine Abneigung gegen Katzen begann in der Kindheit.",
+          "fr": "Son aversion pour les chats remonte à son enfance.",
+          "it": "La sua avversione per i gatti è iniziata da bambino.",
+          "es": "Su aversión a los gatos empezó en la infancia."
+        },
+        {
+          "en": "There was open [antipathy] between the two neighbors.",
+          "tr": "İki komşu arasında açık bir antipati vardı.",
+          "de": "Zwischen den beiden Nachbarn herrschte offene Abneigung.",
+          "fr": "Il y avait une antipathie ouverte entre les deux voisins.",
+          "it": "Tra i due vicini c'era un'aperta antipatia.",
+          "es": "Había una antipatía abierta entre los dos vecinos."
+        }
+      ]
+    },
+    {
+      "id": "telepathy",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "tele-",
+        "path",
+        "-y"
+      ],
+      "gloss": {
+        "en": "sending thoughts straight from one mind to another (literally: feeling from far away)",
+        "tr": "telepati",
+        "de": "die Telepathie",
+        "fr": "la télépathie",
+        "it": "la telepatia",
+        "es": "la telepatía"
+      },
+      "sentences": [
+        {
+          "en": "The twins joke that they talk by [telepathy].",
+          "tr": "İkizler telepatiyle konuştuklarını söyleyip şakalaşır.",
+          "de": "Die Zwillinge scherzen, dass sie per Telepathie reden.",
+          "fr": "Les jumeaux plaisantent en disant qu'ils se parlent par télépathie.",
+          "it": "I gemelli scherzano dicendo che parlano per telepatia.",
+          "es": "Los gemelos bromean con que hablan por telepatía."
+        },
+        {
+          "en": "Scientists have found no proof of [telepathy].",
+          "tr": "Bilim insanları telepatiye dair hiçbir kanıt bulamadı.",
+          "de": "Wissenschaftler haben keinen Beweis für Telepathie gefunden.",
+          "fr": "Les scientifiques n'ont trouvé aucune preuve de la télépathie.",
+          "it": "Gli scienziati non hanno trovato prove della telepatia.",
+          "es": "Los científicos no han encontrado pruebas de la telepatía."
+        }
+      ]
+    },
+    {
+      "id": "telepathic",
+      "pos": "adjective",
+      "parent": "telepathy",
+      "parts": [
+        "tele-",
+        "path",
+        "-ic"
+      ],
+      "gloss": {
+        "en": "able to know what others think without words",
+        "tr": "telepatik",
+        "de": "telepathisch",
+        "fr": "télépathe",
+        "it": "telepatico",
+        "es": "telepático"
+      },
+      "sentences": [
+        {
+          "en": "You knew I wanted pizza? You must be [telepathic]!",
+          "tr": "Pizza istediğimi biliyor muydun? Telepatik olmalısın!",
+          "de": "Du wusstest, dass ich Pizza wollte? Du musst telepathisch sein!",
+          "fr": "Tu savais que je voulais une pizza ? Tu dois être télépathe !",
+          "it": "Sapevi che volevo la pizza? Devi essere telepatico!",
+          "es": "¿Sabías que quería pizza? ¡Debes de ser telepático!"
+        },
+        {
+          "en": "In the film, the girl has [telepathic] powers.",
+          "tr": "Filmde kızın telepatik güçleri var.",
+          "de": "Im Film hat das Mädchen telepathische Kräfte.",
+          "fr": "Dans le film, la fille a des pouvoirs télépathiques.",
+          "it": "Nel film la ragazza ha poteri telepatici.",
+          "es": "En la película, la chica tiene poderes telepáticos."
+        }
+      ]
+    },
+    {
+      "id": "psychopath",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "psycho-",
+        "path"
+      ],
+      "gloss": {
+        "en": "a person with a serious mental disorder who feels no guilt and no empathy (literally: sick in the mind)",
+        "tr": "psikopat",
+        "de": "der Psychopath",
+        "fr": "le psychopathe",
+        "it": "lo psicopatico",
+        "es": "el psicópata"
+      },
+      "sentences": [
+        {
+          "en": "The killer in the novel is a cold [psychopath].",
+          "tr": "Romandaki katil soğukkanlı bir psikopat.",
+          "de": "Der Mörder im Roman ist ein kalter Psychopath.",
+          "fr": "Le tueur du roman est un psychopathe froid.",
+          "it": "L'assassino del romanzo è uno psicopatico freddo.",
+          "es": "El asesino de la novela es un psicópata frío."
+        },
+        {
+          "en": "Experts say a [psychopath] can seem very charming.",
+          "tr": "Uzmanlar bir psikopatın çok çekici görünebileceğini söylüyor.",
+          "de": "Experten sagen, ein Psychopath kann sehr charmant wirken.",
+          "fr": "Selon les experts, un psychopathe peut sembler très charmant.",
+          "it": "Gli esperti dicono che uno psicopatico può sembrare molto affascinante.",
+          "es": "Los expertos dicen que un psicópata puede parecer muy encantador."
+        }
+      ]
+    },
+    {
+      "id": "psychopathic",
+      "pos": "adjective",
+      "parent": "psychopath",
+      "parts": [
+        "psycho-",
+        "path",
+        "-ic"
+      ],
+      "gloss": {
+        "en": "having or showing the features of a psychopath",
+        "tr": "psikopatça, psikopatik",
+        "de": "psychopathisch",
+        "fr": "psychopathique",
+        "it": "psicopatico",
+        "es": "psicopático"
+      },
+      "sentences": [
+        {
+          "en": "The villain shows [psychopathic] behavior from the first scene.",
+          "tr": "Kötü karakter ilk sahneden itibaren psikopatça davranıyor.",
+          "de": "Der Bösewicht zeigt ab der ersten Szene psychopathisches Verhalten.",
+          "fr": "Le méchant a un comportement psychopathique dès la première scène.",
+          "it": "Il cattivo mostra un comportamento psicopatico fin dalla prima scena.",
+          "es": "El villano muestra una conducta psicopática desde la primera escena."
+        },
+        {
+          "en": "Lying without guilt can be a [psychopathic] trait.",
+          "tr": "Suçluluk duymadan yalan söylemek psikopatik bir özellik olabilir.",
+          "de": "Ohne Schuldgefühl zu lügen kann ein psychopathischer Zug sein.",
+          "fr": "Mentir sans culpabilité peut être un trait psychopathique.",
+          "it": "Mentire senza sensi di colpa può essere un tratto psicopatico.",
+          "es": "Mentir sin culpa puede ser un rasgo psicopático."
+        }
+      ]
+    },
+    {
+      "id": "pathology",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "path",
+        "-ology"
+      ],
+      "gloss": {
+        "en": "the study of diseases and their causes (literally: the study of suffering)",
+        "tr": "patoloji",
+        "de": "die Pathologie",
+        "fr": "la pathologie",
+        "it": "la patologia",
+        "es": "la patología"
+      },
+      "sentences": [
+        {
+          "en": "The [pathology] lab tested the blood samples.",
+          "tr": "Patoloji laboratuvarı kan örneklerini inceledi.",
+          "de": "Das Pathologielabor untersuchte die Blutproben.",
+          "fr": "Le laboratoire de pathologie a analysé les échantillons de sang.",
+          "it": "Il laboratorio di patologia ha analizzato i campioni di sangue.",
+          "es": "El laboratorio de patología analizó las muestras de sangre."
+        },
+        {
+          "en": "She chose [pathology] because she likes solving medical puzzles.",
+          "tr": "Tıbbi bulmacaları çözmeyi sevdiği için patolojiyi seçti.",
+          "de": "Sie wählte Pathologie, weil sie gern medizinische Rätsel löst.",
+          "fr": "Elle a choisi la pathologie parce qu'elle aime résoudre des énigmes médicales.",
+          "it": "Ha scelto patologia perché le piace risolvere enigmi medici.",
+          "es": "Eligió patología porque le gusta resolver enigmas médicos."
+        }
+      ]
+    },
+    {
+      "id": "pathological",
+      "pos": "adjective",
+      "parent": "pathology",
+      "parts": [
+        "path",
+        "-ological"
+      ],
+      "gloss": {
+        "en": "caused by disease; (of a habit) extreme and impossible to control",
+        "tr": "patolojik; hastalık derecesinde",
+        "de": "pathologisch; krankhaft",
+        "fr": "pathologique; maladif",
+        "it": "patologico",
+        "es": "patológico"
+      },
+      "sentences": [
+        {
+          "en": "He is a [pathological] liar; don't believe him.",
+          "tr": "Hastalık derecesinde yalancı, ona inanma.",
+          "de": "Er ist ein krankhafter Lügner; glaub ihm nicht.",
+          "fr": "C'est un menteur pathologique ; ne le crois pas.",
+          "it": "È un bugiardo patologico, non credergli.",
+          "es": "Es un mentiroso patológico; no le creas."
+        },
+        {
+          "en": "The doctors found no [pathological] changes in the tissue.",
+          "tr": "Doktorlar dokuda patolojik bir değişiklik bulmadı.",
+          "de": "Die Ärzte fanden keine pathologischen Veränderungen im Gewebe.",
+          "fr": "Les médecins n'ont trouvé aucune modification pathologique du tissu.",
+          "it": "I medici non hanno trovato alterazioni patologiche nel tessuto.",
+          "es": "Los médicos no encontraron cambios patológicos en el tejido."
+        }
+      ]
+    },
+    {
+      "id": "homeopathy",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "homeo-",
+        "path",
+        "-y"
+      ],
+      "gloss": {
+        "en": "an alternative medicine that uses tiny amounts of substances (literally: similar suffering)",
+        "tr": "homeopati",
+        "de": "die Homöopathie",
+        "fr": "l'homéopathie",
+        "it": "l'omeopatia",
+        "es": "la homeopatía"
+      },
+      "sentences": [
+        {
+          "en": "Most scientists say [homeopathy] works no better than water.",
+          "tr": "Çoğu bilim insanı homeopatinin sudan daha etkili olmadığını söyler.",
+          "de": "Die meisten Wissenschaftler sagen, Homöopathie wirkt nicht besser als Wasser.",
+          "fr": "La plupart des scientifiques disent que l'homéopathie n'agit pas mieux que l'eau.",
+          "it": "La maggior parte degli scienziati dice che l'omeopatia non funziona meglio dell'acqua.",
+          "es": "La mayoría de los científicos dice que la homeopatía no funciona mejor que el agua."
+        },
+        {
+          "en": "My aunt treats her colds with [homeopathy].",
+          "tr": "Teyzem soğuk algınlıklarını homeopatiyle tedavi ediyor.",
+          "de": "Meine Tante behandelt ihre Erkältungen mit Homöopathie.",
+          "fr": "Ma tante soigne ses rhumes par l'homéopathie.",
+          "it": "Mia zia cura i raffreddori con l'omeopatia.",
+          "es": "Mi tía trata sus resfriados con homeopatía."
+        }
+      ]
+    }
+  ]
+}

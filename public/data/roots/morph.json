@@ -1,0 +1,337 @@
+{
+  "id": "morph",
+  "forms": [
+    "morph"
+  ],
+  "origin": "gr",
+  "etymon": "morphē",
+  "meaning": {
+    "en": "form, shape",
+    "tr": "biçim, şekil",
+    "de": "die Form, die Gestalt",
+    "fr": "la forme",
+    "it": "la forma",
+    "es": "la forma"
+  },
+  "words": [
+    {
+      "id": "morph",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "morph"
+      ],
+      "gloss": {
+        "en": "to change smoothly from one form into another",
+        "tr": "biçim değiştirmek, dönüşmek",
+        "de": "sich verwandeln",
+        "fr": "se transformer",
+        "it": "trasformarsi",
+        "es": "transformarse"
+      },
+      "sentences": [
+        {
+          "en": "In the video, the cat's face [morphs] into a lion's.",
+          "tr": "Videoda kedinin yüzü bir aslan yüzüne dönüşüyor.",
+          "de": "Im Video verwandelt sich das Katzengesicht in ein Löwengesicht.",
+          "fr": "Dans la vidéo, la tête du chat se transforme en tête de lion.",
+          "it": "Nel video il muso del gatto si trasforma in quello di un leone.",
+          "es": "En el vídeo, la cara del gato se transforma en la de un león."
+        },
+        {
+          "en": "The small café [morphed] into a busy restaurant.",
+          "tr": "Küçük kafe kalabalık bir restorana dönüştü.",
+          "de": "Das kleine Café hat sich in ein volles Restaurant verwandelt.",
+          "fr": "Le petit café s'est transformé en restaurant très fréquenté.",
+          "it": "Il piccolo caffè si è trasformato in un ristorante affollato.",
+          "es": "La pequeña cafetería se transformó en un restaurante concurrido."
+        }
+      ]
+    },
+    {
+      "id": "metamorphosis",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "meta-",
+        "morph",
+        "-osis"
+      ],
+      "gloss": {
+        "en": "a complete change of form, like a caterpillar becoming a butterfly (literally: change of shape)",
+        "tr": "başkalaşım, metamorfoz",
+        "de": "die Metamorphose, die Verwandlung",
+        "fr": "la métamorphose",
+        "it": "la metamorfosi",
+        "es": "la metamorfosis"
+      },
+      "sentences": [
+        {
+          "en": "A tadpole becomes a frog through [metamorphosis].",
+          "tr": "İribaş başkalaşım geçirerek kurbağaya dönüşür.",
+          "de": "Eine Kaulquappe wird durch Metamorphose zum Frosch.",
+          "fr": "Un têtard devient une grenouille par métamorphose.",
+          "it": "Un girino diventa una rana attraverso la metamorfosi.",
+          "es": "Un renacuajo se convierte en rana mediante la metamorfosis."
+        },
+        {
+          "en": "The old factory went through a total [metamorphosis].",
+          "tr": "Eski fabrika baştan sona bir dönüşüm geçirdi.",
+          "de": "Die alte Fabrik hat eine völlige Verwandlung durchgemacht.",
+          "fr": "La vieille usine a connu une véritable métamorphose.",
+          "it": "La vecchia fabbrica ha subito una completa metamorfosi.",
+          "es": "La vieja fábrica sufrió una metamorfosis total."
+        }
+      ]
+    },
+    {
+      "id": "metamorphic",
+      "pos": "adjective",
+      "parent": "metamorphosis",
+      "parts": [
+        "meta-",
+        "morph",
+        "-ic"
+      ],
+      "gloss": {
+        "en": "(of rock) changed by heat and pressure deep in the earth",
+        "tr": "metamorfik, başkalaşım (kayacı)",
+        "de": "metamorph (Gestein)",
+        "fr": "métamorphique",
+        "it": "metamorfico",
+        "es": "metamórfico"
+      },
+      "sentences": [
+        {
+          "en": "Marble is a [metamorphic] rock made from limestone.",
+          "tr": "Mermer, kireçtaşından oluşan metamorfik bir kayaçtır.",
+          "de": "Marmor ist ein metamorphes Gestein aus Kalkstein.",
+          "fr": "Le marbre est une roche métamorphique issue du calcaire.",
+          "it": "Il marmo è una roccia metamorfica che deriva dal calcare.",
+          "es": "El mármol es una roca metamórfica que proviene de la caliza."
+        },
+        {
+          "en": "We studied [metamorphic] rocks on our geology trip.",
+          "tr": "Jeoloji gezimizde metamorfik kayaçları inceledik.",
+          "de": "Auf unserer Geologie-Exkursion untersuchten wir metamorphe Gesteine.",
+          "fr": "Pendant notre sortie de géologie, nous avons étudié des roches métamorphiques.",
+          "it": "Durante l'uscita di geologia abbiamo studiato rocce metamorfiche.",
+          "es": "En la excursión de geología estudiamos rocas metamórficas."
+        }
+      ]
+    },
+    {
+      "id": "amorphous",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "a-not-",
+        "morph",
+        "-ous"
+      ],
+      "gloss": {
+        "en": "having no clear shape or structure (literally: without form)",
+        "tr": "biçimsiz, şekilsiz",
+        "de": "formlos, amorph",
+        "fr": "informe, amorphe",
+        "it": "amorfo, informe",
+        "es": "amorfo"
+      },
+      "sentences": [
+        {
+          "en": "A grey, [amorphous] cloud covered the mountain.",
+          "tr": "Gri, biçimsiz bir bulut dağı kapladı.",
+          "de": "Eine graue, formlose Wolke bedeckte den Berg.",
+          "fr": "Un nuage gris et informe couvrait la montagne.",
+          "it": "Una nuvola grigia e informe copriva la montagna.",
+          "es": "Una nube gris y amorfa cubría la montaña."
+        },
+        {
+          "en": "The plan is still [amorphous]; we need clear steps.",
+          "tr": "Plan hâlâ şekilsiz; net adımlara ihtiyacımız var.",
+          "de": "Der Plan ist noch formlos; wir brauchen klare Schritte.",
+          "fr": "Le projet est encore informe ; il nous faut des étapes claires.",
+          "it": "Il piano è ancora informe: servono passi chiari.",
+          "es": "El plan todavía es amorfo; necesitamos pasos claros."
+        }
+      ]
+    },
+    {
+      "id": "morphology",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "morph",
+        "-ology"
+      ],
+      "gloss": {
+        "en": "the study of the form of things: of living things in biology, of words in linguistics",
+        "tr": "morfoloji, biçim bilgisi",
+        "de": "die Morphologie, die Formenlehre",
+        "fr": "la morphologie",
+        "it": "la morfologia",
+        "es": "la morfología"
+      },
+      "sentences": [
+        {
+          "en": "In [morphology] we split words into prefixes, roots and suffixes.",
+          "tr": "Biçim bilgisinde kelimeleri ön ek, kök ve son eklere ayırırız.",
+          "de": "In der Morphologie zerlegen wir Wörter in Präfixe, Stämme und Suffixe.",
+          "fr": "En morphologie, on découpe les mots en préfixes, racines et suffixes.",
+          "it": "In morfologia dividiamo le parole in prefissi, radici e suffissi.",
+          "es": "En morfología dividimos las palabras en prefijos, raíces y sufijos."
+        },
+        {
+          "en": "The biologist compared the [morphology] of two kinds of leaves.",
+          "tr": "Biyolog iki yaprak türünün morfolojisini karşılaştırdı.",
+          "de": "Die Biologin verglich die Morphologie zweier Blattarten.",
+          "fr": "La biologiste a comparé la morphologie de deux types de feuilles.",
+          "it": "La biologa ha confrontato la morfologia di due tipi di foglie.",
+          "es": "La bióloga comparó la morfología de dos tipos de hojas."
+        }
+      ]
+    },
+    {
+      "id": "morphological",
+      "pos": "adjective",
+      "parent": "morphology",
+      "parts": [
+        "morph",
+        "-ological"
+      ],
+      "gloss": {
+        "en": "related to the form or structure of words or living things",
+        "tr": "morfolojik, biçimsel",
+        "de": "morphologisch",
+        "fr": "morphologique",
+        "it": "morfologico",
+        "es": "morfológico"
+      },
+      "sentences": [
+        {
+          "en": "Turkish has a rich [morphological] system with many suffixes.",
+          "tr": "Türkçenin pek çok son ek içeren zengin bir biçim yapısı vardır.",
+          "de": "Das Türkische hat ein reiches morphologisches System mit vielen Suffixen.",
+          "fr": "Le turc a un système morphologique riche, avec beaucoup de suffixes.",
+          "it": "Il turco ha un sistema morfologico ricco, con molti suffissi.",
+          "es": "El turco tiene un sistema morfológico rico, con muchos sufijos."
+        },
+        {
+          "en": "The two fossils show clear [morphological] differences.",
+          "tr": "İki fosil belirgin morfolojik farklar gösteriyor.",
+          "de": "Die beiden Fossilien zeigen deutliche morphologische Unterschiede.",
+          "fr": "Les deux fossiles présentent de nettes différences morphologiques.",
+          "it": "I due fossili mostrano chiare differenze morfologiche.",
+          "es": "Los dos fósiles muestran claras diferencias morfológicas."
+        }
+      ]
+    },
+    {
+      "id": "morpheme",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "morph",
+        "-eme"
+      ],
+      "gloss": {
+        "en": "the smallest part of a word that has a meaning, like re-, spect or -ion",
+        "tr": "biçimbirim, morfem",
+        "de": "das Morphem",
+        "fr": "le morphème",
+        "it": "il morfema",
+        "es": "el morfema"
+      },
+      "sentences": [
+        {
+          "en": "The word \"unhappy\" has two [morphemes]: un- and happy.",
+          "tr": "\"Unhappy\" kelimesinin iki biçimbirimi vardır: un- ve happy.",
+          "de": "Das Wort „unhappy“ hat zwei Morpheme: un- und happy.",
+          "fr": "Le mot « unhappy » a deux morphèmes : un- et happy.",
+          "it": "La parola \"unhappy\" ha due morfemi: un- e happy.",
+          "es": "La palabra «unhappy» tiene dos morfemas: un- y happy."
+        },
+        {
+          "en": "Every colored block in this app is a [morpheme].",
+          "tr": "Bu uygulamadaki her renkli parça bir biçimbirimdir.",
+          "de": "Jeder farbige Baustein in dieser App ist ein Morphem.",
+          "fr": "Chaque bloc coloré de cette appli est un morphème.",
+          "it": "Ogni blocco colorato di quest'app è un morfema.",
+          "es": "Cada bloque de color de esta aplicación es un morfema."
+        }
+      ]
+    },
+    {
+      "id": "anthropomorphic",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "anthropo-",
+        "morph",
+        "-ic"
+      ],
+      "gloss": {
+        "en": "giving human form or feelings to animals, gods or objects (literally: human-shaped)",
+        "tr": "insan biçimli, antropomorfik",
+        "de": "vermenschlicht, anthropomorph",
+        "fr": "anthropomorphe",
+        "it": "antropomorfo",
+        "es": "antropomórfico"
+      },
+      "sentences": [
+        {
+          "en": "Cartoons are full of [anthropomorphic] animals that talk.",
+          "tr": "Çizgi filmler konuşan, insan gibi hayvanlarla doludur.",
+          "de": "Zeichentrickfilme sind voller vermenschlichter Tiere, die sprechen.",
+          "fr": "Les dessins animés sont pleins d'animaux anthropomorphes qui parlent.",
+          "it": "I cartoni animati sono pieni di animali antropomorfi che parlano.",
+          "es": "Los dibujos animados están llenos de animales antropomórficos que hablan."
+        },
+        {
+          "en": "Ancient Greeks imagined [anthropomorphic] gods who argued like people.",
+          "tr": "Eski Yunanlılar insanlar gibi tartışan, insan biçimli tanrılar hayal etti.",
+          "de": "Die alten Griechen stellten sich menschengestaltige Götter vor, die wie Menschen stritten.",
+          "fr": "Les Grecs anciens imaginaient des dieux anthropomorphes qui se disputaient comme des humains.",
+          "it": "Gli antichi greci immaginavano dèi antropomorfi che litigavano come le persone.",
+          "es": "Los antiguos griegos imaginaban dioses antropomórficos que discutían como personas."
+        }
+      ]
+    },
+    {
+      "id": "anthropomorphism",
+      "pos": "noun",
+      "parent": "anthropomorphic",
+      "parts": [
+        "anthropo-",
+        "morph",
+        "-ism"
+      ],
+      "gloss": {
+        "en": "treating animals or things as if they were human",
+        "tr": "insan biçimcilik, antropomorfizm",
+        "de": "der Anthropomorphismus, die Vermenschlichung",
+        "fr": "l'anthropomorphisme",
+        "it": "l'antropomorfismo",
+        "es": "el antropomorfismo"
+      },
+      "sentences": [
+        {
+          "en": "Saying your car is 'tired' is [anthropomorphism].",
+          "tr": "Arabanın 'yorgun' olduğunu söylemek insan biçimciliktir.",
+          "de": "Zu sagen, dein Auto sei „müde“, ist Anthropomorphismus.",
+          "fr": "Dire que ta voiture est « fatiguée », c'est de l'anthropomorphisme.",
+          "it": "Dire che la tua auto è \"stanca\" è antropomorfismo.",
+          "es": "Decir que tu coche está «cansado» es antropomorfismo."
+        },
+        {
+          "en": "Scientists try to avoid [anthropomorphism] when describing animals.",
+          "tr": "Bilim insanları hayvanları anlatırken insan biçimcilikten kaçınmaya çalışır.",
+          "de": "Wissenschaftler versuchen, Tiere ohne Vermenschlichung zu beschreiben.",
+          "fr": "Les scientifiques évitent l'anthropomorphisme quand ils décrivent les animaux.",
+          "it": "Gli scienziati cercano di evitare l'antropomorfismo quando descrivono gli animali.",
+          "es": "Los científicos intentan evitar el antropomorfismo al describir a los animales."
+        }
+      ]
+    }
+  ]
+}
