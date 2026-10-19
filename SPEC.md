@@ -82,3 +82,5 @@ src/styles/    tokens.css (renkler, yazı tipleri, ölçüler) + app.css (yalnı
 - **D4 Eklerle gezinme (kullanıcı isteği, 2026-10-18):** köklerin yanında ön ek ve son eklerden de
   gezinme: bir eke (ör. `re-`, `-tion`) tıklayınca o eki taşıyan bütün kelimeler, kökleriyle birlikte.
   Veri hazır (her kelimenin parçaları ek kimliklerine bağlı); D2 bitince ayrıntıları konuşulacak.
+  Ek (2026-10-19): kök / ön ek / son ek üç gezinme modu olur; karşılama ekranı ilk açılışta hangisiyle
+  başlanacağını sorar, sonra Ayarlar'dan değiştirilir. Açık sorular `docs/notes.md`'de.
