@@ -29,9 +29,10 @@ Bağlayıcı kararlar burada değil `SPEC.md`'dedir; buradaki bir not karar olun
 - grow-loop.md repo yolunu `~/Desktop/projects/specroots` olarak veriyor; bulut oturumunda yol farklı.
 
 ### Veri
-- İki köke birden ait birleşik kelimeler iki kez sayılıyor: `biography`, `autobiography`
-  (graph ve bio). Toplam kelime sayısı (932) bu ikisini iki kez içeriyor. Arama iki sonuç gösterir;
-  bu doğru davranış sayılabilir, ama sayım notu README'ye geçerken düzeltilmeli.
+- İki köke birden ait birleşik kelimeler iki kez sayılıyor: `biography`, `autobiography` (graph ve
+  bio), `photograph`, `photography`, `photographer` (graph ve photo). `npm run data` 954 kayıt sayıyor,
+  ayrı kelime sayısı 949; README 949 yazıyor. Arama bu kelimeler için iki sonuç gösterir (iki köke de
+  gidebilmek için doğru davranış). Cümleleri iki kökte farklı tutuldu.
 - Bu tur (metr, path, morph) bilerek dışarıda bırakılanlar: *metropolis* (meter = anne),
   *dimension*, *immense* (Latince metiri), *path* = yol (Germen), *patient*, *passion* (Latince pati),
   *morphine* (Morpheus'tan; köke bağı dolaylı), teknik terimler (*polymorphism*, *isometric*).
@@ -39,8 +40,16 @@ Bağlayıcı kararlar burada değil `SPEC.md`'dedir; buradaki bir not karar olun
 - `-ometer` son eki (chronometer) ile metr kökündeki `meter` biçimi aynı parçayı iki farklı yoldan
   gösteriyor. chron kökünde `chron · -ometer`, metr kökünde `thermo- · meter`. İkisi de doğru
   hecelenir; ileride tek yola indirilebilir.
-- Az kelimeli kökler (20'nin altında): aud 9, mand 9, morph 9, bio 10, chron 10, cred 11, loc 12,
-  flect 13, pel 14, rupt 15, junct 15, voc 15, cid 15, phon 15, spir 17, path 18.
+- Az kelimeli kökler (20'nin altında): aud 9, mand 9, morph 9, bio 10, chron 10, cred 11, photo 11,
+  scop 11, loc 12, flect 13, pel 14, rupt 15, junct 15, voc 15, cid 15, phon 15, spir 17, path 18.
+- photo/scop turu bilerek dışarıda bırakılanlar: *photocopier* (parçalanışı zorlama), *photovoltaic*,
+  *photobomb* (yeni argo), *bishop/episcopal* (episkopos'tan ama yazımda kök görünmüyor), *skeptic*
+  (yakın ama ayrı kök skep-), *oscilloscope* (teknik).
+
+### Aşama durumu
+- D2 bitti (2026-10-19): 50 kök, 949 kelime. README (3 dil) ve SPEC güncellendi.
+- Karar bekleyen: D1 (veri hattı) kaldırılsın mı, sonraya mı kalsın? Sonraki aşama D3 (PWA) mı
+  D4 (eklerle gezinme) mi?
 
 ### D4: eklerle gezinme (kullanıcı isteği, 2026-10-19)
 - İstek: kök / ön ek / son ek üç gezinme modu; karşılama ekranı ilk açılışta hangisiyle başlanacağını

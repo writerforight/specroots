@@ -26,6 +26,15 @@ Bir kökü öğrenen onlarca kelimeyi okuyabilir. *spec / spect* "bakmak" demek,
 - **Telaffuz** tarayıcının kendi sesleriyle, kök ya da kelimeyle **arama**
 - **Altı dilde arayüz**, açık ve koyu tema, telefonda ve bilgisayarda çalışır
 
+## Şu ana kadarki kökler
+
+50 kök ve 949 kelime, her biri iki örnek cümleyle.
+
+- **Latince (40):** `aud` · `cap` · `ced` · `cid` · `clud` · `cred` · `cur` · `dict` · `duc` · `fac` · `fer` · `flect` · `form` · `grad` · `ject` · `junct` · `loc` · `mand` · `mit` · `mov` · `pel` · `pend` · `plic` · `pos` · `port` · `press` · `rupt` · `scrib` · `sent` · `sist` · `spec` · `spir` · `struct` · `ten` · `tend` · `tract` · `ven` · `vert` · `vid` · `voc`
+- **Yunanca (10):** `bio` · `chron` · `graph` · `log` · `metr` · `morph` · `path` · `phon` · `photo` · `scop`
+
+Sıradaki adımlar ([SPEC.md](SPEC.md)): ön ek ve son eklerle gezinme, internetsiz kullanım.
+
 ## Katkı
 
 Eksik bir kök ya da yanlış bir çeviri mi var? [Kök öner](https://github.com/writerforight/specroots/issues/new?template=new-root.yml) ya

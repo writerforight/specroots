@@ -1,0 +1,404 @@
+{
+  "id": "photo",
+  "forms": [
+    "photo",
+    "phot",
+    "phos"
+  ],
+  "origin": "gr",
+  "etymon": "phōs (phōtos)",
+  "meaning": {
+    "en": "light",
+    "tr": "ışık",
+    "de": "das Licht",
+    "fr": "la lumière",
+    "it": "la luce",
+    "es": "la luz"
+  },
+  "words": [
+    {
+      "id": "photograph",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "photo",
+        "-graph"
+      ],
+      "gloss": {
+        "en": "a picture made with a camera; to take such a picture (literally: written with light)",
+        "tr": "fotoğraf; fotoğrafını çekmek",
+        "de": "die Fotografie, das Foto; fotografieren",
+        "fr": "la photographie; photographier",
+        "it": "la fotografia; fotografare",
+        "es": "la fotografía; fotografiar"
+      },
+      "sentences": [
+        {
+          "en": "An old [photograph] of my grandparents hangs in the hall.",
+          "tr": "Koridorda büyükannemle büyükbabamın eski bir fotoğrafı asılı.",
+          "de": "Im Flur hängt eine alte Fotografie meiner Großeltern.",
+          "fr": "Une vieille photographie de mes grands-parents est accrochée dans l'entrée.",
+          "it": "Nel corridoio è appesa una vecchia fotografia dei miei nonni.",
+          "es": "En el pasillo cuelga una vieja fotografía de mis abuelos."
+        },
+        {
+          "en": "Visitors may not [photograph] the paintings.",
+          "tr": "Ziyaretçiler tabloların fotoğrafını çekemez.",
+          "de": "Besucher dürfen die Gemälde nicht fotografieren.",
+          "fr": "Les visiteurs ne peuvent pas photographier les tableaux.",
+          "it": "I visitatori non possono fotografare i quadri.",
+          "es": "Los visitantes no pueden fotografiar los cuadros."
+        }
+      ]
+    },
+    {
+      "id": "photo",
+      "pos": "noun",
+      "parent": "photograph",
+      "parts": [
+        "photo"
+      ],
+      "gloss": {
+        "en": "a photograph (short form)",
+        "tr": "fotoğraf",
+        "de": "das Foto",
+        "fr": "la photo",
+        "it": "la foto",
+        "es": "la foto"
+      },
+      "sentences": [
+        {
+          "en": "Can you take a [photo] of us?",
+          "tr": "Bizim bir fotoğrafımızı çekebilir misin?",
+          "de": "Kannst du ein Foto von uns machen?",
+          "fr": "Tu peux prendre une photo de nous ?",
+          "it": "Puoi farci una foto?",
+          "es": "¿Puedes hacernos una foto?"
+        },
+        {
+          "en": "She posted a [photo] of her new puppy.",
+          "tr": "Yeni köpek yavrusunun fotoğrafını paylaştı.",
+          "de": "Sie hat ein Foto ihres neuen Welpen gepostet.",
+          "fr": "Elle a publié une photo de son nouveau chiot.",
+          "it": "Ha pubblicato una foto del suo nuovo cucciolo.",
+          "es": "Publicó una foto de su nuevo cachorro."
+        }
+      ]
+    },
+    {
+      "id": "photography",
+      "pos": "noun",
+      "parent": "photograph",
+      "parts": [
+        "photo",
+        "-graphy"
+      ],
+      "gloss": {
+        "en": "the art or job of taking photographs",
+        "tr": "fotoğrafçılık",
+        "de": "die Fotografie",
+        "fr": "la photographie",
+        "it": "la fotografia",
+        "es": "la fotografía"
+      },
+      "sentences": [
+        {
+          "en": "Digital cameras changed [photography] forever.",
+          "tr": "Dijital fotoğraf makineleri fotoğrafçılığı sonsuza dek değiştirdi.",
+          "de": "Digitalkameras haben die Fotografie für immer verändert.",
+          "fr": "Les appareils numériques ont changé la photographie pour toujours.",
+          "it": "Le fotocamere digitali hanno cambiato per sempre la fotografia.",
+          "es": "Las cámaras digitales cambiaron la fotografía para siempre."
+        },
+        {
+          "en": "Early [photography] needed people to sit still for minutes.",
+          "tr": "İlk dönem fotoğrafçılıkta insanların dakikalarca kıpırdamadan oturması gerekirdi.",
+          "de": "In der frühen Fotografie mussten Menschen minutenlang stillsitzen.",
+          "fr": "Aux débuts de la photographie, il fallait rester immobile plusieurs minutes.",
+          "it": "Agli inizi della fotografia bisognava restare immobili per minuti.",
+          "es": "En los inicios de la fotografía había que quedarse quieto varios minutos."
+        }
+      ]
+    },
+    {
+      "id": "photographer",
+      "pos": "noun",
+      "parent": "photograph",
+      "parts": [
+        "photo",
+        "-grapher"
+      ],
+      "gloss": {
+        "en": "a person who takes photographs, often as a job",
+        "tr": "fotoğrafçı",
+        "de": "der Fotograf",
+        "fr": "le photographe",
+        "it": "il fotografo",
+        "es": "el fotógrafo"
+      },
+      "sentences": [
+        {
+          "en": "A [photographer] waited hours for the bird to land.",
+          "tr": "Bir fotoğrafçı kuşun konması için saatlerce bekledi.",
+          "de": "Eine Fotografin wartete stundenlang, bis der Vogel landete.",
+          "fr": "Une photographe a attendu des heures que l'oiseau se pose.",
+          "it": "Una fotografa ha aspettato ore che l'uccello si posasse.",
+          "es": "Una fotógrafa esperó horas a que el pájaro se posara."
+        },
+        {
+          "en": "The [photographers] crowded around the famous actor.",
+          "tr": "Fotoğrafçılar ünlü oyuncunun etrafına toplandı.",
+          "de": "Die Fotografen drängten sich um den berühmten Schauspieler.",
+          "fr": "Les photographes se pressaient autour du célèbre acteur.",
+          "it": "I fotografi si accalcavano intorno al famoso attore.",
+          "es": "Los fotógrafos se agolparon alrededor del famoso actor."
+        }
+      ]
+    },
+    {
+      "id": "photographic",
+      "pos": "adjective",
+      "parent": "photograph",
+      "parts": [
+        "photo",
+        "-graphic"
+      ],
+      "gloss": {
+        "en": "related to photographs; (of memory) able to remember every detail, like a photo",
+        "tr": "fotoğrafik, fotoğrafla ilgili",
+        "de": "fotografisch",
+        "fr": "photographique",
+        "it": "fotografico",
+        "es": "fotográfico"
+      },
+      "sentences": [
+        {
+          "en": "She has a [photographic] memory for faces.",
+          "tr": "Yüzler konusunda fotoğrafik bir hafızası var.",
+          "de": "Sie hat ein fotografisches Gedächtnis für Gesichter.",
+          "fr": "Elle a une mémoire photographique des visages.",
+          "it": "Ha una memoria fotografica per i volti.",
+          "es": "Tiene una memoria fotográfica para las caras."
+        },
+        {
+          "en": "The shop sells cameras and [photographic] equipment.",
+          "tr": "Dükkân fotoğraf makineleri ve fotoğraf ekipmanı satıyor.",
+          "de": "Der Laden verkauft Kameras und fotografisches Zubehör.",
+          "fr": "Le magasin vend des appareils et du matériel photographique.",
+          "it": "Il negozio vende macchine e attrezzatura fotografica.",
+          "es": "La tienda vende cámaras y equipo fotográfico."
+        }
+      ]
+    },
+    {
+      "id": "photogenic",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "photo",
+        "-genic"
+      ],
+      "gloss": {
+        "en": "looking good in photographs",
+        "tr": "fotojenik",
+        "de": "fotogen",
+        "fr": "photogénique",
+        "it": "fotogenico",
+        "es": "fotogénico"
+      },
+      "sentences": [
+        {
+          "en": "Our cat is very [photogenic]; she always looks great.",
+          "tr": "Kedimiz çok fotojenik, her zaman harika görünüyor.",
+          "de": "Unsere Katze ist sehr fotogen; sie sieht immer toll aus.",
+          "fr": "Notre chatte est très photogénique ; elle est toujours superbe.",
+          "it": "La nostra gatta è molto fotogenica: viene sempre benissimo.",
+          "es": "Nuestra gata es muy fotogénica; siempre sale genial."
+        },
+        {
+          "en": "I'm not [photogenic], so I hate group pictures.",
+          "tr": "Fotojenik değilim, bu yüzden toplu fotoğraflardan nefret ederim.",
+          "de": "Ich bin nicht fotogen, deshalb hasse ich Gruppenfotos.",
+          "fr": "Je ne suis pas photogénique, alors je déteste les photos de groupe.",
+          "it": "Non sono fotogenico, quindi odio le foto di gruppo.",
+          "es": "No soy fotogénico, así que odio las fotos de grupo."
+        }
+      ]
+    },
+    {
+      "id": "photocopy",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "photo",
+        "-copy"
+      ],
+      "gloss": {
+        "en": "a paper copy made by a machine that uses light; to make such a copy",
+        "tr": "fotokopi; fotokopisini çekmek",
+        "de": "die Fotokopie; kopieren",
+        "fr": "la photocopie; photocopier",
+        "it": "la fotocopia; fotocopiare",
+        "es": "la fotocopia; fotocopiar"
+      },
+      "sentences": [
+        {
+          "en": "Please [photocopy] your passport before the trip.",
+          "tr": "Lütfen yolculuktan önce pasaportunun fotokopisini çek.",
+          "de": "Bitte kopiere deinen Pass vor der Reise.",
+          "fr": "Photocopie ton passeport avant le voyage, s'il te plaît.",
+          "it": "Per favore, fotocopia il passaporto prima del viaggio.",
+          "es": "Por favor, fotocopia tu pasaporte antes del viaje."
+        },
+        {
+          "en": "The teacher handed out a [photocopy] of the poem.",
+          "tr": "Öğretmen şiirin fotokopisini dağıttı.",
+          "de": "Die Lehrerin teilte eine Kopie des Gedichts aus.",
+          "fr": "La prof a distribué une photocopie du poème.",
+          "it": "L'insegnante ha distribuito una fotocopia della poesia.",
+          "es": "La profesora repartió una fotocopia del poema."
+        }
+      ]
+    },
+    {
+      "id": "photosynthesis",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "photo",
+        "-synthesis"
+      ],
+      "gloss": {
+        "en": "the way green plants use sunlight to make food from water and air (literally: putting together with light)",
+        "tr": "fotosentez",
+        "de": "die Fotosynthese",
+        "fr": "la photosynthèse",
+        "it": "la fotosintesi",
+        "es": "la fotosíntesis"
+      },
+      "sentences": [
+        {
+          "en": "Leaves need sunlight for [photosynthesis].",
+          "tr": "Yaprakların fotosentez için güneş ışığına ihtiyacı var.",
+          "de": "Blätter brauchen Sonnenlicht für die Fotosynthese.",
+          "fr": "Les feuilles ont besoin de soleil pour la photosynthèse.",
+          "it": "Le foglie hanno bisogno della luce del sole per la fotosintesi.",
+          "es": "Las hojas necesitan luz solar para la fotosíntesis."
+        },
+        {
+          "en": "[Photosynthesis] gives us the oxygen we breathe.",
+          "tr": "Fotosentez bize soluduğumuz oksijeni verir.",
+          "de": "Die Fotosynthese liefert uns den Sauerstoff, den wir atmen.",
+          "fr": "La photosynthèse nous donne l'oxygène que nous respirons.",
+          "it": "La fotosintesi ci dà l'ossigeno che respiriamo.",
+          "es": "La fotosíntesis nos da el oxígeno que respiramos."
+        }
+      ]
+    },
+    {
+      "id": "photon",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "phot",
+        "-on"
+      ],
+      "gloss": {
+        "en": "a tiny particle of light",
+        "tr": "foton",
+        "de": "das Photon",
+        "fr": "le photon",
+        "it": "il fotone",
+        "es": "el fotón"
+      },
+      "sentences": [
+        {
+          "en": "Light travels as tiny particles called [photons].",
+          "tr": "Işık, foton denen küçük parçacıklar hâlinde yol alır.",
+          "de": "Licht bewegt sich als winzige Teilchen, die Photonen heißen.",
+          "fr": "La lumière voyage sous forme de minuscules particules appelées photons.",
+          "it": "La luce viaggia come minuscole particelle chiamate fotoni.",
+          "es": "La luz viaja como pequeñas partículas llamadas fotones."
+        },
+        {
+          "en": "Solar panels turn the energy of [photons] into electricity.",
+          "tr": "Güneş panelleri fotonların enerjisini elektriğe dönüştürür.",
+          "de": "Solarmodule wandeln die Energie von Photonen in Strom um.",
+          "fr": "Les panneaux solaires transforment l'énergie des photons en électricité.",
+          "it": "I pannelli solari trasformano l'energia dei fotoni in elettricità.",
+          "es": "Los paneles solares convierten la energía de los fotones en electricidad."
+        }
+      ]
+    },
+    {
+      "id": "telephoto",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "tele-",
+        "photo"
+      ],
+      "gloss": {
+        "en": "(of a camera lens) making faraway things look big and close",
+        "tr": "telefoto (objektif)",
+        "de": "Tele- (das Teleobjektiv)",
+        "fr": "téléobjectif",
+        "it": "tele (il teleobiettivo)",
+        "es": "tele (el teleobjetivo)"
+      },
+      "sentences": [
+        {
+          "en": "He shot the lions with a [telephoto] lens.",
+          "tr": "Aslanları telefoto objektifle çekti.",
+          "de": "Er fotografierte die Löwen mit einem Teleobjektiv.",
+          "fr": "Il a photographié les lions au téléobjectif.",
+          "it": "Ha fotografato i leoni con un teleobiettivo.",
+          "es": "Fotografió a los leones con un teleobjetivo."
+        },
+        {
+          "en": "With a [telephoto] lens, the moon fills the picture.",
+          "tr": "Telefoto objektifle ay bütün kareyi doldurur.",
+          "de": "Mit einem Teleobjektiv füllt der Mond das ganze Bild.",
+          "fr": "Au téléobjectif, la lune remplit toute l'image.",
+          "it": "Con un teleobiettivo, la luna riempie tutta l'immagine.",
+          "es": "Con un teleobjetivo, la luna llena toda la imagen."
+        }
+      ]
+    },
+    {
+      "id": "phosphorus",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "phos",
+        "-phorus"
+      ],
+      "gloss": {
+        "en": "a chemical element that glows in the dark (literally: light-bringer)",
+        "tr": "fosfor",
+        "de": "der Phosphor",
+        "fr": "le phosphore",
+        "it": "il fosforo",
+        "es": "el fósforo"
+      },
+      "sentences": [
+        {
+          "en": "[Phosphorus] glows faintly when it touches the air.",
+          "tr": "Fosfor havayla temas edince hafifçe parlar.",
+          "de": "Phosphor leuchtet schwach, wenn er mit Luft in Berührung kommt.",
+          "fr": "Le phosphore brille faiblement au contact de l'air.",
+          "it": "Il fosforo brilla debolmente a contatto con l'aria.",
+          "es": "El fósforo brilla débilmente al contacto con el aire."
+        },
+        {
+          "en": "Plants need [phosphorus] to grow strong roots.",
+          "tr": "Bitkilerin güçlü kökler geliştirmesi için fosfora ihtiyacı var.",
+          "de": "Pflanzen brauchen Phosphor, um kräftige Wurzeln zu bilden.",
+          "fr": "Les plantes ont besoin de phosphore pour avoir des racines solides.",
+          "it": "Le piante hanno bisogno di fosforo per sviluppare radici forti.",
+          "es": "Las plantas necesitan fósforo para desarrollar raíces fuertes."
+        }
+      ]
+    }
+  ]
+}

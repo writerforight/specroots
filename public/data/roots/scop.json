@@ -1,0 +1,406 @@
+{
+  "id": "scop",
+  "forms": [
+    "scope",
+    "scop"
+  ],
+  "origin": "gr",
+  "etymon": "skopein",
+  "meaning": {
+    "en": "to look at, to examine",
+    "tr": "bakmak, incelemek",
+    "de": "schauen, betrachten",
+    "fr": "regarder, examiner",
+    "it": "guardare, esaminare",
+    "es": "mirar, examinar"
+  },
+  "words": [
+    {
+      "id": "scope",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "scope"
+      ],
+      "gloss": {
+        "en": "the range of things that a subject, job or activity covers (from Greek skopos: a target to look at)",
+        "tr": "kapsam, alan",
+        "de": "der Umfang, der Rahmen",
+        "fr": "la portée, le cadre",
+        "it": "la portata, l'ambito",
+        "es": "el alcance, el ámbito"
+      },
+      "sentences": [
+        {
+          "en": "That question is outside the [scope] of this course.",
+          "tr": "O soru bu dersin kapsamı dışında.",
+          "de": "Diese Frage liegt außerhalb des Rahmens dieses Kurses.",
+          "fr": "Cette question dépasse le cadre de ce cours.",
+          "it": "Questa domanda esula dall'ambito di questo corso.",
+          "es": "Esa pregunta está fuera del alcance de este curso."
+        },
+        {
+          "en": "There is plenty of [scope] for improvement.",
+          "tr": "Gelişmeye fazlasıyla alan var.",
+          "de": "Es gibt viel Raum für Verbesserungen.",
+          "fr": "Il y a beaucoup de marge de progression.",
+          "it": "C'è molto margine di miglioramento.",
+          "es": "Hay mucho margen de mejora."
+        }
+      ]
+    },
+    {
+      "id": "telescope",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "tele-",
+        "scope"
+      ],
+      "gloss": {
+        "en": "a tube with lenses that makes faraway things look closer (literally: far-looker)",
+        "tr": "teleskop",
+        "de": "das Teleskop, das Fernrohr",
+        "fr": "le télescope",
+        "it": "il telescopio",
+        "es": "el telescopio"
+      },
+      "sentences": [
+        {
+          "en": "Through the [telescope] we could see Saturn's rings.",
+          "tr": "Teleskopla Satürn'ün halkalarını görebildik.",
+          "de": "Durch das Teleskop konnten wir die Ringe des Saturn sehen.",
+          "fr": "Au télescope, nous avons pu voir les anneaux de Saturne.",
+          "it": "Con il telescopio abbiamo visto gli anelli di Saturno.",
+          "es": "Con el telescopio pudimos ver los anillos de Saturno."
+        },
+        {
+          "en": "Galileo pointed his [telescope] at the moon.",
+          "tr": "Galileo teleskobunu aya çevirdi.",
+          "de": "Galilei richtete sein Fernrohr auf den Mond.",
+          "fr": "Galilée a pointé son télescope vers la lune.",
+          "it": "Galileo puntò il suo telescopio verso la luna.",
+          "es": "Galileo apuntó su telescopio a la luna."
+        }
+      ]
+    },
+    {
+      "id": "telescopic",
+      "pos": "adjective",
+      "parent": "telescope",
+      "parts": [
+        "tele-",
+        "scop",
+        "-ic"
+      ],
+      "gloss": {
+        "en": "able to slide into itself to get shorter, like a telescope; using a telescope",
+        "tr": "teleskopik, iç içe geçen; dürbünlü",
+        "de": "ausziehbar, teleskopisch",
+        "fr": "télescopique",
+        "it": "telescopico",
+        "es": "telescópico"
+      },
+      "sentences": [
+        {
+          "en": "I bought a [telescopic] pole to clean the windows.",
+          "tr": "Camları silmek için teleskopik bir sap aldım.",
+          "de": "Ich habe eine ausziehbare Stange zum Fensterputzen gekauft.",
+          "fr": "J'ai acheté une perche télescopique pour laver les vitres.",
+          "it": "Ho comprato un'asta telescopica per pulire le finestre.",
+          "es": "Compré un palo telescópico para limpiar las ventanas."
+        },
+        {
+          "en": "The hunter's rifle had a [telescopic] sight.",
+          "tr": "Avcının tüfeğinde dürbünlü bir nişangâh vardı.",
+          "de": "Das Gewehr des Jägers hatte ein Zielfernrohr.",
+          "fr": "Le fusil du chasseur avait une lunette de visée.",
+          "it": "Il fucile del cacciatore aveva un mirino telescopico.",
+          "es": "El rifle del cazador tenía una mira telescópica."
+        }
+      ]
+    },
+    {
+      "id": "microscope",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "micro-",
+        "scope"
+      ],
+      "gloss": {
+        "en": "an instrument that makes very small things look big (literally: small-looker)",
+        "tr": "mikroskop",
+        "de": "das Mikroskop",
+        "fr": "le microscope",
+        "it": "il microscopio",
+        "es": "el microscopio"
+      },
+      "sentences": [
+        {
+          "en": "Under the [microscope], the drop of water was full of life.",
+          "tr": "Mikroskop altında su damlası canlılarla doluydu.",
+          "de": "Unter dem Mikroskop war der Wassertropfen voller Leben.",
+          "fr": "Au microscope, la goutte d'eau grouillait de vie.",
+          "it": "Al microscopio, la goccia d'acqua era piena di vita.",
+          "es": "Bajo el microscopio, la gota de agua estaba llena de vida."
+        },
+        {
+          "en": "Every student in the lab has a [microscope].",
+          "tr": "Laboratuvardaki her öğrencinin bir mikroskobu var.",
+          "de": "Jeder Schüler im Labor hat ein Mikroskop.",
+          "fr": "Chaque élève du labo a un microscope.",
+          "it": "Ogni studente del laboratorio ha un microscopio.",
+          "es": "Cada alumno del laboratorio tiene un microscopio."
+        }
+      ]
+    },
+    {
+      "id": "microscopic",
+      "pos": "adjective",
+      "parent": "microscope",
+      "parts": [
+        "micro-",
+        "scop",
+        "-ic"
+      ],
+      "gloss": {
+        "en": "so small that you need a microscope to see it; very small",
+        "tr": "mikroskobik, minicik",
+        "de": "mikroskopisch klein, winzig",
+        "fr": "microscopique",
+        "it": "microscopico",
+        "es": "microscópico"
+      },
+      "sentences": [
+        {
+          "en": "Bacteria are [microscopic] living things.",
+          "tr": "Bakteriler mikroskobik canlılardır.",
+          "de": "Bakterien sind mikroskopisch kleine Lebewesen.",
+          "fr": "Les bactéries sont des êtres vivants microscopiques.",
+          "it": "I batteri sono esseri viventi microscopici.",
+          "es": "Las bacterias son seres vivos microscópicos."
+        },
+        {
+          "en": "The kitchen in our flat is [microscopic]!",
+          "tr": "Dairemizdeki mutfak minicik!",
+          "de": "Die Küche in unserer Wohnung ist winzig!",
+          "fr": "La cuisine de notre appart est microscopique !",
+          "it": "La cucina del nostro appartamento è microscopica!",
+          "es": "¡La cocina de nuestro piso es microscópica!"
+        }
+      ]
+    },
+    {
+      "id": "periscope",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "peri-",
+        "scope"
+      ],
+      "gloss": {
+        "en": "a long tube with mirrors that lets you see over or around things, used in submarines (literally: look around)",
+        "tr": "periskop",
+        "de": "das Periskop, das Sehrohr",
+        "fr": "le périscope",
+        "it": "il periscopio",
+        "es": "el periscopio"
+      },
+      "sentences": [
+        {
+          "en": "The captain raised the [periscope] to look for ships.",
+          "tr": "Kaptan gemileri görmek için periskobu kaldırdı.",
+          "de": "Der Kapitän fuhr das Periskop aus, um nach Schiffen zu suchen.",
+          "fr": "Le capitaine a sorti le périscope pour chercher des navires.",
+          "it": "Il capitano alzò il periscopio per cercare le navi.",
+          "es": "El capitán subió el periscopio para buscar barcos."
+        },
+        {
+          "en": "The kids made a [periscope] from a box and two mirrors.",
+          "tr": "Çocuklar bir kutu ve iki aynadan periskop yaptı.",
+          "de": "Die Kinder bauten ein Periskop aus einer Schachtel und zwei Spiegeln.",
+          "fr": "Les enfants ont fabriqué un périscope avec une boîte et deux miroirs.",
+          "it": "I bambini hanno costruito un periscopio con una scatola e due specchi.",
+          "es": "Los niños hicieron un periscopio con una caja y dos espejos."
+        }
+      ]
+    },
+    {
+      "id": "horoscope",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "horo-",
+        "scope"
+      ],
+      "gloss": {
+        "en": "a forecast of a person's future based on the stars at their birth (literally: hour-watcher)",
+        "tr": "burç yorumu, yıldız falı",
+        "de": "das Horoskop",
+        "fr": "l'horoscope",
+        "it": "l'oroscopo",
+        "es": "el horóscopo"
+      },
+      "sentences": [
+        {
+          "en": "My mother reads her [horoscope] every morning.",
+          "tr": "Annem her sabah burç yorumunu okur.",
+          "de": "Meine Mutter liest jeden Morgen ihr Horoskop.",
+          "fr": "Ma mère lit son horoscope tous les matins.",
+          "it": "Mia madre legge l'oroscopo ogni mattina.",
+          "es": "Mi madre lee su horóscopo cada mañana."
+        },
+        {
+          "en": "My [horoscope] said I would meet someone special today.",
+          "tr": "Burç yorumum bugün özel biriyle tanışacağımı söyledi.",
+          "de": "Mein Horoskop sagte, ich würde heute jemand Besonderen treffen.",
+          "fr": "Mon horoscope disait que je rencontrerais quelqu'un de spécial aujourd'hui.",
+          "it": "Il mio oroscopo diceva che oggi avrei incontrato qualcuno di speciale.",
+          "es": "Mi horóscopo decía que hoy conocería a alguien especial."
+        }
+      ]
+    },
+    {
+      "id": "stethoscope",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "stetho-",
+        "scope"
+      ],
+      "gloss": {
+        "en": "a tool a doctor uses to listen to your heart and lungs (literally: chest examiner)",
+        "tr": "steteskop",
+        "de": "das Stethoskop",
+        "fr": "le stéthoscope",
+        "it": "lo stetoscopio",
+        "es": "el estetoscopio"
+      },
+      "sentences": [
+        {
+          "en": "The doctor listened to my chest with a [stethoscope].",
+          "tr": "Doktor steteskopla göğsümü dinledi.",
+          "de": "Die Ärztin hörte meine Brust mit dem Stethoskop ab.",
+          "fr": "Le médecin a écouté ma poitrine avec un stéthoscope.",
+          "it": "Il medico mi ha auscultato il petto con lo stetoscopio.",
+          "es": "El médico me auscultó el pecho con el estetoscopio."
+        },
+        {
+          "en": "The [stethoscope] felt cold on my back.",
+          "tr": "Steteskop sırtımda soğuk geldi.",
+          "de": "Das Stethoskop fühlte sich kalt auf meinem Rücken an.",
+          "fr": "Le stéthoscope était froid sur mon dos.",
+          "it": "Lo stetoscopio era freddo sulla mia schiena.",
+          "es": "El estetoscopio estaba frío en mi espalda."
+        }
+      ]
+    },
+    {
+      "id": "kaleidoscope",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "kaleido-",
+        "scope"
+      ],
+      "gloss": {
+        "en": "a toy tube with mirrors and colored pieces that make changing patterns; a changing mix of many things (literally: viewer of beautiful forms)",
+        "tr": "kaleydoskop, çiçek dürbünü",
+        "de": "das Kaleidoskop",
+        "fr": "le kaléidoscope",
+        "it": "il caleidoscopio",
+        "es": "el caleidoscopio"
+      },
+      "sentences": [
+        {
+          "en": "Turn the [kaleidoscope] slowly to see new patterns.",
+          "tr": "Yeni desenler görmek için çiçek dürbününü yavaşça çevir.",
+          "de": "Dreh das Kaleidoskop langsam, um neue Muster zu sehen.",
+          "fr": "Tourne doucement le kaléidoscope pour voir de nouveaux motifs.",
+          "it": "Gira piano il caleidoscopio per vedere nuove figure.",
+          "es": "Gira despacio el caleidoscopio para ver nuevos dibujos."
+        },
+        {
+          "en": "The market was a [kaleidoscope] of colors and smells.",
+          "tr": "Pazar, renk ve kokulardan oluşan bir kaleydoskoptu.",
+          "de": "Der Markt war ein Kaleidoskop aus Farben und Gerüchen.",
+          "fr": "Le marché était un kaléidoscope de couleurs et d'odeurs.",
+          "it": "Il mercato era un caleidoscopio di colori e odori.",
+          "es": "El mercado era un caleidoscopio de colores y olores."
+        }
+      ]
+    },
+    {
+      "id": "gyroscope",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "gyro-",
+        "scope"
+      ],
+      "gloss": {
+        "en": "a spinning wheel that keeps its direction, used to keep ships, planes and phones steady (literally: circle-watcher)",
+        "tr": "jiroskop",
+        "de": "das Gyroskop, der Kreisel",
+        "fr": "le gyroscope",
+        "it": "il giroscopio",
+        "es": "el giroscopio"
+      },
+      "sentences": [
+        {
+          "en": "A [gyroscope] in your phone knows which way it is turned.",
+          "tr": "Telefonundaki jiroskop, telefonun hangi yöne döndüğünü algılar.",
+          "de": "Ein Gyroskop im Handy merkt, wie es gedreht wird.",
+          "fr": "Un gyroscope dans ton téléphone sait dans quel sens il est tourné.",
+          "it": "Un giroscopio nel telefono capisce come è girato.",
+          "es": "Un giroscopio en tu móvil sabe hacia dónde está girado."
+        },
+        {
+          "en": "The spinning [gyroscope] stayed upright on the string.",
+          "tr": "Dönen jiroskop ipin üzerinde dik durdu.",
+          "de": "Der sich drehende Kreisel blieb auf der Schnur aufrecht.",
+          "fr": "Le gyroscope en rotation restait droit sur la ficelle.",
+          "it": "Il giroscopio in rotazione restava dritto sul filo.",
+          "es": "El giroscopio, al girar, se mantenía en pie sobre la cuerda."
+        }
+      ]
+    },
+    {
+      "id": "endoscopy",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "endo-",
+        "scop",
+        "-y"
+      ],
+      "gloss": {
+        "en": "a medical test in which a doctor looks inside the body with a thin camera tube (literally: looking inside)",
+        "tr": "endoskopi",
+        "de": "die Endoskopie, die Spiegelung",
+        "fr": "l'endoscopie",
+        "it": "l'endoscopia",
+        "es": "la endoscopia"
+      },
+      "sentences": [
+        {
+          "en": "The doctor ordered an [endoscopy] to check my stomach.",
+          "tr": "Doktor midemi kontrol etmek için endoskopi istedi.",
+          "de": "Der Arzt ordnete eine Magenspiegelung an.",
+          "fr": "Le médecin a prescrit une endoscopie pour examiner mon estomac.",
+          "it": "Il medico ha prescritto un'endoscopia per controllare lo stomaco.",
+          "es": "El médico pidió una endoscopia para revisarme el estómago."
+        },
+        {
+          "en": "You can't eat anything before an [endoscopy].",
+          "tr": "Endoskopiden önce hiçbir şey yiyemezsin.",
+          "de": "Vor einer Endoskopie darf man nichts essen.",
+          "fr": "On ne peut rien manger avant une endoscopie.",
+          "it": "Prima di un'endoscopia non si può mangiare niente.",
+          "es": "No puedes comer nada antes de una endoscopia."
+        }
+      ]
+    }
+  ]
+}

@@ -14,7 +14,7 @@ seçilen dillerdeki karşılığı ve öğretici örnek cümleleri bir arada gö
    onların türevleri (spec → inspect → inspection, inspector). Her kelimenin `parent` alanı bu ağacı kurar.
 3. **Veri kaynağı:** açık veri, derlenip repoya JSON olarak konur. Kelime, köken ve çeviriler için
    Wiktionary (CC BY-SA 4.0), örnek cümleler için Tatoeba (CC BY 2.0 FR). Derlenmiş veri bu lisansları
-   ve atfı taşır. Şu anki 5 köklü demo verisi elle yazıldı (aşağıda "Aşamalar").
+   ve atfı taşır. D0 ve D2 verisi elle yazıldı (aşağıda "Aşamalar"); D1'in akıbeti açık soru (`docs/notes.md`).
 4. **Diller:** İngilizce kaynak dil. Çeviri dilleri Türkçe, Almanca, Fransızca, İtalyanca, İspanyolca.
    Kullanıcı ilk açılışta istediği kadarını seçer (en az bir tane), sonra Ayarlar'dan değiştirir.
 5. **Arayüz dili:** 6 dilin hepsi (EN, TR, DE, FR, IT, ES), seçilebilir. Varsayılan tarayıcı dilinden tahmin edilir.
@@ -77,7 +77,9 @@ src/styles/    tokens.css (renkler, yazı tipleri, ölçüler) + app.css (yalnı
   veri; liste/ağaç, arama, telaffuz, 6 dilli arayüz, karşılama ekranı, tema.
 - **D1 Veri hattı:** Wiktionary ve Tatoeba'dan derleyen script (`scripts/`), lisans ve atıf sayfası;
   "öğretici cümle" seçme ölçütü (kısa, yaygın kelimeler, hedef kelime tek sefer).
-- **D2 50 kök:** veri hattıyla üretilip elle kontrol edilmiş ~50 kök.
+- **D2 50 kök (bitti, 2026-10-19):** 50 kök (40 Latince, 10 Yunanca), 949 kelime. Veri hattı (D1)
+  olmadan `docs/grow-loop.md` döngüsüyle elle yazıldı ve kontrol edildi. 20 kelimeye ulaşamayan
+  kökler uydurma kelimeyle doldurulmadı; listesi `docs/notes.md`'de.
 - **D3 Çevrimdışı (PWA):** ana ekrana eklenebilir, internetsiz açılır.
 - **D4 Eklerle gezinme (kullanıcı isteği, 2026-10-18):** köklerin yanında ön ek ve son eklerden de
   gezinme: bir eke (ör. `re-`, `-tion`) tıklayınca o eki taşıyan bütün kelimeler, kökleriyle birlikte.

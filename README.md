@@ -40,8 +40,12 @@ spec / spect  "to look"
 
 ## Roots so far
 
-`dict` (say) · `duc / duct` (lead) · `port` (carry) · `scrib / script` (write) · `spec / spect` (look):
-33 words. About 50 roots are planned; see [SPEC.md](SPEC.md) for the roadmap.
+50 roots and 949 words, each with two example sentences.
+
+- **Latin (40):** `aud` · `cap` · `ced` · `cid` · `clud` · `cred` · `cur` · `dict` · `duc` · `fac` · `fer` · `flect` · `form` · `grad` · `ject` · `junct` · `loc` · `mand` · `mit` · `mov` · `pel` · `pend` · `plic` · `pos` · `port` · `press` · `rupt` · `scrib` · `sent` · `sist` · `spec` · `spir` · `struct` · `ten` · `tend` · `tract` · `ven` · `vert` · `vid` · `voc`
+- **Greek (10):** `bio` · `chron` · `graph` · `log` · `metr` · `morph` · `path` · `phon` · `photo` · `scop`
+
+Next on the roadmap ([SPEC.md](SPEC.md)): browsing by prefix and suffix, and offline use.
 
 ## Contributing
 

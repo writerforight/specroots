@@ -44,7 +44,7 @@ yanına `(az: N)` yaz. Toplam hedef ≈ 1000–2000 kelime.
 - Aynı test iki turdur düzelmiyorsa ya da push reddediliyorsa döngüyü durdur ve nedenini yaz.
 
 ## Durum
-Kök: 48 / 50 · Kelime: 932
+Kök: 50 / 50 · Kelime: 954 kayıt, 949 ayrı kelime (5 birleşik kelime iki kökte). Kuyruk bitti; D2 kapandı (2026-10-19).
 
 ## Kuyruk
 
@@ -101,5 +101,5 @@ Kök: 48 / 50 · Kelime: 932
 - [x] metr / meter — ölçmek — 20
 - [x] path — duygu, acı — 18 (az: 18)
 - [x] morph — biçim — 9 (az: 9)
-- [ ] photo — ışık
-- [ ] scop — bakmak
+- [x] photo — ışık — 11 (az: 11)
+- [x] scop — bakmak — 11 (az: 11)

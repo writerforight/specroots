@@ -2623,5 +2623,148 @@
       "it": "processo, condizione (-osi)",
       "es": "proceso, estado (-osis)"
     }
+  },
+  "-graph": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "something written or drawn (Greek graphein)",
+      "tr": "yazılan, çizilen (Yunanca graphein)",
+      "de": "Geschriebenes, Gezeichnetes (griechisch graphein)",
+      "fr": "ce qui est écrit ou dessiné (grec graphein)",
+      "it": "ciò che è scritto o disegnato (greco graphein)",
+      "es": "lo escrito o dibujado (griego graphein)"
+    }
+  },
+  "-grapher": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "person who writes or records",
+      "tr": "yazan, kaydeden kişi (-grafçı)",
+      "de": "jemand, der aufzeichnet (-graf)",
+      "fr": "personne qui écrit ou enregistre (-graphe)",
+      "it": "chi scrive o registra (-grafo)",
+      "es": "persona que escribe o registra (-grafo)"
+    }
+  },
+  "-graphic": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "relating to writing or pictures",
+      "tr": "yazı ya da görüntüyle ilgili (-grafik)",
+      "de": "Schrift oder Bild betreffend (-grafisch)",
+      "fr": "relatif à l'écriture ou à l'image (-graphique)",
+      "it": "relativo alla scrittura o all'immagine (-grafico)",
+      "es": "relativo a la escritura o la imagen (-gráfico)"
+    }
+  },
+  "-genic": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "producing; good for (Greek -genes)",
+      "tr": "üreten; için uygun (-jenik)",
+      "de": "erzeugend; geeignet für (-gen)",
+      "fr": "qui produit; qui convient à (-génique)",
+      "it": "che produce; adatto a (-genico)",
+      "es": "que produce; apto para (-génico)"
+    }
+  },
+  "-copy": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "copy (English)",
+      "tr": "kopya (İngilizce copy)",
+      "de": "Kopie (englisch copy)",
+      "fr": "copie (anglais copy)",
+      "it": "copia (inglese copy)",
+      "es": "copia (inglés copy)"
+    }
+  },
+  "-synthesis": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "putting together (Greek synthesis)",
+      "tr": "birleştirme, sentez (Yunanca synthesis)",
+      "de": "Zusammensetzung, Synthese (griechisch synthesis)",
+      "fr": "assemblage, synthèse (grec synthesis)",
+      "it": "unione, sintesi (greco synthesis)",
+      "es": "unión, síntesis (griego synthesis)"
+    }
+  },
+  "-on": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "particle (physics)",
+      "tr": "parçacık (fizik)",
+      "de": "Teilchen (Physik)",
+      "fr": "particule (physique)",
+      "it": "particella (fisica)",
+      "es": "partícula (física)"
+    }
+  },
+  "-phorus": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "bringer, carrier (Greek phoros)",
+      "tr": "taşıyan, getiren (Yunanca phoros)",
+      "de": "Träger, Bringer (griechisch phoros)",
+      "fr": "qui porte, qui apporte (grec phoros)",
+      "it": "che porta (greco phoros)",
+      "es": "que lleva, que trae (griego phoros)"
+    }
+  },
+  "horo-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "hour, time (Greek hora)",
+      "tr": "saat, zaman (Yunanca hora)",
+      "de": "Stunde (griechisch hora)",
+      "fr": "heure (grec hora)",
+      "it": "ora (greco hora)",
+      "es": "hora (griego hora)"
+    }
+  },
+  "stetho-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "chest (Greek stethos)",
+      "tr": "göğüs (Yunanca stethos)",
+      "de": "Brust (griechisch stethos)",
+      "fr": "poitrine (grec stethos)",
+      "it": "petto (greco stethos)",
+      "es": "pecho (griego stethos)"
+    }
+  },
+  "kaleido-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "beautiful form (Greek kalos + eidos)",
+      "tr": "güzel biçim (Yunanca kalos + eidos)",
+      "de": "schöne Form (griechisch kalos + eidos)",
+      "fr": "belle forme (grec kalos + eidos)",
+      "it": "bella forma (greco kalos + eidos)",
+      "es": "forma bella (griego kalos + eidos)"
+    }
+  },
+  "gyro-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "circle, turning (Greek gyros)",
+      "tr": "daire, dönme (Yunanca gyros)",
+      "de": "Kreis, Drehung (griechisch gyros)",
+      "fr": "cercle, rotation (grec gyros)",
+      "it": "cerchio, rotazione (greco gyros)",
+      "es": "círculo, giro (griego gyros)"
+    }
+  },
+  "endo-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "inside (Greek)",
+      "tr": "iç, içinde (Yunanca)",
+      "de": "innen (griechisch)",
+      "fr": "dedans (grec)",
+      "it": "dentro (greco)",
+      "es": "dentro (griego)"
+    }
   }
 }

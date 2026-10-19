@@ -1109,6 +1109,36 @@
     ]
   },
   {
+    "id": "photo",
+    "forms": [
+      "photo",
+      "phot",
+      "phos"
+    ],
+    "origin": "gr",
+    "meaning": {
+      "en": "light",
+      "tr": "ışık",
+      "de": "das Licht",
+      "fr": "la lumière",
+      "it": "la luce",
+      "es": "la luz"
+    },
+    "words": [
+      "photograph",
+      "photo",
+      "photography",
+      "photographer",
+      "photographic",
+      "photogenic",
+      "photocopy",
+      "photosynthesis",
+      "photon",
+      "telephoto",
+      "phosphorus"
+    ]
+  },
+  {
     "id": "plic",
     "forms": [
       "plic",
@@ -1300,6 +1330,35 @@
       "bankruptcy",
       "abrupt",
       "rupture"
+    ]
+  },
+  {
+    "id": "scop",
+    "forms": [
+      "scope",
+      "scop"
+    ],
+    "origin": "gr",
+    "meaning": {
+      "en": "to look at, to examine",
+      "tr": "bakmak, incelemek",
+      "de": "schauen, betrachten",
+      "fr": "regarder, examiner",
+      "it": "guardare, esaminare",
+      "es": "mirar, examinar"
+    },
+    "words": [
+      "scope",
+      "telescope",
+      "telescopic",
+      "microscope",
+      "microscopic",
+      "periscope",
+      "horoscope",
+      "stethoscope",
+      "kaleidoscope",
+      "gyroscope",
+      "endoscopy"
     ]
   },
   {
