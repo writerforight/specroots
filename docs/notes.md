@@ -20,12 +20,11 @@ Bağlayıcı kararlar burada değil `SPEC.md`'dedir; buradaki bir not karar olun
   yüklemeyi gerektirir. Öneri: `npm run data` bir `affix-index.json` da üretsin (ek → [kök, kelime]).
 
 ### SPEC / README tutarsızlıkları
-- README.md / README.de.md / README.tr.md "Roots so far" hâlâ D0 durumunu (5 kök, 33 kelime) yazıyor.
-  grow-loop.md'ye göre bu, kuyruk bitince güncellenecek (bir tur kaldı).
+- README'lerdeki kök listesi D2 sonunda güncellendi (DE ve TR'de bölüm yoktu, eklendi).
 - SPEC "Aşamalar": D1 (Wiktionary/Tatoeba veri hattı, lisans ve atıf sayfası) yapılmadı; D2 verisi
-  elle yazılıyor (grow-loop.md). SPEC'teki D2 tanımı ("veri hattıyla üretilip") ve karar 3 (veri
-  kaynağı) buna göre güncellenmeli. Karar bekliyor: D1 atlanıyor mu, sonra mı yapılacak?
-- SPEC karar 3 "Şu anki 5 köklü demo verisi elle yazıldı" diyor; artık 48 kök.
+  elle yazıldı. SPEC karar 3 ve D2 satırı bunu söyleyecek şekilde güncellendi. Karar bekliyor:
+  D1 kaldırılıyor mu, sonra mı yapılacak? README'lerin lisans bölümü hâlâ "ileride Wiktionary/Tatoeba"
+  diyor; D1 kaldırılırsa o cümle de çıkar.
 - grow-loop.md repo yolunu `~/Desktop/projects/specroots` olarak veriyor; bulut oturumunda yol farklı.
 
 ### Veri
