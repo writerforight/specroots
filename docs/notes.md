@@ -16,8 +16,11 @@ Bağlayıcı kararlar burada değil `SPEC.md`'dedir; buradaki bir not karar olun
   Pages gzip'liyor, kazanç küçük. Diff okunurluğu için şimdilik girintili kalabilir.
 - Arama her tuşta bütün kayıtları tarıyor (≈1000 kayıt); 2000 kelimede de sorun değil.
 - Bundle: JS 29 KB (gzip 11 KB), CSS 10 KB. Sorun yok.
-- D4 (eklerle gezinme) için bir eki taşıyan bütün kelimeleri bulmak tüm kök dosyalarını (≈1.3 MB)
-  yüklemeyi gerektirir. Öneri: `npm run data` bir `affix-index.json` da üretsin (ek → [kök, kelime]).
+- D4: `affix-index.json` (≈29 KB, 251 ek) yalnızca ön ek / son ek modunda yükleniyor. Bir ek
+  sayfası onu taşıyan köklerin dosyalarını yüklüyor: `-ion` 29 kök (≈790 KB ham), `re-` 29 kök
+  (≈740 KB ham); Pages gzip'le gönderir. Önbellekte kaldıkları için ikinci açılış anında. Yavaş bağlantıda ilk açılış birkaç
+  saniye sürebilir; sorun olursa ek sayfası için kelime başına parça + kısa anlam içeren hafif bir
+  özet dosyası üretilebilir. D3 (PWA) önbelleği bunu da çözer.
 
 ### SPEC / README tutarsızlıkları
 - README'lerdeki kök listesi D2 sonunda güncellendi (DE ve TR'de bölüm yoktu, eklendi).
@@ -47,12 +50,18 @@ Bağlayıcı kararlar burada değil `SPEC.md`'dedir; buradaki bir not karar olun
 
 ### Aşama durumu
 - D2 bitti (2026-10-19): 50 kök, 949 kelime. README (3 dil) ve SPEC güncellendi.
-- Karar bekleyen: D1 (veri hattı) kaldırılsın mı, sonraya mı kalsın? Sonraki aşama D3 (PWA) mı
-  D4 (eklerle gezinme) mi?
+- D4 bitti (2026-10-19). Karar bekleyen: D1 (veri hattı) kaldırılsın mı, sonraya mı kalsın?
+  Sıradaki aşama D3 (PWA).
 
-### D4: eklerle gezinme (kullanıcı isteği, 2026-10-19)
-- İstek: kök / ön ek / son ek üç gezinme modu; karşılama ekranı ilk açılışta hangisiyle başlanacağını
-  sorar, Ayarlar'dan değişir. SPEC'e eklendi; D2 bitince yapılacak.
-- Açık sorular: sol listede ekler nasıl sıralanır (alfabetik mi, kelime sayısına göre mi)? Homograf
-  ekler (`in-` / `in-not-`) ayrı satır mı, tek satırda iki anlam mı? Birleşik parçalar (`photo-`,
-  `tele-`) ön ek listesinde mi görünür, ayrı bir grup mu? URL biçimi (`#/prefix/re-`?).
+### D4: eklerle gezinme (bitti, 2026-10-19)
+- Yapıldı: Kökler · Ön ekler · Son ekler düğmesi, karşılama ekranında ve Ayarlar'da mod seçimi,
+  `#/affix/<ek>` sayfası, kelime kartındaki ek etiketlerinden ek sayfasına bağlantı.
+- Kullanıcı yanıt vermediği için önerilen varsayılanlar uygulandı: liste alfabetik; homograf ekler
+  ayrı satır (anlamları ayırıyor). Değiştirilmek istenirse kolay.
+- Bekleyen: birleşik parçalar (`photo-`, `tele-`, `geo-`, `psycho-`…) ön ek listesinde gerçek ön
+  eklerle karışık. Ayırmak için `affixes.json`'a bir işaret (ör. `"combining": true`) gerekir;
+  hangi eklerin işaretleneceği veri kararı.
+- Bekleyen: arama ekleri bulmuyor (`-ion` yazınca ek sayfası gelmiyor). SearchIndex'e ek kayıtları
+  eklenebilir.
+- Ek listesinde aynı eki taşıyan kelime sayıları büyük farklı: `-ion` 121, `re-` 71; tek kelimelik
+  ekler (`-abulary`, `-acity`…) çoğunlukta. Liste uzun (251 ek); harf başlıkları yardımcı oluyor.

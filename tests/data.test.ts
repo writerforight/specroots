@@ -51,6 +51,20 @@ describe('lexicon data', () => {
       expect(index.find((r) => r.id === root.id)?.words, root.id).toEqual(root.words.map((w) => w.id));
     }
   });
+
+  it('affix-index.json lists every word that carries each affix (run npm run data)', async () => {
+    const index = parser.parseAffixIndex(readJson('affix-index.json'), affixes);
+    const repo = diskRepository();
+    const roots = await Promise.all(rootFiles().map((f) => repo.getRoot(f.replace(/\.json$/, ''))));
+    const expected = new Map<string, Set<string>>();
+    for (const root of roots) {
+      for (const word of root.words) {
+        for (const part of word.parts) if (part.affix) expected.set(part.affix.id, (expected.get(part.affix.id) ?? new Set()).add(`${root.id}/${word.id}`));
+      }
+    }
+    const actual = new Map([...index].map(([id, occurrences]) => [id, new Set(occurrences.flatMap((o) => o.wordIds.map((w) => `${o.rootId}/${w}`)))]));
+    expect(actual).toEqual(expected);
+  });
 });
 
 describe('LexiconParser rejects bad data', () => {
@@ -85,6 +99,10 @@ describe('LexiconParser rejects bad data', () => {
     const root = parser.parseRoot(withWord({ id: 'inspect', parts: ['in-not-', 'spect'] }), all);
     expect(root.word('inspect')?.parts[0]?.affix?.id).toBe('in-not-');
     expect(() => parser.parseAffixes({ 'in-not-': { kind: 'prefix', meaning: { en: 'not' } } })).toThrow(/explicit "form"/);
+  });
+  it('rejects an affix index entry for an affix that is not in the catalogue', () => {
+    expect(() => parser.parseAffixIndex({ 'zz-': { spec: ['zzspect'] } }, affixes)).toThrow(/affix "zz-"/);
+    expect(parser.parseAffixIndex({ 're-': { spec: ['respect'] } }, affixes).get('re-')).toEqual([{ rootId: 'spec', wordIds: ['respect'] }]);
   });
   it('rejects an unknown language', () => {
     expect(() => parser.parseRoot({ ...base, meaning: { en: 'x', xx: 'y' } }, affixes)).toThrow(/unknown language "xx"/);

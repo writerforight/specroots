@@ -33,6 +33,7 @@ spec / spect  "to look"
 - **Translations**: Turkish, German, French, Italian and Spanish; pick any of them on your first visit
 - **Example sentences**: two short sentences per word, the word highlighted, with translations
 - **Pronunciation**: words and sentences read aloud by your browser's own voices
+- **Browse by prefix or suffix**: pick *re-* or *-ion* and see every word built with it, root by root
 - **Search**: type a root or a word (`inspection`) and jump straight to it
 - **Six interface languages**, light and dark theme, works on phone and desktop
 
@@ -45,7 +46,7 @@ spec / spect  "to look"
 - **Latin (40):** `aud` · `cap` · `ced` · `cid` · `clud` · `cred` · `cur` · `dict` · `duc` · `fac` · `fer` · `flect` · `form` · `grad` · `ject` · `junct` · `loc` · `mand` · `mit` · `mov` · `pel` · `pend` · `plic` · `pos` · `port` · `press` · `rupt` · `scrib` · `sent` · `sist` · `spec` · `spir` · `struct` · `ten` · `tend` · `tract` · `ven` · `vert` · `vid` · `voc`
 - **Greek (10):** `bio` · `chron` · `graph` · `log` · `metr` · `morph` · `path` · `phon` · `photo` · `scop`
 
-Next on the roadmap ([SPEC.md](SPEC.md)): browsing by prefix and suffix, and offline use.
+Next on the roadmap ([SPEC.md](SPEC.md)): offline use.
 
 ## Contributing
 

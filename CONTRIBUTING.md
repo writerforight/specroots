@@ -24,7 +24,7 @@ Thank you for helping! The easiest ways to help need no code:
        `"Can you [describe] the man you saw?"`, and translate the sentence into all five languages.
 3. New prefix or suffix? Add it to `public/data/affixes.json` (prefix ids end with `-`, suffix ids
    start with `-`) with its meaning in all six languages.
-4. Run `npm run data` (updates `index.json`) and `npm run check`. A failing test names the file,
+4. Run `npm run data` (updates `index.json` and `affix-index.json`) and `npm run check`. A failing test names the file,
    the word and what is wrong.
 
 ### What makes a good example sentence

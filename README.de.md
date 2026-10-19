@@ -23,6 +23,7 @@ Wer eine Wurzel kennt, versteht Dutzende Wörter. *spec / spect* heißt „schau
 - **Wortteile**: jedes Präfix, jede Wurzel und jedes Suffix farbig markiert und erklärt
 - **Übersetzungen**: Türkisch, Deutsch, Französisch, Italienisch und Spanisch, beim ersten Besuch frei wählbar
 - **Beispielsätze**: zwei kurze Sätze pro Wort, das Wort hervorgehoben, mit Übersetzung
+- **Nach Präfix oder Suffix stöbern**: *re-* oder *-ion* wählen und alle Wörter damit sehen, nach Wurzeln geordnet
 - **Aussprache** über die Stimmen deines Browsers, **Suche** nach Wurzel oder Wort
 - **Oberfläche in sechs Sprachen**, helles und dunkles Design, für Handy und Desktop
 
@@ -33,7 +34,7 @@ Wer eine Wurzel kennt, versteht Dutzende Wörter. *spec / spect* heißt „schau
 - **Lateinisch (40):** `aud` · `cap` · `ced` · `cid` · `clud` · `cred` · `cur` · `dict` · `duc` · `fac` · `fer` · `flect` · `form` · `grad` · `ject` · `junct` · `loc` · `mand` · `mit` · `mov` · `pel` · `pend` · `plic` · `pos` · `port` · `press` · `rupt` · `scrib` · `sent` · `sist` · `spec` · `spir` · `struct` · `ten` · `tend` · `tract` · `ven` · `vert` · `vid` · `voc`
 - **Griechisch (10):** `bio` · `chron` · `graph` · `log` · `metr` · `morph` · `path` · `phon` · `photo` · `scop`
 
-Als Nächstes ([SPEC.md](SPEC.md), auf Türkisch): Navigation über Präfixe und Suffixe, Offline-Nutzung.
+Als Nächstes ([SPEC.md](SPEC.md), auf Türkisch): Offline-Nutzung.
 
 ## Mitmachen
 

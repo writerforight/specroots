@@ -23,6 +23,7 @@ Bir kökü öğrenen onlarca kelimeyi okuyabilir. *spec / spect* "bakmak" demek,
 - **Kelime parçaları**: her ön ek, kök ve son ek renkli ve anlamıyla
 - **Çeviriler**: Türkçe, Almanca, Fransızca, İtalyanca ve İspanyolca; ilk açılışta istediklerini seç
 - **Örnek cümleler**: kelime başına iki kısa cümle, kelime vurgulu, çevirisiyle
+- **Ön ek ve son eklerle gezinme**: *re-* ya da *-ion* seç, onunla kurulan bütün kelimeleri kök kök gör
 - **Telaffuz** tarayıcının kendi sesleriyle, kök ya da kelimeyle **arama**
 - **Altı dilde arayüz**, açık ve koyu tema, telefonda ve bilgisayarda çalışır
 
@@ -33,7 +34,7 @@ Bir kökü öğrenen onlarca kelimeyi okuyabilir. *spec / spect* "bakmak" demek,
 - **Latince (40):** `aud` · `cap` · `ced` · `cid` · `clud` · `cred` · `cur` · `dict` · `duc` · `fac` · `fer` · `flect` · `form` · `grad` · `ject` · `junct` · `loc` · `mand` · `mit` · `mov` · `pel` · `pend` · `plic` · `pos` · `port` · `press` · `rupt` · `scrib` · `sent` · `sist` · `spec` · `spir` · `struct` · `ten` · `tend` · `tract` · `ven` · `vert` · `vid` · `voc`
 - **Yunanca (10):** `bio` · `chron` · `graph` · `log` · `metr` · `morph` · `path` · `phon` · `photo` · `scop`
 
-Sıradaki adımlar ([SPEC.md](SPEC.md)): ön ek ve son eklerle gezinme, internetsiz kullanım.
+Sıradaki adım ([SPEC.md](SPEC.md)): internetsiz kullanım.
 
 ## Katkı
 

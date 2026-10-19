@@ -1,15 +1,19 @@
-import type { Affix } from '../domain/Affix';
+import type { Affix, AffixIndex } from '../domain/Affix';
 import type { Root, RootSummary } from '../domain/Root';
 import { LexiconParser } from './LexiconParser';
 import type { LexiconRepository } from './LexiconRepository';
 
 export type Fetcher = (path: string) => Promise<unknown>;
 
-/** Reads public/data: index.json for the list, one file per root loaded when it is opened. */
+/**
+ * Reads public/data: index.json for the list, one file per root loaded when it is opened, and
+ * affix-index.json only once the learner browses by prefix or suffix.
+ */
 export class JsonLexiconRepository implements LexiconRepository {
   private readonly parser = new LexiconParser();
   private index: Promise<RootSummary[]> | null = null;
   private affixes: Promise<ReadonlyMap<string, Affix>> | null = null;
+  private affixIndex: Promise<AffixIndex> | null = null;
   private readonly roots = new Map<string, Promise<Root>>();
 
   constructor(private readonly fetchJson: Fetcher) {}
@@ -33,6 +37,15 @@ export class JsonLexiconRepository implements LexiconRepository {
   getAffixes(): Promise<ReadonlyMap<string, Affix>> {
     this.affixes ??= this.fetchJson('data/affixes.json').then((raw) => this.parser.parseAffixes(raw));
     return this.affixes;
+  }
+
+  getAffixIndex(): Promise<AffixIndex> {
+    this.affixIndex ??= Promise.all([this.fetchJson('data/affix-index.json'), this.getAffixes()]).then(([raw, affixes]) =>
+      this.parser.parseAffixIndex(raw, affixes),
+    );
+    // Like a root, a failed load is retried next time.
+    this.affixIndex.catch(() => (this.affixIndex = null));
+    return this.affixIndex;
   }
 
   getRoot(id: string): Promise<Root> {

@@ -14,4 +14,18 @@ export class Affix {
     /** The letters that appear in a word. */
     readonly form: string,
   ) {}
+
+  /** How it is written on its own: "in-", "-ion". Homographs share a label; their meanings differ. */
+  get label(): string {
+    return this.kind === 'prefix' ? `${this.form}-` : `-${this.form}`;
+  }
 }
+
+/** The words of one root that carry an affix, as listed in affix-index.json. */
+export interface AffixOccurrence {
+  readonly rootId: string;
+  readonly wordIds: readonly string[];
+}
+
+/** Every affix id → the roots and words that use it, in root list order. */
+export type AffixIndex = ReadonlyMap<string, readonly AffixOccurrence[]>;

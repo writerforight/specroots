@@ -1,4 +1,4 @@
-import type { Affix } from '../domain/Affix';
+import type { Affix, AffixIndex } from '../domain/Affix';
 import type { Root, RootSummary } from '../domain/Root';
 
 /**
@@ -10,4 +10,6 @@ export interface LexiconRepository {
   listRoots(): Promise<RootSummary[]>;
   getRoot(id: string): Promise<Root>;
   getAffixes(): Promise<ReadonlyMap<string, Affix>>;
+  /** Which words of which roots carry each affix, for browsing by prefix or suffix. */
+  getAffixIndex(): Promise<AffixIndex>;
 }

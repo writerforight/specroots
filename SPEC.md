@@ -45,9 +45,10 @@ src/domain/    saf sınıflar, DOM yok: Root, Word, Morpheme, Affix, Sentence, L
 src/data/      LexiconRepository (arayüz) ← JsonLexiconRepository; LexiconParser veriyi doğrular
 src/services/  SettingsStore (gözlemlenebilir, kalıcı), SearchIndex, SpeechService, KeyValueStore
 src/i18n/      I18n + 6 dilin arayüz metinleri (eksik anahtar derleyicide hata verir)
-src/ui/        görünüm sınıfları: RootListView, RootDetailView, WordCard, SearchBox, SettingsDialog,
-               ThemeController; türev görünümleri DerivationView arayüzünü uygular (strateji)
-src/app/App.ts katmanları birbirine bağlar; yönlendirme: #/root/<kök>/<kelime>
+src/ui/        görünüm sınıfları: RootListView, AffixListView, BrowseModeSwitch, RootDetailView,
+               AffixFamilyView, WordCard, SearchBox, SettingsDialog, ThemeController; türev
+               görünümleri DerivationView arayüzünü uygular (strateji)
+src/app/App.ts katmanları birbirine bağlar; yönlendirme: #/root/<kök>/<kelime>, #/affix/<ek>
 src/styles/    tokens.css (renkler, yazı tipleri, ölçüler) + app.css (yalnızca token kullanır)
 ```
 - Görünümler bağımlılıklarını `ViewContext` ile alır, hiçbir görünüm veri dosyası okumaz.
@@ -61,6 +62,8 @@ src/styles/    tokens.css (renkler, yazı tipleri, ölçüler) + app.css (yalnı
   ve kökün yazımlarından (`forms`) oluşur; birleşince kelimeyi tam olarak hecelemelidir.
   Örnek cümlede hedef kelime `[köşeli parantez]` içinde yazılır (tam bir tane).
 - `public/data/index.json`: alfabetik liste ve arama için özet; `npm run data` üretir, elle düzenlenmez.
+- `public/data/affix-index.json`: her ek → onu taşıyan kökler ve kelimeler (eklerle gezinme için).
+  `npm run data` üretir, elle düzenlenmez; yalnızca ön ek / son ek modunda yüklenir.
 - Aynı yazılışlı farklı ekler ayrı kimlik alır ve yazılışlarını `form` ile söyler:
   `"in-"` (içine, inspect) ve `"in-not-": { "form": "in", … }` (değil, incredible). Ek kimliği tireyle
   biter (ön ek) ya da başlar (son ek); `form` yalnızca küçük harftir.
@@ -70,7 +73,7 @@ src/styles/    tokens.css (renkler, yazı tipleri, ölçüler) + app.css (yalnı
 ## Kalite
 - `npm run check` (tip denetimi + testler) yeşil olmadan birleştirme yok.
 - Veri testleri: her kelimenin 6 dilde anlamı ve en az 2 çevirili cümlesi var, parçalar kelimeyi
-  heceliyor, ebeveynler mevcut, `index.json` güncel.
+  heceliyor, ebeveynler mevcut, `index.json` ve `affix-index.json` güncel.
 
 ## Aşamalar (her biri bitince dur ve onay bekle)
 - **D0 Demo (bitti, 2026-10-18):** mimari, 5 kök (dict, duc, port, scrib, spec), 33 kelime, elle yazılmış
@@ -81,8 +84,14 @@ src/styles/    tokens.css (renkler, yazı tipleri, ölçüler) + app.css (yalnı
   olmadan `docs/grow-loop.md` döngüsüyle elle yazıldı ve kontrol edildi. 20 kelimeye ulaşamayan
   kökler uydurma kelimeyle doldurulmadı; listesi `docs/notes.md`'de.
 - **D3 Çevrimdışı (PWA):** ana ekrana eklenebilir, internetsiz açılır.
-- **D4 Eklerle gezinme (kullanıcı isteği, 2026-10-18):** köklerin yanında ön ek ve son eklerden de
+- **D4 Eklerle gezinme (kullanıcı isteği, 2026-10-18; bitti, 2026-10-19):** köklerin yanında ön ek ve son eklerden de
   gezinme: bir eke (ör. `re-`, `-tion`) tıklayınca o eki taşıyan bütün kelimeler, kökleriyle birlikte.
   Veri hazır (her kelimenin parçaları ek kimliklerine bağlı); D2 bitince ayrıntıları konuşulacak.
   Ek (2026-10-19): kök / ön ek / son ek üç gezinme modu olur; karşılama ekranı ilk açılışta hangisiyle
-  başlanacağını sorar, sonra Ayarlar'dan değiştirilir. Açık sorular `docs/notes.md`'de.
+  başlanacağını sorar, sonra Ayarlar'dan değiştirilir.
+  Uygulanan: sol listenin üstünde Kökler · Ön ekler · Son ekler düğmesi (seçim kalıcı). Ek listesi
+  alfabetik, yazılışı aynı ekler (`in-` içine / `in-` değil) anlamlarıyla ayrı satır; birleşik
+  parçalar (`photo-`, `tele-`) şimdilik ön eklerle aynı listede. Ek sayfası `#/affix/<ek>`: ekin
+  anlamı ve onu taşıyan bütün kelimeler, kök kök gruplu, ek altı çizili; her kelime kökündeki
+  kartına gider. Kelime kartındaki ek etiketleri ek sayfasına bağlanır; bir ek sayfası açılınca
+  liste de o ekin türüne geçer.

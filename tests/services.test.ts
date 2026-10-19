@@ -5,6 +5,7 @@ import { MESSAGES } from '../src/i18n/messages';
 import { MemoryStore } from '../src/services/KeyValueStore';
 import { SearchIndex } from '../src/services/SearchIndex';
 import { SettingsStore } from '../src/services/SettingsStore';
+import { affixHref, parseRoute, rootHref } from '../src/ui/routes';
 import { diskRepository } from './helpers';
 
 describe('SearchIndex', async () => {
@@ -32,6 +33,7 @@ describe('SettingsStore', () => {
     expect(s.uiLang).toBe('de');
     expect(s.translationLangs).toEqual(['de']);
     expect(s.onboarded).toBe(false);
+    expect(s.browseMode).toBe('root');
   });
   it('falls back to English and Turkish translations for unknown browsers', () => {
     const s = new SettingsStore(new MemoryStore(), ['ja']).value;
@@ -57,8 +59,20 @@ describe('SettingsStore', () => {
     expect(s.uiLang).toBe('it');
     expect(s.translationLangs).toEqual(['tr']);
     expect(s.theme).toBe('system');
+    expect(s.browseMode).toBe('root');
+    memory.set('specroots.settings.v1', JSON.stringify({ browseMode: 'suffix' }));
+    expect(new SettingsStore(memory).value.browseMode).toBe('suffix');
     memory.set('specroots.settings.v1', '{broken');
     expect(new SettingsStore(memory).value.theme).toBe('system');
+  });
+});
+
+describe('routes', () => {
+  it('round-trips root, word and affix links', () => {
+    expect(parseRoute(rootHref('spec', 'inspection'))).toEqual({ kind: 'root', rootId: 'spec', wordId: 'inspection' });
+    expect(parseRoute(affixHref('in-not-'))).toEqual({ kind: 'affix', affixId: 'in-not-' });
+    expect(parseRoute(affixHref('-ion'))).toEqual({ kind: 'affix', affixId: '-ion' });
+    expect(parseRoute('#/affix/')).toEqual({ kind: 'home' });
   });
 });
 

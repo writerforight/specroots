@@ -1,4 +1,4 @@
-import { Affix, type AffixKind } from '../domain/Affix';
+import { Affix, type AffixIndex, type AffixKind, type AffixOccurrence } from '../domain/Affix';
 import { isLang, type Localized } from '../domain/Language';
 import { Morpheme } from '../domain/Morpheme';
 import { Root, type Origin, type RootSummary } from '../domain/Root';
@@ -67,6 +67,21 @@ export class LexiconParser {
       this.localized(obj.meaning, `${where} › meaning`),
       words,
     );
+  }
+
+  parseAffixIndex(raw: unknown, affixes: ReadonlyMap<string, Affix>): AffixIndex {
+    const obj = this.object(raw, 'affix-index.json');
+    const index = new Map<string, AffixOccurrence[]>();
+    for (const [id, value] of Object.entries(obj)) {
+      const where = `affix-index.json › ${id}`;
+      if (!affixes.has(id)) throw new LexiconError(where, `affix "${id}" is not in affixes.json`);
+      const byRoot = this.object(value, where);
+      index.set(
+        id,
+        Object.entries(byRoot).map(([rootId, words]) => ({ rootId, wordIds: this.strings(words, `${where} › ${rootId}`) })),
+      );
+    }
+    return index;
   }
 
   parseIndex(raw: unknown): RootSummary[] {

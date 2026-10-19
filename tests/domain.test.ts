@@ -65,6 +65,10 @@ describe('Root and Word', () => {
     expect(groups.get('both')?.map((w) => w.id)).toEqual(['inspection', 'inspector', 'perspective', 'respectful']);
   });
 
+  it('writes affixes with the dash on the joining side, homographs alike', () => {
+    expect(['in-', 'in-not-', '-ion'].map((id) => affixes.get(id)?.label)).toEqual(['in-', 'in-', '-ion']);
+  });
+
   it('links each prefix and suffix to its catalogue entry', () => {
     const parts = spec.word('inspection')?.parts ?? [];
     expect(parts.map((p) => [p.text, p.kind, p.affix?.id ?? null])).toEqual([

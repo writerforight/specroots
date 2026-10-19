@@ -3,12 +3,15 @@ import type { KeyValueStore } from './KeyValueStore';
 
 export type ThemeChoice = 'system' | 'light' | 'dark';
 export type DerivationViewKind = 'list' | 'tree';
+/** What the side list shows: roots, or the prefixes or suffixes that words are built with. */
+export type BrowseMode = 'root' | 'prefix' | 'suffix';
 
 export interface Settings {
   readonly uiLang: Lang;
   readonly translationLangs: readonly TranslationLang[];
   readonly theme: ThemeChoice;
   readonly derivationView: DerivationViewKind;
+  readonly browseMode: BrowseMode;
   /** False until the learner has picked languages on the welcome screen. */
   readonly onboarded: boolean;
 }
@@ -51,6 +54,7 @@ export class SettingsStore {
       translationLangs: isTranslationLang(uiLang) ? [uiLang] : ['tr'],
       theme: 'system',
       derivationView: 'list',
+      browseMode: 'root',
       onboarded: false,
     };
   }
@@ -79,6 +83,7 @@ export class SettingsStore {
       translationLangs: langs ?? defaults.translationLangs,
       theme: raw.theme === 'light' || raw.theme === 'dark' || raw.theme === 'system' ? raw.theme : defaults.theme,
       derivationView: raw.derivationView === 'tree' ? 'tree' : 'list',
+      browseMode: raw.browseMode === 'prefix' || raw.browseMode === 'suffix' ? raw.browseMode : 'root',
       onboarded: raw.onboarded === true,
     };
   }

@@ -1,6 +1,7 @@
 import { ENDONYMS, LANGUAGES, TRANSLATION_LANGUAGES, type Lang, type TranslationLang } from '../domain/Language';
 import type { I18n } from '../i18n/I18n';
-import type { Settings, SettingsStore, ThemeChoice } from '../services/SettingsStore';
+import type { BrowseMode, Settings, SettingsStore, ThemeChoice } from '../services/SettingsStore';
+import { BROWSE_MODES } from './BrowseModeSwitch';
 import { h } from './dom';
 
 export type DialogMode = 'welcome' | 'settings';
@@ -53,7 +54,8 @@ export class SettingsDialog {
             return;
           }
           const theme = (form.querySelector<HTMLInputElement>('input[name="theme"]:checked')?.value ?? 'system') as ThemeChoice;
-          this.store.update({ translationLangs: langs, theme, onboarded: true });
+          const browseMode = (form.querySelector<HTMLInputElement>('input[name="browse"]:checked')?.value ?? 'root') as BrowseMode;
+          this.store.update({ translationLangs: langs, theme, browseMode, onboarded: true });
         },
       },
       h('h2', {}, mode === 'welcome' ? t('welcomeTitle') : t('settings')),
@@ -71,6 +73,18 @@ export class SettingsDialog {
           ),
         ),
         warning,
+      ),
+      h(
+        'fieldset',
+        { class: 'field' },
+        h('legend', { class: 'field-label' }, t('browseBy')),
+        h(
+          'div',
+          { class: 'chips' },
+          ...BROWSE_MODES.map((mode) =>
+            h('label', { class: 'chip' }, h('input', { type: 'radio', name: 'browse', value: mode, checked: s.browseMode === mode }), t(`browse_${mode}`)),
+          ),
+        ),
       ),
       h(
         'fieldset',

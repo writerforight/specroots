@@ -4,6 +4,7 @@ import type { Root } from '../domain/Root';
 import type { Sentence } from '../domain/Sentence';
 import type { Word } from '../domain/Word';
 import { h } from './dom';
+import { affixHref } from './routes';
 import type { ViewContext } from './ViewContext';
 
 /** Renders one word: its parts, meanings in the chosen languages, and example sentences. */
@@ -37,17 +38,28 @@ export class WordCard {
     );
   }
 
-  /** The word with each piece styled by kind: in·spect·ion. */
-  renderParts(parts: readonly Morpheme[]): HTMLElement {
-    return h('span', { class: 'parts' }, ...parts.map((p) => h('span', { class: `part part-${p.kind}`, title: this.ctx.i18n.t(`part_${p.kind}`) }, p.text)));
+  /** The word with each piece styled by kind: in·spect·ion. The focused affix, if any, is underlined. */
+  renderParts(parts: readonly Morpheme[], focusAffixId: string | null = null): HTMLElement {
+    return h(
+      'span',
+      { class: 'parts' },
+      ...parts.map((p) =>
+        h('span', { class: `part part-${p.kind}${p.affix && p.affix.id === focusAffixId ? ' part-focus' : ''}`, title: this.ctx.i18n.t(`part_${p.kind}`) }, p.text),
+      ),
+    );
   }
 
   private renderBreakdown(word: Word, root: Root): HTMLElement {
     const lang = this.ctx.i18n.language;
     const items = word.parts.map((part) => {
-      const label = part.affix ? part.affix.id : part.text;
-      const meaning = part.affix ? (part.affix.meaning[lang] ?? part.affix.meaning.en) : (root.meaning[lang] ?? root.meaning.en);
-      return h('li', { class: `breakdown-item part-${part.kind}` }, h('b', { lang: 'en' }, label), ' ', meaning ?? '');
+      const { affix } = part;
+      if (!affix) return h('li', { class: 'breakdown-item part-root' }, h('b', { lang: 'en' }, part.text), ' ', root.meaning[lang] ?? root.meaning.en ?? '');
+      // Each prefix and suffix leads to every other word built with it.
+      return h(
+        'li',
+        { class: `breakdown-item part-${part.kind}` },
+        h('a', { class: 'breakdown-link', href: affixHref(affix.id) }, h('b', { lang: 'en' }, affix.label), ' ', affix.meaning[lang] ?? affix.meaning.en ?? ''),
+      );
     });
     return h('ul', { class: 'breakdown' }, ...items);
   }

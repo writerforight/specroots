@@ -96,15 +96,16 @@ button, input, select { font: inherit; color: inherit; }
 @media (max-width: 760px) {
   .layout { grid-template-columns: minmax(0, 1fr); }
   .root-list { position: static; height: auto; border-right: 0; }
-  body[data-view='root'] .root-list { display: none; }
+  body[data-view='root'] .root-list, body[data-view='affix'] .root-list { display: none; }
   body[data-view='home'] .root-detail { display: none; }
   .root-detail { padding: 16px 16px 48px; }
   .back-link { display: inline-block; margin-bottom: 12px; color: var(--accent); text-decoration: none; }
   .tagline { display: none; }
 }
 
-/* ---------- root list ---------- */
-.pane-title { margin: 0 8px 8px; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--text-muted); }
+/* ---------- side list: roots, prefixes or suffixes ---------- */
+.browse-switch { display: flex; margin: 0 4px 4px; }
+.browse-switch button { flex: 1; padding: 4px 6px; font-size: 0.9rem; white-space: nowrap; }
 .letter { margin: 16px 8px 4px; font-family: var(--font-text); font-size: 1.1rem; color: var(--accent); }
 .letter-group ul { margin: 0; padding: 0; list-style: none; }
 .root-link {
@@ -161,7 +162,9 @@ button, input, select { font: inherit; color: inherit; }
 .part-root { color: var(--accent); }
 .part-prefix { color: var(--prefix); }
 .part-suffix { color: var(--suffix); }
-.parts .part + .part::before { content: '·'; color: var(--text-muted); font-weight: 400; margin: 0 1px; }
+.part-focus { text-decoration: underline; text-decoration-thickness: 2px; text-underline-offset: 4px; }
+/* inline-block keeps the separator out of an underlined part's line. */
+.parts .part + .part::before { content: '·'; display: inline-block; color: var(--text-muted); font-weight: 400; margin: 0 1px; }
 
 .breakdown { display: flex; flex-wrap: wrap; gap: 6px; margin: 10px 0; padding: 0; list-style: none; font-size: 0.85rem; }
 .breakdown-item { padding: 2px 10px; border-radius: 999px; background: var(--surface-2); color: var(--text-muted); }
@@ -169,6 +172,8 @@ button, input, select { font: inherit; color: inherit; }
 .breakdown-item.part-root b { color: var(--accent); }
 .breakdown-item.part-prefix b { color: var(--prefix); }
 .breakdown-item.part-suffix b { color: var(--suffix); }
+.breakdown-link { text-decoration: none; }
+.breakdown-link:hover b { text-decoration: underline; }
 
 .glosses { display: grid; grid-template-columns: auto 1fr; gap: 2px 12px; margin: 8px 0; }
 .glosses dt, .lang-tag { font-size: 0.7rem; font-weight: 600; letter-spacing: 0.06em; color: var(--text-muted); padding-top: 3px; }
@@ -208,6 +213,28 @@ mark { background: var(--mark); color: inherit; padding: 0 2px; border-radius: 3
 .tree-node[open] > summary { background: var(--accent-soft); }
 .tree-gloss { font-family: var(--font-ui); font-size: 0.85rem; font-weight: 400; color: var(--text-muted); }
 .tree-node > .word-card { margin: 6px 0 10px; }
+
+/* ---------- affix page: words built with one prefix or suffix ---------- */
+.root-title.part-prefix { color: var(--prefix); }
+.root-title.part-suffix { color: var(--suffix); }
+.group-root { color: var(--accent); text-decoration: none; text-transform: none; letter-spacing: 0; font-family: var(--font-text); font-size: 1.1rem; font-weight: 700; }
+.group-root:hover { text-decoration: underline; }
+.group-meaning { text-transform: none; letter-spacing: 0; font-size: 0.85rem; }
+.affix-family .group-title { flex-wrap: wrap; }
+.affix-words { margin: 0; padding: 0; list-style: none; }
+.affix-word {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  column-gap: 10px;
+  padding: 6px 10px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-family: var(--font-text);
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+.affix-word:hover { background: var(--surface-2); }
 
 /* ---------- dialog ---------- */
 .settings-dialog {
