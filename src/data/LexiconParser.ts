@@ -34,7 +34,8 @@ export class LexiconParser {
       if (!shape.test(id)) throw new LexiconError(where, `a ${kind} id must look like ${kind === 'prefix' ? '"re-" or "in-not-"' : '"-ion" or "-ive-adj"'}`);
       const form = entry.form === undefined ? id.replace(/^-|-$/g, '') : this.string(entry.form, `${where} › form`);
       if (!/^[a-z]+$/.test(form)) throw new LexiconError(where, `form "${form}" must be lowercase letters only; homograph ids need an explicit "form"`);
-      affixes.set(id, new Affix(id, kind, this.localized(entry.meaning, `${where} › meaning`), form));
+      if (entry.combining !== undefined && typeof entry.combining !== 'boolean') throw new LexiconError(where, '"combining" must be true or false');
+      affixes.set(id, new Affix(id, kind, this.localized(entry.meaning, `${where} › meaning`), form, entry.combining === true));
     }
     return affixes;
   }

@@ -84,7 +84,7 @@ export class App {
       this.detail.showError(this.context());
       return;
     }
-    this.search.setIndex(new SearchIndex(this.roots));
+    this.search.setIndex(new SearchIndex(this.roots, this.affixes.values()));
     await this.navigate();
     if (!this.settings.value.onboarded) this.dialog.open('welcome');
   }

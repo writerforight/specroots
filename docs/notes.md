@@ -58,10 +58,15 @@ Bağlayıcı kararlar burada değil `SPEC.md`'dedir; buradaki bir not karar olun
   `#/affix/<ek>` sayfası, kelime kartındaki ek etiketlerinden ek sayfasına bağlantı.
 - Kullanıcı yanıt vermediği için önerilen varsayılanlar uygulandı: liste alfabetik; homograf ekler
   ayrı satır (anlamları ayırıyor). Değiştirilmek istenirse kolay.
-- Bekleyen: birleşik parçalar (`photo-`, `tele-`, `geo-`, `psycho-`…) ön ek listesinde gerçek ön
-  eklerle karışık. Ayırmak için `affixes.json`'a bir işaret (ör. `"combining": true`) gerekir;
-  hangi eklerin işaretleneceği veri kararı.
-- Bekleyen: arama ekleri bulmuyor (`-ion` yazınca ek sayfası gelmiyor). SearchIndex'e ek kayıtları
-  eklenebilir.
+- Yapıldı: başka kelimelerden gelen parçalar `"combining": true` ile işaretlendi (76 parça: 60 ön,
+  16 son) ve listede ayrı başlık altında. Ölçüt sözlüklerdeki "combining form" ayrımı: isim, sıfat
+  ya da sayı gövdesi (`photo-`, `micro-`, `kilo-`, `uni-`, `-logy`) ayrı; edat, zarf, olumsuzluk
+  (`re-`, `con-`, `un-`) gerçek ek. Sınırda kalanlar: `tele-` (uzak; sözlüklerde combining form,
+  işaretlendi), `auto-` (kendi; işaretlendi), `bene-` (iyi, zarf; işaretlenmedi), `up-`/`down-`
+  (İngilizce zarf; işaretlenmedi). Okul kitapları micro-, tele-, uni- için "ön ek" der; bunlar yine
+  "Ön ekler" modunda, yalnızca ayrı grupta.
+- Yapıldı: arama ekleri buluyor (`re-`, `-ion`); homograflar anlamlarıyla ayrı satır.
+- Not: `photo-` sayfası yalnız graph kökündeki üç kelimeyi gösteriyor; photo kökünde aynı kelimeler
+  `photo` kök biçimiyle yazıldığı için ek sayfasına girmiyor. Doğru davranış (orada kök, ek değil).
 - Ek listesinde aynı eki taşıyan kelime sayıları büyük farklı: `-ion` 121, `re-` 71; tek kelimelik
   ekler (`-abulary`, `-acity`…) çoğunlukta. Liste uzun (251 ek); harf başlıkları yardımcı oluyor.

@@ -13,6 +13,11 @@ export class Affix {
     readonly meaning: Localized,
     /** The letters that appear in a word. */
     readonly form: string,
+    /**
+     * A stem borrowed from another word rather than a true prefix or suffix: photo- (light),
+     * geo- (earth), -logy (study). Listed apart from the true affixes.
+     */
+    readonly combining: boolean = false,
   ) {}
 
   /** How it is written on its own: "in-", "-ion". Homographs share a label; their meanings differ. */

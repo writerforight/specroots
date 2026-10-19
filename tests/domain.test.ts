@@ -69,6 +69,11 @@ describe('Root and Word', () => {
     expect(['in-', 'in-not-', '-ion'].map((id) => affixes.get(id)?.label)).toEqual(['in-', 'in-', '-ion']);
   });
 
+  it('tells stems borrowed from other words apart from true affixes', () => {
+    expect(['photo-', '-logy', 're-', '-ion'].map((id) => affixes.get(id)?.combining)).toEqual([true, true, false, false]);
+    expect(() => parser.parseAffixes({ 'geo-': { kind: 'prefix', combining: 'yes', meaning: { en: 'earth' } } })).toThrow(/"combining"/);
+  });
+
   it('links each prefix and suffix to its catalogue entry', () => {
     const parts = spec.word('inspection')?.parts ?? [];
     expect(parts.map((p) => [p.text, p.kind, p.affix?.id ?? null])).toEqual([

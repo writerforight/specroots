@@ -9,10 +9,16 @@ import { affixHref, parseRoute, rootHref } from '../src/ui/routes';
 import { diskRepository } from './helpers';
 
 describe('SearchIndex', async () => {
-  const index = new SearchIndex(await diskRepository().listRoots());
+  const repo = diskRepository();
+  const index = new SearchIndex(await repo.listRoots(), (await repo.getAffixes()).values());
 
   it('finds a word and points to its root', () => {
-    expect(index.search('inspection')[0]).toEqual({ label: 'inspection', rootId: 'spec', wordId: 'inspection' });
+    expect(index.search('inspection')[0]).toEqual({ label: 'inspection', rootId: 'spec', wordId: 'inspection', affix: null });
+  });
+  it('finds affixes by their written form, homographs side by side', () => {
+    expect(index.search('-ion')[0]?.affix?.id).toBe('-ion');
+    expect(index.search('in-').slice(0, 2).map((h) => h.affix?.id).sort()).toEqual(['in-', 'in-not-']);
+    expect(index.search('inspect')[0]?.wordId).toBe('inspect');
   });
   it('ranks prefix matches before inner matches', () => {
     const labels = index.search('port').map((h) => h.label);

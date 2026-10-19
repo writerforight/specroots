@@ -68,7 +68,10 @@ src/styles/    tokens.css (renkler, yazı tipleri, ölçüler) + app.css (yalnı
   `"in-"` (içine, inspect) ve `"in-not-": { "form": "in", … }` (değil, incredible). Ek kimliği tireyle
   biter (ön ek) ya da başlar (son ek); `form` yalnızca küçük harftir.
 - Birleşik kelimelerde başka bir kökten gelen parça (photo·graph'taki *photo*, manu·script'teki *manu*)
-  ön ek olarak kataloğa girer: `"photo-"`, `"manu-"`.
+  ön ek olarak kataloğa girer: `"photo-"`, `"manu-"`. Bir isim, sıfat ya da sayı gövdesi olan bu
+  parçalar `"combining": true` taşır (`geo-`, `micro-`, `kilo-`, `-logy`, `-graphy`); edat, zarf ya
+  da olumsuzluk bildiren gerçek ekler (`re-`, `con-`, `anti-`, `un-`, `-ion`) taşımaz. Ek listesinde
+  ikisi ayrı başlık altında görünür.
 
 ## Kalite
 - `npm run check` (tip denetimi + testler) yeşil olmadan birleştirme yok.
@@ -90,8 +93,9 @@ src/styles/    tokens.css (renkler, yazı tipleri, ölçüler) + app.css (yalnı
   Ek (2026-10-19): kök / ön ek / son ek üç gezinme modu olur; karşılama ekranı ilk açılışta hangisiyle
   başlanacağını sorar, sonra Ayarlar'dan değiştirilir.
   Uygulanan: sol listenin üstünde Kökler · Ön ekler · Son ekler düğmesi (seçim kalıcı). Ek listesi
-  alfabetik, yazılışı aynı ekler (`in-` içine / `in-` değil) anlamlarıyla ayrı satır; birleşik
-  parçalar (`photo-`, `tele-`) şimdilik ön eklerle aynı listede. Ek sayfası `#/affix/<ek>`: ekin
+  alfabetik, yazılışı aynı ekler (`in-` içine / `in-` değil) anlamlarıyla ayrı satır; başka
+  kelimelerden gelen parçalar (`photo-`, `tele-`, `-logy`) listenin sonunda kendi başlığı altında.
+  Arama ekleri de bulur (`re-`, `-ion`). Ek sayfası `#/affix/<ek>`: ekin
   anlamı ve onu taşıyan bütün kelimeler, kök kök gruplu, ek altı çizili; her kelime kökündeki
   kartına gider. Kelime kartındaki ek etiketleri ek sayfasına bağlanır; bir ek sayfası açılınca
   liste de o ekin türüne geçer.

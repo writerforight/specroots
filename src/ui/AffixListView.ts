@@ -17,17 +17,22 @@ export class AffixListView {
     const list = [...affixes.values()]
       .filter((a) => a.kind === kind && count(a) > 0)
       .sort((a, b) => a.form.localeCompare(b.form) || a.id.localeCompare(b.id));
+    const link = (affix: Affix) =>
+      h(
+        'a',
+        { class: 'root-link', href: affixHref(affix.id), 'aria-current': affix.id === selectedId ? 'page' : null },
+        h('span', { class: `root-forms part-${affix.kind}`, lang: 'en' }, affix.label),
+        h('span', { class: 'root-meaning' }, affix.meaning[lang] ?? affix.meaning.en ?? ''),
+        h('span', { class: 'root-count' }, String(count(affix))),
+      );
+    // True affixes first; stems borrowed from other words (photo-, -logy) follow under their own title.
+    const borrowed = list.filter((a) => a.combining);
     clear(this.el);
     this.el.append(
-      ...letterGroups(list, (affix) => affix.form, (affix) =>
-        h(
-          'a',
-          { class: 'root-link', href: affixHref(affix.id), 'aria-current': affix.id === selectedId ? 'page' : null },
-          h('span', { class: `root-forms part-${affix.kind}`, lang: 'en' }, affix.label),
-          h('span', { class: 'root-meaning' }, affix.meaning[lang] ?? affix.meaning.en ?? ''),
-          h('span', { class: 'root-count' }, String(count(affix))),
-        ),
-      ),
+      ...letterGroups(list.filter((a) => !a.combining), (affix) => affix.form, link),
+      ...(borrowed.length > 0
+        ? [h('h2', { class: 'list-section-title' }, this.i18n.t('combiningForms')), ...letterGroups(borrowed, (affix) => affix.form, link)]
+        : []),
     );
   }
 }

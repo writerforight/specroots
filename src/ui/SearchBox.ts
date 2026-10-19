@@ -1,9 +1,9 @@
 import type { I18n } from '../i18n/I18n';
-import type { SearchIndex } from '../services/SearchIndex';
+import type { SearchHit, SearchIndex } from '../services/SearchIndex';
 import { clear, h } from './dom';
-import { rootHref } from './routes';
+import { affixHref, rootHref } from './routes';
 
-/** Type a root or a word and jump to it. Enter opens the first hit. */
+/** Type a root, a word or an affix and jump to it. Enter opens the first hit. */
 export class SearchBox {
   readonly el: HTMLElement;
   private readonly input: HTMLInputElement;
@@ -45,14 +45,21 @@ export class SearchBox {
     if (hits.length === 0) this.results.append(h('li', { class: 'search-empty' }, this.i18n.t('noResults')));
     for (const hit of hits) {
       this.results.append(
-        h(
-          'li',
-          { role: 'option' },
-          h('a', { href: rootHref(hit.rootId, hit.wordId), onclick: () => this.reset() }, h('span', { lang: 'en' }, hit.label), hit.wordId ? null : h('span', { class: 'hit-kind' }, this.i18n.t('part_root'))),
-        ),
+        h('li', { role: 'option' }, h('a', { href: this.href(hit), onclick: () => this.reset() }, h('span', { lang: 'en' }, hit.label), this.tag(hit))),
       );
     }
     this.results.hidden = false;
+  }
+
+  private href(hit: SearchHit): string {
+    if (hit.affix) return affixHref(hit.affix.id);
+    return hit.rootId ? rootHref(hit.rootId, hit.wordId) : '#/';
+  }
+
+  /** Roots say "root"; affixes show their meaning, which also tells homographs (in- into, in- not) apart. */
+  private tag(hit: SearchHit): HTMLElement | null {
+    if (hit.affix) return h('span', { class: 'hit-kind' }, hit.affix.meaning[this.i18n.language] ?? hit.affix.meaning.en ?? '');
+    return hit.wordId ? null : h('span', { class: 'hit-kind' }, this.i18n.t('part_root'));
   }
 
   private onKey(event: KeyboardEvent): void {

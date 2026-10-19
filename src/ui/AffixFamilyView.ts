@@ -37,7 +37,7 @@ export class AffixFamilyView {
         h(
           'p',
           { class: 'root-meta' },
-          h('span', {}, i18n.t(`part_${affix.kind}`)),
+          h('span', {}, affix.combining ? i18n.t('combiningForm') : i18n.t(`part_${affix.kind}`)),
           h('span', { class: 'dot' }, '·'),
           h('span', {}, i18n.t('wordCount', { count: wordCount })),
           h('span', { class: 'dot' }, '·'),

@@ -151,7 +151,8 @@
       "fr": "à la main",
       "it": "a mano",
       "es": "a mano"
-    }
+    },
+    "combining": true
   },
   "-ion": {
     "kind": "suffix",
@@ -360,7 +361,8 @@
       "fr": "loin (grec)",
       "it": "lontano (greco)",
       "es": "lejos (griego)"
-    }
+    },
+    "combining": true
   },
   "ver-": {
     "kind": "prefix",
@@ -371,7 +373,8 @@
       "fr": "vrai (latin verus)",
       "it": "vero (latino verus)",
       "es": "verdadero (latín verus)"
-    }
+    },
+    "combining": true
   },
   "bene-": {
     "kind": "prefix",
@@ -393,7 +396,8 @@
       "fr": "du droit",
       "it": "del diritto",
       "es": "del derecho"
-    }
+    },
+    "combining": true
   },
   "-ed": {
     "kind": "suffix",
@@ -558,7 +562,8 @@
       "fr": "eau (latin aqua)",
       "it": "acqua (latino aqua)",
       "es": "agua (latín aqua)"
-    }
+    },
+    "combining": true
   },
   "via-": {
     "kind": "prefix",
@@ -569,7 +574,8 @@
       "fr": "voie, route (latin via)",
       "it": "via, strada (latino via)",
       "es": "vía, camino (latín via)"
-    }
+    },
+    "combining": true
   },
   "se-": {
     "kind": "prefix",
@@ -967,7 +973,8 @@
       "fr": "banc, banque (italien banca)",
       "it": "banco, banca (italiano banca)",
       "es": "banco, mesa (italiano banca)"
-    }
+    },
+    "combining": true
   },
   "of-": {
     "kind": "prefix",
@@ -1033,7 +1040,8 @@
       "fr": "partie (latin pars)",
       "it": "parte (latino pars)",
       "es": "parte (latín pars)"
-    }
+    },
+    "combining": true
   },
   "anti-before-": {
     "kind": "prefix",
@@ -1144,7 +1152,8 @@
       "fr": "art, savoir-faire (latin ars)",
       "it": "arte, abilità (latino ars)",
       "es": "arte, habilidad (latín ars)"
-    }
+    },
+    "combining": true
   },
   "satis-": {
     "kind": "prefix",
@@ -1155,7 +1164,8 @@
       "fr": "assez (latin satis)",
       "it": "abbastanza (latino satis)",
       "es": "bastante (latín satis)"
-    }
+    },
+    "combining": true
   },
   "-ibility": {
     "kind": "suffix",
@@ -1210,7 +1220,8 @@
       "fr": "un, unique",
       "it": "uno, unico",
       "es": "uno, único"
-    }
+    },
+    "combining": true
   },
   "plat-": {
     "kind": "prefix",
@@ -1221,7 +1232,8 @@
       "fr": "plat",
       "it": "piatto (francese plat)",
       "es": "plano (francés plat)"
-    }
+    },
+    "combining": true
   },
   "mis-": {
     "kind": "prefix",
@@ -1287,7 +1299,8 @@
       "fr": "cent",
       "it": "cento",
       "es": "cien"
-    }
+    },
+    "combining": true
   },
   "-ula": {
     "kind": "suffix",
@@ -1430,7 +1443,8 @@
       "fr": "soi-même (grec)",
       "it": "da sé (greco)",
       "es": "por sí mismo (griego)"
-    }
+    },
+    "combining": true
   },
   "loco-": {
     "kind": "prefix",
@@ -1441,7 +1455,8 @@
       "fr": "d'un lieu (latin locus)",
       "it": "da un luogo (latino locus)",
       "es": "desde un lugar (latín locus)"
-    }
+    },
+    "combining": true
   },
   "-ie": {
     "kind": "suffix",
@@ -1552,7 +1567,8 @@
       "fr": "à la main (forme française de manu-)",
       "it": "a mano (forma francese di manu-)",
       "es": "a mano (forma francesa de manu-)"
-    }
+    },
+    "combining": true
   },
   "enter-": {
     "kind": "prefix",
@@ -1574,7 +1590,8 @@
       "fr": "lieu (du latin locus)",
       "it": "luogo (francese lieu, dal latino locus)",
       "es": "lugar (francés lieu, del latín locus)"
-    }
+    },
+    "combining": true
   },
   "contro-": {
     "kind": "prefix",
@@ -1607,7 +1624,8 @@
       "fr": "année (latin annus)",
       "it": "anno (latino annus)",
       "es": "año (latín annus)"
-    }
+    },
+    "combining": true
   },
   "-ue": {
     "kind": "suffix",
@@ -1783,7 +1801,8 @@
       "fr": "être humain (latin homo)",
       "it": "essere umano (latino homo)",
       "es": "ser humano (latín homo)"
-    }
+    },
+    "combining": true
   },
   "geno-": {
     "kind": "prefix",
@@ -1794,7 +1813,8 @@
       "fr": "peuple, race (grec genos)",
       "it": "popolo, stirpe (greco genos)",
       "es": "pueblo, linaje (griego genos)"
-    }
+    },
+    "combining": true
   },
   "pesti-": {
     "kind": "prefix",
@@ -1805,7 +1825,8 @@
       "fr": "nuisible (latin pestis)",
       "it": "parassita (latino pestis)",
       "es": "plaga (latín pestis)"
-    }
+    },
+    "combining": true
   },
   "insecti-": {
     "kind": "prefix",
@@ -1816,7 +1837,8 @@
       "fr": "insecte",
       "it": "insetto",
       "es": "insecto"
-    }
+    },
+    "combining": true
   },
   "sou-": {
     "kind": "prefix",
@@ -1849,7 +1871,8 @@
       "fr": "deux",
       "it": "due",
       "es": "dos"
-    }
+    },
+    "combining": true
   },
   "multi-": {
     "kind": "prefix",
@@ -1860,7 +1883,8 @@
       "fr": "plusieurs",
       "it": "molti",
       "es": "muchos"
-    }
+    },
+    "combining": true
   },
   "em-": {
     "kind": "prefix",
@@ -1882,7 +1906,8 @@
       "fr": "lumière (grec phos)",
       "it": "luce (greco phos)",
       "es": "luz (griego phos)"
-    }
+    },
+    "combining": true
   },
   "para-": {
     "kind": "prefix",
@@ -1904,7 +1929,8 @@
       "fr": "vie (grec bios)",
       "it": "vita (greco bios)",
       "es": "vida (griego bios)"
-    }
+    },
+    "combining": true
   },
   "geo-": {
     "kind": "prefix",
@@ -1915,7 +1941,8 @@
       "fr": "terre (grec ge)",
       "it": "terra (greco ge)",
       "es": "tierra (griego ge)"
-    }
+    },
+    "combining": true
   },
   "calli-": {
     "kind": "prefix",
@@ -1926,7 +1953,8 @@
       "fr": "beau (grec kallos)",
       "it": "bello (greco kallos)",
       "es": "bello (griego kallos)"
-    }
+    },
+    "combining": true
   },
   "choreo-": {
     "kind": "prefix",
@@ -1937,7 +1965,8 @@
       "fr": "danse (grec khoreia)",
       "it": "danza (greco khoreia)",
       "es": "danza (griego khoreia)"
-    }
+    },
+    "combining": true
   },
   "dia-": {
     "kind": "prefix",
@@ -1959,7 +1988,8 @@
       "fr": "mille (grec khilioi)",
       "it": "mille (greco khilioi)",
       "es": "mil (griego khilioi)"
-    }
+    },
+    "combining": true
   },
   "holo-": {
     "kind": "prefix",
@@ -1970,7 +2000,8 @@
       "fr": "entier (grec holos)",
       "it": "intero (greco holos)",
       "es": "entero (griego holos)"
-    }
+    },
+    "combining": true
   },
   "demo-": {
     "kind": "prefix",
@@ -1981,7 +2012,8 @@
       "fr": "peuple (grec demos)",
       "it": "popolo (greco demos)",
       "es": "pueblo (griego demos)"
-    }
+    },
+    "combining": true
   },
   "micro-": {
     "kind": "prefix",
@@ -1992,7 +2024,8 @@
       "fr": "petit (grec mikros)",
       "it": "piccolo (greco mikros)",
       "es": "pequeño (griego mikros)"
-    }
+    },
+    "combining": true
   },
   "mega-": {
     "kind": "prefix",
@@ -2003,7 +2036,8 @@
       "fr": "grand (grec megas)",
       "it": "grande (greco megas)",
       "es": "grande (griego megas)"
-    }
+    },
+    "combining": true
   },
   "head-": {
     "kind": "prefix",
@@ -2014,7 +2048,8 @@
       "fr": "tête (anglais)",
       "it": "testa (inglese)",
       "es": "cabeza (inglés)"
-    }
+    },
+    "combining": true
   },
   "smart-": {
     "kind": "prefix",
@@ -2025,7 +2060,8 @@
       "fr": "intelligent (anglais)",
       "it": "intelligente (inglese)",
       "es": "inteligente (inglés)"
-    }
+    },
+    "combining": true
   },
   "sym-": {
     "kind": "prefix",
@@ -2047,7 +2083,8 @@
       "fr": "Sax (nom de l'inventeur Adolphe Sax)",
       "it": "Sax (nome dell'inventore Adolphe Sax)",
       "es": "Sax (nombre del inventor Adolphe Sax)"
-    }
+    },
+    "combining": true
   },
   "xylo-": {
     "kind": "prefix",
@@ -2058,7 +2095,8 @@
       "fr": "bois (grec xylon)",
       "it": "legno (greco xylon)",
       "es": "madera (griego xylon)"
-    }
+    },
+    "combining": true
   },
   "homo-": {
     "kind": "prefix",
@@ -2069,7 +2107,8 @@
       "fr": "même (grec homos)",
       "it": "stesso (greco homos)",
       "es": "mismo (griego homos)"
-    }
+    },
+    "combining": true
   },
   "caco-": {
     "kind": "prefix",
@@ -2080,7 +2119,8 @@
       "fr": "mauvais (grec kakos)",
       "it": "cattivo (greco kakos)",
       "es": "malo (griego kakos)"
-    }
+    },
+    "combining": true
   },
   "franco-": {
     "kind": "prefix",
@@ -2091,7 +2131,8 @@
       "fr": "français",
       "it": "francese",
       "es": "francés"
-    }
+    },
+    "combining": true
   },
   "-ated": {
     "kind": "suffix",
@@ -2203,7 +2244,8 @@
       "fr": "seul, un (grec)",
       "it": "solo, uno (greco)",
       "es": "uno, solo (griego)"
-    }
+    },
+    "combining": true
   },
   "cata-": {
     "kind": "prefix",
@@ -2269,7 +2311,8 @@
       "fr": "art, technique (grec tekhne)",
       "it": "arte, tecnica (greco tekhne)",
       "es": "arte, técnica (griego tekhne)"
-    }
+    },
+    "combining": true
   },
   "eco-": {
     "kind": "prefix",
@@ -2280,7 +2323,8 @@
       "fr": "maison, environnement (grec oikos)",
       "it": "casa, ambiente (greco oikos)",
       "es": "casa, entorno (griego oikos)"
-    }
+    },
+    "combining": true
   },
   "psycho-": {
     "kind": "prefix",
@@ -2291,7 +2335,8 @@
       "fr": "esprit (grec psykhe)",
       "it": "mente (greco psykhe)",
       "es": "mente (griego psykhe)"
-    }
+    },
+    "combining": true
   },
   "mytho-": {
     "kind": "prefix",
@@ -2302,7 +2347,8 @@
       "fr": "mythe (grec mythos)",
       "it": "mito (greco mythos)",
       "es": "mito (griego mythos)"
-    }
+    },
+    "combining": true
   },
   "zoo-": {
     "kind": "prefix",
@@ -2313,7 +2359,8 @@
       "fr": "animal (grec zoion)",
       "it": "animale (greco zoion)",
       "es": "animal (griego zoion)"
-    }
+    },
+    "combining": true
   },
   "socio-": {
     "kind": "prefix",
@@ -2324,7 +2371,8 @@
       "fr": "société (latin socius)",
       "it": "società (latino socius)",
       "es": "sociedad (latín socius)"
-    }
+    },
+    "combining": true
   },
   "neuro-": {
     "kind": "prefix",
@@ -2335,7 +2383,8 @@
       "fr": "nerf (grec neuron)",
       "it": "nervo (greco neuron)",
       "es": "nervio (griego neuron)"
-    }
+    },
+    "combining": true
   },
   "-logy": {
     "kind": "suffix",
@@ -2346,7 +2395,8 @@
       "fr": "étude de (-logie)",
       "it": "studio di (-logia)",
       "es": "estudio de (-logía)"
-    }
+    },
+    "combining": true
   },
   "-logist": {
     "kind": "suffix",
@@ -2357,7 +2407,8 @@
       "fr": "spécialiste de (-logue)",
       "it": "studioso di (-logo)",
       "es": "especialista en (-logo)"
-    }
+    },
+    "combining": true
   },
   "-logical": {
     "kind": "suffix",
@@ -2368,7 +2419,8 @@
       "fr": "relatif à l'étude de (-logique)",
       "it": "relativo allo studio di (-logico)",
       "es": "relativo al estudio de (-lógico)"
-    }
+    },
+    "combining": true
   },
   "-graphy": {
     "kind": "suffix",
@@ -2379,7 +2431,8 @@
       "fr": "description de (-graphie)",
       "it": "descrizione di (-grafia)",
       "es": "descripción de (-grafía)"
-    }
+    },
+    "combining": true
   },
   "-tic": {
     "kind": "suffix",
@@ -2401,7 +2454,8 @@
       "fr": "examen (grec opsis)",
       "it": "esame (greco opsis)",
       "es": "examen (griego opsis)"
-    }
+    },
+    "combining": true
   },
   "-sis": {
     "kind": "suffix",
@@ -2423,7 +2477,8 @@
       "fr": "sphère (grec sphaira)",
       "it": "sfera (greco sphaira)",
       "es": "esfera (griego sphaira)"
-    }
+    },
+    "combining": true
   },
   "-icle": {
     "kind": "suffix",
@@ -2445,7 +2500,8 @@
       "fr": "étude, récit de (-ologie)",
       "it": "studio, resoconto di (-ologia)",
       "es": "estudio, relato de (-ología)"
-    }
+    },
+    "combining": true
   },
   "-ological": {
     "kind": "suffix",
@@ -2456,7 +2512,8 @@
       "fr": "selon l'ordre de; relatif à l'étude de",
       "it": "secondo l'ordine di; relativo allo studio di",
       "es": "según el orden de; relativo al estudio de"
-    }
+    },
+    "combining": true
   },
   "-ized": {
     "kind": "suffix",
@@ -2489,7 +2546,8 @@
       "fr": "instrument de mesure (-omètre)",
       "it": "strumento di misura (-ometro)",
       "es": "instrumento de medida (-ómetro)"
-    }
+    },
+    "combining": true
   },
   "-ous": {
     "kind": "suffix",
@@ -2511,7 +2569,8 @@
       "fr": "chaleur (grec thermos)",
       "it": "calore (greco thermos)",
       "es": "calor (griego thermos)"
-    }
+    },
+    "combining": true
   },
   "baro-": {
     "kind": "prefix",
@@ -2522,7 +2581,8 @@
       "fr": "poids, pression (grec baros)",
       "it": "peso, pressione (greco baros)",
       "es": "peso, presión (griego baros)"
-    }
+    },
+    "combining": true
   },
   "speedo-": {
     "kind": "prefix",
@@ -2533,7 +2593,8 @@
       "fr": "vitesse (anglais speed)",
       "it": "velocità (inglese speed)",
       "es": "velocidad (inglés speed)"
-    }
+    },
+    "combining": true
   },
   "milli-": {
     "kind": "prefix",
@@ -2544,7 +2605,8 @@
       "fr": "millième (latin mille)",
       "it": "millesimo (latino mille)",
       "es": "milésima (latín mille)"
-    }
+    },
+    "combining": true
   },
   "peri-": {
     "kind": "prefix",
@@ -2566,7 +2628,8 @@
       "fr": "triangle (grec trigonon)",
       "it": "triangolo (greco trigonon)",
       "es": "triángulo (griego trigonon)"
-    }
+    },
+    "combining": true
   },
   "meta-": {
     "kind": "prefix",
@@ -2588,7 +2651,8 @@
       "fr": "semblable (grec homoios)",
       "it": "simile (greco homoios)",
       "es": "semejante (griego homoios)"
-    }
+    },
+    "combining": true
   },
   "anthropo-": {
     "kind": "prefix",
@@ -2599,7 +2663,8 @@
       "fr": "humain (grec anthropos)",
       "it": "essere umano (greco anthropos)",
       "es": "ser humano (griego anthropos)"
-    }
+    },
+    "combining": true
   },
   "em-gr-": {
     "kind": "prefix",
@@ -2633,7 +2698,8 @@
       "fr": "ce qui est écrit ou dessiné (grec graphein)",
       "it": "ciò che è scritto o disegnato (greco graphein)",
       "es": "lo escrito o dibujado (griego graphein)"
-    }
+    },
+    "combining": true
   },
   "-grapher": {
     "kind": "suffix",
@@ -2644,7 +2710,8 @@
       "fr": "personne qui écrit ou enregistre (-graphe)",
       "it": "chi scrive o registra (-grafo)",
       "es": "persona que escribe o registra (-grafo)"
-    }
+    },
+    "combining": true
   },
   "-graphic": {
     "kind": "suffix",
@@ -2655,7 +2722,8 @@
       "fr": "relatif à l'écriture ou à l'image (-graphique)",
       "it": "relativo alla scrittura o all'immagine (-grafico)",
       "es": "relativo a la escritura o la imagen (-gráfico)"
-    }
+    },
+    "combining": true
   },
   "-genic": {
     "kind": "suffix",
@@ -2666,7 +2734,8 @@
       "fr": "qui produit; qui convient à (-génique)",
       "it": "che produce; adatto a (-genico)",
       "es": "que produce; apto para (-génico)"
-    }
+    },
+    "combining": true
   },
   "-copy": {
     "kind": "suffix",
@@ -2677,7 +2746,8 @@
       "fr": "copie (anglais copy)",
       "it": "copia (inglese copy)",
       "es": "copia (inglés copy)"
-    }
+    },
+    "combining": true
   },
   "-synthesis": {
     "kind": "suffix",
@@ -2688,7 +2758,8 @@
       "fr": "assemblage, synthèse (grec synthesis)",
       "it": "unione, sintesi (greco synthesis)",
       "es": "unión, síntesis (griego synthesis)"
-    }
+    },
+    "combining": true
   },
   "-on": {
     "kind": "suffix",
@@ -2710,7 +2781,8 @@
       "fr": "qui porte, qui apporte (grec phoros)",
       "it": "che porta (greco phoros)",
       "es": "que lleva, que trae (griego phoros)"
-    }
+    },
+    "combining": true
   },
   "horo-": {
     "kind": "prefix",
@@ -2721,7 +2793,8 @@
       "fr": "heure (grec hora)",
       "it": "ora (greco hora)",
       "es": "hora (griego hora)"
-    }
+    },
+    "combining": true
   },
   "stetho-": {
     "kind": "prefix",
@@ -2732,7 +2805,8 @@
       "fr": "poitrine (grec stethos)",
       "it": "petto (greco stethos)",
       "es": "pecho (griego stethos)"
-    }
+    },
+    "combining": true
   },
   "kaleido-": {
     "kind": "prefix",
@@ -2743,7 +2817,8 @@
       "fr": "belle forme (grec kalos + eidos)",
       "it": "bella forma (greco kalos + eidos)",
       "es": "forma bella (griego kalos + eidos)"
-    }
+    },
+    "combining": true
   },
   "gyro-": {
     "kind": "prefix",
@@ -2754,7 +2829,8 @@
       "fr": "cercle, rotation (grec gyros)",
       "it": "cerchio, rotazione (greco gyros)",
       "es": "círculo, giro (griego gyros)"
-    }
+    },
+    "combining": true
   },
   "endo-": {
     "kind": "prefix",

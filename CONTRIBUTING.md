@@ -23,7 +23,9 @@ Thank you for helping! The easiest ways to help need no code:
      - `sentences`: at least two. Mark the word in the English sentence with square brackets:
        `"Can you [describe] the man you saw?"`, and translate the sentence into all five languages.
 3. New prefix or suffix? Add it to `public/data/affixes.json` (prefix ids end with `-`, suffix ids
-   start with `-`) with its meaning in all six languages.
+   start with `-`) with its meaning in all six languages. A piece that is really the stem of another
+   noun, adjective or number (`photo-` light, `geo-` earth, `-logy` study) gets `"combining": true`;
+   true prefixes and suffixes (`re-`, `un-`, `-ion`) do not.
 4. Run `npm run data` (updates `index.json` and `affix-index.json`) and `npm run check`. A failing test names the file,
    the word and what is wrong.
 

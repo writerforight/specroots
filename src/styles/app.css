@@ -58,7 +58,8 @@ button, input, select { font: inherit; color: inherit; }
 .search-results a { display: flex; justify-content: space-between; padding: 6px 10px; border-radius: 6px; text-decoration: none; }
 .search-results a:hover, .search-results li:first-child a { background: var(--surface-2); }
 .search-empty { padding: 6px 10px; color: var(--text-muted); }
-.hit-kind { font-size: 0.75rem; color: var(--accent); }
+.search-results a { gap: 12px; }
+.hit-kind { font-size: 0.75rem; color: var(--accent); text-align: right; }
 
 .icon-button {
   display: inline-grid;
@@ -106,6 +107,7 @@ button, input, select { font: inherit; color: inherit; }
 /* ---------- side list: roots, prefixes or suffixes ---------- */
 .browse-switch { display: flex; margin: 0 4px 4px; }
 .browse-switch button { flex: 1; padding: 4px 6px; font-size: 0.9rem; white-space: nowrap; }
+.list-section-title { margin: 28px 8px 0; padding-top: 16px; border-top: 1px solid var(--border); font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--text-muted); }
 .letter { margin: 16px 8px 4px; font-family: var(--font-text); font-size: 1.1rem; color: var(--accent); }
 .letter-group ul { margin: 0; padding: 0; list-style: none; }
 .root-link {
