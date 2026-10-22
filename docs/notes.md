@@ -25,6 +25,16 @@ Bağlayıcı kararlar burada değil `SPEC.md`'dedir; buradaki bir not karar olun
   Latince nubes; benzerlik tesadüf).
 - SPEC karar 11'e not düşüldü: ~50 kök sınırı kullanıcı onayıyla aşılabilir.
 
+### Yeni kök: cad (kullanıcı isteği, 52. kök)
+- Latince *cadere, casus* (düşmek). Yazımlar `cad` (cadence), `cid` (accident, incident: ön ekle
+  a → i zayıflaması), `cide` (coincide), `cas` (casual, occasion), `case`, `cay` (decay, Eski Fransızca
+  decair). Yeni ekler `co-`, `-ty` (casualty), `-uous` (deciduous).
+- `cid` kökü (*caedere*, kesmek: decide, precise) ile aynı yazımı paylaşır; ikisinin anlamı kök
+  açıklamasında ayrılıyor. Arama "cid" için iki kök gösterir; doğru davranış.
+- *case* yalnızca "durum, dava" anlamında; "kutu" anlamındaki *case* (suitcase) Latince *capsa*'dan
+  (capere ailesi) geliyor, girilmedi. Dışarıda: *cascade* (İtalyanca cascare; parçalanışı zorlama),
+  *Occident* (nadir), *decadent* (ileride eklenebilir).
+
 - 20'nin altında kalan kökler: morph 9, aud 10, photo 11, chron 12, mand 13, scop 14, cid 15, cred 15,
   junct 15, nunci 15, bio 17, loc 17, rupt 18, flect 19.
 

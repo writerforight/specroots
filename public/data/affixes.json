@@ -2900,5 +2900,38 @@
       "it": "verso (ad- davanti a n)",
       "es": "hacia (ad- ante n)"
     }
+  },
+  "co-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "together, with (form of com-)",
+      "tr": "birlikte (com- biçimi)",
+      "de": "zusammen, mit (Form von com-)",
+      "fr": "ensemble, avec (forme de com-)",
+      "it": "insieme, con (forma di com-)",
+      "es": "juntos, con (forma de com-)"
+    }
+  },
+  "-ty": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "state or quality (makes a noun)",
+      "tr": "durum, nitelik (isim yapar)",
+      "de": "Zustand, Eigenschaft (bildet ein Nomen)",
+      "fr": "état, qualité (forme un nom)",
+      "it": "stato, qualità (forma un nome)",
+      "es": "estado, cualidad (forma un sustantivo)"
+    }
+  },
+  "-uous": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "tending to (makes an adjective)",
+      "tr": "-meye eğilimli (sıfat yapar)",
+      "de": "neigend zu (bildet ein Adjektiv)",
+      "fr": "qui tend à (forme un adjectif)",
+      "it": "che tende a (forma un aggettivo)",
+      "es": "que tiende a (forma un adjetivo)"
+    }
   }
 }

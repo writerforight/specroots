@@ -1,0 +1,750 @@
+{
+  "id": "cad",
+  "forms": [
+    "cad",
+    "cid",
+    "cide",
+    "cas",
+    "case",
+    "cay"
+  ],
+  "origin": "la",
+  "etymon": "cadere, casus",
+  "meaning": {
+    "en": "to fall, to happen (not caedere, 'to cut', as in decide)",
+    "tr": "düşmek, (başa) gelmek (decide'daki caedere 'kesmek' ile karıştırma)",
+    "de": "fallen, sich ereignen (nicht caedere 'schneiden' wie in decide)",
+    "fr": "tomber, arriver (à ne pas confondre avec caedere 'couper', comme dans decide)",
+    "it": "cadere, accadere (non caedere 'tagliare', come in decide)",
+    "es": "caer, suceder (no caedere 'cortar', como en decide)"
+  },
+  "words": [
+    {
+      "id": "accident",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "ac-",
+        "cid",
+        "-ent"
+      ],
+      "gloss": {
+        "en": "something bad that happens by chance (literally: what falls upon you)",
+        "tr": "kaza; tesadüf",
+        "de": "der Unfall; der Zufall",
+        "fr": "l'accident",
+        "it": "l'incidente",
+        "es": "el accidente"
+      },
+      "sentences": [
+        {
+          "en": "She broke her arm in a car [accident].",
+          "tr": "Bir trafik kazasında kolunu kırdı.",
+          "de": "Sie brach sich bei einem Autounfall den Arm.",
+          "fr": "Elle s'est cassé le bras dans un accident de voiture.",
+          "it": "Si è rotta il braccio in un incidente d'auto.",
+          "es": "Se rompió el brazo en un accidente de coche."
+        },
+        {
+          "en": "Sorry, I deleted your file by [accident].",
+          "tr": "Özür dilerim, dosyanı yanlışlıkla sildim.",
+          "de": "Entschuldige, ich habe deine Datei aus Versehen gelöscht.",
+          "fr": "Désolé, j'ai supprimé ton fichier par accident.",
+          "it": "Scusa, ho cancellato il tuo file per sbaglio.",
+          "es": "Perdona, borré tu archivo sin querer."
+        }
+      ]
+    },
+    {
+      "id": "accidental",
+      "pos": "adjective",
+      "parent": "accident",
+      "parts": [
+        "ac-",
+        "cid",
+        "-ent",
+        "-al"
+      ],
+      "gloss": {
+        "en": "happening by chance, not planned",
+        "tr": "kazara olan, tesadüfi",
+        "de": "zufällig, versehentlich",
+        "fr": "accidentel, fortuit",
+        "it": "accidentale, casuale",
+        "es": "accidental, casual"
+      },
+      "sentences": [
+        {
+          "en": "The discovery of penicillin was [accidental].",
+          "tr": "Penisilinin keşfi tesadüfiydi.",
+          "de": "Die Entdeckung des Penicillins war ein Zufall.",
+          "fr": "La découverte de la pénicilline était accidentelle.",
+          "it": "La scoperta della penicillina è stata casuale.",
+          "es": "El descubrimiento de la penicilina fue accidental."
+        },
+        {
+          "en": "Police say the fire was [accidental].",
+          "tr": "Polis yangının kazara çıktığını söylüyor.",
+          "de": "Die Polizei sagt, das Feuer sei versehentlich entstanden.",
+          "fr": "La police dit que l'incendie était accidentel.",
+          "it": "La polizia dice che l'incendio è stato accidentale.",
+          "es": "La policía dice que el incendio fue accidental."
+        }
+      ]
+    },
+    {
+      "id": "accidentally",
+      "pos": "adverb",
+      "parent": "accidental",
+      "parts": [
+        "ac-",
+        "cid",
+        "-ent",
+        "-al",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "by chance, without meaning to",
+        "tr": "yanlışlıkla, kazara",
+        "de": "aus Versehen, zufällig",
+        "fr": "accidentellement, par mégarde",
+        "it": "per sbaglio, accidentalmente",
+        "es": "sin querer, por accidente"
+      },
+      "sentences": [
+        {
+          "en": "I [accidentally] sent the message to my boss.",
+          "tr": "Mesajı yanlışlıkla patronuma gönderdim.",
+          "de": "Ich habe die Nachricht aus Versehen an meinen Chef geschickt.",
+          "fr": "J'ai envoyé le message à mon patron par mégarde.",
+          "it": "Ho mandato per sbaglio il messaggio al mio capo.",
+          "es": "Envié el mensaje a mi jefe sin querer."
+        },
+        {
+          "en": "He [accidentally] locked himself out of the house.",
+          "tr": "Yanlışlıkla kendini evin dışında bıraktı.",
+          "de": "Er hat sich versehentlich ausgesperrt.",
+          "fr": "Il s'est accidentellement enfermé dehors.",
+          "it": "Si è chiuso fuori casa per sbaglio.",
+          "es": "Se quedó fuera de casa sin querer."
+        }
+      ]
+    },
+    {
+      "id": "incident",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "in-",
+        "cid",
+        "-ent"
+      ],
+      "gloss": {
+        "en": "an event, especially an unpleasant or unusual one (literally: what falls in)",
+        "tr": "olay, vaka",
+        "de": "der Vorfall, der Zwischenfall",
+        "fr": "l'incident",
+        "it": "l'incidente, l'episodio",
+        "es": "el incidente"
+      },
+      "sentences": [
+        {
+          "en": "Police are looking into the [incident].",
+          "tr": "Polis olayı araştırıyor.",
+          "de": "Die Polizei untersucht den Vorfall.",
+          "fr": "La police enquête sur l'incident.",
+          "it": "La polizia sta indagando sull'episodio.",
+          "es": "La policía investiga el incidente."
+        },
+        {
+          "en": "The flight landed without [incident].",
+          "tr": "Uçak sorunsuz bir şekilde indi.",
+          "de": "Der Flug landete ohne Zwischenfall.",
+          "fr": "Le vol a atterri sans incident.",
+          "it": "Il volo è atterrato senza incidenti.",
+          "es": "El vuelo aterrizó sin incidentes."
+        }
+      ]
+    },
+    {
+      "id": "incidental",
+      "pos": "adjective",
+      "parent": "incident",
+      "parts": [
+        "in-",
+        "cid",
+        "-ent",
+        "-al"
+      ],
+      "gloss": {
+        "en": "happening as a small, extra part of something",
+        "tr": "ikincil, yan, arızi",
+        "de": "nebensächlich, Neben-",
+        "fr": "accessoire, annexe",
+        "it": "accessorio, secondario",
+        "es": "incidental, secundario"
+      },
+      "sentences": [
+        {
+          "en": "The job pays for travel and other [incidental] costs.",
+          "tr": "İş, yol ve diğer ek masrafları karşılıyor.",
+          "de": "Die Stelle bezahlt Reise- und andere Nebenkosten.",
+          "fr": "Le poste rembourse le transport et les autres frais annexes.",
+          "it": "Il lavoro paga i viaggi e le altre spese accessorie.",
+          "es": "El trabajo paga los viajes y otros gastos secundarios."
+        },
+        {
+          "en": "The music in the film is only [incidental].",
+          "tr": "Filmdeki müzik yalnızca arka planda kalıyor.",
+          "de": "Die Musik im Film ist nur nebensächlich.",
+          "fr": "La musique du film n'est qu'accessoire.",
+          "it": "La musica nel film è solo secondaria.",
+          "es": "La música de la película es solo secundaria."
+        }
+      ]
+    },
+    {
+      "id": "incidentally",
+      "pos": "adverb",
+      "parent": "incidental",
+      "parts": [
+        "in-",
+        "cid",
+        "-ent",
+        "-al",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "by the way (used to add a new point)",
+        "tr": "bu arada, aklıma gelmişken",
+        "de": "übrigens, nebenbei",
+        "fr": "au fait, soit dit en passant",
+        "it": "a proposito, tra l'altro",
+        "es": "por cierto, a propósito"
+      },
+      "sentences": [
+        {
+          "en": "[Incidentally], have you seen my keys?",
+          "tr": "Bu arada, anahtarlarımı gördün mü?",
+          "de": "Übrigens, hast du meine Schlüssel gesehen?",
+          "fr": "Au fait, tu as vu mes clés ?",
+          "it": "A proposito, hai visto le mie chiavi?",
+          "es": "Por cierto, ¿has visto mis llaves?"
+        },
+        {
+          "en": "The hotel, [incidentally], is next to the station.",
+          "tr": "Otel, aklıma gelmişken, istasyonun yanında.",
+          "de": "Das Hotel liegt übrigens neben dem Bahnhof.",
+          "fr": "L'hôtel, soit dit en passant, est à côté de la gare.",
+          "it": "L'hotel, tra l'altro, è accanto alla stazione.",
+          "es": "El hotel, por cierto, está al lado de la estación."
+        }
+      ]
+    },
+    {
+      "id": "incidence",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "in-",
+        "cid",
+        "-ence"
+      ],
+      "gloss": {
+        "en": "how often something, like a disease, happens",
+        "tr": "görülme sıklığı, oran",
+        "de": "die Häufigkeit, die Inzidenz",
+        "fr": "l'incidence, la fréquence",
+        "it": "l'incidenza",
+        "es": "la incidencia"
+      },
+      "sentences": [
+        {
+          "en": "The [incidence] of flu is high this winter.",
+          "tr": "Bu kış gribin görülme sıklığı yüksek.",
+          "de": "Die Grippehäufigkeit ist diesen Winter hoch.",
+          "fr": "L'incidence de la grippe est élevée cet hiver.",
+          "it": "L'incidenza dell'influenza è alta quest'inverno.",
+          "es": "La incidencia de la gripe es alta este invierno."
+        },
+        {
+          "en": "Exercise lowers the [incidence] of heart disease.",
+          "tr": "Egzersiz kalp hastalığı görülme oranını düşürür.",
+          "de": "Sport senkt die Häufigkeit von Herzkrankheiten.",
+          "fr": "Le sport réduit l'incidence des maladies cardiaques.",
+          "it": "L'esercizio riduce l'incidenza delle malattie cardiache.",
+          "es": "El ejercicio reduce la incidencia de enfermedades del corazón."
+        }
+      ]
+    },
+    {
+      "id": "coincide",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "co-",
+        "in-",
+        "cide"
+      ],
+      "gloss": {
+        "en": "to happen at the same time; to agree (literally: to fall in together)",
+        "tr": "aynı zamana denk gelmek, çakışmak; örtüşmek",
+        "de": "zusammenfallen, übereinstimmen",
+        "fr": "coïncider",
+        "it": "coincidere",
+        "es": "coincidir"
+      },
+      "sentences": [
+        {
+          "en": "My birthday [coincides] with the first day of school.",
+          "tr": "Doğum günüm okulun ilk gününe denk geliyor.",
+          "de": "Mein Geburtstag fällt auf den ersten Schultag.",
+          "fr": "Mon anniversaire coïncide avec la rentrée.",
+          "it": "Il mio compleanno coincide con il primo giorno di scuola.",
+          "es": "Mi cumpleaños coincide con el primer día de clase."
+        },
+        {
+          "en": "Our ideas [coincided] on most points.",
+          "tr": "Fikirlerimiz çoğu konuda örtüştü.",
+          "de": "Unsere Ideen stimmten in den meisten Punkten überein.",
+          "fr": "Nos idées coïncidaient sur la plupart des points.",
+          "it": "Le nostre idee coincidevano sulla maggior parte dei punti.",
+          "es": "Nuestras ideas coincidieron en casi todo."
+        }
+      ]
+    },
+    {
+      "id": "coincidence",
+      "pos": "noun",
+      "parent": "coincide",
+      "parts": [
+        "co-",
+        "in-",
+        "cid",
+        "-ence"
+      ],
+      "gloss": {
+        "en": "two things happening together by chance, in a surprising way",
+        "tr": "tesadüf, rastlantı",
+        "de": "der Zufall",
+        "fr": "la coïncidence, le hasard",
+        "it": "la coincidenza",
+        "es": "la coincidencia, la casualidad"
+      },
+      "sentences": [
+        {
+          "en": "What a [coincidence]! I was just thinking about you.",
+          "tr": "Ne tesadüf! Ben de tam seni düşünüyordum.",
+          "de": "Was für ein Zufall! Ich habe gerade an dich gedacht.",
+          "fr": "Quelle coïncidence ! Je pensais justement à toi.",
+          "it": "Che coincidenza! Stavo proprio pensando a te.",
+          "es": "¡Qué casualidad! Justo estaba pensando en ti."
+        },
+        {
+          "en": "It is no [coincidence] that prices rose after the storm.",
+          "tr": "Fırtınadan sonra fiyatların artması tesadüf değil.",
+          "de": "Es ist kein Zufall, dass die Preise nach dem Sturm stiegen.",
+          "fr": "Ce n'est pas un hasard si les prix ont augmenté après la tempête.",
+          "it": "Non è una coincidenza che i prezzi siano saliti dopo la tempesta.",
+          "es": "No es casualidad que los precios subieran tras la tormenta."
+        }
+      ]
+    },
+    {
+      "id": "coincidental",
+      "pos": "adjective",
+      "parent": "coincidence",
+      "parts": [
+        "co-",
+        "in-",
+        "cid",
+        "-ent",
+        "-al"
+      ],
+      "gloss": {
+        "en": "happening by chance at the same time, not planned",
+        "tr": "tesadüfi, rastlantısal",
+        "de": "zufällig",
+        "fr": "fortuit, dû au hasard",
+        "it": "casuale, fortuito",
+        "es": "casual, fortuito"
+      },
+      "sentences": [
+        {
+          "en": "Any likeness to real people is purely [coincidental].",
+          "tr": "Gerçek kişilerle herhangi bir benzerlik tamamen tesadüfidir.",
+          "de": "Jede Ähnlichkeit mit realen Personen ist rein zufällig.",
+          "fr": "Toute ressemblance avec des personnes réelles est purement fortuite.",
+          "it": "Ogni somiglianza con persone reali è puramente casuale.",
+          "es": "Cualquier parecido con personas reales es pura coincidencia."
+        },
+        {
+          "en": "Was their meeting at the airport [coincidental]?",
+          "tr": "Havaalanında karşılaşmaları tesadüf müydü?",
+          "de": "War ihr Treffen am Flughafen zufällig?",
+          "fr": "Leur rencontre à l'aéroport était-elle due au hasard ?",
+          "it": "Il loro incontro all'aeroporto è stato casuale?",
+          "es": "¿Su encuentro en el aeropuerto fue casual?"
+        }
+      ]
+    },
+    {
+      "id": "case",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "case"
+      ],
+      "gloss": {
+        "en": "a situation or example; a matter for a court or the police (from casus, 'a fall, an event'; not 'case' = box, which comes from capsa)",
+        "tr": "durum, vaka; dava",
+        "de": "der Fall",
+        "fr": "le cas; l'affaire",
+        "it": "il caso",
+        "es": "el caso"
+      },
+      "sentences": [
+        {
+          "en": "Take an umbrella in [case] it rains.",
+          "tr": "Yağmur yağar diye yanına şemsiye al.",
+          "de": "Nimm einen Schirm mit, falls es regnet.",
+          "fr": "Prends un parapluie au cas où il pleuvrait.",
+          "it": "Prendi un ombrello nel caso piova.",
+          "es": "Llévate un paraguas por si llueve."
+        },
+        {
+          "en": "The detective solved the [case] in a week.",
+          "tr": "Dedektif davayı bir haftada çözdü.",
+          "de": "Der Detektiv löste den Fall in einer Woche.",
+          "fr": "Le détective a résolu l'affaire en une semaine.",
+          "it": "Il detective ha risolto il caso in una settimana.",
+          "es": "El detective resolvió el caso en una semana."
+        }
+      ]
+    },
+    {
+      "id": "casual",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "cas",
+        "-ual"
+      ],
+      "gloss": {
+        "en": "relaxed, not formal; happening by chance",
+        "tr": "rahat, gündelik; rastgele",
+        "de": "lässig, zwanglos; beiläufig",
+        "fr": "décontracté; fortuit",
+        "it": "informale, casual; casuale",
+        "es": "informal; casual"
+      },
+      "sentences": [
+        {
+          "en": "You can wear [casual] clothes to the party.",
+          "tr": "Partiye rahat kıyafetlerle gelebilirsin.",
+          "de": "Zur Party kannst du legere Kleidung tragen.",
+          "fr": "Tu peux mettre des vêtements décontractés pour la fête.",
+          "it": "Alla festa puoi vestirti in modo informale.",
+          "es": "Puedes ir a la fiesta con ropa informal."
+        },
+        {
+          "en": "It was only a [casual] remark, but it hurt her.",
+          "tr": "Sadece laf arasında söylenmiş bir sözdü ama onu incitti.",
+          "de": "Es war nur eine beiläufige Bemerkung, aber sie verletzte sie.",
+          "fr": "Ce n'était qu'une remarque en passant, mais elle l'a blessée.",
+          "it": "Era solo un'osservazione casuale, ma l'ha ferita.",
+          "es": "Fue solo un comentario de pasada, pero le dolió."
+        }
+      ]
+    },
+    {
+      "id": "casually",
+      "pos": "adverb",
+      "parent": "casual",
+      "parts": [
+        "cas",
+        "-ual",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "in a relaxed way; without much thought",
+        "tr": "rahat bir şekilde; gelişigüzel",
+        "de": "lässig; beiläufig",
+        "fr": "de façon décontractée; en passant",
+        "it": "in modo informale; con noncuranza",
+        "es": "de manera informal; como quien no quiere la cosa"
+      },
+      "sentences": [
+        {
+          "en": "He was dressed [casually] in jeans and a T-shirt.",
+          "tr": "Kot pantolon ve tişörtle rahat giyinmişti.",
+          "de": "Er war lässig in Jeans und T-Shirt gekleidet.",
+          "fr": "Il était habillé de façon décontractée, en jean et tee-shirt.",
+          "it": "Era vestito in modo informale, con jeans e maglietta.",
+          "es": "Iba vestido de manera informal, con vaqueros y camiseta."
+        },
+        {
+          "en": "She [casually] mentioned that she was moving to Spain.",
+          "tr": "İspanya'ya taşınacağını laf arasında söyleyiverdi.",
+          "de": "Sie erwähnte beiläufig, dass sie nach Spanien zieht.",
+          "fr": "Elle a mentionné en passant qu'elle partait vivre en Espagne.",
+          "it": "Ha accennato con noncuranza che si trasferiva in Spagna.",
+          "es": "Mencionó como si nada que se mudaba a España."
+        }
+      ]
+    },
+    {
+      "id": "casualty",
+      "pos": "noun",
+      "parent": "casual",
+      "parts": [
+        "cas",
+        "-ual",
+        "-ty"
+      ],
+      "gloss": {
+        "en": "a person hurt or killed in a war or accident",
+        "tr": "kayıp, yaralı ya da ölü",
+        "de": "das Opfer, der Verletzte",
+        "fr": "la victime",
+        "it": "la vittima",
+        "es": "la víctima, la baja"
+      },
+      "sentences": [
+        {
+          "en": "There were no [casualties] in the fire.",
+          "tr": "Yangında ölen ya da yaralanan olmadı.",
+          "de": "Bei dem Brand gab es keine Opfer.",
+          "fr": "L'incendie n'a fait aucune victime.",
+          "it": "Nell'incendio non ci sono state vittime.",
+          "es": "No hubo víctimas en el incendio."
+        },
+        {
+          "en": "Truth is the first [casualty] of war.",
+          "tr": "Savaşın ilk kurbanı gerçektir.",
+          "de": "Die Wahrheit ist das erste Opfer des Krieges.",
+          "fr": "La vérité est la première victime de la guerre.",
+          "it": "La verità è la prima vittima della guerra.",
+          "es": "La verdad es la primera víctima de la guerra."
+        }
+      ]
+    },
+    {
+      "id": "occasion",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "oc-",
+        "cas",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a particular time or special event (literally: a falling toward, a chance)",
+        "tr": "fırsat, vesile; özel gün",
+        "de": "der Anlass, die Gelegenheit",
+        "fr": "l'occasion",
+        "it": "l'occasione",
+        "es": "la ocasión"
+      },
+      "sentences": [
+        {
+          "en": "A wedding is a special [occasion].",
+          "tr": "Düğün özel bir gündür.",
+          "de": "Eine Hochzeit ist ein besonderer Anlass.",
+          "fr": "Un mariage est une occasion spéciale.",
+          "it": "Un matrimonio è un'occasione speciale.",
+          "es": "Una boda es una ocasión especial."
+        },
+        {
+          "en": "I have met her on several [occasions].",
+          "tr": "Onunla birkaç kez karşılaştım.",
+          "de": "Ich habe sie bei mehreren Gelegenheiten getroffen.",
+          "fr": "Je l'ai rencontrée à plusieurs occasions.",
+          "it": "L'ho incontrata in diverse occasioni.",
+          "es": "La he visto en varias ocasiones."
+        }
+      ]
+    },
+    {
+      "id": "occasional",
+      "pos": "adjective",
+      "parent": "occasion",
+      "parts": [
+        "oc-",
+        "cas",
+        "-ion",
+        "-al"
+      ],
+      "gloss": {
+        "en": "happening sometimes, but not often",
+        "tr": "ara sıra olan",
+        "de": "gelegentlich",
+        "fr": "occasionnel",
+        "it": "occasionale",
+        "es": "ocasional"
+      },
+      "sentences": [
+        {
+          "en": "Tomorrow will be sunny with [occasional] showers.",
+          "tr": "Yarın hava güneşli, ara sıra sağanak yağışlı olacak.",
+          "de": "Morgen wird es sonnig mit gelegentlichen Schauern.",
+          "fr": "Demain, soleil avec des averses occasionnelles.",
+          "it": "Domani sole con occasionali rovesci.",
+          "es": "Mañana estará soleado con chubascos ocasionales."
+        },
+        {
+          "en": "He enjoys an [occasional] glass of wine.",
+          "tr": "Ara sıra bir kadeh şaraptan hoşlanır.",
+          "de": "Er genießt gelegentlich ein Glas Wein.",
+          "fr": "Il apprécie un verre de vin occasionnel.",
+          "it": "Gli piace un bicchiere di vino ogni tanto.",
+          "es": "Disfruta de una copa de vino de vez en cuando."
+        }
+      ]
+    },
+    {
+      "id": "occasionally",
+      "pos": "adverb",
+      "parent": "occasional",
+      "parts": [
+        "oc-",
+        "cas",
+        "-ion",
+        "-al",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "sometimes, not often",
+        "tr": "ara sıra, zaman zaman",
+        "de": "gelegentlich, ab und zu",
+        "fr": "de temps en temps",
+        "it": "di tanto in tanto",
+        "es": "de vez en cuando"
+      },
+      "sentences": [
+        {
+          "en": "We [occasionally] eat out on Fridays.",
+          "tr": "Cuma günleri ara sıra dışarıda yemek yeriz.",
+          "de": "Freitags gehen wir ab und zu essen.",
+          "fr": "Nous mangeons au restaurant de temps en temps le vendredi.",
+          "it": "Il venerdì ogni tanto mangiamo fuori.",
+          "es": "Los viernes comemos fuera de vez en cuando."
+        },
+        {
+          "en": "The bus is [occasionally] late in winter.",
+          "tr": "Otobüs kışın zaman zaman gecikiyor.",
+          "de": "Im Winter kommt der Bus gelegentlich zu spät.",
+          "fr": "Le bus est parfois en retard en hiver.",
+          "it": "D'inverno l'autobus a volte è in ritardo.",
+          "es": "El autobús llega tarde de vez en cuando en invierno."
+        }
+      ]
+    },
+    {
+      "id": "decay",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "de-",
+        "cay"
+      ],
+      "gloss": {
+        "en": "to rot or slowly become worse (from Old French decair, Latin decadere, 'to fall down')",
+        "tr": "çürümek, bozulmak",
+        "de": "verfallen, verrotten",
+        "fr": "pourrir, se dégrader",
+        "it": "marcire, decadere",
+        "es": "pudrirse, deteriorarse"
+      },
+      "sentences": [
+        {
+          "en": "Sugar makes your teeth [decay].",
+          "tr": "Şeker dişlerinin çürümesine yol açar.",
+          "de": "Zucker lässt die Zähne verfallen.",
+          "fr": "Le sucre abîme les dents.",
+          "it": "Lo zucchero fa cariare i denti.",
+          "es": "El azúcar hace que se piquen los dientes."
+        },
+        {
+          "en": "The old houses were slowly [decaying].",
+          "tr": "Eski evler yavaş yavaş çürüyordu.",
+          "de": "Die alten Häuser verfielen langsam.",
+          "fr": "Les vieilles maisons se dégradaient lentement.",
+          "it": "Le vecchie case stavano lentamente decadendo.",
+          "es": "Las casas viejas se iban deteriorando poco a poco."
+        }
+      ]
+    },
+    {
+      "id": "cadence",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "cad",
+        "-ence"
+      ],
+      "gloss": {
+        "en": "the rise and fall of the voice; a rhythm (literally: a falling)",
+        "tr": "ses inişi çıkışı, ritim, kadans",
+        "de": "der Tonfall, der Rhythmus",
+        "fr": "la cadence, l'intonation",
+        "it": "la cadenza",
+        "es": "la cadencia"
+      },
+      "sentences": [
+        {
+          "en": "I love the soft [cadence] of her Irish accent.",
+          "tr": "İrlanda aksanının yumuşak ritmine bayılıyorum.",
+          "de": "Ich liebe den sanften Tonfall ihres irischen Akzents.",
+          "fr": "J'adore la douce intonation de son accent irlandais.",
+          "it": "Adoro la dolce cadenza del suo accento irlandese.",
+          "es": "Me encanta la suave cadencia de su acento irlandés."
+        },
+        {
+          "en": "The soldiers marched to a steady [cadence].",
+          "tr": "Askerler düzenli bir ritimle yürüdü.",
+          "de": "Die Soldaten marschierten in gleichmäßigem Rhythmus.",
+          "fr": "Les soldats marchaient à une cadence régulière.",
+          "it": "I soldati marciavano a una cadenza regolare.",
+          "es": "Los soldados marchaban a una cadencia constante."
+        }
+      ]
+    },
+    {
+      "id": "deciduous",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "de-",
+        "cid",
+        "-uous"
+      ],
+      "gloss": {
+        "en": "(of trees) losing their leaves every autumn (literally: falling down)",
+        "tr": "yaprak döken",
+        "de": "laubabwerfend, sommergrün",
+        "fr": "à feuilles caduques",
+        "it": "deciduo, a foglie caduche",
+        "es": "caducifolio, de hoja caduca"
+      },
+      "sentences": [
+        {
+          "en": "Oaks and maples are [deciduous] trees.",
+          "tr": "Meşe ve akçaağaç yaprak döken ağaçlardır.",
+          "de": "Eichen und Ahorne sind laubabwerfende Bäume.",
+          "fr": "Les chênes et les érables sont des arbres à feuilles caduques.",
+          "it": "Querce e aceri sono alberi a foglie caduche.",
+          "es": "Los robles y los arces son árboles de hoja caduca."
+        },
+        {
+          "en": "In winter, the [deciduous] forest looks grey and bare.",
+          "tr": "Kışın yaprak döken orman gri ve çıplak görünür.",
+          "de": "Im Winter sieht der Laubwald grau und kahl aus.",
+          "fr": "En hiver, la forêt de feuillus paraît grise et nue.",
+          "it": "D'inverno il bosco deciduo sembra grigio e spoglio.",
+          "es": "En invierno, el bosque caducifolio se ve gris y desnudo."
+        }
+      ]
+    }
+  ]
+}

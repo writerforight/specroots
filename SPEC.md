@@ -29,7 +29,8 @@ seçilen dillerdeki karşılığı ve öğretici örnek cümleleri bir arada gö
     (tarayıcının kendi sesiyle, internetsiz; kelime ve İngilizce cümle).
 11. **Kapsam:** ilk tam sürümde ~50 kök, özenle seçilmiş ve kontrol edilmiş.
     Ek (2026-10-22, kullanıcı isteği): 51. kök `nunci` (nuntiare, bildirmek: announce, pronounce,
-    denounce, renounce, enunciate). Yeni kök sınırsız açılmaz; her biri kullanıcı onayıyla eklenir.
+    denounce, renounce, enunciate); 52. kök `cad` (cadere, düşmek: accident, case, occasion; `cid` = caedere
+    kesmek ile karıştırılmasın). Yeni kök sınırsız açılmaz; her biri kullanıcı onayıyla eklenir.
 12. **Mimari:** nesne yönelimli, katmanlı (aşağıda). Görünüm ve tema veri ve mantıktan bağımsız
     değiştirilebilir olmalı.
 13. **Bulunabilirlik (2026-10-18):** yalnızca ana sayfa için: açıklama, Open Graph görseli (`public/og.png`),

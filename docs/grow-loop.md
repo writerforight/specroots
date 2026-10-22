@@ -44,7 +44,7 @@ yanına `(az: N)` yaz. Toplam hedef ≈ 1000–2000 kelime.
 - Aynı test iki turdur düzelmiyorsa ya da push reddediliyorsa döngüyü durdur ve nedenini yaz.
 
 ## Durum
-Kök: 51 · Kelime: 1146 kayıt, 1141 ayrı kelime (5 birleşik kelime iki kökte). Kuyruk bitti; D2 kapandı (2026-10-19, 949 kelime). 2026-10-22: mevcut köklere +177 kelime, 51. kök nunci (+15).
+Kök: 52 · Kelime: 1166 kayıt, 1161 ayrı kelime (5 birleşik kelime iki kökte). Kuyruk bitti; D2 kapandı (2026-10-19, 949 kelime). 2026-10-22: mevcut köklere +177 kelime, 51. kök nunci (+15), 52. kök cad (+20).
 
 ## Kuyruk
 
@@ -92,6 +92,7 @@ Kök: 51 · Kelime: 1146 kayıt, 1141 ayrı kelime (5 birleşik kelime iki kökt
 - [x] ven / vent — gelmek — 22
 - [x] plic / ply — katlamak — 23
 - [x] nunci / nounce — bildirmek — 15 (az: 15; 2026-10-22, kullanıcı isteğiyle 51. kök)
+- [x] cad / cid / cas — düşmek — 20 (2026-10-22, kullanıcı isteğiyle 52. kök; `cid` kesmek değil)
 
 ### Yeni (Yunanca, `"origin": "gr"`)
 - [x] graph / gram — yazmak, çizmek — 20

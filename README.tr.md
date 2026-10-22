@@ -29,9 +29,9 @@ Bir kökü öğrenen onlarca kelimeyi okuyabilir. *spec / spect* "bakmak" demek,
 
 ## Şu ana kadarki kökler
 
-51 kök ve 1141 kelime, her biri iki örnek cümleyle.
+52 kök ve 1161 kelime, her biri iki örnek cümleyle.
 
-- **Latince (41):** `aud` · `cap` · `ced` · `cid` · `clud` · `cred` · `cur` · `dict` · `duc` · `fac` · `fer` · `flect` · `form` · `grad` · `ject` · `junct` · `loc` · `mand` · `mit` · `mov` · `nunci` · `pel` · `pend` · `plic` · `pos` · `port` · `press` · `rupt` · `scrib` · `sent` · `sist` · `spec` · `spir` · `struct` · `ten` · `tend` · `tract` · `ven` · `vert` · `vid` · `voc`
+- **Latince (42):** `aud` · `cad` · `cap` · `ced` · `cid` · `clud` · `cred` · `cur` · `dict` · `duc` · `fac` · `fer` · `flect` · `form` · `grad` · `ject` · `junct` · `loc` · `mand` · `mit` · `mov` · `nunci` · `pel` · `pend` · `plic` · `pos` · `port` · `press` · `rupt` · `scrib` · `sent` · `sist` · `spec` · `spir` · `struct` · `ten` · `tend` · `tract` · `ven` · `vert` · `vid` · `voc`
 - **Yunanca (10):** `bio` · `chron` · `graph` · `log` · `metr` · `morph` · `path` · `phon` · `photo` · `scop`
 
 Sıradaki adım ([SPEC.md](SPEC.md)): internetsiz kullanım.

@@ -61,6 +61,48 @@
     ]
   },
   {
+    "id": "cad",
+    "forms": [
+      "cad",
+      "cid",
+      "cide",
+      "cas",
+      "case",
+      "cay"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to fall, to happen (not caedere, 'to cut', as in decide)",
+      "tr": "düşmek, (başa) gelmek (decide'daki caedere 'kesmek' ile karıştırma)",
+      "de": "fallen, sich ereignen (nicht caedere 'schneiden' wie in decide)",
+      "fr": "tomber, arriver (à ne pas confondre avec caedere 'couper', comme dans decide)",
+      "it": "cadere, accadere (non caedere 'tagliare', come in decide)",
+      "es": "caer, suceder (no caedere 'cortar', como en decide)"
+    },
+    "words": [
+      "accident",
+      "accidental",
+      "accidentally",
+      "incident",
+      "incidental",
+      "incidentally",
+      "incidence",
+      "coincide",
+      "coincidence",
+      "coincidental",
+      "case",
+      "casual",
+      "casually",
+      "casualty",
+      "occasion",
+      "occasional",
+      "occasionally",
+      "decay",
+      "cadence",
+      "deciduous"
+    ]
+  },
+  {
     "id": "cap",
     "forms": [
       "cap",
