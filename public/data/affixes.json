@@ -2889,5 +2889,16 @@
       "es": "especialista en (-ólogo)"
     },
     "combining": true
+  },
+  "an-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "to, toward (ad- before n)",
+      "tr": "-e doğru (n önünde ad-)",
+      "de": "hin zu (ad- vor n)",
+      "fr": "vers (ad- devant n)",
+      "it": "verso (ad- davanti a n)",
+      "es": "hacia (ad- ante n)"
+    }
   }
 }

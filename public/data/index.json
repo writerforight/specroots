@@ -1045,6 +1045,40 @@
     ]
   },
   {
+    "id": "nunci",
+    "forms": [
+      "nunci",
+      "nounce",
+      "nounc"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to announce, to tell (from nuntius, messenger)",
+      "tr": "bildirmek, haber vermek (nuntius: haberci)",
+      "de": "verkünden, melden (von nuntius, Bote)",
+      "fr": "annoncer, faire savoir (de nuntius, messager)",
+      "it": "annunciare, riferire (da nuntius, messaggero)",
+      "es": "anunciar, comunicar (de nuntius, mensajero)"
+    },
+    "words": [
+      "announce",
+      "announcement",
+      "announcer",
+      "pronounce",
+      "pronunciation",
+      "mispronounce",
+      "mispronunciation",
+      "pronounced",
+      "unpronounceable",
+      "denounce",
+      "denunciation",
+      "renounce",
+      "renunciation",
+      "enunciate",
+      "enunciation"
+    ]
+  },
+  {
     "id": "path",
     "forms": [
       "path"

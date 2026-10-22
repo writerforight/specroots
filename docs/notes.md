@@ -16,8 +16,17 @@ Bağlayıcı kararlar burada değil `SPEC.md`'dedir; buradaki bir not karar olun
   gerekir), *chronograph* (`-ograph` eki gerekir), *aversion* (buradaki *a-* ab- biçimi, katalogdaki
   `a-` ad- biçimi; ayrı bir homograf ek ister), *passport*/*airport* (Latince portus, portare değil),
   *attain* (tangere), *supply*/*comply* (plere), *performance* (forma değil), *tender* (iki ayrı köken).
+### Yeni kök: nunci (kullanıcı isteği, 51. kök)
+- Latince *nuntiare* (bildirmek), *nuntius* (haberci). Yazımlar `nunci` (pronunciation), `nounce`
+  (announce), `nounc` (announcer, pronounced: `-er`/`-ed` önünde e düşer). Yeni ek `an-` (n önünde ad-).
+- 15 kelime: announce, announcement, announcer, pronounce, pronunciation, mispronounce,
+  mispronunciation, pronounced, unpronounceable, denounce, denunciation, renounce, renunciation,
+  enunciate, enunciation. Dışarıda: *annunciation* (dinî terim), *nuncio* (nadir), *nuance* (bulut,
+  Latince nubes; benzerlik tesadüf).
+- SPEC karar 11'e not düşüldü: ~50 kök sınırı kullanıcı onayıyla aşılabilir.
+
 - 20'nin altında kalan kökler: morph 9, aud 10, photo 11, chron 12, mand 13, scop 14, cid 15, cred 15,
-  junct 15, bio 17, loc 17, rupt 18, flect 19.
+  junct 15, nunci 15, bio 17, loc 17, rupt 18, flect 19.
 
 ## 2026-10-19
 

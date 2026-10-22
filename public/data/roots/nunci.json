@@ -1,0 +1,558 @@
+{
+  "id": "nunci",
+  "forms": [
+    "nunci",
+    "nounce",
+    "nounc"
+  ],
+  "origin": "la",
+  "etymon": "nuntiare",
+  "meaning": {
+    "en": "to announce, to tell (from nuntius, messenger)",
+    "tr": "bildirmek, haber vermek (nuntius: haberci)",
+    "de": "verkünden, melden (von nuntius, Bote)",
+    "fr": "annoncer, faire savoir (de nuntius, messager)",
+    "it": "annunciare, riferire (da nuntius, messaggero)",
+    "es": "anunciar, comunicar (de nuntius, mensajero)"
+  },
+  "words": [
+    {
+      "id": "announce",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "an-",
+        "nounce"
+      ],
+      "gloss": {
+        "en": "to tell people something officially or publicly",
+        "tr": "duyurmak, ilan etmek",
+        "de": "ankündigen, bekannt geben",
+        "fr": "annoncer",
+        "it": "annunciare",
+        "es": "anunciar"
+      },
+      "sentences": [
+        {
+          "en": "The pilot [announced] that we would land soon.",
+          "tr": "Pilot yakında ineceğimizi duyurdu.",
+          "de": "Der Pilot kündigte an, dass wir bald landen würden.",
+          "fr": "Le pilote a annoncé que nous allions bientôt atterrir.",
+          "it": "Il pilota ha annunciato che saremmo atterrati presto.",
+          "es": "El piloto anunció que aterrizaríamos pronto."
+        },
+        {
+          "en": "They will [announce] the winner on Friday.",
+          "tr": "Kazananı cuma günü açıklayacaklar.",
+          "de": "Sie geben den Gewinner am Freitag bekannt.",
+          "fr": "Ils annonceront le gagnant vendredi.",
+          "it": "Annunceranno il vincitore venerdì.",
+          "es": "Anunciarán al ganador el viernes."
+        }
+      ]
+    },
+    {
+      "id": "announcement",
+      "pos": "noun",
+      "parent": "announce",
+      "parts": [
+        "an-",
+        "nounce",
+        "-ment"
+      ],
+      "gloss": {
+        "en": "an official or public statement",
+        "tr": "duyuru, anons",
+        "de": "die Ankündigung, die Durchsage",
+        "fr": "l'annonce",
+        "it": "l'annuncio",
+        "es": "el anuncio"
+      },
+      "sentences": [
+        {
+          "en": "Listen to the [announcement] about the train.",
+          "tr": "Trenle ilgili anonsu dinle.",
+          "de": "Hör dir die Durchsage zum Zug an.",
+          "fr": "Écoute l'annonce concernant le train.",
+          "it": "Ascolta l'annuncio sul treno.",
+          "es": "Escucha el anuncio sobre el tren."
+        },
+        {
+          "en": "The company made an [announcement] about new jobs.",
+          "tr": "Şirket yeni iş olanakları hakkında bir duyuru yaptı.",
+          "de": "Die Firma machte eine Ankündigung zu neuen Stellen.",
+          "fr": "L'entreprise a fait une annonce sur de nouveaux emplois.",
+          "it": "L'azienda ha fatto un annuncio su nuovi posti di lavoro.",
+          "es": "La empresa hizo un anuncio sobre nuevos empleos."
+        }
+      ]
+    },
+    {
+      "id": "announcer",
+      "pos": "noun",
+      "parent": "announce",
+      "parts": [
+        "an-",
+        "nounc",
+        "-er"
+      ],
+      "gloss": {
+        "en": "a person who reads news or introduces programmes on radio or TV",
+        "tr": "spiker, sunucu",
+        "de": "der Sprecher, der Ansager",
+        "fr": "le speaker, l'annonceur",
+        "it": "l'annunciatore, lo speaker",
+        "es": "el locutor"
+      },
+      "sentences": [
+        {
+          "en": "The radio [announcer] has a deep, calm voice.",
+          "tr": "Radyo spikerinin kalın, sakin bir sesi var.",
+          "de": "Der Radiosprecher hat eine tiefe, ruhige Stimme.",
+          "fr": "Le speaker de la radio a une voix grave et calme.",
+          "it": "Lo speaker della radio ha una voce profonda e calma.",
+          "es": "El locutor de radio tiene una voz grave y tranquila."
+        },
+        {
+          "en": "The stadium [announcer] read out the players' names.",
+          "tr": "Stadyum spikeri oyuncuların adlarını okudu.",
+          "de": "Der Stadionsprecher las die Namen der Spieler vor.",
+          "fr": "Le speaker du stade a lu le nom des joueurs.",
+          "it": "Lo speaker dello stadio ha letto i nomi dei giocatori.",
+          "es": "El locutor del estadio leyó los nombres de los jugadores."
+        }
+      ]
+    },
+    {
+      "id": "pronounce",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "pro-",
+        "nounce"
+      ],
+      "gloss": {
+        "en": "to say the sounds of a word; to say officially (literally: to announce forth)",
+        "tr": "telaffuz etmek, söylemek; (resmî olarak) ilan etmek",
+        "de": "aussprechen; erklären",
+        "fr": "prononcer",
+        "it": "pronunciare",
+        "es": "pronunciar"
+      },
+      "sentences": [
+        {
+          "en": "How do you [pronounce] your name?",
+          "tr": "Adını nasıl telaffuz ediyorsun?",
+          "de": "Wie spricht man deinen Namen aus?",
+          "fr": "Comment prononces-tu ton nom ?",
+          "it": "Come si pronuncia il tuo nome?",
+          "es": "¿Cómo se pronuncia tu nombre?"
+        },
+        {
+          "en": "The doctor [pronounced] him fit to play.",
+          "tr": "Doktor onun oynayabilecek durumda olduğunu açıkladı.",
+          "de": "Der Arzt erklärte ihn für spielfähig.",
+          "fr": "Le médecin l'a déclaré apte à jouer.",
+          "it": "Il medico lo ha dichiarato idoneo a giocare.",
+          "es": "El médico lo declaró apto para jugar."
+        }
+      ]
+    },
+    {
+      "id": "pronunciation",
+      "pos": "noun",
+      "parent": "pronounce",
+      "parts": [
+        "pro-",
+        "nunci",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "the way a word or a language is spoken",
+        "tr": "telaffuz, söyleniş",
+        "de": "die Aussprache",
+        "fr": "la prononciation",
+        "it": "la pronuncia",
+        "es": "la pronunciación"
+      },
+      "sentences": [
+        {
+          "en": "Her English [pronunciation] is very clear.",
+          "tr": "İngilizce telaffuzu çok net.",
+          "de": "Ihre englische Aussprache ist sehr deutlich.",
+          "fr": "Sa prononciation anglaise est très claire.",
+          "it": "La sua pronuncia inglese è molto chiara.",
+          "es": "Su pronunciación en inglés es muy clara."
+        },
+        {
+          "en": "Click the speaker to hear the [pronunciation].",
+          "tr": "Telaffuzu duymak için hoparlöre tıkla.",
+          "de": "Klick auf den Lautsprecher, um die Aussprache zu hören.",
+          "fr": "Clique sur le haut-parleur pour entendre la prononciation.",
+          "it": "Clicca sull'altoparlante per sentire la pronuncia.",
+          "es": "Haz clic en el altavoz para oír la pronunciación."
+        }
+      ]
+    },
+    {
+      "id": "mispronounce",
+      "pos": "verb",
+      "parent": "pronounce",
+      "parts": [
+        "mis-",
+        "pro-",
+        "nounce"
+      ],
+      "gloss": {
+        "en": "to say a word wrongly",
+        "tr": "yanlış telaffuz etmek",
+        "de": "falsch aussprechen",
+        "fr": "mal prononcer",
+        "it": "pronunciare male",
+        "es": "pronunciar mal"
+      },
+      "sentences": [
+        {
+          "en": "Everyone [mispronounces] the name of my town.",
+          "tr": "Herkes kasabamın adını yanlış telaffuz ediyor.",
+          "de": "Alle sprechen den Namen meiner Stadt falsch aus.",
+          "fr": "Tout le monde prononce mal le nom de ma ville.",
+          "it": "Tutti pronunciano male il nome della mia città.",
+          "es": "Todo el mundo pronuncia mal el nombre de mi pueblo."
+        },
+        {
+          "en": "The host [mispronounced] the singer's name twice.",
+          "tr": "Sunucu şarkıcının adını iki kez yanlış söyledi.",
+          "de": "Der Moderator sprach den Namen der Sängerin zweimal falsch aus.",
+          "fr": "Le présentateur a mal prononcé deux fois le nom de la chanteuse.",
+          "it": "Il presentatore ha pronunciato male due volte il nome della cantante.",
+          "es": "El presentador pronunció mal dos veces el nombre de la cantante."
+        }
+      ]
+    },
+    {
+      "id": "mispronunciation",
+      "pos": "noun",
+      "parent": "mispronounce",
+      "parts": [
+        "mis-",
+        "pro-",
+        "nunci",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "a wrong way of saying a word",
+        "tr": "yanlış telaffuz",
+        "de": "die falsche Aussprache",
+        "fr": "la mauvaise prononciation",
+        "it": "la pronuncia sbagliata",
+        "es": "la mala pronunciación"
+      },
+      "sentences": [
+        {
+          "en": "His small [mispronunciation] made everyone laugh.",
+          "tr": "Küçük bir telaffuz hatası herkesi güldürdü.",
+          "de": "Seine kleine falsche Aussprache brachte alle zum Lachen.",
+          "fr": "Sa petite erreur de prononciation a fait rire tout le monde.",
+          "it": "Il suo piccolo errore di pronuncia ha fatto ridere tutti.",
+          "es": "Su pequeño error de pronunciación hizo reír a todos."
+        },
+        {
+          "en": "'Pronounciation' is a common [mispronunciation] and misspelling.",
+          "tr": "'Pronounciation' yaygın bir telaffuz ve yazım hatasıdır.",
+          "de": "„Pronounciation“ ist eine häufige falsche Aussprache und Schreibung.",
+          "fr": "« Pronounciation » est une erreur de prononciation et d'orthographe fréquente.",
+          "it": "«Pronounciation» è un comune errore di pronuncia e di ortografia.",
+          "es": "«Pronounciation» es un error común de pronunciación y ortografía."
+        }
+      ]
+    },
+    {
+      "id": "pronounced",
+      "pos": "adjective",
+      "parent": "pronounce",
+      "parts": [
+        "pro-",
+        "nounc",
+        "-ed"
+      ],
+      "gloss": {
+        "en": "very noticeable, strong",
+        "tr": "belirgin, göze çarpan",
+        "de": "ausgeprägt, deutlich",
+        "fr": "prononcé, marqué",
+        "it": "marcato, spiccato",
+        "es": "pronunciado, marcado"
+      },
+      "sentences": [
+        {
+          "en": "He speaks with a [pronounced] Scottish accent.",
+          "tr": "Belirgin bir İskoç aksanıyla konuşuyor.",
+          "de": "Er spricht mit einem ausgeprägten schottischen Akzent.",
+          "fr": "Il parle avec un accent écossais prononcé.",
+          "it": "Parla con uno spiccato accento scozzese.",
+          "es": "Habla con un marcado acento escocés."
+        },
+        {
+          "en": "There was a [pronounced] change in her mood.",
+          "tr": "Ruh halinde belirgin bir değişiklik vardı.",
+          "de": "Ihre Stimmung veränderte sich deutlich.",
+          "fr": "Il y a eu un changement marqué dans son humeur.",
+          "it": "C'è stato un cambiamento marcato nel suo umore.",
+          "es": "Hubo un cambio marcado en su estado de ánimo."
+        }
+      ]
+    },
+    {
+      "id": "unpronounceable",
+      "pos": "adjective",
+      "parent": "pronounce",
+      "parts": [
+        "un-",
+        "pro-",
+        "nounce",
+        "-able"
+      ],
+      "gloss": {
+        "en": "too difficult to say",
+        "tr": "telaffuz edilemez, söylenmesi çok zor",
+        "de": "unaussprechlich",
+        "fr": "imprononçable",
+        "it": "impronunciabile",
+        "es": "impronunciable"
+      },
+      "sentences": [
+        {
+          "en": "The village has an almost [unpronounceable] Welsh name.",
+          "tr": "Köyün neredeyse telaffuz edilemeyen Galce bir adı var.",
+          "de": "Das Dorf hat einen fast unaussprechlichen walisischen Namen.",
+          "fr": "Le village a un nom gallois presque imprononçable.",
+          "it": "Il villaggio ha un nome gallese quasi impronunciabile.",
+          "es": "El pueblo tiene un nombre galés casi impronunciable."
+        },
+        {
+          "en": "The medicine has a long, [unpronounceable] name.",
+          "tr": "İlacın uzun, söylenmesi imkânsız bir adı var.",
+          "de": "Das Medikament hat einen langen, unaussprechlichen Namen.",
+          "fr": "Le médicament a un nom long et imprononçable.",
+          "it": "Il farmaco ha un nome lungo e impronunciabile.",
+          "es": "El medicamento tiene un nombre largo e impronunciable."
+        }
+      ]
+    },
+    {
+      "id": "denounce",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "de-",
+        "nounce"
+      ],
+      "gloss": {
+        "en": "to criticize someone strongly in public; to report someone to the authorities",
+        "tr": "kınamak; ihbar etmek",
+        "de": "anprangern; denunzieren",
+        "fr": "dénoncer",
+        "it": "denunciare",
+        "es": "denunciar"
+      },
+      "sentences": [
+        {
+          "en": "World leaders [denounced] the attack.",
+          "tr": "Dünya liderleri saldırıyı kınadı.",
+          "de": "Die Staatschefs der Welt verurteilten den Angriff.",
+          "fr": "Les dirigeants du monde ont dénoncé l'attaque.",
+          "it": "I leader mondiali hanno denunciato l'attacco.",
+          "es": "Los líderes mundiales denunciaron el ataque."
+        },
+        {
+          "en": "In the war, neighbours [denounced] each other to the police.",
+          "tr": "Savaşta komşular birbirlerini polise ihbar etti.",
+          "de": "Im Krieg denunzierten sich Nachbarn gegenseitig bei der Polizei.",
+          "fr": "Pendant la guerre, des voisins se dénonçaient à la police.",
+          "it": "Durante la guerra i vicini si denunciavano a vicenda alla polizia.",
+          "es": "En la guerra, los vecinos se denunciaban unos a otros a la policía."
+        }
+      ]
+    },
+    {
+      "id": "denunciation",
+      "pos": "noun",
+      "parent": "denounce",
+      "parts": [
+        "de-",
+        "nunci",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "strong public criticism; reporting someone to the authorities",
+        "tr": "kınama; ihbar",
+        "de": "die Anprangerung; die Denunziation",
+        "fr": "la dénonciation",
+        "it": "la denuncia",
+        "es": "la denuncia"
+      },
+      "sentences": [
+        {
+          "en": "The speech was a fierce [denunciation] of racism.",
+          "tr": "Konuşma ırkçılığa yönelik sert bir kınamaydı.",
+          "de": "Die Rede war eine scharfe Anprangerung des Rassismus.",
+          "fr": "Le discours était une dénonciation virulente du racisme.",
+          "it": "Il discorso è stato una dura denuncia del razzismo.",
+          "es": "El discurso fue una dura denuncia del racismo."
+        },
+        {
+          "en": "Many people were arrested after a secret [denunciation].",
+          "tr": "Gizli bir ihbarın ardından birçok kişi tutuklandı.",
+          "de": "Nach einer geheimen Denunziation wurden viele Menschen verhaftet.",
+          "fr": "Beaucoup de gens ont été arrêtés après une dénonciation secrète.",
+          "it": "Molte persone sono state arrestate dopo una denuncia segreta.",
+          "es": "Muchas personas fueron detenidas tras una denuncia secreta."
+        }
+      ]
+    },
+    {
+      "id": "renounce",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "re-",
+        "nounce"
+      ],
+      "gloss": {
+        "en": "to say officially that you give something up (literally: to announce back)",
+        "tr": "vazgeçmek, feragat etmek",
+        "de": "verzichten auf, abschwören",
+        "fr": "renoncer à",
+        "it": "rinunciare a",
+        "es": "renunciar a"
+      },
+      "sentences": [
+        {
+          "en": "She [renounced] her title to marry him.",
+          "tr": "Onunla evlenmek için unvanından vazgeçti.",
+          "de": "Sie verzichtete auf ihren Titel, um ihn zu heiraten.",
+          "fr": "Elle a renoncé à son titre pour l'épouser.",
+          "it": "Ha rinunciato al suo titolo per sposarlo.",
+          "es": "Renunció a su título para casarse con él."
+        },
+        {
+          "en": "The group finally [renounced] violence.",
+          "tr": "Grup sonunda şiddetten vazgeçti.",
+          "de": "Die Gruppe schwor schließlich der Gewalt ab.",
+          "fr": "Le groupe a finalement renoncé à la violence.",
+          "it": "Il gruppo ha finalmente rinunciato alla violenza.",
+          "es": "El grupo renunció por fin a la violencia."
+        }
+      ]
+    },
+    {
+      "id": "renunciation",
+      "pos": "noun",
+      "parent": "renounce",
+      "parts": [
+        "re-",
+        "nunci",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "the act of officially giving something up",
+        "tr": "feragat, vazgeçme",
+        "de": "der Verzicht",
+        "fr": "la renonciation",
+        "it": "la rinuncia",
+        "es": "la renuncia"
+      },
+      "sentences": [
+        {
+          "en": "Monks live a life of [renunciation].",
+          "tr": "Keşişler dünya nimetlerinden vazgeçerek yaşar.",
+          "de": "Mönche führen ein Leben des Verzichts.",
+          "fr": "Les moines mènent une vie de renoncement.",
+          "it": "I monaci vivono una vita di rinuncia.",
+          "es": "Los monjes llevan una vida de renuncia."
+        },
+        {
+          "en": "His [renunciation] of the throne shocked the country.",
+          "tr": "Tahttan feragat etmesi ülkeyi şoke etti.",
+          "de": "Sein Verzicht auf den Thron schockierte das Land.",
+          "fr": "Sa renonciation au trône a choqué le pays.",
+          "it": "La sua rinuncia al trono ha scioccato il paese.",
+          "es": "Su renuncia al trono conmocionó al país."
+        }
+      ]
+    },
+    {
+      "id": "enunciate",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "e-",
+        "nunci",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "to say words clearly and carefully (literally: to announce out)",
+        "tr": "tane tane söylemek, net telaffuz etmek",
+        "de": "deutlich aussprechen, artikulieren",
+        "fr": "articuler",
+        "it": "scandire, articolare",
+        "es": "articular, vocalizar"
+      },
+      "sentences": [
+        {
+          "en": "Please [enunciate]; the microphone isn't working well.",
+          "tr": "Lütfen tane tane konuş; mikrofon iyi çalışmıyor.",
+          "de": "Bitte sprich deutlich; das Mikrofon funktioniert schlecht.",
+          "fr": "Articule, s'il te plaît ; le micro ne marche pas bien.",
+          "it": "Scandisci bene, per favore; il microfono non funziona bene.",
+          "es": "Vocaliza, por favor; el micrófono no funciona bien."
+        },
+        {
+          "en": "Actors learn to [enunciate] every word.",
+          "tr": "Oyuncular her kelimeyi net söylemeyi öğrenir.",
+          "de": "Schauspieler lernen, jedes Wort deutlich auszusprechen.",
+          "fr": "Les acteurs apprennent à articuler chaque mot.",
+          "it": "Gli attori imparano a scandire ogni parola.",
+          "es": "Los actores aprenden a vocalizar cada palabra."
+        }
+      ]
+    },
+    {
+      "id": "enunciation",
+      "pos": "noun",
+      "parent": "enunciate",
+      "parts": [
+        "e-",
+        "nunci",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "the way someone pronounces words, clearly or not",
+        "tr": "telaffuz netliği, diksiyon",
+        "de": "die Artikulation, die deutliche Aussprache",
+        "fr": "l'articulation, la diction",
+        "it": "la dizione, l'articolazione",
+        "es": "la dicción, la vocalización"
+      },
+      "sentences": [
+        {
+          "en": "The singer's [enunciation] is so clear that you hear every word.",
+          "tr": "Şarkıcının diksiyonu o kadar net ki her kelimeyi duyuyorsun.",
+          "de": "Die Artikulation der Sängerin ist so klar, dass man jedes Wort hört.",
+          "fr": "La diction de la chanteuse est si claire qu'on entend chaque mot.",
+          "it": "La dizione della cantante è così chiara che si sente ogni parola.",
+          "es": "La dicción de la cantante es tan clara que se oye cada palabra."
+        },
+        {
+          "en": "Good [enunciation] matters more than speed.",
+          "tr": "İyi diksiyon hızdan daha önemlidir.",
+          "de": "Deutliche Aussprache ist wichtiger als Tempo.",
+          "fr": "Une bonne articulation compte plus que la vitesse.",
+          "it": "Una buona dizione conta più della velocità.",
+          "es": "Una buena vocalización importa más que la velocidad."
+        }
+      ]
+    }
+  ]
+}
