@@ -262,6 +262,42 @@
       ]
     },
     {
+      "id": "symphonic",
+      "pos": "adjective",
+      "parent": "symphony",
+      "parts": [
+        "sym-",
+        "phon",
+        "-ic"
+      ],
+      "gloss": {
+        "en": "relating to a symphony or a large orchestra",
+        "tr": "senfonik",
+        "de": "sinfonisch",
+        "fr": "symphonique",
+        "it": "sinfonico",
+        "es": "sinfónico"
+      },
+      "sentences": [
+        {
+          "en": "The band recorded the album with a [symphonic] orchestra.",
+          "tr": "Grup albümü bir senfoni orkestrasıyla kaydetti.",
+          "de": "Die Band nahm das Album mit einem Sinfonieorchester auf.",
+          "fr": "Le groupe a enregistré l'album avec un orchestre symphonique.",
+          "it": "La band ha registrato l'album con un'orchestra sinfonica.",
+          "es": "El grupo grabó el disco con una orquesta sinfónica."
+        },
+        {
+          "en": "The film's [symphonic] music is very dramatic.",
+          "tr": "Filmin senfonik müziği çok dramatik.",
+          "de": "Die sinfonische Musik des Films ist sehr dramatisch.",
+          "fr": "La musique symphonique du film est très dramatique.",
+          "it": "La musica sinfonica del film è molto drammatica.",
+          "es": "La música sinfónica de la película es muy dramática."
+        }
+      ]
+    },
+    {
       "id": "cacophony",
       "pos": "noun",
       "parent": null,
@@ -298,6 +334,42 @@
       ]
     },
     {
+      "id": "cacophonous",
+      "pos": "adjective",
+      "parent": "cacophony",
+      "parts": [
+        "caco-",
+        "phon",
+        "-ous"
+      ],
+      "gloss": {
+        "en": "loud and unpleasant to hear",
+        "tr": "kulak tırmalayıcı, gürültülü",
+        "de": "misstönend, ohrenbetäubend",
+        "fr": "cacophonique",
+        "it": "cacofonico",
+        "es": "cacofónico, estridente"
+      },
+      "sentences": [
+        {
+          "en": "The market was [cacophonous] with shouting sellers.",
+          "tr": "Pazar, bağıran satıcılarla kulak tırmalayıcı bir gürültüdeydi.",
+          "de": "Der Markt war ohrenbetäubend laut von rufenden Händlern.",
+          "fr": "Le marché était cacophonique avec tous ces vendeurs qui criaient.",
+          "it": "Il mercato era cacofonico per le grida dei venditori.",
+          "es": "El mercado era estridente con los gritos de los vendedores."
+        },
+        {
+          "en": "The children's first concert was a little [cacophonous].",
+          "tr": "Çocukların ilk konseri biraz kulak tırmalayıcıydı.",
+          "de": "Das erste Konzert der Kinder klang etwas misstönend.",
+          "fr": "Le premier concert des enfants était un peu cacophonique.",
+          "it": "Il primo concerto dei bambini era un po' cacofonico.",
+          "es": "El primer concierto de los niños fue un poco cacofónico."
+        }
+      ]
+    },
+    {
       "id": "saxophone",
       "pos": "noun",
       "parent": null,
@@ -329,6 +401,42 @@
           "fr": "Le solo de saxophone était le meilleur moment.",
           "it": "L'assolo di sassofono è stato il momento migliore.",
           "es": "El solo de saxofón fue lo mejor."
+        }
+      ]
+    },
+    {
+      "id": "saxophonist",
+      "pos": "noun",
+      "parent": "saxophone",
+      "parts": [
+        "saxo-",
+        "phon",
+        "-ist"
+      ],
+      "gloss": {
+        "en": "a person who plays the saxophone",
+        "tr": "saksofoncu",
+        "de": "der Saxofonist, die Saxofonistin",
+        "fr": "le/la saxophoniste",
+        "it": "il/la sassofonista",
+        "es": "el/la saxofonista"
+      },
+      "sentences": [
+        {
+          "en": "The [saxophonist] played a long solo.",
+          "tr": "Saksofoncu uzun bir solo çaldı.",
+          "de": "Der Saxofonist spielte ein langes Solo.",
+          "fr": "Le saxophoniste a joué un long solo.",
+          "it": "Il sassofonista ha suonato un lungo assolo.",
+          "es": "El saxofonista tocó un largo solo."
+        },
+        {
+          "en": "My uncle was a jazz [saxophonist] in Paris.",
+          "tr": "Amcam Paris'te caz saksofoncusuydu.",
+          "de": "Mein Onkel war Jazz-Saxofonist in Paris.",
+          "fr": "Mon oncle était saxophoniste de jazz à Paris.",
+          "it": "Mio zio era sassofonista jazz a Parigi.",
+          "es": "Mi tío era saxofonista de jazz en París."
         }
       ]
     },
@@ -473,6 +581,43 @@
       ]
     },
     {
+      "id": "phonetically",
+      "pos": "adverb",
+      "parent": "phonetic",
+      "parts": [
+        "phon",
+        "-etic",
+        "-al",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "according to how words sound",
+        "tr": "fonetik olarak, okunduğu gibi",
+        "de": "phonetisch, nach dem Klang",
+        "fr": "phonétiquement",
+        "it": "foneticamente",
+        "es": "fonéticamente"
+      },
+      "sentences": [
+        {
+          "en": "Spanish is written almost [phonetically].",
+          "tr": "İspanyolca neredeyse okunduğu gibi yazılır.",
+          "de": "Spanisch wird fast phonetisch geschrieben.",
+          "fr": "L'espagnol s'écrit presque phonétiquement.",
+          "it": "Lo spagnolo si scrive quasi foneticamente.",
+          "es": "El español se escribe casi fonéticamente."
+        },
+        {
+          "en": "She wrote the Chinese words [phonetically] in her notebook.",
+          "tr": "Çince kelimeleri defterine okunduğu gibi yazdı.",
+          "de": "Sie schrieb die chinesischen Wörter phonetisch in ihr Heft.",
+          "fr": "Elle a écrit les mots chinois phonétiquement dans son carnet.",
+          "it": "Ha scritto le parole cinesi foneticamente sul quaderno.",
+          "es": "Escribió las palabras chinas fonéticamente en su cuaderno."
+        }
+      ]
+    },
+    {
       "id": "phonics",
       "pos": "noun",
       "parent": null,
@@ -539,6 +684,41 @@
           "fr": "L'anglais compte environ 44 phonèmes.",
           "it": "L'inglese ha circa 44 fonemi.",
           "es": "El inglés tiene unos 44 fonemas."
+        }
+      ]
+    },
+    {
+      "id": "phonology",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "phon",
+        "-ology"
+      ],
+      "gloss": {
+        "en": "the study of the sound system of a language",
+        "tr": "ses bilimi, fonoloji",
+        "de": "die Phonologie",
+        "fr": "la phonologie",
+        "it": "la fonologia",
+        "es": "la fonología"
+      },
+      "sentences": [
+        {
+          "en": "In [phonology] class we compared English and Spanish sounds.",
+          "tr": "Ses bilimi dersinde İngilizce ve İspanyolca sesleri karşılaştırdık.",
+          "de": "Im Phonologie-Kurs verglichen wir englische und spanische Laute.",
+          "fr": "En cours de phonologie, nous avons comparé les sons anglais et espagnols.",
+          "it": "A lezione di fonologia abbiamo confrontato i suoni inglesi e spagnoli.",
+          "es": "En la clase de fonología comparamos los sonidos del inglés y del español."
+        },
+        {
+          "en": "Japanese [phonology] has only five vowels.",
+          "tr": "Japonca ses sisteminde yalnızca beş ünlü var.",
+          "de": "Die japanische Phonologie hat nur fünf Vokale.",
+          "fr": "La phonologie japonaise ne compte que cinq voyelles.",
+          "it": "La fonologia giapponese ha solo cinque vocali.",
+          "es": "La fonología japonesa solo tiene cinco vocales."
         }
       ]
     }

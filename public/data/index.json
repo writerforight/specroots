@@ -17,6 +17,7 @@
       "audience",
       "audible",
       "inaudible",
+      "audibly",
       "audit",
       "auditor",
       "audition",
@@ -43,12 +44,19 @@
       "biology",
       "biologist",
       "biological",
+      "biologically",
+      "microbiology",
+      "microbiologist",
       "biography",
       "autobiography",
+      "autobiographical",
+      "biographer",
+      "biographical",
       "antibiotic",
       "probiotic",
       "biopsy",
       "symbiosis",
+      "symbiotic",
       "biosphere"
     ]
   },
@@ -165,11 +173,13 @@
       "chronicle",
       "chronology",
       "chronological",
+      "chronologically",
       "synchronize",
       "synchronized",
       "asynchronous",
       "anachronism",
-      "chronometer"
+      "chronometer",
+      "synchronous"
     ]
   },
   {
@@ -234,26 +244,32 @@
       "enclosure",
       "disclose",
       "disclosure",
+      "closure",
+      "closely",
       "include",
       "inclusion",
       "inclusive",
       "exclude",
       "exclusion",
       "exclusive",
+      "exclusively",
       "conclude",
       "conclusion",
       "conclusive",
       "inconclusive",
       "preclude",
       "secluded",
+      "seclusion",
       "recluse",
+      "reclusive",
       "clause"
     ]
   },
   {
     "id": "cred",
     "forms": [
-      "cred"
+      "cred",
+      "creed"
     ],
     "origin": "la",
     "meaning": {
@@ -269,13 +285,17 @@
       "creditor",
       "discredit",
       "accredit",
+      "creditable",
       "credible",
       "incredible",
       "incredibly",
       "credibility",
+      "credibly",
       "credential",
       "credulous",
-      "incredulous"
+      "incredulous",
+      "creed",
+      "credence"
     ]
   },
   {
@@ -305,8 +325,11 @@
       "occurrence",
       "recur",
       "recurring",
+      "recurrence",
+      "recurrent",
       "concur",
       "concurrent",
+      "concurrently",
       "incur",
       "excursion",
       "cursor",
@@ -316,7 +339,9 @@
       "discourse",
       "recourse",
       "concourse",
-      "courier"
+      "courier",
+      "incursion",
+      "cursive"
     ]
   },
   {
@@ -476,24 +501,31 @@
     },
     "words": [
       "transfer",
+      "transferable",
       "refer",
       "reference",
       "referee",
       "referendum",
       "prefer",
       "preference",
+      "preferential",
       "preferable",
       "offer",
+      "offering",
       "differ",
       "different",
       "difference",
       "indifferent",
+      "indifference",
+      "differently",
       "confer",
       "conference",
       "infer",
       "inference",
       "suffer",
+      "suffering",
       "defer",
+      "deference",
       "circumference"
     ]
   },
@@ -517,15 +549,21 @@
       "flexible",
       "flexibility",
       "inflexible",
+      "inflexibility",
+      "flexibly",
       "reflex",
       "reflexive",
+      "reflexively",
       "circumflex",
       "reflect",
       "reflection",
       "reflective",
       "reflector",
       "deflect",
-      "inflection"
+      "deflection",
+      "inflection",
+      "inflect",
+      "genuflect"
     ]
   },
   {
@@ -547,6 +585,7 @@
       "formal",
       "informal",
       "formality",
+      "formally",
       "formation",
       "formative",
       "formula",
@@ -555,13 +594,17 @@
       "information",
       "informative",
       "misinform",
+      "informant",
       "transform",
       "transformation",
+      "transformer",
       "reform",
       "reformer",
       "conform",
       "conformity",
+      "conformist",
       "uniform",
+      "uniformity",
       "deform",
       "deformity",
       "platform"
@@ -591,20 +634,28 @@
       "gradient",
       "graduate",
       "graduation",
+      "undergraduate",
+      "postgraduate",
       "upgrade",
       "downgrade",
       "degrade",
+      "degradation",
       "centigrade",
       "retrograde",
       "progress",
       "progressive",
+      "progressively",
       "progression",
       "aggressive",
       "aggression",
+      "aggressor",
       "congress",
       "digress",
       "regress",
-      "ingredient"
+      "regression",
+      "ingredient",
+      "transgress",
+      "transgression"
     ]
   },
   {
@@ -671,16 +722,21 @@
       "injection",
       "object",
       "objection",
+      "objectionable",
       "objective",
+      "objectively",
+      "objectivity",
       "subject",
       "subjective",
       "eject",
+      "ejection",
       "interject",
       "interjection",
       "trajectory",
       "dejected",
       "conjecture",
-      "adjective"
+      "adjective",
+      "abject"
     ]
   },
   {
@@ -739,10 +795,15 @@
       "location",
       "relocate",
       "relocation",
+      "locator",
       "allocate",
       "allocation",
+      "unallocated",
       "dislocate",
-      "collocation"
+      "dislocation",
+      "collocation",
+      "locus",
+      "collocate"
     ]
   },
   {
@@ -764,6 +825,7 @@
       "logic",
       "logical",
       "illogical",
+      "logically",
       "dialogue",
       "monologue",
       "catalogue",
@@ -771,11 +833,16 @@
       "epilogue",
       "apology",
       "apologize",
+      "apologetic",
       "analogy",
+      "analogous",
       "technology",
       "technological",
       "ecology",
+      "ecological",
       "psychology",
+      "psychologist",
+      "psychological",
       "geology",
       "mythology",
       "zoology",
@@ -801,13 +868,17 @@
     "words": [
       "command",
       "commander",
+      "commandment",
       "commend",
+      "commendable",
+      "commendation",
       "demand",
       "demanding",
       "mandate",
       "mandatory",
       "recommend",
-      "recommendation"
+      "recommendation",
+      "remand"
     ]
   },
   {
@@ -832,6 +903,8 @@
       "symmetry",
       "symmetrical",
       "asymmetrical",
+      "symmetrically",
+      "asymmetry",
       "geometry",
       "geometric",
       "trigonometry",
@@ -841,11 +914,13 @@
       "kilometer",
       "centimeter",
       "millimeter",
+      "micrometer",
       "diameter",
       "diametrically",
       "perimeter",
       "parameter",
-      "biometric"
+      "biometric",
+      "telemetry"
     ]
   },
   {
@@ -943,17 +1018,23 @@
       "movie",
       "remove",
       "removal",
+      "removable",
+      "movable",
       "motion",
       "motionless",
       "motor",
+      "motorist",
       "motive",
       "motivate",
       "motivation",
       "emotion",
       "emotional",
+      "emotionally",
       "promote",
       "promotion",
+      "promoter",
       "remote",
+      "remotely",
       "demote",
       "commotion",
       "locomotive",
@@ -981,10 +1062,12 @@
       "sympathy",
       "sympathetic",
       "unsympathetic",
+      "sympathetically",
       "sympathize",
       "empathy",
       "empathetic",
       "empathize",
+      "empathic",
       "apathy",
       "apathetic",
       "pathetic",
@@ -993,8 +1076,10 @@
       "telepathic",
       "psychopath",
       "psychopathic",
+      "psychopathy",
       "pathology",
       "pathological",
+      "pathologist",
       "homeopathy"
     ]
   },
@@ -1017,19 +1102,26 @@
     },
     "words": [
       "pulse",
+      "pulsate",
       "impulse",
       "impulsive",
+      "impulsively",
       "expel",
       "expulsion",
       "compel",
       "compulsion",
       "compulsory",
       "compulsive",
+      "compelling",
       "propel",
       "propeller",
+      "propulsion",
       "repel",
       "repellent",
-      "dispel"
+      "repulsion",
+      "repulsive",
+      "dispel",
+      "impel"
     ]
   },
   {
@@ -1098,14 +1190,19 @@
       "megaphone",
       "headphones",
       "symphony",
+      "symphonic",
       "cacophony",
+      "cacophonous",
       "saxophone",
+      "saxophonist",
       "xylophone",
       "homophone",
       "francophone",
       "phonetic",
+      "phonetically",
       "phonics",
-      "phoneme"
+      "phoneme",
+      "phonology"
     ]
   },
   {
@@ -1159,17 +1256,20 @@
       "apply",
       "application",
       "applicant",
+      "applicable",
       "reply",
       "imply",
       "implication",
       "implicit",
       "explicit",
+      "explicitly",
       "complicate",
       "complicated",
       "complication",
       "complex",
       "complexity",
       "perplexed",
+      "perplexity",
       "duplicate",
       "multiply",
       "multiplication",
@@ -1178,7 +1278,9 @@
       "employee",
       "employment",
       "unemployment",
-      "deploy"
+      "unemployed",
+      "deploy",
+      "deployment"
     ]
   },
   {
@@ -1248,11 +1350,13 @@
       "portable",
       "report",
       "reporter",
+      "reportedly",
       "support",
       "supporter",
       "supportive",
       "deport",
       "deportation",
+      "deportee",
       "porter",
       "importance",
       "unimportant",
@@ -1260,7 +1364,9 @@
       "importer",
       "transportation",
       "transporter",
-      "teleport"
+      "transportable",
+      "teleport",
+      "purport"
     ]
   },
   {
@@ -1284,18 +1390,25 @@
       "express",
       "expression",
       "expressive",
+      "expressly",
       "impress",
       "impression",
+      "impressionable",
       "impressive",
       "unimpressed",
       "depress",
       "depressed",
       "depression",
+      "depressing",
+      "antidepressant",
       "oppress",
       "oppression",
+      "oppressive",
       "suppress",
+      "suppression",
       "compress",
       "compression",
+      "compressor",
       "repress",
       "irrepressible"
     ]
@@ -1323,12 +1436,15 @@
       "disrupt",
       "disruption",
       "disruptive",
+      "disruptor",
       "corrupt",
       "corruption",
       "incorruptible",
+      "corruptible",
       "bankrupt",
       "bankruptcy",
       "abrupt",
+      "abruptly",
       "rupture"
     ]
   },
@@ -1353,12 +1469,15 @@
       "telescopic",
       "microscope",
       "microscopic",
+      "microscopically",
+      "microscopy",
       "periscope",
       "horoscope",
       "stethoscope",
       "kaleidoscope",
       "gyroscope",
-      "endoscopy"
+      "endoscopy",
+      "endoscope"
     ]
   },
   {
@@ -1425,9 +1544,11 @@
       "senseless",
       "nonsense",
       "sensible",
+      "sensibly",
       "sensitive",
       "insensitive",
       "sensitivity",
+      "desensitize",
       "sensor",
       "sensory",
       "extrasensory",
@@ -1438,9 +1559,13 @@
       "sentimental",
       "consent",
       "consensus",
+      "consensual",
       "resent",
       "resentment",
-      "dissent"
+      "resentful",
+      "dissent",
+      "assent",
+      "sentient"
     ]
   },
   {
@@ -1559,18 +1684,25 @@
     "words": [
       "spirit",
       "spiritual",
+      "spiritually",
       "dispirited",
+      "spirited",
       "inspire",
       "inspiration",
+      "inspirational",
       "inspiring",
+      "uninspired",
       "aspire",
       "aspiration",
       "expire",
       "expiry",
+      "expiration",
       "conspire",
       "conspiracy",
+      "conspirator",
       "respiration",
       "respiratory",
+      "respirator",
       "perspire",
       "perspiration",
       "transpire"
@@ -1581,7 +1713,8 @@
     "forms": [
       "struct",
       "stru",
-      "strue"
+      "strue",
+      "stroy"
     ],
     "origin": "la",
     "meaning": {
@@ -1599,6 +1732,7 @@
       "construct",
       "construction",
       "constructive",
+      "constructively",
       "reconstruct",
       "reconstruction",
       "destruction",
@@ -1606,13 +1740,18 @@
       "indestructible",
       "instruct",
       "instruction",
+      "instructional",
       "instructor",
       "instructive",
       "obstruct",
       "obstruction",
+      "obstructive",
       "instrument",
       "instrumental",
-      "construe"
+      "construe",
+      "misconstrue",
+      "destroy",
+      "destroyer"
     ]
   },
   {
@@ -1635,25 +1774,31 @@
     "words": [
       "contain",
       "container",
+      "containment",
       "content",
       "continent",
+      "continental",
       "continue",
       "maintain",
       "maintenance",
       "obtain",
+      "obtainable",
       "retain",
       "retention",
       "detain",
       "detention",
+      "detainee",
       "entertain",
       "entertainment",
+      "entertainer",
       "sustain",
       "sustainable",
       "abstain",
       "tenant",
       "tenacious",
       "pertinent",
-      "lieutenant"
+      "lieutenant",
+      "tenure"
     ]
   },
   {
@@ -1681,11 +1826,16 @@
       "attention",
       "attentive",
       "inattentive",
+      "attendant",
       "intend",
       "intention",
       "unintentional",
+      "intentional",
+      "intent",
       "intense",
       "intensity",
+      "intensive",
+      "intensify",
       "extend",
       "extension",
       "extensive",
@@ -1693,7 +1843,9 @@
       "pretend",
       "tense",
       "tension",
-      "tent"
+      "tent",
+      "contend",
+      "contender"
     ]
   },
   {
@@ -1720,6 +1872,7 @@
       "unattractive",
       "distract",
       "distraction",
+      "distracted",
       "extract",
       "extraction",
       "subtract",
@@ -1727,10 +1880,15 @@
       "contract",
       "contractor",
       "contraction",
+      "contractual",
       "retract",
+      "retraction",
       "abstract",
+      "abstraction",
       "protracted",
-      "intractable"
+      "intractable",
+      "detract",
+      "detractor"
     ]
   },
   {
@@ -1754,13 +1912,17 @@
       "event",
       "eventual",
       "eventually",
+      "eventful",
       "invent",
       "invention",
       "inventor",
       "inventory",
+      "inventive",
       "prevent",
       "prevention",
+      "preventive",
       "adventure",
+      "venture",
       "convention",
       "conventional",
       "unconventional",
@@ -1768,6 +1930,7 @@
       "intervention",
       "convenient",
       "inconvenient",
+      "convenience",
       "circumvent",
       "venue",
       "avenue",
@@ -1794,9 +1957,11 @@
     "words": [
       "convert",
       "conversion",
+      "convertible",
       "conversation",
       "reverse",
       "irreversible",
+      "reversal",
       "version",
       "universe",
       "universal",
@@ -1804,6 +1969,7 @@
       "diverse",
       "diversity",
       "divert",
+      "diversion",
       "advertise",
       "advertisement",
       "controversy",
@@ -1813,7 +1979,11 @@
       "extrovert",
       "vertical",
       "anniversary",
-      "adverse"
+      "adverse",
+      "adversity",
+      "conversely",
+      "invert",
+      "versus"
     ]
   },
   {
@@ -1883,20 +2053,29 @@
     },
     "words": [
       "voice",
+      "voiceless",
       "vocal",
       "vocalist",
+      "vocally",
       "vowel",
       "vocabulary",
       "vocation",
       "vocational",
       "advocate",
+      "advocacy",
       "provoke",
       "provocation",
       "provocative",
       "evoke",
+      "evocative",
       "invoke",
+      "invocation",
       "revoke",
-      "irrevocable"
+      "irrevocable",
+      "revocation",
+      "equivocal",
+      "unequivocal",
+      "convocation"
     ]
   }
 ]

@@ -262,6 +262,43 @@
       ]
     },
     {
+      "id": "reportedly",
+      "pos": "adverb",
+      "parent": "report",
+      "parts": [
+        "re-",
+        "port",
+        "-ed",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "according to what people say or reports say",
+        "tr": "bildirildiğine göre, söylendiğine göre",
+        "de": "Berichten zufolge, angeblich",
+        "fr": "selon certaines sources, paraît-il",
+        "it": "a quanto si dice, secondo fonti",
+        "es": "según se informa, al parecer"
+      },
+      "sentences": [
+        {
+          "en": "The singer is [reportedly] planning a world tour.",
+          "tr": "Bildirildiğine göre şarkıcı bir dünya turnesi planlıyor.",
+          "de": "Die Sängerin plant Berichten zufolge eine Welttournee.",
+          "fr": "La chanteuse prépare, paraît-il, une tournée mondiale.",
+          "it": "A quanto si dice, la cantante sta preparando un tour mondiale.",
+          "es": "Al parecer, la cantante prepara una gira mundial."
+        },
+        {
+          "en": "Two people were [reportedly] hurt in the fire.",
+          "tr": "Söylendiğine göre yangında iki kişi yaralandı.",
+          "de": "Bei dem Brand wurden angeblich zwei Menschen verletzt.",
+          "fr": "Deux personnes auraient été blessées dans l'incendie.",
+          "it": "Secondo le notizie, due persone sono rimaste ferite nell'incendio.",
+          "es": "Según se informa, dos personas resultaron heridas en el incendio."
+        }
+      ]
+    },
+    {
       "id": "support",
       "pos": "verb",
       "parent": null,
@@ -436,6 +473,42 @@
           "fr": "Il vivait dans la peur de l'expulsion.",
           "it": "Viveva nel timore dell'espulsione.",
           "es": "Vivía con miedo a la deportación."
+        }
+      ]
+    },
+    {
+      "id": "deportee",
+      "pos": "noun",
+      "parent": "deport",
+      "parts": [
+        "de-",
+        "port",
+        "-ee"
+      ],
+      "gloss": {
+        "en": "a person who has been sent out of a country",
+        "tr": "sınır dışı edilen kişi",
+        "de": "der/die Abgeschobene",
+        "fr": "le/la déporté(e), l'expulsé(e)",
+        "it": "il deportato, l'espulso",
+        "es": "el/la deportado/a"
+      },
+      "sentences": [
+        {
+          "en": "The plane carried forty [deportees] home.",
+          "tr": "Uçak kırk sınır dışı edilen kişiyi ülkesine götürdü.",
+          "de": "Das Flugzeug brachte vierzig Abgeschobene in ihre Heimat.",
+          "fr": "L'avion a ramené quarante expulsés chez eux.",
+          "it": "L'aereo ha riportato a casa quaranta espulsi.",
+          "es": "El avión llevó a cuarenta deportados a su país."
+        },
+        {
+          "en": "Many [deportees] had lived there since childhood.",
+          "tr": "Sınır dışı edilenlerin çoğu çocukluklarından beri orada yaşıyordu.",
+          "de": "Viele Abgeschobene hatten dort seit ihrer Kindheit gelebt.",
+          "fr": "Beaucoup d'expulsés vivaient là depuis leur enfance.",
+          "it": "Molti espulsi vivevano lì fin dall'infanzia.",
+          "es": "Muchos deportados vivían allí desde la infancia."
         }
       ]
     },
@@ -692,6 +765,42 @@
       ]
     },
     {
+      "id": "transportable",
+      "pos": "adjective",
+      "parent": "transport",
+      "parts": [
+        "trans-",
+        "port",
+        "-able"
+      ],
+      "gloss": {
+        "en": "able to be moved from one place to another",
+        "tr": "taşınabilir, nakledilebilir",
+        "de": "transportierbar, transportfähig",
+        "fr": "transportable",
+        "it": "trasportabile",
+        "es": "transportable"
+      },
+      "sentences": [
+        {
+          "en": "The patient is not yet [transportable].",
+          "tr": "Hasta henüz nakledilebilecek durumda değil.",
+          "de": "Der Patient ist noch nicht transportfähig.",
+          "fr": "Le patient n'est pas encore transportable.",
+          "it": "Il paziente non è ancora trasportabile.",
+          "es": "El paciente todavía no es transportable."
+        },
+        {
+          "en": "The stage is light and easily [transportable].",
+          "tr": "Sahne hafif ve kolayca taşınabilir.",
+          "de": "Die Bühne ist leicht und gut transportierbar.",
+          "fr": "La scène est légère et facilement transportable.",
+          "it": "Il palco è leggero e facilmente trasportabile.",
+          "es": "El escenario es ligero y fácil de transportar."
+        }
+      ]
+    },
+    {
       "id": "teleport",
       "pos": "verb",
       "parent": null,
@@ -723,6 +832,41 @@
           "fr": "J'aimerais pouvoir me téléporter chez moi après le travail.",
           "it": "Vorrei potermi teletrasportare a casa dopo il lavoro.",
           "es": "Ojalá pudiera teletransportarme a casa después del trabajo."
+        }
+      ]
+    },
+    {
+      "id": "purport",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "pur-",
+        "port"
+      ],
+      "gloss": {
+        "en": "to claim to be something, often falsely (literally: to carry forth)",
+        "tr": "(olduğunu) iddia etmek",
+        "de": "vorgeben, angeblich sein",
+        "fr": "prétendre, se présenter comme",
+        "it": "pretendere di essere, presentarsi come",
+        "es": "pretender, presentarse como"
+      },
+      "sentences": [
+        {
+          "en": "The letter [purports] to be from the bank.",
+          "tr": "Mektup bankadan geldiğini iddia ediyor.",
+          "de": "Der Brief gibt vor, von der Bank zu stammen.",
+          "fr": "La lettre prétend venir de la banque.",
+          "it": "La lettera si presenta come proveniente dalla banca.",
+          "es": "La carta pretende ser del banco."
+        },
+        {
+          "en": "The app [purports] to help you sleep better.",
+          "tr": "Uygulama daha iyi uyumanıza yardım ettiğini iddia ediyor.",
+          "de": "Die App soll angeblich helfen, besser zu schlafen.",
+          "fr": "L'application prétend vous aider à mieux dormir.",
+          "it": "L'app sostiene di aiutarti a dormire meglio.",
+          "es": "La aplicación pretende ayudarte a dormir mejor."
         }
       ]
     }

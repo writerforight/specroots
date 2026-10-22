@@ -2842,5 +2842,52 @@
       "it": "dentro (greco)",
       "es": "dentro (griego)"
     }
+  },
+  "genu-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "knee (Latin genu)",
+      "tr": "diz (Latince genu)",
+      "de": "Knie (lateinisch genu)",
+      "fr": "genou (latin genu)",
+      "it": "ginocchio (latino genu)",
+      "es": "rodilla (latín genu)"
+    },
+    "combining": true
+  },
+  "equi-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "equal (Latin aequus)",
+      "tr": "eşit (Latince aequus)",
+      "de": "gleich (lateinisch aequus)",
+      "fr": "égal (latin aequus)",
+      "it": "uguale (latino aequus)",
+      "es": "igual (latín aequus)"
+    },
+    "combining": true
+  },
+  "under-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "below, beneath; not yet complete",
+      "tr": "alt, altında; henüz tamamlanmamış",
+      "de": "unter; noch nicht vollständig",
+      "fr": "sous, en dessous ; pas encore achevé",
+      "it": "sotto; non ancora completo",
+      "es": "debajo; aún no completo"
+    }
+  },
+  "-ologist": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "person who studies (-ology + -ist)",
+      "tr": "bilimci, uzmanı (-olog)",
+      "de": "jemand, der … erforscht (-ologe)",
+      "fr": "spécialiste de (-ologue)",
+      "it": "studioso di (-ologo)",
+      "es": "especialista en (-ólogo)"
+    },
+    "combining": true
   }
 }

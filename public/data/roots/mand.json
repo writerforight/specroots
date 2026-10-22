@@ -87,6 +87,42 @@
       ]
     },
     {
+      "id": "commandment",
+      "pos": "noun",
+      "parent": "command",
+      "parts": [
+        "com-",
+        "mand",
+        "-ment"
+      ],
+      "gloss": {
+        "en": "an important rule, especially a religious one",
+        "tr": "emir, buyruk (özellikle dinî)",
+        "de": "das Gebot",
+        "fr": "le commandement",
+        "it": "il comandamento",
+        "es": "el mandamiento"
+      },
+      "sentences": [
+        {
+          "en": "The Ten [Commandments] are rules from the Bible.",
+          "tr": "On Emir, Kutsal Kitap'taki kurallardır.",
+          "de": "Die Zehn Gebote sind Regeln aus der Bibel.",
+          "fr": "Les dix commandements sont des règles de la Bible.",
+          "it": "I dieci comandamenti sono regole della Bibbia.",
+          "es": "Los diez mandamientos son normas de la Biblia."
+        },
+        {
+          "en": "Her first [commandment] in the kitchen was: wash your hands.",
+          "tr": "Mutfaktaki ilk kuralı şuydu: ellerini yıka.",
+          "de": "Ihr erstes Gebot in der Küche lautete: Hände waschen.",
+          "fr": "Son premier commandement en cuisine : se laver les mains.",
+          "it": "Il suo primo comandamento in cucina era: lavarsi le mani.",
+          "es": "Su primer mandamiento en la cocina era: lavarse las manos."
+        }
+      ]
+    },
+    {
       "id": "commend",
       "pos": "verb",
       "parent": null,
@@ -118,6 +154,78 @@
           "fr": "Je te félicite pour ton travail.",
           "it": "Ti lodo per il tuo impegno.",
           "es": "Te felicito por tu esfuerzo."
+        }
+      ]
+    },
+    {
+      "id": "commendable",
+      "pos": "adjective",
+      "parent": "commend",
+      "parts": [
+        "com-",
+        "mend",
+        "-able"
+      ],
+      "gloss": {
+        "en": "deserving praise",
+        "tr": "övgüye değer",
+        "de": "lobenswert",
+        "fr": "louable",
+        "it": "lodevole",
+        "es": "encomiable, loable"
+      },
+      "sentences": [
+        {
+          "en": "Your honesty is [commendable].",
+          "tr": "Dürüstlüğün övgüye değer.",
+          "de": "Deine Ehrlichkeit ist lobenswert.",
+          "fr": "Ton honnêteté est louable.",
+          "it": "La tua onestà è lodevole.",
+          "es": "Tu honestidad es loable."
+        },
+        {
+          "en": "The team made a [commendable] effort despite the rain.",
+          "tr": "Takım yağmura rağmen övgüye değer bir çaba gösterdi.",
+          "de": "Das Team zeigte trotz des Regens einen lobenswerten Einsatz.",
+          "fr": "L'équipe a fait un effort louable malgré la pluie.",
+          "it": "La squadra ha fatto uno sforzo lodevole nonostante la pioggia.",
+          "es": "El equipo hizo un esfuerzo encomiable a pesar de la lluvia."
+        }
+      ]
+    },
+    {
+      "id": "commendation",
+      "pos": "noun",
+      "parent": "commend",
+      "parts": [
+        "com-",
+        "mend",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "official praise or an award for doing something well",
+        "tr": "takdir, övgü belgesi",
+        "de": "die Belobigung, die Auszeichnung",
+        "fr": "la distinction, l'éloge officiel",
+        "it": "l'encomio, la menzione d'onore",
+        "es": "la mención, el elogio oficial"
+      },
+      "sentences": [
+        {
+          "en": "The firefighter received a [commendation] for bravery.",
+          "tr": "İtfaiyeci cesaretinden dolayı takdir belgesi aldı.",
+          "de": "Der Feuerwehrmann erhielt eine Auszeichnung für Tapferkeit.",
+          "fr": "Le pompier a reçu une distinction pour son courage.",
+          "it": "Il pompiere ha ricevuto un encomio per il suo coraggio.",
+          "es": "El bombero recibió una mención por su valentía."
+        },
+        {
+          "en": "The nurse's quick action earned a [commendation].",
+          "tr": "Hemşirenin hızlı müdahalesi takdir topladı.",
+          "de": "Das schnelle Handeln der Pflegerin brachte ihr eine Belobigung ein.",
+          "fr": "La réaction rapide de l'infirmière lui a valu un éloge officiel.",
+          "it": "L'intervento rapido dell'infermiera le è valso un encomio.",
+          "es": "La rápida actuación de la enfermera le valió un elogio oficial."
         }
       ]
     },
@@ -332,6 +440,41 @@
           "fr": "Mon professeur m'a écrit une lettre de recommandation.",
           "it": "La mia insegnante mi ha scritto una lettera di raccomandazione.",
           "es": "Mi profesora me escribió una carta de recomendación."
+        }
+      ]
+    },
+    {
+      "id": "remand",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "re-",
+        "mand"
+      ],
+      "gloss": {
+        "en": "to send someone back to prison to wait for their trial (literally: to order back)",
+        "tr": "tutukluluğunu sürdürmek, cezaevine geri göndermek",
+        "de": "in Untersuchungshaft nehmen",
+        "fr": "placer en détention provisoire",
+        "it": "rinviare in custodia cautelare",
+        "es": "mantener en prisión preventiva"
+      },
+      "sentences": [
+        {
+          "en": "The judge [remanded] him until the trial in May.",
+          "tr": "Hâkim, mayıstaki duruşmaya kadar onun tutukluluğuna karar verdi.",
+          "de": "Der Richter ordnete bis zum Prozess im Mai Untersuchungshaft an.",
+          "fr": "Le juge l'a placé en détention provisoire jusqu'au procès en mai.",
+          "it": "Il giudice lo ha rinviato in custodia fino al processo di maggio.",
+          "es": "El juez lo mantuvo en prisión preventiva hasta el juicio de mayo."
+        },
+        {
+          "en": "Both men were [remanded] in custody.",
+          "tr": "İki adamın da tutukluluğu sürdürüldü.",
+          "de": "Beide Männer kamen in Untersuchungshaft.",
+          "fr": "Les deux hommes ont été placés en détention provisoire.",
+          "it": "Entrambi gli uomini sono stati rinviati in custodia.",
+          "es": "Los dos hombres quedaron en prisión preventiva."
         }
       ]
     }

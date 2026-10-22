@@ -334,6 +334,42 @@
       ]
     },
     {
+      "id": "distracted",
+      "pos": "adjective",
+      "parent": "distract",
+      "parts": [
+        "dis-",
+        "tract",
+        "-ed"
+      ],
+      "gloss": {
+        "en": "not able to pay attention because you are thinking of something else",
+        "tr": "dikkati dağılmış",
+        "de": "abgelenkt, zerstreut",
+        "fr": "distrait",
+        "it": "distratto",
+        "es": "distraído"
+      },
+      "sentences": [
+        {
+          "en": "[Distracted] drivers cause many accidents.",
+          "tr": "Dikkati dağılmış sürücüler birçok kazaya yol açıyor.",
+          "de": "Abgelenkte Fahrer verursachen viele Unfälle.",
+          "fr": "Les conducteurs distraits causent beaucoup d'accidents.",
+          "it": "I conducenti distratti causano molti incidenti.",
+          "es": "Los conductores distraídos causan muchos accidentes."
+        },
+        {
+          "en": "You seem [distracted] today. Is everything OK?",
+          "tr": "Bugün dalgın görünüyorsun. Her şey yolunda mı?",
+          "de": "Du wirkst heute abgelenkt. Ist alles in Ordnung?",
+          "fr": "Tu sembles distrait aujourd'hui. Tout va bien ?",
+          "it": "Oggi sembri distratto. Va tutto bene?",
+          "es": "Hoy pareces distraído. ¿Va todo bien?"
+        }
+      ]
+    },
+    {
       "id": "extract",
       "pos": "verb",
       "parent": null,
@@ -583,6 +619,42 @@
       ]
     },
     {
+      "id": "contractual",
+      "pos": "adjective",
+      "parent": "contract",
+      "parts": [
+        "con-",
+        "tract",
+        "-ual"
+      ],
+      "gloss": {
+        "en": "agreed in or relating to a contract",
+        "tr": "sözleşmeye dayalı, sözleşmeden doğan",
+        "de": "vertraglich",
+        "fr": "contractuel",
+        "it": "contrattuale",
+        "es": "contractual"
+      },
+      "sentences": [
+        {
+          "en": "The company has a [contractual] duty to repair it.",
+          "tr": "Şirketin onu onarma konusunda sözleşmeden doğan bir yükümlülüğü var.",
+          "de": "Die Firma ist vertraglich verpflichtet, es zu reparieren.",
+          "fr": "L'entreprise a l'obligation contractuelle de le réparer.",
+          "it": "L'azienda ha l'obbligo contrattuale di ripararlo.",
+          "es": "La empresa tiene la obligación contractual de repararlo."
+        },
+        {
+          "en": "They are in a [contractual] dispute over money.",
+          "tr": "Para konusunda sözleşmeye dayalı bir anlaşmazlık içindeler.",
+          "de": "Sie befinden sich in einem Vertragsstreit ums Geld.",
+          "fr": "Ils sont en litige contractuel au sujet de l'argent.",
+          "it": "Sono in una disputa contrattuale per soldi.",
+          "es": "Mantienen una disputa contractual por dinero."
+        }
+      ]
+    },
+    {
       "id": "retract",
       "pos": "verb",
       "parent": null,
@@ -618,6 +690,42 @@
       ]
     },
     {
+      "id": "retraction",
+      "pos": "noun",
+      "parent": "retract",
+      "parts": [
+        "re-",
+        "tract",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a statement saying that something you said or printed was wrong",
+        "tr": "(sözünü) geri alma, tekzip",
+        "de": "der Widerruf, die Richtigstellung",
+        "fr": "la rétractation, le démenti",
+        "it": "la ritrattazione, la smentita",
+        "es": "la retractación, la rectificación"
+      },
+      "sentences": [
+        {
+          "en": "The newspaper printed a [retraction] the next day.",
+          "tr": "Gazete ertesi gün bir düzeltme yayımladı.",
+          "de": "Die Zeitung druckte am nächsten Tag eine Richtigstellung.",
+          "fr": "Le journal a publié un démenti le lendemain.",
+          "it": "Il giornale ha pubblicato una smentita il giorno dopo.",
+          "es": "El periódico publicó una rectificación al día siguiente."
+        },
+        {
+          "en": "The minister refused to make a [retraction].",
+          "tr": "Bakan sözünü geri almayı reddetti.",
+          "de": "Der Minister weigerte sich, seine Aussage zu widerrufen.",
+          "fr": "Le ministre a refusé de se rétracter.",
+          "it": "Il ministro si è rifiutato di ritrattare.",
+          "es": "El ministro se negó a retractarse."
+        }
+      ]
+    },
+    {
       "id": "abstract",
       "pos": "adjective",
       "parent": null,
@@ -649,6 +757,42 @@
           "fr": "Je ne comprends pas l'art abstrait.",
           "it": "Non capisco l'arte astratta.",
           "es": "No entiendo el arte abstracto."
+        }
+      ]
+    },
+    {
+      "id": "abstraction",
+      "pos": "noun",
+      "parent": "abstract",
+      "parts": [
+        "abs-",
+        "tract",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a general idea not based on real examples; a dreamy state",
+        "tr": "soyutlama, soyut kavram; dalgınlık",
+        "de": "die Abstraktion",
+        "fr": "l'abstraction",
+        "it": "l'astrazione",
+        "es": "la abstracción"
+      },
+      "sentences": [
+        {
+          "en": "'Freedom' is an [abstraction] that means different things to different people.",
+          "tr": "'Özgürlük' farklı insanlar için farklı anlamlar taşıyan soyut bir kavram.",
+          "de": "„Freiheit“ ist eine Abstraktion, die für jeden etwas anderes bedeutet.",
+          "fr": "« Liberté » est une abstraction qui signifie des choses différentes pour chacun.",
+          "it": "«Libertà» è un'astrazione che significa cose diverse per persone diverse.",
+          "es": "«Libertad» es una abstracción que significa cosas distintas para cada persona."
+        },
+        {
+          "en": "Numbers are an [abstraction] of real objects.",
+          "tr": "Sayılar gerçek nesnelerin bir soyutlamasıdır.",
+          "de": "Zahlen sind eine Abstraktion wirklicher Gegenstände.",
+          "fr": "Les nombres sont une abstraction des objets réels.",
+          "it": "I numeri sono un'astrazione degli oggetti reali.",
+          "es": "Los números son una abstracción de los objetos reales."
         }
       ]
     },
@@ -721,6 +865,77 @@
           "fr": "Certains problèmes de maths restent insolubles pendant des siècles.",
           "it": "Alcuni problemi matematici restano irrisolti per secoli.",
           "es": "Algunos problemas matemáticos siguen sin resolverse durante siglos."
+        }
+      ]
+    },
+    {
+      "id": "detract",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "de-",
+        "tract"
+      ],
+      "gloss": {
+        "en": "to make something seem less good or valuable (literally: to draw away)",
+        "tr": "değerini düşürmek, gölgelemek",
+        "de": "schmälern, beeinträchtigen",
+        "fr": "diminuer, nuire à",
+        "it": "sminuire, togliere valore",
+        "es": "restar valor, desmerecer"
+      },
+      "sentences": [
+        {
+          "en": "The bad ending [detracts] from an otherwise great film.",
+          "tr": "Kötü son, aslında harika olan filmi gölgeliyor.",
+          "de": "Das schlechte Ende schmälert einen sonst großartigen Film.",
+          "fr": "La mauvaise fin nuit à un film par ailleurs excellent.",
+          "it": "Il brutto finale toglie valore a un film per il resto ottimo.",
+          "es": "El mal final le resta valor a una película por lo demás genial."
+        },
+        {
+          "en": "Nothing can [detract] from her success.",
+          "tr": "Hiçbir şey onun başarısının değerini düşüremez.",
+          "de": "Nichts kann ihren Erfolg schmälern.",
+          "fr": "Rien ne peut diminuer son succès.",
+          "it": "Niente può sminuire il suo successo.",
+          "es": "Nada puede restar mérito a su éxito."
+        }
+      ]
+    },
+    {
+      "id": "detractor",
+      "pos": "noun",
+      "parent": "detract",
+      "parts": [
+        "de-",
+        "tract",
+        "-or"
+      ],
+      "gloss": {
+        "en": "a person who criticizes someone or something",
+        "tr": "eleştirmen, kötüleyen",
+        "de": "der Kritiker, der Gegner",
+        "fr": "le détracteur, la détractrice",
+        "it": "il detrattore, la detrattrice",
+        "es": "el/la detractor/a"
+      },
+      "sentences": [
+        {
+          "en": "Even her [detractors] admit she works hard.",
+          "tr": "Onu eleştirenler bile çok çalıştığını kabul ediyor.",
+          "de": "Selbst ihre Kritiker geben zu, dass sie hart arbeitet.",
+          "fr": "Même ses détracteurs admettent qu'elle travaille dur.",
+          "it": "Perfino i suoi detrattori ammettono che lavora sodo.",
+          "es": "Incluso sus detractores admiten que trabaja mucho."
+        },
+        {
+          "en": "The plan has many supporters and a few [detractors].",
+          "tr": "Planın birçok destekçisi ve birkaç karşıtı var.",
+          "de": "Der Plan hat viele Befürworter und ein paar Gegner.",
+          "fr": "Le projet a beaucoup de partisans et quelques détracteurs.",
+          "it": "Il piano ha molti sostenitori e qualche detrattore.",
+          "es": "El plan tiene muchos partidarios y algunos detractores."
         }
       ]
     }

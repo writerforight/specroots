@@ -121,6 +121,41 @@
       ]
     },
     {
+      "id": "audibly",
+      "pos": "adverb",
+      "parent": "audible",
+      "parts": [
+        "aud",
+        "-ibly"
+      ],
+      "gloss": {
+        "en": "in a way that can be heard",
+        "tr": "duyulur şekilde, sesli",
+        "de": "hörbar",
+        "fr": "de manière audible",
+        "it": "in modo udibile",
+        "es": "de forma audible"
+      },
+      "sentences": [
+        {
+          "en": "She sighed [audibly] when the meeting ran late.",
+          "tr": "Toplantı uzayınca sesli bir şekilde iç çekti.",
+          "de": "Sie seufzte hörbar, als die Besprechung länger dauerte.",
+          "fr": "Elle a soupiré de façon audible quand la réunion s'est prolongée.",
+          "it": "Ha sospirato in modo udibile quando la riunione si è prolungata.",
+          "es": "Suspiró de forma audible cuando la reunión se alargó."
+        },
+        {
+          "en": "The crowd gasped [audibly] at the last goal.",
+          "tr": "Kalabalık son golde duyulur şekilde nefesini tuttu.",
+          "de": "Die Menge stöhnte beim letzten Tor hörbar auf.",
+          "fr": "La foule a retenu son souffle de façon audible au dernier but.",
+          "it": "La folla ha trattenuto il fiato in modo udibile all'ultimo gol.",
+          "es": "El público ahogó un grito audible con el último gol."
+        }
+      ]
+    },
+    {
       "id": "audit",
       "pos": "noun",
       "parent": null,

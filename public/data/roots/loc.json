@@ -300,6 +300,41 @@
       ]
     },
     {
+      "id": "locator",
+      "pos": "noun",
+      "parent": "locate",
+      "parts": [
+        "loc",
+        "-ator"
+      ],
+      "gloss": {
+        "en": "a tool or service that finds where something is",
+        "tr": "konum bulucu",
+        "de": "die Ortungsfunktion, der Finder",
+        "fr": "le localisateur, l'outil de localisation",
+        "it": "il localizzatore",
+        "es": "el localizador"
+      },
+      "sentences": [
+        {
+          "en": "Use the store [locator] to find a shop near you.",
+          "tr": "Size yakın bir mağaza bulmak için mağaza bulucuyu kullanın.",
+          "de": "Nutze die Filialsuche, um einen Laden in deiner Nähe zu finden.",
+          "fr": "Utilise le localisateur de magasins pour en trouver un près de chez toi.",
+          "it": "Usa il localizzatore di negozi per trovarne uno vicino a te.",
+          "es": "Usa el localizador de tiendas para encontrar una cerca de ti."
+        },
+        {
+          "en": "The phone has a [locator] in case you lose it.",
+          "tr": "Telefonda kaybetme ihtimaline karşı bir konum bulucu var.",
+          "de": "Das Handy hat eine Ortungsfunktion, falls du es verlierst.",
+          "fr": "Le téléphone a un outil de localisation au cas où tu le perdrais.",
+          "it": "Il telefono ha un localizzatore nel caso lo perdessi.",
+          "es": "El móvil tiene un localizador por si lo pierdes."
+        }
+      ]
+    },
+    {
       "id": "allocate",
       "pos": "verb",
       "parent": null,
@@ -372,6 +407,43 @@
       ]
     },
     {
+      "id": "unallocated",
+      "pos": "adjective",
+      "parent": "allocate",
+      "parts": [
+        "un-",
+        "al-",
+        "loc",
+        "-ated"
+      ],
+      "gloss": {
+        "en": "not yet given to anyone or any purpose",
+        "tr": "henüz ayrılmamış, tahsis edilmemiş",
+        "de": "nicht zugeteilt, frei",
+        "fr": "non attribué",
+        "it": "non assegnato",
+        "es": "no asignado"
+      },
+      "sentences": [
+        {
+          "en": "There is still some [unallocated] money in the budget.",
+          "tr": "Bütçede hâlâ tahsis edilmemiş biraz para var.",
+          "de": "Im Budget ist noch etwas nicht zugeteiltes Geld.",
+          "fr": "Il reste un peu d'argent non attribué dans le budget.",
+          "it": "C'è ancora del denaro non assegnato nel bilancio.",
+          "es": "Todavía queda algo de dinero no asignado en el presupuesto."
+        },
+        {
+          "en": "The concert has [unallocated] seating, so come early.",
+          "tr": "Konserde numaralı koltuk yok, erken gel.",
+          "de": "Beim Konzert gibt es keine festen Plätze, also komm früh.",
+          "fr": "Les places au concert ne sont pas attribuées, alors viens tôt.",
+          "it": "Al concerto i posti non sono assegnati, quindi vieni presto.",
+          "es": "En el concierto los asientos no están asignados, así que ven pronto."
+        }
+      ]
+    },
+    {
       "id": "dislocate",
       "pos": "verb",
       "parent": null,
@@ -408,6 +480,42 @@
       ]
     },
     {
+      "id": "dislocation",
+      "pos": "noun",
+      "parent": "dislocate",
+      "parts": [
+        "dis-",
+        "loc",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "a bone forced out of its joint; a sudden disorder",
+        "tr": "çıkık; düzenin bozulması",
+        "de": "die Verrenkung, die Ausrenkung",
+        "fr": "la luxation, le bouleversement",
+        "it": "la lussazione, lo sconvolgimento",
+        "es": "la luxación, el trastorno"
+      },
+      "sentences": [
+        {
+          "en": "The X-ray showed a [dislocation] of the shoulder.",
+          "tr": "Röntgen omuzda çıkık olduğunu gösterdi.",
+          "de": "Das Röntgenbild zeigte eine Ausrenkung der Schulter.",
+          "fr": "La radio a montré une luxation de l'épaule.",
+          "it": "La radiografia ha mostrato una lussazione della spalla.",
+          "es": "La radiografía mostró una luxación del hombro."
+        },
+        {
+          "en": "The floods caused great [dislocation] in the region.",
+          "tr": "Seller bölgede büyük bir düzensizliğe yol açtı.",
+          "de": "Die Überschwemmungen brachten große Unordnung in die Region.",
+          "fr": "Les inondations ont causé un grand bouleversement dans la région.",
+          "it": "Le alluvioni hanno causato un grande sconvolgimento nella regione.",
+          "es": "Las inundaciones causaron un gran trastorno en la región."
+        }
+      ]
+    },
+    {
       "id": "collocation",
       "pos": "noun",
       "parent": null,
@@ -440,6 +548,77 @@
           "fr": "Apprendre les collocations rend ton anglais plus naturel.",
           "it": "Imparare le collocazioni ti fa suonare più naturale.",
           "es": "Aprender colocaciones hace que suenes más natural."
+        }
+      ]
+    },
+    {
+      "id": "locus",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "loc",
+        "-us"
+      ],
+      "gloss": {
+        "en": "the central place where something happens (Latin for 'place')",
+        "tr": "odak, merkez",
+        "de": "der Ort, der Mittelpunkt",
+        "fr": "le lieu, le centre",
+        "it": "il luogo, il centro",
+        "es": "el lugar, el centro"
+      },
+      "sentences": [
+        {
+          "en": "The kitchen was the [locus] of family life.",
+          "tr": "Mutfak aile hayatının merkeziydi.",
+          "de": "Die Küche war der Mittelpunkt des Familienlebens.",
+          "fr": "La cuisine était le centre de la vie familiale.",
+          "it": "La cucina era il centro della vita familiare.",
+          "es": "La cocina era el centro de la vida familiar."
+        },
+        {
+          "en": "The capital became the [locus] of the protests.",
+          "tr": "Başkent protestoların odağı haline geldi.",
+          "de": "Die Hauptstadt wurde zum Zentrum der Proteste.",
+          "fr": "La capitale est devenue le centre des manifestations.",
+          "it": "La capitale è diventata il centro delle proteste.",
+          "es": "La capital se convirtió en el centro de las protestas."
+        }
+      ]
+    },
+    {
+      "id": "collocate",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "col-",
+        "loc",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "(of words) to go together often, like 'heavy rain' (literally: to place together)",
+        "tr": "(kelimeler) sık sık birlikte kullanılmak, eşdizimlenmek",
+        "de": "häufig zusammen vorkommen, kollokieren",
+        "fr": "(mots) s'employer souvent ensemble",
+        "it": "(parole) ricorrere spesso insieme",
+        "es": "(palabras) aparecer a menudo juntas"
+      },
+      "sentences": [
+        {
+          "en": "'Strong' [collocates] with 'coffee', but 'powerful' does not.",
+          "tr": "'Strong' kelimesi 'coffee' ile birlikte kullanılır, 'powerful' kullanılmaz.",
+          "de": "„Strong“ steht oft mit „coffee“, „powerful“ dagegen nicht.",
+          "fr": "« Strong » s'emploie avec « coffee », mais pas « powerful ».",
+          "it": "«Strong» si usa con «coffee», ma «powerful» no.",
+          "es": "«Strong» suele ir con «coffee», pero «powerful» no."
+        },
+        {
+          "en": "Learn which verbs [collocate] with 'decision'.",
+          "tr": "'Decision' ile hangi fiillerin birlikte kullanıldığını öğren.",
+          "de": "Lerne, welche Verben mit „decision“ zusammen vorkommen.",
+          "fr": "Apprends quels verbes s'emploient avec « decision ».",
+          "it": "Impara quali verbi si usano con «decision».",
+          "es": "Aprende qué verbos van con «decision»."
         }
       ]
     }

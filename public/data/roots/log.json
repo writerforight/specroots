@@ -124,6 +124,43 @@
       ]
     },
     {
+      "id": "logically",
+      "pos": "adverb",
+      "parent": "logical",
+      "parts": [
+        "log",
+        "-ic",
+        "-al",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "in a clear, reasonable way",
+        "tr": "mantıklı bir şekilde, mantıken",
+        "de": "logisch",
+        "fr": "logiquement",
+        "it": "logicamente",
+        "es": "lógicamente"
+      },
+      "sentences": [
+        {
+          "en": "She explained her plan clearly and [logically].",
+          "tr": "Planını açık ve mantıklı bir şekilde anlattı.",
+          "de": "Sie erklärte ihren Plan klar und logisch.",
+          "fr": "Elle a expliqué son plan clairement et logiquement.",
+          "it": "Ha spiegato il suo piano in modo chiaro e logico.",
+          "es": "Explicó su plan de forma clara y lógica."
+        },
+        {
+          "en": "[Logically], the keys must be in the house.",
+          "tr": "Mantıken anahtarlar evde olmalı.",
+          "de": "Logischerweise müssen die Schlüssel im Haus sein.",
+          "fr": "Logiquement, les clés doivent être dans la maison.",
+          "it": "Logicamente, le chiavi devono essere in casa.",
+          "es": "Lógicamente, las llaves tienen que estar en casa."
+        }
+      ]
+    },
+    {
       "id": "dialogue",
       "pos": "noun",
       "parent": null,
@@ -371,6 +408,42 @@
       ]
     },
     {
+      "id": "apologetic",
+      "pos": "adjective",
+      "parent": "apology",
+      "parts": [
+        "apo-",
+        "log",
+        "-etic"
+      ],
+      "gloss": {
+        "en": "showing that you are sorry",
+        "tr": "özür diler bir tavırla, mahcup",
+        "de": "entschuldigend, reumütig",
+        "fr": "plein d'excuses, désolé",
+        "it": "pieno di scuse, dispiaciuto",
+        "es": "arrepentido, que pide perdón"
+      },
+      "sentences": [
+        {
+          "en": "The waiter was very [apologetic] about the cold soup.",
+          "tr": "Garson soğuk çorba için çok özür diledi.",
+          "de": "Der Kellner entschuldigte sich vielmals für die kalte Suppe.",
+          "fr": "Le serveur s'est confondu en excuses pour la soupe froide.",
+          "it": "Il cameriere si è scusato molto per la zuppa fredda.",
+          "es": "El camarero se disculpó mucho por la sopa fría."
+        },
+        {
+          "en": "She gave me an [apologetic] smile.",
+          "tr": "Bana mahcup bir gülümsemeyle baktı.",
+          "de": "Sie lächelte mich entschuldigend an.",
+          "fr": "Elle m'a fait un sourire désolé.",
+          "it": "Mi ha fatto un sorriso dispiaciuto.",
+          "es": "Me dedicó una sonrisa de disculpa."
+        }
+      ]
+    },
+    {
       "id": "analogy",
       "pos": "noun",
       "parent": null,
@@ -403,6 +476,42 @@
           "fr": "Est-ce une analogie juste ?",
           "it": "È un'analogia corretta?",
           "es": "¿Es una analogía justa?"
+        }
+      ]
+    },
+    {
+      "id": "analogous",
+      "pos": "adjective",
+      "parent": "analogy",
+      "parts": [
+        "ana-",
+        "log",
+        "-ous"
+      ],
+      "gloss": {
+        "en": "similar in some way, so that you can compare them",
+        "tr": "benzer, kıyaslanabilir",
+        "de": "analog, vergleichbar",
+        "fr": "analogue",
+        "it": "analogo",
+        "es": "análogo"
+      },
+      "sentences": [
+        {
+          "en": "The heart is [analogous] to a pump.",
+          "tr": "Kalp bir pompaya benzer.",
+          "de": "Das Herz ist mit einer Pumpe vergleichbar.",
+          "fr": "Le cœur est analogue à une pompe.",
+          "it": "Il cuore è analogo a una pompa.",
+          "es": "El corazón es análogo a una bomba."
+        },
+        {
+          "en": "The two cases are [analogous], so the result should be the same.",
+          "tr": "İki dava benzer, bu yüzden sonuç da aynı olmalı.",
+          "de": "Die beiden Fälle sind vergleichbar, also sollte das Ergebnis gleich sein.",
+          "fr": "Les deux affaires sont analogues, donc le résultat devrait être le même.",
+          "it": "I due casi sono analoghi, quindi il risultato dovrebbe essere lo stesso.",
+          "es": "Los dos casos son análogos, así que el resultado debería ser el mismo."
         }
       ]
     },
@@ -516,6 +625,43 @@
       ]
     },
     {
+      "id": "ecological",
+      "pos": "adjective",
+      "parent": "ecology",
+      "parts": [
+        "eco-",
+        "log",
+        "-ic",
+        "-al"
+      ],
+      "gloss": {
+        "en": "relating to living things and their environment",
+        "tr": "ekolojik, çevresel",
+        "de": "ökologisch",
+        "fr": "écologique",
+        "it": "ecologico",
+        "es": "ecológico"
+      },
+      "sentences": [
+        {
+          "en": "The oil spill was an [ecological] disaster.",
+          "tr": "Petrol sızıntısı ekolojik bir felaketti.",
+          "de": "Die Ölpest war eine ökologische Katastrophe.",
+          "fr": "La marée noire a été une catastrophe écologique.",
+          "it": "La fuoriuscita di petrolio è stata un disastro ecologico.",
+          "es": "El vertido de petróleo fue un desastre ecológico."
+        },
+        {
+          "en": "Wolves play an important [ecological] role in the forest.",
+          "tr": "Kurtlar ormanda önemli bir ekolojik rol oynar.",
+          "de": "Wölfe spielen im Wald eine wichtige ökologische Rolle.",
+          "fr": "Les loups jouent un rôle écologique important dans la forêt.",
+          "it": "I lupi svolgono un importante ruolo ecologico nella foresta.",
+          "es": "Los lobos cumplen una función ecológica importante en el bosque."
+        }
+      ]
+    },
+    {
       "id": "psychology",
       "pos": "noun",
       "parent": null,
@@ -548,6 +694,79 @@
           "fr": "La psychologie des couleurs est utilisée dans les magasins.",
           "it": "La psicologia dei colori si usa nei negozi.",
           "es": "En las tiendas se usa la psicología del color."
+        }
+      ]
+    },
+    {
+      "id": "psychologist",
+      "pos": "noun",
+      "parent": "psychology",
+      "parts": [
+        "psycho-",
+        "log",
+        "-ist"
+      ],
+      "gloss": {
+        "en": "a person who studies the mind or helps people with mental problems",
+        "tr": "psikolog",
+        "de": "der Psychologe, die Psychologin",
+        "fr": "le/la psychologue",
+        "it": "lo/la psicologo/a",
+        "es": "el/la psicólogo/a"
+      },
+      "sentences": [
+        {
+          "en": "The school has a [psychologist] for students who need help.",
+          "tr": "Okulda yardıma ihtiyacı olan öğrenciler için bir psikolog var.",
+          "de": "Die Schule hat eine Psychologin für Schüler, die Hilfe brauchen.",
+          "fr": "L'école a un psychologue pour les élèves qui ont besoin d'aide.",
+          "it": "La scuola ha uno psicologo per gli studenti che hanno bisogno di aiuto.",
+          "es": "El colegio tiene una psicóloga para los alumnos que necesitan ayuda."
+        },
+        {
+          "en": "She talked to a [psychologist] after the accident.",
+          "tr": "Kazadan sonra bir psikologla konuştu.",
+          "de": "Nach dem Unfall sprach sie mit einem Psychologen.",
+          "fr": "Elle a parlé à un psychologue après l'accident.",
+          "it": "Dopo l'incidente ha parlato con uno psicologo.",
+          "es": "Habló con un psicólogo después del accidente."
+        }
+      ]
+    },
+    {
+      "id": "psychological",
+      "pos": "adjective",
+      "parent": "psychology",
+      "parts": [
+        "psycho-",
+        "log",
+        "-ic",
+        "-al"
+      ],
+      "gloss": {
+        "en": "relating to the mind and feelings",
+        "tr": "psikolojik",
+        "de": "psychologisch, seelisch",
+        "fr": "psychologique",
+        "it": "psicologico",
+        "es": "psicológico"
+      },
+      "sentences": [
+        {
+          "en": "Losing a job can have a big [psychological] effect.",
+          "tr": "İşini kaybetmenin büyük bir psikolojik etkisi olabilir.",
+          "de": "Der Verlust der Arbeit kann große seelische Folgen haben.",
+          "fr": "Perdre son emploi peut avoir un gros effet psychologique.",
+          "it": "Perdere il lavoro può avere un forte effetto psicologico.",
+          "es": "Perder el trabajo puede tener un gran efecto psicológico."
+        },
+        {
+          "en": "The film is a [psychological] thriller.",
+          "tr": "Film psikolojik bir gerilim.",
+          "de": "Der Film ist ein Psychothriller.",
+          "fr": "Le film est un thriller psychologique.",
+          "it": "Il film è un thriller psicologico.",
+          "es": "La película es un thriller psicológico."
         }
       ]
     },

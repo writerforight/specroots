@@ -3,7 +3,8 @@
   "forms": [
     "struct",
     "stru",
-    "strue"
+    "strue",
+    "stroy"
   ],
   "origin": "la",
   "etymon": "struere",
@@ -227,6 +228,43 @@
           "fr": "Ayons une discussion constructive, pas une dispute.",
           "it": "Facciamo una discussione costruttiva, non una lite.",
           "es": "Tengamos una discusión constructiva, no una pelea."
+        }
+      ]
+    },
+    {
+      "id": "constructively",
+      "pos": "adverb",
+      "parent": "constructive",
+      "parts": [
+        "con-",
+        "struct",
+        "-ive",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "in a helpful way that improves things",
+        "tr": "yapıcı bir şekilde",
+        "de": "konstruktiv",
+        "fr": "de façon constructive",
+        "it": "in modo costruttivo",
+        "es": "de forma constructiva"
+      },
+      "sentences": [
+        {
+          "en": "Let's talk [constructively] about the problem.",
+          "tr": "Sorun hakkında yapıcı bir şekilde konuşalım.",
+          "de": "Lass uns konstruktiv über das Problem sprechen.",
+          "fr": "Parlons du problème de façon constructive.",
+          "it": "Parliamo del problema in modo costruttivo.",
+          "es": "Hablemos del problema de forma constructiva."
+        },
+        {
+          "en": "She used her free time [constructively].",
+          "tr": "Boş zamanını verimli bir şekilde kullandı.",
+          "de": "Sie nutzte ihre Freizeit sinnvoll.",
+          "fr": "Elle a utilisé son temps libre de façon constructive.",
+          "it": "Ha usato il suo tempo libero in modo costruttivo.",
+          "es": "Aprovechó su tiempo libre de forma constructiva."
         }
       ]
     },
@@ -484,6 +522,43 @@
       ]
     },
     {
+      "id": "instructional",
+      "pos": "adjective",
+      "parent": "instruction",
+      "parts": [
+        "in-",
+        "struct",
+        "-ion",
+        "-al"
+      ],
+      "gloss": {
+        "en": "meant to teach how to do something",
+        "tr": "öğretici, eğitim amaçlı",
+        "de": "Lehr-, Anleitungs-",
+        "fr": "pédagogique, didactique",
+        "it": "didattico, istruttivo",
+        "es": "didáctico, instructivo"
+      },
+      "sentences": [
+        {
+          "en": "I learned to fix the bike from an [instructional] video.",
+          "tr": "Bisikleti tamir etmeyi öğretici bir videodan öğrendim.",
+          "de": "Ich habe aus einem Anleitungsvideo gelernt, das Rad zu reparieren.",
+          "fr": "J'ai appris à réparer le vélo grâce à une vidéo didactique.",
+          "it": "Ho imparato ad aggiustare la bici da un video didattico.",
+          "es": "Aprendí a arreglar la bici con un vídeo instructivo."
+        },
+        {
+          "en": "Teachers spend more [instructional] time on reading now.",
+          "tr": "Öğretmenler artık ders saatlerinin daha fazlasını okumaya ayırıyor.",
+          "de": "Lehrer verwenden heute mehr Unterrichtszeit aufs Lesen.",
+          "fr": "Les enseignants consacrent désormais plus de temps pédagogique à la lecture.",
+          "it": "Ora gli insegnanti dedicano più tempo didattico alla lettura.",
+          "es": "Los profesores dedican ahora más tiempo lectivo a la lectura."
+        }
+      ]
+    },
+    {
       "id": "instructor",
       "pos": "noun",
       "parent": "instruct",
@@ -627,6 +702,42 @@
       ]
     },
     {
+      "id": "obstructive",
+      "pos": "adjective",
+      "parent": "obstruct",
+      "parts": [
+        "ob-",
+        "struct",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "trying to stop something from happening; blocking",
+        "tr": "engelleyici, işi zorlaştıran",
+        "de": "hinderlich, obstruktiv",
+        "fr": "obstructionniste, qui fait obstacle",
+        "it": "ostruzionistico, che fa ostruzione",
+        "es": "obstruccionista, que obstruye"
+      },
+      "sentences": [
+        {
+          "en": "The manager was [obstructive] and refused to help.",
+          "tr": "Müdür işi zorlaştırdı ve yardım etmeyi reddetti.",
+          "de": "Der Manager war hinderlich und weigerte sich zu helfen.",
+          "fr": "Le directeur a fait obstacle et a refusé d'aider.",
+          "it": "Il direttore è stato ostruzionista e si è rifiutato di aiutare.",
+          "es": "El gerente fue obstruccionista y se negó a ayudar."
+        },
+        {
+          "en": "Snoring can be a sign of an [obstructive] sleep problem.",
+          "tr": "Horlama, solunum yolunu tıkayan bir uyku sorununun belirtisi olabilir.",
+          "de": "Schnarchen kann ein Zeichen einer obstruktiven Schlafstörung sein.",
+          "fr": "Le ronflement peut signaler une apnée obstructive du sommeil.",
+          "it": "Russare può essere segno di un disturbo ostruttivo del sonno.",
+          "es": "Roncar puede ser señal de un trastorno obstructivo del sueño."
+        }
+      ]
+    },
+    {
       "id": "instrument",
       "pos": "noun",
       "parent": null,
@@ -731,6 +842,113 @@
           "fr": "Ne l'interprète pas comme une critique, s'il te plaît.",
           "it": "Per favore, non interpretarlo come una critica.",
           "es": "Por favor, no lo interpretes como una crítica."
+        }
+      ]
+    },
+    {
+      "id": "misconstrue",
+      "pos": "verb",
+      "parent": "construe",
+      "parts": [
+        "mis-",
+        "con-",
+        "strue"
+      ],
+      "gloss": {
+        "en": "to understand something wrongly",
+        "tr": "yanlış anlamak, yanlış yorumlamak",
+        "de": "missverstehen, falsch auslegen",
+        "fr": "mal interpréter",
+        "it": "fraintendere",
+        "es": "malinterpretar"
+      },
+      "sentences": [
+        {
+          "en": "Please don't [misconstrue] my silence as anger.",
+          "tr": "Lütfen sessizliğimi öfke olarak yanlış anlama.",
+          "de": "Bitte versteh mein Schweigen nicht als Wut.",
+          "fr": "S'il te plaît, n'interprète pas mon silence comme de la colère.",
+          "it": "Per favore, non fraintendere il mio silenzio come rabbia.",
+          "es": "Por favor, no malinterpretes mi silencio como enfado."
+        },
+        {
+          "en": "His joke was [misconstrued] by the press.",
+          "tr": "Şakası basın tarafından yanlış yorumlandı.",
+          "de": "Sein Witz wurde von der Presse falsch ausgelegt.",
+          "fr": "Sa blague a été mal interprétée par la presse.",
+          "it": "La sua battuta è stata fraintesa dalla stampa.",
+          "es": "Su broma fue malinterpretada por la prensa."
+        }
+      ]
+    },
+    {
+      "id": "destroy",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "de-",
+        "stroy"
+      ],
+      "gloss": {
+        "en": "to damage something so badly that it no longer exists (from Latin destruere, 'to un-build')",
+        "tr": "yok etmek, tahrip etmek",
+        "de": "zerstören",
+        "fr": "détruire",
+        "it": "distruggere",
+        "es": "destruir"
+      },
+      "sentences": [
+        {
+          "en": "The fire [destroyed] three houses.",
+          "tr": "Yangın üç evi yok etti.",
+          "de": "Das Feuer zerstörte drei Häuser.",
+          "fr": "L'incendie a détruit trois maisons.",
+          "it": "L'incendio ha distrutto tre case.",
+          "es": "El incendio destruyó tres casas."
+        },
+        {
+          "en": "One lie can [destroy] years of trust.",
+          "tr": "Tek bir yalan yılların güvenini yok edebilir.",
+          "de": "Eine Lüge kann jahrelanges Vertrauen zerstören.",
+          "fr": "Un seul mensonge peut détruire des années de confiance.",
+          "it": "Una sola bugia può distruggere anni di fiducia.",
+          "es": "Una sola mentira puede destruir años de confianza."
+        }
+      ]
+    },
+    {
+      "id": "destroyer",
+      "pos": "noun",
+      "parent": "destroy",
+      "parts": [
+        "de-",
+        "stroy",
+        "-er"
+      ],
+      "gloss": {
+        "en": "a small, fast warship; a person or thing that destroys",
+        "tr": "muhrip (savaş gemisi); yok eden",
+        "de": "der Zerstörer",
+        "fr": "le destroyer, le destructeur",
+        "it": "il cacciatorpediniere, il distruttore",
+        "es": "el destructor"
+      },
+      "sentences": [
+        {
+          "en": "Two [destroyers] guarded the harbour.",
+          "tr": "İki muhrip limanı korudu.",
+          "de": "Zwei Zerstörer bewachten den Hafen.",
+          "fr": "Deux destroyers gardaient le port.",
+          "it": "Due cacciatorpediniere sorvegliavano il porto.",
+          "es": "Dos destructores vigilaban el puerto."
+        },
+        {
+          "en": "Sugar is a [destroyer] of teeth.",
+          "tr": "Şeker dişleri mahveder.",
+          "de": "Zucker ist ein Zerstörer der Zähne.",
+          "fr": "Le sucre est un destructeur de dents.",
+          "it": "Lo zucchero è un distruttore dei denti.",
+          "es": "El azúcar es un destructor de dientes."
         }
       ]
     }

@@ -125,6 +125,42 @@
       ]
     },
     {
+      "id": "applicable",
+      "pos": "adjective",
+      "parent": "apply",
+      "parts": [
+        "ap-",
+        "plic",
+        "-able"
+      ],
+      "gloss": {
+        "en": "affecting or relevant to a person or situation",
+        "tr": "uygulanabilir, geçerli",
+        "de": "anwendbar, zutreffend",
+        "fr": "applicable",
+        "it": "applicabile",
+        "es": "aplicable"
+      },
+      "sentences": [
+        {
+          "en": "The rule is [applicable] to all students.",
+          "tr": "Kural bütün öğrenciler için geçerli.",
+          "de": "Die Regel gilt für alle Schüler.",
+          "fr": "La règle est applicable à tous les élèves.",
+          "it": "La regola è applicabile a tutti gli studenti.",
+          "es": "La norma es aplicable a todos los alumnos."
+        },
+        {
+          "en": "Fill in your date of birth, if [applicable].",
+          "tr": "Gerekiyorsa doğum tarihinizi doldurun.",
+          "de": "Geben Sie gegebenenfalls Ihr Geburtsdatum an.",
+          "fr": "Indiquez votre date de naissance, le cas échéant.",
+          "it": "Indica la data di nascita, se applicabile.",
+          "es": "Indique su fecha de nacimiento, si procede."
+        }
+      ]
+    },
+    {
       "id": "reply",
       "pos": "verb",
       "parent": null,
@@ -299,6 +335,43 @@
           "fr": "Le règlement est explicite sur les téléphones en classe.",
           "it": "Le regole sono esplicite sui telefoni in classe.",
           "es": "Las normas son explícitas sobre los móviles en clase."
+        }
+      ]
+    },
+    {
+      "id": "explicitly",
+      "pos": "adverb",
+      "parent": "explicit",
+      "parts": [
+        "ex-",
+        "plic",
+        "-it",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "clearly and directly, leaving no doubt",
+        "tr": "açıkça, net bir şekilde",
+        "de": "ausdrücklich",
+        "fr": "explicitement",
+        "it": "esplicitamente",
+        "es": "explícitamente"
+      },
+      "sentences": [
+        {
+          "en": "The sign [explicitly] says 'No dogs'.",
+          "tr": "Tabelada açıkça 'Köpek girmez' yazıyor.",
+          "de": "Auf dem Schild steht ausdrücklich „Keine Hunde“.",
+          "fr": "Le panneau dit explicitement « Chiens interdits ».",
+          "it": "Il cartello dice esplicitamente «Vietato ai cani».",
+          "es": "El cartel dice explícitamente «No se admiten perros»."
+        },
+        {
+          "en": "I [explicitly] asked you not to tell anyone.",
+          "tr": "Kimseye söylememeni açıkça rica etmiştim.",
+          "de": "Ich habe dich ausdrücklich gebeten, es niemandem zu sagen.",
+          "fr": "Je t'ai explicitement demandé de ne le dire à personne.",
+          "it": "Ti ho chiesto esplicitamente di non dirlo a nessuno.",
+          "es": "Te pedí explícitamente que no se lo dijeras a nadie."
         }
       ]
     },
@@ -514,6 +587,42 @@
           "fr": "Son comportement étrange me laisse perplexe.",
           "it": "Il suo strano comportamento mi lascia perplesso.",
           "es": "Su extraño comportamiento me deja perplejo."
+        }
+      ]
+    },
+    {
+      "id": "perplexity",
+      "pos": "noun",
+      "parent": "perplexed",
+      "parts": [
+        "per-",
+        "plex",
+        "-ity"
+      ],
+      "gloss": {
+        "en": "the feeling of being confused",
+        "tr": "şaşkınlık, kafa karışıklığı",
+        "de": "die Verwirrung, die Ratlosigkeit",
+        "fr": "la perplexité",
+        "it": "la perplessità",
+        "es": "la perplejidad"
+      },
+      "sentences": [
+        {
+          "en": "She stared at the map in [perplexity].",
+          "tr": "Şaşkınlıkla haritaya baktı.",
+          "de": "Sie starrte ratlos auf die Karte.",
+          "fr": "Elle fixait la carte avec perplexité.",
+          "it": "Fissava la mappa con perplessità.",
+          "es": "Miraba el mapa con perplejidad."
+        },
+        {
+          "en": "His answer only added to our [perplexity].",
+          "tr": "Onun cevabı kafa karışıklığımızı daha da artırdı.",
+          "de": "Seine Antwort verstärkte unsere Verwirrung nur.",
+          "fr": "Sa réponse n'a fait qu'augmenter notre perplexité.",
+          "it": "La sua risposta ha solo aumentato la nostra perplessità.",
+          "es": "Su respuesta solo aumentó nuestra perplejidad."
         }
       ]
     },
@@ -805,6 +914,43 @@
       ]
     },
     {
+      "id": "unemployed",
+      "pos": "adjective",
+      "parent": "employ",
+      "parts": [
+        "un-",
+        "em-",
+        "ploy",
+        "-ed"
+      ],
+      "gloss": {
+        "en": "without a paid job",
+        "tr": "işsiz",
+        "de": "arbeitslos",
+        "fr": "au chômage, sans emploi",
+        "it": "disoccupato",
+        "es": "desempleado, en paro"
+      },
+      "sentences": [
+        {
+          "en": "He has been [unemployed] since the factory closed.",
+          "tr": "Fabrika kapandığından beri işsiz.",
+          "de": "Seit die Fabrik geschlossen hat, ist er arbeitslos.",
+          "fr": "Il est au chômage depuis la fermeture de l'usine.",
+          "it": "È disoccupato da quando la fabbrica ha chiuso.",
+          "es": "Está en paro desde que cerró la fábrica."
+        },
+        {
+          "en": "The centre helps [unemployed] people write CVs.",
+          "tr": "Merkez işsizlerin özgeçmiş yazmasına yardım ediyor.",
+          "de": "Das Zentrum hilft Arbeitslosen, Lebensläufe zu schreiben.",
+          "fr": "Le centre aide les personnes sans emploi à rédiger leur CV.",
+          "it": "Il centro aiuta i disoccupati a scrivere il curriculum.",
+          "es": "El centro ayuda a las personas desempleadas a escribir su currículum."
+        }
+      ]
+    },
+    {
       "id": "deploy",
       "pos": "verb",
       "parent": null,
@@ -836,6 +982,42 @@
           "fr": "Nous déployons le site à chaque push.",
           "it": "Distribuiamo il sito a ogni push.",
           "es": "Desplegamos la web cada vez que hacemos push."
+        }
+      ]
+    },
+    {
+      "id": "deployment",
+      "pos": "noun",
+      "parent": "deploy",
+      "parts": [
+        "de-",
+        "ploy",
+        "-ment"
+      ],
+      "gloss": {
+        "en": "sending soldiers or equipment somewhere to be used; putting something into use",
+        "tr": "konuşlandırma; devreye alma",
+        "de": "der Einsatz, die Stationierung",
+        "fr": "le déploiement",
+        "it": "lo schieramento, il dispiegamento",
+        "es": "el despliegue"
+      },
+      "sentences": [
+        {
+          "en": "Her husband is away on a six-month [deployment].",
+          "tr": "Kocası altı aylık bir görevle uzakta.",
+          "de": "Ihr Mann ist für einen sechsmonatigen Einsatz weg.",
+          "fr": "Son mari est parti pour un déploiement de six mois.",
+          "it": "Suo marito è via per una missione di sei mesi.",
+          "es": "Su marido está fuera en un despliegue de seis meses."
+        },
+        {
+          "en": "The [deployment] of the new software went smoothly.",
+          "tr": "Yeni yazılımın devreye alınması sorunsuz geçti.",
+          "de": "Die Einführung der neuen Software verlief reibungslos.",
+          "fr": "Le déploiement du nouveau logiciel s'est bien passé.",
+          "it": "Il rilascio del nuovo software è andato liscio.",
+          "es": "El despliegue del nuevo programa fue bien."
         }
       ]
     }

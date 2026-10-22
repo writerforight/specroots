@@ -267,6 +267,42 @@
       ]
     },
     {
+      "id": "attendant",
+      "pos": "noun",
+      "parent": "attend",
+      "parts": [
+        "at-",
+        "tend",
+        "-ant"
+      ],
+      "gloss": {
+        "en": "a person whose job is to serve or help people in a place",
+        "tr": "görevli",
+        "de": "der/die Angestellte, der Wärter",
+        "fr": "le préposé, l'agent",
+        "it": "l'addetto, l'assistente",
+        "es": "el/la empleado/a, el/la encargado/a"
+      },
+      "sentences": [
+        {
+          "en": "The flight [attendant] brought me a glass of water.",
+          "tr": "Kabin görevlisi bana bir bardak su getirdi.",
+          "de": "Die Flugbegleiterin brachte mir ein Glas Wasser.",
+          "fr": "L'hôtesse de l'air m'a apporté un verre d'eau.",
+          "it": "L'assistente di volo mi ha portato un bicchiere d'acqua.",
+          "es": "La azafata me trajo un vaso de agua."
+        },
+        {
+          "en": "Ask the parking [attendant] where to leave the car.",
+          "tr": "Arabayı nereye bırakacağını otopark görevlisine sor.",
+          "de": "Frag den Parkwächter, wo du das Auto abstellen sollst.",
+          "fr": "Demande au gardien du parking où laisser la voiture.",
+          "it": "Chiedi al parcheggiatore dove lasciare la macchina.",
+          "es": "Pregunta al encargado del aparcamiento dónde dejar el coche."
+        }
+      ]
+    },
+    {
       "id": "intend",
       "pos": "verb",
       "parent": null,
@@ -376,6 +412,78 @@
       ]
     },
     {
+      "id": "intentional",
+      "pos": "adjective",
+      "parent": "intention",
+      "parts": [
+        "in-",
+        "tent",
+        "-ion",
+        "-al"
+      ],
+      "gloss": {
+        "en": "done on purpose",
+        "tr": "kasıtlı, bilerek yapılan",
+        "de": "absichtlich",
+        "fr": "intentionnel",
+        "it": "intenzionale",
+        "es": "intencionado"
+      },
+      "sentences": [
+        {
+          "en": "The referee said the handball was [intentional].",
+          "tr": "Hakem elle oynamanın kasıtlı olduğunu söyledi.",
+          "de": "Der Schiedsrichter sagte, das Handspiel sei absichtlich gewesen.",
+          "fr": "L'arbitre a dit que la main était intentionnelle.",
+          "it": "L'arbitro ha detto che il fallo di mano era intenzionale.",
+          "es": "El árbitro dijo que la mano había sido intencionada."
+        },
+        {
+          "en": "Was the mistake [intentional] or an accident?",
+          "tr": "Hata kasıtlı mıydı, yoksa bir kaza mı?",
+          "de": "War der Fehler absichtlich oder ein Versehen?",
+          "fr": "L'erreur était-elle intentionnelle ou accidentelle ?",
+          "it": "L'errore era intenzionale o un incidente?",
+          "es": "¿El error fue intencionado o un accidente?"
+        }
+      ]
+    },
+    {
+      "id": "intent",
+      "pos": "noun",
+      "parent": "intend",
+      "parts": [
+        "in-",
+        "tent"
+      ],
+      "gloss": {
+        "en": "what you plan or mean to do",
+        "tr": "niyet, kasıt",
+        "de": "die Absicht",
+        "fr": "l'intention",
+        "it": "l'intento, l'intenzione",
+        "es": "la intención, el propósito"
+      },
+      "sentences": [
+        {
+          "en": "He was charged with [intent] to steal.",
+          "tr": "Hırsızlık kastıyla suçlandı.",
+          "de": "Er wurde wegen Diebstahlsabsicht angeklagt.",
+          "fr": "Il a été inculpé pour intention de voler.",
+          "it": "È stato accusato di intento di furto.",
+          "es": "Lo acusaron de intención de robar."
+        },
+        {
+          "en": "The [intent] of the law is to protect children.",
+          "tr": "Yasanın amacı çocukları korumak.",
+          "de": "Die Absicht des Gesetzes ist, Kinder zu schützen.",
+          "fr": "L'intention de la loi est de protéger les enfants.",
+          "it": "L'intento della legge è proteggere i bambini.",
+          "es": "El propósito de la ley es proteger a los niños."
+        }
+      ]
+    },
+    {
       "id": "intense",
       "pos": "adjective",
       "parent": null,
@@ -443,6 +551,78 @@
           "fr": "Change l'intensité de la lumière avec ce bouton.",
           "it": "Cambia l'intensità della luce con questo pulsante.",
           "es": "Cambia la intensidad de la luz con este botón."
+        }
+      ]
+    },
+    {
+      "id": "intensive",
+      "pos": "adjective",
+      "parent": "intense",
+      "parts": [
+        "in-",
+        "tens",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "with a lot of work or effort in a short time",
+        "tr": "yoğun",
+        "de": "intensiv",
+        "fr": "intensif",
+        "it": "intensivo",
+        "es": "intensivo"
+      },
+      "sentences": [
+        {
+          "en": "I took an [intensive] German course in the summer.",
+          "tr": "Yazın yoğun bir Almanca kursuna katıldım.",
+          "de": "Ich habe im Sommer einen Intensivkurs Deutsch gemacht.",
+          "fr": "J'ai suivi un cours intensif d'allemand cet été.",
+          "it": "D'estate ho seguito un corso intensivo di tedesco.",
+          "es": "En verano hice un curso intensivo de alemán."
+        },
+        {
+          "en": "He spent two days in [intensive] care.",
+          "tr": "İki gün yoğun bakımda kaldı.",
+          "de": "Er lag zwei Tage auf der Intensivstation.",
+          "fr": "Il a passé deux jours en soins intensifs.",
+          "it": "Ha passato due giorni in terapia intensiva.",
+          "es": "Pasó dos días en cuidados intensivos."
+        }
+      ]
+    },
+    {
+      "id": "intensify",
+      "pos": "verb",
+      "parent": "intense",
+      "parts": [
+        "in-",
+        "tens",
+        "-ify"
+      ],
+      "gloss": {
+        "en": "to become or make stronger",
+        "tr": "yoğunlaşmak, şiddetlenmek; yoğunlaştırmak",
+        "de": "sich verstärken, verschärfen",
+        "fr": "s'intensifier, intensifier",
+        "it": "intensificare, intensificarsi",
+        "es": "intensificar(se)"
+      },
+      "sentences": [
+        {
+          "en": "The storm [intensified] overnight.",
+          "tr": "Fırtına gece boyunca şiddetlendi.",
+          "de": "Der Sturm verstärkte sich über Nacht.",
+          "fr": "La tempête s'est intensifiée pendant la nuit.",
+          "it": "La tempesta si è intensificata durante la notte.",
+          "es": "La tormenta se intensificó durante la noche."
+        },
+        {
+          "en": "Police have [intensified] their search for the boy.",
+          "tr": "Polis çocuğu arama çalışmalarını yoğunlaştırdı.",
+          "de": "Die Polizei hat die Suche nach dem Jungen verstärkt.",
+          "fr": "La police a intensifié ses recherches pour retrouver le garçon.",
+          "it": "La polizia ha intensificato le ricerche del ragazzo.",
+          "es": "La policía ha intensificado la búsqueda del niño."
         }
       ]
     },
@@ -723,6 +903,77 @@
           "fr": "Il a fallu une heure pour monter la tente.",
           "it": "Ci è voluta un'ora per montare la tenda.",
           "es": "Montar la tienda nos llevó una hora."
+        }
+      ]
+    },
+    {
+      "id": "contend",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "con-",
+        "tend"
+      ],
+      "gloss": {
+        "en": "to compete; to deal with a difficulty; to claim (literally: to stretch together, strive)",
+        "tr": "mücadele etmek, yarışmak; ileri sürmek",
+        "de": "kämpfen, sich auseinandersetzen; behaupten",
+        "fr": "lutter, rivaliser; soutenir",
+        "it": "lottare, competere; sostenere",
+        "es": "competir, lidiar; sostener"
+      },
+      "sentences": [
+        {
+          "en": "Farmers have to [contend] with long dry summers.",
+          "tr": "Çiftçiler uzun, kurak yazlarla mücadele etmek zorunda.",
+          "de": "Bauern müssen mit langen, trockenen Sommern kämpfen.",
+          "fr": "Les agriculteurs doivent lutter contre de longs étés secs.",
+          "it": "Gli agricoltori devono fare i conti con lunghe estati secche.",
+          "es": "Los agricultores tienen que lidiar con largos veranos secos."
+        },
+        {
+          "en": "Four teams are [contending] for the title.",
+          "tr": "Şampiyonluk için dört takım yarışıyor.",
+          "de": "Vier Teams kämpfen um den Titel.",
+          "fr": "Quatre équipes rivalisent pour le titre.",
+          "it": "Quattro squadre lottano per il titolo.",
+          "es": "Cuatro equipos compiten por el título."
+        }
+      ]
+    },
+    {
+      "id": "contender",
+      "pos": "noun",
+      "parent": "contend",
+      "parts": [
+        "con-",
+        "tend",
+        "-er"
+      ],
+      "gloss": {
+        "en": "a person or team that has a chance of winning",
+        "tr": "aday, rakip, iddialı yarışmacı",
+        "de": "der Anwärter, der Kandidat",
+        "fr": "le prétendant, le concurrent",
+        "it": "il contendente, il pretendente",
+        "es": "el aspirante, el candidato"
+      },
+      "sentences": [
+        {
+          "en": "She is a serious [contender] for the gold medal.",
+          "tr": "Altın madalya için ciddi bir aday.",
+          "de": "Sie ist eine ernsthafte Anwärterin auf die Goldmedaille.",
+          "fr": "Elle est une sérieuse prétendante à la médaille d'or.",
+          "it": "È una seria contendente per la medaglia d'oro.",
+          "es": "Es una seria aspirante a la medalla de oro."
+        },
+        {
+          "en": "The film is a strong [contender] for best picture.",
+          "tr": "Film en iyi film ödülü için güçlü bir aday.",
+          "de": "Der Film ist ein starker Kandidat für den besten Film.",
+          "fr": "Le film est un sérieux concurrent pour le prix du meilleur film.",
+          "it": "Il film è un forte contendente per il miglior film.",
+          "es": "La película es una firme candidata a mejor película."
         }
       ]
     }

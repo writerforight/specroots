@@ -89,6 +89,42 @@
       ]
     },
     {
+      "id": "containment",
+      "pos": "noun",
+      "parent": "contain",
+      "parts": [
+        "con-",
+        "tain",
+        "-ment"
+      ],
+      "gloss": {
+        "en": "keeping something harmful under control so it does not spread",
+        "tr": "kontrol altına alma, yayılmasını önleme",
+        "de": "die Eindämmung",
+        "fr": "le confinement, l'endiguement",
+        "it": "il contenimento",
+        "es": "la contención"
+      },
+      "sentences": [
+        {
+          "en": "Firefighters reached full [containment] of the fire on Friday.",
+          "tr": "İtfaiyeciler cuma günü yangını tamamen kontrol altına aldı.",
+          "de": "Die Feuerwehr hatte den Brand am Freitag vollständig eingedämmt.",
+          "fr": "Les pompiers ont maîtrisé complètement l'incendie vendredi.",
+          "it": "I vigili del fuoco hanno raggiunto il pieno contenimento dell'incendio venerdì.",
+          "es": "Los bomberos lograron la contención total del incendio el viernes."
+        },
+        {
+          "en": "Quick [containment] stopped the virus from spreading.",
+          "tr": "Hızlı önlemler virüsün yayılmasını durdurdu.",
+          "de": "Eine schnelle Eindämmung stoppte die Ausbreitung des Virus.",
+          "fr": "Un endiguement rapide a empêché la propagation du virus.",
+          "it": "Un rapido contenimento ha fermato la diffusione del virus.",
+          "es": "Una contención rápida impidió que el virus se propagara."
+        }
+      ]
+    },
+    {
       "id": "content",
       "pos": "noun",
       "parent": null,
@@ -156,6 +192,43 @@
           "fr": "Elle a visité tous les continents sauf l'Antarctique.",
           "it": "Ha visitato tutti i continenti tranne l'Antartide.",
           "es": "Ha visitado todos los continentes menos la Antártida."
+        }
+      ]
+    },
+    {
+      "id": "continental",
+      "pos": "adjective",
+      "parent": "continent",
+      "parts": [
+        "con-",
+        "tin",
+        "-ent",
+        "-al"
+      ],
+      "gloss": {
+        "en": "relating to a continent; (in Britain) relating to mainland Europe",
+        "tr": "kıtasal; (Britanya'da) Avrupa kıtasına ait",
+        "de": "kontinental",
+        "fr": "continental",
+        "it": "continentale",
+        "es": "continental"
+      },
+      "sentences": [
+        {
+          "en": "The hotel serves a [continental] breakfast of bread and coffee.",
+          "tr": "Otel ekmek ve kahveden oluşan kontinental kahvaltı veriyor.",
+          "de": "Das Hotel serviert ein kontinentales Frühstück mit Brot und Kaffee.",
+          "fr": "L'hôtel sert un petit-déjeuner continental avec pain et café.",
+          "it": "L'hotel serve una colazione continentale con pane e caffè.",
+          "es": "El hotel sirve un desayuno continental de pan y café."
+        },
+        {
+          "en": "The country has a [continental] climate with cold winters.",
+          "tr": "Ülkenin soğuk kışları olan karasal bir iklimi var.",
+          "de": "Das Land hat ein Kontinentalklima mit kalten Wintern.",
+          "fr": "Le pays a un climat continental aux hivers froids.",
+          "it": "Il paese ha un clima continentale con inverni freddi.",
+          "es": "El país tiene un clima continental con inviernos fríos."
         }
       ]
     },
@@ -302,6 +375,42 @@
       ]
     },
     {
+      "id": "obtainable",
+      "pos": "adjective",
+      "parent": "obtain",
+      "parts": [
+        "ob-",
+        "tain",
+        "-able"
+      ],
+      "gloss": {
+        "en": "possible to get or buy",
+        "tr": "elde edilebilir, bulunabilir",
+        "de": "erhältlich",
+        "fr": "disponible, qu'on peut obtenir",
+        "it": "ottenibile, reperibile",
+        "es": "obtenible, disponible"
+      },
+      "sentences": [
+        {
+          "en": "The form is [obtainable] from any post office.",
+          "tr": "Form her postaneden temin edilebilir.",
+          "de": "Das Formular ist bei jeder Post erhältlich.",
+          "fr": "Le formulaire est disponible dans tous les bureaux de poste.",
+          "it": "Il modulo è reperibile in qualsiasi ufficio postale.",
+          "es": "El formulario puede obtenerse en cualquier oficina de correos."
+        },
+        {
+          "en": "Fresh fish is not easily [obtainable] in the desert town.",
+          "tr": "Çöldeki kasabada taze balık kolay bulunmuyor.",
+          "de": "Frischer Fisch ist in der Wüstenstadt schwer erhältlich.",
+          "fr": "Le poisson frais n'est pas facile à trouver dans cette ville du désert.",
+          "it": "Il pesce fresco non è facilmente reperibile nella città del deserto.",
+          "es": "El pescado fresco no es fácil de conseguir en la ciudad del desierto."
+        }
+      ]
+    },
+    {
       "id": "retain",
       "pos": "verb",
       "parent": null,
@@ -444,6 +553,42 @@
       ]
     },
     {
+      "id": "detainee",
+      "pos": "noun",
+      "parent": "detain",
+      "parts": [
+        "de-",
+        "tain",
+        "-ee"
+      ],
+      "gloss": {
+        "en": "a person kept in prison, often without a trial",
+        "tr": "gözaltındaki kişi, tutuklu",
+        "de": "der/die Inhaftierte",
+        "fr": "le/la détenu(e)",
+        "it": "il detenuto, la detenuta",
+        "es": "el/la detenido/a"
+      },
+      "sentences": [
+        {
+          "en": "The [detainees] were released after two weeks.",
+          "tr": "Gözaltındakiler iki hafta sonra serbest bırakıldı.",
+          "de": "Die Inhaftierten wurden nach zwei Wochen freigelassen.",
+          "fr": "Les détenus ont été libérés au bout de deux semaines.",
+          "it": "I detenuti sono stati rilasciati dopo due settimane.",
+          "es": "Los detenidos fueron liberados después de dos semanas."
+        },
+        {
+          "en": "Lawyers were not allowed to see the [detainee].",
+          "tr": "Avukatların tutukluyu görmesine izin verilmedi.",
+          "de": "Die Anwälte durften den Inhaftierten nicht sehen.",
+          "fr": "Les avocats n'ont pas pu voir le détenu.",
+          "it": "Agli avvocati non è stato permesso vedere il detenuto.",
+          "es": "A los abogados no se les permitió ver al detenido."
+        }
+      ]
+    },
+    {
       "id": "entertain",
       "pos": "verb",
       "parent": null,
@@ -511,6 +656,42 @@
           "fr": "Pour nous divertir, nous avons joué aux cartes.",
           "it": "Per svago abbiamo giocato a carte.",
           "es": "Para entretenernos, jugamos a las cartas."
+        }
+      ]
+    },
+    {
+      "id": "entertainer",
+      "pos": "noun",
+      "parent": "entertain",
+      "parts": [
+        "enter-",
+        "tain",
+        "-er"
+      ],
+      "gloss": {
+        "en": "a person whose job is to amuse people, like a singer or comedian",
+        "tr": "şovmen, eğlendirici",
+        "de": "der Entertainer, die Entertainerin",
+        "fr": "l'artiste de variétés, l'animateur",
+        "it": "l'intrattenitore, l'intrattenitrice",
+        "es": "el/la artista, el/la animador/a"
+      },
+      "sentences": [
+        {
+          "en": "The [entertainer] made the children laugh for an hour.",
+          "tr": "Şovmen çocukları bir saat boyunca güldürdü.",
+          "de": "Der Entertainer brachte die Kinder eine Stunde lang zum Lachen.",
+          "fr": "L'animateur a fait rire les enfants pendant une heure.",
+          "it": "L'intrattenitore ha fatto ridere i bambini per un'ora.",
+          "es": "El animador hizo reír a los niños durante una hora."
+        },
+        {
+          "en": "She was a great singer and a natural [entertainer].",
+          "tr": "Harika bir şarkıcı ve doğuştan bir şovmendi.",
+          "de": "Sie war eine großartige Sängerin und eine geborene Entertainerin.",
+          "fr": "C'était une grande chanteuse et une artiste née.",
+          "it": "Era una grande cantante e un'intrattenitrice nata.",
+          "es": "Era una gran cantante y una artista nata."
         }
       ]
     },
@@ -759,6 +940,41 @@
           "fr": "Son grand-père était lieutenant de vaisseau.",
           "it": "Suo nonno era tenente di vascello.",
           "es": "Su abuelo fue teniente de la marina."
+        }
+      ]
+    },
+    {
+      "id": "tenure",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "ten",
+        "-ure"
+      ],
+      "gloss": {
+        "en": "the time someone holds a job; a permanent job at a university (literally: a holding)",
+        "tr": "görev süresi; (üniversitede) kadro",
+        "de": "die Amtszeit; die feste Anstellung",
+        "fr": "le mandat; la titularisation",
+        "it": "il mandato; la cattedra di ruolo",
+        "es": "el mandato; la plaza fija"
+      },
+      "sentences": [
+        {
+          "en": "During her [tenure] as mayor, the city built three parks.",
+          "tr": "Onun belediye başkanlığı süresince şehir üç park yaptı.",
+          "de": "Während ihrer Amtszeit als Bürgermeisterin baute die Stadt drei Parks.",
+          "fr": "Pendant son mandat de maire, la ville a construit trois parcs.",
+          "it": "Durante il suo mandato da sindaca, la città ha costruito tre parchi.",
+          "es": "Durante su mandato como alcaldesa, la ciudad construyó tres parques."
+        },
+        {
+          "en": "The professor finally got [tenure] after seven years.",
+          "tr": "Profesör yedi yıl sonra nihayet kadroya geçti.",
+          "de": "Der Professor bekam nach sieben Jahren endlich eine feste Stelle.",
+          "fr": "Le professeur a enfin été titularisé après sept ans.",
+          "it": "Il professore è finalmente diventato di ruolo dopo sette anni.",
+          "es": "El profesor por fin consiguió una plaza fija tras siete años."
         }
       ]
     }

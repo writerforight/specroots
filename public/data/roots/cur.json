@@ -302,6 +302,78 @@
       ]
     },
     {
+      "id": "recurrence",
+      "pos": "noun",
+      "parent": "recur",
+      "parts": [
+        "re-",
+        "curr",
+        "-ence"
+      ],
+      "gloss": {
+        "en": "the fact of happening again",
+        "tr": "tekrarlama, nüks",
+        "de": "das Wiederauftreten, der Rückfall",
+        "fr": "la récurrence, la réapparition",
+        "it": "la ricorrenza, la ricomparsa",
+        "es": "la recurrencia, la reaparición"
+      },
+      "sentences": [
+        {
+          "en": "Doctors are watching for a [recurrence] of the cancer.",
+          "tr": "Doktorlar kanserin nüksetmesine karşı takipte.",
+          "de": "Die Ärzte achten auf ein Wiederauftreten des Krebses.",
+          "fr": "Les médecins surveillent une éventuelle réapparition du cancer.",
+          "it": "I medici controllano un'eventuale ricomparsa del cancro.",
+          "es": "Los médicos vigilan una posible reaparición del cáncer."
+        },
+        {
+          "en": "We must prevent a [recurrence] of last year's floods.",
+          "tr": "Geçen yılki sellerin tekrarlanmasını önlemeliyiz.",
+          "de": "Wir müssen eine Wiederholung der Überschwemmungen vom letzten Jahr verhindern.",
+          "fr": "Nous devons éviter une répétition des inondations de l'an dernier.",
+          "it": "Dobbiamo evitare che si ripetano le alluvioni dell'anno scorso.",
+          "es": "Debemos evitar que se repitan las inundaciones del año pasado."
+        }
+      ]
+    },
+    {
+      "id": "recurrent",
+      "pos": "adjective",
+      "parent": "recur",
+      "parts": [
+        "re-",
+        "curr",
+        "-ent"
+      ],
+      "gloss": {
+        "en": "happening again and again",
+        "tr": "tekrarlayan, yinelenen",
+        "de": "wiederkehrend",
+        "fr": "récurrent",
+        "it": "ricorrente",
+        "es": "recurrente"
+      },
+      "sentences": [
+        {
+          "en": "She has [recurrent] headaches.",
+          "tr": "Sık sık tekrarlayan baş ağrıları var.",
+          "de": "Sie hat wiederkehrende Kopfschmerzen.",
+          "fr": "Elle a des maux de tête récurrents.",
+          "it": "Ha mal di testa ricorrenti.",
+          "es": "Tiene dolores de cabeza recurrentes."
+        },
+        {
+          "en": "Money is a [recurrent] theme in his songs.",
+          "tr": "Para, şarkılarında tekrarlanan bir tema.",
+          "de": "Geld ist ein wiederkehrendes Thema in seinen Liedern.",
+          "fr": "L'argent est un thème récurrent dans ses chansons.",
+          "it": "Il denaro è un tema ricorrente nelle sue canzoni.",
+          "es": "El dinero es un tema recurrente en sus canciones."
+        }
+      ]
+    },
+    {
       "id": "concur",
       "pos": "verb",
       "parent": null,
@@ -369,6 +441,43 @@
           "fr": "Les deux événements étaient simultanés.",
           "it": "I due eventi erano simultanei.",
           "es": "Los dos acontecimientos fueron simultáneos."
+        }
+      ]
+    },
+    {
+      "id": "concurrently",
+      "pos": "adverb",
+      "parent": "concurrent",
+      "parts": [
+        "con-",
+        "curr",
+        "-ent",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "at the same time",
+        "tr": "aynı anda, eşzamanlı olarak",
+        "de": "gleichzeitig",
+        "fr": "simultanément",
+        "it": "contemporaneamente",
+        "es": "simultáneamente"
+      },
+      "sentences": [
+        {
+          "en": "The two films were shot [concurrently].",
+          "tr": "İki film aynı anda çekildi.",
+          "de": "Die beiden Filme wurden gleichzeitig gedreht.",
+          "fr": "Les deux films ont été tournés simultanément.",
+          "it": "I due film sono stati girati contemporaneamente.",
+          "es": "Las dos películas se rodaron simultáneamente."
+        },
+        {
+          "en": "He worked and studied [concurrently] for three years.",
+          "tr": "Üç yıl boyunca aynı anda hem çalıştı hem okudu.",
+          "de": "Er hat drei Jahre lang gleichzeitig gearbeitet und studiert.",
+          "fr": "Il a travaillé et étudié en même temps pendant trois ans.",
+          "it": "Ha lavorato e studiato contemporaneamente per tre anni.",
+          "es": "Trabajó y estudió a la vez durante tres años."
         }
       ]
     },
@@ -720,6 +829,77 @@
           "fr": "Envoie les documents par coursier.",
           "it": "Manda i documenti con un corriere.",
           "es": "Envía los documentos por mensajería."
+        }
+      ]
+    },
+    {
+      "id": "incursion",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "in-",
+        "curs",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a sudden attack on or entry into a place (literally: a running in)",
+        "tr": "akın, baskın, girme",
+        "de": "der Einfall, das Eindringen",
+        "fr": "l'incursion",
+        "it": "l'incursione",
+        "es": "la incursión"
+      },
+      "sentences": [
+        {
+          "en": "Soldiers made an [incursion] across the border.",
+          "tr": "Askerler sınırın öte yanına bir baskın düzenledi.",
+          "de": "Soldaten drangen über die Grenze ein.",
+          "fr": "Des soldats ont fait une incursion de l'autre côté de la frontière.",
+          "it": "I soldati hanno fatto un'incursione oltre il confine.",
+          "es": "Unos soldados hicieron una incursión al otro lado de la frontera."
+        },
+        {
+          "en": "The singer's [incursion] into acting was a success.",
+          "tr": "Şarkıcının oyunculuğa girişi başarılı oldu.",
+          "de": "Der Ausflug der Sängerin in die Schauspielerei war ein Erfolg.",
+          "fr": "L'incursion de la chanteuse dans le cinéma a été un succès.",
+          "it": "L'incursione della cantante nella recitazione è stata un successo.",
+          "es": "La incursión de la cantante en la interpretación fue un éxito."
+        }
+      ]
+    },
+    {
+      "id": "cursive",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "curs",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "(of handwriting) with the letters joined together (literally: running)",
+        "tr": "bitişik (el yazısı)",
+        "de": "Schreibschrift-, verbunden geschrieben",
+        "fr": "cursif, en écriture liée",
+        "it": "corsivo",
+        "es": "cursiva, ligada"
+      },
+      "sentences": [
+        {
+          "en": "Children learn [cursive] writing in second grade.",
+          "tr": "Çocuklar bitişik eğik yazıyı ikinci sınıfta öğrenir.",
+          "de": "Kinder lernen die Schreibschrift in der zweiten Klasse.",
+          "fr": "Les enfants apprennent l'écriture cursive au CE1.",
+          "it": "I bambini imparano il corsivo in seconda elementare.",
+          "es": "Los niños aprenden la letra cursiva en segundo de primaria."
+        },
+        {
+          "en": "Her letter was in beautiful [cursive] script.",
+          "tr": "Mektubu güzel bir bitişik el yazısıyla yazılmıştı.",
+          "de": "Ihr Brief war in schöner Schreibschrift verfasst.",
+          "fr": "Sa lettre était écrite dans une belle écriture cursive.",
+          "it": "La sua lettera era scritta in un bel corsivo.",
+          "es": "Su carta estaba escrita con una bonita letra cursiva."
         }
       ]
     }

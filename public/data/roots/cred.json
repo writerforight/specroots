@@ -1,7 +1,8 @@
 {
   "id": "cred",
   "forms": [
-    "cred"
+    "cred",
+    "creed"
   ],
   "origin": "la",
   "etymon": "credere",
@@ -158,6 +159,42 @@
       ]
     },
     {
+      "id": "creditable",
+      "pos": "adjective",
+      "parent": "credit",
+      "parts": [
+        "cred",
+        "-it",
+        "-able"
+      ],
+      "gloss": {
+        "en": "good enough to deserve praise",
+        "tr": "takdire değer, saygın",
+        "de": "achtbar, anerkennenswert",
+        "fr": "honorable",
+        "it": "onorevole, apprezzabile",
+        "es": "meritorio, digno"
+      },
+      "sentences": [
+        {
+          "en": "The young team finished in a [creditable] third place.",
+          "tr": "Genç takım takdire değer bir üçüncülük elde etti.",
+          "de": "Das junge Team belegte einen achtbaren dritten Platz.",
+          "fr": "La jeune équipe a terminé à une honorable troisième place.",
+          "it": "La giovane squadra ha chiuso con un onorevole terzo posto.",
+          "es": "El joven equipo terminó en un meritorio tercer puesto."
+        },
+        {
+          "en": "It was a [creditable] first attempt.",
+          "tr": "Takdire değer bir ilk denemeydi.",
+          "de": "Es war ein anerkennenswerter erster Versuch.",
+          "fr": "C'était une première tentative honorable.",
+          "it": "È stato un primo tentativo apprezzabile.",
+          "es": "Fue un primer intento digno."
+        }
+      ]
+    },
+    {
       "id": "credible",
       "pos": "adjective",
       "parent": null,
@@ -300,6 +337,41 @@
       ]
     },
     {
+      "id": "credibly",
+      "pos": "adverb",
+      "parent": "credible",
+      "parts": [
+        "cred",
+        "-ibly"
+      ],
+      "gloss": {
+        "en": "in a way that can be believed",
+        "tr": "inandırıcı biçimde",
+        "de": "glaubwürdig",
+        "fr": "de façon crédible",
+        "it": "in modo credibile",
+        "es": "de forma creíble"
+      },
+      "sentences": [
+        {
+          "en": "He can't [credibly] say he didn't know.",
+          "tr": "Bilmediğini inandırıcı biçimde söyleyemez.",
+          "de": "Er kann nicht glaubwürdig behaupten, dass er es nicht wusste.",
+          "fr": "Il ne peut pas dire de façon crédible qu'il ne savait pas.",
+          "it": "Non può dire in modo credibile di non saperlo.",
+          "es": "No puede decir de forma creíble que no lo sabía."
+        },
+        {
+          "en": "The actor played the old king very [credibly].",
+          "tr": "Oyuncu yaşlı kralı çok inandırıcı oynadı.",
+          "de": "Der Schauspieler spielte den alten König sehr glaubwürdig.",
+          "fr": "L'acteur a joué le vieux roi de façon très crédible.",
+          "it": "L'attore ha interpretato il vecchio re in modo molto credibile.",
+          "es": "El actor interpretó al viejo rey de forma muy creíble."
+        }
+      ]
+    },
+    {
       "id": "credential",
       "pos": "noun",
       "parent": null,
@@ -403,6 +475,75 @@
           "fr": "Il était incrédule en entendant le prix.",
           "it": "Era incredulo quando ha sentito il prezzo.",
           "es": "Se quedó incrédulo al oír el precio."
+        }
+      ]
+    },
+    {
+      "id": "creed",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "creed"
+      ],
+      "gloss": {
+        "en": "a set of beliefs (from Latin credo, 'I believe')",
+        "tr": "inanç, itikat",
+        "de": "das Glaubensbekenntnis, das Credo",
+        "fr": "le credo, la croyance",
+        "it": "il credo",
+        "es": "el credo"
+      },
+      "sentences": [
+        {
+          "en": "The club is open to people of every race and [creed].",
+          "tr": "Kulüp her ırktan ve inançtan insana açık.",
+          "de": "Der Verein steht Menschen jeder Herkunft und jedes Glaubens offen.",
+          "fr": "Le club est ouvert aux gens de toute origine et de toute croyance.",
+          "it": "Il club è aperto a persone di ogni razza e credo.",
+          "es": "El club está abierto a personas de toda raza y credo."
+        },
+        {
+          "en": "Hard work was the family's [creed].",
+          "tr": "Çok çalışmak ailenin inancıydı.",
+          "de": "Harte Arbeit war das Credo der Familie.",
+          "fr": "Le travail acharné était le credo de la famille.",
+          "it": "Il duro lavoro era il credo della famiglia.",
+          "es": "El trabajo duro era el credo de la familia."
+        }
+      ]
+    },
+    {
+      "id": "credence",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "cred",
+        "-ence"
+      ],
+      "gloss": {
+        "en": "belief that something is true",
+        "tr": "itibar, inanırlık; inanma",
+        "de": "die Glaubwürdigkeit, der Glaube",
+        "fr": "le crédit, la foi",
+        "it": "il credito, la credibilità",
+        "es": "el crédito, la credibilidad"
+      },
+      "sentences": [
+        {
+          "en": "The new data gives [credence] to her theory.",
+          "tr": "Yeni veriler onun kuramını güçlendiriyor.",
+          "de": "Die neuen Daten verleihen ihrer Theorie Glaubwürdigkeit.",
+          "fr": "Les nouvelles données donnent du crédit à sa théorie.",
+          "it": "I nuovi dati danno credibilità alla sua teoria.",
+          "es": "Los nuevos datos dan credibilidad a su teoría."
+        },
+        {
+          "en": "Nobody gave any [credence] to the rumour.",
+          "tr": "Kimse söylentiye itibar etmedi.",
+          "de": "Niemand schenkte dem Gerücht Glauben.",
+          "fr": "Personne n'a accordé de crédit à la rumeur.",
+          "it": "Nessuno ha dato credito alla voce.",
+          "es": "Nadie dio crédito al rumor."
         }
       ]
     }

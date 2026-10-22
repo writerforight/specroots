@@ -156,6 +156,41 @@
       ]
     },
     {
+      "id": "sensibly",
+      "pos": "adverb",
+      "parent": "sensible",
+      "parts": [
+        "sens",
+        "-ibly"
+      ],
+      "gloss": {
+        "en": "in a reasonable, practical way",
+        "tr": "akıllıca, mantıklı bir şekilde",
+        "de": "vernünftig",
+        "fr": "raisonnablement",
+        "it": "in modo sensato",
+        "es": "con sensatez"
+      },
+      "sentences": [
+        {
+          "en": "Dress [sensibly]; it will be cold in the mountains.",
+          "tr": "Mantıklı giyin; dağlarda hava soğuk olacak.",
+          "de": "Zieh dich vernünftig an; in den Bergen wird es kalt.",
+          "fr": "Habille-toi raisonnablement ; il fera froid en montagne.",
+          "it": "Vestiti in modo sensato; in montagna farà freddo.",
+          "es": "Vístete con sensatez; hará frío en la montaña."
+        },
+        {
+          "en": "She spent her prize money [sensibly].",
+          "tr": "Ödül parasını akıllıca harcadı.",
+          "de": "Sie gab ihr Preisgeld vernünftig aus.",
+          "fr": "Elle a dépensé son prix raisonnablement.",
+          "it": "Ha speso il premio in modo sensato.",
+          "es": "Gastó el dinero del premio con sensatez."
+        }
+      ]
+    },
+    {
       "id": "sensitive",
       "pos": "adjective",
       "parent": null,
@@ -262,6 +297,43 @@
           "fr": "Augmente la sensibilité de la souris dans les réglages.",
           "it": "Aumenta la sensibilità del mouse nelle impostazioni.",
           "es": "Sube la sensibilidad del ratón en los ajustes."
+        }
+      ]
+    },
+    {
+      "id": "desensitize",
+      "pos": "verb",
+      "parent": "sensitive",
+      "parts": [
+        "de-",
+        "sens",
+        "-it",
+        "-ize"
+      ],
+      "gloss": {
+        "en": "to make someone react less strongly, for example to violence",
+        "tr": "duyarsızlaştırmak",
+        "de": "abstumpfen, desensibilisieren",
+        "fr": "désensibiliser",
+        "it": "desensibilizzare",
+        "es": "insensibilizar"
+      },
+      "sentences": [
+        {
+          "en": "Too much violence on screen can [desensitize] children.",
+          "tr": "Ekranda çok fazla şiddet çocukları duyarsızlaştırabilir.",
+          "de": "Zu viel Gewalt auf dem Bildschirm kann Kinder abstumpfen.",
+          "fr": "Trop de violence à l'écran peut désensibiliser les enfants.",
+          "it": "Troppa violenza sullo schermo può desensibilizzare i bambini.",
+          "es": "Demasiada violencia en pantalla puede insensibilizar a los niños."
+        },
+        {
+          "en": "After years in the job, he became [desensitized] to pain.",
+          "tr": "Yıllarca bu işte çalıştıktan sonra acıya karşı duyarsızlaştı.",
+          "de": "Nach Jahren im Beruf war er gegenüber Leid abgestumpft.",
+          "fr": "Après des années dans ce métier, il est devenu insensible à la douleur.",
+          "it": "Dopo anni di lavoro è diventato insensibile al dolore.",
+          "es": "Tras años en el trabajo, se volvió insensible al dolor."
         }
       ]
     },
@@ -620,6 +692,42 @@
       ]
     },
     {
+      "id": "consensual",
+      "pos": "adjective",
+      "parent": "consent",
+      "parts": [
+        "con-",
+        "sens",
+        "-ual"
+      ],
+      "gloss": {
+        "en": "agreed to by everyone involved",
+        "tr": "rızaya dayalı, karşılıklı onaylı",
+        "de": "einvernehmlich",
+        "fr": "consensuel, consenti",
+        "it": "consensuale",
+        "es": "consentido, consensuado"
+      },
+      "sentences": [
+        {
+          "en": "The decision was [consensual]; everyone said yes.",
+          "tr": "Karar oy birliğiyle alındı; herkes evet dedi.",
+          "de": "Die Entscheidung war einvernehmlich; alle stimmten zu.",
+          "fr": "La décision était consensuelle ; tout le monde a dit oui.",
+          "it": "La decisione era consensuale; tutti hanno detto sì.",
+          "es": "La decisión fue consensuada; todos dijeron que sí."
+        },
+        {
+          "en": "Any medical test must be [consensual].",
+          "tr": "Her tıbbi test hastanın rızasıyla yapılmalıdır.",
+          "de": "Jede medizinische Untersuchung muss einvernehmlich sein.",
+          "fr": "Tout examen médical doit être consenti.",
+          "it": "Ogni esame medico deve essere consensuale.",
+          "es": "Toda prueba médica debe ser consentida."
+        }
+      ]
+    },
+    {
       "id": "resent",
       "pos": "verb",
       "parent": null,
@@ -691,6 +799,42 @@
       ]
     },
     {
+      "id": "resentful",
+      "pos": "adjective",
+      "parent": "resent",
+      "parts": [
+        "re-",
+        "sent",
+        "-ful"
+      ],
+      "gloss": {
+        "en": "angry because you think you were treated unfairly",
+        "tr": "kırgın, içerlemiş",
+        "de": "verbittert, nachtragend",
+        "fr": "plein de ressentiment, amer",
+        "it": "risentito",
+        "es": "resentido"
+      },
+      "sentences": [
+        {
+          "en": "He felt [resentful] when his brother got the bigger room.",
+          "tr": "Ağabeyi büyük odayı alınca içerledi.",
+          "de": "Er war verbittert, als sein Bruder das größere Zimmer bekam.",
+          "fr": "Il a éprouvé du ressentiment quand son frère a eu la plus grande chambre.",
+          "it": "Si è sentito risentito quando il fratello ha avuto la stanza più grande.",
+          "es": "Se sintió resentido cuando su hermano se quedó con la habitación grande."
+        },
+        {
+          "en": "Workers grew [resentful] about the long hours.",
+          "tr": "İşçiler uzun çalışma saatleri yüzünden giderek kırgınlaştı.",
+          "de": "Die Arbeiter wurden wegen der langen Arbeitszeiten verbittert.",
+          "fr": "Les ouvriers sont devenus amers à cause des longues heures.",
+          "it": "I lavoratori sono diventati risentiti per gli orari lunghi.",
+          "es": "Los trabajadores se volvieron resentidos por las largas jornadas."
+        }
+      ]
+    },
+    {
       "id": "dissent",
       "pos": "noun",
       "parent": null,
@@ -722,6 +866,76 @@
           "fr": "Il y avait un certain désaccord au sein de l'équipe.",
           "it": "C'era un po' di dissenso all'interno della squadra.",
           "es": "Hubo cierto desacuerdo dentro del equipo."
+        }
+      ]
+    },
+    {
+      "id": "assent",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "as-",
+        "sent"
+      ],
+      "gloss": {
+        "en": "agreement or approval (literally: feeling toward)",
+        "tr": "onay, rıza",
+        "de": "die Zustimmung",
+        "fr": "l'assentiment",
+        "it": "l'assenso",
+        "es": "el asentimiento, la aprobación"
+      },
+      "sentences": [
+        {
+          "en": "She nodded her [assent].",
+          "tr": "Başını sallayarak onay verdi.",
+          "de": "Sie nickte zustimmend.",
+          "fr": "Elle a hoché la tête en signe d'assentiment.",
+          "it": "Ha annuito in segno di assenso.",
+          "es": "Asintió con la cabeza."
+        },
+        {
+          "en": "The law needs the king's [assent].",
+          "tr": "Yasanın kralın onayına ihtiyacı var.",
+          "de": "Das Gesetz braucht die Zustimmung des Königs.",
+          "fr": "La loi a besoin de l'assentiment du roi.",
+          "it": "La legge ha bisogno dell'assenso del re.",
+          "es": "La ley necesita la aprobación del rey."
+        }
+      ]
+    },
+    {
+      "id": "sentient",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "sent",
+        "-ient"
+      ],
+      "gloss": {
+        "en": "able to feel and experience things",
+        "tr": "duyarlı, hisseden, bilinçli",
+        "de": "empfindungsfähig",
+        "fr": "sensible, doué de sensibilité",
+        "it": "senziente",
+        "es": "sintiente, consciente"
+      },
+      "sentences": [
+        {
+          "en": "Animals are [sentient] beings that feel pain.",
+          "tr": "Hayvanlar acı hisseden canlılardır.",
+          "de": "Tiere sind empfindungsfähige Wesen, die Schmerz fühlen.",
+          "fr": "Les animaux sont des êtres sensibles qui ressentent la douleur.",
+          "it": "Gli animali sono esseri senzienti che provano dolore.",
+          "es": "Los animales son seres sintientes que sienten dolor."
+        },
+        {
+          "en": "In the film, the robot becomes [sentient].",
+          "tr": "Filmde robot bilinç kazanıyor.",
+          "de": "Im Film wird der Roboter empfindungsfähig.",
+          "fr": "Dans le film, le robot devient conscient.",
+          "it": "Nel film il robot diventa senziente.",
+          "es": "En la película, el robot se vuelve consciente."
         }
       ]
     }

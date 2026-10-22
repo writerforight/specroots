@@ -226,6 +226,42 @@
       ]
     },
     {
+      "id": "expressly",
+      "pos": "adverb",
+      "parent": "express",
+      "parts": [
+        "ex-",
+        "press",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "clearly and on purpose; only for one reason",
+        "tr": "açıkça; özellikle, yalnızca bu amaçla",
+        "de": "ausdrücklich; eigens",
+        "fr": "expressément",
+        "it": "espressamente",
+        "es": "expresamente"
+      },
+      "sentences": [
+        {
+          "en": "Smoking is [expressly] forbidden in the building.",
+          "tr": "Binada sigara içmek açıkça yasaktır.",
+          "de": "Rauchen ist im Gebäude ausdrücklich verboten.",
+          "fr": "Il est expressément interdit de fumer dans le bâtiment.",
+          "it": "È espressamente vietato fumare nell'edificio.",
+          "es": "Está expresamente prohibido fumar en el edificio."
+        },
+        {
+          "en": "The room was built [expressly] for music lessons.",
+          "tr": "Oda yalnızca müzik dersleri için yapılmıştı.",
+          "de": "Der Raum wurde eigens für Musikunterricht gebaut.",
+          "fr": "La salle a été construite expressément pour les cours de musique.",
+          "it": "La sala è stata costruita espressamente per le lezioni di musica.",
+          "es": "La sala se construyó expresamente para las clases de música."
+        }
+      ]
+    },
+    {
       "id": "impress",
       "pos": "verb",
       "parent": null,
@@ -293,6 +329,43 @@
           "fr": "J'ai eu l'impression qu'il s'ennuyait.",
           "it": "Ho avuto l'impressione che si annoiasse.",
           "es": "Me dio la impresión de que se aburría."
+        }
+      ]
+    },
+    {
+      "id": "impressionable",
+      "pos": "adjective",
+      "parent": "impression",
+      "parts": [
+        "im-",
+        "press",
+        "-ion",
+        "-able"
+      ],
+      "gloss": {
+        "en": "easily influenced by other people, especially when young",
+        "tr": "kolay etkilenen",
+        "de": "leicht beeinflussbar",
+        "fr": "influençable",
+        "it": "influenzabile, impressionabile",
+        "es": "influenciable"
+      },
+      "sentences": [
+        {
+          "en": "Teenagers are at an [impressionable] age.",
+          "tr": "Gençler kolay etkilenen bir yaştadır.",
+          "de": "Teenager sind in einem leicht beeinflussbaren Alter.",
+          "fr": "Les adolescents sont à un âge influençable.",
+          "it": "Gli adolescenti sono in un'età influenzabile.",
+          "es": "Los adolescentes están en una edad influenciable."
+        },
+        {
+          "en": "Violent games may affect [impressionable] children.",
+          "tr": "Şiddet içeren oyunlar kolay etkilenen çocukları etkileyebilir.",
+          "de": "Gewalttätige Spiele können leicht beeinflussbare Kinder prägen.",
+          "fr": "Les jeux violents peuvent influencer les enfants influençables.",
+          "it": "I giochi violenti possono condizionare i bambini più impressionabili.",
+          "es": "Los juegos violentos pueden afectar a los niños influenciables."
         }
       ]
     },
@@ -477,6 +550,79 @@
       ]
     },
     {
+      "id": "depressing",
+      "pos": "adjective",
+      "parent": "depress",
+      "parts": [
+        "de-",
+        "press",
+        "-ing"
+      ],
+      "gloss": {
+        "en": "making you feel sad and without hope",
+        "tr": "iç karartıcı, moral bozucu",
+        "de": "deprimierend",
+        "fr": "déprimant",
+        "it": "deprimente",
+        "es": "deprimente"
+      },
+      "sentences": [
+        {
+          "en": "The news this week is so [depressing].",
+          "tr": "Bu haftaki haberler çok iç karartıcı.",
+          "de": "Die Nachrichten diese Woche sind so deprimierend.",
+          "fr": "Les nouvelles de cette semaine sont tellement déprimantes.",
+          "it": "Le notizie di questa settimana sono così deprimenti.",
+          "es": "Las noticias de esta semana son muy deprimentes."
+        },
+        {
+          "en": "Grey winter days can be [depressing].",
+          "tr": "Gri kış günleri moral bozucu olabilir.",
+          "de": "Graue Wintertage können deprimierend sein.",
+          "fr": "Les journées grises d'hiver peuvent être déprimantes.",
+          "it": "Le giornate grigie d'inverno possono essere deprimenti.",
+          "es": "Los días grises de invierno pueden ser deprimentes."
+        }
+      ]
+    },
+    {
+      "id": "antidepressant",
+      "pos": "noun",
+      "parent": "depress",
+      "parts": [
+        "anti-",
+        "de-",
+        "press",
+        "-ant"
+      ],
+      "gloss": {
+        "en": "a medicine that treats depression",
+        "tr": "antidepresan",
+        "de": "das Antidepressivum",
+        "fr": "l'antidépresseur",
+        "it": "l'antidepressivo",
+        "es": "el antidepresivo"
+      },
+      "sentences": [
+        {
+          "en": "Her doctor prescribed an [antidepressant].",
+          "tr": "Doktoru ona bir antidepresan yazdı.",
+          "de": "Ihre Ärztin verschrieb ihr ein Antidepressivum.",
+          "fr": "Son médecin lui a prescrit un antidépresseur.",
+          "it": "Il medico le ha prescritto un antidepressivo.",
+          "es": "Su médico le recetó un antidepresivo."
+        },
+        {
+          "en": "[Antidepressants] can take weeks to work.",
+          "tr": "Antidepresanların etki etmesi haftalar sürebilir.",
+          "de": "Antidepressiva können Wochen brauchen, bis sie wirken.",
+          "fr": "Les antidépresseurs peuvent mettre des semaines à agir.",
+          "it": "Gli antidepressivi possono impiegare settimane per fare effetto.",
+          "es": "Los antidepresivos pueden tardar semanas en hacer efecto."
+        }
+      ]
+    },
+    {
       "id": "oppress",
       "pos": "verb",
       "parent": null,
@@ -548,6 +694,42 @@
       ]
     },
     {
+      "id": "oppressive",
+      "pos": "adjective",
+      "parent": "oppress",
+      "parts": [
+        "op-",
+        "press",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "cruel and unfair; (of weather) hot and heavy",
+        "tr": "baskıcı, zalim; (hava) bunaltıcı",
+        "de": "unterdrückerisch; drückend",
+        "fr": "oppressif; (temps) étouffant",
+        "it": "oppressivo; (tempo) afoso",
+        "es": "opresivo; (tiempo) agobiante"
+      },
+      "sentences": [
+        {
+          "en": "The people rose up against the [oppressive] government.",
+          "tr": "Halk baskıcı hükümete karşı ayaklandı.",
+          "de": "Das Volk erhob sich gegen die unterdrückerische Regierung.",
+          "fr": "Le peuple s'est soulevé contre le gouvernement oppressif.",
+          "it": "Il popolo si è ribellato al governo oppressivo.",
+          "es": "El pueblo se rebeló contra el gobierno opresivo."
+        },
+        {
+          "en": "The heat in August was [oppressive].",
+          "tr": "Ağustostaki sıcak bunaltıcıydı.",
+          "de": "Die Hitze im August war drückend.",
+          "fr": "La chaleur en août était étouffante.",
+          "it": "Il caldo ad agosto era opprimente.",
+          "es": "El calor en agosto era agobiante."
+        }
+      ]
+    },
+    {
       "id": "suppress",
       "pos": "verb",
       "parent": null,
@@ -579,6 +761,42 @@
           "fr": "Ce médicament calme la toux.",
           "it": "Questo farmaco blocca la tosse.",
           "es": "Este medicamento calma la tos."
+        }
+      ]
+    },
+    {
+      "id": "suppression",
+      "pos": "noun",
+      "parent": "suppress",
+      "parts": [
+        "sup-",
+        "press",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "stopping something by force or holding it back",
+        "tr": "bastırma, engelleme",
+        "de": "die Unterdrückung",
+        "fr": "la répression, la suppression",
+        "it": "la repressione, la soppressione",
+        "es": "la supresión, la represión"
+      },
+      "sentences": [
+        {
+          "en": "The [suppression] of the protest was violent.",
+          "tr": "Protestonun bastırılması şiddetli oldu.",
+          "de": "Die Unterdrückung des Protests war gewaltsam.",
+          "fr": "La répression de la manifestation a été violente.",
+          "it": "La repressione della protesta è stata violenta.",
+          "es": "La represión de la protesta fue violenta."
+        },
+        {
+          "en": "The [suppression] of bad news only made things worse.",
+          "tr": "Kötü haberin örtbas edilmesi işleri daha da kötüleştirdi.",
+          "de": "Das Unterdrücken der schlechten Nachricht machte alles nur schlimmer.",
+          "fr": "Étouffer la mauvaise nouvelle n'a fait qu'empirer les choses.",
+          "it": "La soppressione delle cattive notizie ha solo peggiorato le cose.",
+          "es": "Ocultar las malas noticias solo empeoró las cosas."
         }
       ]
     },
@@ -650,6 +868,42 @@
           "fr": "Les sportifs portent des chaussettes de compression après la course.",
           "it": "Gli atleti indossano calze a compressione dopo la gara.",
           "es": "Los atletas usan calcetines de compresión después de la carrera."
+        }
+      ]
+    },
+    {
+      "id": "compressor",
+      "pos": "noun",
+      "parent": "compress",
+      "parts": [
+        "com-",
+        "press",
+        "-or"
+      ],
+      "gloss": {
+        "en": "a machine that presses air or gas into a smaller space",
+        "tr": "kompresör",
+        "de": "der Kompressor, der Verdichter",
+        "fr": "le compresseur",
+        "it": "il compressore",
+        "es": "el compresor"
+      },
+      "sentences": [
+        {
+          "en": "The fridge's [compressor] is making a strange noise.",
+          "tr": "Buzdolabının kompresörü garip bir ses çıkarıyor.",
+          "de": "Der Kompressor des Kühlschranks macht ein seltsames Geräusch.",
+          "fr": "Le compresseur du frigo fait un bruit bizarre.",
+          "it": "Il compressore del frigo fa uno strano rumore.",
+          "es": "El compresor de la nevera hace un ruido raro."
+        },
+        {
+          "en": "We used an air [compressor] to fill the tyres.",
+          "tr": "Lastikleri şişirmek için hava kompresörü kullandık.",
+          "de": "Wir haben die Reifen mit einem Luftkompressor aufgepumpt.",
+          "fr": "Nous avons gonflé les pneus avec un compresseur d'air.",
+          "it": "Abbiamo gonfiato le gomme con un compressore d'aria.",
+          "es": "Usamos un compresor de aire para inflar las ruedas."
         }
       ]
     },

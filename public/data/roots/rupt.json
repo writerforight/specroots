@@ -301,6 +301,42 @@
       ]
     },
     {
+      "id": "disruptor",
+      "pos": "noun",
+      "parent": "disrupt",
+      "parts": [
+        "dis-",
+        "rupt",
+        "-or"
+      ],
+      "gloss": {
+        "en": "a person or company that changes how an industry works",
+        "tr": "düzeni bozan, sektörü dönüştüren (kişi ya da şirket)",
+        "de": "der Disruptor, der Umwälzer",
+        "fr": "le perturbateur, l'acteur de rupture",
+        "it": "l'innovatore dirompente",
+        "es": "el disruptor"
+      },
+      "sentences": [
+        {
+          "en": "The app was a [disruptor] in the taxi business.",
+          "tr": "Uygulama taksi sektörünün düzenini bozdu.",
+          "de": "Die App war ein Umwälzer im Taxigeschäft.",
+          "fr": "L'application a été un acteur de rupture dans le secteur des taxis.",
+          "it": "L'app è stata un innovatore dirompente nel settore dei taxi.",
+          "es": "La aplicación fue un disruptor en el negocio del taxi."
+        },
+        {
+          "en": "Young [disruptors] are challenging the old banks.",
+          "tr": "Genç yenilikçi şirketler eski bankalara meydan okuyor.",
+          "de": "Junge Disruptoren fordern die alten Banken heraus.",
+          "fr": "De jeunes perturbateurs défient les vieilles banques.",
+          "it": "Giovani innovatori sfidano le vecchie banche.",
+          "es": "Jóvenes disruptores desafían a los bancos tradicionales."
+        }
+      ]
+    },
+    {
       "id": "corrupt",
       "pos": "adjective",
       "parent": null,
@@ -409,6 +445,42 @@
       ]
     },
     {
+      "id": "corruptible",
+      "pos": "adjective",
+      "parent": "corrupt",
+      "parts": [
+        "cor-",
+        "rupt",
+        "-ible"
+      ],
+      "gloss": {
+        "en": "able to be made dishonest, for example with money",
+        "tr": "yozlaştırılabilir, rüşvetle elde edilebilir",
+        "de": "bestechlich",
+        "fr": "corruptible",
+        "it": "corruttibile",
+        "es": "corruptible, sobornable"
+      },
+      "sentences": [
+        {
+          "en": "A poorly paid police force is easily [corruptible].",
+          "tr": "Düşük maaşlı bir polis teşkilatı kolayca yozlaştırılabilir.",
+          "de": "Eine schlecht bezahlte Polizei ist leicht bestechlich.",
+          "fr": "Une police mal payée est facilement corruptible.",
+          "it": "Una polizia mal pagata è facilmente corruttibile.",
+          "es": "Una policía mal pagada es fácilmente sobornable."
+        },
+        {
+          "en": "Power makes many people [corruptible].",
+          "tr": "Güç birçok insanı yozlaşmaya açık hale getirir.",
+          "de": "Macht macht viele Menschen bestechlich.",
+          "fr": "Le pouvoir rend beaucoup de gens corruptibles.",
+          "it": "Il potere rende molte persone corruttibili.",
+          "es": "El poder vuelve corruptible a mucha gente."
+        }
+      ]
+    },
+    {
       "id": "bankrupt",
       "pos": "adjective",
       "parent": null,
@@ -511,6 +583,42 @@
           "fr": "Désolé si j'ai été brusque au téléphone.",
           "it": "Scusa se sono stato brusco al telefono.",
           "es": "Perdona si fui brusco por teléfono."
+        }
+      ]
+    },
+    {
+      "id": "abruptly",
+      "pos": "adverb",
+      "parent": "abrupt",
+      "parts": [
+        "ab-",
+        "rupt",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "suddenly and unexpectedly",
+        "tr": "aniden, birdenbire",
+        "de": "abrupt, plötzlich",
+        "fr": "brusquement",
+        "it": "bruscamente",
+        "es": "bruscamente"
+      },
+      "sentences": [
+        {
+          "en": "The music stopped [abruptly].",
+          "tr": "Müzik aniden durdu.",
+          "de": "Die Musik hörte plötzlich auf.",
+          "fr": "La musique s'est arrêtée brusquement.",
+          "it": "La musica si è interrotta bruscamente.",
+          "es": "La música se detuvo bruscamente."
+        },
+        {
+          "en": "He [abruptly] left the room without a word.",
+          "tr": "Tek kelime etmeden birdenbire odadan çıktı.",
+          "de": "Er verließ abrupt und wortlos den Raum.",
+          "fr": "Il a brusquement quitté la pièce sans un mot.",
+          "it": "Ha lasciato bruscamente la stanza senza una parola.",
+          "es": "Salió bruscamente de la habitación sin decir nada."
         }
       ]
     },

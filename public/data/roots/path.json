@@ -124,6 +124,44 @@
       ]
     },
     {
+      "id": "sympathetically",
+      "pos": "adverb",
+      "parent": "sympathetic",
+      "parts": [
+        "sym-",
+        "path",
+        "-etic",
+        "-al",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "in a kind way that shows you understand someone's problems",
+        "tr": "anlayışla, şefkatle",
+        "de": "mitfühlend, verständnisvoll",
+        "fr": "avec compassion, avec compréhension",
+        "it": "con comprensione, con partecipazione",
+        "es": "con comprensión, compasivamente"
+      },
+      "sentences": [
+        {
+          "en": "The doctor listened [sympathetically] to her worries.",
+          "tr": "Doktor onun endişelerini anlayışla dinledi.",
+          "de": "Die Ärztin hörte sich ihre Sorgen verständnisvoll an.",
+          "fr": "Le médecin a écouté ses inquiétudes avec compréhension.",
+          "it": "Il medico ha ascoltato le sue preoccupazioni con comprensione.",
+          "es": "La médica escuchó sus preocupaciones con comprensión."
+        },
+        {
+          "en": "He smiled [sympathetically] and offered me a tissue.",
+          "tr": "Şefkatle gülümsedi ve bana bir mendil uzattı.",
+          "de": "Er lächelte mitfühlend und reichte mir ein Taschentuch.",
+          "fr": "Il a souri avec compassion et m'a tendu un mouchoir.",
+          "it": "Ha sorriso con partecipazione e mi ha offerto un fazzoletto.",
+          "es": "Sonrió compasivamente y me ofreció un pañuelo."
+        }
+      ]
+    },
+    {
       "id": "sympathize",
       "pos": "verb",
       "parent": "sympathy",
@@ -264,6 +302,42 @@
           "fr": "Les lecteurs se mettent à la place du héros solitaire.",
           "it": "I lettori si immedesimano nell'eroe solitario.",
           "es": "Los lectores empatizan con el héroe solitario."
+        }
+      ]
+    },
+    {
+      "id": "empathic",
+      "pos": "adjective",
+      "parent": "empathy",
+      "parts": [
+        "em-gr-",
+        "path",
+        "-ic"
+      ],
+      "gloss": {
+        "en": "able to understand and share other people's feelings",
+        "tr": "empati kurabilen, empatik",
+        "de": "einfühlsam, empathisch",
+        "fr": "empathique",
+        "it": "empatico",
+        "es": "empático"
+      },
+      "sentences": [
+        {
+          "en": "Good nurses are calm and [empathic].",
+          "tr": "İyi hemşireler sakin ve empatiktir.",
+          "de": "Gute Pflegekräfte sind ruhig und einfühlsam.",
+          "fr": "Les bons infirmiers sont calmes et empathiques.",
+          "it": "I bravi infermieri sono calmi ed empatici.",
+          "es": "Los buenos enfermeros son tranquilos y empáticos."
+        },
+        {
+          "en": "She gave an [empathic] reply to the angry customer.",
+          "tr": "Kızgın müşteriye anlayışlı bir yanıt verdi.",
+          "de": "Sie antwortete dem wütenden Kunden einfühlsam.",
+          "fr": "Elle a répondu avec empathie au client en colère.",
+          "it": "Ha dato una risposta empatica al cliente arrabbiato.",
+          "es": "Dio una respuesta empática al cliente enfadado."
         }
       ]
     },
@@ -554,6 +628,42 @@
       ]
     },
     {
+      "id": "psychopathy",
+      "pos": "noun",
+      "parent": "psychopath",
+      "parts": [
+        "psycho-",
+        "path",
+        "-y"
+      ],
+      "gloss": {
+        "en": "a mental disorder in which a person feels no guilt or empathy",
+        "tr": "psikopati",
+        "de": "die Psychopathie",
+        "fr": "la psychopathie",
+        "it": "la psicopatia",
+        "es": "la psicopatía"
+      },
+      "sentences": [
+        {
+          "en": "The book explains the signs of [psychopathy].",
+          "tr": "Kitap psikopatinin belirtilerini açıklıyor.",
+          "de": "Das Buch erklärt die Anzeichen von Psychopathie.",
+          "fr": "Le livre explique les signes de la psychopathie.",
+          "it": "Il libro spiega i segni della psicopatia.",
+          "es": "El libro explica las señales de la psicopatía."
+        },
+        {
+          "en": "Not every criminal shows [psychopathy].",
+          "tr": "Her suçluda psikopati görülmez.",
+          "de": "Nicht jeder Verbrecher zeigt Psychopathie.",
+          "fr": "Tous les criminels ne présentent pas de psychopathie.",
+          "it": "Non tutti i criminali mostrano psicopatia.",
+          "es": "No todos los delincuentes muestran psicopatía."
+        }
+      ]
+    },
+    {
       "id": "pathology",
       "pos": "noun",
       "parent": null,
@@ -620,6 +730,41 @@
           "fr": "Les médecins n'ont trouvé aucune modification pathologique du tissu.",
           "it": "I medici non hanno trovato alterazioni patologiche nel tessuto.",
           "es": "Los médicos no encontraron cambios patológicos en el tejido."
+        }
+      ]
+    },
+    {
+      "id": "pathologist",
+      "pos": "noun",
+      "parent": "pathology",
+      "parts": [
+        "path",
+        "-ologist"
+      ],
+      "gloss": {
+        "en": "a doctor who studies diseases, often by examining dead bodies",
+        "tr": "patolog",
+        "de": "der Pathologe, die Pathologin",
+        "fr": "le/la pathologiste, le médecin légiste",
+        "it": "il/la patologo/a",
+        "es": "el/la patólogo/a"
+      },
+      "sentences": [
+        {
+          "en": "The [pathologist] found the cause of death.",
+          "tr": "Patolog ölüm nedenini buldu.",
+          "de": "Die Pathologin fand die Todesursache.",
+          "fr": "Le médecin légiste a trouvé la cause de la mort.",
+          "it": "Il patologo ha trovato la causa della morte.",
+          "es": "La patóloga encontró la causa de la muerte."
+        },
+        {
+          "en": "A [pathologist] checked the tissue for cancer.",
+          "tr": "Bir patolog dokuyu kanser açısından inceledi.",
+          "de": "Ein Pathologe untersuchte das Gewebe auf Krebs.",
+          "fr": "Un pathologiste a analysé le tissu pour chercher un cancer.",
+          "it": "Un patologo ha esaminato il tessuto per cercare il cancro.",
+          "es": "Un patólogo analizó el tejido en busca de cáncer."
         }
       ]
     },

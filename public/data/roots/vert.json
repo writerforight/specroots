@@ -88,6 +88,42 @@
       ]
     },
     {
+      "id": "convertible",
+      "pos": "noun",
+      "parent": "convert",
+      "parts": [
+        "con-",
+        "vert",
+        "-ible"
+      ],
+      "gloss": {
+        "en": "a car with a roof that can be folded back; (adj.) able to be changed",
+        "tr": "üstü açılır araba; (sıfat) dönüştürülebilir",
+        "de": "das Cabrio; (Adj.) umwandelbar",
+        "fr": "le cabriolet, la décapotable; (adj.) convertible",
+        "it": "la decappottabile; (agg.) convertibile",
+        "es": "el descapotable; (adj.) convertible"
+      },
+      "sentences": [
+        {
+          "en": "They drove along the coast in a red [convertible].",
+          "tr": "Kırmızı, üstü açılır bir arabayla sahil boyunca gittiler.",
+          "de": "Sie fuhren in einem roten Cabrio die Küste entlang.",
+          "fr": "Ils ont longé la côte dans une décapotable rouge.",
+          "it": "Hanno percorso la costa in una decappottabile rossa.",
+          "es": "Recorrieron la costa en un descapotable rojo."
+        },
+        {
+          "en": "The sofa is [convertible] into a bed.",
+          "tr": "Kanepe yatağa dönüştürülebiliyor.",
+          "de": "Das Sofa lässt sich in ein Bett umwandeln.",
+          "fr": "Le canapé est convertible en lit.",
+          "it": "Il divano è trasformabile in letto.",
+          "es": "El sofá se puede convertir en cama."
+        }
+      ]
+    },
+    {
       "id": "conversation",
       "pos": "noun",
       "parent": null,
@@ -192,6 +228,42 @@
           "fr": "Réfléchis bien, cette étape est irréversible.",
           "it": "Pensaci bene: questo passo è irreversibile.",
           "es": "Piénsalo bien; este paso es irreversible."
+        }
+      ]
+    },
+    {
+      "id": "reversal",
+      "pos": "noun",
+      "parent": "reverse",
+      "parts": [
+        "re-",
+        "vers",
+        "-al"
+      ],
+      "gloss": {
+        "en": "a complete change to the opposite",
+        "tr": "tersine dönüş, değişiklik",
+        "de": "die Umkehr, die Kehrtwende",
+        "fr": "le revirement, l'inversion",
+        "it": "il capovolgimento, l'inversione",
+        "es": "el giro, el cambio radical"
+      },
+      "sentences": [
+        {
+          "en": "The government made a sudden [reversal] on taxes.",
+          "tr": "Hükümet vergiler konusunda ani bir geri dönüş yaptı.",
+          "de": "Die Regierung vollzog bei den Steuern eine plötzliche Kehrtwende.",
+          "fr": "Le gouvernement a fait un revirement soudain sur les impôts.",
+          "it": "Il governo ha fatto un improvviso dietrofront sulle tasse.",
+          "es": "El gobierno dio un giro repentino en materia de impuestos."
+        },
+        {
+          "en": "In a [reversal] of roles, the student taught the teacher.",
+          "tr": "Rollerin tersine döndüğü bir anda öğrenci öğretmene ders verdi.",
+          "de": "In einer Umkehr der Rollen unterrichtete der Schüler den Lehrer.",
+          "fr": "Dans une inversion des rôles, l'élève a enseigné au professeur.",
+          "it": "In un'inversione dei ruoli, lo studente ha insegnato all'insegnante.",
+          "es": "En una inversión de papeles, el alumno enseñó al profesor."
         }
       ]
     },
@@ -440,6 +512,42 @@
           "fr": "Il a essayé de détourner l'attention du problème.",
           "it": "Ha cercato di distogliere l'attenzione dal problema.",
           "es": "Intentó desviar la atención del problema."
+        }
+      ]
+    },
+    {
+      "id": "diversion",
+      "pos": "noun",
+      "parent": "divert",
+      "parts": [
+        "di-",
+        "vers",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a different route when a road is closed; something that takes attention away",
+        "tr": "yol değişikliği, sapma; dikkat dağıtma",
+        "de": "die Umleitung; die Ablenkung",
+        "fr": "la déviation; la diversion",
+        "it": "la deviazione; il diversivo",
+        "es": "el desvío; la distracción"
+      },
+      "sentences": [
+        {
+          "en": "There is a [diversion] because of roadworks.",
+          "tr": "Yol çalışması nedeniyle güzergâh değişikliği var.",
+          "de": "Wegen Bauarbeiten gibt es eine Umleitung.",
+          "fr": "Il y a une déviation à cause des travaux.",
+          "it": "C'è una deviazione per lavori stradali.",
+          "es": "Hay un desvío por obras."
+        },
+        {
+          "en": "One thief made a [diversion] while the other took the bag.",
+          "tr": "Hırsızlardan biri dikkat dağıtırken diğeri çantayı aldı.",
+          "de": "Ein Dieb sorgte für Ablenkung, während der andere die Tasche nahm.",
+          "fr": "Un voleur a fait diversion pendant que l'autre prenait le sac.",
+          "it": "Un ladro ha creato un diversivo mentre l'altro prendeva la borsa.",
+          "es": "Un ladrón distrajo a todos mientras el otro se llevaba el bolso."
         }
       ]
     },
@@ -797,6 +905,148 @@
           "fr": "Le médicament a peu d'effets indésirables.",
           "it": "Il farmaco ha pochi effetti avversi.",
           "es": "El medicamento tiene pocos efectos adversos."
+        }
+      ]
+    },
+    {
+      "id": "adversity",
+      "pos": "noun",
+      "parent": "adverse",
+      "parts": [
+        "ad-",
+        "vers",
+        "-ity"
+      ],
+      "gloss": {
+        "en": "a very difficult or unlucky situation",
+        "tr": "zorluk, sıkıntı, talihsizlik",
+        "de": "die Widrigkeit, das Unglück",
+        "fr": "l'adversité",
+        "it": "l'avversità",
+        "es": "la adversidad"
+      },
+      "sentences": [
+        {
+          "en": "She stayed positive in the face of [adversity].",
+          "tr": "Zorluklar karşısında olumlu kalmayı başardı.",
+          "de": "Trotz aller Widrigkeiten blieb sie positiv.",
+          "fr": "Elle est restée positive face à l'adversité.",
+          "it": "È rimasta positiva di fronte alle avversità.",
+          "es": "Se mantuvo positiva ante la adversidad."
+        },
+        {
+          "en": "The team showed real character in [adversity].",
+          "tr": "Takım zor anlarda gerçek bir karakter gösterdi.",
+          "de": "Die Mannschaft zeigte im Unglück echten Charakter.",
+          "fr": "L'équipe a montré un vrai caractère dans l'adversité.",
+          "it": "La squadra ha mostrato vero carattere nelle avversità.",
+          "es": "El equipo mostró verdadero carácter en la adversidad."
+        }
+      ]
+    },
+    {
+      "id": "conversely",
+      "pos": "adverb",
+      "parent": null,
+      "parts": [
+        "con-",
+        "verse",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "in the opposite way; on the other hand (literally: turned around)",
+        "tr": "tersine, aksine",
+        "de": "umgekehrt",
+        "fr": "inversement, à l'inverse",
+        "it": "al contrario, viceversa",
+        "es": "a la inversa, por el contrario"
+      },
+      "sentences": [
+        {
+          "en": "Some people love the heat; [conversely], others prefer the cold.",
+          "tr": "Bazı insanlar sıcağı sever; tersine, bazıları soğuğu tercih eder.",
+          "de": "Manche lieben die Hitze; umgekehrt mögen andere lieber die Kälte.",
+          "fr": "Certains adorent la chaleur ; à l'inverse, d'autres préfèrent le froid.",
+          "it": "Alcuni amano il caldo; al contrario, altri preferiscono il freddo.",
+          "es": "Algunos aman el calor; por el contrario, otros prefieren el frío."
+        },
+        {
+          "en": "Prices rose and, [conversely], sales fell.",
+          "tr": "Fiyatlar arttı ve buna karşılık satışlar düştü.",
+          "de": "Die Preise stiegen, und umgekehrt sanken die Verkäufe.",
+          "fr": "Les prix ont augmenté et, inversement, les ventes ont baissé.",
+          "it": "I prezzi sono saliti e, viceversa, le vendite sono calate.",
+          "es": "Los precios subieron y, a la inversa, las ventas bajaron."
+        }
+      ]
+    },
+    {
+      "id": "invert",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "in-",
+        "vert"
+      ],
+      "gloss": {
+        "en": "to turn something upside down or the other way round",
+        "tr": "ters çevirmek",
+        "de": "umkehren, umdrehen",
+        "fr": "inverser, retourner",
+        "it": "invertire, capovolgere",
+        "es": "invertir, dar la vuelta"
+      },
+      "sentences": [
+        {
+          "en": "[Invert] the cake onto a plate when it is cool.",
+          "tr": "Kek soğuyunca tabağa ters çevir.",
+          "de": "Stürze den Kuchen auf einen Teller, wenn er abgekühlt ist.",
+          "fr": "Retourne le gâteau sur une assiette quand il est froid.",
+          "it": "Capovolgi la torta su un piatto quando è fredda.",
+          "es": "Da la vuelta al bizcocho sobre un plato cuando esté frío."
+        },
+        {
+          "en": "The app can [invert] the colours of the screen.",
+          "tr": "Uygulama ekran renklerini ters çevirebiliyor.",
+          "de": "Die App kann die Farben des Bildschirms umkehren.",
+          "fr": "L'application peut inverser les couleurs de l'écran.",
+          "it": "L'app può invertire i colori dello schermo.",
+          "es": "La aplicación puede invertir los colores de la pantalla."
+        }
+      ]
+    },
+    {
+      "id": "versus",
+      "pos": "preposition",
+      "parent": null,
+      "parts": [
+        "vers",
+        "-us"
+      ],
+      "gloss": {
+        "en": "against (in a game or court case); compared with (literally: turned toward)",
+        "tr": "karşı, -e karşı",
+        "de": "gegen",
+        "fr": "contre",
+        "it": "contro",
+        "es": "contra, frente a"
+      },
+      "sentences": [
+        {
+          "en": "Tonight's game is Brazil [versus] Japan.",
+          "tr": "Bu akşamki maç Brezilya-Japonya.",
+          "de": "Das Spiel heute Abend ist Brasilien gegen Japan.",
+          "fr": "Le match de ce soir, c'est le Brésil contre le Japon.",
+          "it": "La partita di stasera è Brasile contro Giappone.",
+          "es": "El partido de esta noche es Brasil contra Japón."
+        },
+        {
+          "en": "We talked about renting [versus] buying a home.",
+          "tr": "Ev kiralamayı satın almayla karşılaştırarak konuştuk.",
+          "de": "Wir sprachen über Mieten im Vergleich zum Kaufen.",
+          "fr": "Nous avons parlé de location ou d'achat d'un logement.",
+          "it": "Abbiamo parlato di affittare contro comprare casa.",
+          "es": "Hablamos de alquilar frente a comprar una vivienda."
         }
       ]
     }

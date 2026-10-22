@@ -156,6 +156,42 @@
       ]
     },
     {
+      "id": "formally",
+      "pos": "adverb",
+      "parent": "formal",
+      "parts": [
+        "form",
+        "-al",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "officially; in a serious, polite style",
+        "tr": "resmî olarak; resmî bir şekilde",
+        "de": "offiziell; förmlich",
+        "fr": "officiellement; de façon formelle",
+        "it": "ufficialmente; formalmente",
+        "es": "oficialmente; formalmente"
+      },
+      "sentences": [
+        {
+          "en": "The new bridge will be [formally] opened on Monday.",
+          "tr": "Yeni köprü pazartesi resmî olarak açılacak.",
+          "de": "Die neue Brücke wird am Montag offiziell eröffnet.",
+          "fr": "Le nouveau pont sera officiellement inauguré lundi.",
+          "it": "Il nuovo ponte sarà inaugurato ufficialmente lunedì.",
+          "es": "El nuevo puente se inaugurará oficialmente el lunes."
+        },
+        {
+          "en": "Guests should dress [formally] for the dinner.",
+          "tr": "Konuklar akşam yemeği için resmî giyinmeli.",
+          "de": "Die Gäste sollten sich zum Abendessen förmlich kleiden.",
+          "fr": "Les invités doivent s'habiller de façon formelle pour le dîner.",
+          "it": "Gli ospiti devono vestirsi in modo formale per la cena.",
+          "es": "Los invitados deben vestir formalmente para la cena."
+        }
+      ]
+    },
+    {
       "id": "formation",
       "pos": "noun",
       "parent": null,
@@ -439,6 +475,42 @@
       ]
     },
     {
+      "id": "informant",
+      "pos": "noun",
+      "parent": "inform",
+      "parts": [
+        "in-",
+        "form",
+        "-ant"
+      ],
+      "gloss": {
+        "en": "a person who gives secret information, for example to the police",
+        "tr": "muhbir",
+        "de": "der Informant, die Informantin",
+        "fr": "l'informateur, l'informatrice",
+        "it": "l'informatore, l'informatrice",
+        "es": "el/la informante, el/la confidente"
+      },
+      "sentences": [
+        {
+          "en": "The police got the tip from an [informant].",
+          "tr": "Polis ihbarı bir muhbirden aldı.",
+          "de": "Die Polizei bekam den Hinweis von einem Informanten.",
+          "fr": "La police a reçu le tuyau d'un informateur.",
+          "it": "La polizia ha ricevuto la soffiata da un informatore.",
+          "es": "La policía recibió el aviso de un confidente."
+        },
+        {
+          "en": "The journalist protected the name of her [informant].",
+          "tr": "Gazeteci kaynağının adını korudu.",
+          "de": "Die Journalistin schützte den Namen ihrer Informantin.",
+          "fr": "La journaliste a protégé le nom de son informateur.",
+          "it": "La giornalista ha protetto il nome del suo informatore.",
+          "es": "La periodista protegió el nombre de su informante."
+        }
+      ]
+    },
+    {
       "id": "transform",
       "pos": "verb",
       "parent": null,
@@ -506,6 +578,42 @@
           "fr": "Une rotation est une transformation simple en géométrie.",
           "it": "Una rotazione è una semplice trasformazione geometrica.",
           "es": "Una rotación es una transformación sencilla en geometría."
+        }
+      ]
+    },
+    {
+      "id": "transformer",
+      "pos": "noun",
+      "parent": "transform",
+      "parts": [
+        "trans-",
+        "form",
+        "-er"
+      ],
+      "gloss": {
+        "en": "a device that changes the voltage of electricity",
+        "tr": "transformatör, trafo",
+        "de": "der Transformator, der Trafo",
+        "fr": "le transformateur",
+        "it": "il trasformatore",
+        "es": "el transformador"
+      },
+      "sentences": [
+        {
+          "en": "Lightning hit the [transformer] and the street went dark.",
+          "tr": "Yıldırım trafoya düştü ve sokak karanlığa gömüldü.",
+          "de": "Der Blitz schlug in den Transformator ein, und die Straße wurde dunkel.",
+          "fr": "La foudre a frappé le transformateur et la rue est plongée dans le noir.",
+          "it": "Un fulmine ha colpito il trasformatore e la strada è rimasta al buio.",
+          "es": "Un rayo cayó en el transformador y la calle se quedó a oscuras."
+        },
+        {
+          "en": "The laptop charger has a small [transformer] inside.",
+          "tr": "Dizüstü bilgisayar şarj cihazının içinde küçük bir transformatör var.",
+          "de": "Im Laptop-Ladegerät steckt ein kleiner Transformator.",
+          "fr": "Le chargeur de l'ordinateur contient un petit transformateur.",
+          "it": "Il caricatore del portatile ha dentro un piccolo trasformatore.",
+          "es": "El cargador del portátil tiene un pequeño transformador dentro."
         }
       ]
     },
@@ -652,6 +760,42 @@
       ]
     },
     {
+      "id": "conformist",
+      "pos": "noun",
+      "parent": "conform",
+      "parts": [
+        "con-",
+        "form",
+        "-ist"
+      ],
+      "gloss": {
+        "en": "a person who behaves like everyone else and follows the rules",
+        "tr": "uyumcu, düzene uyan kişi",
+        "de": "der Konformist, die Konformistin",
+        "fr": "le/la conformiste",
+        "it": "il/la conformista",
+        "es": "el/la conformista"
+      },
+      "sentences": [
+        {
+          "en": "He was never a [conformist]; he always wore odd clothes.",
+          "tr": "Hiçbir zaman düzene uyan biri olmadı; hep tuhaf giysiler giyerdi.",
+          "de": "Er war nie ein Konformist; er trug immer seltsame Kleidung.",
+          "fr": "Il n'a jamais été conformiste ; il portait toujours des vêtements bizarres.",
+          "it": "Non è mai stato un conformista; vestiva sempre in modo strano.",
+          "es": "Nunca fue un conformista; siempre llevaba ropa rara."
+        },
+        {
+          "en": "Schools sometimes turn children into [conformists].",
+          "tr": "Okullar bazen çocukları düzene uyan bireylere dönüştürür.",
+          "de": "Schulen machen Kinder manchmal zu Konformisten.",
+          "fr": "L'école transforme parfois les enfants en conformistes.",
+          "it": "La scuola a volte trasforma i bambini in conformisti.",
+          "es": "La escuela a veces convierte a los niños en conformistas."
+        }
+      ]
+    },
+    {
       "id": "uniform",
       "pos": "noun",
       "parent": null,
@@ -683,6 +827,42 @@
           "fr": "Les élèves portent-ils un uniforme dans ton école ?",
           "it": "Nella tua scuola gli studenti portano la divisa?",
           "es": "¿Llevan uniforme los alumnos en tu colegio?"
+        }
+      ]
+    },
+    {
+      "id": "uniformity",
+      "pos": "noun",
+      "parent": "uniform",
+      "parts": [
+        "uni-",
+        "form",
+        "-ity"
+      ],
+      "gloss": {
+        "en": "the state of being the same everywhere, without change",
+        "tr": "tekdüzelik, aynılık",
+        "de": "die Einheitlichkeit, die Gleichförmigkeit",
+        "fr": "l'uniformité",
+        "it": "l'uniformità",
+        "es": "la uniformidad"
+      },
+      "sentences": [
+        {
+          "en": "The [uniformity] of the new houses is boring.",
+          "tr": "Yeni evlerin tekdüzeliği sıkıcı.",
+          "de": "Die Gleichförmigkeit der neuen Häuser ist langweilig.",
+          "fr": "L'uniformité des nouvelles maisons est ennuyeuse.",
+          "it": "L'uniformità delle nuove case è noiosa.",
+          "es": "La uniformidad de las casas nuevas es aburrida."
+        },
+        {
+          "en": "Exams need [uniformity], so every student gets the same test.",
+          "tr": "Sınavlarda aynılık gerekir, bu yüzden her öğrenci aynı testi alır.",
+          "de": "Prüfungen brauchen Einheitlichkeit, deshalb bekommt jeder denselben Test.",
+          "fr": "Les examens exigent l'uniformité : chaque élève reçoit le même sujet.",
+          "it": "Gli esami richiedono uniformità, quindi ogni studente riceve la stessa prova.",
+          "es": "Los exámenes necesitan uniformidad, así que todos reciben la misma prueba."
         }
       ]
     },

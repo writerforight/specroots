@@ -194,6 +194,77 @@
       ]
     },
     {
+      "id": "removable",
+      "pos": "adjective",
+      "parent": "remove",
+      "parts": [
+        "re-",
+        "mov",
+        "-able"
+      ],
+      "gloss": {
+        "en": "able to be taken off or out",
+        "tr": "çıkarılabilir, sökülebilir",
+        "de": "abnehmbar, herausnehmbar",
+        "fr": "amovible",
+        "it": "rimovibile, staccabile",
+        "es": "extraíble, desmontable"
+      },
+      "sentences": [
+        {
+          "en": "The jacket has a [removable] hood.",
+          "tr": "Ceketin çıkarılabilir bir kapüşonu var.",
+          "de": "Die Jacke hat eine abnehmbare Kapuze.",
+          "fr": "La veste a une capuche amovible.",
+          "it": "La giacca ha un cappuccio staccabile.",
+          "es": "La chaqueta tiene una capucha desmontable."
+        },
+        {
+          "en": "Use [removable] tape so you don't damage the wall.",
+          "tr": "Duvara zarar vermemek için sökülebilir bant kullan.",
+          "de": "Nimm ablösbares Klebeband, damit die Wand nicht beschädigt wird.",
+          "fr": "Utilise du ruban amovible pour ne pas abîmer le mur.",
+          "it": "Usa del nastro rimovibile per non rovinare il muro.",
+          "es": "Usa cinta que se pueda quitar para no dañar la pared."
+        }
+      ]
+    },
+    {
+      "id": "movable",
+      "pos": "adjective",
+      "parent": "move",
+      "parts": [
+        "mov",
+        "-able"
+      ],
+      "gloss": {
+        "en": "able to be moved",
+        "tr": "hareket ettirilebilir, taşınabilir",
+        "de": "beweglich",
+        "fr": "mobile, amovible",
+        "it": "mobile, spostabile",
+        "es": "móvil, movible"
+      },
+      "sentences": [
+        {
+          "en": "The table has [movable] parts, so it can get longer.",
+          "tr": "Masanın hareketli parçaları var, bu yüzden uzatılabiliyor.",
+          "de": "Der Tisch hat bewegliche Teile, sodass er sich verlängern lässt.",
+          "fr": "La table a des parties mobiles, donc elle peut s'allonger.",
+          "it": "Il tavolo ha parti mobili, quindi si può allungare.",
+          "es": "La mesa tiene piezas móviles, así que se puede alargar."
+        },
+        {
+          "en": "Easter is a [movable] holiday; its date changes every year.",
+          "tr": "Paskalya tarihi her yıl değişen bir bayramdır.",
+          "de": "Ostern ist ein beweglicher Feiertag; das Datum ändert sich jedes Jahr.",
+          "fr": "Pâques est une fête mobile ; sa date change chaque année.",
+          "it": "La Pasqua è una festa mobile; la data cambia ogni anno.",
+          "es": "La Pascua es una fiesta móvil; su fecha cambia cada año."
+        }
+      ]
+    },
+    {
       "id": "motion",
       "pos": "noun",
       "parent": null,
@@ -296,6 +367,42 @@
           "fr": "Le drone utilise quatre moteurs.",
           "it": "Il drone usa quattro motori.",
           "es": "El dron usa cuatro motores."
+        }
+      ]
+    },
+    {
+      "id": "motorist",
+      "pos": "noun",
+      "parent": "motor",
+      "parts": [
+        "mot",
+        "-or",
+        "-ist"
+      ],
+      "gloss": {
+        "en": "a person who drives a car",
+        "tr": "sürücü, otomobil kullanan kişi",
+        "de": "der Autofahrer, die Autofahrerin",
+        "fr": "l'automobiliste",
+        "it": "l'automobilista",
+        "es": "el/la conductor/a, el/la automovilista"
+      },
+      "sentences": [
+        {
+          "en": "[Motorists] should expect delays on the motorway today.",
+          "tr": "Sürücüler bugün otoyolda gecikmeler yaşayabilir.",
+          "de": "Autofahrer müssen heute auf der Autobahn mit Verzögerungen rechnen.",
+          "fr": "Les automobilistes doivent s'attendre à des retards sur l'autoroute aujourd'hui.",
+          "it": "Gli automobilisti devono aspettarsi ritardi in autostrada oggi.",
+          "es": "Los conductores deben esperar retrasos en la autopista hoy."
+        },
+        {
+          "en": "A passing [motorist] called the ambulance.",
+          "tr": "Oradan geçen bir sürücü ambulansı aradı.",
+          "de": "Ein vorbeifahrender Autofahrer rief den Krankenwagen.",
+          "fr": "Un automobiliste de passage a appelé l'ambulance.",
+          "it": "Un automobilista di passaggio ha chiamato l'ambulanza.",
+          "es": "Un conductor que pasaba llamó a la ambulancia."
         }
       ]
     },
@@ -480,6 +587,44 @@
       ]
     },
     {
+      "id": "emotionally",
+      "pos": "adverb",
+      "parent": "emotional",
+      "parts": [
+        "e-",
+        "mot",
+        "-ion",
+        "-al",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "in a way that relates to feelings",
+        "tr": "duygusal olarak",
+        "de": "emotional, gefühlsmäßig",
+        "fr": "émotionnellement, sur le plan affectif",
+        "it": "emotivamente",
+        "es": "emocionalmente"
+      },
+      "sentences": [
+        {
+          "en": "After the long trial, she was [emotionally] tired.",
+          "tr": "Uzun davadan sonra duygusal olarak yorgundu.",
+          "de": "Nach dem langen Prozess war sie emotional erschöpft.",
+          "fr": "Après le long procès, elle était épuisée émotionnellement.",
+          "it": "Dopo il lungo processo era emotivamente stanca.",
+          "es": "Tras el largo juicio, estaba emocionalmente agotada."
+        },
+        {
+          "en": "He spoke [emotionally] about his late father.",
+          "tr": "Rahmetli babasından duygusal bir şekilde bahsetti.",
+          "de": "Er sprach sehr bewegt über seinen verstorbenen Vater.",
+          "fr": "Il a parlé avec émotion de son défunt père.",
+          "it": "Ha parlato con commozione del suo defunto padre.",
+          "es": "Habló emocionado de su difunto padre."
+        }
+      ]
+    },
+    {
       "id": "promote",
       "pos": "verb",
       "parent": null,
@@ -551,6 +696,42 @@
       ]
     },
     {
+      "id": "promoter",
+      "pos": "noun",
+      "parent": "promote",
+      "parts": [
+        "pro-",
+        "mot",
+        "-er"
+      ],
+      "gloss": {
+        "en": "a person who organizes and advertises concerts, fights, etc.; a supporter of an idea",
+        "tr": "organizatör; destekçi, savunucu",
+        "de": "der Veranstalter; der Förderer",
+        "fr": "l'organisateur, le promoteur",
+        "it": "l'organizzatore, il promotore",
+        "es": "el promotor, el organizador"
+      },
+      "sentences": [
+        {
+          "en": "The concert [promoter] sold all the tickets in an hour.",
+          "tr": "Konser organizatörü bütün biletleri bir saatte sattı.",
+          "de": "Der Konzertveranstalter verkaufte alle Karten in einer Stunde.",
+          "fr": "L'organisateur du concert a vendu tous les billets en une heure.",
+          "it": "L'organizzatore del concerto ha venduto tutti i biglietti in un'ora.",
+          "es": "El promotor del concierto vendió todas las entradas en una hora."
+        },
+        {
+          "en": "She is a strong [promoter] of healthy school meals.",
+          "tr": "Sağlıklı okul yemeklerinin güçlü bir savunucusu.",
+          "de": "Sie ist eine engagierte Förderin gesunder Schulmahlzeiten.",
+          "fr": "Elle est une fervente promotrice des repas scolaires sains.",
+          "it": "È una convinta promotrice dei pasti scolastici sani.",
+          "es": "Es una firme promotora de las comidas escolares saludables."
+        }
+      ]
+    },
+    {
       "id": "remote",
       "pos": "adjective",
       "parent": null,
@@ -582,6 +763,42 @@
           "fr": "Beaucoup de gens travaillent désormais à distance.",
           "it": "Molte persone ora lavorano da remoto.",
           "es": "Mucha gente trabaja ahora a distancia."
+        }
+      ]
+    },
+    {
+      "id": "remotely",
+      "pos": "adverb",
+      "parent": "remote",
+      "parts": [
+        "re-",
+        "mote",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "from a distance; (with a negative) even a little",
+        "tr": "uzaktan; (olumsuzla) hiç, zerre kadar",
+        "de": "aus der Ferne; im Entferntesten",
+        "fr": "à distance; (avec une négation) le moins du monde",
+        "it": "a distanza; (con negazione) minimamente",
+        "es": "a distancia; (con negación) lo más mínimo"
+      },
+      "sentences": [
+        {
+          "en": "I work [remotely] three days a week.",
+          "tr": "Haftada üç gün uzaktan çalışıyorum.",
+          "de": "Ich arbeite drei Tage pro Woche aus der Ferne.",
+          "fr": "Je travaille à distance trois jours par semaine.",
+          "it": "Lavoro a distanza tre giorni alla settimana.",
+          "es": "Trabajo a distancia tres días a la semana."
+        },
+        {
+          "en": "The film was not [remotely] funny.",
+          "tr": "Film zerre kadar komik değildi.",
+          "de": "Der Film war nicht im Entferntesten lustig.",
+          "fr": "Le film n'était pas drôle le moins du monde.",
+          "it": "Il film non era minimamente divertente.",
+          "es": "La película no tenía ni la más mínima gracia."
         }
       ]
     },

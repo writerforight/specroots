@@ -232,6 +232,81 @@
       ]
     },
     {
+      "id": "symmetrically",
+      "pos": "adverb",
+      "parent": "symmetrical",
+      "parts": [
+        "sym-",
+        "metr",
+        "-ic",
+        "-al",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "with both halves the same",
+        "tr": "simetrik olarak, bakışımlı biçimde",
+        "de": "symmetrisch",
+        "fr": "symétriquement",
+        "it": "simmetricamente",
+        "es": "simétricamente"
+      },
+      "sentences": [
+        {
+          "en": "The trees were planted [symmetrically] on both sides of the road.",
+          "tr": "Ağaçlar yolun iki yanına simetrik olarak dikildi.",
+          "de": "Die Bäume wurden symmetrisch auf beiden Straßenseiten gepflanzt.",
+          "fr": "Les arbres ont été plantés symétriquement des deux côtés de la route.",
+          "it": "Gli alberi sono stati piantati simmetricamente ai due lati della strada.",
+          "es": "Los árboles se plantaron simétricamente a ambos lados de la carretera."
+        },
+        {
+          "en": "Fold the paper [symmetrically] down the middle.",
+          "tr": "Kâğıdı ortadan simetrik olarak katla.",
+          "de": "Falte das Papier symmetrisch in der Mitte.",
+          "fr": "Plie la feuille symétriquement par le milieu.",
+          "it": "Piega il foglio simmetricamente a metà.",
+          "es": "Dobla el papel simétricamente por la mitad."
+        }
+      ]
+    },
+    {
+      "id": "asymmetry",
+      "pos": "noun",
+      "parent": "symmetry",
+      "parts": [
+        "a-not-",
+        "sym-",
+        "metr",
+        "-y"
+      ],
+      "gloss": {
+        "en": "the state of two sides not matching",
+        "tr": "asimetri, bakışımsızlık",
+        "de": "die Asymmetrie",
+        "fr": "l'asymétrie",
+        "it": "l'asimmetria",
+        "es": "la asimetría"
+      },
+      "sentences": [
+        {
+          "en": "Every face has a little [asymmetry].",
+          "tr": "Her yüzde biraz asimetri vardır.",
+          "de": "Jedes Gesicht hat eine leichte Asymmetrie.",
+          "fr": "Chaque visage présente une légère asymétrie.",
+          "it": "Ogni volto ha una leggera asimmetria.",
+          "es": "Toda cara tiene una ligera asimetría."
+        },
+        {
+          "en": "The [asymmetry] of the building makes it interesting.",
+          "tr": "Binanın asimetrisi onu ilginç kılıyor.",
+          "de": "Die Asymmetrie des Gebäudes macht es interessant.",
+          "fr": "L'asymétrie du bâtiment le rend intéressant.",
+          "it": "L'asimmetria dell'edificio lo rende interessante.",
+          "es": "La asimetría del edificio lo hace interesante."
+        }
+      ]
+    },
+    {
       "id": "geometry",
       "pos": "noun",
       "parent": null,
@@ -550,6 +625,41 @@
       ]
     },
     {
+      "id": "micrometer",
+      "pos": "noun",
+      "parent": "meter",
+      "parts": [
+        "micro-",
+        "meter"
+      ],
+      "gloss": {
+        "en": "a tool for measuring very small distances; one millionth of a metre",
+        "tr": "mikrometre",
+        "de": "die Messschraube; der Mikrometer",
+        "fr": "le palmer, le micromètre",
+        "it": "il micrometro",
+        "es": "el micrómetro"
+      },
+      "sentences": [
+        {
+          "en": "The engineer measured the wire with a [micrometer].",
+          "tr": "Mühendis teli mikrometreyle ölçtü.",
+          "de": "Die Ingenieurin maß den Draht mit einer Messschraube.",
+          "fr": "L'ingénieure a mesuré le fil avec un palmer.",
+          "it": "L'ingegnera ha misurato il filo con un micrometro.",
+          "es": "La ingeniera midió el cable con un micrómetro."
+        },
+        {
+          "en": "A human hair is about seventy [micrometers] thick.",
+          "tr": "Bir insan saçı yaklaşık yetmiş mikrometre kalınlığındadır.",
+          "de": "Ein menschliches Haar ist etwa siebzig Mikrometer dick.",
+          "fr": "Un cheveu humain mesure environ soixante-dix micromètres d'épaisseur.",
+          "it": "Un capello umano è spesso circa settanta micrometri.",
+          "es": "Un pelo humano mide unos setenta micrómetros de grosor."
+        }
+      ]
+    },
+    {
       "id": "diameter",
       "pos": "noun",
       "parent": null,
@@ -725,6 +835,42 @@
           "fr": "Le téléphone utilise des données biométriques comme ton empreinte.",
           "it": "Il telefono usa dati biometrici come la tua impronta digitale.",
           "es": "El teléfono usa datos biométricos como tu huella dactilar."
+        }
+      ]
+    },
+    {
+      "id": "telemetry",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "tele-",
+        "metr",
+        "-y"
+      ],
+      "gloss": {
+        "en": "measuring something from far away and sending the data (literally: far measuring)",
+        "tr": "telemetri, uzaktan ölçüm",
+        "de": "die Telemetrie, die Fernmessung",
+        "fr": "la télémétrie",
+        "it": "la telemetria",
+        "es": "la telemetría"
+      },
+      "sentences": [
+        {
+          "en": "The team watched the car's [telemetry] during the race.",
+          "tr": "Ekip yarış boyunca aracın telemetri verilerini izledi.",
+          "de": "Das Team verfolgte während des Rennens die Telemetrie des Autos.",
+          "fr": "L'équipe a suivi la télémétrie de la voiture pendant la course.",
+          "it": "La squadra ha seguito la telemetria dell'auto durante la gara.",
+          "es": "El equipo siguió la telemetría del coche durante la carrera."
+        },
+        {
+          "en": "[Telemetry] from the satellite arrived every minute.",
+          "tr": "Uydudan her dakika uzaktan ölçüm verisi geldi.",
+          "de": "Telemetriedaten vom Satelliten kamen jede Minute an.",
+          "fr": "Les données de télémétrie du satellite arrivaient chaque minute.",
+          "it": "I dati di telemetria del satellite arrivavano ogni minuto.",
+          "es": "Los datos de telemetría del satélite llegaban cada minuto."
         }
       ]
     }

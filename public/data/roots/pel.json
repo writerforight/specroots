@@ -52,6 +52,41 @@
       ]
     },
     {
+      "id": "pulsate",
+      "pos": "verb",
+      "parent": "pulse",
+      "parts": [
+        "puls",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "to beat or shake with a strong, regular rhythm",
+        "tr": "atmak, titreşmek, nabız gibi atmak",
+        "de": "pulsieren",
+        "fr": "palpiter, vibrer",
+        "it": "pulsare",
+        "es": "latir, palpitar"
+      },
+      "sentences": [
+        {
+          "en": "The music [pulsated] through the whole building.",
+          "tr": "Müzik bütün binada titreşerek yayıldı.",
+          "de": "Die Musik pulsierte durch das ganze Gebäude.",
+          "fr": "La musique vibrait dans tout le bâtiment.",
+          "it": "La musica pulsava in tutto l'edificio.",
+          "es": "La música latía por todo el edificio."
+        },
+        {
+          "en": "The city [pulsates] with life at night.",
+          "tr": "Şehir geceleri hayatla çalkalanır.",
+          "de": "Nachts pulsiert die Stadt vor Leben.",
+          "fr": "La ville vibre de vie la nuit.",
+          "it": "Di notte la città pulsa di vita.",
+          "es": "La ciudad late llena de vida por la noche."
+        }
+      ]
+    },
+    {
       "id": "impulse",
       "pos": "noun",
       "parent": null,
@@ -119,6 +154,43 @@
           "fr": "Il est gentil mais un peu impulsif.",
           "it": "È gentile ma un po' impulsivo.",
           "es": "Es amable pero algo impulsivo."
+        }
+      ]
+    },
+    {
+      "id": "impulsively",
+      "pos": "adverb",
+      "parent": "impulsive",
+      "parts": [
+        "im-",
+        "puls",
+        "-ive",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "suddenly, without thinking first",
+        "tr": "düşünmeden, ani bir dürtüyle",
+        "de": "impulsiv, spontan",
+        "fr": "impulsivement",
+        "it": "impulsivamente",
+        "es": "impulsivamente"
+      },
+      "sentences": [
+        {
+          "en": "She [impulsively] bought a ticket to Rome.",
+          "tr": "Ani bir dürtüyle Roma'ya bilet aldı.",
+          "de": "Sie kaufte spontan ein Ticket nach Rom.",
+          "fr": "Elle a acheté impulsivement un billet pour Rome.",
+          "it": "Ha comprato impulsivamente un biglietto per Roma.",
+          "es": "Compró impulsivamente un billete a Roma."
+        },
+        {
+          "en": "Don't act [impulsively] when you're angry.",
+          "tr": "Kızgınken düşünmeden hareket etme.",
+          "de": "Handle nicht impulsiv, wenn du wütend bist.",
+          "fr": "N'agis pas impulsivement quand tu es en colère.",
+          "it": "Non agire impulsivamente quando sei arrabbiato.",
+          "es": "No actúes impulsivamente cuando estés enfadado."
         }
       ]
     },
@@ -337,6 +409,42 @@
       ]
     },
     {
+      "id": "compelling",
+      "pos": "adjective",
+      "parent": "compel",
+      "parts": [
+        "com-",
+        "pell",
+        "-ing"
+      ],
+      "gloss": {
+        "en": "so strong or interesting that you must believe it or pay attention",
+        "tr": "ikna edici, sürükleyici",
+        "de": "überzeugend, fesselnd",
+        "fr": "convaincant, captivant",
+        "it": "convincente, avvincente",
+        "es": "convincente, apasionante"
+      },
+      "sentences": [
+        {
+          "en": "The lawyer gave a [compelling] argument.",
+          "tr": "Avukat ikna edici bir savunma yaptı.",
+          "de": "Die Anwältin brachte ein überzeugendes Argument vor.",
+          "fr": "L'avocate a présenté un argument convaincant.",
+          "it": "L'avvocata ha presentato un argomento convincente.",
+          "es": "La abogada presentó un argumento convincente."
+        },
+        {
+          "en": "It's a [compelling] story; I read it in one night.",
+          "tr": "Sürükleyici bir hikâye; bir gecede okudum.",
+          "de": "Es ist eine fesselnde Geschichte; ich habe sie in einer Nacht gelesen.",
+          "fr": "C'est une histoire captivante ; je l'ai lue en une nuit.",
+          "it": "È una storia avvincente; l'ho letta in una notte.",
+          "es": "Es una historia apasionante; la leí en una noche."
+        }
+      ]
+    },
+    {
       "id": "propel",
       "pos": "verb",
       "parent": null,
@@ -404,6 +512,42 @@
           "fr": "Chaque hélice du drone tourne très vite.",
           "it": "Ogni elica del drone gira molto velocemente.",
           "es": "Cada hélice del dron gira muy rápido."
+        }
+      ]
+    },
+    {
+      "id": "propulsion",
+      "pos": "noun",
+      "parent": "propel",
+      "parts": [
+        "pro-",
+        "puls",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "the force that pushes something forward",
+        "tr": "itiş, itme gücü",
+        "de": "der Antrieb",
+        "fr": "la propulsion",
+        "it": "la propulsione",
+        "es": "la propulsión"
+      },
+      "sentences": [
+        {
+          "en": "The boat uses wind for [propulsion].",
+          "tr": "Tekne itiş gücü olarak rüzgârı kullanıyor.",
+          "de": "Das Boot nutzt den Wind als Antrieb.",
+          "fr": "Le bateau utilise le vent pour sa propulsion.",
+          "it": "La barca usa il vento per la propulsione.",
+          "es": "El barco usa el viento para su propulsión."
+        },
+        {
+          "en": "Rockets need huge [propulsion] to leave the Earth.",
+          "tr": "Roketlerin Dünya'dan ayrılmak için muazzam bir itiş gücüne ihtiyacı var.",
+          "de": "Raketen brauchen einen enormen Antrieb, um die Erde zu verlassen.",
+          "fr": "Les fusées ont besoin d'une énorme propulsion pour quitter la Terre.",
+          "it": "I razzi hanno bisogno di un'enorme propulsione per lasciare la Terra.",
+          "es": "Los cohetes necesitan una enorme propulsión para salir de la Tierra."
         }
       ]
     },
@@ -479,6 +623,78 @@
       ]
     },
     {
+      "id": "repulsion",
+      "pos": "noun",
+      "parent": "repel",
+      "parts": [
+        "re-",
+        "puls",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a strong feeling of disgust; a force that pushes things apart",
+        "tr": "tiksinti; itme kuvveti",
+        "de": "der Ekel, die Abstoßung",
+        "fr": "la répulsion",
+        "it": "la repulsione, il ribrezzo",
+        "es": "la repulsión"
+      },
+      "sentences": [
+        {
+          "en": "She looked at the rotten fish with [repulsion].",
+          "tr": "Çürük balığa tiksintiyle baktı.",
+          "de": "Sie sah den verdorbenen Fisch mit Ekel an.",
+          "fr": "Elle a regardé le poisson pourri avec répulsion.",
+          "it": "Ha guardato il pesce marcio con ribrezzo.",
+          "es": "Miró el pescado podrido con repulsión."
+        },
+        {
+          "en": "Two north poles of a magnet show [repulsion].",
+          "tr": "Bir mıknatısın iki kuzey kutbu birbirini iter.",
+          "de": "Zwei Nordpole von Magneten stoßen sich ab.",
+          "fr": "Deux pôles nord d'aimants se repoussent.",
+          "it": "Due poli nord di una calamita si respingono.",
+          "es": "Dos polos norte de un imán muestran repulsión."
+        }
+      ]
+    },
+    {
+      "id": "repulsive",
+      "pos": "adjective",
+      "parent": "repel",
+      "parts": [
+        "re-",
+        "puls",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "very unpleasant; disgusting",
+        "tr": "iğrenç, itici",
+        "de": "abstoßend, widerlich",
+        "fr": "répugnant, repoussant",
+        "it": "ripugnante, disgustoso",
+        "es": "repulsivo, asqueroso"
+      },
+      "sentences": [
+        {
+          "en": "The smell from the bin was [repulsive].",
+          "tr": "Çöp kutusundan gelen koku iğrençti.",
+          "de": "Der Geruch aus dem Mülleimer war widerlich.",
+          "fr": "L'odeur de la poubelle était répugnante.",
+          "it": "L'odore del bidone era disgustoso.",
+          "es": "El olor de la basura era asqueroso."
+        },
+        {
+          "en": "He found the idea of lying [repulsive].",
+          "tr": "Yalan söyleme fikrini itici buldu.",
+          "de": "Er fand den Gedanken zu lügen abstoßend.",
+          "fr": "Il trouvait l'idée de mentir repoussante.",
+          "it": "Trovava ripugnante l'idea di mentire.",
+          "es": "La idea de mentir le parecía repulsiva."
+        }
+      ]
+    },
+    {
       "id": "dispel",
       "pos": "verb",
       "parent": null,
@@ -510,6 +726,41 @@
           "fr": "Permets-moi de dissiper un mythe répandu.",
           "it": "Lasciami sfatare un mito diffuso.",
           "es": "Permíteme desmentir un mito común."
+        }
+      ]
+    },
+    {
+      "id": "impel",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "im-",
+        "pel"
+      ],
+      "gloss": {
+        "en": "to make someone feel they must do something (literally: to push on)",
+        "tr": "sevk etmek, zorlamak, itmek",
+        "de": "antreiben, drängen",
+        "fr": "pousser, contraindre",
+        "it": "spingere, indurre",
+        "es": "impulsar, empujar"
+      },
+      "sentences": [
+        {
+          "en": "Curiosity [impelled] her to open the old box.",
+          "tr": "Merak onu eski kutuyu açmaya itti.",
+          "de": "Neugier trieb sie dazu, die alte Kiste zu öffnen.",
+          "fr": "La curiosité l'a poussée à ouvrir la vieille boîte.",
+          "it": "La curiosità l'ha spinta ad aprire la vecchia scatola.",
+          "es": "La curiosidad la impulsó a abrir la vieja caja."
+        },
+        {
+          "en": "I felt [impelled] to say something.",
+          "tr": "Bir şey söylemem gerektiğini hissettim.",
+          "de": "Ich fühlte mich gedrängt, etwas zu sagen.",
+          "fr": "Je me suis senti poussé à dire quelque chose.",
+          "it": "Mi sono sentito spinto a dire qualcosa.",
+          "es": "Me sentí empujado a decir algo."
         }
       ]
     }

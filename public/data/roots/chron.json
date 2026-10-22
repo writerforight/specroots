@@ -192,6 +192,42 @@
       ]
     },
     {
+      "id": "chronologically",
+      "pos": "adverb",
+      "parent": "chronological",
+      "parts": [
+        "chron",
+        "-ological",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "in the order in which things happened",
+        "tr": "kronolojik olarak, olay sırasına göre",
+        "de": "chronologisch",
+        "fr": "chronologiquement",
+        "it": "cronologicamente",
+        "es": "cronológicamente"
+      },
+      "sentences": [
+        {
+          "en": "The photos are sorted [chronologically].",
+          "tr": "Fotoğraflar kronolojik olarak sıralanmış.",
+          "de": "Die Fotos sind chronologisch sortiert.",
+          "fr": "Les photos sont triées chronologiquement.",
+          "it": "Le foto sono ordinate cronologicamente.",
+          "es": "Las fotos están ordenadas cronológicamente."
+        },
+        {
+          "en": "Tell the story [chronologically], from the beginning.",
+          "tr": "Hikâyeyi en başından, olay sırasına göre anlat.",
+          "de": "Erzähl die Geschichte chronologisch, von Anfang an.",
+          "fr": "Raconte l'histoire chronologiquement, depuis le début.",
+          "it": "Racconta la storia in ordine cronologico, dall'inizio.",
+          "es": "Cuenta la historia cronológicamente, desde el principio."
+        }
+      ]
+    },
+    {
       "id": "synchronize",
       "pos": "verb",
       "parent": null,
@@ -368,6 +404,42 @@
           "fr": "Le musée possède un vieux chronomètre de marine.",
           "it": "Il museo ha un vecchio cronometro da nave.",
           "es": "El museo tiene un viejo cronómetro de barco."
+        }
+      ]
+    },
+    {
+      "id": "synchronous",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "syn-",
+        "chron",
+        "-ous"
+      ],
+      "gloss": {
+        "en": "happening at the same time (literally: with time)",
+        "tr": "eşzamanlı",
+        "de": "synchron, gleichzeitig",
+        "fr": "synchrone",
+        "it": "sincrono",
+        "es": "síncrono"
+      },
+      "sentences": [
+        {
+          "en": "The class has [synchronous] lessons on video every Monday.",
+          "tr": "Sınıfın her pazartesi görüntülü, eşzamanlı dersleri var.",
+          "de": "Die Klasse hat jeden Montag synchronen Unterricht per Video.",
+          "fr": "La classe a des cours synchrones en vidéo chaque lundi.",
+          "it": "La classe ha lezioni sincrone in video ogni lunedì.",
+          "es": "La clase tiene sesiones síncronas por vídeo cada lunes."
+        },
+        {
+          "en": "The lights flashed in [synchronous] waves.",
+          "tr": "Işıklar eşzamanlı dalgalar halinde yanıp söndü.",
+          "de": "Die Lichter blinkten in synchronen Wellen.",
+          "fr": "Les lumières clignotaient en vagues synchrones.",
+          "it": "Le luci lampeggiavano in onde sincrone.",
+          "es": "Las luces parpadeaban en oleadas síncronas."
         }
       ]
     }

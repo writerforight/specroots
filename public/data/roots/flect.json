@@ -156,6 +156,77 @@
       ]
     },
     {
+      "id": "inflexibility",
+      "pos": "noun",
+      "parent": "inflexible",
+      "parts": [
+        "in-not-",
+        "flex",
+        "-ibility"
+      ],
+      "gloss": {
+        "en": "the quality of being unwilling or unable to change",
+        "tr": "katılık, esneklik yoksunluğu",
+        "de": "die Unflexibilität, die Starrheit",
+        "fr": "l'inflexibilité, la rigidité",
+        "it": "l'inflessibilità, la rigidità",
+        "es": "la inflexibilidad, la rigidez"
+      },
+      "sentences": [
+        {
+          "en": "Customers complained about the bank's [inflexibility].",
+          "tr": "Müşteriler bankanın katılığından şikâyet etti.",
+          "de": "Die Kunden beschwerten sich über die Starrheit der Bank.",
+          "fr": "Les clients se sont plaints de la rigidité de la banque.",
+          "it": "I clienti si sono lamentati della rigidità della banca.",
+          "es": "Los clientes se quejaron de la rigidez del banco."
+        },
+        {
+          "en": "His [inflexibility] made the talks fail.",
+          "tr": "Onun katılığı görüşmelerin başarısız olmasına yol açtı.",
+          "de": "Seine Unnachgiebigkeit ließ die Gespräche scheitern.",
+          "fr": "Son inflexibilité a fait échouer les discussions.",
+          "it": "La sua inflessibilità ha fatto fallire i colloqui.",
+          "es": "Su inflexibilidad hizo fracasar las negociaciones."
+        }
+      ]
+    },
+    {
+      "id": "flexibly",
+      "pos": "adverb",
+      "parent": "flexible",
+      "parts": [
+        "flex",
+        "-ibly"
+      ],
+      "gloss": {
+        "en": "in a way that can change easily to suit the situation",
+        "tr": "esnek bir şekilde",
+        "de": "flexibel",
+        "fr": "de manière flexible",
+        "it": "in modo flessibile",
+        "es": "de forma flexible"
+      },
+      "sentences": [
+        {
+          "en": "Many people now work [flexibly], partly from home.",
+          "tr": "Artık birçok kişi esnek çalışıyor, kısmen evden.",
+          "de": "Viele Menschen arbeiten heute flexibel, teilweise von zu Hause.",
+          "fr": "Beaucoup de gens travaillent désormais de manière flexible, en partie chez eux.",
+          "it": "Oggi molte persone lavorano in modo flessibile, in parte da casa.",
+          "es": "Mucha gente trabaja ahora de forma flexible, en parte desde casa."
+        },
+        {
+          "en": "Good teachers react [flexibly] when a lesson goes wrong.",
+          "tr": "İyi öğretmenler ders ters gidince esnek davranır.",
+          "de": "Gute Lehrer reagieren flexibel, wenn eine Stunde schiefgeht.",
+          "fr": "Les bons professeurs réagissent avec souplesse quand un cours tourne mal.",
+          "it": "I bravi insegnanti reagiscono in modo flessibile quando una lezione va storta.",
+          "es": "Los buenos profesores reaccionan con flexibilidad cuando una clase sale mal."
+        }
+      ]
+    },
+    {
       "id": "reflex",
       "pos": "noun",
       "parent": null,
@@ -223,6 +294,43 @@
           "fr": "L'allemand a beaucoup de verbes réfléchis.",
           "it": "Il tedesco ha molti verbi riflessivi.",
           "es": "El alemán tiene muchos verbos reflexivos."
+        }
+      ]
+    },
+    {
+      "id": "reflexively",
+      "pos": "adverb",
+      "parent": "reflexive",
+      "parts": [
+        "re-",
+        "flex",
+        "-ive",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "automatically, without thinking",
+        "tr": "refleks olarak, düşünmeden",
+        "de": "reflexartig",
+        "fr": "par réflexe",
+        "it": "per riflesso",
+        "es": "por reflejo"
+      },
+      "sentences": [
+        {
+          "en": "He [reflexively] raised his hands when the ball flew at him.",
+          "tr": "Top ona doğru uçunca refleks olarak ellerini kaldırdı.",
+          "de": "Er hob reflexartig die Hände, als der Ball auf ihn zuflog.",
+          "fr": "Il a levé les mains par réflexe quand le ballon a volé vers lui.",
+          "it": "Ha alzato le mani per riflesso quando la palla gli è volata contro.",
+          "es": "Levantó las manos por reflejo cuando el balón voló hacia él."
+        },
+        {
+          "en": "I [reflexively] checked my phone again.",
+          "tr": "Düşünmeden yine telefonuma baktım.",
+          "de": "Ich schaute reflexartig wieder auf mein Handy.",
+          "fr": "J'ai regardé mon téléphone encore une fois, par réflexe.",
+          "it": "Ho controllato di nuovo il telefono per riflesso.",
+          "es": "Volví a mirar el móvil por reflejo."
         }
       ]
     },
@@ -440,6 +548,42 @@
       ]
     },
     {
+      "id": "deflection",
+      "pos": "noun",
+      "parent": "deflect",
+      "parts": [
+        "de-",
+        "flect",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a change of direction after hitting something; avoiding a question",
+        "tr": "sapma, sekme; (soruyu) geçiştirme",
+        "de": "die Ablenkung, die Abfälschung",
+        "fr": "la déviation",
+        "it": "la deviazione",
+        "es": "la desviación"
+      },
+      "sentences": [
+        {
+          "en": "The goal came from a lucky [deflection].",
+          "tr": "Gol şanslı bir sekmeden geldi.",
+          "de": "Das Tor fiel nach einer glücklichen Abfälschung.",
+          "fr": "Le but est venu d'une déviation chanceuse.",
+          "it": "Il gol è arrivato da una deviazione fortunata.",
+          "es": "El gol llegó tras una desviación afortunada."
+        },
+        {
+          "en": "Her joke was a [deflection] from the real question.",
+          "tr": "Şakası asıl soruyu geçiştirmenin bir yoluydu.",
+          "de": "Ihr Witz war ein Ablenkungsmanöver von der eigentlichen Frage.",
+          "fr": "Sa blague était une façon d'esquiver la vraie question.",
+          "it": "La sua battuta era un modo per deviare dalla vera domanda.",
+          "es": "Su broma era una forma de desviar la verdadera pregunta."
+        }
+      ]
+    },
+    {
       "id": "inflection",
       "pos": "noun",
       "parent": null,
@@ -472,6 +616,76 @@
           "fr": "L'anglais a moins de flexions que l'allemand.",
           "it": "L'inglese ha meno flessioni del tedesco.",
           "es": "El inglés tiene menos flexiones que el alemán."
+        }
+      ]
+    },
+    {
+      "id": "inflect",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "in-",
+        "flect"
+      ],
+      "gloss": {
+        "en": "(of a word) to change its ending to show tense, number, etc. (literally: to bend in)",
+        "tr": "(kelime) çekimlenmek",
+        "de": "flektieren, beugen",
+        "fr": "fléchir (un mot)",
+        "it": "flettere (una parola)",
+        "es": "flexionar (una palabra)"
+      },
+      "sentences": [
+        {
+          "en": "English verbs [inflect] less than German verbs.",
+          "tr": "İngilizce fiiller Almanca fiillerden daha az çekimlenir.",
+          "de": "Englische Verben werden weniger gebeugt als deutsche.",
+          "fr": "Les verbes anglais se fléchissent moins que les verbes allemands.",
+          "it": "I verbi inglesi si flettono meno di quelli tedeschi.",
+          "es": "Los verbos ingleses se flexionan menos que los alemanes."
+        },
+        {
+          "en": "In Turkish, nouns are [inflected] with many endings.",
+          "tr": "Türkçede isimler birçok ekle çekimlenir.",
+          "de": "Im Türkischen werden Nomen mit vielen Endungen gebeugt.",
+          "fr": "En turc, les noms se fléchissent avec de nombreuses terminaisons.",
+          "it": "In turco i nomi si flettono con molte desinenze.",
+          "es": "En turco, los sustantivos se flexionan con muchas terminaciones."
+        }
+      ]
+    },
+    {
+      "id": "genuflect",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "genu-",
+        "flect"
+      ],
+      "gloss": {
+        "en": "to bend one knee to the ground as a sign of respect (literally: to bend the knee)",
+        "tr": "diz çökmek (saygı için)",
+        "de": "die Knie beugen, eine Kniebeuge machen",
+        "fr": "faire une génuflexion",
+        "it": "genuflettersi",
+        "es": "hacer una genuflexión"
+      },
+      "sentences": [
+        {
+          "en": "She [genuflected] before entering the church pew.",
+          "tr": "Kilise sırasına geçmeden önce diz çöktü.",
+          "de": "Sie beugte das Knie, bevor sie in die Kirchenbank trat.",
+          "fr": "Elle a fait une génuflexion avant d'entrer dans le banc de l'église.",
+          "it": "Si è genuflessa prima di entrare nel banco della chiesa.",
+          "es": "Hizo una genuflexión antes de entrar en el banco de la iglesia."
+        },
+        {
+          "en": "The knights [genuflect] in front of the king.",
+          "tr": "Şövalyeler kralın önünde diz çöker.",
+          "de": "Die Ritter knien vor dem König nieder.",
+          "fr": "Les chevaliers font une génuflexion devant le roi.",
+          "it": "I cavalieri si genuflettono davanti al re.",
+          "es": "Los caballeros hacen una genuflexión ante el rey."
         }
       ]
     }

@@ -89,6 +89,43 @@
       ]
     },
     {
+      "id": "spiritually",
+      "pos": "adverb",
+      "parent": "spiritual",
+      "parts": [
+        "spir",
+        "-it",
+        "-ual",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "in a way that relates to the soul or deep feelings",
+        "tr": "manevi olarak, ruhen",
+        "de": "spirituell, geistig",
+        "fr": "spirituellement",
+        "it": "spiritualmente",
+        "es": "espiritualmente"
+      },
+      "sentences": [
+        {
+          "en": "The long walk was [spiritually] important to her.",
+          "tr": "Uzun yürüyüş onun için manevi olarak önemliydi.",
+          "de": "Die lange Wanderung war für sie spirituell wichtig.",
+          "fr": "La longue marche était spirituellement importante pour elle.",
+          "it": "La lunga camminata era spiritualmente importante per lei.",
+          "es": "La larga caminata era espiritualmente importante para ella."
+        },
+        {
+          "en": "He felt [spiritually] empty after the war.",
+          "tr": "Savaştan sonra ruhen boşluk hissetti.",
+          "de": "Nach dem Krieg fühlte er sich innerlich leer.",
+          "fr": "Après la guerre, il se sentait spirituellement vide.",
+          "it": "Dopo la guerra si sentiva spiritualmente vuoto.",
+          "es": "Después de la guerra se sentía espiritualmente vacío."
+        }
+      ]
+    },
+    {
       "id": "dispirited",
       "pos": "adjective",
       "parent": "spirit",
@@ -122,6 +159,42 @@
           "fr": "Ne te laisse pas décourager par une mauvaise note.",
           "it": "Non scoraggiarti per un brutto voto.",
           "es": "No te desanimes por una mala nota."
+        }
+      ]
+    },
+    {
+      "id": "spirited",
+      "pos": "adjective",
+      "parent": "spirit",
+      "parts": [
+        "spir",
+        "-it",
+        "-ed"
+      ],
+      "gloss": {
+        "en": "full of energy and determination",
+        "tr": "canlı, enerjik, azimli",
+        "de": "temperamentvoll, beherzt",
+        "fr": "vif, plein d'entrain",
+        "it": "vivace, combattivo",
+        "es": "enérgico, animado"
+      },
+      "sentences": [
+        {
+          "en": "The team put up a [spirited] fight but lost.",
+          "tr": "Takım azimli bir mücadele verdi ama kaybetti.",
+          "de": "Das Team kämpfte beherzt, verlor aber.",
+          "fr": "L'équipe s'est battue avec entrain mais a perdu.",
+          "it": "La squadra ha combattuto con grinta ma ha perso.",
+          "es": "El equipo luchó con energía, pero perdió."
+        },
+        {
+          "en": "We had a [spirited] discussion about the film.",
+          "tr": "Film hakkında hararetli bir tartışma yaptık.",
+          "de": "Wir hatten eine lebhafte Diskussion über den Film.",
+          "fr": "Nous avons eu une discussion animée sur le film.",
+          "it": "Abbiamo avuto una vivace discussione sul film.",
+          "es": "Tuvimos una discusión animada sobre la película."
         }
       ]
     },
@@ -197,6 +270,43 @@
       ]
     },
     {
+      "id": "inspirational",
+      "pos": "adjective",
+      "parent": "inspiration",
+      "parts": [
+        "in-",
+        "spir",
+        "-ation",
+        "-al"
+      ],
+      "gloss": {
+        "en": "giving people the wish and courage to do something",
+        "tr": "ilham verici",
+        "de": "inspirierend",
+        "fr": "inspirant",
+        "it": "stimolante, d'ispirazione",
+        "es": "inspirador"
+      },
+      "sentences": [
+        {
+          "en": "Her story of recovery is truly [inspirational].",
+          "tr": "Onun iyileşme hikâyesi gerçekten ilham verici.",
+          "de": "Ihre Genesungsgeschichte ist wirklich inspirierend.",
+          "fr": "Son histoire de guérison est vraiment inspirante.",
+          "it": "La sua storia di guarigione è davvero d'ispirazione.",
+          "es": "Su historia de recuperación es realmente inspiradora."
+        },
+        {
+          "en": "The coach gave an [inspirational] speech before the final.",
+          "tr": "Antrenör finalden önce ilham verici bir konuşma yaptı.",
+          "de": "Der Trainer hielt vor dem Finale eine mitreißende Rede.",
+          "fr": "L'entraîneur a fait un discours inspirant avant la finale.",
+          "it": "L'allenatore ha fatto un discorso stimolante prima della finale.",
+          "es": "El entrenador dio un discurso inspirador antes de la final."
+        }
+      ]
+    },
+    {
       "id": "inspiring",
       "pos": "adjective",
       "parent": "inspire",
@@ -229,6 +339,43 @@
           "fr": "C'est une enseignante inspirante.",
           "it": "È un'insegnante che ispira.",
           "es": "Es una profesora inspiradora."
+        }
+      ]
+    },
+    {
+      "id": "uninspired",
+      "pos": "adjective",
+      "parent": "inspire",
+      "parts": [
+        "un-",
+        "in-",
+        "spir",
+        "-ed"
+      ],
+      "gloss": {
+        "en": "dull, without new ideas",
+        "tr": "sıradan, ilhamsız, yaratıcılıktan yoksun",
+        "de": "einfallslos, uninspiriert",
+        "fr": "sans inspiration, terne",
+        "it": "privo di ispirazione, banale",
+        "es": "sin inspiración, mediocre"
+      },
+      "sentences": [
+        {
+          "en": "The new menu is safe but [uninspired].",
+          "tr": "Yeni menü güvenli ama sıradan.",
+          "de": "Die neue Speisekarte ist solide, aber einfallslos.",
+          "fr": "Le nouveau menu est sûr mais sans inspiration.",
+          "it": "Il nuovo menù è sicuro ma banale.",
+          "es": "El nuevo menú es seguro, pero sin inspiración."
+        },
+        {
+          "en": "I felt [uninspired] after a week of rain.",
+          "tr": "Bir haftalık yağmurdan sonra hiç ilhamım yoktu.",
+          "de": "Nach einer Woche Regen fühlte ich mich lustlos und ideenlos.",
+          "fr": "Après une semaine de pluie, je me sentais sans inspiration.",
+          "it": "Dopo una settimana di pioggia mi sentivo senza ispirazione.",
+          "es": "Después de una semana de lluvia me sentía sin inspiración."
         }
       ]
     },
@@ -375,6 +522,42 @@
       ]
     },
     {
+      "id": "expiration",
+      "pos": "noun",
+      "parent": "expire",
+      "parts": [
+        "ex-",
+        "pir",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "the end of the time when something is valid",
+        "tr": "süre bitimi, son kullanma",
+        "de": "der Ablauf, das Verfallsdatum",
+        "fr": "l'expiration",
+        "it": "la scadenza",
+        "es": "el vencimiento, la caducidad"
+      },
+      "sentences": [
+        {
+          "en": "Check the [expiration] date on the milk.",
+          "tr": "Sütün son kullanma tarihine bak.",
+          "de": "Prüf das Verfallsdatum auf der Milch.",
+          "fr": "Vérifie la date d'expiration sur le lait.",
+          "it": "Controlla la data di scadenza sul latte.",
+          "es": "Mira la fecha de caducidad de la leche."
+        },
+        {
+          "en": "After the [expiration] of the contract, she left the club.",
+          "tr": "Sözleşmenin süresi dolunca kulüpten ayrıldı.",
+          "de": "Nach Ablauf des Vertrags verließ sie den Verein.",
+          "fr": "À l'expiration de son contrat, elle a quitté le club.",
+          "it": "Alla scadenza del contratto ha lasciato il club.",
+          "es": "Al vencer el contrato, dejó el club."
+        }
+      ]
+    },
+    {
       "id": "conspire",
       "pos": "verb",
       "parent": null,
@@ -442,6 +625,42 @@
           "fr": "La police a découvert un complot pour braquer la banque.",
           "it": "La polizia ha scoperto un complotto per rapinare la banca.",
           "es": "La policía destapó una conspiración para atracar el banco."
+        }
+      ]
+    },
+    {
+      "id": "conspirator",
+      "pos": "noun",
+      "parent": "conspire",
+      "parts": [
+        "con-",
+        "spir",
+        "-ator"
+      ],
+      "gloss": {
+        "en": "a person who secretly plans something bad with others",
+        "tr": "komplocu, suç ortağı",
+        "de": "der Verschwörer, die Verschwörerin",
+        "fr": "le conspirateur, la conspiratrice",
+        "it": "il cospiratore, la cospiratrice",
+        "es": "el conspirador, la conspiradora"
+      },
+      "sentences": [
+        {
+          "en": "The [conspirators] met in a cellar at night.",
+          "tr": "Komplocular gece bir mahzende buluştu.",
+          "de": "Die Verschwörer trafen sich nachts in einem Keller.",
+          "fr": "Les conspirateurs se réunissaient la nuit dans une cave.",
+          "it": "I cospiratori si incontravano di notte in una cantina.",
+          "es": "Los conspiradores se reunían de noche en un sótano."
+        },
+        {
+          "en": "The kids smiled like little [conspirators] when Mum came in.",
+          "tr": "Annem içeri girince çocuklar küçük suç ortakları gibi gülümsedi.",
+          "de": "Die Kinder grinsten wie kleine Verschwörer, als Mama hereinkam.",
+          "fr": "Les enfants souriaient comme de petits conspirateurs quand maman est entrée.",
+          "it": "I bambini sorridevano come piccoli cospiratori quando è entrata la mamma.",
+          "es": "Los niños sonreían como pequeños conspiradores cuando entró mamá."
         }
       ]
     },
@@ -514,6 +733,42 @@
           "fr": "Les poumons font partie de l'appareil respiratoire.",
           "it": "I polmoni fanno parte dell'apparato respiratorio.",
           "es": "Los pulmones forman parte del aparato respiratorio."
+        }
+      ]
+    },
+    {
+      "id": "respirator",
+      "pos": "noun",
+      "parent": "respiration",
+      "parts": [
+        "re-",
+        "spir",
+        "-ator"
+      ],
+      "gloss": {
+        "en": "a machine or mask that helps someone breathe or filters the air",
+        "tr": "solunum cihazı, solunum maskesi",
+        "de": "das Beatmungsgerät, die Atemschutzmaske",
+        "fr": "le respirateur, le masque respiratoire",
+        "it": "il respiratore, la mascherina",
+        "es": "el respirador, la mascarilla"
+      },
+      "sentences": [
+        {
+          "en": "The patient was put on a [respirator].",
+          "tr": "Hasta solunum cihazına bağlandı.",
+          "de": "Der Patient wurde an ein Beatmungsgerät angeschlossen.",
+          "fr": "Le patient a été placé sous respirateur.",
+          "it": "Il paziente è stato attaccato a un respiratore.",
+          "es": "Conectaron al paciente a un respirador."
+        },
+        {
+          "en": "Painters wear a [respirator] in small rooms.",
+          "tr": "Boyacılar küçük odalarda solunum maskesi takar.",
+          "de": "Maler tragen in kleinen Räumen eine Atemschutzmaske.",
+          "fr": "Les peintres portent un masque respiratoire dans les petites pièces.",
+          "it": "I pittori indossano una mascherina nelle stanze piccole.",
+          "es": "Los pintores llevan mascarilla en habitaciones pequeñas."
         }
       ]
     },

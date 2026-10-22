@@ -52,6 +52,41 @@
       ]
     },
     {
+      "id": "voiceless",
+      "pos": "adjective",
+      "parent": "voice",
+      "parts": [
+        "voice",
+        "-less"
+      ],
+      "gloss": {
+        "en": "having no voice or no say; (of a sound) made without the voice, like 'p'",
+        "tr": "sessiz, sesi olmayan; (ses bilgisi) ötümsüz",
+        "de": "stimmlos; ohne Stimme",
+        "fr": "sans voix; (phonétique) sourd",
+        "it": "senza voce; (fonetica) sordo",
+        "es": "sin voz; (fonética) sordo"
+      },
+      "sentences": [
+        {
+          "en": "The charity speaks for the [voiceless] in society.",
+          "tr": "Yardım kuruluşu toplumda sesini duyuramayanlar adına konuşuyor.",
+          "de": "Die Organisation spricht für die Stimmlosen in der Gesellschaft.",
+          "fr": "L'association parle pour les sans-voix de la société.",
+          "it": "L'associazione parla per chi non ha voce nella società.",
+          "es": "La organización habla por los que no tienen voz en la sociedad."
+        },
+        {
+          "en": "The 's' in 'bus' is a [voiceless] sound.",
+          "tr": "'Bus' kelimesindeki 's' ötümsüz bir sestir.",
+          "de": "Das „s“ in „bus“ ist ein stimmloser Laut.",
+          "fr": "Le « s » de « bus » est un son sourd.",
+          "it": "La «s» di «bus» è un suono sordo.",
+          "es": "La «s» de «bus» es un sonido sordo."
+        }
+      ]
+    },
+    {
       "id": "vocal",
       "pos": "adjective",
       "parent": null,
@@ -119,6 +154,42 @@
           "fr": "Elle a commencé comme chanteuse de jazz.",
           "it": "Ha iniziato come cantante jazz.",
           "es": "Empezó como cantante de jazz."
+        }
+      ]
+    },
+    {
+      "id": "vocally",
+      "pos": "adverb",
+      "parent": "vocal",
+      "parts": [
+        "voc",
+        "-al",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "by speaking out openly; with the voice",
+        "tr": "açıkça, yüksek sesle; sesle",
+        "de": "lautstark; stimmlich",
+        "fr": "ouvertement, haut et fort; vocalement",
+        "it": "apertamente, a gran voce; vocalmente",
+        "es": "abiertamente, en voz alta; vocalmente"
+      },
+      "sentences": [
+        {
+          "en": "Parents [vocally] opposed the new school hours.",
+          "tr": "Veliler yeni okul saatlerine açıkça karşı çıktı.",
+          "de": "Eltern protestierten lautstark gegen die neuen Schulzeiten.",
+          "fr": "Les parents se sont ouvertement opposés aux nouveaux horaires.",
+          "it": "I genitori si sono opposti apertamente ai nuovi orari scolastici.",
+          "es": "Los padres se opusieron abiertamente al nuevo horario escolar."
+        },
+        {
+          "en": "The song is [vocally] very difficult.",
+          "tr": "Şarkı ses açısından çok zor.",
+          "de": "Das Lied ist stimmlich sehr anspruchsvoll.",
+          "fr": "La chanson est vocalement très difficile.",
+          "it": "La canzone è vocalmente molto difficile.",
+          "es": "La canción es vocalmente muy difícil."
         }
       ]
     },
@@ -300,6 +371,42 @@
       ]
     },
     {
+      "id": "advocacy",
+      "pos": "noun",
+      "parent": "advocate",
+      "parts": [
+        "ad-",
+        "voc",
+        "-acy"
+      ],
+      "gloss": {
+        "en": "public support for a cause or a group of people",
+        "tr": "savunuculuk, destek",
+        "de": "das Eintreten, die Fürsprache",
+        "fr": "la défense, le plaidoyer",
+        "it": "la difesa, la sensibilizzazione",
+        "es": "la defensa, la promoción"
+      },
+      "sentences": [
+        {
+          "en": "She works for an [advocacy] group for disabled people.",
+          "tr": "Engelliler için çalışan bir savunuculuk grubunda görev yapıyor.",
+          "de": "Sie arbeitet für eine Interessenvertretung behinderter Menschen.",
+          "fr": "Elle travaille pour une association de défense des personnes handicapées.",
+          "it": "Lavora per un'associazione di difesa delle persone disabili.",
+          "es": "Trabaja para un grupo de defensa de las personas con discapacidad."
+        },
+        {
+          "en": "His [advocacy] helped change the law.",
+          "tr": "Onun savunuculuğu yasanın değişmesine yardım etti.",
+          "de": "Sein Einsatz half, das Gesetz zu ändern.",
+          "fr": "Son plaidoyer a aidé à changer la loi.",
+          "it": "Il suo impegno ha aiutato a cambiare la legge.",
+          "es": "Su defensa ayudó a cambiar la ley."
+        }
+      ]
+    },
+    {
       "id": "provoke",
       "pos": "verb",
       "parent": null,
@@ -442,6 +549,42 @@
       ]
     },
     {
+      "id": "evocative",
+      "pos": "adjective",
+      "parent": "evoke",
+      "parts": [
+        "e-",
+        "voc",
+        "-ative"
+      ],
+      "gloss": {
+        "en": "bringing strong memories, feelings or pictures to mind",
+        "tr": "çağrıştırıcı, anımsatıcı",
+        "de": "stimmungsvoll, erinnerungsträchtig",
+        "fr": "évocateur",
+        "it": "evocativo",
+        "es": "evocador"
+      },
+      "sentences": [
+        {
+          "en": "The smell of bread is [evocative] of my childhood.",
+          "tr": "Ekmek kokusu bana çocukluğumu hatırlatıyor.",
+          "de": "Der Duft von Brot erinnert mich an meine Kindheit.",
+          "fr": "L'odeur du pain évoque mon enfance.",
+          "it": "Il profumo del pane è evocativo della mia infanzia.",
+          "es": "El olor a pan es evocador de mi infancia."
+        },
+        {
+          "en": "The film has an [evocative] soundtrack.",
+          "tr": "Filmin çağrışımlarla dolu bir müziği var.",
+          "de": "Der Film hat einen stimmungsvollen Soundtrack.",
+          "fr": "Le film a une bande-son évocatrice.",
+          "it": "Il film ha una colonna sonora evocativa.",
+          "es": "La película tiene una banda sonora evocadora."
+        }
+      ]
+    },
+    {
       "id": "invoke",
       "pos": "verb",
       "parent": null,
@@ -473,6 +616,42 @@
           "fr": "Le programme appelle cette fonction chaque seconde.",
           "it": "Il programma richiama questa funzione ogni secondo.",
           "es": "El programa llama a esta función cada segundo."
+        }
+      ]
+    },
+    {
+      "id": "invocation",
+      "pos": "noun",
+      "parent": "invoke",
+      "parts": [
+        "in-",
+        "voc",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "calling on a law, rule or higher power; a prayer for help",
+        "tr": "başvurma (yasaya, kurala); yakarış, dua",
+        "de": "die Berufung (auf), die Anrufung",
+        "fr": "l'invocation, le recours (à)",
+        "it": "l'invocazione, il ricorso (a)",
+        "es": "la invocación, el recurso (a)"
+      },
+      "sentences": [
+        {
+          "en": "The ceremony began with an [invocation].",
+          "tr": "Tören bir duayla başladı.",
+          "de": "Die Zeremonie begann mit einer Anrufung Gottes.",
+          "fr": "La cérémonie a commencé par une invocation.",
+          "it": "La cerimonia è iniziata con un'invocazione.",
+          "es": "La ceremonia empezó con una invocación."
+        },
+        {
+          "en": "The [invocation] of emergency powers worried many people.",
+          "tr": "Olağanüstü yetkilere başvurulması birçok kişiyi endişelendirdi.",
+          "de": "Die Berufung auf Notstandsbefugnisse beunruhigte viele.",
+          "fr": "Le recours aux pouvoirs d'urgence a inquiété beaucoup de gens.",
+          "it": "Il ricorso ai poteri d'emergenza ha preoccupato molti.",
+          "es": "El recurso a los poderes de emergencia preocupó a mucha gente."
         }
       ]
     },
@@ -545,6 +724,151 @@
           "fr": "La guerre a provoqué des changements irrévocables.",
           "it": "La guerra ha causato cambiamenti irrevocabili.",
           "es": "La guerra causó cambios irrevocables."
+        }
+      ]
+    },
+    {
+      "id": "revocation",
+      "pos": "noun",
+      "parent": "revoke",
+      "parts": [
+        "re-",
+        "voc",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "the official cancelling of a law, licence or right",
+        "tr": "iptal, geri alma",
+        "de": "der Widerruf, der Entzug",
+        "fr": "la révocation, le retrait",
+        "it": "la revoca",
+        "es": "la revocación, la retirada"
+      },
+      "sentences": [
+        {
+          "en": "Drunk driving can lead to [revocation] of your licence.",
+          "tr": "Alkollü araç kullanmak ehliyetinizin iptaline yol açabilir.",
+          "de": "Trunkenheit am Steuer kann zum Entzug des Führerscheins führen.",
+          "fr": "La conduite en état d'ivresse peut entraîner le retrait du permis.",
+          "it": "Guidare in stato di ebbrezza può portare alla revoca della patente.",
+          "es": "Conducir borracho puede llevar a la retirada del carné."
+        },
+        {
+          "en": "They protested against the [revocation] of his visa.",
+          "tr": "Vizesinin iptal edilmesini protesto ettiler.",
+          "de": "Sie protestierten gegen den Widerruf seines Visums.",
+          "fr": "Ils ont protesté contre la révocation de son visa.",
+          "it": "Hanno protestato contro la revoca del suo visto.",
+          "es": "Protestaron contra la revocación de su visado."
+        }
+      ]
+    },
+    {
+      "id": "equivocal",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "equi-",
+        "voc",
+        "-al"
+      ],
+      "gloss": {
+        "en": "unclear, able to be understood in two ways (literally: with equal voice)",
+        "tr": "iki anlamlı, belirsiz",
+        "de": "zweideutig, unklar",
+        "fr": "équivoque",
+        "it": "equivoco, ambiguo",
+        "es": "equívoco, ambiguo"
+      },
+      "sentences": [
+        {
+          "en": "The minister gave an [equivocal] answer.",
+          "tr": "Bakan iki anlama gelebilecek bir yanıt verdi.",
+          "de": "Der Minister gab eine zweideutige Antwort.",
+          "fr": "Le ministre a donné une réponse équivoque.",
+          "it": "Il ministro ha dato una risposta ambigua.",
+          "es": "El ministro dio una respuesta ambigua."
+        },
+        {
+          "en": "The test results were [equivocal], so we tried again.",
+          "tr": "Test sonuçları belirsizdi, bu yüzden tekrar denedik.",
+          "de": "Die Testergebnisse waren unklar, also versuchten wir es noch einmal.",
+          "fr": "Les résultats du test étaient équivoques, alors nous avons recommencé.",
+          "it": "I risultati del test erano ambigui, quindi abbiamo riprovato.",
+          "es": "Los resultados de la prueba eran ambiguos, así que lo intentamos otra vez."
+        }
+      ]
+    },
+    {
+      "id": "unequivocal",
+      "pos": "adjective",
+      "parent": "equivocal",
+      "parts": [
+        "un-",
+        "equi-",
+        "voc",
+        "-al"
+      ],
+      "gloss": {
+        "en": "completely clear, with no doubt",
+        "tr": "kesin, açık, tartışmasız",
+        "de": "eindeutig, unmissverständlich",
+        "fr": "sans équivoque, catégorique",
+        "it": "inequivocabile",
+        "es": "inequívoco, rotundo"
+      },
+      "sentences": [
+        {
+          "en": "Her answer was an [unequivocal] no.",
+          "tr": "Cevabı kesin bir hayırdı.",
+          "de": "Ihre Antwort war ein unmissverständliches Nein.",
+          "fr": "Sa réponse était un non catégorique.",
+          "it": "La sua risposta è stata un no inequivocabile.",
+          "es": "Su respuesta fue un no rotundo."
+        },
+        {
+          "en": "The evidence is [unequivocal]: smoking causes cancer.",
+          "tr": "Kanıtlar tartışmasız: sigara kansere yol açar.",
+          "de": "Die Beweise sind eindeutig: Rauchen verursacht Krebs.",
+          "fr": "Les preuves sont sans équivoque : fumer cause le cancer.",
+          "it": "Le prove sono inequivocabili: il fumo provoca il cancro.",
+          "es": "Las pruebas son inequívocas: fumar causa cáncer."
+        }
+      ]
+    },
+    {
+      "id": "convocation",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "con-",
+        "voc",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "a large formal meeting, often a university ceremony (literally: a calling together)",
+        "tr": "toplantı, (üniversitede) tören",
+        "de": "die Versammlung, die Einberufung",
+        "fr": "l'assemblée, la cérémonie (universitaire)",
+        "it": "la convocazione, l'assemblea",
+        "es": "la asamblea, la ceremonia (universitaria)"
+      },
+      "sentences": [
+        {
+          "en": "Students wore gowns at the spring [convocation].",
+          "tr": "Öğrenciler bahar töreninde cüppe giydi.",
+          "de": "Die Studierenden trugen bei der Frühjahrsfeier Talare.",
+          "fr": "Les étudiants portaient des toges à la cérémonie de printemps.",
+          "it": "Gli studenti indossavano la toga alla cerimonia di primavera.",
+          "es": "Los estudiantes llevaban toga en la ceremonia de primavera."
+        },
+        {
+          "en": "The bishops met in a [convocation] in York.",
+          "tr": "Piskoposlar York'ta bir toplantıda bir araya geldi.",
+          "de": "Die Bischöfe trafen sich zu einer Versammlung in York.",
+          "fr": "Les évêques se sont réunis en assemblée à York.",
+          "it": "I vescovi si sono riuniti in assemblea a York.",
+          "es": "Los obispos se reunieron en asamblea en York."
         }
       ]
     }

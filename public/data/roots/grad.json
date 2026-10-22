@@ -228,6 +228,78 @@
       ]
     },
     {
+      "id": "undergraduate",
+      "pos": "noun",
+      "parent": "graduate",
+      "parts": [
+        "under-",
+        "grad",
+        "-uate"
+      ],
+      "gloss": {
+        "en": "a university student studying for a first degree",
+        "tr": "lisans öğrencisi",
+        "de": "der/die Studierende im Bachelor",
+        "fr": "l'étudiant(e) de licence",
+        "it": "lo studente / la studentessa di laurea triennale",
+        "es": "el/la estudiante de grado"
+      },
+      "sentences": [
+        {
+          "en": "She is an [undergraduate] at Leeds.",
+          "tr": "Leeds'te lisans öğrencisi.",
+          "de": "Sie studiert im Bachelor in Leeds.",
+          "fr": "Elle est étudiante en licence à Leeds.",
+          "it": "È studentessa di laurea triennale a Leeds.",
+          "es": "Es estudiante de grado en Leeds."
+        },
+        {
+          "en": "Most [undergraduates] live on campus in the first year.",
+          "tr": "Lisans öğrencilerinin çoğu ilk yıl kampüste yaşar.",
+          "de": "Die meisten Bachelorstudierenden wohnen im ersten Jahr auf dem Campus.",
+          "fr": "La plupart des étudiants de licence vivent sur le campus en première année.",
+          "it": "La maggior parte degli studenti triennali vive nel campus il primo anno.",
+          "es": "La mayoría de los estudiantes de grado vive en el campus el primer año."
+        }
+      ]
+    },
+    {
+      "id": "postgraduate",
+      "pos": "adjective",
+      "parent": "graduate",
+      "parts": [
+        "post-",
+        "grad",
+        "-uate"
+      ],
+      "gloss": {
+        "en": "relating to studies after a first university degree",
+        "tr": "lisansüstü",
+        "de": "postgradual, Master- oder Doktoranden-",
+        "fr": "de troisième cycle, de master",
+        "it": "post-laurea",
+        "es": "de posgrado"
+      },
+      "sentences": [
+        {
+          "en": "He is doing a [postgraduate] course in law.",
+          "tr": "Hukukta lisansüstü bir program okuyor.",
+          "de": "Er macht ein Masterstudium in Jura.",
+          "fr": "Il suit un master en droit.",
+          "it": "Sta frequentando un corso post-laurea in giurisprudenza.",
+          "es": "Está haciendo un curso de posgrado en Derecho."
+        },
+        {
+          "en": "Many [postgraduate] students also teach first-year classes.",
+          "tr": "Birçok lisansüstü öğrenci birinci sınıflara da ders veriyor.",
+          "de": "Viele Master- und Doktoratsstudierende unterrichten auch Erstsemester.",
+          "fr": "Beaucoup d'étudiants de master enseignent aussi aux premières années.",
+          "it": "Molti studenti post-laurea insegnano anche alle matricole.",
+          "es": "Muchos estudiantes de posgrado también dan clases de primer año."
+        }
+      ]
+    },
+    {
       "id": "upgrade",
       "pos": "verb",
       "parent": "grade",
@@ -329,6 +401,42 @@
           "fr": "Le manque de lumière dégrade la qualité de la photo.",
           "it": "La poca luce degrada la qualità della foto.",
           "es": "La poca luz degrada la calidad de la foto."
+        }
+      ]
+    },
+    {
+      "id": "degradation",
+      "pos": "noun",
+      "parent": "degrade",
+      "parts": [
+        "de-",
+        "grad",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "the process of becoming worse; a loss of dignity",
+        "tr": "bozulma, kötüleşme; aşağılanma",
+        "de": "die Verschlechterung, die Erniedrigung",
+        "fr": "la dégradation",
+        "it": "il degrado",
+        "es": "la degradación"
+      },
+      "sentences": [
+        {
+          "en": "Pollution leads to the [degradation] of the soil.",
+          "tr": "Kirlilik toprağın bozulmasına yol açar.",
+          "de": "Verschmutzung führt zur Verschlechterung des Bodens.",
+          "fr": "La pollution entraîne la dégradation des sols.",
+          "it": "L'inquinamento porta al degrado del suolo.",
+          "es": "La contaminación provoca la degradación del suelo."
+        },
+        {
+          "en": "The prisoners lived in [degradation] and fear.",
+          "tr": "Mahkûmlar aşağılanma ve korku içinde yaşadı.",
+          "de": "Die Gefangenen lebten in Erniedrigung und Angst.",
+          "fr": "Les prisonniers vivaient dans la dégradation et la peur.",
+          "it": "I prigionieri vivevano nel degrado e nella paura.",
+          "es": "Los prisioneros vivían en la degradación y el miedo."
         }
       ]
     },
@@ -474,6 +582,43 @@
       ]
     },
     {
+      "id": "progressively",
+      "pos": "adverb",
+      "parent": "progressive",
+      "parts": [
+        "pro-",
+        "gress",
+        "-ive",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "step by step, more and more",
+        "tr": "giderek, adım adım",
+        "de": "zunehmend, schrittweise",
+        "fr": "progressivement",
+        "it": "progressivamente",
+        "es": "progresivamente"
+      },
+      "sentences": [
+        {
+          "en": "The pain got [progressively] worse during the night.",
+          "tr": "Ağrı gece boyunca giderek kötüleşti.",
+          "de": "Die Schmerzen wurden in der Nacht zunehmend schlimmer.",
+          "fr": "La douleur s'est progressivement aggravée pendant la nuit.",
+          "it": "Il dolore è peggiorato progressivamente durante la notte.",
+          "es": "El dolor empeoró progresivamente durante la noche."
+        },
+        {
+          "en": "The exercises become [progressively] harder.",
+          "tr": "Alıştırmalar adım adım zorlaşıyor.",
+          "de": "Die Übungen werden schrittweise schwerer.",
+          "fr": "Les exercices deviennent progressivement plus difficiles.",
+          "it": "Gli esercizi diventano progressivamente più difficili.",
+          "es": "Los ejercicios se vuelven progresivamente más difíciles."
+        }
+      ]
+    },
+    {
       "id": "progression",
       "pos": "noun",
       "parent": "progress",
@@ -578,6 +723,42 @@
           "fr": "L'attaque était un acte d'agression.",
           "it": "L'attacco è stato un atto di aggressione.",
           "es": "El ataque fue un acto de agresión."
+        }
+      ]
+    },
+    {
+      "id": "aggressor",
+      "pos": "noun",
+      "parent": "aggression",
+      "parts": [
+        "ag-",
+        "gress",
+        "-or"
+      ],
+      "gloss": {
+        "en": "a person or country that attacks first",
+        "tr": "saldırgan",
+        "de": "der Angreifer, der Aggressor",
+        "fr": "l'agresseur",
+        "it": "l'aggressore",
+        "es": "el agresor"
+      },
+      "sentences": [
+        {
+          "en": "The UN named the [aggressor] in the war.",
+          "tr": "BM savaştaki saldırganı açıkladı.",
+          "de": "Die UNO benannte den Aggressor im Krieg.",
+          "fr": "L'ONU a désigné l'agresseur dans la guerre.",
+          "it": "L'ONU ha indicato l'aggressore nella guerra.",
+          "es": "La ONU señaló al agresor en la guerra."
+        },
+        {
+          "en": "In the video, the taller man is clearly the [aggressor].",
+          "tr": "Videoda saldırganın uzun boylu adam olduğu açıkça görülüyor.",
+          "de": "Im Video ist der größere Mann eindeutig der Angreifer.",
+          "fr": "Dans la vidéo, le plus grand des deux hommes est clairement l'agresseur.",
+          "it": "Nel video l'uomo più alto è chiaramente l'aggressore.",
+          "es": "En el vídeo, el hombre más alto es claramente el agresor."
         }
       ]
     },
@@ -687,6 +868,42 @@
       ]
     },
     {
+      "id": "regression",
+      "pos": "noun",
+      "parent": "regress",
+      "parts": [
+        "re-",
+        "gress",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a return to an earlier, often worse, state",
+        "tr": "gerileme",
+        "de": "der Rückschritt, die Regression",
+        "fr": "la régression",
+        "it": "la regressione",
+        "es": "la regresión, el retroceso"
+      },
+      "sentences": [
+        {
+          "en": "The new law is a [regression] for women's rights.",
+          "tr": "Yeni yasa kadın hakları için bir gerileme.",
+          "de": "Das neue Gesetz ist ein Rückschritt für die Rechte der Frauen.",
+          "fr": "La nouvelle loi est une régression pour les droits des femmes.",
+          "it": "La nuova legge è una regressione per i diritti delle donne.",
+          "es": "La nueva ley es un retroceso para los derechos de las mujeres."
+        },
+        {
+          "en": "After the move, the child showed some [regression] in his speech.",
+          "tr": "Taşınmadan sonra çocuğun konuşmasında biraz gerileme görüldü.",
+          "de": "Nach dem Umzug zeigte das Kind einen Rückschritt beim Sprechen.",
+          "fr": "Après le déménagement, l'enfant a montré une régression dans son langage.",
+          "it": "Dopo il trasloco il bambino ha mostrato una regressione nel linguaggio.",
+          "es": "Tras la mudanza, el niño mostró cierta regresión en el habla."
+        }
+      ]
+    },
+    {
       "id": "ingredient",
       "pos": "noun",
       "parent": null,
@@ -719,6 +936,77 @@
           "fr": "La confiance est l'ingrédient essentiel de l'amitié.",
           "it": "La fiducia è l'ingrediente chiave dell'amicizia.",
           "es": "La confianza es el ingrediente clave de la amistad."
+        }
+      ]
+    },
+    {
+      "id": "transgress",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "trans-",
+        "gress"
+      ],
+      "gloss": {
+        "en": "to break a rule or go beyond a limit (literally: to step across)",
+        "tr": "(kuralı) çiğnemek, sınırı aşmak",
+        "de": "übertreten, verstoßen gegen",
+        "fr": "transgresser",
+        "it": "trasgredire",
+        "es": "transgredir"
+      },
+      "sentences": [
+        {
+          "en": "Players who [transgress] the rules will be banned.",
+          "tr": "Kuralları çiğneyen oyunculara men cezası verilecek.",
+          "de": "Spieler, die gegen die Regeln verstoßen, werden gesperrt.",
+          "fr": "Les joueurs qui transgressent les règles seront exclus.",
+          "it": "I giocatori che trasgrediscono le regole saranno squalificati.",
+          "es": "Los jugadores que transgredan las normas serán expulsados."
+        },
+        {
+          "en": "The artist likes to [transgress] the limits of good taste.",
+          "tr": "Sanatçı iyi zevkin sınırlarını aşmayı seviyor.",
+          "de": "Der Künstler überschreitet gern die Grenzen des guten Geschmacks.",
+          "fr": "L'artiste aime transgresser les limites du bon goût.",
+          "it": "L'artista ama trasgredire i limiti del buon gusto.",
+          "es": "Al artista le gusta transgredir los límites del buen gusto."
+        }
+      ]
+    },
+    {
+      "id": "transgression",
+      "pos": "noun",
+      "parent": "transgress",
+      "parts": [
+        "trans-",
+        "gress",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "an act that breaks a rule or moral law",
+        "tr": "kural ihlali, günah",
+        "de": "die Übertretung, der Verstoß",
+        "fr": "la transgression, la faute",
+        "it": "la trasgressione",
+        "es": "la transgresión, la falta"
+      },
+      "sentences": [
+        {
+          "en": "She forgave him for his past [transgressions].",
+          "tr": "Geçmişteki hatalarını affetti.",
+          "de": "Sie vergab ihm seine früheren Verfehlungen.",
+          "fr": "Elle lui a pardonné ses fautes passées.",
+          "it": "Gli ha perdonato le sue trasgressioni passate.",
+          "es": "Le perdonó sus faltas pasadas."
+        },
+        {
+          "en": "Even a small [transgression] was punished at that school.",
+          "tr": "O okulda küçük bir kural ihlali bile cezalandırılırdı.",
+          "de": "An dieser Schule wurde selbst ein kleiner Verstoß bestraft.",
+          "fr": "Dans cette école, même une petite faute était punie.",
+          "it": "In quella scuola anche una piccola trasgressione veniva punita.",
+          "es": "En aquella escuela, incluso una pequeña falta se castigaba."
         }
       ]
     }

@@ -126,6 +126,42 @@
       ]
     },
     {
+      "id": "eventful",
+      "pos": "adjective",
+      "parent": "event",
+      "parts": [
+        "e-",
+        "vent",
+        "-ful"
+      ],
+      "gloss": {
+        "en": "full of interesting or important events",
+        "tr": "olaylı, hareketli",
+        "de": "ereignisreich",
+        "fr": "mouvementé, riche en événements",
+        "it": "movimentato, ricco di eventi",
+        "es": "agitado, lleno de acontecimientos"
+      },
+      "sentences": [
+        {
+          "en": "It was an [eventful] week: a new job and a new flat.",
+          "tr": "Olaylı bir haftaydı: yeni bir iş ve yeni bir daire.",
+          "de": "Es war eine ereignisreiche Woche: ein neuer Job und eine neue Wohnung.",
+          "fr": "C'était une semaine mouvementée : un nouveau travail et un nouvel appartement.",
+          "it": "È stata una settimana movimentata: un nuovo lavoro e un nuovo appartamento.",
+          "es": "Fue una semana agitada: un trabajo nuevo y un piso nuevo."
+        },
+        {
+          "en": "Grandpa had a long and [eventful] life.",
+          "tr": "Dedemin uzun ve olaylı bir hayatı oldu.",
+          "de": "Opa hatte ein langes und ereignisreiches Leben.",
+          "fr": "Papi a eu une vie longue et riche en événements.",
+          "it": "Il nonno ha avuto una vita lunga e ricca di eventi.",
+          "es": "El abuelo tuvo una vida larga y llena de acontecimientos."
+        }
+      ]
+    },
+    {
       "id": "invent",
       "pos": "verb",
       "parent": null,
@@ -269,6 +305,42 @@
       ]
     },
     {
+      "id": "inventive",
+      "pos": "adjective",
+      "parent": "invent",
+      "parts": [
+        "in-",
+        "vent",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "good at thinking of new and clever ideas",
+        "tr": "yaratıcı, buluşçu",
+        "de": "erfinderisch, einfallsreich",
+        "fr": "inventif",
+        "it": "inventivo, creativo",
+        "es": "ingenioso, inventivo"
+      },
+      "sentences": [
+        {
+          "en": "The chef is very [inventive] with simple vegetables.",
+          "tr": "Şef sade sebzelerle çok yaratıcı.",
+          "de": "Der Koch ist mit einfachem Gemüse sehr einfallsreich.",
+          "fr": "Le chef est très inventif avec des légumes simples.",
+          "it": "Lo chef è molto creativo con verdure semplici.",
+          "es": "El chef es muy ingenioso con verduras sencillas."
+        },
+        {
+          "en": "Children are often more [inventive] than adults.",
+          "tr": "Çocuklar çoğu zaman yetişkinlerden daha yaratıcıdır.",
+          "de": "Kinder sind oft erfinderischer als Erwachsene.",
+          "fr": "Les enfants sont souvent plus inventifs que les adultes.",
+          "it": "I bambini sono spesso più inventivi degli adulti.",
+          "es": "Los niños suelen ser más ingeniosos que los adultos."
+        }
+      ]
+    },
+    {
       "id": "prevent",
       "pos": "verb",
       "parent": null,
@@ -340,6 +412,42 @@
       ]
     },
     {
+      "id": "preventive",
+      "pos": "adjective",
+      "parent": "prevent",
+      "parts": [
+        "pre-",
+        "vent",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "meant to stop something bad before it happens",
+        "tr": "önleyici, koruyucu",
+        "de": "vorbeugend, präventiv",
+        "fr": "préventif",
+        "it": "preventivo",
+        "es": "preventivo"
+      },
+      "sentences": [
+        {
+          "en": "Regular check-ups are a kind of [preventive] medicine.",
+          "tr": "Düzenli kontroller bir tür koruyucu hekimliktir.",
+          "de": "Regelmäßige Untersuchungen sind eine Art vorbeugende Medizin.",
+          "fr": "Les bilans réguliers sont une forme de médecine préventive.",
+          "it": "I controlli regolari sono una forma di medicina preventiva.",
+          "es": "Las revisiones periódicas son una forma de medicina preventiva."
+        },
+        {
+          "en": "The city took [preventive] steps against flooding.",
+          "tr": "Şehir sele karşı önleyici adımlar attı.",
+          "de": "Die Stadt ergriff vorbeugende Maßnahmen gegen Hochwasser.",
+          "fr": "La ville a pris des mesures préventives contre les inondations.",
+          "it": "La città ha preso misure preventive contro le alluvioni.",
+          "es": "La ciudad tomó medidas preventivas contra las inundaciones."
+        }
+      ]
+    },
+    {
       "id": "adventure",
       "pos": "noun",
       "parent": null,
@@ -372,6 +480,41 @@
           "fr": "Il adore les histoires d'aventure.",
           "it": "Adora le storie d'avventura.",
           "es": "Le encantan las historias de aventuras."
+        }
+      ]
+    },
+    {
+      "id": "venture",
+      "pos": "noun",
+      "parent": "adventure",
+      "parts": [
+        "vent",
+        "-ure"
+      ],
+      "gloss": {
+        "en": "a new business or project that involves risk (short for adventure)",
+        "tr": "girişim, riskli iş",
+        "de": "das Unternehmen, das Wagnis",
+        "fr": "l'entreprise, l'aventure",
+        "it": "l'impresa, l'iniziativa",
+        "es": "la empresa, la aventura"
+      },
+      "sentences": [
+        {
+          "en": "Their new [venture] is a small bakery.",
+          "tr": "Yeni girişimleri küçük bir fırın.",
+          "de": "Ihr neues Unternehmen ist eine kleine Bäckerei.",
+          "fr": "Leur nouvelle entreprise est une petite boulangerie.",
+          "it": "La loro nuova impresa è un piccolo forno.",
+          "es": "Su nuevo negocio es una pequeña panadería."
+        },
+        {
+          "en": "The two companies started a joint [venture] in China.",
+          "tr": "İki şirket Çin'de ortak bir girişim başlattı.",
+          "de": "Die beiden Firmen gründeten ein Gemeinschaftsunternehmen in China.",
+          "fr": "Les deux entreprises ont lancé une coentreprise en Chine.",
+          "it": "Le due aziende hanno avviato una joint venture in Cina.",
+          "es": "Las dos empresas crearon una empresa conjunta en China."
         }
       ]
     },
@@ -627,6 +770,42 @@
           "fr": "Habiter loin de la gare n'est pas pratique.",
           "it": "Abitare lontano dalla stazione è scomodo.",
           "es": "Vivir lejos de la estación es incómodo."
+        }
+      ]
+    },
+    {
+      "id": "convenience",
+      "pos": "noun",
+      "parent": "convenient",
+      "parts": [
+        "con-",
+        "ven",
+        "-ience"
+      ],
+      "gloss": {
+        "en": "the quality of being easy and suitable; a useful thing",
+        "tr": "kolaylık, rahatlık",
+        "de": "die Bequemlichkeit, die Annehmlichkeit",
+        "fr": "la commodité, le confort",
+        "it": "la comodità",
+        "es": "la comodidad, la conveniencia"
+      },
+      "sentences": [
+        {
+          "en": "I shop online for [convenience].",
+          "tr": "Kolaylık olsun diye internetten alışveriş yapıyorum.",
+          "de": "Ich kaufe aus Bequemlichkeit online ein.",
+          "fr": "J'achète en ligne par commodité.",
+          "it": "Faccio acquisti online per comodità.",
+          "es": "Compro por internet por comodidad."
+        },
+        {
+          "en": "Please reply at your earliest [convenience].",
+          "tr": "Lütfen size en kısa zamanda uygun olduğunda yanıt verin.",
+          "de": "Bitte antworten Sie, sobald es Ihnen möglich ist.",
+          "fr": "Merci de répondre dès que possible.",
+          "it": "La prego di rispondere appena le è possibile.",
+          "es": "Por favor, responda en cuanto le sea posible."
         }
       ]
     },

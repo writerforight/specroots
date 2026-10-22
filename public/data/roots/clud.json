@@ -232,6 +232,76 @@
       ]
     },
     {
+      "id": "closure",
+      "pos": "noun",
+      "parent": "close",
+      "parts": [
+        "clos",
+        "-ure"
+      ],
+      "gloss": {
+        "en": "the closing of a place for good; a feeling that something sad is finished",
+        "tr": "kapanış, kapatılma; içsel huzur, kapanmışlık hissi",
+        "de": "die Schließung; der innere Abschluss",
+        "fr": "la fermeture; le fait de tourner la page",
+        "it": "la chiusura",
+        "es": "el cierre"
+      },
+      "sentences": [
+        {
+          "en": "The [closure] of the factory cost 300 jobs.",
+          "tr": "Fabrikanın kapanması 300 kişiyi işsiz bıraktı.",
+          "de": "Die Schließung der Fabrik kostete 300 Arbeitsplätze.",
+          "fr": "La fermeture de l'usine a coûté 300 emplois.",
+          "it": "La chiusura della fabbrica è costata 300 posti di lavoro.",
+          "es": "El cierre de la fábrica costó 300 empleos."
+        },
+        {
+          "en": "The trial gave the family some [closure].",
+          "tr": "Dava aileye bir parça huzur verdi.",
+          "de": "Der Prozess half der Familie, einen Abschluss zu finden.",
+          "fr": "Le procès a aidé la famille à tourner la page.",
+          "it": "Il processo ha aiutato la famiglia a mettere un punto.",
+          "es": "El juicio ayudó a la familia a cerrar ese capítulo."
+        }
+      ]
+    },
+    {
+      "id": "closely",
+      "pos": "adverb",
+      "parent": "close",
+      "parts": [
+        "close",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "carefully; with only a small distance or difference",
+        "tr": "dikkatle, yakından",
+        "de": "genau, eng",
+        "fr": "attentivement, de près",
+        "it": "attentamente, da vicino",
+        "es": "atentamente, de cerca"
+      },
+      "sentences": [
+        {
+          "en": "Listen [closely] to the instructions.",
+          "tr": "Talimatları dikkatle dinle.",
+          "de": "Hör dir die Anweisungen genau an.",
+          "fr": "Écoute attentivement les consignes.",
+          "it": "Ascolta attentamente le istruzioni.",
+          "es": "Escucha atentamente las instrucciones."
+        },
+        {
+          "en": "The two languages are [closely] related.",
+          "tr": "İki dil birbiriyle yakından akraba.",
+          "de": "Die beiden Sprachen sind eng verwandt.",
+          "fr": "Les deux langues sont étroitement apparentées.",
+          "it": "Le due lingue sono strettamente imparentate.",
+          "es": "Los dos idiomas están estrechamente emparentados."
+        }
+      ]
+    },
+    {
       "id": "include",
       "pos": "verb",
       "parent": null,
@@ -442,6 +512,43 @@
           "fr": "Le magazine publie une interview exclusive de la chanteuse.",
           "it": "La rivista ha un'intervista esclusiva con la cantante.",
           "es": "La revista tiene una entrevista exclusiva con la cantante."
+        }
+      ]
+    },
+    {
+      "id": "exclusively",
+      "pos": "adverb",
+      "parent": "exclusive",
+      "parts": [
+        "ex-",
+        "clus",
+        "-ive",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "only, and nothing or nobody else",
+        "tr": "yalnızca, sadece",
+        "de": "ausschließlich",
+        "fr": "exclusivement",
+        "it": "esclusivamente",
+        "es": "exclusivamente"
+      },
+      "sentences": [
+        {
+          "en": "The beach is [exclusively] for hotel guests.",
+          "tr": "Plaj yalnızca otel misafirlerine ayrılmış.",
+          "de": "Der Strand ist ausschließlich für Hotelgäste.",
+          "fr": "La plage est exclusivement réservée aux clients de l'hôtel.",
+          "it": "La spiaggia è esclusivamente per gli ospiti dell'hotel.",
+          "es": "La playa es exclusivamente para los huéspedes del hotel."
+        },
+        {
+          "en": "Pandas eat almost [exclusively] bamboo.",
+          "tr": "Pandalar neredeyse yalnızca bambu yer.",
+          "de": "Pandas fressen fast ausschließlich Bambus.",
+          "fr": "Les pandas mangent presque exclusivement du bambou.",
+          "it": "I panda mangiano quasi esclusivamente bambù.",
+          "es": "Los pandas comen casi exclusivamente bambú."
         }
       ]
     },
@@ -661,6 +768,42 @@
       ]
     },
     {
+      "id": "seclusion",
+      "pos": "noun",
+      "parent": "secluded",
+      "parts": [
+        "se-",
+        "clus",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "the state of being alone, away from other people",
+        "tr": "inziva, yalnızlık",
+        "de": "die Abgeschiedenheit",
+        "fr": "l'isolement, la retraite",
+        "it": "l'isolamento, la solitudine",
+        "es": "el aislamiento, el retiro"
+      },
+      "sentences": [
+        {
+          "en": "The writer lives in [seclusion] in the mountains.",
+          "tr": "Yazar dağlarda inzivada yaşıyor.",
+          "de": "Der Schriftsteller lebt in Abgeschiedenheit in den Bergen.",
+          "fr": "L'écrivain vit retiré dans les montagnes.",
+          "it": "Lo scrittore vive isolato in montagna.",
+          "es": "El escritor vive retirado en las montañas."
+        },
+        {
+          "en": "After the scandal, she went into [seclusion].",
+          "tr": "Skandaldan sonra inzivaya çekildi.",
+          "de": "Nach dem Skandal zog sie sich zurück.",
+          "fr": "Après le scandale, elle s'est retirée du monde.",
+          "it": "Dopo lo scandalo si è ritirata in isolamento.",
+          "es": "Tras el escándalo, se retiró de la vida pública."
+        }
+      ]
+    },
+    {
       "id": "recluse",
       "pos": "noun",
       "parent": null,
@@ -692,6 +835,42 @@
           "fr": "Il vit en ermite dans les montagnes.",
           "it": "Vive come un eremita in montagna.",
           "es": "Vive como un ermitaño en las montañas."
+        }
+      ]
+    },
+    {
+      "id": "reclusive",
+      "pos": "adjective",
+      "parent": "recluse",
+      "parts": [
+        "re-",
+        "clus",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "living alone and avoiding other people",
+        "tr": "münzevi, insanlardan uzak yaşayan",
+        "de": "zurückgezogen",
+        "fr": "reclus, solitaire",
+        "it": "solitario, appartato",
+        "es": "solitario, retraído"
+      },
+      "sentences": [
+        {
+          "en": "The [reclusive] artist never gave interviews.",
+          "tr": "İnsanlardan uzak yaşayan sanatçı hiç röportaj vermedi.",
+          "de": "Der zurückgezogen lebende Künstler gab nie Interviews.",
+          "fr": "L'artiste reclus n'a jamais donné d'interview.",
+          "it": "L'artista solitario non ha mai rilasciato interviste.",
+          "es": "El artista solitario nunca concedía entrevistas."
+        },
+        {
+          "en": "Our [reclusive] neighbour rarely leaves the house.",
+          "tr": "Münzevi komşumuz evden nadiren çıkar.",
+          "de": "Unser zurückgezogener Nachbar verlässt selten das Haus.",
+          "fr": "Notre voisin solitaire quitte rarement la maison.",
+          "it": "Il nostro vicino solitario esce raramente di casa.",
+          "es": "Nuestro vecino solitario rara vez sale de casa."
         }
       ]
     },

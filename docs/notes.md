@@ -3,6 +3,22 @@
 Her turda güncellenir: optimizasyon, SPEC ile tutarsızlıklar, issue durumu, şüpheli veri, açık sorular.
 Bağlayıcı kararlar burada değil `SPEC.md`'dedir; buradaki bir not karar olunca SPEC'e taşınır.
 
+## 2026-10-22
+
+### Veri: +177 kelime (kullanıcı isteği: "bu tur 150–200 kelime, herhangi yerlere")
+- 33 mevcut köke eklendi, yeni kök yok (SPEC karar 11: ~50 kök). Önce az kelimeli kökler, sonra
+  20'de kalan kökler; hiçbir kök 40'ı geçmedi (en çok duc 30). Toplam 1131 kayıt, 1126 ayrı kelime.
+- Yeni ekler: `genu-` (diz; genuflect), `equi-` (eşit; equivocal), `-ologist` (pathologist) birleşik
+  parça (`combining`); `under-` (undergraduate) gerçek ön ek (`up-`, `down-` gibi İngilizce).
+- Yeni kök yazımları: cred'e `creed` (Latince credo'dan), struct'a `stroy` (destroy, destruere'den).
+- Yeni kelimeler ebeveynlerinin hemen arkasına yerleştirildi (önceki turlar sona ekliyordu).
+- Bilerek dışarıda bırakılanlar: *chronicler* (`chron·-icle·-er` "chronicleer" heceler; `-icl` eki
+  gerekir), *chronograph* (`-ograph` eki gerekir), *aversion* (buradaki *a-* ab- biçimi, katalogdaki
+  `a-` ad- biçimi; ayrı bir homograf ek ister), *passport*/*airport* (Latince portus, portare değil),
+  *attain* (tangere), *supply*/*comply* (plere), *performance* (forma değil), *tender* (iki ayrı köken).
+- 20'nin altında kalan kökler: morph 9, aud 10, photo 11, chron 12, mand 13, scop 14, cid 15, cred 15,
+  junct 15, bio 17, loc 17, rupt 18, flect 19.
+
 ## 2026-10-19
 
 ### Issue / PR durumu

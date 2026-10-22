@@ -192,6 +192,80 @@
       ]
     },
     {
+      "id": "microscopically",
+      "pos": "adverb",
+      "parent": "microscopic",
+      "parts": [
+        "micro-",
+        "scop",
+        "-ic",
+        "-al",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "so small that only a microscope shows it; with a microscope",
+        "tr": "mikroskobik düzeyde, mikroskopla",
+        "de": "mikroskopisch",
+        "fr": "microscopiquement, au microscope",
+        "it": "microscopicamente",
+        "es": "microscópicamente"
+      },
+      "sentences": [
+        {
+          "en": "The two coins differ only [microscopically].",
+          "tr": "İki madeni para yalnızca mikroskobik düzeyde farklı.",
+          "de": "Die beiden Münzen unterscheiden sich nur mikroskopisch.",
+          "fr": "Les deux pièces ne diffèrent que microscopiquement.",
+          "it": "Le due monete differiscono solo microscopicamente.",
+          "es": "Las dos monedas solo se diferencian microscópicamente."
+        },
+        {
+          "en": "Every sample was checked [microscopically].",
+          "tr": "Her örnek mikroskopla kontrol edildi.",
+          "de": "Jede Probe wurde mikroskopisch geprüft.",
+          "fr": "Chaque échantillon a été examiné au microscope.",
+          "it": "Ogni campione è stato controllato al microscopio.",
+          "es": "Cada muestra se examinó al microscopio."
+        }
+      ]
+    },
+    {
+      "id": "microscopy",
+      "pos": "noun",
+      "parent": "microscope",
+      "parts": [
+        "micro-",
+        "scop",
+        "-y"
+      ],
+      "gloss": {
+        "en": "the use of microscopes to study very small things",
+        "tr": "mikroskopi",
+        "de": "die Mikroskopie",
+        "fr": "la microscopie",
+        "it": "la microscopia",
+        "es": "la microscopía"
+      },
+      "sentences": [
+        {
+          "en": "[Microscopy] showed tiny cracks in the metal.",
+          "tr": "Mikroskopi metalde çok küçük çatlaklar olduğunu gösterdi.",
+          "de": "Die Mikroskopie zeigte winzige Risse im Metall.",
+          "fr": "La microscopie a révélé de minuscules fissures dans le métal.",
+          "it": "La microscopia ha mostrato piccolissime crepe nel metallo.",
+          "es": "La microscopía mostró grietas diminutas en el metal."
+        },
+        {
+          "en": "She took a course in [microscopy] last summer.",
+          "tr": "Geçen yaz mikroskopi kursu aldı.",
+          "de": "Sie hat letzten Sommer einen Mikroskopie-Kurs gemacht.",
+          "fr": "Elle a suivi un cours de microscopie l'été dernier.",
+          "it": "L'estate scorsa ha seguito un corso di microscopia.",
+          "es": "El verano pasado hizo un curso de microscopía."
+        }
+      ]
+    },
+    {
       "id": "periscope",
       "pos": "noun",
       "parent": null,
@@ -399,6 +473,41 @@
           "fr": "On ne peut rien manger avant une endoscopie.",
           "it": "Prima di un'endoscopia non si può mangiare niente.",
           "es": "No puedes comer nada antes de una endoscopia."
+        }
+      ]
+    },
+    {
+      "id": "endoscope",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "endo-",
+        "scope"
+      ],
+      "gloss": {
+        "en": "a thin tube with a camera that doctors use to look inside the body",
+        "tr": "endoskop",
+        "de": "das Endoskop",
+        "fr": "l'endoscope",
+        "it": "l'endoscopio",
+        "es": "el endoscopio"
+      },
+      "sentences": [
+        {
+          "en": "The doctor used an [endoscope] to look at his stomach.",
+          "tr": "Doktor midesine bakmak için endoskop kullandı.",
+          "de": "Die Ärztin untersuchte seinen Magen mit einem Endoskop.",
+          "fr": "Le médecin a utilisé un endoscope pour examiner son estomac.",
+          "it": "Il medico ha usato un endoscopio per guardargli lo stomaco.",
+          "es": "La médica usó un endoscopio para ver su estómago."
+        },
+        {
+          "en": "The [endoscope] has a light at the end.",
+          "tr": "Endoskobun ucunda bir ışık var.",
+          "de": "Das Endoskop hat vorne eine Lampe.",
+          "fr": "L'endoscope a une lumière au bout.",
+          "it": "L'endoscopio ha una luce in punta.",
+          "es": "El endoscopio tiene una luz en la punta."
         }
       ]
     }

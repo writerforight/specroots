@@ -371,6 +371,43 @@
       ]
     },
     {
+      "id": "objectionable",
+      "pos": "adjective",
+      "parent": "objection",
+      "parts": [
+        "ob-",
+        "ject",
+        "-ion",
+        "-able"
+      ],
+      "gloss": {
+        "en": "unpleasant or offensive",
+        "tr": "sakıncalı, rahatsız edici",
+        "de": "anstößig, unangenehm",
+        "fr": "choquant, répréhensible",
+        "it": "discutibile, offensivo",
+        "es": "censurable, ofensivo"
+      },
+      "sentences": [
+        {
+          "en": "Some parents found the film's language [objectionable].",
+          "tr": "Bazı veliler filmin dilini rahatsız edici buldu.",
+          "de": "Einige Eltern fanden die Sprache des Films anstößig.",
+          "fr": "Certains parents ont trouvé le langage du film choquant.",
+          "it": "Alcuni genitori hanno trovato offensivo il linguaggio del film.",
+          "es": "A algunos padres el lenguaje de la película les pareció ofensivo."
+        },
+        {
+          "en": "The website removes [objectionable] comments.",
+          "tr": "Web sitesi sakıncalı yorumları kaldırıyor.",
+          "de": "Die Website entfernt anstößige Kommentare.",
+          "fr": "Le site supprime les commentaires choquants.",
+          "it": "Il sito rimuove i commenti offensivi.",
+          "es": "El sitio web elimina los comentarios ofensivos."
+        }
+      ]
+    },
+    {
       "id": "objective",
       "pos": "noun",
       "parent": "object",
@@ -403,6 +440,80 @@
           "fr": "Note trois objectifs pour cette année.",
           "it": "Scrivi tre obiettivi per quest'anno.",
           "es": "Escribe tres objetivos para este año."
+        }
+      ]
+    },
+    {
+      "id": "objectively",
+      "pos": "adverb",
+      "parent": "objective",
+      "parts": [
+        "ob-",
+        "ject",
+        "-ive",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "based on facts, not on personal feelings",
+        "tr": "nesnel olarak, tarafsızca",
+        "de": "objektiv",
+        "fr": "objectivement",
+        "it": "oggettivamente",
+        "es": "objetivamente"
+      },
+      "sentences": [
+        {
+          "en": "Try to look at the problem [objectively].",
+          "tr": "Soruna nesnel bir şekilde bakmaya çalış.",
+          "de": "Versuch, das Problem objektiv zu betrachten.",
+          "fr": "Essaie de regarder le problème objectivement.",
+          "it": "Cerca di guardare il problema oggettivamente.",
+          "es": "Intenta mirar el problema objetivamente."
+        },
+        {
+          "en": "[Objectively], it was not a good game.",
+          "tr": "Nesnel olarak bakınca iyi bir maç değildi.",
+          "de": "Objektiv betrachtet war es kein gutes Spiel.",
+          "fr": "Objectivement, ce n'était pas un bon match.",
+          "it": "Oggettivamente, non è stata una bella partita.",
+          "es": "Objetivamente, no fue un buen partido."
+        }
+      ]
+    },
+    {
+      "id": "objectivity",
+      "pos": "noun",
+      "parent": "objective",
+      "parts": [
+        "ob-",
+        "ject",
+        "-iv",
+        "-ity"
+      ],
+      "gloss": {
+        "en": "the quality of judging fairly, without personal feelings",
+        "tr": "nesnellik, tarafsızlık",
+        "de": "die Objektivität",
+        "fr": "l'objectivité",
+        "it": "l'oggettività",
+        "es": "la objetividad"
+      },
+      "sentences": [
+        {
+          "en": "Journalists should aim for [objectivity].",
+          "tr": "Gazeteciler nesnelliği hedeflemelidir.",
+          "de": "Journalisten sollten nach Objektivität streben.",
+          "fr": "Les journalistes doivent viser l'objectivité.",
+          "it": "I giornalisti dovrebbero puntare all'oggettività.",
+          "es": "Los periodistas deben aspirar a la objetividad."
+        },
+        {
+          "en": "The report lacks [objectivity].",
+          "tr": "Raporda tarafsızlık eksik.",
+          "de": "Dem Bericht fehlt es an Objektivität.",
+          "fr": "Le rapport manque d'objectivité.",
+          "it": "Il rapporto manca di oggettività.",
+          "es": "Al informe le falta objetividad."
         }
       ]
     },
@@ -509,6 +620,42 @@
           "fr": "Le pilote s'est éjecté juste avant le crash.",
           "it": "Il pilota si è eiettato poco prima dello schianto.",
           "es": "El piloto se eyectó justo antes del accidente."
+        }
+      ]
+    },
+    {
+      "id": "ejection",
+      "pos": "noun",
+      "parent": "eject",
+      "parts": [
+        "e-",
+        "ject",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "the act of throwing or forcing something or someone out",
+        "tr": "dışarı atma, çıkarma, ihraç",
+        "de": "der Auswurf, der Rauswurf",
+        "fr": "l'éjection, l'expulsion",
+        "it": "l'espulsione, l'eiezione",
+        "es": "la expulsión, la eyección"
+      },
+      "sentences": [
+        {
+          "en": "The player's [ejection] came after a bad foul.",
+          "tr": "Oyuncu kötü bir faulün ardından oyundan atıldı.",
+          "de": "Der Spieler wurde nach einem bösen Foul des Feldes verwiesen.",
+          "fr": "L'expulsion du joueur a suivi une vilaine faute.",
+          "it": "L'espulsione del giocatore è arrivata dopo un brutto fallo.",
+          "es": "La expulsión del jugador llegó tras una falta grave."
+        },
+        {
+          "en": "The pilot survived thanks to a safe [ejection].",
+          "tr": "Pilot güvenli bir fırlatılma sayesinde hayatta kaldı.",
+          "de": "Der Pilot überlebte dank eines sicheren Ausstiegs mit dem Schleudersitz.",
+          "fr": "Le pilote a survécu grâce à une éjection réussie.",
+          "it": "Il pilota è sopravvissuto grazie a un'eiezione sicura.",
+          "es": "El piloto sobrevivió gracias a una eyección segura."
         }
       ]
     },
@@ -724,6 +871,41 @@
           "fr": "Utilise moins d'adjectifs et des verbes plus forts.",
           "it": "Usa meno aggettivi e verbi più forti.",
           "es": "Usa menos adjetivos y verbos más fuertes."
+        }
+      ]
+    },
+    {
+      "id": "abject",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "ab-",
+        "ject"
+      ],
+      "gloss": {
+        "en": "extremely bad, without hope or pride (literally: thrown away)",
+        "tr": "sefil, perişan, rezil",
+        "de": "bitter, erbärmlich",
+        "fr": "abject, misérable",
+        "it": "abietto, estremo",
+        "es": "abyecto, absoluto, miserable"
+      },
+      "sentences": [
+        {
+          "en": "Millions still live in [abject] poverty.",
+          "tr": "Milyonlarca insan hâlâ sefil bir yoksulluk içinde yaşıyor.",
+          "de": "Millionen leben immer noch in bitterer Armut.",
+          "fr": "Des millions de gens vivent encore dans une misère absolue.",
+          "it": "Milioni di persone vivono ancora in una povertà estrema.",
+          "es": "Millones de personas aún viven en la pobreza más absoluta."
+        },
+        {
+          "en": "The project was an [abject] failure.",
+          "tr": "Proje rezil bir başarısızlıktı.",
+          "de": "Das Projekt war ein erbärmlicher Fehlschlag.",
+          "fr": "Le projet a été un échec lamentable.",
+          "it": "Il progetto è stato un fallimento totale.",
+          "es": "El proyecto fue un fracaso absoluto."
         }
       ]
     }

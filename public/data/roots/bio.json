@@ -120,6 +120,114 @@
       ]
     },
     {
+      "id": "biologically",
+      "pos": "adverb",
+      "parent": "biological",
+      "parts": [
+        "bio",
+        "-logical",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "in a way that relates to living bodies and biology",
+        "tr": "biyolojik olarak",
+        "de": "biologisch",
+        "fr": "biologiquement",
+        "it": "biologicamente",
+        "es": "biológicamente"
+      },
+      "sentences": [
+        {
+          "en": "They are not [biologically] related, but they look alike.",
+          "tr": "Biyolojik olarak akraba değiller ama birbirlerine benziyorlar.",
+          "de": "Sie sind nicht biologisch verwandt, sehen sich aber ähnlich.",
+          "fr": "Ils n'ont aucun lien biologique, mais ils se ressemblent.",
+          "it": "Non sono biologicamente parenti, ma si somigliano.",
+          "es": "No son parientes biológicamente, pero se parecen."
+        },
+        {
+          "en": "Plastic bags do not break down [biologically].",
+          "tr": "Plastik poşetler biyolojik olarak çözünmez.",
+          "de": "Plastiktüten bauen sich biologisch nicht ab.",
+          "fr": "Les sacs en plastique ne se décomposent pas biologiquement.",
+          "it": "I sacchetti di plastica non si decompongono biologicamente.",
+          "es": "Las bolsas de plástico no se descomponen biológicamente."
+        }
+      ]
+    },
+    {
+      "id": "microbiology",
+      "pos": "noun",
+      "parent": "biology",
+      "parts": [
+        "micro-",
+        "bio",
+        "-logy"
+      ],
+      "gloss": {
+        "en": "the study of very small living things, like bacteria",
+        "tr": "mikrobiyoloji",
+        "de": "die Mikrobiologie",
+        "fr": "la microbiologie",
+        "it": "la microbiologia",
+        "es": "la microbiología"
+      },
+      "sentences": [
+        {
+          "en": "She studies [microbiology] at the university.",
+          "tr": "Üniversitede mikrobiyoloji okuyor.",
+          "de": "Sie studiert Mikrobiologie an der Universität.",
+          "fr": "Elle étudie la microbiologie à l'université.",
+          "it": "Studia microbiologia all'università.",
+          "es": "Estudia microbiología en la universidad."
+        },
+        {
+          "en": "The [microbiology] lab tests water for bacteria.",
+          "tr": "Mikrobiyoloji laboratuvarı suda bakteri olup olmadığını test eder.",
+          "de": "Das Mikrobiologie-Labor prüft Wasser auf Bakterien.",
+          "fr": "Le laboratoire de microbiologie analyse l'eau pour trouver des bactéries.",
+          "it": "Il laboratorio di microbiologia analizza l'acqua alla ricerca di batteri.",
+          "es": "El laboratorio de microbiología analiza el agua en busca de bacterias."
+        }
+      ]
+    },
+    {
+      "id": "microbiologist",
+      "pos": "noun",
+      "parent": "microbiology",
+      "parts": [
+        "micro-",
+        "bio",
+        "-logist"
+      ],
+      "gloss": {
+        "en": "a scientist who studies very small living things",
+        "tr": "mikrobiyolog",
+        "de": "der Mikrobiologe, die Mikrobiologin",
+        "fr": "le/la microbiologiste",
+        "it": "il/la microbiologo/a",
+        "es": "el/la microbiólogo/a"
+      },
+      "sentences": [
+        {
+          "en": "The [microbiologist] looked at the sample under a microscope.",
+          "tr": "Mikrobiyolog örneğe mikroskopla baktı.",
+          "de": "Die Mikrobiologin betrachtete die Probe unter dem Mikroskop.",
+          "fr": "Le microbiologiste a observé l'échantillon au microscope.",
+          "it": "La microbiologa ha osservato il campione al microscopio.",
+          "es": "La microbióloga observó la muestra al microscopio."
+        },
+        {
+          "en": "Two [microbiologists] found the source of the illness.",
+          "tr": "İki mikrobiyolog hastalığın kaynağını buldu.",
+          "de": "Zwei Mikrobiologen fanden die Quelle der Krankheit.",
+          "fr": "Deux microbiologistes ont trouvé l'origine de la maladie.",
+          "it": "Due microbiologi hanno trovato l'origine della malattia.",
+          "es": "Dos microbiólogos encontraron el origen de la enfermedad."
+        }
+      ]
+    },
+    {
       "id": "biography",
       "pos": "noun",
       "parent": null,
@@ -187,6 +295,114 @@
           "fr": "Une autobiographie s'écrit à la première personne.",
           "it": "Un'autobiografia è scritta in prima persona.",
           "es": "Una autobiografía se escribe en primera persona."
+        }
+      ]
+    },
+    {
+      "id": "autobiographical",
+      "pos": "adjective",
+      "parent": "autobiography",
+      "parts": [
+        "auto-",
+        "bio",
+        "-graphic",
+        "-al"
+      ],
+      "gloss": {
+        "en": "about the writer's own life",
+        "tr": "otobiyografik",
+        "de": "autobiografisch",
+        "fr": "autobiographique",
+        "it": "autobiografico",
+        "es": "autobiográfico"
+      },
+      "sentences": [
+        {
+          "en": "Her first novel is partly [autobiographical].",
+          "tr": "İlk romanı kısmen otobiyografik.",
+          "de": "Ihr erster Roman ist teilweise autobiografisch.",
+          "fr": "Son premier roman est en partie autobiographique.",
+          "it": "Il suo primo romanzo è in parte autobiografico.",
+          "es": "Su primera novela es en parte autobiográfica."
+        },
+        {
+          "en": "The song tells an [autobiographical] story about his childhood.",
+          "tr": "Şarkı, çocukluğuyla ilgili otobiyografik bir hikâye anlatıyor.",
+          "de": "Das Lied erzählt eine autobiografische Geschichte über seine Kindheit.",
+          "fr": "La chanson raconte une histoire autobiographique sur son enfance.",
+          "it": "La canzone racconta una storia autobiografica sulla sua infanzia.",
+          "es": "La canción cuenta una historia autobiográfica sobre su infancia."
+        }
+      ]
+    },
+    {
+      "id": "biographer",
+      "pos": "noun",
+      "parent": "biography",
+      "parts": [
+        "bio",
+        "-grapher"
+      ],
+      "gloss": {
+        "en": "a person who writes the story of someone's life",
+        "tr": "biyografi yazarı",
+        "de": "der Biograf, die Biografin",
+        "fr": "le/la biographe",
+        "it": "il/la biografo/a",
+        "es": "el/la biógrafo/a"
+      },
+      "sentences": [
+        {
+          "en": "The [biographer] read thousands of the singer's letters.",
+          "tr": "Biyografi yazarı şarkıcının binlerce mektubunu okudu.",
+          "de": "Der Biograf las Tausende Briefe der Sängerin.",
+          "fr": "Le biographe a lu des milliers de lettres de la chanteuse.",
+          "it": "Il biografo ha letto migliaia di lettere della cantante.",
+          "es": "El biógrafo leyó miles de cartas de la cantante."
+        },
+        {
+          "en": "Her [biographer] spent ten years on the book.",
+          "tr": "Biyografi yazarı kitaba on yıl harcadı.",
+          "de": "Ihre Biografin arbeitete zehn Jahre an dem Buch.",
+          "fr": "Sa biographe a consacré dix ans au livre.",
+          "it": "La sua biografa ha dedicato dieci anni al libro.",
+          "es": "Su biógrafa dedicó diez años al libro."
+        }
+      ]
+    },
+    {
+      "id": "biographical",
+      "pos": "adjective",
+      "parent": "biography",
+      "parts": [
+        "bio",
+        "-graphic",
+        "-al"
+      ],
+      "gloss": {
+        "en": "about the facts of someone's life",
+        "tr": "biyografik, hayatıyla ilgili",
+        "de": "biografisch",
+        "fr": "biographique",
+        "it": "biografico",
+        "es": "biográfico"
+      },
+      "sentences": [
+        {
+          "en": "The film is a [biographical] drama about a famous boxer.",
+          "tr": "Film, ünlü bir boksörün hayatını anlatan bir dram.",
+          "de": "Der Film ist ein biografisches Drama über einen berühmten Boxer.",
+          "fr": "Le film est un drame biographique sur un boxeur célèbre.",
+          "it": "Il film è un dramma biografico su un pugile famoso.",
+          "es": "La película es un drama biográfico sobre un boxeador famoso."
+        },
+        {
+          "en": "Add a short [biographical] note under your photo.",
+          "tr": "Fotoğrafının altına kısa bir biyografik not ekle.",
+          "de": "Füge unter deinem Foto eine kurze biografische Notiz hinzu.",
+          "fr": "Ajoute une courte note biographique sous ta photo.",
+          "it": "Aggiungi una breve nota biografica sotto la tua foto.",
+          "es": "Añade una breve nota biográfica debajo de tu foto."
         }
       ]
     },
@@ -330,6 +546,42 @@
           "fr": "Le petit poisson et le requin vivent une sorte de symbiose.",
           "it": "Il pesciolino e lo squalo hanno una specie di simbiosi.",
           "es": "El pez pequeño y el tiburón tienen una especie de simbiosis."
+        }
+      ]
+    },
+    {
+      "id": "symbiotic",
+      "pos": "adjective",
+      "parent": "symbiosis",
+      "parts": [
+        "sym-",
+        "bio",
+        "-tic"
+      ],
+      "gloss": {
+        "en": "living or working together so that both sides gain",
+        "tr": "ortak yaşamlı, simbiyotik; karşılıklı yarar sağlayan",
+        "de": "symbiotisch",
+        "fr": "symbiotique",
+        "it": "simbiotico",
+        "es": "simbiótico"
+      },
+      "sentences": [
+        {
+          "en": "Bees and flowers have a [symbiotic] relationship.",
+          "tr": "Arılar ve çiçekler arasında karşılıklı yarara dayanan bir ilişki vardır.",
+          "de": "Bienen und Blumen leben in einer symbiotischen Beziehung.",
+          "fr": "Les abeilles et les fleurs ont une relation symbiotique.",
+          "it": "Api e fiori hanno un rapporto simbiotico.",
+          "es": "Las abejas y las flores tienen una relación simbiótica."
+        },
+        {
+          "en": "The shop and the café next door are almost [symbiotic].",
+          "tr": "Dükkânla yandaki kafe neredeyse birbirini besliyor.",
+          "de": "Der Laden und das Café nebenan sind fast symbiotisch.",
+          "fr": "La boutique et le café d'à côté sont presque symbiotiques.",
+          "it": "Il negozio e il bar accanto sono quasi simbiotici.",
+          "es": "La tienda y el café de al lado son casi simbióticos."
         }
       ]
     },

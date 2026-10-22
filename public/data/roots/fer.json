@@ -50,6 +50,42 @@
       ]
     },
     {
+      "id": "transferable",
+      "pos": "adjective",
+      "parent": "transfer",
+      "parts": [
+        "trans-",
+        "fer",
+        "-able"
+      ],
+      "gloss": {
+        "en": "able to be moved or used in another place or situation",
+        "tr": "devredilebilir, aktarılabilir",
+        "de": "übertragbar",
+        "fr": "transférable, transmissible",
+        "it": "trasferibile",
+        "es": "transferible"
+      },
+      "sentences": [
+        {
+          "en": "This ticket is not [transferable].",
+          "tr": "Bu bilet başkasına devredilemez.",
+          "de": "Dieses Ticket ist nicht übertragbar.",
+          "fr": "Ce billet n'est pas transmissible.",
+          "it": "Questo biglietto non è trasferibile.",
+          "es": "Esta entrada no es transferible."
+        },
+        {
+          "en": "Teamwork is a [transferable] skill in any job.",
+          "tr": "Takım çalışması her işte işe yarayan bir beceridir.",
+          "de": "Teamarbeit ist eine übertragbare Fähigkeit in jedem Beruf.",
+          "fr": "Le travail d'équipe est une compétence transférable dans tout métier.",
+          "it": "Il lavoro di squadra è una competenza trasferibile in ogni lavoro.",
+          "es": "El trabajo en equipo es una habilidad transferible a cualquier empleo."
+        }
+      ]
+    },
+    {
       "id": "refer",
       "pos": "verb",
       "parent": null,
@@ -264,6 +300,43 @@
       ]
     },
     {
+      "id": "preferential",
+      "pos": "adjective",
+      "parent": "preference",
+      "parts": [
+        "pre-",
+        "fer",
+        "-ent",
+        "-ial"
+      ],
+      "gloss": {
+        "en": "giving an advantage to one person or group over others",
+        "tr": "ayrıcalıklı, kayırıcı",
+        "de": "bevorzugt, Vorzugs-",
+        "fr": "préférentiel",
+        "it": "preferenziale",
+        "es": "preferente, preferencial"
+      },
+      "sentences": [
+        {
+          "en": "Members get [preferential] prices at the shop.",
+          "tr": "Üyeler mağazada ayrıcalıklı fiyatlardan yararlanır.",
+          "de": "Mitglieder bekommen im Laden Vorzugspreise.",
+          "fr": "Les membres ont des prix préférentiels au magasin.",
+          "it": "I soci hanno prezzi preferenziali nel negozio.",
+          "es": "Los socios tienen precios preferentes en la tienda."
+        },
+        {
+          "en": "Nobody should get [preferential] treatment because of their name.",
+          "tr": "Kimseye adı yüzünden ayrıcalıklı davranılmamalı.",
+          "de": "Niemand sollte wegen seines Namens bevorzugt behandelt werden.",
+          "fr": "Personne ne devrait bénéficier d'un traitement de faveur à cause de son nom.",
+          "it": "Nessuno dovrebbe ricevere un trattamento preferenziale per il suo nome.",
+          "es": "Nadie debería recibir un trato preferente por su apellido."
+        }
+      ]
+    },
+    {
       "id": "preferable",
       "pos": "adjective",
       "parent": "prefer",
@@ -331,6 +404,42 @@
           "fr": "Ils lui ont proposé le poste.",
           "it": "Gli hanno offerto il lavoro.",
           "es": "Le ofrecieron el trabajo."
+        }
+      ]
+    },
+    {
+      "id": "offering",
+      "pos": "noun",
+      "parent": "offer",
+      "parts": [
+        "of-",
+        "fer",
+        "-ing"
+      ],
+      "gloss": {
+        "en": "something that is offered, given or for sale",
+        "tr": "sunu, teklif, adak",
+        "de": "das Angebot, die Gabe",
+        "fr": "l'offrande, l'offre",
+        "it": "l'offerta",
+        "es": "la ofrenda, la oferta"
+      },
+      "sentences": [
+        {
+          "en": "The band's latest [offering] is a calm, slow album.",
+          "tr": "Grubun son eseri sakin, yavaş bir albüm.",
+          "de": "Das neueste Werk der Band ist ein ruhiges, langsames Album.",
+          "fr": "La dernière production du groupe est un album calme et lent.",
+          "it": "L'ultima proposta della band è un album calmo e lento.",
+          "es": "La última propuesta del grupo es un disco tranquilo y lento."
+        },
+        {
+          "en": "People left flowers as an [offering] at the temple.",
+          "tr": "İnsanlar tapınağa adak olarak çiçek bıraktı.",
+          "de": "Die Menschen legten Blumen als Gabe im Tempel nieder.",
+          "fr": "Les gens ont laissé des fleurs en offrande au temple.",
+          "it": "La gente ha lasciato fiori come offerta al tempio.",
+          "es": "La gente dejó flores como ofrenda en el templo."
         }
       ]
     },
@@ -475,6 +584,80 @@
           "fr": "Comment peux-tu rester indifférent à tant de souffrance ?",
           "it": "Come puoi restare indifferente a tanto dolore?",
           "es": "¿Cómo puedes ser indiferente a tanto dolor?"
+        }
+      ]
+    },
+    {
+      "id": "indifference",
+      "pos": "noun",
+      "parent": "indifferent",
+      "parts": [
+        "in-not-",
+        "dif-",
+        "fer",
+        "-ence"
+      ],
+      "gloss": {
+        "en": "a lack of interest or care",
+        "tr": "kayıtsızlık, ilgisizlik",
+        "de": "die Gleichgültigkeit",
+        "fr": "l'indifférence",
+        "it": "l'indifferenza",
+        "es": "la indiferencia"
+      },
+      "sentences": [
+        {
+          "en": "The public reacted with [indifference] to the news.",
+          "tr": "Halk habere kayıtsızlıkla tepki verdi.",
+          "de": "Die Öffentlichkeit reagierte mit Gleichgültigkeit auf die Nachricht.",
+          "fr": "Le public a accueilli la nouvelle avec indifférence.",
+          "it": "Il pubblico ha accolto la notizia con indifferenza.",
+          "es": "El público recibió la noticia con indiferencia."
+        },
+        {
+          "en": "His [indifference] to the rules annoyed his teammates.",
+          "tr": "Kurallara karşı ilgisizliği takım arkadaşlarını kızdırdı.",
+          "de": "Seine Gleichgültigkeit gegenüber den Regeln ärgerte seine Mitspieler.",
+          "fr": "Son indifférence aux règles agaçait ses coéquipiers.",
+          "it": "La sua indifferenza verso le regole irritava i compagni.",
+          "es": "Su indiferencia hacia las normas molestaba a sus compañeros."
+        }
+      ]
+    },
+    {
+      "id": "differently",
+      "pos": "adverb",
+      "parent": "different",
+      "parts": [
+        "dif-",
+        "fer",
+        "-ent",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "in another way",
+        "tr": "farklı biçimde",
+        "de": "anders",
+        "fr": "différemment",
+        "it": "diversamente",
+        "es": "de otra manera"
+      },
+      "sentences": [
+        {
+          "en": "Twins can think very [differently].",
+          "tr": "İkizler çok farklı düşünebilir.",
+          "de": "Zwillinge können sehr unterschiedlich denken.",
+          "fr": "Les jumeaux peuvent penser très différemment.",
+          "it": "I gemelli possono pensare in modo molto diverso.",
+          "es": "Los gemelos pueden pensar de forma muy diferente."
+        },
+        {
+          "en": "Next time, I will do it [differently].",
+          "tr": "Bir dahaki sefere farklı yapacağım.",
+          "de": "Nächstes Mal mache ich es anders.",
+          "fr": "La prochaine fois, je le ferai différemment.",
+          "it": "La prossima volta lo farò diversamente.",
+          "es": "La próxima vez lo haré de otra manera."
         }
       ]
     },
@@ -656,6 +839,42 @@
       ]
     },
     {
+      "id": "suffering",
+      "pos": "noun",
+      "parent": "suffer",
+      "parts": [
+        "suf-",
+        "fer",
+        "-ing"
+      ],
+      "gloss": {
+        "en": "physical or mental pain",
+        "tr": "acı, ızdırap",
+        "de": "das Leid, das Leiden",
+        "fr": "la souffrance",
+        "it": "la sofferenza",
+        "es": "el sufrimiento"
+      },
+      "sentences": [
+        {
+          "en": "The war caused great [suffering].",
+          "tr": "Savaş büyük acılara yol açtı.",
+          "de": "Der Krieg verursachte großes Leid.",
+          "fr": "La guerre a causé de grandes souffrances.",
+          "it": "La guerra ha causato grandi sofferenze.",
+          "es": "La guerra causó un gran sufrimiento."
+        },
+        {
+          "en": "The new medicine reduced her [suffering].",
+          "tr": "Yeni ilaç onun acısını azalttı.",
+          "de": "Das neue Medikament linderte ihr Leiden.",
+          "fr": "Le nouveau médicament a réduit sa souffrance.",
+          "it": "Il nuovo farmaco ha ridotto la sua sofferenza.",
+          "es": "El nuevo medicamento redujo su sufrimiento."
+        }
+      ]
+    },
+    {
       "id": "defer",
       "pos": "verb",
       "parent": null,
@@ -687,6 +906,42 @@
           "fr": "Elle a reporté ses études d'un an pour voyager.",
           "it": "Ha rimandato gli studi di un anno per viaggiare.",
           "es": "Aplazó sus estudios un año para viajar."
+        }
+      ]
+    },
+    {
+      "id": "deference",
+      "pos": "noun",
+      "parent": "defer",
+      "parts": [
+        "de-",
+        "fer",
+        "-ence"
+      ],
+      "gloss": {
+        "en": "polite respect for someone's opinion or position",
+        "tr": "saygı, hürmet",
+        "de": "die Ehrerbietung, der Respekt",
+        "fr": "la déférence",
+        "it": "la deferenza",
+        "es": "la deferencia"
+      },
+      "sentences": [
+        {
+          "en": "They stood up in [deference] to the old judge.",
+          "tr": "Yaşlı hâkime saygıdan ayağa kalktılar.",
+          "de": "Aus Respekt vor dem alten Richter standen sie auf.",
+          "fr": "Ils se sont levés par déférence pour le vieux juge.",
+          "it": "Si sono alzati in segno di deferenza verso il vecchio giudice.",
+          "es": "Se pusieron de pie por deferencia al viejo juez."
+        },
+        {
+          "en": "In [deference] to her wishes, the funeral was small.",
+          "tr": "Onun isteğine saygıdan cenaze küçük tutuldu.",
+          "de": "Ihrem Wunsch entsprechend war die Beerdigung klein.",
+          "fr": "Par respect pour ses souhaits, les funérailles ont été discrètes.",
+          "it": "Per rispetto dei suoi desideri, il funerale è stato sobrio.",
+          "es": "Por respeto a sus deseos, el funeral fue sencillo."
         }
       ]
     },
