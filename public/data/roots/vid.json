@@ -126,6 +126,43 @@
       ]
     },
     {
+      "id": "evidently",
+      "pos": "adverb",
+      "parent": "evident",
+      "parts": [
+        "e-",
+        "vid",
+        "-ent",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "clearly; it seems that",
+        "tr": "açıkça, belli ki",
+        "de": "offensichtlich",
+        "fr": "manifestement, de toute évidence",
+        "it": "evidentemente",
+        "es": "evidentemente, por lo visto"
+      },
+      "sentences": [
+        {
+          "en": "She was [evidently] tired after the long flight.",
+          "tr": "Uzun uçuştan sonra belli ki yorgundu.",
+          "de": "Sie war nach dem langen Flug offensichtlich müde.",
+          "fr": "Elle était manifestement fatiguée après le long vol.",
+          "it": "Era evidentemente stanca dopo il lungo volo.",
+          "es": "Estaba evidentemente cansada tras el largo vuelo."
+        },
+        {
+          "en": "[Evidently], nobody had cleaned the kitchen for weeks.",
+          "tr": "Belli ki haftalardır kimse mutfağı temizlememişti.",
+          "de": "Offensichtlich hatte seit Wochen niemand die Küche geputzt.",
+          "fr": "De toute évidence, personne n'avait nettoyé la cuisine depuis des semaines.",
+          "it": "Evidentemente nessuno puliva la cucina da settimane.",
+          "es": "Por lo visto, nadie había limpiado la cocina en semanas."
+        }
+      ]
+    },
+    {
       "id": "provide",
       "pos": "verb",
       "parent": null,
@@ -233,6 +270,43 @@
       ]
     },
     {
+      "id": "provisional",
+      "pos": "adjective",
+      "parent": "provision",
+      "parts": [
+        "pro-",
+        "vis",
+        "-ion",
+        "-al"
+      ],
+      "gloss": {
+        "en": "for now, and likely to change later",
+        "tr": "geçici",
+        "de": "vorläufig",
+        "fr": "provisoire",
+        "it": "provvisorio",
+        "es": "provisional"
+      },
+      "sentences": [
+        {
+          "en": "These are only [provisional] results.",
+          "tr": "Bunlar yalnızca geçici sonuçlar.",
+          "de": "Das sind nur vorläufige Ergebnisse.",
+          "fr": "Ce ne sont que des résultats provisoires.",
+          "it": "Questi sono solo risultati provvisori.",
+          "es": "Estos son solo resultados provisionales."
+        },
+        {
+          "en": "He has a [provisional] driving licence.",
+          "tr": "Geçici bir sürücü belgesi var.",
+          "de": "Er hat einen vorläufigen Führerschein.",
+          "fr": "Il a un permis de conduire provisoire.",
+          "it": "Ha una patente di guida provvisoria.",
+          "es": "Tiene un permiso de conducir provisional."
+        }
+      ]
+    },
+    {
       "id": "vision",
       "pos": "noun",
       "parent": null,
@@ -300,6 +374,42 @@
           "fr": "Son projet visionnaire semblait fou au début.",
           "it": "Il suo piano visionario all'inizio sembrava folle.",
           "es": "Su plan visionario parecía una locura al principio."
+        }
+      ]
+    },
+    {
+      "id": "envision",
+      "pos": "verb",
+      "parent": "vision",
+      "parts": [
+        "en-",
+        "vis",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "to imagine something as it could be in the future",
+        "tr": "hayal etmek, gözünün önüne getirmek",
+        "de": "sich vorstellen",
+        "fr": "imaginer, envisager",
+        "it": "immaginare, prefigurare",
+        "es": "imaginar, prever"
+      },
+      "sentences": [
+        {
+          "en": "I [envision] a city with more trees and fewer cars.",
+          "tr": "Daha çok ağacı ve daha az arabası olan bir şehir hayal ediyorum.",
+          "de": "Ich stelle mir eine Stadt mit mehr Bäumen und weniger Autos vor.",
+          "fr": "J'imagine une ville avec plus d'arbres et moins de voitures.",
+          "it": "Immagino una città con più alberi e meno auto.",
+          "es": "Imagino una ciudad con más árboles y menos coches."
+        },
+        {
+          "en": "She never [envisioned] herself as a teacher.",
+          "tr": "Kendini hiç öğretmen olarak hayal etmemişti.",
+          "de": "Sie hatte sich nie als Lehrerin vorgestellt.",
+          "fr": "Elle ne s'était jamais imaginée professeure.",
+          "it": "Non si era mai immaginata come insegnante.",
+          "es": "Nunca se había imaginado como profesora."
         }
       ]
     },
@@ -375,6 +485,76 @@
       ]
     },
     {
+      "id": "visibility",
+      "pos": "noun",
+      "parent": "visible",
+      "parts": [
+        "vis",
+        "-ibility"
+      ],
+      "gloss": {
+        "en": "how far or how clearly you can see; how much something is noticed",
+        "tr": "görüş mesafesi; görünürlük",
+        "de": "die Sicht, die Sichtweite; die Sichtbarkeit",
+        "fr": "la visibilité",
+        "it": "la visibilità",
+        "es": "la visibilidad"
+      },
+      "sentences": [
+        {
+          "en": "Fog reduced [visibility] on the motorway.",
+          "tr": "Sis otoyolda görüş mesafesini azalttı.",
+          "de": "Nebel verringerte die Sicht auf der Autobahn.",
+          "fr": "Le brouillard a réduit la visibilité sur l'autoroute.",
+          "it": "La nebbia ha ridotto la visibilità in autostrada.",
+          "es": "La niebla redujo la visibilidad en la autopista."
+        },
+        {
+          "en": "The campaign gave the charity more [visibility].",
+          "tr": "Kampanya yardım kuruluşunu daha görünür kıldı.",
+          "de": "Die Kampagne verschaffte der Organisation mehr Sichtbarkeit.",
+          "fr": "La campagne a donné plus de visibilité à l'association.",
+          "it": "La campagna ha dato più visibilità all'associazione.",
+          "es": "La campaña dio más visibilidad a la organización."
+        }
+      ]
+    },
+    {
+      "id": "visibly",
+      "pos": "adverb",
+      "parent": "visible",
+      "parts": [
+        "vis",
+        "-ibly"
+      ],
+      "gloss": {
+        "en": "in a way that can be clearly seen",
+        "tr": "gözle görülür biçimde",
+        "de": "sichtlich",
+        "fr": "visiblement",
+        "it": "visibilmente",
+        "es": "visiblemente"
+      },
+      "sentences": [
+        {
+          "en": "He was [visibly] nervous before the interview.",
+          "tr": "Görüşmeden önce gözle görülür biçimde gergindi.",
+          "de": "Er war vor dem Gespräch sichtlich nervös.",
+          "fr": "Il était visiblement nerveux avant l'entretien.",
+          "it": "Era visibilmente nervoso prima del colloquio.",
+          "es": "Estaba visiblemente nervioso antes de la entrevista."
+        },
+        {
+          "en": "The old dog has [visibly] slowed down.",
+          "tr": "Yaşlı köpek gözle görülür biçimde yavaşladı.",
+          "de": "Der alte Hund ist sichtlich langsamer geworden.",
+          "fr": "Le vieux chien a visiblement ralenti.",
+          "it": "Il vecchio cane è visibilmente rallentato.",
+          "es": "El perro viejo se ha vuelto visiblemente más lento."
+        }
+      ]
+    },
+    {
       "id": "visit",
       "pos": "verb",
       "parent": null,
@@ -442,6 +622,42 @@
           "fr": "Les visiteurs doivent s'inscrire à l'accueil.",
           "it": "I visitatori devono registrarsi alla reception.",
           "es": "Los visitantes deben registrarse en recepción."
+        }
+      ]
+    },
+    {
+      "id": "revisit",
+      "pos": "verb",
+      "parent": "visit",
+      "parts": [
+        "re-",
+        "vis",
+        "-it"
+      ],
+      "gloss": {
+        "en": "to go back to a place; to think about a subject again",
+        "tr": "yeniden ziyaret etmek; yeniden ele almak",
+        "de": "wieder besuchen; erneut aufgreifen",
+        "fr": "revisiter, retourner voir ; réexaminer",
+        "it": "rivisitare, tornare a; riesaminare",
+        "es": "volver a visitar; replantear"
+      },
+      "sentences": [
+        {
+          "en": "Years later, we [revisited] the town where we met.",
+          "tr": "Yıllar sonra tanıştığımız kasabayı yeniden ziyaret ettik.",
+          "de": "Jahre später besuchten wir wieder die Stadt, in der wir uns kennengelernt hatten.",
+          "fr": "Des années plus tard, nous sommes retournés dans la ville où nous nous étions rencontrés.",
+          "it": "Anni dopo siamo tornati nella città dove ci eravamo conosciuti.",
+          "es": "Años después volvimos a visitar el pueblo donde nos conocimos."
+        },
+        {
+          "en": "Let's [revisit] this question next week.",
+          "tr": "Bu soruyu gelecek hafta yeniden ele alalım.",
+          "de": "Lass uns diese Frage nächste Woche erneut aufgreifen.",
+          "fr": "Réexaminons cette question la semaine prochaine.",
+          "it": "Riprendiamo questa domanda la settimana prossima.",
+          "es": "Volvamos sobre esta cuestión la semana que viene."
         }
       ]
     },
@@ -659,6 +875,42 @@
       ]
     },
     {
+      "id": "supervision",
+      "pos": "noun",
+      "parent": "supervise",
+      "parts": [
+        "super-",
+        "vis",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "the act of watching over people or work to make sure all is correct and safe",
+        "tr": "gözetim, denetim",
+        "de": "die Aufsicht, die Betreuung",
+        "fr": "la surveillance, la supervision",
+        "it": "la sorveglianza, la supervisione",
+        "es": "la supervisión, la vigilancia"
+      },
+      "sentences": [
+        {
+          "en": "Young children should swim only under adult [supervision].",
+          "tr": "Küçük çocuklar yalnızca bir yetişkinin gözetiminde yüzmeli.",
+          "de": "Kleine Kinder sollten nur unter Aufsicht von Erwachsenen schwimmen.",
+          "fr": "Les jeunes enfants ne doivent nager que sous la surveillance d'un adulte.",
+          "it": "I bambini piccoli dovrebbero nuotare solo sotto la sorveglianza di un adulto.",
+          "es": "Los niños pequeños solo deben nadar bajo la supervisión de un adulto."
+        },
+        {
+          "en": "New doctors work under the [supervision] of senior staff.",
+          "tr": "Yeni doktorlar kıdemli personelin denetiminde çalışır.",
+          "de": "Neue Ärzte arbeiten unter der Aufsicht erfahrener Kollegen.",
+          "fr": "Les nouveaux médecins travaillent sous la supervision de collègues expérimentés.",
+          "it": "I nuovi medici lavorano sotto la supervisione dei colleghi esperti.",
+          "es": "Los médicos nuevos trabajan bajo la supervisión del personal veterano."
+        }
+      ]
+    },
+    {
       "id": "television",
       "pos": "noun",
       "parent": null,
@@ -766,6 +1018,42 @@
       ]
     },
     {
+      "id": "advisable",
+      "pos": "adjective",
+      "parent": "advise",
+      "parts": [
+        "ad-",
+        "vis",
+        "-able"
+      ],
+      "gloss": {
+        "en": "sensible and recommended",
+        "tr": "tavsiye edilir, akıllıca",
+        "de": "ratsam, empfehlenswert",
+        "fr": "conseillé, recommandé",
+        "it": "consigliabile",
+        "es": "aconsejable"
+      },
+      "sentences": [
+        {
+          "en": "It is [advisable] to book a table at the weekend.",
+          "tr": "Hafta sonu masa ayırtmak tavsiye edilir.",
+          "de": "Am Wochenende ist es ratsam, einen Tisch zu reservieren.",
+          "fr": "Le week-end, il est conseillé de réserver une table.",
+          "it": "Nel fine settimana è consigliabile prenotare un tavolo.",
+          "es": "El fin de semana es aconsejable reservar mesa."
+        },
+        {
+          "en": "Warm clothes are [advisable] in the mountains.",
+          "tr": "Dağlarda kalın giysiler tavsiye edilir.",
+          "de": "In den Bergen ist warme Kleidung empfehlenswert.",
+          "fr": "Des vêtements chauds sont recommandés en montagne.",
+          "it": "In montagna sono consigliabili vestiti caldi.",
+          "es": "En la montaña es aconsejable llevar ropa de abrigo."
+        }
+      ]
+    },
+    {
       "id": "improvise",
       "pos": "verb",
       "parent": null,
@@ -798,6 +1086,43 @@
           "fr": "Les musiciens de jazz improvisent souvent leurs solos.",
           "it": "I musicisti jazz improvvisano spesso gli assoli.",
           "es": "Los músicos de jazz suelen improvisar los solos."
+        }
+      ]
+    },
+    {
+      "id": "improvisation",
+      "pos": "noun",
+      "parent": "improvise",
+      "parts": [
+        "im-not-",
+        "pro-",
+        "vis",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "making or performing something without planning or preparing it",
+        "tr": "doğaçlama",
+        "de": "die Improvisation",
+        "fr": "l'improvisation",
+        "it": "l'improvvisazione",
+        "es": "la improvisación"
+      },
+      "sentences": [
+        {
+          "en": "Jazz musicians are famous for [improvisation].",
+          "tr": "Caz müzisyenleri doğaçlamalarıyla ünlüdür.",
+          "de": "Jazzmusiker sind für Improvisation berühmt.",
+          "fr": "Les musiciens de jazz sont célèbres pour l'improvisation.",
+          "it": "I musicisti jazz sono famosi per l'improvvisazione.",
+          "es": "Los músicos de jazz son famosos por la improvisación."
+        },
+        {
+          "en": "The actors' [improvisation] made the audience laugh.",
+          "tr": "Oyuncuların doğaçlaması seyircileri güldürdü.",
+          "de": "Die Improvisation der Schauspieler brachte das Publikum zum Lachen.",
+          "fr": "L'improvisation des acteurs a fait rire le public.",
+          "it": "L'improvvisazione degli attori ha fatto ridere il pubblico.",
+          "es": "La improvisación de los actores hizo reír al público."
         }
       ]
     },

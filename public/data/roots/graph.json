@@ -86,6 +86,43 @@
       ]
     },
     {
+      "id": "graphically",
+      "pos": "adverb",
+      "parent": "graphic",
+      "parts": [
+        "graph",
+        "-ic",
+        "-al",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "with drawings or charts; in a very clear and detailed way",
+        "tr": "grafikle, görsel olarak; çok açık ve ayrıntılı biçimde",
+        "de": "grafisch; anschaulich, drastisch",
+        "fr": "graphiquement ; de façon très crue",
+        "it": "graficamente; in modo crudo",
+        "es": "gráficamente; con todo detalle"
+      },
+      "sentences": [
+        {
+          "en": "The results are shown [graphically] on page five.",
+          "tr": "Sonuçlar beşinci sayfada grafikle gösteriliyor.",
+          "de": "Die Ergebnisse sind auf Seite fünf grafisch dargestellt.",
+          "fr": "Les résultats sont présentés graphiquement page cinq.",
+          "it": "I risultati sono mostrati graficamente a pagina cinque.",
+          "es": "Los resultados se muestran gráficamente en la página cinco."
+        },
+        {
+          "en": "The book [graphically] describes life in the war.",
+          "tr": "Kitap savaştaki hayatı çok ayrıntılı biçimde anlatıyor.",
+          "de": "Das Buch beschreibt das Leben im Krieg sehr drastisch.",
+          "fr": "Le livre décrit la vie pendant la guerre de façon très crue.",
+          "it": "Il libro descrive in modo crudo la vita in guerra.",
+          "es": "El libro describe con todo detalle la vida en la guerra."
+        }
+      ]
+    },
+    {
       "id": "photograph",
       "pos": "noun",
       "parent": null,
@@ -372,6 +409,43 @@
       ]
     },
     {
+      "id": "geographical",
+      "pos": "adjective",
+      "parent": "geography",
+      "parts": [
+        "geo-",
+        "graph",
+        "-ic",
+        "-al"
+      ],
+      "gloss": {
+        "en": "related to the land, places and position on the Earth",
+        "tr": "coğrafi",
+        "de": "geografisch",
+        "fr": "géographique",
+        "it": "geografico",
+        "es": "geográfico"
+      },
+      "sentences": [
+        {
+          "en": "The city has a great [geographical] position by the sea.",
+          "tr": "Şehrin deniz kenarında harika bir coğrafi konumu var.",
+          "de": "Die Stadt hat eine tolle geografische Lage am Meer.",
+          "fr": "La ville a une excellente situation géographique au bord de la mer.",
+          "it": "La città ha un'ottima posizione geografica sul mare.",
+          "es": "La ciudad tiene una gran posición geográfica junto al mar."
+        },
+        {
+          "en": "The map shows the [geographical] features of the region.",
+          "tr": "Harita bölgenin coğrafi özelliklerini gösteriyor.",
+          "de": "Die Karte zeigt die geografischen Merkmale der Region.",
+          "fr": "La carte montre les caractéristiques géographiques de la région.",
+          "it": "La mappa mostra le caratteristiche geografiche della regione.",
+          "es": "El mapa muestra las características geográficas de la región."
+        }
+      ]
+    },
+    {
       "id": "calligraphy",
       "pos": "noun",
       "parent": null,
@@ -440,6 +514,42 @@
           "fr": "Ils ont répété la chorégraphie pendant des semaines.",
           "it": "Hanno provato la coreografia per settimane.",
           "es": "Ensayaron la coreografía durante semanas."
+        }
+      ]
+    },
+    {
+      "id": "choreographer",
+      "pos": "noun",
+      "parent": "choreography",
+      "parts": [
+        "choreo-",
+        "graph",
+        "-er"
+      ],
+      "gloss": {
+        "en": "a person who creates the steps and movements of a dance",
+        "tr": "koreograf",
+        "de": "der Choreograf",
+        "fr": "le chorégraphe",
+        "it": "il coreografo",
+        "es": "el coreógrafo"
+      },
+      "sentences": [
+        {
+          "en": "The [choreographer] worked with the dancers for months.",
+          "tr": "Koreograf dansçılarla aylarca çalıştı.",
+          "de": "Der Choreograf arbeitete monatelang mit den Tänzern.",
+          "fr": "Le chorégraphe a travaillé des mois avec les danseurs.",
+          "it": "Il coreografo ha lavorato per mesi con i ballerini.",
+          "es": "El coreógrafo trabajó meses con los bailarines."
+        },
+        {
+          "en": "She wants to be a [choreographer] for music videos.",
+          "tr": "Müzik videoları için koreograf olmak istiyor.",
+          "de": "Sie möchte Choreografin für Musikvideos werden.",
+          "fr": "Elle veut devenir chorégraphe pour des clips musicaux.",
+          "it": "Vuole diventare coreografa per i video musicali.",
+          "es": "Quiere ser coreógrafa de videoclips."
         }
       ]
     },
@@ -585,6 +695,42 @@
       ]
     },
     {
+      "id": "programming",
+      "pos": "noun",
+      "parent": "program",
+      "parts": [
+        "pro-",
+        "gramm",
+        "-ing"
+      ],
+      "gloss": {
+        "en": "writing instructions for computers; the shows a TV or radio station plans",
+        "tr": "programlama; yayın akışı",
+        "de": "das Programmieren; das Programm (Sender)",
+        "fr": "la programmation",
+        "it": "la programmazione",
+        "es": "la programación"
+      },
+      "sentences": [
+        {
+          "en": "She learned [programming] at the age of twelve.",
+          "tr": "On iki yaşında programlama öğrendi.",
+          "de": "Sie hat mit zwölf Jahren Programmieren gelernt.",
+          "fr": "Elle a appris la programmation à douze ans.",
+          "it": "Ha imparato la programmazione a dodici anni.",
+          "es": "Aprendió programación a los doce años."
+        },
+        {
+          "en": "The channel's evening [programming] is mostly news.",
+          "tr": "Kanalın akşam yayın akışı çoğunlukla haberlerden oluşuyor.",
+          "de": "Das Abendprogramm des Senders besteht meist aus Nachrichten.",
+          "fr": "La programmation du soir de la chaîne, c'est surtout de l'info.",
+          "it": "La programmazione serale del canale è soprattutto di notizie.",
+          "es": "La programación nocturna del canal es sobre todo de noticias."
+        }
+      ]
+    },
+    {
       "id": "kilogram",
       "pos": "noun",
       "parent": null,
@@ -722,6 +868,111 @@
           "fr": "Vérifie ta grammaire avant d'envoyer l'e-mail.",
           "it": "Controlla la grammatica prima di inviare l'email.",
           "es": "Revisa la gramática antes de enviar el correo."
+        }
+      ]
+    },
+    {
+      "id": "anagram",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "ana-",
+        "gram"
+      ],
+      "gloss": {
+        "en": "a word made by changing the order of the letters of another word, as 'listen' and 'silent' (literally: writing back, rearranged letters)",
+        "tr": "anagram, harf oyunu",
+        "de": "das Anagramm",
+        "fr": "l'anagramme",
+        "it": "l'anagramma",
+        "es": "el anagrama"
+      },
+      "sentences": [
+        {
+          "en": "'Listen' is an [anagram] of 'silent'.",
+          "tr": "'Listen', 'silent' kelimesinin anagramıdır.",
+          "de": "„Listen“ ist ein Anagramm von „silent“.",
+          "fr": "« Listen » est l'anagramme de « silent ».",
+          "it": "«Listen» è l'anagramma di «silent».",
+          "es": "«Listen» es un anagrama de «silent»."
+        },
+        {
+          "en": "The puzzle asks you to solve ten [anagrams].",
+          "tr": "Bulmaca on anagramı çözmeni istiyor.",
+          "de": "Im Rätsel muss man zehn Anagramme lösen.",
+          "fr": "Le jeu demande de résoudre dix anagrammes.",
+          "it": "Il gioco chiede di risolvere dieci anagrammi.",
+          "es": "El pasatiempo pide resolver diez anagramas."
+        }
+      ]
+    },
+    {
+      "id": "milligram",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "milli-",
+        "gram"
+      ],
+      "gloss": {
+        "en": "one thousandth of a gram (from Greek gramma, a small weight)",
+        "tr": "miligram",
+        "de": "das Milligramm",
+        "fr": "le milligramme",
+        "it": "il milligrammo",
+        "es": "el miligramo"
+      },
+      "sentences": [
+        {
+          "en": "Take one tablet of 500 [milligrams] twice a day.",
+          "tr": "Günde iki kez 500 miligramlık bir tablet al.",
+          "de": "Nimm zweimal täglich eine Tablette mit 500 Milligramm.",
+          "fr": "Prends un comprimé de 500 milligrammes deux fois par jour.",
+          "it": "Prendi una compressa da 500 milligrammi due volte al giorno.",
+          "es": "Toma una pastilla de 500 miligramos dos veces al día."
+        },
+        {
+          "en": "A cup of coffee has about 90 [milligrams] of caffeine.",
+          "tr": "Bir fincan kahvede yaklaşık 90 miligram kafein var.",
+          "de": "Eine Tasse Kaffee enthält etwa 90 Milligramm Koffein.",
+          "fr": "Une tasse de café contient environ 90 milligrammes de caféine.",
+          "it": "Una tazza di caffè contiene circa 90 milligrammi di caffeina.",
+          "es": "Una taza de café tiene unos 90 miligramos de cafeína."
+        }
+      ]
+    },
+    {
+      "id": "telegraph",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "tele-",
+        "graph"
+      ],
+      "gloss": {
+        "en": "an old system for sending messages over long distances by electric signals (literally: far writing)",
+        "tr": "telgraf",
+        "de": "der Telegraf",
+        "fr": "le télégraphe",
+        "it": "il telegrafo",
+        "es": "el telégrafo"
+      },
+      "sentences": [
+        {
+          "en": "News of the victory came by [telegraph].",
+          "tr": "Zafer haberi telgrafla geldi.",
+          "de": "Die Nachricht vom Sieg kam per Telegraf.",
+          "fr": "La nouvelle de la victoire est arrivée par télégraphe.",
+          "it": "La notizia della vittoria arrivò per telegrafo.",
+          "es": "La noticia de la victoria llegó por telégrafo."
+        },
+        {
+          "en": "The [telegraph] changed communication in the 1800s.",
+          "tr": "Telgraf 1800'lerde iletişimi değiştirdi.",
+          "de": "Der Telegraf veränderte im 19. Jahrhundert die Kommunikation.",
+          "fr": "Le télégraphe a changé la communication au XIXe siècle.",
+          "it": "Il telegrafo cambiò la comunicazione nell'Ottocento.",
+          "es": "El telégrafo cambió la comunicación en el siglo XIX."
         }
       ]
     }

@@ -194,6 +194,42 @@
       ]
     },
     {
+      "id": "vocalize",
+      "pos": "verb",
+      "parent": "vocal",
+      "parts": [
+        "voc",
+        "-al",
+        "-ize"
+      ],
+      "gloss": {
+        "en": "to express something in words; to make sounds with the voice",
+        "tr": "dile getirmek; ses çıkarmak",
+        "de": "äußern, aussprechen; Laute von sich geben",
+        "fr": "exprimer ; vocaliser",
+        "it": "esprimere; vocalizzare",
+        "es": "expresar; vocalizar"
+      },
+      "sentences": [
+        {
+          "en": "Many people [vocalized] their anger at the meeting.",
+          "tr": "Toplantıda birçok kişi öfkesini dile getirdi.",
+          "de": "Viele äußerten auf der Versammlung ihren Ärger.",
+          "fr": "Beaucoup de gens ont exprimé leur colère à la réunion.",
+          "it": "Molti hanno espresso la loro rabbia alla riunione.",
+          "es": "Mucha gente expresó su enfado en la reunión."
+        },
+        {
+          "en": "Babies [vocalize] long before they can speak.",
+          "tr": "Bebekler konuşmayı öğrenmeden çok önce ses çıkarır.",
+          "de": "Babys geben Laute von sich, lange bevor sie sprechen können.",
+          "fr": "Les bébés vocalisent bien avant de savoir parler.",
+          "it": "I neonati vocalizzano molto prima di saper parlare.",
+          "es": "Los bebés vocalizan mucho antes de saber hablar."
+        }
+      ]
+    },
+    {
       "id": "vowel",
       "pos": "noun",
       "parent": null,

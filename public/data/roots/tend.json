@@ -627,6 +627,42 @@
       ]
     },
     {
+      "id": "intensely",
+      "pos": "adverb",
+      "parent": "intense",
+      "parts": [
+        "in-",
+        "tense",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "very strongly; with great concentration",
+        "tr": "yoğun biçimde, şiddetle; dikkatle",
+        "de": "intensiv; zutiefst",
+        "fr": "intensément",
+        "it": "intensamente",
+        "es": "intensamente"
+      },
+      "sentences": [
+        {
+          "en": "She looked at the painting [intensely].",
+          "tr": "Tabloya dikkatle baktı.",
+          "de": "Sie betrachtete das Gemälde intensiv.",
+          "fr": "Elle regardait le tableau intensément.",
+          "it": "Guardava il quadro intensamente.",
+          "es": "Miraba el cuadro intensamente."
+        },
+        {
+          "en": "He [intensely] dislikes loud music.",
+          "tr": "Yüksek sesli müzikten şiddetle nefret ediyor.",
+          "de": "Er hasst laute Musik zutiefst.",
+          "fr": "Il déteste profondément la musique forte.",
+          "it": "Detesta profondamente la musica ad alto volume.",
+          "es": "Detesta profundamente la música alta."
+        }
+      ]
+    },
+    {
       "id": "extend",
       "pos": "verb",
       "parent": null,
@@ -734,6 +770,43 @@
       ]
     },
     {
+      "id": "extensively",
+      "pos": "adverb",
+      "parent": "extensive",
+      "parts": [
+        "ex-",
+        "tens",
+        "-ive",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "over a large area; in great detail",
+        "tr": "geniş çapta, kapsamlı biçimde",
+        "de": "ausgiebig, umfassend",
+        "fr": "beaucoup, de façon approfondie",
+        "it": "ampiamente, a fondo",
+        "es": "extensamente, a fondo"
+      },
+      "sentences": [
+        {
+          "en": "She has travelled [extensively] in South America.",
+          "tr": "Güney Amerika'da çok kapsamlı seyahatler yaptı.",
+          "de": "Sie ist ausgiebig durch Südamerika gereist.",
+          "fr": "Elle a beaucoup voyagé en Amérique du Sud.",
+          "it": "Ha viaggiato ampiamente in Sud America.",
+          "es": "Ha viajado extensamente por Sudamérica."
+        },
+        {
+          "en": "The topic has been studied [extensively].",
+          "tr": "Konu kapsamlı biçimde incelendi.",
+          "de": "Das Thema wurde umfassend untersucht.",
+          "fr": "Le sujet a été étudié de façon approfondie.",
+          "it": "L'argomento è stato studiato a fondo.",
+          "es": "El tema se ha estudiado a fondo."
+        }
+      ]
+    },
+    {
       "id": "extent",
       "pos": "noun",
       "parent": "extend",
@@ -800,6 +873,77 @@
           "fr": "Faisons semblant d'être des pirates.",
           "it": "Facciamo finta di essere pirati.",
           "es": "Juguemos a que somos piratas."
+        }
+      ]
+    },
+    {
+      "id": "pretense",
+      "pos": "noun",
+      "parent": "pretend",
+      "parts": [
+        "pre-",
+        "tense"
+      ],
+      "gloss": {
+        "en": "an act of pretending; a false reason given",
+        "tr": "rol yapma, numara; bahane",
+        "de": "der Vorwand, die Verstellung",
+        "fr": "le faux-semblant, le prétexte",
+        "it": "la finzione, il pretesto",
+        "es": "el fingimiento, el pretexto"
+      },
+      "sentences": [
+        {
+          "en": "She made no [pretense] of liking the food.",
+          "tr": "Yemeği seviyormuş gibi yapmadı bile.",
+          "de": "Sie tat nicht einmal so, als ob ihr das Essen schmeckte.",
+          "fr": "Elle n'a même pas fait semblant d'aimer le plat.",
+          "it": "Non ha nemmeno finto che il cibo le piacesse.",
+          "es": "Ni siquiera fingió que le gustaba la comida."
+        },
+        {
+          "en": "He got into the building under false [pretenses].",
+          "tr": "Binaya sahte bir bahaneyle girdi.",
+          "de": "Er kam unter einem Vorwand ins Gebäude.",
+          "fr": "Il est entré dans le bâtiment sous un faux prétexte.",
+          "it": "È entrato nell'edificio con un pretesto.",
+          "es": "Entró en el edificio con un pretexto falso."
+        }
+      ]
+    },
+    {
+      "id": "pretentious",
+      "pos": "adjective",
+      "parent": "pretend",
+      "parts": [
+        "pre-",
+        "tent",
+        "-ious"
+      ],
+      "gloss": {
+        "en": "trying to seem more important or clever than you are",
+        "tr": "gösterişçi, iddialı, kendini beğenmiş",
+        "de": "angeberisch, prätentiös",
+        "fr": "prétentieux",
+        "it": "pretenzioso",
+        "es": "pretencioso"
+      },
+      "sentences": [
+        {
+          "en": "The restaurant was expensive and a little [pretentious].",
+          "tr": "Restoran pahalı ve biraz gösterişçiydi.",
+          "de": "Das Restaurant war teuer und ein bisschen prätentiös.",
+          "fr": "Le restaurant était cher et un peu prétentieux.",
+          "it": "Il ristorante era caro e un po' pretenzioso.",
+          "es": "El restaurante era caro y un poco pretencioso."
+        },
+        {
+          "en": "He uses long words to sound clever, which is [pretentious].",
+          "tr": "Zeki görünmek için uzun kelimeler kullanıyor, bu da gösteriş.",
+          "de": "Er benutzt lange Wörter, um klug zu klingen, das ist angeberisch.",
+          "fr": "Il emploie des mots savants pour paraître intelligent : c'est prétentieux.",
+          "it": "Usa parole difficili per sembrare intelligente, ed è pretenzioso.",
+          "es": "Usa palabras largas para parecer listo, y eso es pretencioso."
         }
       ]
     },
@@ -974,6 +1118,43 @@
           "fr": "Le film est un sérieux concurrent pour le prix du meilleur film.",
           "it": "Il film è un forte contendente per il miglior film.",
           "es": "La película es una firme candidata a mejor película."
+        }
+      ]
+    },
+    {
+      "id": "superintendent",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "super-",
+        "in-",
+        "tend",
+        "-ent"
+      ],
+      "gloss": {
+        "en": "a person in charge of a building, a school district or a police department (literally: one who stretches toward from above, who oversees)",
+        "tr": "müfettiş, genel müdür; bina yöneticisi",
+        "de": "der Leiter, der Inspektor; der Hausmeister",
+        "fr": "le directeur, l'intendant ; le concierge",
+        "it": "il sovrintendente; il custode",
+        "es": "el superintendente; el portero"
+      },
+      "sentences": [
+        {
+          "en": "Call the [superintendent] if the heating breaks.",
+          "tr": "Kalorifer bozulursa bina yöneticisini ara.",
+          "de": "Ruf den Hausmeister an, wenn die Heizung ausfällt.",
+          "fr": "Appelle le concierge si le chauffage tombe en panne.",
+          "it": "Chiama il custode se si rompe il riscaldamento.",
+          "es": "Llama al portero si se estropea la calefacción."
+        },
+        {
+          "en": "The police [superintendent] spoke to reporters.",
+          "tr": "Emniyet müdürü muhabirlerle konuştu.",
+          "de": "Der Polizeichef sprach mit Reportern.",
+          "fr": "Le commissaire de police a parlé aux journalistes.",
+          "it": "Il sovrintendente di polizia ha parlato ai giornalisti.",
+          "es": "El comisario de policía habló con los periodistas."
         }
       ]
     }

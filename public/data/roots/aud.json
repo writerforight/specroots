@@ -368,6 +368,42 @@
           "es": "Envíame el audio de la clase."
         }
       ]
+    },
+    {
+      "id": "audiologist",
+      "pos": "noun",
+      "parent": "audio",
+      "parts": [
+        "aud",
+        "-io",
+        "-logist"
+      ],
+      "gloss": {
+        "en": "a specialist who tests and treats problems with hearing",
+        "tr": "odyolog, işitme uzmanı",
+        "de": "der Audiologe, der Hörakustiker",
+        "fr": "l'audiologiste, l'audioprothésiste",
+        "it": "l'audiologo",
+        "es": "el audiólogo"
+      },
+      "sentences": [
+        {
+          "en": "The [audiologist] checked my grandmother's hearing.",
+          "tr": "Odyolog büyükannemin işitmesini kontrol etti.",
+          "de": "Der Audiologe hat das Gehör meiner Großmutter geprüft.",
+          "fr": "L'audiologiste a contrôlé l'audition de ma grand-mère.",
+          "it": "L'audiologo ha controllato l'udito di mia nonna.",
+          "es": "El audiólogo revisó el oído de mi abuela."
+        },
+        {
+          "en": "An [audiologist] can help you choose a hearing aid.",
+          "tr": "Bir odyolog işitme cihazı seçmene yardım edebilir.",
+          "de": "Ein Hörakustiker kann dir helfen, ein Hörgerät auszusuchen.",
+          "fr": "Un audioprothésiste peut t'aider à choisir un appareil auditif.",
+          "it": "Un audiologo può aiutarti a scegliere un apparecchio acustico.",
+          "es": "Un audiólogo puede ayudarte a elegir un audífono."
+        }
+      ]
     }
   ]
 }

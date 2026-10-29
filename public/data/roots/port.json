@@ -621,6 +621,43 @@
       ]
     },
     {
+      "id": "importantly",
+      "pos": "adverb",
+      "parent": "important",
+      "parts": [
+        "im-",
+        "port",
+        "-ant",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "used to show that something is important; in an important way",
+        "tr": "önemli olan, daha da önemlisi",
+        "de": "wichtig(er) noch; bedeutend",
+        "fr": "surtout ; de façon importante",
+        "it": "soprattutto; in modo importante",
+        "es": "lo importante; de forma importante"
+      },
+      "sentences": [
+        {
+          "en": "The food was cheap and, more [importantly], very fresh.",
+          "tr": "Yemek ucuzdu ve daha da önemlisi çok tazeydi.",
+          "de": "Das Essen war billig und, was noch wichtiger ist, sehr frisch.",
+          "fr": "La nourriture était bon marché et, surtout, très fraîche.",
+          "it": "Il cibo era economico e, soprattutto, freschissimo.",
+          "es": "La comida era barata y, lo más importante, muy fresca."
+        },
+        {
+          "en": "Most [importantly], wash your hands before cooking.",
+          "tr": "En önemlisi, yemek yapmadan önce ellerini yıka.",
+          "de": "Am wichtigsten: Wasch dir vor dem Kochen die Hände.",
+          "fr": "Le plus important, c'est de se laver les mains avant de cuisiner.",
+          "it": "La cosa più importante è lavarsi le mani prima di cucinare.",
+          "es": "Lo más importante: lávate las manos antes de cocinar."
+        }
+      ]
+    },
+    {
       "id": "exporter",
       "pos": "noun",
       "parent": "export",

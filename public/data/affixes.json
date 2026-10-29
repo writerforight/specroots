@@ -2933,5 +2933,93 @@
       "it": "che tende a (forma un aggettivo)",
       "es": "que tiende a (forma un adjetivo)"
     }
+  },
+  "amphi-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "both, on both sides (Greek)",
+      "tr": "her iki, iki yanlı (Yunanca)",
+      "de": "beid-, auf beiden Seiten (griechisch)",
+      "fr": "des deux côtés (grec)",
+      "it": "da entrambe le parti (greco)",
+      "es": "ambos, por los dos lados (griego)"
+    }
+  },
+  "eu-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "good, well (Greek)",
+      "tr": "iyi, güzel (Yunanca)",
+      "de": "gut, wohl (griechisch)",
+      "fr": "bien, bon (grec)",
+      "it": "bene, buono (greco)",
+      "es": "bien, bueno (griego)"
+    }
+  },
+  "-an": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "belonging to; one who is (makes a noun or adjective)",
+      "tr": "-e ait; -li (isim ya da sıfat yapar)",
+      "de": "zugehörig; jemand, der … ist (bildet ein Nomen)",
+      "fr": "qui appartient à (-ien)",
+      "it": "appartenente a (-ano, -iano)",
+      "es": "perteneciente a (-ano, -io)"
+    }
+  },
+  "-iency": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "state or quality (makes a noun)",
+      "tr": "durum, nitelik (isim yapar)",
+      "de": "Zustand, Eigenschaft (-ienz)",
+      "fr": "état, qualité (-ience)",
+      "it": "stato, qualità (-ienza)",
+      "es": "estado, cualidad (-iencia)"
+    }
+  },
+  "-icular": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "relating to (from Latin -iculum, small thing; makes an adjective)",
+      "tr": "ile ilgili (Latince -iculum, küçük şey; sıfat yapar)",
+      "de": "bezogen auf (aus lateinisch -iculum; bildet ein Adjektiv)",
+      "fr": "relatif à (-iculaire)",
+      "it": "relativo a (-icolare)",
+      "es": "relativo a (-icular)"
+    }
+  },
+  "-istic": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "typical of, relating to (makes an adjective from -ism, -ist)",
+      "tr": "-e özgü, ile ilgili (-izm, -ist sözcüklerinden sıfat yapar)",
+      "de": "bezogen auf (-istisch)",
+      "fr": "relatif à (-iste)",
+      "it": "relativo a (-istico)",
+      "es": "relativo a (-ista, -ístico)"
+    }
+  },
+  "-ite": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "placed, made (Latin past participle -itus; makes an adjective)",
+      "tr": "konmuş, yapılmış (Latince geçmiş zaman ortacı -itus; sıfat yapar)",
+      "de": "gesetzt, gemacht (lateinisches Partizip -itus; bildet ein Adjektiv)",
+      "fr": "posé, fait (participe latin -itus ; forme un adjectif)",
+      "it": "posto, fatto (participio latino -itus; forma un aggettivo)",
+      "es": "puesto, hecho (participio latino -itus; forma un adjetivo)"
+    }
+  },
+  "-ization": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "the act or result of making (-ize + -ation; makes a noun)",
+      "tr": "-leştirme (-ize + -ation; isim yapar)",
+      "de": "-isierung (-ize + -ation; bildet ein Nomen)",
+      "fr": "-isation (forme un nom)",
+      "it": "-izzazione (forma un nome)",
+      "es": "-ización (forma un sustantivo)"
+    }
   }
 }

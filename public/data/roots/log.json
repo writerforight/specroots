@@ -807,6 +807,42 @@
       ]
     },
     {
+      "id": "geologist",
+      "pos": "noun",
+      "parent": "geology",
+      "parts": [
+        "geo-",
+        "log",
+        "-ist"
+      ],
+      "gloss": {
+        "en": "a scientist who studies rocks and the structure of the Earth",
+        "tr": "jeolog, yer bilimci",
+        "de": "der Geologe",
+        "fr": "le géologue",
+        "it": "il geologo",
+        "es": "el geólogo"
+      },
+      "sentences": [
+        {
+          "en": "The [geologist] said the rock was millions of years old.",
+          "tr": "Jeolog kayanın milyonlarca yıllık olduğunu söyledi.",
+          "de": "Der Geologe sagte, der Stein sei Millionen Jahre alt.",
+          "fr": "Le géologue a dit que la roche avait des millions d'années.",
+          "it": "Il geologo ha detto che la roccia aveva milioni di anni.",
+          "es": "El geólogo dijo que la roca tenía millones de años."
+        },
+        {
+          "en": "[Geologists] are watching the volcano closely.",
+          "tr": "Jeologlar yanardağı yakından izliyor.",
+          "de": "Geologen beobachten den Vulkan genau.",
+          "fr": "Les géologues surveillent le volcan de près.",
+          "it": "I geologi tengono d'occhio il vulcano.",
+          "es": "Los geólogos vigilan de cerca el volcán."
+        }
+      ]
+    },
+    {
       "id": "mythology",
       "pos": "noun",
       "parent": null,
@@ -947,6 +983,78 @@
           "fr": "La neurologie nous aide à comprendre la mémoire.",
           "it": "La neurologia ci aiuta a capire la memoria.",
           "es": "La neurología nos ayuda a entender la memoria."
+        }
+      ]
+    },
+    {
+      "id": "anthropology",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "anthropo-",
+        "log",
+        "-y"
+      ],
+      "gloss": {
+        "en": "the study of human beings, their cultures and how they live (literally: the study of humans)",
+        "tr": "antropoloji, insanbilim",
+        "de": "die Anthropologie",
+        "fr": "l'anthropologie",
+        "it": "l'antropologia",
+        "es": "la antropología"
+      },
+      "sentences": [
+        {
+          "en": "She studied [anthropology] and lived with a tribe in Brazil.",
+          "tr": "Antropoloji okudu ve Brezilya'da bir kabileyle yaşadı.",
+          "de": "Sie studierte Anthropologie und lebte bei einem Stamm in Brasilien.",
+          "fr": "Elle a étudié l'anthropologie et a vécu avec une tribu au Brésil.",
+          "it": "Ha studiato antropologia e ha vissuto con una tribù in Brasile.",
+          "es": "Estudió antropología y vivió con una tribu en Brasil."
+        },
+        {
+          "en": "[Anthropology] asks how different societies solve the same problems.",
+          "tr": "Antropoloji farklı toplumların aynı sorunları nasıl çözdüğünü sorar.",
+          "de": "Die Anthropologie fragt, wie verschiedene Gesellschaften dieselben Probleme lösen.",
+          "fr": "L'anthropologie étudie comment différentes sociétés résolvent les mêmes problèmes.",
+          "it": "L'antropologia si chiede come società diverse risolvono gli stessi problemi.",
+          "es": "La antropología estudia cómo distintas sociedades resuelven los mismos problemas."
+        }
+      ]
+    },
+    {
+      "id": "eulogy",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "eu-",
+        "log",
+        "-y"
+      ],
+      "gloss": {
+        "en": "a speech praising someone, especially at a funeral (literally: good words)",
+        "tr": "övgü konuşması, (cenazede) anma konuşması",
+        "de": "die Grabrede, die Lobrede",
+        "fr": "l'éloge funèbre",
+        "it": "l'elogio funebre",
+        "es": "el elogio fúnebre"
+      },
+      "sentences": [
+        {
+          "en": "His daughter gave a moving [eulogy] at the funeral.",
+          "tr": "Kızı cenazede dokunaklı bir anma konuşması yaptı.",
+          "de": "Seine Tochter hielt bei der Beerdigung eine bewegende Grabrede.",
+          "fr": "Sa fille a prononcé un éloge funèbre émouvant.",
+          "it": "Sua figlia ha pronunciato un commovente elogio funebre.",
+          "es": "Su hija pronunció un emotivo elogio fúnebre."
+        },
+        {
+          "en": "The article was a [eulogy] to the old cinema.",
+          "tr": "Makale eski sinemaya bir övgüydü.",
+          "de": "Der Artikel war eine Lobrede auf das alte Kino.",
+          "fr": "L'article était un éloge du vieux cinéma.",
+          "it": "L'articolo era un elogio del vecchio cinema.",
+          "es": "El artículo era un elogio del viejo cine."
         }
       ]
     }

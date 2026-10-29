@@ -160,6 +160,43 @@
       ]
     },
     {
+      "id": "conversational",
+      "pos": "adjective",
+      "parent": "conversation",
+      "parts": [
+        "con-",
+        "vers",
+        "-ation",
+        "-al"
+      ],
+      "gloss": {
+        "en": "related to talking; informal, like everyday speech",
+        "tr": "konuşmaya dayalı; sohbet havasında",
+        "de": "umgangssprachlich, Gesprächs-",
+        "fr": "de conversation ; familier",
+        "it": "colloquiale, di conversazione",
+        "es": "conversacional, coloquial"
+      },
+      "sentences": [
+        {
+          "en": "I want to improve my [conversational] Spanish.",
+          "tr": "Konuşma düzeyindeki İspanyolcamı geliştirmek istiyorum.",
+          "de": "Ich will mein umgangssprachliches Spanisch verbessern.",
+          "fr": "Je veux améliorer mon espagnol de conversation.",
+          "it": "Voglio migliorare il mio spagnolo colloquiale.",
+          "es": "Quiero mejorar mi español conversacional."
+        },
+        {
+          "en": "The book is written in a light, [conversational] style.",
+          "tr": "Kitap hafif, sohbet havasında bir üslupla yazılmış.",
+          "de": "Das Buch ist in einem lockeren Plauderton geschrieben.",
+          "fr": "Le livre est écrit dans un style léger et familier.",
+          "it": "Il libro è scritto in uno stile leggero e colloquiale.",
+          "es": "El libro está escrito en un estilo ligero y coloquial."
+        }
+      ]
+    },
+    {
       "id": "reverse",
       "pos": "verb",
       "parent": null,
@@ -264,6 +301,42 @@
           "fr": "Dans une inversion des rôles, l'élève a enseigné au professeur.",
           "it": "In un'inversione dei ruoli, lo studente ha insegnato all'insegnante.",
           "es": "En una inversión de papeles, el alumno enseñó al profesor."
+        }
+      ]
+    },
+    {
+      "id": "reversible",
+      "pos": "adjective",
+      "parent": "reverse",
+      "parts": [
+        "re-",
+        "vers",
+        "-ible"
+      ],
+      "gloss": {
+        "en": "able to be changed back; (clothes) able to be worn inside out",
+        "tr": "geri döndürülebilir; iki yüzlü (giysi)",
+        "de": "umkehrbar; zum Wenden",
+        "fr": "réversible",
+        "it": "reversibile; double face",
+        "es": "reversible"
+      },
+      "sentences": [
+        {
+          "en": "Luckily, the damage to his eyes is [reversible].",
+          "tr": "Neyse ki gözlerindeki hasar geri döndürülebilir.",
+          "de": "Zum Glück ist der Schaden an seinen Augen umkehrbar.",
+          "fr": "Heureusement, les dommages à ses yeux sont réversibles.",
+          "it": "Per fortuna il danno agli occhi è reversibile.",
+          "es": "Por suerte, el daño en sus ojos es reversible."
+        },
+        {
+          "en": "This [reversible] jacket is blue on one side and black on the other.",
+          "tr": "Bu iki yüzlü ceketin bir tarafı mavi, öbür tarafı siyah.",
+          "de": "Diese Wendejacke ist auf einer Seite blau und auf der anderen schwarz.",
+          "fr": "Cette veste réversible est bleue d'un côté et noire de l'autre.",
+          "it": "Questa giacca double face è blu da un lato e nera dall'altro.",
+          "es": "Esta chaqueta reversible es azul por un lado y negra por el otro."
         }
       ]
     },
@@ -374,6 +447,43 @@
       ]
     },
     {
+      "id": "universally",
+      "pos": "adverb",
+      "parent": "universal",
+      "parts": [
+        "uni-",
+        "vers",
+        "-al",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "by everyone or everywhere",
+        "tr": "evrensel olarak, herkesçe",
+        "de": "allgemein, überall",
+        "fr": "universellement",
+        "it": "universalmente",
+        "es": "universalmente"
+      },
+      "sentences": [
+        {
+          "en": "Her new film was [universally] praised.",
+          "tr": "Yeni filmi herkesçe övüldü.",
+          "de": "Ihr neuer Film wurde allgemein gelobt.",
+          "fr": "Son nouveau film a été salué universellement.",
+          "it": "Il suo nuovo film è stato lodato universalmente.",
+          "es": "Su nueva película fue elogiada universalmente."
+        },
+        {
+          "en": "A smile is [universally] understood.",
+          "tr": "Gülümseme her yerde anlaşılır.",
+          "de": "Ein Lächeln wird überall verstanden.",
+          "fr": "Un sourire est compris universellement.",
+          "it": "Un sorriso è capito universalmente.",
+          "es": "Una sonrisa se entiende universalmente."
+        }
+      ]
+    },
+    {
       "id": "university",
       "pos": "noun",
       "parent": "universe",
@@ -477,6 +587,42 @@
           "fr": "Notre équipe valorise la diversité.",
           "it": "Il nostro team valorizza la diversità.",
           "es": "Nuestro equipo valora la diversidad."
+        }
+      ]
+    },
+    {
+      "id": "diversify",
+      "pos": "verb",
+      "parent": "diverse",
+      "parts": [
+        "di-",
+        "vers",
+        "-ify"
+      ],
+      "gloss": {
+        "en": "to start doing more different things; to make something more varied",
+        "tr": "çeşitlendirmek",
+        "de": "diversifizieren, breiter aufstellen",
+        "fr": "diversifier",
+        "it": "diversificare",
+        "es": "diversificar"
+      },
+      "sentences": [
+        {
+          "en": "The farm [diversified] by opening a café.",
+          "tr": "Çiftlik bir kafe açarak işini çeşitlendirdi.",
+          "de": "Der Bauernhof hat sich mit einem Café breiter aufgestellt.",
+          "fr": "La ferme s'est diversifiée en ouvrant un café.",
+          "it": "La fattoria si è diversificata aprendo un bar.",
+          "es": "La granja se diversificó abriendo una cafetería."
+        },
+        {
+          "en": "Try to [diversify] your diet with more vegetables.",
+          "tr": "Daha çok sebzeyle beslenmeni çeşitlendirmeye çalış.",
+          "de": "Versuche, deine Ernährung mit mehr Gemüse abwechslungsreicher zu machen.",
+          "fr": "Essaie de diversifier ton alimentation avec plus de légumes.",
+          "it": "Cerca di diversificare la dieta con più verdure.",
+          "es": "Intenta diversificar tu dieta con más verduras."
         }
       ]
     },
@@ -1047,6 +1193,114 @@
           "fr": "Nous avons parlé de location ou d'achat d'un logement.",
           "it": "Abbiamo parlato di affittare contro comprare casa.",
           "es": "Hablamos de alquilar frente a comprar una vivienda."
+        }
+      ]
+    },
+    {
+      "id": "inadvertently",
+      "pos": "adverb",
+      "parent": null,
+      "parts": [
+        "in-not-",
+        "ad-",
+        "vert",
+        "-ent",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "without meaning to; by accident (literally: not turning toward, not paying attention)",
+        "tr": "farkında olmadan, istemeden",
+        "de": "versehentlich, unbeabsichtigt",
+        "fr": "par inadvertance, sans le vouloir",
+        "it": "inavvertitamente, senza volerlo",
+        "es": "sin querer, inadvertidamente"
+      },
+      "sentences": [
+        {
+          "en": "I [inadvertently] deleted all my photos.",
+          "tr": "Farkında olmadan bütün fotoğraflarımı sildim.",
+          "de": "Ich habe versehentlich alle meine Fotos gelöscht.",
+          "fr": "J'ai supprimé toutes mes photos par inadvertance.",
+          "it": "Ho cancellato inavvertitamente tutte le mie foto.",
+          "es": "Borré sin querer todas mis fotos."
+        },
+        {
+          "en": "She [inadvertently] told him about the surprise party.",
+          "tr": "İstemeden ona sürpriz partiden bahsetti.",
+          "de": "Sie hat ihm unbeabsichtigt von der Überraschungsparty erzählt.",
+          "fr": "Elle lui a parlé de la fête surprise sans le vouloir.",
+          "it": "Gli ha parlato senza volerlo della festa a sorpresa.",
+          "es": "Sin querer, le habló de la fiesta sorpresa."
+        }
+      ]
+    },
+    {
+      "id": "subversive",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "sub-",
+        "vers",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "trying to weaken or destroy a government or system (literally: turning from below)",
+        "tr": "yıkıcı, düzen karşıtı",
+        "de": "umstürzlerisch, subversiv",
+        "fr": "subversif",
+        "it": "sovversivo",
+        "es": "subversivo"
+      },
+      "sentences": [
+        {
+          "en": "The government banned the book as [subversive].",
+          "tr": "Hükümet kitabı yıkıcı bulup yasakladı.",
+          "de": "Die Regierung verbot das Buch als umstürzlerisch.",
+          "fr": "Le gouvernement a interdit le livre, jugé subversif.",
+          "it": "Il governo ha vietato il libro perché sovversivo.",
+          "es": "El gobierno prohibió el libro por subversivo."
+        },
+        {
+          "en": "His jokes had a [subversive] edge.",
+          "tr": "Şakalarının düzen karşıtı bir yanı vardı.",
+          "de": "Seine Witze hatten etwas Subversives.",
+          "fr": "Ses blagues avaient un côté subversif.",
+          "it": "Le sue battute avevano un tono sovversivo.",
+          "es": "Sus chistes tenían un toque subversivo."
+        }
+      ]
+    },
+    {
+      "id": "verse",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "verse"
+      ],
+      "gloss": {
+        "en": "a part of a song or poem; writing arranged in lines with rhythm (literally: a turning, a line that turns back)",
+        "tr": "kıta, dize; nazım",
+        "de": "die Strophe; der Vers",
+        "fr": "le couplet, la strophe ; le vers",
+        "it": "la strofa; il verso",
+        "es": "la estrofa; el verso"
+      },
+      "sentences": [
+        {
+          "en": "We all sang the first [verse] of the song.",
+          "tr": "Hepimiz şarkının ilk kıtasını söyledik.",
+          "de": "Wir sangen alle die erste Strophe des Liedes.",
+          "fr": "Nous avons tous chanté le premier couplet de la chanson.",
+          "it": "Abbiamo cantato tutti la prima strofa della canzone.",
+          "es": "Todos cantamos la primera estrofa de la canción."
+        },
+        {
+          "en": "Shakespeare wrote many of his plays in [verse].",
+          "tr": "Shakespeare oyunlarının çoğunu nazımla yazdı.",
+          "de": "Shakespeare schrieb viele seiner Stücke in Versen.",
+          "fr": "Shakespeare a écrit beaucoup de ses pièces en vers.",
+          "it": "Shakespeare scrisse molte delle sue opere in versi.",
+          "es": "Shakespeare escribió muchas de sus obras en verso."
         }
       ]
     }

@@ -3,7 +3,9 @@
   "forms": [
     "mit",
     "miss",
-    "mise"
+    "mise",
+    "mitt",
+    "mis"
   ],
   "origin": "la",
   "etymon": "mittere",
@@ -190,6 +192,42 @@
           "fr": "Ma voiture a une boîte automatique.",
           "it": "La mia auto ha il cambio automatico.",
           "es": "Mi coche tiene cambio automático."
+        }
+      ]
+    },
+    {
+      "id": "transmitter",
+      "pos": "noun",
+      "parent": "transmit",
+      "parts": [
+        "trans-",
+        "mitt",
+        "-er"
+      ],
+      "gloss": {
+        "en": "a device that sends out radio or TV signals",
+        "tr": "verici",
+        "de": "der Sender",
+        "fr": "l'émetteur",
+        "it": "il trasmettitore",
+        "es": "el transmisor"
+      },
+      "sentences": [
+        {
+          "en": "The radio [transmitter] stands on top of the hill.",
+          "tr": "Radyo vericisi tepenin üstünde duruyor.",
+          "de": "Der Radiosender steht oben auf dem Hügel.",
+          "fr": "L'émetteur radio se trouve en haut de la colline.",
+          "it": "Il trasmettitore radio si trova in cima alla collina.",
+          "es": "El transmisor de radio está en lo alto de la colina."
+        },
+        {
+          "en": "The storm damaged the TV [transmitter].",
+          "tr": "Fırtına televizyon vericisine zarar verdi.",
+          "de": "Der Sturm beschädigte den Fernsehsender.",
+          "fr": "La tempête a endommagé l'émetteur de télévision.",
+          "it": "La tempesta ha danneggiato il trasmettitore televisivo.",
+          "es": "La tormenta dañó el transmisor de televisión."
         }
       ]
     },
@@ -621,6 +659,78 @@
       ]
     },
     {
+      "id": "commitment",
+      "pos": "noun",
+      "parent": "commit",
+      "parts": [
+        "com-",
+        "mit",
+        "-ment"
+      ],
+      "gloss": {
+        "en": "a promise to do something; giving your time and energy to something",
+        "tr": "bağlılık; taahhüt, söz",
+        "de": "die Verpflichtung; das Engagement",
+        "fr": "l'engagement",
+        "it": "l'impegno",
+        "es": "el compromiso"
+      },
+      "sentences": [
+        {
+          "en": "Learning an instrument takes time and [commitment].",
+          "tr": "Bir enstrüman öğrenmek zaman ve bağlılık ister.",
+          "de": "Ein Instrument zu lernen braucht Zeit und Engagement.",
+          "fr": "Apprendre un instrument demande du temps et de l'engagement.",
+          "it": "Imparare uno strumento richiede tempo e impegno.",
+          "es": "Aprender un instrumento requiere tiempo y compromiso."
+        },
+        {
+          "en": "I can't come; I have a family [commitment].",
+          "tr": "Gelemem; ailevi bir sözüm var.",
+          "de": "Ich kann nicht kommen, ich habe eine familiäre Verpflichtung.",
+          "fr": "Je ne peux pas venir, j'ai un engagement familial.",
+          "it": "Non posso venire, ho un impegno di famiglia.",
+          "es": "No puedo ir; tengo un compromiso familiar."
+        }
+      ]
+    },
+    {
+      "id": "committee",
+      "pos": "noun",
+      "parent": "commit",
+      "parts": [
+        "com-",
+        "mitt",
+        "-ee"
+      ],
+      "gloss": {
+        "en": "a small group of people chosen to make decisions or plans (literally: those to whom a task is entrusted)",
+        "tr": "komite, kurul",
+        "de": "der Ausschuss, das Komitee",
+        "fr": "le comité, la commission",
+        "it": "il comitato, la commissione",
+        "es": "el comité, la comisión"
+      },
+      "sentences": [
+        {
+          "en": "The [committee] meets every Monday evening.",
+          "tr": "Komite her pazartesi akşamı toplanıyor.",
+          "de": "Der Ausschuss trifft sich jeden Montagabend.",
+          "fr": "Le comité se réunit tous les lundis soir.",
+          "it": "Il comitato si riunisce ogni lunedì sera.",
+          "es": "El comité se reúne todos los lunes por la tarde."
+        },
+        {
+          "en": "A [committee] of parents planned the school party.",
+          "tr": "Velilerden oluşan bir komite okul partisini planladı.",
+          "de": "Ein Elternkomitee plante das Schulfest.",
+          "fr": "Un comité de parents a organisé la fête de l'école.",
+          "it": "Un comitato di genitori ha organizzato la festa della scuola.",
+          "es": "Un comité de padres organizó la fiesta del colegio."
+        }
+      ]
+    },
+    {
       "id": "emit",
       "pos": "verb",
       "parent": null,
@@ -763,6 +873,42 @@
       ]
     },
     {
+      "id": "dismissive",
+      "pos": "adjective",
+      "parent": "dismiss",
+      "parts": [
+        "dis-",
+        "miss",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "showing that you think something is not worth attention",
+        "tr": "küçümseyici, umursamaz",
+        "de": "abweisend, geringschätzig",
+        "fr": "dédaigneux",
+        "it": "sprezzante, sbrigativo",
+        "es": "despectivo, desdeñoso"
+      },
+      "sentences": [
+        {
+          "en": "He was [dismissive] of my idea before hearing it.",
+          "tr": "Fikrimi duymadan önce küçümsedi.",
+          "de": "Er tat meine Idee ab, bevor er sie gehört hatte.",
+          "fr": "Il a été dédaigneux envers mon idée avant même de l'entendre.",
+          "it": "È stato sprezzante con la mia idea prima di sentirla.",
+          "es": "Fue despectivo con mi idea antes de oírla."
+        },
+        {
+          "en": "She answered with a [dismissive] wave of her hand.",
+          "tr": "Umursamaz bir el hareketiyle cevap verdi.",
+          "de": "Sie antwortete mit einer abweisenden Handbewegung.",
+          "fr": "Elle a répondu d'un geste dédaigneux de la main.",
+          "it": "Ha risposto con un gesto sbrigativo della mano.",
+          "es": "Respondió con un gesto desdeñoso de la mano."
+        }
+      ]
+    },
+    {
       "id": "intermission",
       "pos": "noun",
       "parent": null,
@@ -870,6 +1016,42 @@
       ]
     },
     {
+      "id": "promising",
+      "pos": "adjective",
+      "parent": "promise",
+      "parts": [
+        "pro-",
+        "mis",
+        "-ing"
+      ],
+      "gloss": {
+        "en": "likely to be good or successful in the future",
+        "tr": "umut verici, gelecek vaat eden",
+        "de": "vielversprechend",
+        "fr": "prometteur",
+        "it": "promettente",
+        "es": "prometedor"
+      },
+      "sentences": [
+        {
+          "en": "She is a [promising] young singer.",
+          "tr": "O gelecek vaat eden genç bir şarkıcı.",
+          "de": "Sie ist eine vielversprechende junge Sängerin.",
+          "fr": "C'est une jeune chanteuse prometteuse.",
+          "it": "È una giovane cantante promettente.",
+          "es": "Es una joven cantante prometedora."
+        },
+        {
+          "en": "The first test results look [promising].",
+          "tr": "İlk test sonuçları umut verici görünüyor.",
+          "de": "Die ersten Testergebnisse sehen vielversprechend aus.",
+          "fr": "Les premiers résultats des tests sont prometteurs.",
+          "it": "I primi risultati dei test sembrano promettenti.",
+          "es": "Los primeros resultados de las pruebas parecen prometedores."
+        }
+      ]
+    },
+    {
       "id": "premise",
       "pos": "noun",
       "parent": null,
@@ -936,6 +1118,42 @@
           "fr": "Personne ne s'attendait à la disparition soudaine de l'entreprise.",
           "it": "Nessuno si aspettava l'improvvisa fine dell'azienda.",
           "es": "Nadie esperaba la repentina desaparición de la empresa."
+        }
+      ]
+    },
+    {
+      "id": "intermittent",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "inter-",
+        "mitt",
+        "-ent"
+      ],
+      "gloss": {
+        "en": "stopping and starting again, not continuous (literally: letting go in between)",
+        "tr": "aralıklı, kesik kesik",
+        "de": "zeitweise, mit Unterbrechungen",
+        "fr": "intermittent",
+        "it": "intermittente, a tratti",
+        "es": "intermitente"
+      },
+      "sentences": [
+        {
+          "en": "The forecast is for [intermittent] rain all day.",
+          "tr": "Hava tahmini gün boyu aralıklı yağmur gösteriyor.",
+          "de": "Die Vorhersage meldet den ganzen Tag zeitweise Regen.",
+          "fr": "La météo prévoit une pluie intermittente toute la journée.",
+          "it": "Le previsioni danno pioggia a tratti tutto il giorno.",
+          "es": "El pronóstico anuncia lluvia intermitente todo el día."
+        },
+        {
+          "en": "The phone signal here is [intermittent].",
+          "tr": "Burada telefon sinyali kesik kesik geliyor.",
+          "de": "Das Handynetz ist hier nur zeitweise da.",
+          "fr": "Le réseau téléphonique est intermittent ici.",
+          "it": "Qui il segnale del telefono è intermittente.",
+          "es": "Aquí la señal del móvil es intermitente."
         }
       ]
     }

@@ -160,6 +160,42 @@
       ]
     },
     {
+      "id": "extracurricular",
+      "pos": "adjective",
+      "parent": "curriculum",
+      "parts": [
+        "extra-",
+        "curr",
+        "-icular"
+      ],
+      "gloss": {
+        "en": "(activities) done at school but outside normal lessons (literally: outside the course)",
+        "tr": "ders dışı",
+        "de": "außerschulisch, freiwillig",
+        "fr": "extrascolaire, parascolaire",
+        "it": "extracurricolare, extrascolastico",
+        "es": "extraescolar"
+      },
+      "sentences": [
+        {
+          "en": "Chess club is one of my [extracurricular] activities.",
+          "tr": "Satranç kulübü ders dışı etkinliklerimden biri.",
+          "de": "Der Schachklub ist eine meiner außerschulischen Aktivitäten.",
+          "fr": "Le club d'échecs est l'une de mes activités extrascolaires.",
+          "it": "Il club di scacchi è una delle mie attività extracurricolari.",
+          "es": "El club de ajedrez es una de mis actividades extraescolares."
+        },
+        {
+          "en": "Universities like students with [extracurricular] interests.",
+          "tr": "Üniversiteler ders dışı ilgileri olan öğrencileri sever.",
+          "de": "Universitäten mögen Studenten mit außerschulischen Interessen.",
+          "fr": "Les universités apprécient les élèves qui ont des activités parascolaires.",
+          "it": "Le università apprezzano gli studenti con interessi extracurricolari.",
+          "es": "A las universidades les gustan los alumnos con intereses extraescolares."
+        }
+      ]
+    },
+    {
       "id": "occur",
       "pos": "verb",
       "parent": null,

@@ -234,6 +234,80 @@
       ]
     },
     {
+      "id": "independently",
+      "pos": "adverb",
+      "parent": "independent",
+      "parts": [
+        "in-not-",
+        "de-",
+        "pend",
+        "-ent",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "without help or control from others; separately",
+        "tr": "bağımsız olarak, kendi başına",
+        "de": "selbstständig, unabhängig",
+        "fr": "de façon indépendante, seul",
+        "it": "in modo indipendente, da solo",
+        "es": "de forma independiente, por su cuenta"
+      },
+      "sentences": [
+        {
+          "en": "Our son learned to read [independently].",
+          "tr": "Oğlumuz okumayı kendi başına öğrendi.",
+          "de": "Unser Sohn hat selbstständig lesen gelernt.",
+          "fr": "Notre fils a appris à lire tout seul.",
+          "it": "Nostro figlio ha imparato a leggere da solo.",
+          "es": "Nuestro hijo aprendió a leer por su cuenta."
+        },
+        {
+          "en": "Two scientists made the same discovery [independently].",
+          "tr": "İki bilim insanı aynı keşfi birbirinden bağımsız yaptı.",
+          "de": "Zwei Forscher machten unabhängig voneinander dieselbe Entdeckung.",
+          "fr": "Deux scientifiques ont fait la même découverte indépendamment.",
+          "it": "Due scienziati hanno fatto la stessa scoperta in modo indipendente.",
+          "es": "Dos científicos hicieron el mismo descubrimiento de forma independiente."
+        }
+      ]
+    },
+    {
+      "id": "dependency",
+      "pos": "noun",
+      "parent": "depend",
+      "parts": [
+        "de-",
+        "pend",
+        "-ency"
+      ],
+      "gloss": {
+        "en": "a state of needing something or someone too much",
+        "tr": "bağımlılık",
+        "de": "die Abhängigkeit",
+        "fr": "la dépendance",
+        "it": "la dipendenza",
+        "es": "la dependencia"
+      },
+      "sentences": [
+        {
+          "en": "The country wants to reduce its [dependency] on oil.",
+          "tr": "Ülke petrole bağımlılığını azaltmak istiyor.",
+          "de": "Das Land will seine Abhängigkeit vom Öl verringern.",
+          "fr": "Le pays veut réduire sa dépendance au pétrole.",
+          "it": "Il paese vuole ridurre la sua dipendenza dal petrolio.",
+          "es": "El país quiere reducir su dependencia del petróleo."
+        },
+        {
+          "en": "Too much screen time can create a [dependency].",
+          "tr": "Fazla ekran süresi bağımlılık yaratabilir.",
+          "de": "Zu viel Bildschirmzeit kann eine Abhängigkeit erzeugen.",
+          "fr": "Trop d'écrans peut créer une dépendance.",
+          "it": "Troppo tempo davanti agli schermi può creare dipendenza.",
+          "es": "Demasiado tiempo frente a la pantalla puede crear dependencia."
+        }
+      ]
+    },
+    {
       "id": "suspend",
       "pos": "verb",
       "parent": null,
@@ -300,6 +374,42 @@
           "fr": "Dis-le-moi maintenant, je ne supporte pas le suspense !",
           "it": "Dimmelo adesso, non reggo la tensione!",
           "es": "Dímelo ya, ¡no aguanto la intriga!"
+        }
+      ]
+    },
+    {
+      "id": "suspenseful",
+      "pos": "adjective",
+      "parent": "suspense",
+      "parts": [
+        "sus-",
+        "pense",
+        "-ful"
+      ],
+      "gloss": {
+        "en": "full of excitement because you do not know what will happen",
+        "tr": "heyecanlı, gerilim dolu",
+        "de": "spannend",
+        "fr": "plein de suspense, haletant",
+        "it": "pieno di suspense, avvincente",
+        "es": "lleno de suspense, emocionante"
+      },
+      "sentences": [
+        {
+          "en": "The last ten minutes of the film were very [suspenseful].",
+          "tr": "Filmin son on dakikası çok gerilim doluydu.",
+          "de": "Die letzten zehn Minuten des Films waren sehr spannend.",
+          "fr": "Les dix dernières minutes du film étaient pleines de suspense.",
+          "it": "Gli ultimi dieci minuti del film erano pieni di suspense.",
+          "es": "Los últimos diez minutos de la película fueron muy emocionantes."
+        },
+        {
+          "en": "I love [suspenseful] books that I can't put down.",
+          "tr": "Elimden bırakamadığım heyecanlı kitapları severim.",
+          "de": "Ich liebe spannende Bücher, die ich nicht weglegen kann.",
+          "fr": "J'adore les livres haletants qu'on ne peut pas lâcher.",
+          "it": "Adoro i libri avvincenti che non riesco a mettere giù.",
+          "es": "Me encantan los libros emocionantes que no puedo dejar."
         }
       ]
     },
@@ -626,6 +736,79 @@
       ]
     },
     {
+      "id": "indispensable",
+      "pos": "adjective",
+      "parent": "dispense",
+      "parts": [
+        "in-not-",
+        "dis-",
+        "pens",
+        "-able"
+      ],
+      "gloss": {
+        "en": "so important that you cannot do without it",
+        "tr": "vazgeçilmez",
+        "de": "unentbehrlich, unverzichtbar",
+        "fr": "indispensable",
+        "it": "indispensabile",
+        "es": "imprescindible, indispensable"
+      },
+      "sentences": [
+        {
+          "en": "A good dictionary is [indispensable] for translators.",
+          "tr": "İyi bir sözlük çevirmenler için vazgeçilmezdir.",
+          "de": "Ein gutes Wörterbuch ist für Übersetzer unentbehrlich.",
+          "fr": "Un bon dictionnaire est indispensable aux traducteurs.",
+          "it": "Un buon dizionario è indispensabile per i traduttori.",
+          "es": "Un buen diccionario es imprescindible para los traductores."
+        },
+        {
+          "en": "She made herself [indispensable] at the company.",
+          "tr": "Şirkette kendini vazgeçilmez kıldı.",
+          "de": "Sie hat sich in der Firma unverzichtbar gemacht.",
+          "fr": "Elle s'est rendue indispensable dans l'entreprise.",
+          "it": "Si è resa indispensabile in azienda.",
+          "es": "Se hizo imprescindible en la empresa."
+        }
+      ]
+    },
+    {
+      "id": "dispenser",
+      "pos": "noun",
+      "parent": "dispense",
+      "parts": [
+        "dis-",
+        "pens",
+        "-er"
+      ],
+      "gloss": {
+        "en": "a machine or container that gives out a fixed amount of something",
+        "tr": "dağıtıcı, otomat",
+        "de": "der Spender, der Automat",
+        "fr": "le distributeur",
+        "it": "il distributore, il dispenser",
+        "es": "el dispensador"
+      },
+      "sentences": [
+        {
+          "en": "The soap [dispenser] in the bathroom is empty.",
+          "tr": "Banyodaki sabunluk boş.",
+          "de": "Der Seifenspender im Bad ist leer.",
+          "fr": "Le distributeur de savon de la salle de bains est vide.",
+          "it": "Il dispenser di sapone in bagno è vuoto.",
+          "es": "El dispensador de jabón del baño está vacío."
+        },
+        {
+          "en": "There is a water [dispenser] on every floor.",
+          "tr": "Her katta bir su sebili var.",
+          "de": "Auf jeder Etage gibt es einen Wasserspender.",
+          "fr": "Il y a un distributeur d'eau à chaque étage.",
+          "it": "C'è un distributore d'acqua a ogni piano.",
+          "es": "Hay un dispensador de agua en cada planta."
+        }
+      ]
+    },
+    {
       "id": "pendant",
       "pos": "noun",
       "parent": null,
@@ -869,6 +1052,77 @@
           "fr": "Il était d'humeur pensive après l'appel.",
           "it": "Dopo la telefonata era pensieroso.",
           "es": "Después de la llamada estaba pensativo."
+        }
+      ]
+    },
+    {
+      "id": "expend",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ex-",
+        "pend"
+      ],
+      "gloss": {
+        "en": "to use time, money or energy (literally: to weigh out, to pay out)",
+        "tr": "harcamak, sarf etmek",
+        "de": "aufwenden",
+        "fr": "dépenser, consacrer",
+        "it": "spendere, impiegare",
+        "es": "gastar, invertir"
+      },
+      "sentences": [
+        {
+          "en": "Children [expend] a lot of energy when they play.",
+          "tr": "Çocuklar oynarken çok enerji harcar.",
+          "de": "Kinder verbrauchen beim Spielen viel Energie.",
+          "fr": "Les enfants dépensent beaucoup d'énergie en jouant.",
+          "it": "I bambini spendono molta energia quando giocano.",
+          "es": "Los niños gastan mucha energía cuando juegan."
+        },
+        {
+          "en": "We [expended] a lot of effort on this project.",
+          "tr": "Bu projeye çok emek harcadık.",
+          "de": "Wir haben viel Mühe in dieses Projekt gesteckt.",
+          "fr": "Nous avons consacré beaucoup d'efforts à ce projet.",
+          "it": "Abbiamo impiegato molto impegno in questo progetto.",
+          "es": "Invertimos mucho esfuerzo en este proyecto."
+        }
+      ]
+    },
+    {
+      "id": "perpendicular",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "per-",
+        "pend",
+        "-icular"
+      ],
+      "gloss": {
+        "en": "at an angle of 90 degrees to a line or surface (from Latin perpendiculum, a plumb line that hangs straight down)",
+        "tr": "dik",
+        "de": "senkrecht",
+        "fr": "perpendiculaire",
+        "it": "perpendicolare",
+        "es": "perpendicular"
+      },
+      "sentences": [
+        {
+          "en": "Draw a line [perpendicular] to the base.",
+          "tr": "Tabana dik bir çizgi çiz.",
+          "de": "Zeichne eine Linie senkrecht zur Grundlinie.",
+          "fr": "Trace une ligne perpendiculaire à la base.",
+          "it": "Traccia una linea perpendicolare alla base.",
+          "es": "Dibuja una línea perpendicular a la base."
+        },
+        {
+          "en": "The two streets are [perpendicular] to each other.",
+          "tr": "İki sokak birbirine dik.",
+          "de": "Die beiden Straßen stehen senkrecht zueinander.",
+          "fr": "Les deux rues sont perpendiculaires.",
+          "it": "Le due strade sono perpendicolari.",
+          "es": "Las dos calles son perpendiculares entre sí."
         }
       ]
     }

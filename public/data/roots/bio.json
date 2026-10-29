@@ -1,7 +1,8 @@
 {
   "id": "bio",
   "forms": [
-    "bio"
+    "bio",
+    "bi"
   ],
   "origin": "gr",
   "etymon": "bios",
@@ -617,6 +618,78 @@
           "fr": "La forêt est une réserve de biosphère protégée.",
           "it": "La foresta è una riserva della biosfera protetta.",
           "es": "El bosque es una reserva de la biosfera protegida."
+        }
+      ]
+    },
+    {
+      "id": "amphibian",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "amphi-",
+        "bi",
+        "-an"
+      ],
+      "gloss": {
+        "en": "an animal, such as a frog, that lives both in water and on land (literally: living a double life)",
+        "tr": "amfibi, iki yaşamlı hayvan",
+        "de": "die Amphibie, der Lurch",
+        "fr": "l'amphibien",
+        "it": "l'anfibio",
+        "es": "el anfibio"
+      },
+      "sentences": [
+        {
+          "en": "Frogs and toads are [amphibians].",
+          "tr": "Kurbağalar ve karakurbağaları amfibidir.",
+          "de": "Frösche und Kröten sind Amphibien.",
+          "fr": "Les grenouilles et les crapauds sont des amphibiens.",
+          "it": "Rane e rospi sono anfibi.",
+          "es": "Las ranas y los sapos son anfibios."
+        },
+        {
+          "en": "[Amphibians] lay their eggs in water.",
+          "tr": "Amfibiler yumurtalarını suya bırakır.",
+          "de": "Amphibien legen ihre Eier im Wasser ab.",
+          "fr": "Les amphibiens pondent leurs œufs dans l'eau.",
+          "it": "Gli anfibi depongono le uova nell'acqua.",
+          "es": "Los anfibios ponen sus huevos en el agua."
+        }
+      ]
+    },
+    {
+      "id": "amphibious",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "amphi-",
+        "bi",
+        "-ous"
+      ],
+      "gloss": {
+        "en": "able to live or work both on land and in water",
+        "tr": "hem karada hem suda yaşayabilen ya da çalışabilen, amfibi",
+        "de": "amphibisch, Amphibien-",
+        "fr": "amphibie",
+        "it": "anfibio",
+        "es": "anfibio"
+      },
+      "sentences": [
+        {
+          "en": "The tour uses an [amphibious] bus that drives into the river.",
+          "tr": "Tur, nehre giren amfibi bir otobüs kullanıyor.",
+          "de": "Die Tour nutzt einen Amphibienbus, der in den Fluss fährt.",
+          "fr": "La visite se fait en bus amphibie qui entre dans la rivière.",
+          "it": "Il tour usa un autobus anfibio che entra nel fiume.",
+          "es": "El recorrido usa un autobús anfibio que entra en el río."
+        },
+        {
+          "en": "Crocodiles are [amphibious] hunters.",
+          "tr": "Timsahlar hem karada hem suda avlanır.",
+          "de": "Krokodile jagen an Land und im Wasser.",
+          "fr": "Les crocodiles sont des chasseurs amphibies.",
+          "it": "I coccodrilli sono cacciatori anfibi.",
+          "es": "Los cocodrilos son cazadores anfibios."
         }
       ]
     }

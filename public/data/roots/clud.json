@@ -232,6 +232,80 @@
       ]
     },
     {
+      "id": "nondisclosure",
+      "pos": "noun",
+      "parent": "disclosure",
+      "parts": [
+        "non-",
+        "dis-",
+        "clos",
+        "-ure"
+      ],
+      "gloss": {
+        "en": "the act of keeping information secret, often by a signed agreement",
+        "tr": "gizlilik, açıklamama",
+        "de": "die Geheimhaltung, die Verschwiegenheit",
+        "fr": "la confidentialité, la non-divulgation",
+        "it": "la riservatezza, la non divulgazione",
+        "es": "la confidencialidad"
+      },
+      "sentences": [
+        {
+          "en": "New staff must sign a [nondisclosure] agreement.",
+          "tr": "Yeni çalışanlar bir gizlilik sözleşmesi imzalamalı.",
+          "de": "Neue Mitarbeiter müssen eine Geheimhaltungsvereinbarung unterschreiben.",
+          "fr": "Les nouveaux employés doivent signer un accord de confidentialité.",
+          "it": "I nuovi dipendenti devono firmare un accordo di riservatezza.",
+          "es": "El personal nuevo debe firmar un acuerdo de confidencialidad."
+        },
+        {
+          "en": "The [nondisclosure] of the risks was a serious mistake.",
+          "tr": "Risklerin açıklanmaması ciddi bir hataydı.",
+          "de": "Das Verschweigen der Risiken war ein schwerer Fehler.",
+          "fr": "La non-divulgation des risques a été une grave erreur.",
+          "it": "La mancata divulgazione dei rischi è stata un grave errore.",
+          "es": "No revelar los riesgos fue un grave error."
+        }
+      ]
+    },
+    {
+      "id": "undisclosed",
+      "pos": "adjective",
+      "parent": "disclose",
+      "parts": [
+        "un-",
+        "dis-",
+        "clos",
+        "-ed"
+      ],
+      "gloss": {
+        "en": "not made known publicly; kept secret",
+        "tr": "açıklanmayan, gizli tutulan",
+        "de": "nicht genannt, geheim",
+        "fr": "non divulgué, tenu secret",
+        "it": "non reso noto, riservato",
+        "es": "no revelado, confidencial"
+      },
+      "sentences": [
+        {
+          "en": "The house was sold for an [undisclosed] sum.",
+          "tr": "Ev açıklanmayan bir fiyata satıldı.",
+          "de": "Das Haus wurde für eine nicht genannte Summe verkauft.",
+          "fr": "La maison a été vendue pour une somme non divulguée.",
+          "it": "La casa è stata venduta per una cifra non resa nota.",
+          "es": "La casa se vendió por una suma no revelada."
+        },
+        {
+          "en": "The singer is staying at an [undisclosed] location.",
+          "tr": "Şarkıcı gizli tutulan bir yerde kalıyor.",
+          "de": "Die Sängerin wohnt an einem geheimen Ort.",
+          "fr": "Le chanteur séjourne dans un lieu tenu secret.",
+          "it": "Il cantante alloggia in un luogo riservato.",
+          "es": "El cantante se aloja en un lugar no revelado."
+        }
+      ]
+    },
+    {
       "id": "closure",
       "pos": "noun",
       "parent": "close",
@@ -409,6 +483,42 @@
       ]
     },
     {
+      "id": "including",
+      "pos": "preposition",
+      "parent": "include",
+      "parts": [
+        "in-",
+        "clud",
+        "-ing"
+      ],
+      "gloss": {
+        "en": "with something as part of the whole",
+        "tr": "dahil, de dahil olmak üzere",
+        "de": "einschließlich, inklusive",
+        "fr": "y compris",
+        "it": "incluso, compreso",
+        "es": "incluido, incluso"
+      },
+      "sentences": [
+        {
+          "en": "Ten people came, [including] my brother.",
+          "tr": "Kardeşim de dahil on kişi geldi.",
+          "de": "Zehn Leute kamen, einschließlich meines Bruders.",
+          "fr": "Dix personnes sont venues, y compris mon frère.",
+          "it": "Sono venute dieci persone, compreso mio fratello.",
+          "es": "Vinieron diez personas, incluido mi hermano."
+        },
+        {
+          "en": "The price is fifty euros, [including] breakfast.",
+          "tr": "Fiyat kahvaltı dahil elli avro.",
+          "de": "Der Preis beträgt fünfzig Euro inklusive Frühstück.",
+          "fr": "Le prix est de cinquante euros, petit-déjeuner compris.",
+          "it": "Il prezzo è di cinquanta euro, colazione compresa.",
+          "es": "El precio es de cincuenta euros, desayuno incluido."
+        }
+      ]
+    },
+    {
       "id": "exclude",
       "pos": "verb",
       "parent": null,
@@ -553,6 +663,43 @@
       ]
     },
     {
+      "id": "exclusivity",
+      "pos": "noun",
+      "parent": "exclusive",
+      "parts": [
+        "ex-",
+        "clus",
+        "-iv",
+        "-ity"
+      ],
+      "gloss": {
+        "en": "the quality of being only for a few people; the right that only one company has",
+        "tr": "ayrıcalık, seçkinlik; münhasırlık",
+        "de": "die Exklusivität",
+        "fr": "l'exclusivité",
+        "it": "l'esclusività",
+        "es": "la exclusividad"
+      },
+      "sentences": [
+        {
+          "en": "The club's [exclusivity] makes people want to join.",
+          "tr": "Kulübün seçkinliği insanların üye olmasını istetiyor.",
+          "de": "Die Exklusivität des Clubs macht ihn begehrt.",
+          "fr": "L'exclusivité du club donne envie d'y entrer.",
+          "it": "L'esclusività del club fa venire voglia di entrarci.",
+          "es": "La exclusividad del club hace que la gente quiera entrar."
+        },
+        {
+          "en": "The channel paid for [exclusivity] on the final.",
+          "tr": "Kanal finalin yayın hakkını tek başına almak için para ödedi.",
+          "de": "Der Sender zahlte für die Exklusivrechte am Finale.",
+          "fr": "La chaîne a payé pour l'exclusivité de la finale.",
+          "it": "Il canale ha pagato per l'esclusiva della finale.",
+          "es": "El canal pagó por la exclusividad de la final."
+        }
+      ]
+    },
+    {
       "id": "conclude",
       "pos": "verb",
       "parent": null,
@@ -693,6 +840,43 @@
           "fr": "Au bout de trois heures, les discussions n'avaient toujours rien donné.",
           "it": "Dopo tre ore i colloqui erano ancora senza esito.",
           "es": "Tras tres horas, las conversaciones seguían sin resultado."
+        }
+      ]
+    },
+    {
+      "id": "conclusively",
+      "pos": "adverb",
+      "parent": "conclusive",
+      "parts": [
+        "con-",
+        "clus",
+        "-ive",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "in a way that proves something without doubt",
+        "tr": "kesin olarak",
+        "de": "eindeutig, schlüssig",
+        "fr": "de façon concluante",
+        "it": "in modo definitivo, inequivocabilmente",
+        "es": "de forma concluyente"
+      },
+      "sentences": [
+        {
+          "en": "The test [conclusively] proved that he was the father.",
+          "tr": "Test onun baba olduğunu kesin olarak kanıtladı.",
+          "de": "Der Test bewies eindeutig, dass er der Vater war.",
+          "fr": "Le test a prouvé de façon concluante qu'il était le père.",
+          "it": "Il test ha dimostrato in modo definitivo che era il padre.",
+          "es": "La prueba demostró de forma concluyente que era el padre."
+        },
+        {
+          "en": "Scientists have not yet [conclusively] explained the noise.",
+          "tr": "Bilim insanları gürültüyü henüz kesin olarak açıklayamadı.",
+          "de": "Wissenschaftler haben das Geräusch noch nicht eindeutig erklärt.",
+          "fr": "Les scientifiques n'ont pas encore expliqué le bruit de façon concluante.",
+          "it": "Gli scienziati non hanno ancora spiegato il rumore in modo definitivo.",
+          "es": "Los científicos aún no han explicado el ruido de forma concluyente."
         }
       ]
     },

@@ -126,6 +126,43 @@
       ]
     },
     {
+      "id": "spirituality",
+      "pos": "noun",
+      "parent": "spiritual",
+      "parts": [
+        "spir",
+        "-it",
+        "-ual",
+        "-ity"
+      ],
+      "gloss": {
+        "en": "interest in the soul and religious or deep questions rather than material things",
+        "tr": "maneviyat, tinsellik",
+        "de": "die Spiritualität",
+        "fr": "la spiritualité",
+        "it": "la spiritualità",
+        "es": "la espiritualidad"
+      },
+      "sentences": [
+        {
+          "en": "For her, [spirituality] is more important than money.",
+          "tr": "Onun için maneviyat paradan daha önemli.",
+          "de": "Für sie ist Spiritualität wichtiger als Geld.",
+          "fr": "Pour elle, la spiritualité compte plus que l'argent.",
+          "it": "Per lei la spiritualità è più importante del denaro.",
+          "es": "Para ella, la espiritualidad es más importante que el dinero."
+        },
+        {
+          "en": "The course explores art and [spirituality] in India.",
+          "tr": "Kurs Hindistan'da sanat ve maneviyatı inceliyor.",
+          "de": "Der Kurs behandelt Kunst und Spiritualität in Indien.",
+          "fr": "Le cours explore l'art et la spiritualité en Inde.",
+          "it": "Il corso esplora l'arte e la spiritualità in India.",
+          "es": "El curso explora el arte y la espiritualidad en la India."
+        }
+      ]
+    },
+    {
       "id": "dispirited",
       "pos": "adjective",
       "parent": "spirit",
@@ -447,6 +484,42 @@
           "fr": "Les parents ont souvent de grandes aspirations pour leurs enfants.",
           "it": "I genitori hanno spesso grandi aspirazioni per i figli.",
           "es": "Los padres suelen tener grandes aspiraciones para sus hijos."
+        }
+      ]
+    },
+    {
+      "id": "aspiring",
+      "pos": "adjective",
+      "parent": "aspire",
+      "parts": [
+        "a-",
+        "spir",
+        "-ing"
+      ],
+      "gloss": {
+        "en": "hoping to become something, especially in a job",
+        "tr": "hevesli, olmaya çalışan, istekli",
+        "de": "angehend, ambitioniert",
+        "fr": "en herbe, aspirant",
+        "it": "aspirante",
+        "es": "aspirante, en ciernes"
+      },
+      "sentences": [
+        {
+          "en": "The workshop is for [aspiring] writers.",
+          "tr": "Atölye yazar olmak isteyenler için.",
+          "de": "Der Workshop ist für angehende Schriftsteller.",
+          "fr": "L'atelier est destiné aux écrivains en herbe.",
+          "it": "Il laboratorio è per aspiranti scrittori.",
+          "es": "El taller es para aspirantes a escritor."
+        },
+        {
+          "en": "Many [aspiring] actors work as waiters in the city.",
+          "tr": "Şehirde oyuncu olmak isteyen birçok kişi garsonluk yapıyor.",
+          "de": "Viele angehende Schauspieler arbeiten in der Stadt als Kellner.",
+          "fr": "Beaucoup d'acteurs en herbe travaillent comme serveurs en ville.",
+          "it": "Molti aspiranti attori lavorano come camerieri in città.",
+          "es": "Muchos aspirantes a actor trabajan de camareros en la ciudad."
         }
       ]
     },

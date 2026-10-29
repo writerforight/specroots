@@ -478,6 +478,42 @@
       ]
     },
     {
+      "id": "indicative",
+      "pos": "adjective",
+      "parent": "indicate",
+      "parts": [
+        "in-",
+        "dic",
+        "-ative"
+      ],
+      "gloss": {
+        "en": "showing or suggesting something; (grammar) the verb form for facts",
+        "tr": "gösteren, işaret eden; (dilbilgisi) bildirme kipi",
+        "de": "bezeichnend; (Grammatik) der Indikativ",
+        "fr": "révélateur, indicatif ; (grammaire) l'indicatif",
+        "it": "indicativo, rivelatore; (grammatica) l'indicativo",
+        "es": "indicativo, revelador; (gramática) el indicativo"
+      },
+      "sentences": [
+        {
+          "en": "Her fever is [indicative] of an infection.",
+          "tr": "Ateşi bir enfeksiyona işaret ediyor.",
+          "de": "Ihr Fieber ist ein Hinweis auf eine Infektion.",
+          "fr": "Sa fièvre est révélatrice d'une infection.",
+          "it": "La sua febbre è indicativa di un'infezione.",
+          "es": "Su fiebre es indicativa de una infección."
+        },
+        {
+          "en": "'She runs' is a verb in the [indicative].",
+          "tr": "'She runs' bildirme kipinde bir fiildir.",
+          "de": "„She runs“ ist ein Verb im Indikativ.",
+          "fr": "« She runs » est un verbe à l'indicatif.",
+          "it": "«She runs» è un verbo all'indicativo.",
+          "es": "«She runs» es un verbo en indicativo."
+        }
+      ]
+    },
+    {
       "id": "addict",
       "pos": "noun",
       "parent": null,
@@ -581,6 +617,42 @@
           "fr": "Le sucre peut rendre accro.",
           "it": "Lo zucchero può creare dipendenza.",
           "es": "El azúcar puede ser adictivo."
+        }
+      ]
+    },
+    {
+      "id": "addicted",
+      "pos": "adjective",
+      "parent": "addict",
+      "parts": [
+        "ad-",
+        "dict",
+        "-ed"
+      ],
+      "gloss": {
+        "en": "unable to stop taking or doing something",
+        "tr": "bağımlı",
+        "de": "süchtig, abhängig",
+        "fr": "dépendant, accro",
+        "it": "dipendente, assuefatto",
+        "es": "adicto"
+      },
+      "sentences": [
+        {
+          "en": "He was [addicted] to cigarettes for twenty years.",
+          "tr": "Yirmi yıl boyunca sigaraya bağımlıydı.",
+          "de": "Er war zwanzig Jahre lang nikotinsüchtig.",
+          "fr": "Il a été accro aux cigarettes pendant vingt ans.",
+          "it": "È stato dipendente dalle sigarette per vent'anni.",
+          "es": "Fue adicto al tabaco durante veinte años."
+        },
+        {
+          "en": "My little brother is [addicted] to video games.",
+          "tr": "Küçük kardeşim video oyunlarına bağımlı.",
+          "de": "Mein kleiner Bruder ist süchtig nach Videospielen.",
+          "fr": "Mon petit frère est accro aux jeux vidéo.",
+          "it": "Il mio fratellino è dipendente dai videogiochi.",
+          "es": "Mi hermano pequeño es adicto a los videojuegos."
         }
       ]
     },
@@ -904,6 +976,150 @@
           "fr": "La dédicace du livre dit : « À mon père ».",
           "it": "La dedica del libro dice: «A mio padre».",
           "es": "La dedicatoria del libro dice: «Para mi padre»."
+        }
+      ]
+    },
+    {
+      "id": "dedicated",
+      "pos": "adjective",
+      "parent": "dedicate",
+      "parts": [
+        "de-",
+        "dic",
+        "-ated"
+      ],
+      "gloss": {
+        "en": "working very hard for something you believe in; made for one purpose only",
+        "tr": "kendini adamış; yalnızca bir amaca ayrılmış",
+        "de": "engagiert, hingebungsvoll; eigens dafür bestimmt",
+        "fr": "dévoué, passionné ; dédié",
+        "it": "dedito, appassionato; dedicato",
+        "es": "entregado, dedicado; exclusivo"
+      },
+      "sentences": [
+        {
+          "en": "She is a [dedicated] nurse who never complains.",
+          "tr": "O hiç şikâyet etmeyen, kendini işine adamış bir hemşire.",
+          "de": "Sie ist eine engagierte Krankenschwester, die sich nie beklagt.",
+          "fr": "C'est une infirmière dévouée qui ne se plaint jamais.",
+          "it": "È un'infermiera dedita al lavoro che non si lamenta mai.",
+          "es": "Es una enfermera entregada que nunca se queja."
+        },
+        {
+          "en": "The city has a [dedicated] lane for bikes.",
+          "tr": "Şehirde bisikletlere ayrılmış bir şerit var.",
+          "de": "Die Stadt hat eine eigene Spur für Fahrräder.",
+          "fr": "La ville a une voie réservée aux vélos.",
+          "it": "La città ha una corsia dedicata alle bici.",
+          "es": "La ciudad tiene un carril exclusivo para bicicletas."
+        }
+      ]
+    },
+    {
+      "id": "abdicate",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ab-",
+        "dic",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "to give up being king or queen; to refuse a duty (literally: to declare away)",
+        "tr": "tahttan çekilmek; sorumluluktan kaçmak",
+        "de": "abdanken; sich entziehen",
+        "fr": "abdiquer",
+        "it": "abdicare; sottrarsi",
+        "es": "abdicar; eludir"
+      },
+      "sentences": [
+        {
+          "en": "The old king decided to [abdicate] in favour of his son.",
+          "tr": "Yaşlı kral oğlu lehine tahttan çekilmeye karar verdi.",
+          "de": "Der alte König beschloss, zugunsten seines Sohnes abzudanken.",
+          "fr": "Le vieux roi a décidé d'abdiquer en faveur de son fils.",
+          "it": "Il vecchio re decise di abdicare in favore del figlio.",
+          "es": "El viejo rey decidió abdicar en favor de su hijo."
+        },
+        {
+          "en": "Parents cannot [abdicate] their responsibility for their children.",
+          "tr": "Ebeveynler çocuklarına karşı sorumluluktan kaçamaz.",
+          "de": "Eltern können sich ihrer Verantwortung für ihre Kinder nicht entziehen.",
+          "fr": "Les parents ne peuvent pas abdiquer leur responsabilité envers leurs enfants.",
+          "it": "I genitori non possono sottrarsi alla responsabilità verso i figli.",
+          "es": "Los padres no pueden eludir su responsabilidad con sus hijos."
+        }
+      ]
+    },
+    {
+      "id": "abdication",
+      "pos": "noun",
+      "parent": "abdicate",
+      "parts": [
+        "ab-",
+        "dic",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "the act of giving up the throne",
+        "tr": "tahttan çekilme",
+        "de": "die Abdankung",
+        "fr": "l'abdication",
+        "it": "l'abdicazione",
+        "es": "la abdicación"
+      },
+      "sentences": [
+        {
+          "en": "The queen's [abdication] surprised the whole country.",
+          "tr": "Kraliçenin tahttan çekilmesi bütün ülkeyi şaşırttı.",
+          "de": "Die Abdankung der Königin überraschte das ganze Land.",
+          "fr": "L'abdication de la reine a surpris tout le pays.",
+          "it": "L'abdicazione della regina ha sorpreso tutto il paese.",
+          "es": "La abdicación de la reina sorprendió a todo el país."
+        },
+        {
+          "en": "After his [abdication], the king lived quietly abroad.",
+          "tr": "Tahttan çekildikten sonra kral yurt dışında sessizce yaşadı.",
+          "de": "Nach seiner Abdankung lebte der König zurückgezogen im Ausland.",
+          "fr": "Après son abdication, le roi a vécu discrètement à l'étranger.",
+          "it": "Dopo l'abdicazione, il re visse tranquillo all'estero.",
+          "es": "Tras su abdicación, el rey vivió discretamente en el extranjero."
+        }
+      ]
+    },
+    {
+      "id": "predicate",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "pre-",
+        "dic",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "(grammar) the part of a sentence that says something about the subject (literally: something declared)",
+        "tr": "yüklem",
+        "de": "das Prädikat, die Satzaussage",
+        "fr": "le prédicat",
+        "it": "il predicato",
+        "es": "el predicado"
+      },
+      "sentences": [
+        {
+          "en": "In 'Birds fly', the word 'fly' is the [predicate].",
+          "tr": "'Birds fly' cümlesinde 'fly' yüklemdir.",
+          "de": "In „Birds fly“ ist „fly“ das Prädikat.",
+          "fr": "Dans « Birds fly », le mot « fly » est le prédicat.",
+          "it": "In «Birds fly», la parola «fly» è il predicato.",
+          "es": "En «Birds fly», la palabra «fly» es el predicado."
+        },
+        {
+          "en": "Every full sentence needs a subject and a [predicate].",
+          "tr": "Her tam cümlenin bir öznesi ve bir yüklemi olmalı.",
+          "de": "Jeder vollständige Satz braucht ein Subjekt und ein Prädikat.",
+          "fr": "Chaque phrase complète a besoin d'un sujet et d'un prédicat.",
+          "it": "Ogni frase completa ha bisogno di un soggetto e di un predicato.",
+          "es": "Toda oración completa necesita un sujeto y un predicado."
         }
       ]
     }

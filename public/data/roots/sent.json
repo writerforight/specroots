@@ -121,6 +121,43 @@
       ]
     },
     {
+      "id": "nonsensical",
+      "pos": "adjective",
+      "parent": "nonsense",
+      "parts": [
+        "non-",
+        "sens",
+        "-ic",
+        "-al"
+      ],
+      "gloss": {
+        "en": "having no meaning; silly or stupid",
+        "tr": "anlamsız, saçma",
+        "de": "unsinnig",
+        "fr": "absurde, insensé",
+        "it": "assurdo, privo di senso",
+        "es": "absurdo, sin sentido"
+      },
+      "sentences": [
+        {
+          "en": "The instructions were translated into [nonsensical] English.",
+          "tr": "Talimatlar anlamsız bir İngilizceye çevrilmişti.",
+          "de": "Die Anleitung war in unsinniges Englisch übersetzt.",
+          "fr": "Les instructions avaient été traduites dans un anglais absurde.",
+          "it": "Le istruzioni erano tradotte in un inglese privo di senso.",
+          "es": "Las instrucciones estaban traducidas a un inglés sin sentido."
+        },
+        {
+          "en": "It is [nonsensical] to drive two minutes to the shop.",
+          "tr": "Dükkâna iki dakika araba sürmek saçma.",
+          "de": "Es ist unsinnig, zwei Minuten zum Laden zu fahren.",
+          "fr": "C'est absurde de prendre la voiture pour deux minutes de trajet.",
+          "it": "È assurdo prendere la macchina per due minuti fino al negozio.",
+          "es": "Es absurdo ir en coche dos minutos hasta la tienda."
+        }
+      ]
+    },
+    {
       "id": "sensible",
       "pos": "adjective",
       "parent": null,
@@ -187,6 +224,41 @@
           "fr": "Elle a dépensé son prix raisonnablement.",
           "it": "Ha speso il premio in modo sensato.",
           "es": "Gastó el dinero del premio con sensatez."
+        }
+      ]
+    },
+    {
+      "id": "sensibility",
+      "pos": "noun",
+      "parent": "sensible",
+      "parts": [
+        "sens",
+        "-ibility"
+      ],
+      "gloss": {
+        "en": "the ability to feel and understand art, beauty or other people's feelings",
+        "tr": "duyarlılık, incelik",
+        "de": "das Feingefühl, die Empfindsamkeit",
+        "fr": "la sensibilité",
+        "it": "la sensibilità",
+        "es": "la sensibilidad"
+      },
+      "sentences": [
+        {
+          "en": "The film was made with great [sensibility].",
+          "tr": "Film büyük bir incelikle çekilmiş.",
+          "de": "Der Film wurde mit großem Feingefühl gedreht.",
+          "fr": "Le film a été réalisé avec une grande sensibilité.",
+          "it": "Il film è stato girato con grande sensibilità.",
+          "es": "La película se hizo con gran sensibilidad."
+        },
+        {
+          "en": "She has an artist's [sensibility] for colour.",
+          "tr": "Renge karşı bir sanatçının duyarlılığına sahip.",
+          "de": "Sie hat das Feingefühl einer Künstlerin für Farben.",
+          "fr": "Elle a une sensibilité d'artiste pour la couleur.",
+          "it": "Ha una sensibilità da artista per il colore.",
+          "es": "Tiene una sensibilidad de artista para el color."
         }
       ]
     },
@@ -866,6 +938,42 @@
           "fr": "Il y avait un certain désaccord au sein de l'équipe.",
           "it": "C'era un po' di dissenso all'interno della squadra.",
           "es": "Hubo cierto desacuerdo dentro del equipo."
+        }
+      ]
+    },
+    {
+      "id": "dissenter",
+      "pos": "noun",
+      "parent": "dissent",
+      "parts": [
+        "dis-",
+        "sent",
+        "-er"
+      ],
+      "gloss": {
+        "en": "a person who disagrees with an official or popular opinion",
+        "tr": "muhalif, karşı görüşte olan",
+        "de": "der Andersdenkende, der Dissident",
+        "fr": "le dissident, l'opposant",
+        "it": "il dissidente",
+        "es": "el disidente"
+      },
+      "sentences": [
+        {
+          "en": "The vote was almost unanimous, with only two [dissenters].",
+          "tr": "Oylama neredeyse oybirliğiyle geçti, yalnızca iki kişi karşı çıktı.",
+          "de": "Die Abstimmung war fast einstimmig, mit nur zwei Gegenstimmen.",
+          "fr": "Le vote a été presque unanime, avec seulement deux opposants.",
+          "it": "Il voto è stato quasi unanime, con solo due dissidenti.",
+          "es": "La votación fue casi unánime, con solo dos disidentes."
+        },
+        {
+          "en": "The government put [dissenters] in prison.",
+          "tr": "Hükümet muhalifleri hapse attı.",
+          "de": "Die Regierung sperrte Andersdenkende ins Gefängnis.",
+          "fr": "Le gouvernement a emprisonné les dissidents.",
+          "it": "Il governo ha imprigionato i dissidenti.",
+          "es": "El gobierno encarceló a los disidentes."
         }
       ]
     },

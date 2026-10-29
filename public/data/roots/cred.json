@@ -159,6 +159,43 @@
       ]
     },
     {
+      "id": "accreditation",
+      "pos": "noun",
+      "parent": "accredit",
+      "parts": [
+        "ac-",
+        "cred",
+        "-it",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "official approval that a school, course or person meets a standard",
+        "tr": "akreditasyon, resmî tanınma",
+        "de": "die Akkreditierung, die Zulassung",
+        "fr": "l'accréditation",
+        "it": "l'accreditamento",
+        "es": "la acreditación"
+      },
+      "sentences": [
+        {
+          "en": "The new university is still waiting for [accreditation].",
+          "tr": "Yeni üniversite hâlâ akreditasyon bekliyor.",
+          "de": "Die neue Universität wartet noch auf ihre Akkreditierung.",
+          "fr": "La nouvelle université attend encore son accréditation.",
+          "it": "La nuova università aspetta ancora l'accreditamento.",
+          "es": "La nueva universidad aún espera su acreditación."
+        },
+        {
+          "en": "Journalists need [accreditation] to enter the stadium.",
+          "tr": "Gazetecilerin stadyuma girmek için akreditasyona ihtiyacı var.",
+          "de": "Journalisten brauchen eine Akkreditierung, um ins Stadion zu kommen.",
+          "fr": "Les journalistes ont besoin d'une accréditation pour entrer dans le stade.",
+          "it": "I giornalisti hanno bisogno di un accredito per entrare nello stadio.",
+          "es": "Los periodistas necesitan acreditación para entrar al estadio."
+        }
+      ]
+    },
+    {
       "id": "creditable",
       "pos": "adjective",
       "parent": "credit",

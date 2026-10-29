@@ -90,6 +90,78 @@
       ]
     },
     {
+      "id": "captivate",
+      "pos": "verb",
+      "parent": "captive",
+      "parts": [
+        "capt",
+        "-iv",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "to hold someone's attention completely (literally: to take captive)",
+        "tr": "büyülemek, kendine hayran bırakmak",
+        "de": "fesseln, bezaubern",
+        "fr": "captiver, fasciner",
+        "it": "affascinare, catturare",
+        "es": "cautivar"
+      },
+      "sentences": [
+        {
+          "en": "The magician [captivated] the children for an hour.",
+          "tr": "Sihirbaz çocukları bir saat boyunca büyüledi.",
+          "de": "Der Zauberer fesselte die Kinder eine Stunde lang.",
+          "fr": "Le magicien a captivé les enfants pendant une heure.",
+          "it": "Il mago ha affascinato i bambini per un'ora.",
+          "es": "El mago cautivó a los niños durante una hora."
+        },
+        {
+          "en": "Her voice [captivates] everyone who hears it.",
+          "tr": "Sesi onu duyan herkesi kendine hayran bırakıyor.",
+          "de": "Ihre Stimme bezaubert jeden, der sie hört.",
+          "fr": "Sa voix captive tous ceux qui l'entendent.",
+          "it": "La sua voce affascina chiunque la ascolti.",
+          "es": "Su voz cautiva a todos los que la oyen."
+        }
+      ]
+    },
+    {
+      "id": "captivity",
+      "pos": "noun",
+      "parent": "captive",
+      "parts": [
+        "capt",
+        "-iv",
+        "-ity"
+      ],
+      "gloss": {
+        "en": "the state of being kept as a prisoner or in a cage",
+        "tr": "esaret, tutsaklık",
+        "de": "die Gefangenschaft",
+        "fr": "la captivité",
+        "it": "la prigionia, la cattività",
+        "es": "el cautiverio"
+      },
+      "sentences": [
+        {
+          "en": "These tigers were born in [captivity].",
+          "tr": "Bu kaplanlar esaret altında doğdu.",
+          "de": "Diese Tiger wurden in Gefangenschaft geboren.",
+          "fr": "Ces tigres sont nés en captivité.",
+          "it": "Queste tigri sono nate in cattività.",
+          "es": "Estos tigres nacieron en cautiverio."
+        },
+        {
+          "en": "He wrote a book about his years in [captivity].",
+          "tr": "Tutsaklıkta geçen yılları hakkında bir kitap yazdı.",
+          "de": "Er schrieb ein Buch über seine Jahre in Gefangenschaft.",
+          "fr": "Il a écrit un livre sur ses années de captivité.",
+          "it": "Ha scritto un libro sui suoi anni di prigionia.",
+          "es": "Escribió un libro sobre sus años de cautiverio."
+        }
+      ]
+    },
+    {
       "id": "capable",
       "pos": "adjective",
       "parent": null,
@@ -121,6 +193,42 @@
           "fr": "Cette voiture est-elle capable d'aller plus vite ?",
           "it": "Questa macchina è capace di andare più veloce?",
           "es": "¿Este coche es capaz de ir más rápido?"
+        }
+      ]
+    },
+    {
+      "id": "incapable",
+      "pos": "adjective",
+      "parent": "capable",
+      "parts": [
+        "in-not-",
+        "cap",
+        "-able"
+      ],
+      "gloss": {
+        "en": "not able to do something",
+        "tr": "yapamayan, aciz, beceriksiz",
+        "de": "unfähig",
+        "fr": "incapable",
+        "it": "incapace",
+        "es": "incapaz"
+      },
+      "sentences": [
+        {
+          "en": "He is [incapable] of telling a lie.",
+          "tr": "O yalan söyleyemeyecek biri.",
+          "de": "Er ist unfähig zu lügen.",
+          "fr": "Il est incapable de mentir.",
+          "it": "È incapace di dire una bugia.",
+          "es": "Es incapaz de mentir."
+        },
+        {
+          "en": "After the long run, I felt [incapable] of moving.",
+          "tr": "Uzun koşudan sonra kıpırdayamayacak hâldeydim.",
+          "de": "Nach dem langen Lauf fühlte ich mich unfähig, mich zu bewegen.",
+          "fr": "Après la longue course, je me sentais incapable de bouger.",
+          "it": "Dopo la lunga corsa mi sentivo incapace di muovermi.",
+          "es": "Después de la larga carrera me sentía incapaz de moverme."
         }
       ]
     },
@@ -445,6 +553,79 @@
       ]
     },
     {
+      "id": "conceptual",
+      "pos": "adjective",
+      "parent": "concept",
+      "parts": [
+        "con-",
+        "cept",
+        "-ual"
+      ],
+      "gloss": {
+        "en": "related to ideas rather than real things",
+        "tr": "kavramsal",
+        "de": "konzeptionell, begrifflich",
+        "fr": "conceptuel",
+        "it": "concettuale",
+        "es": "conceptual"
+      },
+      "sentences": [
+        {
+          "en": "This is only a [conceptual] drawing of the new car.",
+          "tr": "Bu, yeni arabanın yalnızca kavramsal bir çizimi.",
+          "de": "Das ist nur eine Konzeptzeichnung des neuen Autos.",
+          "fr": "Ce n'est qu'un dessin conceptuel de la nouvelle voiture.",
+          "it": "È solo un disegno concettuale della nuova auto.",
+          "es": "Es solo un dibujo conceptual del nuevo coche."
+        },
+        {
+          "en": "The museum shows [conceptual] art from the 1960s.",
+          "tr": "Müze 1960'lardan kavramsal sanat eserleri sergiliyor.",
+          "de": "Das Museum zeigt Konzeptkunst aus den 1960er-Jahren.",
+          "fr": "Le musée expose de l'art conceptuel des années 1960.",
+          "it": "Il museo espone arte concettuale degli anni Sessanta.",
+          "es": "El museo muestra arte conceptual de los años sesenta."
+        }
+      ]
+    },
+    {
+      "id": "misconception",
+      "pos": "noun",
+      "parent": "concept",
+      "parts": [
+        "mis-",
+        "con-",
+        "cept",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a wrong idea or belief",
+        "tr": "yanlış kanı, yanılgı",
+        "de": "der Irrtum, die falsche Vorstellung",
+        "fr": "l'idée fausse, l'idée reçue",
+        "it": "il malinteso, l'idea sbagliata",
+        "es": "la idea equivocada, el error"
+      },
+      "sentences": [
+        {
+          "en": "It is a common [misconception] that bats are blind.",
+          "tr": "Yarasaların kör olduğu yaygın bir yanılgıdır.",
+          "de": "Es ist ein verbreiteter Irrtum, dass Fledermäuse blind sind.",
+          "fr": "C'est une idée reçue que les chauves-souris sont aveugles.",
+          "it": "È un'idea sbagliata comune che i pipistrelli siano ciechi.",
+          "es": "Es un error común creer que los murciélagos son ciegos."
+        },
+        {
+          "en": "The teacher cleared up our [misconceptions] about gravity.",
+          "tr": "Öğretmen yer çekimiyle ilgili yanlış kanılarımızı düzeltti.",
+          "de": "Die Lehrerin räumte unsere falschen Vorstellungen über die Schwerkraft aus.",
+          "fr": "Le professeur a corrigé nos idées fausses sur la gravité.",
+          "it": "L'insegnante ha chiarito i nostri malintesi sulla gravità.",
+          "es": "La profesora aclaró nuestras ideas equivocadas sobre la gravedad."
+        }
+      ]
+    },
+    {
       "id": "perceive",
       "pos": "verb",
       "parent": null,
@@ -512,6 +693,79 @@
           "fr": "L'image de l'entreprise auprès du public est mauvaise.",
           "it": "La percezione pubblica dell'azienda è negativa.",
           "es": "La percepción pública de la empresa es mala."
+        }
+      ]
+    },
+    {
+      "id": "perceptive",
+      "pos": "adjective",
+      "parent": "perceive",
+      "parts": [
+        "per-",
+        "cept",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "quick to notice and understand things",
+        "tr": "sezgisi güçlü, anlayışlı",
+        "de": "scharfsinnig, aufmerksam",
+        "fr": "perspicace, fin",
+        "it": "perspicace, acuto",
+        "es": "perspicaz, observador"
+      },
+      "sentences": [
+        {
+          "en": "That was a very [perceptive] question.",
+          "tr": "Bu çok zekice, anlayışlı bir soruydu.",
+          "de": "Das war eine sehr scharfsinnige Frage.",
+          "fr": "C'était une question très perspicace.",
+          "it": "Era una domanda molto acuta.",
+          "es": "Fue una pregunta muy perspicaz."
+        },
+        {
+          "en": "Children are often more [perceptive] than adults think.",
+          "tr": "Çocuklar çoğu zaman yetişkinlerin sandığından daha sezgilidir.",
+          "de": "Kinder sind oft aufmerksamer, als Erwachsene denken.",
+          "fr": "Les enfants sont souvent plus perspicaces que les adultes ne le pensent.",
+          "it": "I bambini sono spesso più perspicaci di quanto pensino gli adulti.",
+          "es": "Los niños suelen ser más observadores de lo que creen los adultos."
+        }
+      ]
+    },
+    {
+      "id": "imperceptible",
+      "pos": "adjective",
+      "parent": "perceive",
+      "parts": [
+        "im-not-",
+        "per-",
+        "cept",
+        "-ible"
+      ],
+      "gloss": {
+        "en": "too small or slight to be noticed",
+        "tr": "fark edilmeyecek kadar küçük, sezilmez",
+        "de": "unmerklich, kaum wahrnehmbar",
+        "fr": "imperceptible",
+        "it": "impercettibile",
+        "es": "imperceptible"
+      },
+      "sentences": [
+        {
+          "en": "The change in colour was almost [imperceptible].",
+          "tr": "Renkteki değişim neredeyse fark edilmiyordu.",
+          "de": "Die Farbveränderung war fast unmerklich.",
+          "fr": "Le changement de couleur était presque imperceptible.",
+          "it": "Il cambiamento di colore era quasi impercettibile.",
+          "es": "El cambio de color era casi imperceptible."
+        },
+        {
+          "en": "She gave an [imperceptible] nod to her friend.",
+          "tr": "Arkadaşına sezilmeyecek kadar hafif bir baş selamı verdi.",
+          "de": "Sie nickte ihrer Freundin kaum merklich zu.",
+          "fr": "Elle a fait un signe de tête imperceptible à son amie.",
+          "it": "Ha fatto un cenno impercettibile all'amica.",
+          "es": "Le hizo a su amiga un gesto imperceptible con la cabeza."
         }
       ]
     },
@@ -766,6 +1020,42 @@
       ]
     },
     {
+      "id": "deceptive",
+      "pos": "adjective",
+      "parent": "deception",
+      "parts": [
+        "de-",
+        "cept",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "making you believe something that is not true",
+        "tr": "yanıltıcı, aldatıcı",
+        "de": "täuschend, irreführend",
+        "fr": "trompeur",
+        "it": "ingannevole",
+        "es": "engañoso"
+      },
+      "sentences": [
+        {
+          "en": "Looks can be [deceptive]; he is stronger than he seems.",
+          "tr": "Görünüş aldatıcı olabilir; o göründüğünden daha güçlü.",
+          "de": "Der Schein kann trügen; er ist stärker, als er aussieht.",
+          "fr": "Les apparences sont trompeuses : il est plus fort qu'il n'en a l'air.",
+          "it": "L'apparenza inganna: è più forte di quanto sembri.",
+          "es": "Las apariencias engañan: es más fuerte de lo que parece."
+        },
+        {
+          "en": "The advert was [deceptive] about the real price.",
+          "tr": "Reklam gerçek fiyat konusunda yanıltıcıydı.",
+          "de": "Die Werbung war beim echten Preis irreführend.",
+          "fr": "La publicité était trompeuse sur le vrai prix.",
+          "it": "La pubblicità era ingannevole sul prezzo reale.",
+          "es": "El anuncio era engañoso sobre el precio real."
+        }
+      ]
+    },
+    {
       "id": "intercept",
       "pos": "verb",
       "parent": null,
@@ -909,6 +1199,42 @@
       ]
     },
     {
+      "id": "participation",
+      "pos": "noun",
+      "parent": "participate",
+      "parts": [
+        "parti-",
+        "cip",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "the act of taking part in something",
+        "tr": "katılım",
+        "de": "die Teilnahme, die Beteiligung",
+        "fr": "la participation",
+        "it": "la partecipazione",
+        "es": "la participación"
+      },
+      "sentences": [
+        {
+          "en": "Thank you all for your [participation] in the survey.",
+          "tr": "Ankete katılımınız için hepinize teşekkürler.",
+          "de": "Vielen Dank an alle für die Teilnahme an der Umfrage.",
+          "fr": "Merci à tous pour votre participation à l'enquête.",
+          "it": "Grazie a tutti per la partecipazione al sondaggio.",
+          "es": "Gracias a todos por su participación en la encuesta."
+        },
+        {
+          "en": "Class [participation] counts for part of your grade.",
+          "tr": "Derse katılım notunun bir kısmını oluşturuyor.",
+          "de": "Die mündliche Mitarbeit zählt zu einem Teil der Note.",
+          "fr": "La participation en classe compte dans la note.",
+          "it": "La partecipazione in classe conta per una parte del voto.",
+          "es": "La participación en clase cuenta para parte de la nota."
+        }
+      ]
+    },
+    {
       "id": "anticipate",
       "pos": "verb",
       "parent": null,
@@ -941,6 +1267,42 @@
           "fr": "Un bon conducteur anticipe le danger.",
           "it": "Un buon guidatore prevede il pericolo.",
           "es": "Un buen conductor se anticipa al peligro."
+        }
+      ]
+    },
+    {
+      "id": "anticipation",
+      "pos": "noun",
+      "parent": "anticipate",
+      "parts": [
+        "anti-before-",
+        "cip",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "excited waiting for something; preparing for something before it happens",
+        "tr": "heyecanlı bekleyiş, beklenti",
+        "de": "die Vorfreude, die Erwartung",
+        "fr": "l'impatience, l'attente ; la prévision",
+        "it": "l'attesa, l'aspettativa; la previsione",
+        "es": "la expectación, la ilusión; la previsión"
+      },
+      "sentences": [
+        {
+          "en": "The children could not sleep with [anticipation].",
+          "tr": "Çocuklar heyecanlı bekleyişten uyuyamadı.",
+          "de": "Die Kinder konnten vor Vorfreude nicht schlafen.",
+          "fr": "Les enfants ne pouvaient pas dormir d'impatience.",
+          "it": "I bambini non riuscivano a dormire per l'attesa.",
+          "es": "Los niños no podían dormir de la ilusión."
+        },
+        {
+          "en": "We bought extra water in [anticipation] of the heat.",
+          "tr": "Sıcağı öngörerek fazladan su aldık.",
+          "de": "In Erwartung der Hitze haben wir extra Wasser gekauft.",
+          "fr": "Nous avons acheté de l'eau en prévision de la chaleur.",
+          "it": "Abbiamo comprato acqua in più in previsione del caldo.",
+          "es": "Compramos agua de más en previsión del calor."
         }
       ]
     }

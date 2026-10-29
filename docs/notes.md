@@ -3,6 +3,29 @@
 Her turda güncellenir: optimizasyon, SPEC ile tutarsızlıklar, issue durumu, şüpheli veri, açık sorular.
 Bağlayıcı kararlar burada değil `SPEC.md`'dedir; buradaki bir not karar olunca SPEC'e taşınır.
 
+## 2026-10-29
+
+### Veri: +177 kelime (kullanıcı isteği: "yüklemeye devam et")
+- 37 mevcut köke eklendi, yeni kök yok (SPEC karar 11). Toplam 1343 kayıt, 1338 ayrı kelime.
+  Hiçbir kök 40'ı geçmedi (en çok spec 38, fac 37). En çok eklenen: pos +12, cap +10,
+  sist +10, spec +9, fac +9, vid +9. Yeni kelimeler yine ebeveynlerinin alt ağacının hemen arkasında.
+- Ağırlık yaygın türevlerde: zarflar (*specifically, constantly, instantly, precisely*), sıfatlar
+  (*opposite, promising, moving, informed, dedicated*), isimler (*commitment, committee, efficiency,
+  misconception, preposition*), birkaç yeni temel kelime (*conspicuous, perpendicular, intermittent,
+  advent, verse, tenet, incisor, amphibian*).
+- Yeni ekler: `-ite` (opposite, composite; Latince ortaç -itus), `-icular` (perpendicular,
+  extracurricular), `-iency` (efficiency), `-istic` (anachronistic), `-ization` (synchronization),
+  `-an` (amphibian), `amphi-` (iki yanlı), `eu-` (iyi; eulogy). Hiçbiri `combining` değil.
+- Yeni kök yazımları: spec'e `spic` (conspicuous, despicable), mit'e `mitt` (committee,
+  transmitter, intermittent) ve `mis` (promising), bio'ya `bi` (amphibian, amphibious).
+- Bilerek dışarıda bırakılanlar: *structural*/*procedural*/*manufacturer* (`-ure` + ek "structureal"
+  heceler; `-ural`, `-urer` ekleri gerekir), *adventurous* (aynı sorun), *graphite* (`-ite` burada
+  mineral eki, ayrı homograf ister), *difficult* (facilis üzerinden; bağ dolaylı), *necessary*
+  (ne- + cedere; ön ek belirsiz), *indict*/*indictment* (bu tura sığmadı, ileride eklenebilir),
+  *sensual*/*sensuous* (çağrışımı öğrenci sözlüğü için uygun değil), *suicide* (hassas konu).
+- 20'nin altında kalan kökler: morph 9, aud 11, photo 11, chron 14, mand 14, scop 14, junct 15,
+  nunci 15, cred 16, loc 17, rupt 18, bio 19, flect 19.
+
 ## 2026-10-22
 
 ### Veri: +177 kelime (kullanıcı isteği: "bu tur 150–200 kelime, herhangi yerlere")

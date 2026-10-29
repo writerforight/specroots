@@ -370,6 +370,42 @@
       ]
     },
     {
+      "id": "distracting",
+      "pos": "adjective",
+      "parent": "distract",
+      "parts": [
+        "dis-",
+        "tract",
+        "-ing"
+      ],
+      "gloss": {
+        "en": "taking your attention away from what you are doing",
+        "tr": "dikkat dağıtıcı",
+        "de": "ablenkend, störend",
+        "fr": "gênant, qui distrait",
+        "it": "che distrae, fastidioso",
+        "es": "que distrae, molesto"
+      },
+      "sentences": [
+        {
+          "en": "The noise from the street is very [distracting].",
+          "tr": "Sokaktan gelen gürültü çok dikkat dağıtıcı.",
+          "de": "Der Lärm von der Straße ist sehr störend.",
+          "fr": "Le bruit de la rue est très gênant.",
+          "it": "Il rumore della strada distrae molto.",
+          "es": "El ruido de la calle distrae mucho."
+        },
+        {
+          "en": "Phones in class are [distracting] for everyone.",
+          "tr": "Sınıfta telefonlar herkesin dikkatini dağıtır.",
+          "de": "Handys im Unterricht lenken alle ab.",
+          "fr": "Les téléphones en classe distraient tout le monde.",
+          "it": "I telefoni in classe distraggono tutti.",
+          "es": "Los móviles en clase distraen a todos."
+        }
+      ]
+    },
+    {
       "id": "extract",
       "pos": "verb",
       "parent": null,

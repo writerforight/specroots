@@ -745,6 +745,78 @@
           "es": "En invierno, el bosque caducifolio se ve gris y desnudo."
         }
       ]
+    },
+    {
+      "id": "decadent",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "de-",
+        "cad",
+        "-ent"
+      ],
+      "gloss": {
+        "en": "caring too much about pleasure and luxury; (food) rich and indulgent (literally: falling down, in decline)",
+        "tr": "yozlaşmış, çökmekte olan; (yiyecek) aşırı lezzetli, ağır",
+        "de": "dekadent; üppig",
+        "fr": "décadent",
+        "it": "decadente",
+        "es": "decadente"
+      },
+      "sentences": [
+        {
+          "en": "Critics called the rich family's lifestyle [decadent].",
+          "tr": "Eleştirmenler zengin ailenin yaşam tarzını yozlaşmış buldu.",
+          "de": "Kritiker nannten den Lebensstil der reichen Familie dekadent.",
+          "fr": "Les critiques ont qualifié de décadent le mode de vie de la famille riche.",
+          "it": "I critici hanno definito decadente lo stile di vita della famiglia ricca.",
+          "es": "Los críticos llamaron decadente al estilo de vida de la familia rica."
+        },
+        {
+          "en": "We shared a [decadent] chocolate cake.",
+          "tr": "Çok ağır, nefis bir çikolatalı pastayı paylaştık.",
+          "de": "Wir teilten uns einen üppigen Schokoladenkuchen.",
+          "fr": "Nous avons partagé un gâteau au chocolat décadent.",
+          "it": "Abbiamo diviso una torta al cioccolato decadente.",
+          "es": "Compartimos una tarta de chocolate decadente."
+        }
+      ]
+    },
+    {
+      "id": "decadence",
+      "pos": "noun",
+      "parent": "decadent",
+      "parts": [
+        "de-",
+        "cad",
+        "-ence"
+      ],
+      "gloss": {
+        "en": "a fall in moral standards; too much love of pleasure and luxury",
+        "tr": "yozlaşma, çöküş",
+        "de": "die Dekadenz, der Verfall",
+        "fr": "la décadence",
+        "it": "la decadenza",
+        "es": "la decadencia"
+      },
+      "sentences": [
+        {
+          "en": "The novel describes the [decadence] of the old empire.",
+          "tr": "Roman eski imparatorluğun çöküşünü anlatıyor.",
+          "de": "Der Roman beschreibt den Verfall des alten Reiches.",
+          "fr": "Le roman décrit la décadence du vieil empire.",
+          "it": "Il romanzo descrive la decadenza del vecchio impero.",
+          "es": "La novela describe la decadencia del viejo imperio."
+        },
+        {
+          "en": "Gold taps in the bathroom? That's pure [decadence].",
+          "tr": "Banyoda altın musluklar mı? Bu düpedüz şımarıklık.",
+          "de": "Goldene Wasserhähne im Bad? Das ist pure Dekadenz.",
+          "fr": "Des robinets en or dans la salle de bains ? C'est de la pure décadence.",
+          "it": "Rubinetti d'oro in bagno? È pura decadenza.",
+          "es": "¿Grifos de oro en el baño? Eso es pura decadencia."
+        }
+      ]
     }
   ]
 }

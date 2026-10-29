@@ -4,7 +4,8 @@
     "spec",
     "spect",
     "pect",
-    "pic"
+    "pic",
+    "spic"
   ],
   "origin": "la",
   "etymon": "specere",
@@ -196,6 +197,43 @@
       ]
     },
     {
+      "id": "respectfully",
+      "pos": "adverb",
+      "parent": "respectful",
+      "parts": [
+        "re-",
+        "spect",
+        "-ful",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "in a polite way that shows respect",
+        "tr": "saygıyla",
+        "de": "respektvoll",
+        "fr": "respectueusement",
+        "it": "rispettosamente",
+        "es": "respetuosamente"
+      },
+      "sentences": [
+        {
+          "en": "The students listened [respectfully] to the old soldier.",
+          "tr": "Öğrenciler yaşlı askeri saygıyla dinledi.",
+          "de": "Die Schüler hörten dem alten Soldaten respektvoll zu.",
+          "fr": "Les élèves ont écouté respectueusement le vieux soldat.",
+          "it": "Gli studenti hanno ascoltato rispettosamente il vecchio soldato.",
+          "es": "Los alumnos escucharon respetuosamente al viejo soldado."
+        },
+        {
+          "en": "I [respectfully] disagree with your decision.",
+          "tr": "Kararınıza saygıyla karşı çıkıyorum.",
+          "de": "Bei allem Respekt, ich sehe Ihre Entscheidung anders.",
+          "fr": "Avec tout mon respect, je ne suis pas d'accord avec votre décision.",
+          "it": "Con rispetto, non sono d'accordo con la sua decisione.",
+          "es": "Respetuosamente, no estoy de acuerdo con su decisión."
+        }
+      ]
+    },
+    {
       "id": "spectator",
       "pos": "noun",
       "parent": null,
@@ -371,6 +409,42 @@
           "fr": "La fin était complètement inattendue.",
           "it": "Il finale era del tutto inaspettato.",
           "es": "El final fue totalmente inesperado."
+        }
+      ]
+    },
+    {
+      "id": "expectant",
+      "pos": "adjective",
+      "parent": "expect",
+      "parts": [
+        "ex-",
+        "pect",
+        "-ant"
+      ],
+      "gloss": {
+        "en": "waiting for something to happen; going to have a baby",
+        "tr": "beklenti içinde; bebek bekleyen",
+        "de": "erwartungsvoll; werdend (Mutter, Vater)",
+        "fr": "dans l'attente ; qui attend un enfant",
+        "it": "in attesa, speranzoso; in attesa di un bambino",
+        "es": "expectante; que espera un bebé"
+      },
+      "sentences": [
+        {
+          "en": "The children waited with [expectant] faces for the show.",
+          "tr": "Çocuklar gösteriyi beklenti dolu yüzlerle bekledi.",
+          "de": "Die Kinder warteten mit erwartungsvollen Gesichtern auf die Show.",
+          "fr": "Les enfants attendaient le spectacle, le visage plein d'attente.",
+          "it": "I bambini aspettavano lo spettacolo con facce piene di attesa.",
+          "es": "Los niños esperaban el espectáculo con caras expectantes."
+        },
+        {
+          "en": "The class is for [expectant] mothers and fathers.",
+          "tr": "Bu kurs bebek bekleyen anneler ve babalar için.",
+          "de": "Der Kurs ist für werdende Mütter und Väter.",
+          "fr": "Ce cours est destiné aux futurs parents.",
+          "it": "Il corso è per future mamme e futuri papà.",
+          "es": "El curso es para madres y padres que esperan un bebé."
         }
       ]
     },
@@ -765,6 +839,79 @@
       ]
     },
     {
+      "id": "specification",
+      "pos": "noun",
+      "parent": "specify",
+      "parts": [
+        "spec",
+        "-ific",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "an exact description of how something must be made or what it must do",
+        "tr": "teknik özellik, şartname",
+        "de": "die Spezifikation, die technische Angabe",
+        "fr": "la spécification, le cahier des charges",
+        "it": "la specifica, la caratteristica tecnica",
+        "es": "la especificación"
+      },
+      "sentences": [
+        {
+          "en": "The new phone's [specifications] are listed on the box.",
+          "tr": "Yeni telefonun teknik özellikleri kutunun üzerinde yazıyor.",
+          "de": "Die technischen Daten des neuen Handys stehen auf der Packung.",
+          "fr": "Les caractéristiques du nouveau téléphone sont indiquées sur la boîte.",
+          "it": "Le specifiche del nuovo telefono sono scritte sulla scatola.",
+          "es": "Las especificaciones del nuevo teléfono aparecen en la caja."
+        },
+        {
+          "en": "The bridge was built exactly to the engineers' [specification].",
+          "tr": "Köprü tam olarak mühendislerin şartnamesine göre yapıldı.",
+          "de": "Die Brücke wurde genau nach der Vorgabe der Ingenieure gebaut.",
+          "fr": "Le pont a été construit exactement selon le cahier des charges des ingénieurs.",
+          "it": "Il ponte è stato costruito esattamente secondo le specifiche degli ingegneri.",
+          "es": "El puente se construyó exactamente según la especificación de los ingenieros."
+        }
+      ]
+    },
+    {
+      "id": "specifically",
+      "pos": "adverb",
+      "parent": "specific",
+      "parts": [
+        "spec",
+        "-ific",
+        "-al",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "for one particular purpose or person; exactly and clearly",
+        "tr": "özellikle, özel olarak; açıkça",
+        "de": "speziell, eigens; ausdrücklich",
+        "fr": "spécialement ; précisément",
+        "it": "appositamente; esplicitamente",
+        "es": "específicamente; expresamente"
+      },
+      "sentences": [
+        {
+          "en": "This room was built [specifically] for music lessons.",
+          "tr": "Bu oda özellikle müzik dersleri için yapıldı.",
+          "de": "Dieser Raum wurde eigens für Musikunterricht gebaut.",
+          "fr": "Cette salle a été construite spécialement pour les cours de musique.",
+          "it": "Questa stanza è stata costruita appositamente per le lezioni di musica.",
+          "es": "Esta sala se construyó específicamente para clases de música."
+        },
+        {
+          "en": "I [specifically] asked for no sugar in my tea.",
+          "tr": "Çayıma şeker koymamalarını açıkça istedim.",
+          "de": "Ich habe ausdrücklich um Tee ohne Zucker gebeten.",
+          "fr": "J'ai précisément demandé un thé sans sucre.",
+          "it": "Ho chiesto esplicitamente il tè senza zucchero.",
+          "es": "Pedí expresamente el té sin azúcar."
+        }
+      ]
+    },
+    {
       "id": "specimen",
       "pos": "noun",
       "parent": null,
@@ -1046,6 +1193,186 @@
           "fr": "Après la défaite, l'équipe avait besoin d'introspection.",
           "it": "Dopo la sconfitta, la squadra aveva bisogno di un po' di introspezione.",
           "es": "Tras la derrota, el equipo necesitaba algo de introspección."
+        }
+      ]
+    },
+    {
+      "id": "introspective",
+      "pos": "adjective",
+      "parent": "introspection",
+      "parts": [
+        "intro-",
+        "spect",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "thinking a lot about your own thoughts and feelings",
+        "tr": "içe dönük, kendini sorgulayan",
+        "de": "nachdenklich, in sich gekehrt",
+        "fr": "introspectif, porté à l'introspection",
+        "it": "introspettivo",
+        "es": "introspectivo"
+      },
+      "sentences": [
+        {
+          "en": "After the accident, he became quiet and [introspective].",
+          "tr": "Kazadan sonra sessiz ve içe dönük biri oldu.",
+          "de": "Nach dem Unfall wurde er still und in sich gekehrt.",
+          "fr": "Après l'accident, il est devenu silencieux et introspectif.",
+          "it": "Dopo l'incidente è diventato silenzioso e introspettivo.",
+          "es": "Después del accidente se volvió callado e introspectivo."
+        },
+        {
+          "en": "Her new songs are slow and [introspective].",
+          "tr": "Yeni şarkıları ağır ve içe dönük.",
+          "de": "Ihre neuen Lieder sind langsam und nachdenklich.",
+          "fr": "Ses nouvelles chansons sont lentes et introspectives.",
+          "it": "Le sue nuove canzoni sono lente e introspettive.",
+          "es": "Sus nuevas canciones son lentas e introspectivas."
+        }
+      ]
+    },
+    {
+      "id": "conspicuous",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "con-",
+        "spic",
+        "-uous"
+      ],
+      "gloss": {
+        "en": "very easy to see or notice (literally: looked at by everyone)",
+        "tr": "göze çarpan, dikkat çeken",
+        "de": "auffällig",
+        "fr": "voyant, remarquable",
+        "it": "vistoso, che si nota",
+        "es": "llamativo, visible"
+      },
+      "sentences": [
+        {
+          "en": "His bright red hat was [conspicuous] in the crowd.",
+          "tr": "Parlak kırmızı şapkası kalabalıkta göze çarpıyordu.",
+          "de": "Sein knallroter Hut war in der Menge auffällig.",
+          "fr": "Son chapeau rouge vif se remarquait dans la foule.",
+          "it": "Il suo cappello rosso acceso si notava tra la folla.",
+          "es": "Su sombrero rojo intenso llamaba la atención entre la multitud."
+        },
+        {
+          "en": "She put the note in a [conspicuous] place on the fridge.",
+          "tr": "Notu buzdolabında göze çarpan bir yere koydu.",
+          "de": "Sie klebte den Zettel an eine auffällige Stelle am Kühlschrank.",
+          "fr": "Elle a mis le mot bien en vue sur le frigo.",
+          "it": "Ha messo il biglietto in un punto ben visibile del frigo.",
+          "es": "Puso la nota en un lugar visible de la nevera."
+        }
+      ]
+    },
+    {
+      "id": "inconspicuous",
+      "pos": "adjective",
+      "parent": "conspicuous",
+      "parts": [
+        "in-not-",
+        "con-",
+        "spic",
+        "-uous"
+      ],
+      "gloss": {
+        "en": "not easy to notice; not attracting attention",
+        "tr": "göze çarpmayan, dikkat çekmeyen",
+        "de": "unauffällig",
+        "fr": "discret, qui passe inaperçu",
+        "it": "poco appariscente, discreto",
+        "es": "discreto, que pasa desapercibido"
+      },
+      "sentences": [
+        {
+          "en": "The guard wore plain clothes to stay [inconspicuous].",
+          "tr": "Muhafız dikkat çekmemek için sivil giyindi.",
+          "de": "Der Wachmann trug normale Kleidung, um unauffällig zu bleiben.",
+          "fr": "Le garde portait des vêtements ordinaires pour rester discret.",
+          "it": "La guardia indossava abiti normali per passare inosservata.",
+          "es": "El guardia llevaba ropa normal para pasar desapercibido."
+        },
+        {
+          "en": "The shop has a small, [inconspicuous] door.",
+          "tr": "Dükkânın küçük, göze çarpmayan bir kapısı var.",
+          "de": "Der Laden hat eine kleine, unauffällige Tür.",
+          "fr": "La boutique a une petite porte discrète.",
+          "it": "Il negozio ha una porta piccola e poco appariscente.",
+          "es": "La tienda tiene una puerta pequeña y discreta."
+        }
+      ]
+    },
+    {
+      "id": "despicable",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "de-",
+        "spic",
+        "-able"
+      ],
+      "gloss": {
+        "en": "very bad and deserving no respect (literally: able to be looked down on)",
+        "tr": "alçakça, aşağılık",
+        "de": "verachtenswert, gemein",
+        "fr": "méprisable, ignoble",
+        "it": "spregevole, ignobile",
+        "es": "despreciable, vil"
+      },
+      "sentences": [
+        {
+          "en": "Stealing from a sick old man is [despicable].",
+          "tr": "Hasta bir yaşlı adamdan çalmak alçakça bir şey.",
+          "de": "Einen kranken alten Mann zu bestehlen ist verachtenswert.",
+          "fr": "Voler un vieil homme malade est méprisable.",
+          "it": "Derubare un vecchio malato è spregevole.",
+          "es": "Robar a un anciano enfermo es despreciable."
+        },
+        {
+          "en": "The villain in the film was truly [despicable].",
+          "tr": "Filmdeki kötü adam gerçekten aşağılıktı.",
+          "de": "Der Bösewicht im Film war wirklich gemein.",
+          "fr": "Le méchant du film était vraiment ignoble.",
+          "it": "Il cattivo del film era davvero spregevole.",
+          "es": "El villano de la película era realmente despreciable."
+        }
+      ]
+    },
+    {
+      "id": "circumspect",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "circum-",
+        "spect"
+      ],
+      "gloss": {
+        "en": "careful to think about risks before acting (literally: looking around)",
+        "tr": "ihtiyatlı, tedbirli",
+        "de": "umsichtig, vorsichtig",
+        "fr": "circonspect, prudent",
+        "it": "circospetto, cauto",
+        "es": "prudente, cauto"
+      },
+      "sentences": [
+        {
+          "en": "Be [circumspect] about what you post online.",
+          "tr": "İnternette paylaştıkların konusunda tedbirli ol.",
+          "de": "Sei vorsichtig mit dem, was du online postest.",
+          "fr": "Sois prudent avec ce que tu publies en ligne.",
+          "it": "Sii cauto con quello che pubblichi online.",
+          "es": "Sé prudente con lo que publicas en internet."
+        },
+        {
+          "en": "The minister gave a [circumspect] answer to the question.",
+          "tr": "Bakan soruya ihtiyatlı bir yanıt verdi.",
+          "de": "Der Minister gab eine vorsichtige Antwort auf die Frage.",
+          "fr": "Le ministre a donné une réponse circonspecte à la question.",
+          "it": "Il ministro ha dato una risposta cauta alla domanda.",
+          "es": "El ministro dio una respuesta cauta a la pregunta."
         }
       ]
     }

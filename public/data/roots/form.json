@@ -475,6 +475,43 @@
       ]
     },
     {
+      "id": "misinformation",
+      "pos": "noun",
+      "parent": "misinform",
+      "parts": [
+        "mis-",
+        "in-",
+        "form",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "wrong information, especially when it spreads widely",
+        "tr": "yanlış bilgi, dezenformasyon",
+        "de": "die Falschinformation",
+        "fr": "la désinformation, les fausses informations",
+        "it": "la disinformazione, le informazioni false",
+        "es": "la desinformación, la información falsa"
+      },
+      "sentences": [
+        {
+          "en": "[Misinformation] spreads fast on social media.",
+          "tr": "Yanlış bilgi sosyal medyada hızla yayılıyor.",
+          "de": "Falschinformationen verbreiten sich schnell in sozialen Medien.",
+          "fr": "Les fausses informations se propagent vite sur les réseaux sociaux.",
+          "it": "La disinformazione si diffonde velocemente sui social.",
+          "es": "La desinformación se propaga rápido en las redes sociales."
+        },
+        {
+          "en": "Always check facts before you share [misinformation].",
+          "tr": "Yanlış bilgi paylaşmamak için her zaman gerçekleri kontrol et.",
+          "de": "Prüfe immer die Fakten, bevor du Falschinformationen teilst.",
+          "fr": "Vérifie toujours les faits avant de partager de fausses informations.",
+          "it": "Controlla sempre i fatti prima di condividere informazioni false.",
+          "es": "Comprueba siempre los datos antes de compartir información falsa."
+        }
+      ]
+    },
+    {
       "id": "informant",
       "pos": "noun",
       "parent": "inform",
@@ -507,6 +544,79 @@
           "fr": "La journaliste a protégé le nom de son informateur.",
           "it": "La giornalista ha protetto il nome del suo informatore.",
           "es": "La periodista protegió el nombre de su informante."
+        }
+      ]
+    },
+    {
+      "id": "informed",
+      "pos": "adjective",
+      "parent": "inform",
+      "parts": [
+        "in-",
+        "form",
+        "-ed"
+      ],
+      "gloss": {
+        "en": "knowing a lot about something; based on good information",
+        "tr": "bilgili, haberdar; bilgiye dayalı",
+        "de": "informiert, sachkundig",
+        "fr": "informé, éclairé",
+        "it": "informato, consapevole",
+        "es": "informado"
+      },
+      "sentences": [
+        {
+          "en": "Read the news to stay [informed].",
+          "tr": "Haberdar kalmak için haberleri oku.",
+          "de": "Lies die Nachrichten, um informiert zu bleiben.",
+          "fr": "Lis les nouvelles pour rester informé.",
+          "it": "Leggi le notizie per restare informato.",
+          "es": "Lee las noticias para estar informado."
+        },
+        {
+          "en": "Doctors help patients make [informed] choices.",
+          "tr": "Doktorlar hastaların bilgiye dayalı seçimler yapmasına yardım eder.",
+          "de": "Ärzte helfen Patienten, informierte Entscheidungen zu treffen.",
+          "fr": "Les médecins aident les patients à faire des choix éclairés.",
+          "it": "I medici aiutano i pazienti a fare scelte consapevoli.",
+          "es": "Los médicos ayudan a los pacientes a tomar decisiones informadas."
+        }
+      ]
+    },
+    {
+      "id": "uninformed",
+      "pos": "adjective",
+      "parent": "informed",
+      "parts": [
+        "un-",
+        "in-",
+        "form",
+        "-ed"
+      ],
+      "gloss": {
+        "en": "not knowing enough about something",
+        "tr": "bilgisiz, habersiz",
+        "de": "uninformiert, unwissend",
+        "fr": "mal informé, ignorant",
+        "it": "disinformato, poco informato",
+        "es": "desinformado, mal informado"
+      },
+      "sentences": [
+        {
+          "en": "Many voters were [uninformed] about the new law.",
+          "tr": "Birçok seçmen yeni yasa hakkında bilgisizdi.",
+          "de": "Viele Wähler waren über das neue Gesetz nicht informiert.",
+          "fr": "Beaucoup d'électeurs étaient mal informés sur la nouvelle loi.",
+          "it": "Molti elettori erano poco informati sulla nuova legge.",
+          "es": "Muchos votantes estaban desinformados sobre la nueva ley."
+        },
+        {
+          "en": "His comments sounded [uninformed] and rude.",
+          "tr": "Yorumları bilgisizce ve kaba geldi.",
+          "de": "Seine Bemerkungen klangen unwissend und unhöflich.",
+          "fr": "Ses commentaires semblaient ignorants et impolis.",
+          "it": "I suoi commenti sembravano disinformati e maleducati.",
+          "es": "Sus comentarios sonaron desinformados y groseros."
         }
       ]
     },
@@ -618,6 +728,42 @@
       ]
     },
     {
+      "id": "transformative",
+      "pos": "adjective",
+      "parent": "transform",
+      "parts": [
+        "trans-",
+        "form",
+        "-ative"
+      ],
+      "gloss": {
+        "en": "causing a big change for the better",
+        "tr": "dönüştürücü",
+        "de": "verändernd, prägend",
+        "fr": "transformateur, qui change tout",
+        "it": "trasformativo, che cambia la vita",
+        "es": "transformador"
+      },
+      "sentences": [
+        {
+          "en": "Studying abroad was a [transformative] experience for her.",
+          "tr": "Yurt dışında okumak onun için dönüştürücü bir deneyimdi.",
+          "de": "Das Auslandsstudium war für sie eine prägende Erfahrung.",
+          "fr": "Étudier à l'étranger a été une expérience transformatrice pour elle.",
+          "it": "Studiare all'estero è stata per lei un'esperienza trasformativa.",
+          "es": "Estudiar en el extranjero fue una experiencia transformadora para ella."
+        },
+        {
+          "en": "The internet had a [transformative] effect on shopping.",
+          "tr": "İnternetin alışveriş üzerinde dönüştürücü bir etkisi oldu.",
+          "de": "Das Internet hat das Einkaufen grundlegend verändert.",
+          "fr": "Internet a eu un effet transformateur sur le commerce.",
+          "it": "Internet ha avuto un effetto trasformativo sugli acquisti.",
+          "es": "Internet tuvo un efecto transformador en las compras."
+        }
+      ]
+    },
+    {
       "id": "reform",
       "pos": "verb",
       "parent": null,
@@ -685,6 +831,42 @@
           "fr": "Les jeunes réformateurs voulaient une politique plus propre.",
           "it": "I giovani riformatori volevano una politica più pulita.",
           "es": "Los jóvenes reformistas querían una política más limpia."
+        }
+      ]
+    },
+    {
+      "id": "reformation",
+      "pos": "noun",
+      "parent": "reform",
+      "parts": [
+        "re-",
+        "form",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "a big change for the better; (the Reformation) the 16th-century split in the Church",
+        "tr": "reform, iyileştirme; (Reformasyon) 16. yüzyılda kilisedeki bölünme",
+        "de": "die Erneuerung; (die Reformation)",
+        "fr": "la réforme ; (la Réforme)",
+        "it": "la riforma; (la Riforma protestante)",
+        "es": "la reforma; (la Reforma)"
+      },
+      "sentences": [
+        {
+          "en": "Martin Luther started the [Reformation] in 1517.",
+          "tr": "Martin Luther Reformasyonu 1517'de başlattı.",
+          "de": "Martin Luther begann 1517 die Reformation.",
+          "fr": "Martin Luther a lancé la Réforme en 1517.",
+          "it": "Martin Lutero diede inizio alla Riforma nel 1517.",
+          "es": "Martín Lutero inició la Reforma en 1517."
+        },
+        {
+          "en": "The prison system needs a complete [reformation].",
+          "tr": "Cezaevi sisteminin baştan aşağı iyileştirilmesi gerekiyor.",
+          "de": "Das Gefängnissystem braucht eine völlige Erneuerung.",
+          "fr": "Le système pénitentiaire a besoin d'une réforme complète.",
+          "it": "Il sistema carcerario ha bisogno di una riforma completa.",
+          "es": "El sistema penitenciario necesita una reforma completa."
         }
       ]
     },
@@ -792,6 +974,43 @@
           "fr": "L'école transforme parfois les enfants en conformistes.",
           "it": "La scuola a volte trasforma i bambini in conformisti.",
           "es": "La escuela a veces convierte a los niños en conformistas."
+        }
+      ]
+    },
+    {
+      "id": "nonconformist",
+      "pos": "noun",
+      "parent": "conformist",
+      "parts": [
+        "non-",
+        "con-",
+        "form",
+        "-ist"
+      ],
+      "gloss": {
+        "en": "a person who does not think or behave like everyone else",
+        "tr": "uyumsuz, aykırı kimse",
+        "de": "der Nonkonformist, der Querdenker",
+        "fr": "le non-conformiste",
+        "it": "l'anticonformista",
+        "es": "el inconformista"
+      },
+      "sentences": [
+        {
+          "en": "As a teenager, she was a proud [nonconformist].",
+          "tr": "Ergenlikte gururlu bir aykırıydı.",
+          "de": "Als Teenager war sie eine stolze Nonkonformistin.",
+          "fr": "Adolescente, elle était une fière non-conformiste.",
+          "it": "Da adolescente era un'anticonformista orgogliosa.",
+          "es": "De adolescente era una inconformista orgullosa."
+        },
+        {
+          "en": "The painter was a [nonconformist] who ignored all the rules.",
+          "tr": "Ressam bütün kuralları hiçe sayan aykırı biriydi.",
+          "de": "Der Maler war ein Nonkonformist, der alle Regeln ignorierte.",
+          "fr": "Le peintre était un non-conformiste qui ignorait toutes les règles.",
+          "it": "Il pittore era un anticonformista che ignorava tutte le regole.",
+          "es": "El pintor era un inconformista que ignoraba todas las reglas."
         }
       ]
     },

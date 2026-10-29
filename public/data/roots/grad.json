@@ -441,6 +441,42 @@
       ]
     },
     {
+      "id": "degrading",
+      "pos": "adjective",
+      "parent": "degrade",
+      "parts": [
+        "de-",
+        "grad",
+        "-ing"
+      ],
+      "gloss": {
+        "en": "making someone feel that they have no value or respect",
+        "tr": "aşağılayıcı, onur kırıcı",
+        "de": "erniedrigend, entwürdigend",
+        "fr": "dégradant, humiliant",
+        "it": "degradante, umiliante",
+        "es": "degradante, humillante"
+      },
+      "sentences": [
+        {
+          "en": "The workers complained about [degrading] treatment.",
+          "tr": "İşçiler aşağılayıcı muameleden şikâyet etti.",
+          "de": "Die Arbeiter beschwerten sich über entwürdigende Behandlung.",
+          "fr": "Les ouvriers se sont plaints d'un traitement dégradant.",
+          "it": "Gli operai si sono lamentati di un trattamento degradante.",
+          "es": "Los trabajadores se quejaron de un trato degradante."
+        },
+        {
+          "en": "Being shouted at in public felt [degrading].",
+          "tr": "Herkesin önünde bağırılmak onur kırıcıydı.",
+          "de": "Öffentlich angeschrien zu werden war erniedrigend.",
+          "fr": "Se faire crier dessus en public était humiliant.",
+          "it": "Essere sgridato in pubblico è stato umiliante.",
+          "es": "Que me gritaran en público fue humillante."
+        }
+      ]
+    },
+    {
       "id": "centigrade",
       "pos": "adjective",
       "parent": null,
@@ -763,6 +799,43 @@
       ]
     },
     {
+      "id": "aggressively",
+      "pos": "adverb",
+      "parent": "aggressive",
+      "parts": [
+        "ag-",
+        "gress",
+        "-ive",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "in an angry, forceful or very determined way",
+        "tr": "saldırganca; kararlılıkla",
+        "de": "aggressiv; offensiv",
+        "fr": "agressivement ; de façon offensive",
+        "it": "aggressivamente",
+        "es": "agresivamente"
+      },
+      "sentences": [
+        {
+          "en": "The dog barked [aggressively] at the postman.",
+          "tr": "Köpek postacıya saldırganca havladı.",
+          "de": "Der Hund bellte den Briefträger aggressiv an.",
+          "fr": "Le chien a aboyé agressivement sur le facteur.",
+          "it": "Il cane abbaiava aggressivamente al postino.",
+          "es": "El perro le ladró agresivamente al cartero."
+        },
+        {
+          "en": "The company is [aggressively] expanding into Asia.",
+          "tr": "Şirket Asya'ya kararlılıkla genişliyor.",
+          "de": "Die Firma expandiert offensiv nach Asien.",
+          "fr": "L'entreprise se développe agressivement en Asie.",
+          "it": "L'azienda si sta espandendo aggressivamente in Asia.",
+          "es": "La empresa se está expandiendo agresivamente en Asia."
+        }
+      ]
+    },
+    {
       "id": "congress",
       "pos": "noun",
       "parent": null,
@@ -829,6 +902,42 @@
           "fr": "Le professeur se lance souvent dans des histoires drôles.",
           "it": "L'insegnante divaga spesso in storie divertenti.",
           "es": "El profesor a menudo se desvía con historias divertidas."
+        }
+      ]
+    },
+    {
+      "id": "digression",
+      "pos": "noun",
+      "parent": "digress",
+      "parts": [
+        "di-",
+        "gress",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a part of a talk or text that moves away from the main subject",
+        "tr": "konu dışına çıkma, ara söz",
+        "de": "der Exkurs, die Abschweifung",
+        "fr": "la digression",
+        "it": "la digressione",
+        "es": "la digresión"
+      },
+      "sentences": [
+        {
+          "en": "After a short [digression], the teacher returned to the topic.",
+          "tr": "Kısa bir konu dışı sohbetten sonra öğretmen konuya döndü.",
+          "de": "Nach einem kurzen Exkurs kehrte der Lehrer zum Thema zurück.",
+          "fr": "Après une courte digression, le professeur est revenu au sujet.",
+          "it": "Dopo una breve digressione, l'insegnante è tornato all'argomento.",
+          "es": "Tras una breve digresión, el profesor volvió al tema."
+        },
+        {
+          "en": "Forgive the [digression], but this story is funny.",
+          "tr": "Konu dışına çıktığım için kusura bakmayın ama bu hikâye komik.",
+          "de": "Verzeiht die Abschweifung, aber diese Geschichte ist lustig.",
+          "fr": "Pardonnez la digression, mais cette histoire est drôle.",
+          "it": "Scusate la digressione, ma questa storia è divertente.",
+          "es": "Perdonad la digresión, pero esta historia es graciosa."
         }
       ]
     },
@@ -900,6 +1009,42 @@
           "fr": "Après le déménagement, l'enfant a montré une régression dans son langage.",
           "it": "Dopo il trasloco il bambino ha mostrato una regressione nel linguaggio.",
           "es": "Tras la mudanza, el niño mostró cierta regresión en el habla."
+        }
+      ]
+    },
+    {
+      "id": "regressive",
+      "pos": "adjective",
+      "parent": "regress",
+      "parts": [
+        "re-",
+        "gress",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "going back to a worse state; (tax) taking more from poor people than rich ones",
+        "tr": "gerici, geriye giden; (vergi) azalan oranlı",
+        "de": "rückschrittlich; (Steuer) regressiv",
+        "fr": "rétrograde ; (impôt) régressif",
+        "it": "regressivo",
+        "es": "regresivo"
+      },
+      "sentences": [
+        {
+          "en": "Critics called the new law a [regressive] step.",
+          "tr": "Eleştirmenler yeni yasayı geriye doğru bir adım olarak nitelendirdi.",
+          "de": "Kritiker nannten das neue Gesetz einen Rückschritt.",
+          "fr": "Les critiques ont qualifié la nouvelle loi de pas rétrograde.",
+          "it": "I critici hanno definito la nuova legge un passo regressivo.",
+          "es": "Los críticos llamaron a la nueva ley un paso regresivo."
+        },
+        {
+          "en": "A tax on bread is [regressive] because everyone pays the same.",
+          "tr": "Ekmeğe konan vergi yoksulu daha çok vurur, çünkü herkes aynı miktarı öder.",
+          "de": "Eine Brotsteuer ist regressiv, weil alle gleich viel zahlen.",
+          "fr": "Un impôt sur le pain est régressif car tout le monde paie pareil.",
+          "it": "Una tassa sul pane è regressiva perché tutti pagano lo stesso.",
+          "es": "Un impuesto sobre el pan es regresivo porque todos pagan lo mismo."
         }
       ]
     },

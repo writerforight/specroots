@@ -303,6 +303,43 @@
       ]
     },
     {
+      "id": "successfully",
+      "pos": "adverb",
+      "parent": "successful",
+      "parts": [
+        "suc-",
+        "cess",
+        "-ful",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "in a way that achieves what you wanted",
+        "tr": "başarıyla",
+        "de": "erfolgreich",
+        "fr": "avec succès",
+        "it": "con successo",
+        "es": "con éxito"
+      },
+      "sentences": [
+        {
+          "en": "The rocket was [successfully] launched this morning.",
+          "tr": "Roket bu sabah başarıyla fırlatıldı.",
+          "de": "Die Rakete wurde heute Morgen erfolgreich gestartet.",
+          "fr": "La fusée a été lancée avec succès ce matin.",
+          "it": "Il razzo è stato lanciato con successo stamattina.",
+          "es": "El cohete se lanzó con éxito esta mañana."
+        },
+        {
+          "en": "She [successfully] passed her driving test.",
+          "tr": "Sürücü sınavını başarıyla geçti.",
+          "de": "Sie hat die Fahrprüfung erfolgreich bestanden.",
+          "fr": "Elle a réussi son examen de conduite.",
+          "it": "Ha superato con successo l'esame di guida.",
+          "es": "Aprobó con éxito el examen de conducir."
+        }
+      ]
+    },
+    {
       "id": "succession",
       "pos": "noun",
       "parent": "succeed",
@@ -481,6 +518,43 @@
       ]
     },
     {
+      "id": "excessively",
+      "pos": "adverb",
+      "parent": "excessive",
+      "parts": [
+        "ex-",
+        "cess",
+        "-ive",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "too much; more than is normal or necessary",
+        "tr": "aşırı derecede",
+        "de": "übermäßig",
+        "fr": "excessivement",
+        "it": "eccessivamente",
+        "es": "excesivamente"
+      },
+      "sentences": [
+        {
+          "en": "The hotel was nice but [excessively] expensive.",
+          "tr": "Otel güzeldi ama aşırı pahalıydı.",
+          "de": "Das Hotel war schön, aber übermäßig teuer.",
+          "fr": "L'hôtel était beau mais excessivement cher.",
+          "it": "L'albergo era bello ma eccessivamente caro.",
+          "es": "El hotel era bonito pero excesivamente caro."
+        },
+        {
+          "en": "Don't worry [excessively] about small mistakes.",
+          "tr": "Küçük hatalar için aşırı endişelenme.",
+          "de": "Mach dir über kleine Fehler nicht übermäßig Sorgen.",
+          "fr": "Ne t'inquiète pas excessivement pour de petites erreurs.",
+          "it": "Non preoccuparti eccessivamente per i piccoli errori.",
+          "es": "No te preocupes excesivamente por los pequeños errores."
+        }
+      ]
+    },
+    {
       "id": "access",
       "pos": "noun",
       "parent": null,
@@ -585,6 +659,78 @@
           "fr": "Les données étaient inaccessibles après la panne.",
           "it": "Dopo il crash i dati erano inaccessibili.",
           "es": "Los datos quedaron inaccesibles tras el fallo."
+        }
+      ]
+    },
+    {
+      "id": "accessibility",
+      "pos": "noun",
+      "parent": "accessible",
+      "parts": [
+        "ac-",
+        "cess",
+        "-ibility"
+      ],
+      "gloss": {
+        "en": "how easy something is to reach, use or understand, also for disabled people",
+        "tr": "erişilebilirlik",
+        "de": "die Barrierefreiheit, die Zugänglichkeit",
+        "fr": "l'accessibilité",
+        "it": "l'accessibilità",
+        "es": "la accesibilidad"
+      },
+      "sentences": [
+        {
+          "en": "The new station was designed with [accessibility] in mind.",
+          "tr": "Yeni istasyon erişilebilirlik düşünülerek tasarlandı.",
+          "de": "Der neue Bahnhof wurde barrierefrei geplant.",
+          "fr": "La nouvelle gare a été conçue en pensant à l'accessibilité.",
+          "it": "La nuova stazione è stata progettata pensando all'accessibilità.",
+          "es": "La nueva estación se diseñó pensando en la accesibilidad."
+        },
+        {
+          "en": "Large text improves the [accessibility] of a website.",
+          "tr": "Büyük yazı bir web sitesinin erişilebilirliğini artırır.",
+          "de": "Große Schrift verbessert die Zugänglichkeit einer Website.",
+          "fr": "Un texte en gros caractères améliore l'accessibilité d'un site.",
+          "it": "Un testo grande migliora l'accessibilità di un sito.",
+          "es": "El texto grande mejora la accesibilidad de una web."
+        }
+      ]
+    },
+    {
+      "id": "accessory",
+      "pos": "noun",
+      "parent": "access",
+      "parts": [
+        "ac-",
+        "cess",
+        "-ory"
+      ],
+      "gloss": {
+        "en": "an extra thing that goes with something, such as a bag or a phone case (literally: something that comes to it)",
+        "tr": "aksesuar, ek parça",
+        "de": "das Zubehör; das Accessoire",
+        "fr": "l'accessoire",
+        "it": "l'accessorio",
+        "es": "el accesorio"
+      },
+      "sentences": [
+        {
+          "en": "The shop sells phones and phone [accessories].",
+          "tr": "Dükkân telefon ve telefon aksesuarları satıyor.",
+          "de": "Der Laden verkauft Handys und Handyzubehör.",
+          "fr": "Le magasin vend des téléphones et des accessoires.",
+          "it": "Il negozio vende telefoni e accessori.",
+          "es": "La tienda vende teléfonos y accesorios."
+        },
+        {
+          "en": "A red scarf was her only [accessory].",
+          "tr": "Kırmızı bir eşarp tek aksesuarıydı.",
+          "de": "Ein roter Schal war ihr einziges Accessoire.",
+          "fr": "Une écharpe rouge était son seul accessoire.",
+          "it": "Una sciarpa rossa era il suo unico accessorio.",
+          "es": "Una bufanda roja era su único accesorio."
         }
       ]
     },
@@ -804,6 +950,42 @@
       ]
     },
     {
+      "id": "precedence",
+      "pos": "noun",
+      "parent": "precede",
+      "parts": [
+        "pre-",
+        "ced",
+        "-ence"
+      ],
+      "gloss": {
+        "en": "the right to come first because something is more important",
+        "tr": "öncelik",
+        "de": "der Vorrang",
+        "fr": "la priorité, la préséance",
+        "it": "la precedenza, la priorità",
+        "es": "la prioridad, la precedencia"
+      },
+      "sentences": [
+        {
+          "en": "Safety takes [precedence] over speed.",
+          "tr": "Güvenlik hıza göre önceliklidir.",
+          "de": "Sicherheit hat Vorrang vor Geschwindigkeit.",
+          "fr": "La sécurité a la priorité sur la vitesse.",
+          "it": "La sicurezza ha la precedenza sulla velocità.",
+          "es": "La seguridad tiene prioridad sobre la velocidad."
+        },
+        {
+          "en": "Family always took [precedence] over work for him.",
+          "tr": "Onun için aile her zaman işten önce gelirdi.",
+          "de": "Für ihn hatte die Familie immer Vorrang vor der Arbeit.",
+          "fr": "Pour lui, la famille passait toujours avant le travail.",
+          "it": "Per lui la famiglia ha sempre avuto la precedenza sul lavoro.",
+          "es": "Para él, la familia siempre tuvo prioridad sobre el trabajo."
+        }
+      ]
+    },
+    {
       "id": "predecessor",
       "pos": "noun",
       "parent": null,
@@ -908,6 +1090,77 @@
           "fr": "Il y a un tarif réduit pour les étudiants.",
           "it": "C'è un prezzo ridotto per gli studenti.",
           "es": "Hay un precio reducido para estudiantes."
+        }
+      ]
+    },
+    {
+      "id": "secede",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "se-",
+        "cede"
+      ],
+      "gloss": {
+        "en": "to officially leave a country or group and become separate (literally: to go apart)",
+        "tr": "ayrılmak (bir devletten, birlikten)",
+        "de": "sich abspalten, austreten",
+        "fr": "faire sécession",
+        "it": "separarsi, fare secessione",
+        "es": "separarse, independizarse"
+      },
+      "sentences": [
+        {
+          "en": "The region voted to [secede] from the country.",
+          "tr": "Bölge ülkeden ayrılmak için oy kullandı.",
+          "de": "Die Region stimmte dafür, sich vom Land abzuspalten.",
+          "fr": "La région a voté pour faire sécession.",
+          "it": "La regione ha votato per separarsi dal paese.",
+          "es": "La región votó para separarse del país."
+        },
+        {
+          "en": "Several states [seceded] before the war began.",
+          "tr": "Savaş başlamadan önce birkaç eyalet birlikten ayrıldı.",
+          "de": "Mehrere Staaten traten vor Kriegsbeginn aus der Union aus.",
+          "fr": "Plusieurs États ont fait sécession avant la guerre.",
+          "it": "Diversi stati si separarono prima dell'inizio della guerra.",
+          "es": "Varios estados se separaron antes de que empezara la guerra."
+        }
+      ]
+    },
+    {
+      "id": "secession",
+      "pos": "noun",
+      "parent": "secede",
+      "parts": [
+        "se-",
+        "cess",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "the act of officially leaving a country or group",
+        "tr": "ayrılma, bölünme",
+        "de": "die Abspaltung, die Sezession",
+        "fr": "la sécession",
+        "it": "la secessione",
+        "es": "la secesión"
+      },
+      "sentences": [
+        {
+          "en": "The vote on [secession] divided families.",
+          "tr": "Ayrılma oylaması aileleri böldü.",
+          "de": "Die Abstimmung über die Abspaltung spaltete Familien.",
+          "fr": "Le vote sur la sécession a divisé les familles.",
+          "it": "Il voto sulla secessione ha diviso le famiglie.",
+          "es": "La votación sobre la secesión dividió a las familias."
+        },
+        {
+          "en": "The government refused to accept the [secession].",
+          "tr": "Hükümet ayrılmayı kabul etmedi.",
+          "de": "Die Regierung weigerte sich, die Abspaltung anzuerkennen.",
+          "fr": "Le gouvernement a refusé d'accepter la sécession.",
+          "it": "Il governo si rifiutò di accettare la secessione.",
+          "es": "El gobierno se negó a aceptar la secesión."
         }
       ]
     }

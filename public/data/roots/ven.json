@@ -162,6 +162,43 @@
       ]
     },
     {
+      "id": "uneventful",
+      "pos": "adjective",
+      "parent": "eventful",
+      "parts": [
+        "un-",
+        "e-",
+        "vent",
+        "-ful"
+      ],
+      "gloss": {
+        "en": "with nothing special or exciting happening",
+        "tr": "olaysız, sakin",
+        "de": "ereignislos, ruhig",
+        "fr": "sans histoire, calme",
+        "it": "tranquillo, senza eventi",
+        "es": "sin incidentes, tranquilo"
+      },
+      "sentences": [
+        {
+          "en": "The flight was long but [uneventful].",
+          "tr": "Uçuş uzun ama olaysızdı.",
+          "de": "Der Flug war lang, aber ereignislos.",
+          "fr": "Le vol était long mais sans histoire.",
+          "it": "Il volo è stato lungo ma tranquillo.",
+          "es": "El vuelo fue largo pero sin incidentes."
+        },
+        {
+          "en": "After a busy week, I want an [uneventful] weekend.",
+          "tr": "Yoğun bir haftadan sonra sakin bir hafta sonu istiyorum.",
+          "de": "Nach einer vollen Woche will ich ein ruhiges Wochenende.",
+          "fr": "Après une semaine chargée, je veux un week-end calme.",
+          "it": "Dopo una settimana piena voglio un fine settimana tranquillo.",
+          "es": "Tras una semana ajetreada, quiero un fin de semana tranquilo."
+        }
+      ]
+    },
+    {
       "id": "invent",
       "pos": "verb",
       "parent": null,
@@ -341,6 +378,42 @@
       ]
     },
     {
+      "id": "reinvent",
+      "pos": "verb",
+      "parent": "invent",
+      "parts": [
+        "re-",
+        "in-",
+        "vent"
+      ],
+      "gloss": {
+        "en": "to change something or yourself completely, as if starting again",
+        "tr": "yeniden icat etmek; kendini baştan yaratmak",
+        "de": "neu erfinden",
+        "fr": "réinventer",
+        "it": "reinventare",
+        "es": "reinventar"
+      },
+      "sentences": [
+        {
+          "en": "The singer [reinvents] herself with every new album.",
+          "tr": "Şarkıcı her yeni albümle kendini baştan yaratıyor.",
+          "de": "Die Sängerin erfindet sich mit jedem Album neu.",
+          "fr": "La chanteuse se réinvente à chaque nouvel album.",
+          "it": "La cantante si reinventa con ogni nuovo album.",
+          "es": "La cantante se reinventa con cada nuevo disco."
+        },
+        {
+          "en": "Don't [reinvent] the wheel; use the old plan.",
+          "tr": "Tekerleği yeniden icat etme; eski planı kullan.",
+          "de": "Erfinde das Rad nicht neu, nimm den alten Plan.",
+          "fr": "Ne réinvente pas la roue : utilise l'ancien plan.",
+          "it": "Non reinventare la ruota: usa il vecchio piano.",
+          "es": "No reinventes la rueda; usa el plan antiguo."
+        }
+      ]
+    },
+    {
       "id": "prevent",
       "pos": "verb",
       "parent": null,
@@ -444,6 +517,42 @@
           "fr": "La ville a pris des mesures préventives contre les inondations.",
           "it": "La città ha preso misure preventive contro le alluvioni.",
           "es": "La ciudad tomó medidas preventivas contra las inundaciones."
+        }
+      ]
+    },
+    {
+      "id": "preventable",
+      "pos": "adjective",
+      "parent": "prevent",
+      "parts": [
+        "pre-",
+        "vent",
+        "-able"
+      ],
+      "gloss": {
+        "en": "able to be stopped before it happens",
+        "tr": "önlenebilir",
+        "de": "vermeidbar",
+        "fr": "évitable",
+        "it": "prevenibile, evitabile",
+        "es": "evitable, prevenible"
+      },
+      "sentences": [
+        {
+          "en": "Many illnesses are [preventable] with a healthy diet.",
+          "tr": "Birçok hastalık sağlıklı beslenmeyle önlenebilir.",
+          "de": "Viele Krankheiten sind mit gesunder Ernährung vermeidbar.",
+          "fr": "Beaucoup de maladies sont évitables avec une alimentation saine.",
+          "it": "Molte malattie sono prevenibili con una dieta sana.",
+          "es": "Muchas enfermedades son evitables con una dieta sana."
+        },
+        {
+          "en": "The accident was completely [preventable].",
+          "tr": "Kaza tamamen önlenebilirdi.",
+          "de": "Der Unfall wäre völlig vermeidbar gewesen.",
+          "fr": "L'accident était tout à fait évitable.",
+          "it": "L'incidente era del tutto evitabile.",
+          "es": "El accidente era totalmente evitable."
         }
       ]
     },
@@ -810,6 +919,43 @@
       ]
     },
     {
+      "id": "conveniently",
+      "pos": "adverb",
+      "parent": "convenient",
+      "parts": [
+        "con-",
+        "ven",
+        "-ient",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "in a way that is easy or useful; (ironic) in a way that helps you too well",
+        "tr": "elverişli biçimde, kolayca; (alaycı) tam da işine gelecek şekilde",
+        "de": "günstig, praktisch; (ironisch) passenderweise",
+        "fr": "commodément ; (ironique) comme par hasard",
+        "it": "comodamente; (ironico) guarda caso",
+        "es": "convenientemente; (irónico) qué casualidad"
+      },
+      "sentences": [
+        {
+          "en": "The hotel is [conveniently] close to the station.",
+          "tr": "Otel istasyona elverişli bir mesafede.",
+          "de": "Das Hotel liegt günstig nahe am Bahnhof.",
+          "fr": "L'hôtel est commodément situé près de la gare.",
+          "it": "L'albergo si trova comodamente vicino alla stazione.",
+          "es": "El hotel está convenientemente cerca de la estación."
+        },
+        {
+          "en": "He [conveniently] forgot his wallet again.",
+          "tr": "Tam da işine gelecek şekilde cüzdanını yine unuttu.",
+          "de": "Passenderweise hat er wieder sein Portemonnaie vergessen.",
+          "fr": "Comme par hasard, il a encore oublié son portefeuille.",
+          "it": "Guarda caso, ha dimenticato di nuovo il portafoglio.",
+          "es": "Qué casualidad, otra vez se olvidó la cartera."
+        }
+      ]
+    },
+    {
       "id": "circumvent",
       "pos": "verb",
       "parent": null,
@@ -981,6 +1127,41 @@
           "fr": "Les boutiques de souvenirs près du château sont chères.",
           "it": "I negozi di souvenir vicino al castello sono cari.",
           "es": "Las tiendas de recuerdos cerca del castillo son caras."
+        }
+      ]
+    },
+    {
+      "id": "advent",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "ad-",
+        "vent"
+      ],
+      "gloss": {
+        "en": "the arrival of an important new thing; (Advent) the four weeks before Christmas (literally: a coming to)",
+        "tr": "geliş, ortaya çıkış; (Advent) Noel'den önceki dört hafta",
+        "de": "das Aufkommen; (der Advent)",
+        "fr": "l'avènement, l'arrivée ; (l'Avent)",
+        "it": "l'avvento; (l'Avvento)",
+        "es": "la llegada, el advenimiento; (el Adviento)"
+      },
+      "sentences": [
+        {
+          "en": "The [advent] of the internet changed how we work.",
+          "tr": "İnternetin ortaya çıkışı çalışma biçimimizi değiştirdi.",
+          "de": "Das Aufkommen des Internets veränderte unsere Arbeitsweise.",
+          "fr": "L'arrivée d'internet a changé notre façon de travailler.",
+          "it": "L'avvento di internet ha cambiato il nostro modo di lavorare.",
+          "es": "La llegada de internet cambió nuestra forma de trabajar."
+        },
+        {
+          "en": "Children open a little door each day of [Advent].",
+          "tr": "Çocuklar Advent'in her günü küçük bir kapı açar.",
+          "de": "Kinder öffnen im Advent jeden Tag ein Türchen.",
+          "fr": "Les enfants ouvrent une petite porte chaque jour de l'Avent.",
+          "it": "I bambini aprono una finestrella ogni giorno d'Avvento.",
+          "es": "Los niños abren una puertecita cada día de Adviento."
         }
       ]
     }

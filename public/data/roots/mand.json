@@ -123,6 +123,42 @@
       ]
     },
     {
+      "id": "commanding",
+      "pos": "adjective",
+      "parent": "command",
+      "parts": [
+        "com-",
+        "mand",
+        "-ing"
+      ],
+      "gloss": {
+        "en": "having authority; in a very strong position; with a wide view",
+        "tr": "otoriter, buyurgan; üstün; geniş manzaralı",
+        "de": "gebietend, souverän; beherrschend",
+        "fr": "autoritaire, imposant ; dominant",
+        "it": "autorevole; dominante",
+        "es": "autoritario, imponente; dominante"
+      },
+      "sentences": [
+        {
+          "en": "She spoke in a calm but [commanding] voice.",
+          "tr": "Sakin ama otoriter bir sesle konuştu.",
+          "de": "Sie sprach mit ruhiger, aber gebietender Stimme.",
+          "fr": "Elle parlait d'une voix calme mais autoritaire.",
+          "it": "Parlava con voce calma ma autorevole.",
+          "es": "Habló con voz tranquila pero autoritaria."
+        },
+        {
+          "en": "After the first half, our team had a [commanding] lead.",
+          "tr": "İlk yarıdan sonra takımımız açık ara öndeydi.",
+          "de": "Nach der ersten Halbzeit führte unser Team souverän.",
+          "fr": "Après la première mi-temps, notre équipe menait largement.",
+          "it": "Dopo il primo tempo la nostra squadra aveva un vantaggio dominante.",
+          "es": "Tras la primera parte, nuestro equipo tenía una ventaja clara."
+        }
+      ]
+    },
+    {
       "id": "commend",
       "pos": "verb",
       "parent": null,

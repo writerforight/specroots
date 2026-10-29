@@ -269,6 +269,115 @@
       ]
     },
     {
+      "id": "continuous",
+      "pos": "adjective",
+      "parent": "continue",
+      "parts": [
+        "con-",
+        "tin",
+        "-uous"
+      ],
+      "gloss": {
+        "en": "going on without stopping",
+        "tr": "sürekli, kesintisiz",
+        "de": "ununterbrochen, durchgehend",
+        "fr": "continu",
+        "it": "continuo",
+        "es": "continuo"
+      },
+      "sentences": [
+        {
+          "en": "We heard a [continuous] noise from the machine.",
+          "tr": "Makineden kesintisiz bir ses duyduk.",
+          "de": "Wir hörten ein ununterbrochenes Geräusch aus der Maschine.",
+          "fr": "Nous avons entendu un bruit continu venant de la machine.",
+          "it": "Abbiamo sentito un rumore continuo dalla macchina.",
+          "es": "Oímos un ruido continuo de la máquina."
+        },
+        {
+          "en": "Draw one [continuous] line without lifting your pen.",
+          "tr": "Kalemini kaldırmadan tek, kesintisiz bir çizgi çiz.",
+          "de": "Zeichne eine durchgehende Linie, ohne den Stift abzusetzen.",
+          "fr": "Trace une ligne continue sans lever ton stylo.",
+          "it": "Traccia una linea continua senza sollevare la penna.",
+          "es": "Dibuja una línea continua sin levantar el bolígrafo."
+        }
+      ]
+    },
+    {
+      "id": "continuation",
+      "pos": "noun",
+      "parent": "continue",
+      "parts": [
+        "con-",
+        "tin",
+        "-uation"
+      ],
+      "gloss": {
+        "en": "the act of going on; something that follows and continues something",
+        "tr": "devam, sürdürme",
+        "de": "die Fortsetzung",
+        "fr": "la continuation, la suite",
+        "it": "la continuazione, il seguito",
+        "es": "la continuación"
+      },
+      "sentences": [
+        {
+          "en": "This book is a [continuation] of her first novel.",
+          "tr": "Bu kitap ilk romanının devamı.",
+          "de": "Dieses Buch ist eine Fortsetzung ihres ersten Romans.",
+          "fr": "Ce livre est la suite de son premier roman.",
+          "it": "Questo libro è il seguito del suo primo romanzo.",
+          "es": "Este libro es una continuación de su primera novela."
+        },
+        {
+          "en": "Workers fear the [continuation] of the cuts.",
+          "tr": "İşçiler kesintilerin devam etmesinden korkuyor.",
+          "de": "Die Arbeiter fürchten die Fortsetzung der Kürzungen.",
+          "fr": "Les ouvriers craignent la poursuite des coupes.",
+          "it": "I lavoratori temono la continuazione dei tagli.",
+          "es": "Los trabajadores temen la continuación de los recortes."
+        }
+      ]
+    },
+    {
+      "id": "discontinue",
+      "pos": "verb",
+      "parent": "continue",
+      "parts": [
+        "dis-",
+        "con-",
+        "tin",
+        "-ue"
+      ],
+      "gloss": {
+        "en": "to stop making, selling or doing something",
+        "tr": "üretimini durdurmak, kesmek",
+        "de": "einstellen",
+        "fr": "arrêter, cesser la production",
+        "it": "sospendere, interrompere",
+        "es": "dejar de fabricar, suspender"
+      },
+      "sentences": [
+        {
+          "en": "The company [discontinued] my favourite shampoo.",
+          "tr": "Şirket en sevdiğim şampuanın üretimini durdurdu.",
+          "de": "Die Firma hat mein Lieblingsshampoo eingestellt.",
+          "fr": "L'entreprise a arrêté mon shampoing préféré.",
+          "it": "L'azienda ha smesso di produrre il mio shampoo preferito.",
+          "es": "La empresa dejó de fabricar mi champú favorito."
+        },
+        {
+          "en": "Stop the medicine if your doctor tells you to [discontinue] it.",
+          "tr": "Doktorun bırakmanı söylerse ilacı kes.",
+          "de": "Setz das Medikament ab, wenn dein Arzt sagt, du sollst es einstellen.",
+          "fr": "Arrête le médicament si ton médecin te dit de cesser le traitement.",
+          "it": "Interrompi la medicina se il medico ti dice di sospenderla.",
+          "es": "Deja el medicamento si tu médico te dice que lo suspendas."
+        }
+      ]
+    },
+    {
       "id": "maintain",
       "pos": "verb",
       "parent": null,
@@ -696,6 +805,42 @@
       ]
     },
     {
+      "id": "entertaining",
+      "pos": "adjective",
+      "parent": "entertain",
+      "parts": [
+        "enter-",
+        "tain",
+        "-ing"
+      ],
+      "gloss": {
+        "en": "amusing and interesting",
+        "tr": "eğlenceli",
+        "de": "unterhaltsam",
+        "fr": "divertissant",
+        "it": "divertente",
+        "es": "entretenido, divertido"
+      },
+      "sentences": [
+        {
+          "en": "The museum tour was surprisingly [entertaining].",
+          "tr": "Müze turu şaşırtıcı derecede eğlenceliydi.",
+          "de": "Die Museumsführung war überraschend unterhaltsam.",
+          "fr": "La visite du musée était étonnamment divertissante.",
+          "it": "La visita al museo è stata sorprendentemente divertente.",
+          "es": "La visita al museo fue sorprendentemente entretenida."
+        },
+        {
+          "en": "He tells [entertaining] stories about his travels.",
+          "tr": "Seyahatleri hakkında eğlenceli hikâyeler anlatıyor.",
+          "de": "Er erzählt unterhaltsame Geschichten von seinen Reisen.",
+          "fr": "Il raconte des histoires divertissantes sur ses voyages.",
+          "it": "Racconta storie divertenti sui suoi viaggi.",
+          "es": "Cuenta historias entretenidas sobre sus viajes."
+        }
+      ]
+    },
+    {
       "id": "sustain",
       "pos": "verb",
       "parent": null,
@@ -975,6 +1120,148 @@
           "fr": "Le professeur a enfin été titularisé après sept ans.",
           "it": "Il professore è finalmente diventato di ruolo dopo sette anni.",
           "es": "El profesor por fin consiguió una plaza fija tras siete años."
+        }
+      ]
+    },
+    {
+      "id": "contentment",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "con-",
+        "tent",
+        "-ment"
+      ],
+      "gloss": {
+        "en": "a quiet feeling of being happy and satisfied (from Latin contentus, held together, satisfied)",
+        "tr": "huzur, memnuniyet",
+        "de": "die Zufriedenheit",
+        "fr": "le contentement",
+        "it": "l'appagamento, la contentezza",
+        "es": "la satisfacción, el contento"
+      },
+      "sentences": [
+        {
+          "en": "The cat purred with [contentment] on my lap.",
+          "tr": "Kedi kucağımda huzurla mırıldandı.",
+          "de": "Die Katze schnurrte zufrieden auf meinem Schoß.",
+          "fr": "Le chat ronronnait de contentement sur mes genoux.",
+          "it": "Il gatto faceva le fusa appagato sulle mie ginocchia.",
+          "es": "El gato ronroneaba de satisfacción en mi regazo."
+        },
+        {
+          "en": "Money cannot buy true [contentment].",
+          "tr": "Para gerçek huzuru satın alamaz.",
+          "de": "Geld kann keine echte Zufriedenheit kaufen.",
+          "fr": "L'argent ne peut pas acheter le vrai contentement.",
+          "it": "Il denaro non può comprare la vera contentezza.",
+          "es": "El dinero no puede comprar la verdadera satisfacción."
+        }
+      ]
+    },
+    {
+      "id": "untenable",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "un-",
+        "ten",
+        "-able"
+      ],
+      "gloss": {
+        "en": "impossible to defend or continue (literally: not able to be held)",
+        "tr": "savunulamaz, sürdürülemez",
+        "de": "unhaltbar",
+        "fr": "intenable, indéfendable",
+        "it": "insostenibile",
+        "es": "insostenible"
+      },
+      "sentences": [
+        {
+          "en": "After the scandal, his position became [untenable].",
+          "tr": "Skandaldan sonra konumu sürdürülemez hâle geldi.",
+          "de": "Nach dem Skandal wurde seine Stellung unhaltbar.",
+          "fr": "Après le scandale, sa position est devenue intenable.",
+          "it": "Dopo lo scandalo la sua posizione è diventata insostenibile.",
+          "es": "Tras el escándalo, su posición se volvió insostenible."
+        },
+        {
+          "en": "The argument is [untenable] when you look at the facts.",
+          "tr": "Gerçeklere bakınca bu iddia savunulamaz.",
+          "de": "Wenn man die Fakten betrachtet, ist das Argument unhaltbar.",
+          "fr": "Cet argument est indéfendable quand on regarde les faits.",
+          "it": "Guardando i fatti, l'argomento è insostenibile.",
+          "es": "El argumento es insostenible si miras los hechos."
+        }
+      ]
+    },
+    {
+      "id": "pertain",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "per-",
+        "tain"
+      ],
+      "gloss": {
+        "en": "(pertain to) to be connected with or about something (literally: to hold through, to reach)",
+        "tr": "ilgili olmak, ait olmak",
+        "de": "betreffen, sich beziehen auf",
+        "fr": "concerner, se rapporter à",
+        "it": "riguardare, riferirsi a",
+        "es": "referirse a, concernir"
+      },
+      "sentences": [
+        {
+          "en": "Please ask only questions that [pertain] to the exam.",
+          "tr": "Lütfen yalnızca sınavla ilgili sorular sorun.",
+          "de": "Bitte stellt nur Fragen, die die Prüfung betreffen.",
+          "fr": "Posez seulement des questions qui concernent l'examen.",
+          "it": "Fate solo domande che riguardano l'esame.",
+          "es": "Haced solo preguntas que se refieran al examen."
+        },
+        {
+          "en": "These rules [pertain] to all visitors.",
+          "tr": "Bu kurallar bütün ziyaretçileri kapsar.",
+          "de": "Diese Regeln betreffen alle Besucher.",
+          "fr": "Ces règles concernent tous les visiteurs.",
+          "it": "Queste regole riguardano tutti i visitatori.",
+          "es": "Estas normas conciernen a todos los visitantes."
+        }
+      ]
+    },
+    {
+      "id": "tenet",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "ten",
+        "-et"
+      ],
+      "gloss": {
+        "en": "a main belief or principle of a group or idea (Latin tenet, 'he holds')",
+        "tr": "ilke, temel inanç",
+        "de": "der Grundsatz",
+        "fr": "le principe, le dogme",
+        "it": "il principio, il dogma",
+        "es": "el principio, el dogma"
+      },
+      "sentences": [
+        {
+          "en": "Freedom of speech is a basic [tenet] of democracy.",
+          "tr": "İfade özgürlüğü demokrasinin temel ilkelerinden biridir.",
+          "de": "Meinungsfreiheit ist ein Grundsatz der Demokratie.",
+          "fr": "La liberté d'expression est un principe fondamental de la démocratie.",
+          "it": "La libertà di parola è un principio fondamentale della democrazia.",
+          "es": "La libertad de expresión es un principio básico de la democracia."
+        },
+        {
+          "en": "Kindness is a central [tenet] of many religions.",
+          "tr": "İyilik birçok dinin temel inançlarından biridir.",
+          "de": "Güte ist ein zentraler Grundsatz vieler Religionen.",
+          "fr": "La bonté est un principe central de nombreuses religions.",
+          "it": "La gentilezza è un principio centrale di molte religioni.",
+          "es": "La bondad es un principio central de muchas religiones."
         }
       ]
     }

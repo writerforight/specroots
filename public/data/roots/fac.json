@@ -53,6 +53,41 @@
       ]
     },
     {
+      "id": "factual",
+      "pos": "adjective",
+      "parent": "fact",
+      "parts": [
+        "fact",
+        "-ual"
+      ],
+      "gloss": {
+        "en": "based on facts; true",
+        "tr": "olgusal, gerçeklere dayanan",
+        "de": "sachlich, faktisch",
+        "fr": "factuel",
+        "it": "fattuale, basato sui fatti",
+        "es": "objetivo, basado en hechos"
+      },
+      "sentences": [
+        {
+          "en": "The report contains several [factual] errors.",
+          "tr": "Raporda birkaç olgusal hata var.",
+          "de": "Der Bericht enthält mehrere sachliche Fehler.",
+          "fr": "Le rapport contient plusieurs erreurs factuelles.",
+          "it": "Il rapporto contiene diversi errori fattuali.",
+          "es": "El informe contiene varios errores de hecho."
+        },
+        {
+          "en": "Please keep your answer short and [factual].",
+          "tr": "Lütfen cevabını kısa ve gerçeklere dayalı tut.",
+          "de": "Bitte halte deine Antwort kurz und sachlich.",
+          "fr": "Garde ta réponse courte et factuelle, s'il te plaît.",
+          "it": "Per favore, tieni la risposta breve e basata sui fatti.",
+          "es": "Por favor, haz tu respuesta breve y objetiva."
+        }
+      ]
+    },
+    {
       "id": "factor",
       "pos": "noun",
       "parent": null,
@@ -302,6 +337,43 @@
       ]
     },
     {
+      "id": "effectively",
+      "pos": "adverb",
+      "parent": "effective",
+      "parts": [
+        "ef-",
+        "fect",
+        "-ive",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "in a way that works well; in fact, in reality",
+        "tr": "etkili biçimde; fiilen",
+        "de": "wirksam; praktisch, faktisch",
+        "fr": "efficacement ; en fait",
+        "it": "efficacemente; di fatto",
+        "es": "eficazmente; en la práctica"
+      },
+      "sentences": [
+        {
+          "en": "This medicine [effectively] treats headaches.",
+          "tr": "Bu ilaç baş ağrısını etkili biçimde tedavi ediyor.",
+          "de": "Dieses Medikament hilft wirksam gegen Kopfschmerzen.",
+          "fr": "Ce médicament soigne efficacement les maux de tête.",
+          "it": "Questa medicina cura efficacemente il mal di testa.",
+          "es": "Este medicamento trata eficazmente el dolor de cabeza."
+        },
+        {
+          "en": "The storm [effectively] closed the airport for two days.",
+          "tr": "Fırtına havalimanını fiilen iki gün kapattı.",
+          "de": "Der Sturm legte den Flughafen praktisch zwei Tage lahm.",
+          "fr": "La tempête a en fait fermé l'aéroport pendant deux jours.",
+          "it": "La tempesta ha di fatto chiuso l'aeroporto per due giorni.",
+          "es": "La tormenta cerró en la práctica el aeropuerto dos días."
+        }
+      ]
+    },
+    {
       "id": "affect",
       "pos": "verb",
       "parent": null,
@@ -369,6 +441,80 @@
           "fr": "Les chiens montrent leur affection de bien des façons.",
           "it": "I cani mostrano affetto in molti modi.",
           "es": "Los perros muestran su cariño de muchas formas."
+        }
+      ]
+    },
+    {
+      "id": "affectionate",
+      "pos": "adjective",
+      "parent": "affection",
+      "parts": [
+        "af-",
+        "fect",
+        "-ion",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "showing love and liking in a warm way",
+        "tr": "sevecen, şefkatli",
+        "de": "liebevoll, zärtlich",
+        "fr": "affectueux",
+        "it": "affettuoso",
+        "es": "cariñoso"
+      },
+      "sentences": [
+        {
+          "en": "Our dog is very [affectionate] with children.",
+          "tr": "Köpeğimiz çocuklara karşı çok sevecen.",
+          "de": "Unser Hund ist sehr liebevoll zu Kindern.",
+          "fr": "Notre chien est très affectueux avec les enfants.",
+          "it": "Il nostro cane è molto affettuoso con i bambini.",
+          "es": "Nuestro perro es muy cariñoso con los niños."
+        },
+        {
+          "en": "She gave her grandson an [affectionate] hug.",
+          "tr": "Torununa şefkatle sarıldı.",
+          "de": "Sie umarmte ihren Enkel liebevoll.",
+          "fr": "Elle a serré son petit-fils dans ses bras avec affection.",
+          "it": "Ha abbracciato affettuosamente il nipote.",
+          "es": "Le dio un abrazo cariñoso a su nieto."
+        }
+      ]
+    },
+    {
+      "id": "unaffected",
+      "pos": "adjective",
+      "parent": "affect",
+      "parts": [
+        "un-",
+        "af-",
+        "fect",
+        "-ed"
+      ],
+      "gloss": {
+        "en": "not changed or harmed by something",
+        "tr": "etkilenmemiş",
+        "de": "nicht betroffen, unberührt",
+        "fr": "non affecté, épargné",
+        "it": "non colpito, indenne",
+        "es": "no afectado"
+      },
+      "sentences": [
+        {
+          "en": "Our street was [unaffected] by the flood.",
+          "tr": "Sokağımız selden etkilenmedi.",
+          "de": "Unsere Straße war vom Hochwasser nicht betroffen.",
+          "fr": "Notre rue a été épargnée par l'inondation.",
+          "it": "La nostra strada non è stata colpita dall'alluvione.",
+          "es": "Nuestra calle no se vio afectada por la inundación."
+        },
+        {
+          "en": "Flights to Rome remain [unaffected] by the strike.",
+          "tr": "Roma uçuşları grevden etkilenmiyor.",
+          "de": "Flüge nach Rom sind vom Streik nicht betroffen.",
+          "fr": "Les vols pour Rome ne sont pas affectés par la grève.",
+          "it": "I voli per Roma non sono interessati dallo sciopero.",
+          "es": "Los vuelos a Roma no se ven afectados por la huelga."
         }
       ]
     },
@@ -551,6 +697,43 @@
       ]
     },
     {
+      "id": "perfectionist",
+      "pos": "noun",
+      "parent": "perfection",
+      "parts": [
+        "per-",
+        "fect",
+        "-ion",
+        "-ist"
+      ],
+      "gloss": {
+        "en": "a person who wants everything to be perfect",
+        "tr": "mükemmeliyetçi",
+        "de": "der Perfektionist",
+        "fr": "le perfectionniste",
+        "it": "il perfezionista",
+        "es": "el perfeccionista"
+      },
+      "sentences": [
+        {
+          "en": "She is a [perfectionist] and rewrites every email twice.",
+          "tr": "O bir mükemmeliyetçi; her e-postayı iki kez yeniden yazıyor.",
+          "de": "Sie ist Perfektionistin und schreibt jede E-Mail zweimal neu.",
+          "fr": "C'est une perfectionniste : elle réécrit chaque e-mail deux fois.",
+          "it": "È una perfezionista e riscrive ogni email due volte.",
+          "es": "Es perfeccionista y reescribe cada correo dos veces."
+        },
+        {
+          "en": "Being a [perfectionist] can make you slow.",
+          "tr": "Mükemmeliyetçi olmak seni yavaşlatabilir.",
+          "de": "Perfektionist zu sein kann einen langsam machen.",
+          "fr": "Être perfectionniste peut te ralentir.",
+          "it": "Essere un perfezionista può renderti lento.",
+          "es": "Ser perfeccionista puede hacerte lento."
+        }
+      ]
+    },
+    {
       "id": "imperfect",
       "pos": "adjective",
       "parent": "perfect",
@@ -583,6 +766,42 @@
           "fr": "Le plan est imparfait, mais c'est un début.",
           "it": "Il piano è imperfetto, ma è un inizio.",
           "es": "El plan es imperfecto, pero es un comienzo."
+        }
+      ]
+    },
+    {
+      "id": "perfectly",
+      "pos": "adverb",
+      "parent": "perfect",
+      "parts": [
+        "per-",
+        "fect",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "in a perfect way; completely",
+        "tr": "mükemmel biçimde; tamamen",
+        "de": "perfekt; völlig",
+        "fr": "parfaitement",
+        "it": "perfettamente",
+        "es": "perfectamente"
+      },
+      "sentences": [
+        {
+          "en": "The new shoes fit [perfectly].",
+          "tr": "Yeni ayakkabılar tam oldu.",
+          "de": "Die neuen Schuhe passen perfekt.",
+          "fr": "Les nouvelles chaussures vont parfaitement.",
+          "it": "Le scarpe nuove calzano perfettamente.",
+          "es": "Los zapatos nuevos quedan perfectos."
+        },
+        {
+          "en": "I am [perfectly] happy to wait here.",
+          "tr": "Burada beklemekten gayet memnunum.",
+          "de": "Ich warte hier völlig gern.",
+          "fr": "Je suis parfaitement content d'attendre ici.",
+          "it": "Sono perfettamente felice di aspettare qui.",
+          "es": "Estoy perfectamente contento de esperar aquí."
         }
       ]
     },
@@ -690,6 +909,42 @@
           "fr": "Elle est rapide et efficace dans son travail.",
           "it": "È rapida ed efficiente nel suo lavoro.",
           "es": "Es rápida y eficiente en su trabajo."
+        }
+      ]
+    },
+    {
+      "id": "efficiency",
+      "pos": "noun",
+      "parent": "efficient",
+      "parts": [
+        "ef-",
+        "fic",
+        "-iency"
+      ],
+      "gloss": {
+        "en": "the quality of working well without wasting time, money or energy",
+        "tr": "verimlilik, etkinlik",
+        "de": "die Effizienz, die Leistungsfähigkeit",
+        "fr": "l'efficacité, le rendement",
+        "it": "l'efficienza",
+        "es": "la eficiencia"
+      },
+      "sentences": [
+        {
+          "en": "LED lamps have much higher energy [efficiency].",
+          "tr": "LED lambaların enerji verimliliği çok daha yüksek.",
+          "de": "LED-Lampen haben eine viel höhere Energieeffizienz.",
+          "fr": "Les lampes LED ont un bien meilleur rendement énergétique.",
+          "it": "Le lampade LED hanno un'efficienza energetica molto più alta.",
+          "es": "Las lámparas LED tienen una eficiencia energética mucho mayor."
+        },
+        {
+          "en": "She organised the trip with great [efficiency].",
+          "tr": "Geziyi büyük bir etkinlikle düzenledi.",
+          "de": "Sie organisierte die Reise mit großer Effizienz.",
+          "fr": "Elle a organisé le voyage avec une grande efficacité.",
+          "it": "Ha organizzato il viaggio con grande efficienza.",
+          "es": "Organizó el viaje con gran eficiencia."
         }
       ]
     },
@@ -1013,6 +1268,77 @@
           "fr": "La satisfaction des clients est notre priorité.",
           "it": "La soddisfazione dei clienti è il nostro primo obiettivo.",
           "es": "La satisfacción del cliente es nuestro primer objetivo."
+        }
+      ]
+    },
+    {
+      "id": "proficient",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "pro-",
+        "fic",
+        "-ient"
+      ],
+      "gloss": {
+        "en": "skilled at something through practice (literally: making progress)",
+        "tr": "yetkin, usta",
+        "de": "geübt, kompetent",
+        "fr": "compétent, qui maîtrise",
+        "it": "competente, esperto",
+        "es": "competente, hábil"
+      },
+      "sentences": [
+        {
+          "en": "She is [proficient] in three languages.",
+          "tr": "Üç dilde yetkin.",
+          "de": "Sie beherrscht drei Sprachen sicher.",
+          "fr": "Elle maîtrise trois langues.",
+          "it": "È competente in tre lingue.",
+          "es": "Domina tres idiomas con soltura."
+        },
+        {
+          "en": "After a year, he became a [proficient] driver.",
+          "tr": "Bir yıl sonra usta bir sürücü oldu.",
+          "de": "Nach einem Jahr wurde er ein geübter Fahrer.",
+          "fr": "Au bout d'un an, il est devenu un conducteur compétent.",
+          "it": "Dopo un anno è diventato un guidatore esperto.",
+          "es": "Al cabo de un año se convirtió en un conductor hábil."
+        }
+      ]
+    },
+    {
+      "id": "artifact",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "arti-",
+        "fact"
+      ],
+      "gloss": {
+        "en": "an object made by people long ago, such as a tool or pot (literally: made with skill)",
+        "tr": "eser, insan yapımı eski nesne",
+        "de": "das Artefakt, der Fund",
+        "fr": "l'objet façonné, l'artefact",
+        "it": "il manufatto, il reperto",
+        "es": "el artefacto, el objeto antiguo"
+      },
+      "sentences": [
+        {
+          "en": "The museum displays [artifacts] from ancient Egypt.",
+          "tr": "Müze eski Mısır'dan eserler sergiliyor.",
+          "de": "Das Museum zeigt Funde aus dem alten Ägypten.",
+          "fr": "Le musée expose des objets de l'Égypte ancienne.",
+          "it": "Il museo espone reperti dell'antico Egitto.",
+          "es": "El museo exhibe objetos del antiguo Egipto."
+        },
+        {
+          "en": "Workers found Roman [artifacts] under the new road.",
+          "tr": "İşçiler yeni yolun altında Roma eserleri buldu.",
+          "de": "Arbeiter fanden römische Artefakte unter der neuen Straße.",
+          "fr": "Des ouvriers ont trouvé des objets romains sous la nouvelle route.",
+          "it": "Gli operai hanno trovato manufatti romani sotto la nuova strada.",
+          "es": "Los obreros encontraron objetos romanos bajo la nueva carretera."
         }
       ]
     }

@@ -589,6 +589,43 @@
       ]
     },
     {
+      "id": "subjectivity",
+      "pos": "noun",
+      "parent": "subjective",
+      "parts": [
+        "sub-",
+        "ject",
+        "-iv",
+        "-ity"
+      ],
+      "gloss": {
+        "en": "the quality of being based on personal feelings rather than facts",
+        "tr": "öznellik",
+        "de": "die Subjektivität",
+        "fr": "la subjectivité",
+        "it": "la soggettività",
+        "es": "la subjetividad"
+      },
+      "sentences": [
+        {
+          "en": "Judging art always involves some [subjectivity].",
+          "tr": "Sanatı değerlendirmek her zaman biraz öznellik içerir.",
+          "de": "Kunst zu beurteilen ist immer mit etwas Subjektivität verbunden.",
+          "fr": "Juger l'art implique toujours une part de subjectivité.",
+          "it": "Giudicare l'arte comporta sempre un po' di soggettività.",
+          "es": "Juzgar el arte siempre implica cierta subjetividad."
+        },
+        {
+          "en": "Good reporters try to avoid [subjectivity].",
+          "tr": "İyi muhabirler öznellikten kaçınmaya çalışır.",
+          "de": "Gute Reporter versuchen, Subjektivität zu vermeiden.",
+          "fr": "Les bons journalistes essaient d'éviter la subjectivité.",
+          "it": "I buoni giornalisti cercano di evitare la soggettività.",
+          "es": "Los buenos periodistas intentan evitar la subjetividad."
+        }
+      ]
+    },
+    {
       "id": "eject",
       "pos": "verb",
       "parent": null,

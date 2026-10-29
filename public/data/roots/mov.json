@@ -265,6 +265,77 @@
       ]
     },
     {
+      "id": "moving",
+      "pos": "adjective",
+      "parent": "move",
+      "parts": [
+        "mov",
+        "-ing"
+      ],
+      "gloss": {
+        "en": "causing strong feelings, often sadness or sympathy; that moves",
+        "tr": "dokunaklı, duygulandırıcı; hareketli",
+        "de": "bewegend, ergreifend; beweglich",
+        "fr": "émouvant ; mobile",
+        "it": "commovente; in movimento",
+        "es": "conmovedor; en movimiento"
+      },
+      "sentences": [
+        {
+          "en": "Her speech at the funeral was very [moving].",
+          "tr": "Cenazedeki konuşması çok dokunaklıydı.",
+          "de": "Ihre Rede bei der Beerdigung war sehr bewegend.",
+          "fr": "Son discours aux funérailles était très émouvant.",
+          "it": "Il suo discorso al funerale è stato molto commovente.",
+          "es": "Su discurso en el funeral fue muy conmovedor."
+        },
+        {
+          "en": "Never jump off a [moving] train.",
+          "tr": "Hareket hâlindeki bir trenden asla atlama.",
+          "de": "Spring nie aus einem fahrenden Zug.",
+          "fr": "Ne saute jamais d'un train en marche.",
+          "it": "Non saltare mai da un treno in movimento.",
+          "es": "Nunca saltes de un tren en marcha."
+        }
+      ]
+    },
+    {
+      "id": "unmoved",
+      "pos": "adjective",
+      "parent": "move",
+      "parts": [
+        "un-",
+        "mov",
+        "-ed"
+      ],
+      "gloss": {
+        "en": "not feeling pity or emotion; not changing your opinion",
+        "tr": "etkilenmemiş, duygusuz, kayıtsız",
+        "de": "ungerührt, unbeeindruckt",
+        "fr": "indifférent, impassible",
+        "it": "impassibile, indifferente",
+        "es": "impasible, indiferente"
+      },
+      "sentences": [
+        {
+          "en": "The judge remained [unmoved] by his tears.",
+          "tr": "Yargıç onun gözyaşlarından etkilenmedi.",
+          "de": "Der Richter blieb von seinen Tränen ungerührt.",
+          "fr": "Le juge est resté impassible devant ses larmes.",
+          "it": "Il giudice è rimasto impassibile davanti alle sue lacrime.",
+          "es": "El juez se mantuvo impasible ante sus lágrimas."
+        },
+        {
+          "en": "We asked again, but she was [unmoved].",
+          "tr": "Tekrar sorduk ama fikrini değiştirmedi.",
+          "de": "Wir fragten noch einmal, aber sie blieb unbeeindruckt.",
+          "fr": "Nous avons redemandé, mais elle est restée inflexible.",
+          "it": "Abbiamo chiesto di nuovo, ma è rimasta indifferente.",
+          "es": "Volvimos a preguntar, pero ella se mantuvo impasible."
+        }
+      ]
+    },
+    {
       "id": "motion",
       "pos": "noun",
       "parent": null,
@@ -514,6 +585,43 @@
       ]
     },
     {
+      "id": "motivational",
+      "pos": "adjective",
+      "parent": "motivation",
+      "parts": [
+        "mot",
+        "-iv",
+        "-ation",
+        "-al"
+      ],
+      "gloss": {
+        "en": "making people want to work hard or achieve something",
+        "tr": "motive edici, yüreklendirici",
+        "de": "motivierend",
+        "fr": "motivant",
+        "it": "motivazionale, motivante",
+        "es": "motivador"
+      },
+      "sentences": [
+        {
+          "en": "The coach gave a short [motivational] talk before the game.",
+          "tr": "Antrenör maçtan önce kısa ve motive edici bir konuşma yaptı.",
+          "de": "Der Trainer hielt vor dem Spiel eine kurze motivierende Rede.",
+          "fr": "L'entraîneur a fait un court discours motivant avant le match.",
+          "it": "L'allenatore ha fatto un breve discorso motivazionale prima della partita.",
+          "es": "El entrenador dio una breve charla motivadora antes del partido."
+        },
+        {
+          "en": "She puts [motivational] quotes on her wall.",
+          "tr": "Duvarına yüreklendirici sözler asıyor.",
+          "de": "Sie hängt motivierende Sprüche an ihre Wand.",
+          "fr": "Elle affiche des citations motivantes sur son mur.",
+          "it": "Appende frasi motivazionali alla parete.",
+          "es": "Pone frases motivadoras en su pared."
+        }
+      ]
+    },
+    {
       "id": "emotion",
       "pos": "noun",
       "parent": null,
@@ -625,6 +733,42 @@
       ]
     },
     {
+      "id": "emotive",
+      "pos": "adjective",
+      "parent": "emotion",
+      "parts": [
+        "e-",
+        "mot",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "causing strong feelings, often on purpose",
+        "tr": "duygusal tepki uyandıran, hassas",
+        "de": "emotional, gefühlsbeladen",
+        "fr": "qui suscite l'émotion, sensible",
+        "it": "emotivo, che suscita emozioni",
+        "es": "emotivo, que provoca emociones"
+      },
+      "sentences": [
+        {
+          "en": "Immigration is an [emotive] subject for many people.",
+          "tr": "Göç birçok insan için hassas bir konu.",
+          "de": "Einwanderung ist für viele ein emotionales Thema.",
+          "fr": "L'immigration est un sujet sensible pour beaucoup.",
+          "it": "L'immigrazione è un tema emotivo per molti.",
+          "es": "La inmigración es un tema emotivo para mucha gente."
+        },
+        {
+          "en": "The advert uses [emotive] pictures of hungry children.",
+          "tr": "Reklam aç çocukların duygu uyandıran fotoğraflarını kullanıyor.",
+          "de": "Die Werbung zeigt gefühlsbeladene Bilder hungriger Kinder.",
+          "fr": "La publicité utilise des images émouvantes d'enfants affamés.",
+          "it": "La pubblicità usa immagini emotive di bambini affamati.",
+          "es": "El anuncio usa imágenes emotivas de niños hambrientos."
+        }
+      ]
+    },
+    {
       "id": "promote",
       "pos": "verb",
       "parent": null,
@@ -692,6 +836,43 @@
           "fr": "Le magasin fait une promotion d'été sur les vélos.",
           "it": "Il negozio ha una promozione estiva sulle bici.",
           "es": "La tienda tiene una promoción de verano en bicis."
+        }
+      ]
+    },
+    {
+      "id": "promotional",
+      "pos": "adjective",
+      "parent": "promotion",
+      "parts": [
+        "pro-",
+        "mot",
+        "-ion",
+        "-al"
+      ],
+      "gloss": {
+        "en": "made to advertise something",
+        "tr": "tanıtım amaçlı, promosyon",
+        "de": "Werbe-",
+        "fr": "promotionnel, publicitaire",
+        "it": "promozionale, pubblicitario",
+        "es": "promocional, publicitario"
+      },
+      "sentences": [
+        {
+          "en": "The band made a [promotional] video for the new album.",
+          "tr": "Grup yeni albüm için tanıtım videosu çekti.",
+          "de": "Die Band drehte ein Werbevideo für das neue Album.",
+          "fr": "Le groupe a tourné une vidéo promotionnelle pour le nouvel album.",
+          "it": "La band ha girato un video promozionale per il nuovo album.",
+          "es": "El grupo grabó un vídeo promocional para el nuevo disco."
+        },
+        {
+          "en": "The shop gave away free [promotional] bags.",
+          "tr": "Mağaza ücretsiz promosyon çantaları dağıttı.",
+          "de": "Der Laden verteilte kostenlose Werbetaschen.",
+          "fr": "Le magasin a distribué des sacs promotionnels gratuits.",
+          "it": "Il negozio regalava borse promozionali.",
+          "es": "La tienda regaló bolsas promocionales."
         }
       ]
     },

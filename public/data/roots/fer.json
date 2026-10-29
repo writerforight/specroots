@@ -875,6 +875,43 @@
       ]
     },
     {
+      "id": "insufferable",
+      "pos": "adjective",
+      "parent": "suffer",
+      "parts": [
+        "in-not-",
+        "suf-",
+        "fer",
+        "-able"
+      ],
+      "gloss": {
+        "en": "so annoying that you cannot stand it (literally: not able to be suffered)",
+        "tr": "çekilmez, dayanılmaz",
+        "de": "unausstehlich, unerträglich",
+        "fr": "insupportable",
+        "it": "insopportabile",
+        "es": "insoportable, inaguantable"
+      },
+      "sentences": [
+        {
+          "en": "Since he won, he has been [insufferable].",
+          "tr": "Kazandığından beri çekilmez biri oldu.",
+          "de": "Seit er gewonnen hat, ist er unausstehlich.",
+          "fr": "Depuis qu'il a gagné, il est insupportable.",
+          "it": "Da quando ha vinto è insopportabile.",
+          "es": "Desde que ganó, está insoportable."
+        },
+        {
+          "en": "The heat on the train was [insufferable].",
+          "tr": "Trendeki sıcak dayanılmazdı.",
+          "de": "Die Hitze im Zug war unerträglich.",
+          "fr": "La chaleur dans le train était insupportable.",
+          "it": "Il caldo sul treno era insopportabile.",
+          "es": "El calor en el tren era insoportable."
+        }
+      ]
+    },
+    {
       "id": "defer",
       "pos": "verb",
       "parent": null,

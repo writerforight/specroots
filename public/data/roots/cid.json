@@ -89,6 +89,43 @@
       ]
     },
     {
+      "id": "indecision",
+      "pos": "noun",
+      "parent": "decision",
+      "parts": [
+        "in-not-",
+        "de-",
+        "cis",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "the state of not being able to decide",
+        "tr": "kararsızlık",
+        "de": "die Unentschlossenheit",
+        "fr": "l'indécision",
+        "it": "l'indecisione",
+        "es": "la indecisión"
+      },
+      "sentences": [
+        {
+          "en": "After a moment of [indecision], she ordered the soup.",
+          "tr": "Kısa bir kararsızlıktan sonra çorbayı sipariş etti.",
+          "de": "Nach einem Moment der Unentschlossenheit bestellte sie die Suppe.",
+          "fr": "Après un moment d'indécision, elle a commandé la soupe.",
+          "it": "Dopo un attimo di indecisione ha ordinato la zuppa.",
+          "es": "Tras un momento de indecisión, pidió la sopa."
+        },
+        {
+          "en": "His [indecision] cost the company a lot of money.",
+          "tr": "Kararsızlığı şirkete çok paraya mal oldu.",
+          "de": "Seine Unentschlossenheit kostete die Firma viel Geld.",
+          "fr": "Son indécision a coûté beaucoup d'argent à l'entreprise.",
+          "it": "La sua indecisione è costata molti soldi all'azienda.",
+          "es": "Su indecisión le costó mucho dinero a la empresa."
+        }
+      ]
+    },
+    {
       "id": "decisive",
       "pos": "adjective",
       "parent": "decide",
@@ -162,6 +199,43 @@
       ]
     },
     {
+      "id": "decisively",
+      "pos": "adverb",
+      "parent": "decisive",
+      "parts": [
+        "de-",
+        "cis",
+        "-ive",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "quickly and firmly; in a way that settles the result",
+        "tr": "kararlılıkla; kesin biçimde",
+        "de": "entschlossen; deutlich",
+        "fr": "de façon décisive, résolument",
+        "it": "con decisione; nettamente",
+        "es": "con decisión; de forma decisiva"
+      },
+      "sentences": [
+        {
+          "en": "The manager acted [decisively] when the crisis began.",
+          "tr": "Kriz başlayınca müdür kararlılıkla harekete geçti.",
+          "de": "Die Chefin handelte entschlossen, als die Krise begann.",
+          "fr": "La directrice a agi avec détermination au début de la crise.",
+          "it": "La direttrice ha agito con decisione quando è iniziata la crisi.",
+          "es": "La directora actuó con decisión cuando empezó la crisis."
+        },
+        {
+          "en": "Our team won [decisively], five goals to nil.",
+          "tr": "Takımımız beşe sıfır kesin bir galibiyet aldı.",
+          "de": "Unser Team gewann deutlich mit fünf zu null.",
+          "fr": "Notre équipe a gagné nettement, cinq à zéro.",
+          "it": "La nostra squadra ha vinto nettamente, cinque a zero.",
+          "es": "Nuestro equipo ganó de forma decisiva, cinco a cero."
+        }
+      ]
+    },
+    {
       "id": "undecided",
       "pos": "adjective",
       "parent": "decide",
@@ -195,6 +269,43 @@
           "fr": "Je ne sais pas encore quel cours suivre.",
           "it": "Sono indeciso su quale corso seguire.",
           "es": "Estoy indeciso sobre qué curso hacer."
+        }
+      ]
+    },
+    {
+      "id": "decidedly",
+      "pos": "adverb",
+      "parent": "decide",
+      "parts": [
+        "de-",
+        "cid",
+        "-ed",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "clearly, certainly; very",
+        "tr": "açıkça, kesinlikle; epeyce",
+        "de": "entschieden, ausgesprochen",
+        "fr": "nettement, résolument",
+        "it": "decisamente",
+        "es": "decididamente, claramente"
+      },
+      "sentences": [
+        {
+          "en": "The weather today is [decidedly] cooler.",
+          "tr": "Bugün hava kesinlikle daha serin.",
+          "de": "Das Wetter ist heute deutlich kühler.",
+          "fr": "Il fait nettement plus frais aujourd'hui.",
+          "it": "Oggi il tempo è decisamente più fresco.",
+          "es": "Hoy el tiempo es claramente más fresco."
+        },
+        {
+          "en": "The meeting ended in a [decidedly] bad mood.",
+          "tr": "Toplantı epeyce kötü bir havada bitti.",
+          "de": "Die Sitzung endete in ausgesprochen schlechter Stimmung.",
+          "fr": "La réunion s'est terminée dans une ambiance résolument mauvaise.",
+          "it": "La riunione è finita in un clima decisamente brutto.",
+          "es": "La reunión terminó con un ambiente decididamente malo."
         }
       ]
     },
@@ -306,6 +417,42 @@
       ]
     },
     {
+      "id": "precisely",
+      "pos": "adverb",
+      "parent": "precise",
+      "parts": [
+        "pre-",
+        "cise",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "exactly; used to agree strongly",
+        "tr": "tam olarak, tam; aynen öyle",
+        "de": "genau",
+        "fr": "précisément, exactement",
+        "it": "precisamente, esattamente",
+        "es": "exactamente, precisamente"
+      },
+      "sentences": [
+        {
+          "en": "The train left at [precisely] nine o'clock.",
+          "tr": "Tren tam saat dokuzda kalktı.",
+          "de": "Der Zug fuhr genau um neun Uhr ab.",
+          "fr": "Le train est parti à neuf heures précises.",
+          "it": "Il treno è partito esattamente alle nove.",
+          "es": "El tren salió exactamente a las nueve."
+        },
+        {
+          "en": "'So we need more time?' '[Precisely].'",
+          "tr": "'Yani daha çok zamana mı ihtiyacımız var?' 'Aynen öyle.'",
+          "de": "„Wir brauchen also mehr Zeit?“ – „Genau.“",
+          "fr": "« Donc il nous faut plus de temps ? » « Précisément. »",
+          "it": "«Quindi ci serve più tempo?» «Esattamente.»",
+          "es": "—¿Entonces necesitamos más tiempo? —Exactamente."
+        }
+      ]
+    },
+    {
       "id": "concise",
       "pos": "adjective",
       "parent": null,
@@ -337,6 +484,42 @@
           "fr": "Ce guide concis tient dans la poche.",
           "it": "Questa guida concisa sta in tasca.",
           "es": "Esta guía concisa cabe en el bolsillo."
+        }
+      ]
+    },
+    {
+      "id": "concisely",
+      "pos": "adverb",
+      "parent": "concise",
+      "parts": [
+        "con-",
+        "cise",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "in a short and clear way",
+        "tr": "kısaca ve öz biçimde",
+        "de": "knapp, prägnant",
+        "fr": "de façon concise",
+        "it": "in modo conciso",
+        "es": "de forma concisa"
+      },
+      "sentences": [
+        {
+          "en": "Please answer each question [concisely].",
+          "tr": "Lütfen her soruyu kısa ve öz cevaplayın.",
+          "de": "Bitte beantworte jede Frage knapp.",
+          "fr": "Réponds à chaque question de façon concise.",
+          "it": "Rispondi a ogni domanda in modo conciso.",
+          "es": "Responde a cada pregunta de forma concisa."
+        },
+        {
+          "en": "She explained the problem clearly and [concisely].",
+          "tr": "Sorunu açık ve öz biçimde anlattı.",
+          "de": "Sie erklärte das Problem klar und prägnant.",
+          "fr": "Elle a expliqué le problème clairement et de façon concise.",
+          "it": "Ha spiegato il problema in modo chiaro e conciso.",
+          "es": "Explicó el problema de forma clara y concisa."
         }
       ]
     },
@@ -549,6 +732,42 @@
           "fr": "Garde l'insecticide hors de portée des enfants.",
           "it": "Tieni l'insetticida lontano dai bambini.",
           "es": "Mantén el insecticida lejos de los niños."
+        }
+      ]
+    },
+    {
+      "id": "incisor",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "in-",
+        "cis",
+        "-or"
+      ],
+      "gloss": {
+        "en": "one of the sharp front teeth used for cutting food (literally: the one that cuts into)",
+        "tr": "kesici diş",
+        "de": "der Schneidezahn",
+        "fr": "l'incisive",
+        "it": "l'incisivo",
+        "es": "el incisivo"
+      },
+      "sentences": [
+        {
+          "en": "Rabbits have long [incisors] that never stop growing.",
+          "tr": "Tavşanların hiç durmadan uzayan uzun kesici dişleri vardır.",
+          "de": "Kaninchen haben lange Schneidezähne, die nie aufhören zu wachsen.",
+          "fr": "Les lapins ont de longues incisives qui poussent sans arrêt.",
+          "it": "I conigli hanno lunghi incisivi che non smettono mai di crescere.",
+          "es": "Los conejos tienen largos incisivos que nunca dejan de crecer."
+        },
+        {
+          "en": "He broke an [incisor] playing football.",
+          "tr": "Futbol oynarken bir kesici dişini kırdı.",
+          "de": "Er hat sich beim Fußball einen Schneidezahn abgebrochen.",
+          "fr": "Il s'est cassé une incisive en jouant au football.",
+          "it": "Si è rotto un incisivo giocando a calcio.",
+          "es": "Se rompió un incisivo jugando al fútbol."
         }
       ]
     }

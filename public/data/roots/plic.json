@@ -303,6 +303,43 @@
       ]
     },
     {
+      "id": "implicitly",
+      "pos": "adverb",
+      "parent": "implicit",
+      "parts": [
+        "im-",
+        "plic",
+        "-it",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "without being said directly; completely, without any doubt",
+        "tr": "dolaylı olarak, örtük biçimde; sorgusuz sualsiz",
+        "de": "stillschweigend; bedingungslos",
+        "fr": "implicitement ; aveuglément",
+        "it": "implicitamente; ciecamente",
+        "es": "implícitamente; ciegamente"
+      },
+      "sentences": [
+        {
+          "en": "Her silence [implicitly] said yes.",
+          "tr": "Sessizliği dolaylı olarak evet diyordu.",
+          "de": "Ihr Schweigen sagte stillschweigend Ja.",
+          "fr": "Son silence disait implicitement oui.",
+          "it": "Il suo silenzio diceva implicitamente di sì.",
+          "es": "Su silencio decía implícitamente que sí."
+        },
+        {
+          "en": "I trust my best friend [implicitly].",
+          "tr": "En iyi arkadaşıma sorgusuz sualsiz güvenirim.",
+          "de": "Ich vertraue meiner besten Freundin bedingungslos.",
+          "fr": "J'ai une confiance aveugle en ma meilleure amie.",
+          "it": "Mi fido ciecamente della mia migliore amica.",
+          "es": "Confío ciegamente en mi mejor amiga."
+        }
+      ]
+    },
+    {
       "id": "explicit",
       "pos": "adjective",
       "parent": null,
@@ -663,6 +700,42 @@
       ]
     },
     {
+      "id": "duplication",
+      "pos": "noun",
+      "parent": "duplicate",
+      "parts": [
+        "du-",
+        "plic",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "the act of copying; doing the same work twice without need",
+        "tr": "çoğaltma, kopyalama; gereksiz tekrar",
+        "de": "die Vervielfältigung; die Doppelarbeit",
+        "fr": "la duplication ; le double emploi",
+        "it": "la duplicazione",
+        "es": "la duplicación"
+      },
+      "sentences": [
+        {
+          "en": "Let's share tasks to avoid [duplication] of work.",
+          "tr": "İşin gereksiz tekrarını önlemek için görevleri paylaşalım.",
+          "de": "Lasst uns die Aufgaben teilen, um Doppelarbeit zu vermeiden.",
+          "fr": "Partageons les tâches pour éviter le double emploi.",
+          "it": "Dividiamoci i compiti per evitare la duplicazione del lavoro.",
+          "es": "Repartamos las tareas para evitar la duplicación del trabajo."
+        },
+        {
+          "en": "[Duplication] of these keys is not allowed.",
+          "tr": "Bu anahtarların kopyalanması yasaktır.",
+          "de": "Das Nachmachen dieser Schlüssel ist nicht erlaubt.",
+          "fr": "La duplication de ces clés est interdite.",
+          "it": "La duplicazione di queste chiavi non è consentita.",
+          "es": "No está permitida la duplicación de estas llaves."
+        }
+      ]
+    },
+    {
       "id": "multiply",
       "pos": "verb",
       "parent": null,
@@ -1018,6 +1091,114 @@
           "fr": "Le déploiement du nouveau logiciel s'est bien passé.",
           "it": "Il rilascio del nuovo software è andato liscio.",
           "es": "El despliegue del nuevo programa fue bien."
+        }
+      ]
+    },
+    {
+      "id": "replicate",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "re-",
+        "plic",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "to copy something exactly; to repeat an experiment (literally: to fold back)",
+        "tr": "kopyalamak, tekrarlamak",
+        "de": "nachbilden, wiederholen",
+        "fr": "reproduire",
+        "it": "replicare, riprodurre",
+        "es": "reproducir, replicar"
+      },
+      "sentences": [
+        {
+          "en": "Other scientists could not [replicate] the results.",
+          "tr": "Diğer bilim insanları sonuçları tekrarlayamadı.",
+          "de": "Andere Forscher konnten die Ergebnisse nicht wiederholen.",
+          "fr": "D'autres scientifiques n'ont pas pu reproduire les résultats.",
+          "it": "Altri scienziati non sono riusciti a replicare i risultati.",
+          "es": "Otros científicos no pudieron reproducir los resultados."
+        },
+        {
+          "en": "The artist [replicated] the old painting perfectly.",
+          "tr": "Sanatçı eski tabloyu kusursuzca kopyaladı.",
+          "de": "Der Künstler bildete das alte Gemälde perfekt nach.",
+          "fr": "L'artiste a parfaitement reproduit le vieux tableau.",
+          "it": "L'artista ha riprodotto perfettamente il vecchio dipinto.",
+          "es": "El artista reprodujo perfectamente el viejo cuadro."
+        }
+      ]
+    },
+    {
+      "id": "replication",
+      "pos": "noun",
+      "parent": "replicate",
+      "parts": [
+        "re-",
+        "plic",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "an exact copy; the act of repeating an experiment",
+        "tr": "kopya; tekrarlama",
+        "de": "die Nachbildung; die Wiederholung",
+        "fr": "la reproduction, la réplication",
+        "it": "la replica, la riproduzione",
+        "es": "la reproducción, la réplica"
+      },
+      "sentences": [
+        {
+          "en": "The statue in the park is a [replication] of the original.",
+          "tr": "Parktaki heykel aslının bir kopyası.",
+          "de": "Die Statue im Park ist eine Nachbildung des Originals.",
+          "fr": "La statue du parc est une reproduction de l'original.",
+          "it": "La statua nel parco è una replica dell'originale.",
+          "es": "La estatua del parque es una réplica del original."
+        },
+        {
+          "en": "Good science depends on the [replication] of results.",
+          "tr": "İyi bilim sonuçların tekrarlanabilmesine dayanır.",
+          "de": "Gute Wissenschaft hängt von der Wiederholung der Ergebnisse ab.",
+          "fr": "La bonne science repose sur la reproduction des résultats.",
+          "it": "La buona scienza dipende dalla riproduzione dei risultati.",
+          "es": "La buena ciencia depende de la reproducción de los resultados."
+        }
+      ]
+    },
+    {
+      "id": "complexion",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "com-",
+        "plex",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "the natural colour and look of the skin of your face (from Latin complexio, a combination of body fluids)",
+        "tr": "ten, cilt rengi",
+        "de": "der Teint, die Gesichtsfarbe",
+        "fr": "le teint",
+        "it": "la carnagione",
+        "es": "el cutis, la tez"
+      },
+      "sentences": [
+        {
+          "en": "She has a pale [complexion] and red hair.",
+          "tr": "Solgun tenli ve kızıl saçlı.",
+          "de": "Sie hat einen blassen Teint und rote Haare.",
+          "fr": "Elle a le teint pâle et les cheveux roux.",
+          "it": "Ha la carnagione pallida e i capelli rossi.",
+          "es": "Tiene la tez pálida y el pelo pelirrojo."
+        },
+        {
+          "en": "Fresh air and sleep are good for your [complexion].",
+          "tr": "Temiz hava ve uyku cildin için iyidir.",
+          "de": "Frische Luft und Schlaf sind gut für den Teint.",
+          "fr": "L'air frais et le sommeil sont bons pour le teint.",
+          "it": "Aria fresca e sonno fanno bene alla carnagione.",
+          "es": "El aire fresco y el sueño son buenos para el cutis."
         }
       ]
     }

@@ -833,6 +833,79 @@
       ]
     },
     {
+      "id": "educated",
+      "pos": "adjective",
+      "parent": "educate",
+      "parts": [
+        "e-",
+        "duc",
+        "-ated"
+      ],
+      "gloss": {
+        "en": "having learned a lot at school or university",
+        "tr": "eğitimli, okumuş",
+        "de": "gebildet",
+        "fr": "instruit, cultivé",
+        "it": "istruito, colto",
+        "es": "culto, instruido"
+      },
+      "sentences": [
+        {
+          "en": "Her parents were [educated] people who loved books.",
+          "tr": "Anne babası kitapları seven okumuş insanlardı.",
+          "de": "Ihre Eltern waren gebildete Menschen, die Bücher liebten.",
+          "fr": "Ses parents étaient des gens instruits qui aimaient les livres.",
+          "it": "I suoi genitori erano persone istruite che amavano i libri.",
+          "es": "Sus padres eran personas cultas que amaban los libros."
+        },
+        {
+          "en": "I made an [educated] guess and got it right.",
+          "tr": "Bilgiye dayalı bir tahmin yaptım ve doğru çıktı.",
+          "de": "Ich habe eine fundierte Vermutung angestellt und lag richtig.",
+          "fr": "J'ai fait une supposition éclairée et j'avais raison.",
+          "it": "Ho fatto un'ipotesi ragionata e ho indovinato.",
+          "es": "Hice una suposición fundada y acerté."
+        }
+      ]
+    },
+    {
+      "id": "uneducated",
+      "pos": "adjective",
+      "parent": "educated",
+      "parts": [
+        "un-",
+        "e-",
+        "duc",
+        "-ated"
+      ],
+      "gloss": {
+        "en": "having had little or no education",
+        "tr": "eğitimsiz, okumamış",
+        "de": "ungebildet",
+        "fr": "sans instruction, inculte",
+        "it": "senza istruzione, incolto",
+        "es": "inculto, sin estudios"
+      },
+      "sentences": [
+        {
+          "en": "My grandfather was [uneducated] but very wise.",
+          "tr": "Dedem okumamıştı ama çok bilgeydi.",
+          "de": "Mein Großvater war ungebildet, aber sehr weise.",
+          "fr": "Mon grand-père n'avait pas d'instruction, mais il était très sage.",
+          "it": "Mio nonno era senza istruzione, ma molto saggio.",
+          "es": "Mi abuelo no tenía estudios, pero era muy sabio."
+        },
+        {
+          "en": "Never laugh at people for being [uneducated].",
+          "tr": "İnsanlarla eğitimsiz oldukları için asla dalga geçme.",
+          "de": "Lach nie über Menschen, weil sie ungebildet sind.",
+          "fr": "Ne te moque jamais des gens parce qu'ils sont sans instruction.",
+          "it": "Non ridere mai delle persone perché non hanno studiato.",
+          "es": "Nunca te rías de la gente por no tener estudios."
+        }
+      ]
+    },
+    {
       "id": "producer",
       "pos": "noun",
       "parent": "produce",
@@ -942,6 +1015,43 @@
       ]
     },
     {
+      "id": "productivity",
+      "pos": "noun",
+      "parent": "productive",
+      "parts": [
+        "pro-",
+        "duct",
+        "-iv",
+        "-ity"
+      ],
+      "gloss": {
+        "en": "how much work or goods are produced in a given time",
+        "tr": "verimlilik",
+        "de": "die Produktivität",
+        "fr": "la productivité",
+        "it": "la produttività",
+        "es": "la productividad"
+      },
+      "sentences": [
+        {
+          "en": "New machines have doubled the factory's [productivity].",
+          "tr": "Yeni makineler fabrikanın verimliliğini iki katına çıkardı.",
+          "de": "Neue Maschinen haben die Produktivität der Fabrik verdoppelt.",
+          "fr": "De nouvelles machines ont doublé la productivité de l'usine.",
+          "it": "Le nuove macchine hanno raddoppiato la produttività della fabbrica.",
+          "es": "Las nuevas máquinas han duplicado la productividad de la fábrica."
+        },
+        {
+          "en": "Short breaks can improve your [productivity].",
+          "tr": "Kısa molalar verimliliğini artırabilir.",
+          "de": "Kurze Pausen können deine Produktivität steigern.",
+          "fr": "De courtes pauses peuvent améliorer ta productivité.",
+          "it": "Brevi pause possono migliorare la tua produttività.",
+          "es": "Las pausas cortas pueden mejorar tu productividad."
+        }
+      ]
+    },
+    {
       "id": "reproduce",
       "pos": "verb",
       "parent": "produce",
@@ -1015,6 +1125,43 @@
       ]
     },
     {
+      "id": "reproductive",
+      "pos": "adjective",
+      "parent": "reproduce",
+      "parts": [
+        "re-",
+        "pro-",
+        "duct",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "related to producing babies or young animals",
+        "tr": "üreme ile ilgili",
+        "de": "Fortpflanzungs-",
+        "fr": "reproducteur, de la reproduction",
+        "it": "riproduttivo",
+        "es": "reproductor, reproductivo"
+      },
+      "sentences": [
+        {
+          "en": "Biology class today was about the [reproductive] system.",
+          "tr": "Bugünkü biyoloji dersi üreme sistemi hakkındaydı.",
+          "de": "In Biologie ging es heute um die Fortpflanzungsorgane.",
+          "fr": "Le cours de biologie portait aujourd'hui sur l'appareil reproducteur.",
+          "it": "La lezione di biologia di oggi era sull'apparato riproduttivo.",
+          "es": "La clase de biología de hoy trató del aparato reproductor."
+        },
+        {
+          "en": "Flowers are the [reproductive] parts of a plant.",
+          "tr": "Çiçekler bitkinin üreme organlarıdır.",
+          "de": "Blüten sind die Fortpflanzungsorgane einer Pflanze.",
+          "fr": "Les fleurs sont les organes reproducteurs d'une plante.",
+          "it": "I fiori sono gli organi riproduttivi della pianta.",
+          "es": "Las flores son las partes reproductoras de una planta."
+        }
+      ]
+    },
+    {
       "id": "introductory",
       "pos": "adjective",
       "parent": "introduction",
@@ -1082,6 +1229,78 @@
           "fr": "L'odeur du pain frais nous a attirés dans la boulangerie.",
           "it": "Il profumo del pane fresco ci ha attirati in panetteria.",
           "es": "El olor a pan recién hecho nos atrajo a la panadería."
+        }
+      ]
+    },
+    {
+      "id": "seductive",
+      "pos": "adjective",
+      "parent": "seduce",
+      "parts": [
+        "se-",
+        "duct",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "very attractive and tempting",
+        "tr": "baştan çıkarıcı, cezbedici",
+        "de": "verführerisch",
+        "fr": "séduisant, tentant",
+        "it": "seducente, allettante",
+        "es": "seductor, tentador"
+      },
+      "sentences": [
+        {
+          "en": "The idea of a four-day week is very [seductive].",
+          "tr": "Dört günlük çalışma haftası fikri çok cezbedici.",
+          "de": "Die Idee einer Viertagewoche ist sehr verführerisch.",
+          "fr": "L'idée d'une semaine de quatre jours est très séduisante.",
+          "it": "L'idea di una settimana di quattro giorni è molto allettante.",
+          "es": "La idea de una semana de cuatro días es muy tentadora."
+        },
+        {
+          "en": "The smell of fresh bread was [seductive].",
+          "tr": "Taze ekmeğin kokusu baştan çıkarıcıydı.",
+          "de": "Der Duft von frischem Brot war verführerisch.",
+          "fr": "L'odeur du pain frais était tentante.",
+          "it": "Il profumo del pane fresco era seducente.",
+          "es": "El olor a pan recién hecho era tentador."
+        }
+      ]
+    },
+    {
+      "id": "conducive",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "con-",
+        "duc",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "making something likely or easy to happen (literally: leading together)",
+        "tr": "elverişli, uygun ortam sağlayan",
+        "de": "förderlich, günstig",
+        "fr": "propice, favorable",
+        "it": "favorevole, propizio",
+        "es": "propicio, favorable"
+      },
+      "sentences": [
+        {
+          "en": "A quiet room is [conducive] to good sleep.",
+          "tr": "Sessiz bir oda iyi uykuya elverişlidir.",
+          "de": "Ein ruhiges Zimmer ist gutem Schlaf förderlich.",
+          "fr": "Une chambre calme est propice à un bon sommeil.",
+          "it": "Una stanza silenziosa è favorevole a un buon sonno.",
+          "es": "Una habitación tranquila es propicia para dormir bien."
+        },
+        {
+          "en": "Loud music is not [conducive] to studying.",
+          "tr": "Yüksek sesli müzik ders çalışmaya uygun değildir.",
+          "de": "Laute Musik ist dem Lernen nicht förderlich.",
+          "fr": "La musique forte n'est pas propice aux études.",
+          "it": "La musica alta non favorisce lo studio.",
+          "es": "La música alta no es propicia para estudiar."
         }
       ]
     }

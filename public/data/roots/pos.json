@@ -124,6 +124,42 @@
       ]
     },
     {
+      "id": "positively",
+      "pos": "adverb",
+      "parent": "positive",
+      "parts": [
+        "posit",
+        "-ive",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "in a good or hopeful way; really, completely",
+        "tr": "olumlu biçimde; kesinlikle, gerçekten",
+        "de": "positiv; geradezu, ausgesprochen",
+        "fr": "positivement ; vraiment",
+        "it": "positivamente; davvero",
+        "es": "positivamente; realmente"
+      },
+      "sentences": [
+        {
+          "en": "Try to think [positively] about the future.",
+          "tr": "Gelecek hakkında olumlu düşünmeye çalış.",
+          "de": "Versuche, positiv über die Zukunft zu denken.",
+          "fr": "Essaie de penser positivement à l'avenir.",
+          "it": "Cerca di pensare positivamente al futuro.",
+          "es": "Intenta pensar positivamente en el futuro."
+        },
+        {
+          "en": "The weather was [positively] freezing.",
+          "tr": "Hava kesinlikle buz gibiydi.",
+          "de": "Das Wetter war geradezu eiskalt.",
+          "fr": "Il faisait vraiment un froid glacial.",
+          "it": "Il tempo era davvero gelido.",
+          "es": "Hacía un frío realmente helador."
+        }
+      ]
+    },
+    {
       "id": "deposit",
       "pos": "noun",
       "parent": null,
@@ -266,6 +302,42 @@
       ]
     },
     {
+      "id": "opposite",
+      "pos": "adjective",
+      "parent": "oppose",
+      "parts": [
+        "op-",
+        "pos",
+        "-ite"
+      ],
+      "gloss": {
+        "en": "completely different; on the other side, facing (literally: placed against)",
+        "tr": "zıt, karşıt; karşıdaki",
+        "de": "entgegengesetzt; gegenüberliegend",
+        "fr": "opposé ; d'en face",
+        "it": "opposto, contrario; di fronte",
+        "es": "opuesto, contrario; de enfrente"
+      },
+      "sentences": [
+        {
+          "en": "Hot and cold are [opposite] ideas.",
+          "tr": "Sıcak ve soğuk zıt kavramlardır.",
+          "de": "Heiß und kalt sind gegensätzliche Begriffe.",
+          "fr": "Chaud et froid sont des idées opposées.",
+          "it": "Caldo e freddo sono concetti opposti.",
+          "es": "Caliente y frío son ideas opuestas."
+        },
+        {
+          "en": "The bank is on the [opposite] side of the street.",
+          "tr": "Banka sokağın karşı tarafında.",
+          "de": "Die Bank ist auf der gegenüberliegenden Straßenseite.",
+          "fr": "La banque est de l'autre côté de la rue.",
+          "it": "La banca è sul lato opposto della strada.",
+          "es": "El banco está en el lado opuesto de la calle."
+        }
+      ]
+    },
+    {
       "id": "compose",
       "pos": "verb",
       "parent": null,
@@ -369,6 +441,78 @@
           "fr": "Le groupe a joué une nouvelle composition.",
           "it": "La band ha suonato una nuova composizione.",
           "es": "El grupo tocó una nueva composición."
+        }
+      ]
+    },
+    {
+      "id": "composite",
+      "pos": "adjective",
+      "parent": "compose",
+      "parts": [
+        "com-",
+        "pos",
+        "-ite"
+      ],
+      "gloss": {
+        "en": "made of several different parts or materials (literally: put together)",
+        "tr": "bileşik, karma",
+        "de": "zusammengesetzt, Verbund-",
+        "fr": "composite, composé",
+        "it": "composito, composto",
+        "es": "compuesto"
+      },
+      "sentences": [
+        {
+          "en": "The bike frame is made of a light [composite] material.",
+          "tr": "Bisiklet kadrosu hafif bir kompozit malzemeden yapılmış.",
+          "de": "Der Fahrradrahmen besteht aus einem leichten Verbundwerkstoff.",
+          "fr": "Le cadre du vélo est en matériau composite léger.",
+          "it": "Il telaio della bici è in materiale composito leggero.",
+          "es": "El cuadro de la bici es de un material compuesto ligero."
+        },
+        {
+          "en": "The police made a [composite] picture of the thief.",
+          "tr": "Polis hırsızın robot resmini çizdi.",
+          "de": "Die Polizei erstellte ein Phantombild des Diebes.",
+          "fr": "La police a fait un portrait-robot du voleur.",
+          "it": "La polizia ha fatto un identikit del ladro.",
+          "es": "La policía hizo un retrato robot del ladrón."
+        }
+      ]
+    },
+    {
+      "id": "decompose",
+      "pos": "verb",
+      "parent": "compose",
+      "parts": [
+        "de-",
+        "com-",
+        "pose"
+      ],
+      "gloss": {
+        "en": "to slowly break down and rot after dying (literally: to un-put together)",
+        "tr": "çürümek, ayrışmak",
+        "de": "sich zersetzen, verrotten",
+        "fr": "se décomposer",
+        "it": "decomporsi",
+        "es": "descomponerse"
+      },
+      "sentences": [
+        {
+          "en": "Leaves [decompose] and make the soil rich.",
+          "tr": "Yapraklar çürüyüp toprağı zenginleştirir.",
+          "de": "Blätter zersetzen sich und machen den Boden fruchtbar.",
+          "fr": "Les feuilles se décomposent et enrichissent le sol.",
+          "it": "Le foglie si decompongono e arricchiscono il terreno.",
+          "es": "Las hojas se descomponen y enriquecen la tierra."
+        },
+        {
+          "en": "Plastic bags take hundreds of years to [decompose].",
+          "tr": "Plastik poşetlerin ayrışması yüzlerce yıl sürer.",
+          "de": "Plastiktüten brauchen Hunderte Jahre, um zu verrotten.",
+          "fr": "Les sacs plastiques mettent des centaines d'années à se décomposer.",
+          "it": "I sacchetti di plastica impiegano centinaia di anni a decomporsi.",
+          "es": "Las bolsas de plástico tardan cientos de años en descomponerse."
         }
       ]
     },
@@ -551,6 +695,43 @@
       ]
     },
     {
+      "id": "exponential",
+      "pos": "adjective",
+      "parent": "exponent",
+      "parts": [
+        "ex-",
+        "pon",
+        "-ent",
+        "-ial"
+      ],
+      "gloss": {
+        "en": "growing faster and faster; (maths) using an exponent",
+        "tr": "üstel; hızla artan",
+        "de": "exponentiell",
+        "fr": "exponentiel",
+        "it": "esponenziale",
+        "es": "exponencial"
+      },
+      "sentences": [
+        {
+          "en": "The app saw [exponential] growth in its first year.",
+          "tr": "Uygulama ilk yılında katlanarak büyüdü.",
+          "de": "Die App wuchs im ersten Jahr exponentiell.",
+          "fr": "L'application a connu une croissance exponentielle la première année.",
+          "it": "L'app ha avuto una crescita esponenziale nel primo anno.",
+          "es": "La aplicación tuvo un crecimiento exponencial en su primer año."
+        },
+        {
+          "en": "In maths class we drew an [exponential] curve.",
+          "tr": "Matematik dersinde üstel bir eğri çizdik.",
+          "de": "Im Matheunterricht haben wir eine Exponentialkurve gezeichnet.",
+          "fr": "En cours de maths, nous avons tracé une courbe exponentielle.",
+          "it": "In matematica abbiamo disegnato una curva esponenziale.",
+          "es": "En clase de matemáticas dibujamos una curva exponencial."
+        }
+      ]
+    },
+    {
       "id": "impose",
       "pos": "verb",
       "parent": null,
@@ -657,6 +838,42 @@
       ]
     },
     {
+      "id": "proposition",
+      "pos": "noun",
+      "parent": "propose",
+      "parts": [
+        "pro-",
+        "posit",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "an offer or idea to think about; a statement that can be true or false",
+        "tr": "öneri, teklif; önerme",
+        "de": "das Angebot, der Vorschlag; die Aussage",
+        "fr": "la proposition",
+        "it": "la proposta; la proposizione",
+        "es": "la propuesta; la proposición"
+      },
+      "sentences": [
+        {
+          "en": "Moving to a smaller flat is an attractive [proposition].",
+          "tr": "Daha küçük bir daireye taşınmak cazip bir öneri.",
+          "de": "In eine kleinere Wohnung zu ziehen ist ein verlockendes Angebot.",
+          "fr": "Déménager dans un plus petit appartement est une proposition séduisante.",
+          "it": "Trasferirsi in un appartamento più piccolo è una proposta allettante.",
+          "es": "Mudarse a un piso más pequeño es una propuesta atractiva."
+        },
+        {
+          "en": "In logic, every [proposition] is either true or false.",
+          "tr": "Mantıkta her önerme ya doğrudur ya yanlış.",
+          "de": "In der Logik ist jede Aussage entweder wahr oder falsch.",
+          "fr": "En logique, toute proposition est vraie ou fausse.",
+          "it": "In logica ogni proposizione è vera o falsa.",
+          "es": "En lógica, toda proposición es verdadera o falsa."
+        }
+      ]
+    },
+    {
       "id": "purpose",
       "pos": "noun",
       "parent": null,
@@ -692,6 +909,42 @@
       ]
     },
     {
+      "id": "purposely",
+      "pos": "adverb",
+      "parent": "purpose",
+      "parts": [
+        "pur-",
+        "pose",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "on purpose, not by accident",
+        "tr": "bilerek, kasten",
+        "de": "absichtlich",
+        "fr": "exprès, délibérément",
+        "it": "apposta, di proposito",
+        "es": "a propósito, adrede"
+      },
+      "sentences": [
+        {
+          "en": "He [purposely] left the door open for the cat.",
+          "tr": "Kedi için kapıyı bilerek açık bıraktı.",
+          "de": "Er ließ die Tür absichtlich für die Katze offen.",
+          "fr": "Il a laissé la porte ouverte exprès pour le chat.",
+          "it": "Ha lasciato apposta la porta aperta per il gatto.",
+          "es": "Dejó la puerta abierta a propósito para el gato."
+        },
+        {
+          "en": "The test was [purposely] made very difficult.",
+          "tr": "Sınav kasten çok zor hazırlanmıştı.",
+          "de": "Der Test wurde absichtlich sehr schwer gemacht.",
+          "fr": "Le test a été rendu délibérément très difficile.",
+          "it": "Il test è stato reso molto difficile di proposito.",
+          "es": "El examen se hizo muy difícil a propósito."
+        }
+      ]
+    },
+    {
       "id": "suppose",
       "pos": "verb",
       "parent": null,
@@ -723,6 +976,43 @@
           "fr": "Tu es censé porter un casque ici.",
           "it": "Qui dovresti indossare il casco.",
           "es": "Aquí se supone que tienes que llevar casco."
+        }
+      ]
+    },
+    {
+      "id": "supposedly",
+      "pos": "adverb",
+      "parent": "suppose",
+      "parts": [
+        "sup-",
+        "pos",
+        "-ed",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "according to what people say or believe, though it may not be true",
+        "tr": "güya, sözde, söylendiğine göre",
+        "de": "angeblich",
+        "fr": "soi-disant, paraît-il",
+        "it": "presumibilmente, a quanto pare",
+        "es": "supuestamente"
+      },
+      "sentences": [
+        {
+          "en": "This castle is [supposedly] full of ghosts.",
+          "tr": "Bu şatonun güya hayaletlerle dolu olduğu söyleniyor.",
+          "de": "Dieses Schloss ist angeblich voller Geister.",
+          "fr": "Ce château est soi-disant plein de fantômes.",
+          "it": "Questo castello è a quanto pare pieno di fantasmi.",
+          "es": "Este castillo está supuestamente lleno de fantasmas."
+        },
+        {
+          "en": "The bus was [supposedly] coming at ten.",
+          "tr": "Otobüs sözde saat onda gelecekti.",
+          "de": "Der Bus sollte angeblich um zehn kommen.",
+          "fr": "Le bus était censé arriver à dix heures.",
+          "it": "L'autobus doveva arrivare, presumibilmente, alle dieci.",
+          "es": "Supuestamente el autobús llegaba a las diez."
         }
       ]
     },
@@ -798,6 +1088,42 @@
       ]
     },
     {
+      "id": "disposal",
+      "pos": "noun",
+      "parent": "dispose",
+      "parts": [
+        "dis-",
+        "pos",
+        "-al"
+      ],
+      "gloss": {
+        "en": "getting rid of something; (at your disposal) available for you to use",
+        "tr": "atma, imha; emre amade",
+        "de": "die Entsorgung; zur Verfügung",
+        "fr": "l'élimination ; à votre disposition",
+        "it": "lo smaltimento; a disposizione",
+        "es": "la eliminación; a su disposición"
+      },
+      "sentences": [
+        {
+          "en": "The safe [disposal] of batteries is important.",
+          "tr": "Pillerin güvenli şekilde atılması önemlidir.",
+          "de": "Die sichere Entsorgung von Batterien ist wichtig.",
+          "fr": "L'élimination sûre des piles est importante.",
+          "it": "Lo smaltimento sicuro delle batterie è importante.",
+          "es": "La eliminación segura de las pilas es importante."
+        },
+        {
+          "en": "A car is at your [disposal] during your stay.",
+          "tr": "Kaldığınız süre boyunca bir araba emrinize amade.",
+          "de": "Während Ihres Aufenthalts steht Ihnen ein Auto zur Verfügung.",
+          "fr": "Une voiture est à votre disposition pendant votre séjour.",
+          "it": "Durante il soggiorno avete un'auto a disposizione.",
+          "es": "Tiene un coche a su disposición durante su estancia."
+        }
+      ]
+    },
+    {
       "id": "postpone",
       "pos": "verb",
       "parent": null,
@@ -829,6 +1155,114 @@
           "fr": "Pouvons-nous reporter la réunion à lundi ?",
           "it": "Possiamo rimandare la riunione a lunedì?",
           "es": "¿Podemos aplazar la reunión hasta el lunes?"
+        }
+      ]
+    },
+    {
+      "id": "postponement",
+      "pos": "noun",
+      "parent": "postpone",
+      "parts": [
+        "post-",
+        "pone",
+        "-ment"
+      ],
+      "gloss": {
+        "en": "moving an event to a later time",
+        "tr": "erteleme",
+        "de": "die Verschiebung",
+        "fr": "le report",
+        "it": "il rinvio",
+        "es": "el aplazamiento"
+      },
+      "sentences": [
+        {
+          "en": "Heavy snow caused the [postponement] of the match.",
+          "tr": "Yoğun kar maçın ertelenmesine neden oldu.",
+          "de": "Starker Schnee führte zur Verschiebung des Spiels.",
+          "fr": "De fortes chutes de neige ont entraîné le report du match.",
+          "it": "La neve abbondante ha causato il rinvio della partita.",
+          "es": "La fuerte nevada provocó el aplazamiento del partido."
+        },
+        {
+          "en": "We apologise for the [postponement] of the concert.",
+          "tr": "Konserin ertelenmesinden dolayı özür dileriz.",
+          "de": "Wir entschuldigen uns für die Verschiebung des Konzerts.",
+          "fr": "Nous nous excusons pour le report du concert.",
+          "it": "Ci scusiamo per il rinvio del concerto.",
+          "es": "Pedimos disculpas por el aplazamiento del concierto."
+        }
+      ]
+    },
+    {
+      "id": "proponent",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "pro-",
+        "pon",
+        "-ent"
+      ],
+      "gloss": {
+        "en": "a person who supports an idea or plan (literally: one who puts forward)",
+        "tr": "savunucu, destekçi",
+        "de": "der Befürworter",
+        "fr": "le partisan, le défenseur",
+        "it": "il sostenitore, il fautore",
+        "es": "el defensor, el partidario"
+      },
+      "sentences": [
+        {
+          "en": "He is a strong [proponent] of free public transport.",
+          "tr": "Ücretsiz toplu taşımanın güçlü bir savunucusu.",
+          "de": "Er ist ein starker Befürworter von kostenlosem Nahverkehr.",
+          "fr": "C'est un fervent défenseur des transports publics gratuits.",
+          "it": "È un convinto sostenitore dei trasporti pubblici gratuiti.",
+          "es": "Es un firme defensor del transporte público gratuito."
+        },
+        {
+          "en": "[Proponents] of the plan say it will create jobs.",
+          "tr": "Planın destekçileri iş yaratacağını söylüyor.",
+          "de": "Befürworter des Plans sagen, er schaffe Arbeitsplätze.",
+          "fr": "Les partisans du projet disent qu'il créera des emplois.",
+          "it": "I sostenitori del piano dicono che creerà posti di lavoro.",
+          "es": "Los partidarios del plan dicen que creará empleo."
+        }
+      ]
+    },
+    {
+      "id": "preposition",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "pre-",
+        "posit",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "(grammar) a word such as 'in', 'on' or 'under' that comes before a noun (literally: something placed before)",
+        "tr": "edat, ilgeç",
+        "de": "die Präposition, das Verhältniswort",
+        "fr": "la préposition",
+        "it": "la preposizione",
+        "es": "la preposición"
+      },
+      "sentences": [
+        {
+          "en": "In 'on the table', 'on' is a [preposition].",
+          "tr": "'On the table' ifadesinde 'on' bir edattır.",
+          "de": "In „on the table“ ist „on“ eine Präposition.",
+          "fr": "Dans « on the table », « on » est une préposition.",
+          "it": "In «on the table», «on» è una preposizione.",
+          "es": "En «on the table», «on» es una preposición."
+        },
+        {
+          "en": "Learners often mix up English [prepositions].",
+          "tr": "Öğrenciler İngilizce edatları sık sık karıştırır.",
+          "de": "Lernende verwechseln oft englische Präpositionen.",
+          "fr": "Les apprenants confondent souvent les prépositions anglaises.",
+          "it": "Chi impara spesso confonde le preposizioni inglesi.",
+          "es": "Los estudiantes suelen confundir las preposiciones inglesas."
         }
       ]
     }

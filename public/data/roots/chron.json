@@ -300,6 +300,42 @@
       ]
     },
     {
+      "id": "synchronization",
+      "pos": "noun",
+      "parent": "synchronize",
+      "parts": [
+        "syn-",
+        "chron",
+        "-ization"
+      ],
+      "gloss": {
+        "en": "making things happen at the same time; making data the same on several devices",
+        "tr": "eşzamanlama, senkronizasyon",
+        "de": "die Synchronisierung, der Abgleich",
+        "fr": "la synchronisation",
+        "it": "la sincronizzazione",
+        "es": "la sincronización"
+      },
+      "sentences": [
+        {
+          "en": "The [synchronization] of sound and picture was perfect.",
+          "tr": "Ses ve görüntünün eşzamanlanması kusursuzdu.",
+          "de": "Die Synchronisierung von Ton und Bild war perfekt.",
+          "fr": "La synchronisation du son et de l'image était parfaite.",
+          "it": "La sincronizzazione di audio e immagine era perfetta.",
+          "es": "La sincronización de sonido e imagen era perfecta."
+        },
+        {
+          "en": "Turn on [synchronization] to see your notes on every device.",
+          "tr": "Notlarını her cihazda görmek için eşzamanlamayı aç.",
+          "de": "Schalte die Synchronisierung ein, um deine Notizen auf jedem Gerät zu sehen.",
+          "fr": "Active la synchronisation pour voir tes notes sur tous tes appareils.",
+          "it": "Attiva la sincronizzazione per vedere le note su ogni dispositivo.",
+          "es": "Activa la sincronización para ver tus notas en todos los dispositivos."
+        }
+      ]
+    },
+    {
       "id": "asynchronous",
       "pos": "adjective",
       "parent": null,
@@ -369,6 +405,42 @@
           "fr": "Certains voient la vieille loi comme un anachronisme.",
           "it": "Alcuni considerano la vecchia legge un anacronismo.",
           "es": "Algunos ven la vieja ley como un anacronismo."
+        }
+      ]
+    },
+    {
+      "id": "anachronistic",
+      "pos": "adjective",
+      "parent": "anachronism",
+      "parts": [
+        "ana-",
+        "chron",
+        "-istic"
+      ],
+      "gloss": {
+        "en": "belonging to another time; old-fashioned",
+        "tr": "çağdışı, zamanına uymayan",
+        "de": "anachronistisch, unzeitgemäß",
+        "fr": "anachronique",
+        "it": "anacronistico",
+        "es": "anacrónico"
+      },
+      "sentences": [
+        {
+          "en": "Sending letters by fax seems [anachronistic] today.",
+          "tr": "Faksla mektup göndermek bugün çağdışı görünüyor.",
+          "de": "Briefe per Fax zu schicken wirkt heute unzeitgemäß.",
+          "fr": "Envoyer des lettres par fax semble anachronique aujourd'hui.",
+          "it": "Mandare lettere via fax oggi sembra anacronistico.",
+          "es": "Enviar cartas por fax parece hoy anacrónico."
+        },
+        {
+          "en": "The film has an [anachronistic] wristwatch in a Roman scene.",
+          "tr": "Filmde bir Roma sahnesinde zamanına uymayan bir kol saati var.",
+          "de": "Der Film zeigt in einer Römerszene eine anachronistische Armbanduhr.",
+          "fr": "Le film montre une montre anachronique dans une scène romaine.",
+          "it": "Il film ha un orologio da polso anacronistico in una scena romana.",
+          "es": "La película tiene un reloj de pulsera anacrónico en una escena romana."
         }
       ]
     },

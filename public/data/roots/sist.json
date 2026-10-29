@@ -233,6 +233,42 @@
       ]
     },
     {
+      "id": "persistence",
+      "pos": "noun",
+      "parent": "persist",
+      "parts": [
+        "per-",
+        "sist",
+        "-ence"
+      ],
+      "gloss": {
+        "en": "continuing to try even when something is difficult",
+        "tr": "azim, sebat; süreklilik",
+        "de": "die Beharrlichkeit, die Ausdauer",
+        "fr": "la persévérance, la ténacité",
+        "it": "la perseveranza, la tenacia",
+        "es": "la perseverancia, la tenacidad"
+      },
+      "sentences": [
+        {
+          "en": "Her [persistence] finally got her the job.",
+          "tr": "Azmi sonunda ona işi kazandırdı.",
+          "de": "Ihre Beharrlichkeit brachte ihr schließlich die Stelle.",
+          "fr": "Sa persévérance lui a enfin valu le poste.",
+          "it": "La sua perseveranza le ha finalmente fatto ottenere il lavoro.",
+          "es": "Su perseverancia le consiguió por fin el trabajo."
+        },
+        {
+          "en": "Learning a language needs patience and [persistence].",
+          "tr": "Bir dil öğrenmek sabır ve azim ister.",
+          "de": "Eine Sprache zu lernen braucht Geduld und Ausdauer.",
+          "fr": "Apprendre une langue demande de la patience et de la persévérance.",
+          "it": "Imparare una lingua richiede pazienza e perseveranza.",
+          "es": "Aprender un idioma requiere paciencia y perseverancia."
+        }
+      ]
+    },
+    {
       "id": "resist",
       "pos": "verb",
       "parent": null,
@@ -300,6 +336,79 @@
           "fr": "Le cuivre a une faible résistance électrique.",
           "it": "Il rame ha una bassa resistenza elettrica.",
           "es": "El cobre tiene una baja resistencia eléctrica."
+        }
+      ]
+    },
+    {
+      "id": "resistant",
+      "pos": "adjective",
+      "parent": "resist",
+      "parts": [
+        "re-",
+        "sist",
+        "-ant"
+      ],
+      "gloss": {
+        "en": "not harmed or changed by something; not willing to accept something",
+        "tr": "dayanıklı, -e karşı dirençli; karşı çıkan",
+        "de": "beständig, -fest; ablehnend",
+        "fr": "résistant ; réticent",
+        "it": "resistente; restio",
+        "es": "resistente; reacio"
+      },
+      "sentences": [
+        {
+          "en": "This watch is [resistant] to water.",
+          "tr": "Bu saat suya dayanıklı.",
+          "de": "Diese Uhr ist wasserfest.",
+          "fr": "Cette montre résiste à l'eau.",
+          "it": "Questo orologio è resistente all'acqua.",
+          "es": "Este reloj es resistente al agua."
+        },
+        {
+          "en": "Some workers are [resistant] to the new system.",
+          "tr": "Bazı çalışanlar yeni sisteme karşı direniyor.",
+          "de": "Manche Mitarbeiter lehnen das neue System ab.",
+          "fr": "Certains employés sont réticents au nouveau système.",
+          "it": "Alcuni lavoratori sono restii al nuovo sistema.",
+          "es": "Algunos trabajadores se muestran reacios al nuevo sistema."
+        }
+      ]
+    },
+    {
+      "id": "irresistible",
+      "pos": "adjective",
+      "parent": "resist",
+      "parts": [
+        "ir-not-",
+        "re-",
+        "sist",
+        "-ible"
+      ],
+      "gloss": {
+        "en": "so attractive or strong that you cannot refuse it",
+        "tr": "karşı konulmaz",
+        "de": "unwiderstehlich",
+        "fr": "irrésistible",
+        "it": "irresistibile",
+        "es": "irresistible"
+      },
+      "sentences": [
+        {
+          "en": "The smell of fresh coffee was [irresistible].",
+          "tr": "Taze kahvenin kokusu karşı konulmazdı.",
+          "de": "Der Duft von frischem Kaffee war unwiderstehlich.",
+          "fr": "L'odeur du café frais était irrésistible.",
+          "it": "Il profumo del caffè appena fatto era irresistibile.",
+          "es": "El olor a café recién hecho era irresistible."
+        },
+        {
+          "en": "She felt an [irresistible] urge to laugh.",
+          "tr": "Karşı konulmaz bir gülme isteği duydu.",
+          "de": "Sie verspürte einen unwiderstehlichen Drang zu lachen.",
+          "fr": "Elle a ressenti une envie irrésistible de rire.",
+          "it": "Ha sentito un impulso irresistibile di ridere.",
+          "es": "Sintió unas ganas irresistibles de reír."
         }
       ]
     },
@@ -412,6 +521,42 @@
       ]
     },
     {
+      "id": "consistency",
+      "pos": "noun",
+      "parent": "consistent",
+      "parts": [
+        "con-",
+        "sist",
+        "-ency"
+      ],
+      "gloss": {
+        "en": "always doing or being the same; how thick or smooth a liquid is",
+        "tr": "tutarlılık; kıvam",
+        "de": "die Beständigkeit, die Einheitlichkeit; die Konsistenz",
+        "fr": "la constance, la cohérence ; la consistance",
+        "it": "la costanza, la coerenza; la consistenza",
+        "es": "la constancia, la coherencia; la consistencia"
+      },
+      "sentences": [
+        {
+          "en": "Good teams win through [consistency], not luck.",
+          "tr": "İyi takımlar şansla değil, tutarlılıkla kazanır.",
+          "de": "Gute Teams gewinnen durch Beständigkeit, nicht durch Glück.",
+          "fr": "Les bonnes équipes gagnent par la constance, pas par la chance.",
+          "it": "Le buone squadre vincono con la costanza, non con la fortuna.",
+          "es": "Los buenos equipos ganan con constancia, no con suerte."
+        },
+        {
+          "en": "Stir the sauce until it has a smooth [consistency].",
+          "tr": "Sosu pürüzsüz bir kıvama gelene kadar karıştır.",
+          "de": "Rühre die Soße, bis sie eine glatte Konsistenz hat.",
+          "fr": "Remue la sauce jusqu'à obtenir une consistance lisse.",
+          "it": "Mescola la salsa finché ha una consistenza liscia.",
+          "es": "Remueve la salsa hasta que tenga una consistencia suave."
+        }
+      ]
+    },
+    {
       "id": "exist",
       "pos": "verb",
       "parent": null,
@@ -479,6 +624,80 @@
           "fr": "Le club existe depuis 1920.",
           "it": "Il club esiste dal 1920.",
           "es": "El club existe desde 1920."
+        }
+      ]
+    },
+    {
+      "id": "existential",
+      "pos": "adjective",
+      "parent": "existence",
+      "parts": [
+        "ex-",
+        "ist",
+        "-ent",
+        "-ial"
+      ],
+      "gloss": {
+        "en": "related to existence and the meaning of life; threatening whether something can exist at all",
+        "tr": "varoluşsal",
+        "de": "existenziell",
+        "fr": "existentiel",
+        "it": "esistenziale",
+        "es": "existencial"
+      },
+      "sentences": [
+        {
+          "en": "At forty, he had a sort of [existential] crisis.",
+          "tr": "Kırk yaşında bir tür varoluşsal kriz geçirdi.",
+          "de": "Mit vierzig hatte er eine Art existenzielle Krise.",
+          "fr": "À quarante ans, il a traversé une sorte de crise existentielle.",
+          "it": "A quarant'anni ha avuto una specie di crisi esistenziale.",
+          "es": "A los cuarenta tuvo una especie de crisis existencial."
+        },
+        {
+          "en": "Climate change is an [existential] threat to some islands.",
+          "tr": "İklim değişikliği bazı adaların varlığını tehdit ediyor.",
+          "de": "Der Klimawandel ist für manche Inseln eine existenzielle Bedrohung.",
+          "fr": "Le changement climatique est une menace existentielle pour certaines îles.",
+          "it": "Il cambiamento climatico è una minaccia esistenziale per alcune isole.",
+          "es": "El cambio climático es una amenaza existencial para algunas islas."
+        }
+      ]
+    },
+    {
+      "id": "nonexistent",
+      "pos": "adjective",
+      "parent": "exist",
+      "parts": [
+        "non-",
+        "ex-",
+        "ist",
+        "-ent"
+      ],
+      "gloss": {
+        "en": "not existing or not real at all",
+        "tr": "var olmayan, hiç olmayan",
+        "de": "nicht vorhanden",
+        "fr": "inexistant",
+        "it": "inesistente",
+        "es": "inexistente"
+      },
+      "sentences": [
+        {
+          "en": "Public transport in the village is almost [nonexistent].",
+          "tr": "Köyde toplu taşıma neredeyse hiç yok.",
+          "de": "Öffentliche Verkehrsmittel gibt es im Dorf fast gar nicht.",
+          "fr": "Les transports en commun sont presque inexistants au village.",
+          "it": "Nel paese i trasporti pubblici sono quasi inesistenti.",
+          "es": "El transporte público en el pueblo es casi inexistente."
+        },
+        {
+          "en": "He was afraid of [nonexistent] monsters under his bed.",
+          "tr": "Yatağının altındaki var olmayan canavarlardan korkuyordu.",
+          "de": "Er hatte Angst vor Monstern unter dem Bett, die es nicht gab.",
+          "fr": "Il avait peur de monstres inexistants sous son lit.",
+          "it": "Aveva paura di mostri inesistenti sotto il letto.",
+          "es": "Tenía miedo de monstruos inexistentes debajo de la cama."
         }
       ]
     },
@@ -765,6 +984,42 @@
       ]
     },
     {
+      "id": "instantly",
+      "pos": "adverb",
+      "parent": "instant",
+      "parts": [
+        "in-",
+        "stant",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "immediately, at once",
+        "tr": "anında, hemen",
+        "de": "sofort, augenblicklich",
+        "fr": "instantanément, aussitôt",
+        "it": "immediatamente, all'istante",
+        "es": "al instante, inmediatamente"
+      },
+      "sentences": [
+        {
+          "en": "I recognised her voice [instantly].",
+          "tr": "Sesini hemen tanıdım.",
+          "de": "Ich habe ihre Stimme sofort erkannt.",
+          "fr": "J'ai reconnu sa voix instantanément.",
+          "it": "Ho riconosciuto subito la sua voce.",
+          "es": "Reconocí su voz al instante."
+        },
+        {
+          "en": "The pain stopped almost [instantly].",
+          "tr": "Ağrı neredeyse anında geçti.",
+          "de": "Der Schmerz hörte fast augenblicklich auf.",
+          "fr": "La douleur s'est arrêtée presque aussitôt.",
+          "it": "Il dolore è passato quasi all'istante.",
+          "es": "El dolor paró casi inmediatamente."
+        }
+      ]
+    },
+    {
       "id": "constant",
       "pos": "adjective",
       "parent": null,
@@ -796,6 +1051,42 @@
           "fr": "Roule à vitesse constante.",
           "it": "Guida a velocità costante.",
           "es": "Conduce a una velocidad constante."
+        }
+      ]
+    },
+    {
+      "id": "constantly",
+      "pos": "adverb",
+      "parent": "constant",
+      "parts": [
+        "con-",
+        "stant",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "all the time; again and again",
+        "tr": "sürekli, durmadan",
+        "de": "ständig, dauernd",
+        "fr": "constamment, sans cesse",
+        "it": "costantemente, continuamente",
+        "es": "constantemente, sin parar"
+      },
+      "sentences": [
+        {
+          "en": "My little sister [constantly] asks questions.",
+          "tr": "Küçük kız kardeşim durmadan soru soruyor.",
+          "de": "Meine kleine Schwester stellt ständig Fragen.",
+          "fr": "Ma petite sœur pose sans cesse des questions.",
+          "it": "Mia sorella piccola fa continuamente domande.",
+          "es": "Mi hermana pequeña hace preguntas constantemente."
+        },
+        {
+          "en": "Prices are [constantly] going up.",
+          "tr": "Fiyatlar sürekli artıyor.",
+          "de": "Die Preise steigen ständig.",
+          "fr": "Les prix augmentent constamment.",
+          "it": "I prezzi salgono continuamente.",
+          "es": "Los precios suben constantemente."
         }
       ]
     },
@@ -872,6 +1163,42 @@
       ]
     },
     {
+      "id": "circumstantial",
+      "pos": "adjective",
+      "parent": "circumstance",
+      "parts": [
+        "circum-",
+        "stant",
+        "-ial"
+      ],
+      "gloss": {
+        "en": "(evidence) suggesting something is true but not proving it directly",
+        "tr": "dolaylı, ikinci derecede (delil)",
+        "de": "Indizien-",
+        "fr": "indirect, circonstanciel (preuve)",
+        "it": "indiziario, circostanziale",
+        "es": "circunstancial, indiciario"
+      },
+      "sentences": [
+        {
+          "en": "The police only had [circumstantial] evidence against him.",
+          "tr": "Polisin elinde ona karşı yalnızca dolaylı deliller vardı.",
+          "de": "Die Polizei hatte nur Indizien gegen ihn.",
+          "fr": "La police n'avait que des preuves indirectes contre lui.",
+          "it": "La polizia aveva solo prove indiziarie contro di lui.",
+          "es": "La policía solo tenía pruebas circunstanciales contra él."
+        },
+        {
+          "en": "The case was based on [circumstantial] details.",
+          "tr": "Dava dolaylı ayrıntılara dayanıyordu.",
+          "de": "Der Fall beruhte auf Indizien.",
+          "fr": "L'affaire reposait sur des éléments circonstanciels.",
+          "it": "Il caso si basava su dettagli circostanziali.",
+          "es": "El caso se basaba en detalles circunstanciales."
+        }
+      ]
+    },
+    {
       "id": "substance",
       "pos": "noun",
       "parent": null,
@@ -904,6 +1231,42 @@
           "fr": "Le discours était long mais manquait de fond.",
           "it": "Il discorso era lungo ma con poca sostanza.",
           "es": "El discurso fue largo pero con poca sustancia."
+        }
+      ]
+    },
+    {
+      "id": "substantial",
+      "pos": "adjective",
+      "parent": "substance",
+      "parts": [
+        "sub-",
+        "stant",
+        "-ial"
+      ],
+      "gloss": {
+        "en": "large in size, amount or importance",
+        "tr": "önemli, büyük, hatırı sayılır",
+        "de": "beträchtlich, erheblich",
+        "fr": "substantiel, considérable",
+        "it": "sostanziale, considerevole",
+        "es": "sustancial, considerable"
+      },
+      "sentences": [
+        {
+          "en": "She earns a [substantial] salary.",
+          "tr": "Hatırı sayılır bir maaş alıyor.",
+          "de": "Sie verdient ein beträchtliches Gehalt.",
+          "fr": "Elle gagne un salaire considérable.",
+          "it": "Guadagna uno stipendio considerevole.",
+          "es": "Gana un sueldo considerable."
+        },
+        {
+          "en": "There has been a [substantial] rise in crime.",
+          "tr": "Suçlarda büyük bir artış oldu.",
+          "de": "Die Kriminalität ist erheblich gestiegen.",
+          "fr": "La criminalité a connu une hausse substantielle.",
+          "it": "C'è stato un aumento sostanziale della criminalità.",
+          "es": "Ha habido un aumento sustancial de la delincuencia."
         }
       ]
     }
