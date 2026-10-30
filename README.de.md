@@ -29,9 +29,9 @@ Wer eine Wurzel kennt, versteht Dutzende Wörter. *spec / spect* heißt „schau
 
 ## Bisherige Wurzeln
 
-53 Wurzeln und 1348 Wörter, jedes mit zwei Beispielsätzen.
+54 Wurzeln und 1373 Wörter, jedes mit zwei Beispielsätzen.
 
-- **Lateinisch (43):** `aud` · `cad` · `cap` · `ced` · `cid` · `clud` · `cred` · `cur` · `dict` · `duc` · `fac` · `fer` · `flect` · `form` · `grad` · `ject` · `junct` · `loc` · `mand` · `mit` · `mov` · `nunci` · `pel` · `pend` · `plic` · `pos` · `port` · `press` · `rupt` · `scrib` · `sent` · `sist` · `spec` · `spir` · `struct` · `tempt` · `ten` · `tend` · `tract` · `ven` · `vert` · `vid` · `voc`
+- **Lateinisch (44):** `act` · `aud` · `cad` · `cap` · `ced` · `cid` · `clud` · `cred` · `cur` · `dict` · `duc` · `fac` · `fer` · `flect` · `form` · `grad` · `ject` · `junct` · `loc` · `mand` · `mit` · `mov` · `nunci` · `pel` · `pend` · `plic` · `pos` · `port` · `press` · `rupt` · `scrib` · `sent` · `sist` · `spec` · `spir` · `struct` · `tempt` · `ten` · `tend` · `tract` · `ven` · `vert` · `vid` · `voc`
 - **Griechisch (10):** `bio` · `chron` · `graph` · `log` · `metr` · `morph` · `path` · `phon` · `photo` · `scop`
 
 Als Nächstes ([SPEC.md](SPEC.md), auf Türkisch): Offline-Nutzung.

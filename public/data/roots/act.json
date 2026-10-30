@@ -1,0 +1,913 @@
+{
+  "id": "act",
+  "forms": [
+    "act",
+    "ag"
+  ],
+  "origin": "la",
+  "etymon": "agere",
+  "meaning": {
+    "en": "to do, to drive, to set in motion (actus: a thing done)",
+    "tr": "yapmak, yürütmek, harekete geçirmek (actus: yapılan şey)",
+    "de": "tun, treiben, in Bewegung setzen (actus: das Getane)",
+    "fr": "faire, mener, mettre en mouvement (actus : ce qui est fait)",
+    "it": "fare, condurre, mettere in moto (actus: ciò che è fatto)",
+    "es": "hacer, conducir, poner en marcha (actus: lo hecho)"
+  },
+  "words": [
+    {
+      "id": "act",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "act"
+      ],
+      "gloss": {
+        "en": "to do something, to behave; to play a part in a film or play; also a noun: a thing done",
+        "tr": "davranmak, harekete geçmek; rol yapmak; (isim) eylem, davranış",
+        "de": "handeln, sich verhalten; schauspielern; (Nomen) die Tat, der Akt",
+        "fr": "agir, se comporter ; jouer (un rôle) ; (nom) l'acte",
+        "it": "agire, comportarsi; recitare; (nome) l'atto, il gesto",
+        "es": "actuar, comportarse; (sustantivo) el acto"
+      },
+      "sentences": [
+        {
+          "en": "We must [act] quickly to save the forest.",
+          "tr": "Ormanı kurtarmak için hızlı davranmalıyız.",
+          "de": "Wir müssen schnell handeln, um den Wald zu retten.",
+          "fr": "Nous devons agir vite pour sauver la forêt.",
+          "it": "Dobbiamo agire in fretta per salvare la foresta.",
+          "es": "Debemos actuar rápido para salvar el bosque."
+        },
+        {
+          "en": "She has [acted] in three films.",
+          "tr": "Üç filmde oynadı.",
+          "de": "Sie hat in drei Filmen gespielt.",
+          "fr": "Elle a joué dans trois films.",
+          "it": "Ha recitato in tre film.",
+          "es": "Ha actuado en tres películas."
+        },
+        {
+          "en": "Helping him was an [act] of kindness.",
+          "tr": "Ona yardım etmek bir iyilik örneğiydi.",
+          "de": "Ihm zu helfen war ein Akt der Freundlichkeit.",
+          "fr": "L'aider était un acte de gentillesse.",
+          "it": "Aiutarlo è stato un gesto di gentilezza.",
+          "es": "Ayudarlo fue un acto de bondad."
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "pos": "noun",
+      "parent": "act",
+      "parts": [
+        "act",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "something done; the process of doing something",
+        "tr": "eylem, hareket, harekete geçme",
+        "de": "die Handlung, die Tat, das Handeln",
+        "fr": "l'action",
+        "it": "l'azione",
+        "es": "la acción"
+      },
+      "sentences": [
+        {
+          "en": "It's time to take [action] on climate change.",
+          "tr": "İklim değişikliğine karşı harekete geçme zamanı.",
+          "de": "Es ist Zeit, gegen den Klimawandel zu handeln.",
+          "fr": "Il est temps d'agir contre le changement climatique.",
+          "it": "È ora di agire contro il cambiamento climatico.",
+          "es": "Es hora de actuar contra el cambio climático."
+        },
+        {
+          "en": "My brother loves [action] films with car chases.",
+          "tr": "Kardeşim araba kovalamacalı aksiyon filmlerine bayılır.",
+          "de": "Mein Bruder liebt Actionfilme mit Verfolgungsjagden.",
+          "fr": "Mon frère adore les films d'action avec des courses-poursuites.",
+          "it": "Mio fratello adora i film d'azione con gli inseguimenti in auto.",
+          "es": "A mi hermano le encantan las películas de acción con persecuciones."
+        }
+      ]
+    },
+    {
+      "id": "actor",
+      "pos": "noun",
+      "parent": "act",
+      "parts": [
+        "act",
+        "-or"
+      ],
+      "gloss": {
+        "en": "a person who plays a part in films, plays or TV",
+        "tr": "oyuncu, aktör",
+        "de": "der Schauspieler",
+        "fr": "l'acteur",
+        "it": "l'attore",
+        "es": "el actor"
+      },
+      "sentences": [
+        {
+          "en": "My favourite [actor] won an award last night.",
+          "tr": "En sevdiğim oyuncu dün gece bir ödül kazandı.",
+          "de": "Mein Lieblingsschauspieler hat gestern Abend einen Preis gewonnen.",
+          "fr": "Mon acteur préféré a gagné un prix hier soir.",
+          "it": "Il mio attore preferito ha vinto un premio ieri sera.",
+          "es": "Mi actor favorito ganó un premio anoche."
+        },
+        {
+          "en": "The [actors] bowed at the end of the play.",
+          "tr": "Oyuncular oyunun sonunda eğilerek selam verdi.",
+          "de": "Die Schauspieler verbeugten sich am Ende des Stücks.",
+          "fr": "Les acteurs ont salué à la fin de la pièce.",
+          "it": "Gli attori si sono inchinati alla fine dello spettacolo.",
+          "es": "Los actores saludaron al final de la obra."
+        }
+      ]
+    },
+    {
+      "id": "actual",
+      "pos": "adjective",
+      "parent": "act",
+      "parts": [
+        "act",
+        "-ual"
+      ],
+      "gloss": {
+        "en": "real, true; not imagined or estimated (careful: it does not mean 'current')",
+        "tr": "gerçek, asıl",
+        "de": "tatsächlich, eigentlich",
+        "fr": "réel, véritable",
+        "it": "reale, effettivo",
+        "es": "real, verdadero"
+      },
+      "sentences": [
+        {
+          "en": "The [actual] price was higher than we expected.",
+          "tr": "Gerçek fiyat beklediğimizden yüksekti.",
+          "de": "Der tatsächliche Preis war höher als erwartet.",
+          "fr": "Le prix réel était plus élevé que prévu.",
+          "it": "Il prezzo effettivo era più alto del previsto.",
+          "es": "El precio real era más alto de lo que esperábamos."
+        },
+        {
+          "en": "He looks older than his [actual] age.",
+          "tr": "Gerçek yaşından daha yaşlı görünüyor.",
+          "de": "Er sieht älter aus, als er tatsächlich ist.",
+          "fr": "Il fait plus vieux que son âge réel.",
+          "it": "Sembra più vecchio della sua età reale.",
+          "es": "Parece mayor de lo que es en realidad."
+        }
+      ]
+    },
+    {
+      "id": "actually",
+      "pos": "adverb",
+      "parent": "actual",
+      "parts": [
+        "act",
+        "-ual",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "in fact, really; used to correct something or add a surprise (careful: it does not mean 'currently')",
+        "tr": "aslında, gerçekte",
+        "de": "eigentlich, tatsächlich",
+        "fr": "en fait, en réalité",
+        "it": "in realtà, effettivamente",
+        "es": "en realidad"
+      },
+      "sentences": [
+        {
+          "en": "I thought he was French, but he's [actually] Belgian.",
+          "tr": "Fransız olduğunu sanıyordum ama aslında Belçikalı.",
+          "de": "Ich dachte, er sei Franzose, aber eigentlich ist er Belgier.",
+          "fr": "Je pensais qu'il était français, mais en fait il est belge.",
+          "it": "Pensavo fosse francese, ma in realtà è belga.",
+          "es": "Pensaba que era francés, pero en realidad es belga."
+        },
+        {
+          "en": "Did you [actually] read the whole book?",
+          "tr": "Kitabın tamamını gerçekten okudun mu?",
+          "de": "Hast du wirklich das ganze Buch gelesen?",
+          "fr": "Tu as vraiment lu tout le livre ?",
+          "it": "Hai davvero letto tutto il libro?",
+          "es": "¿De verdad leíste el libro entero?"
+        }
+      ]
+    },
+    {
+      "id": "active",
+      "pos": "adjective",
+      "parent": "act",
+      "parts": [
+        "act",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "busy doing things, moving a lot; working, not stopped",
+        "tr": "aktif, etkin, hareketli",
+        "de": "aktiv, tätig",
+        "fr": "actif",
+        "it": "attivo",
+        "es": "activo"
+      },
+      "sentences": [
+        {
+          "en": "My grandmother is still very [active] at 85.",
+          "tr": "Büyükannem 85 yaşında hâlâ çok hareketli.",
+          "de": "Meine Großmutter ist mit 85 noch sehr aktiv.",
+          "fr": "Ma grand-mère est encore très active à 85 ans.",
+          "it": "Mia nonna è ancora molto attiva a 85 anni.",
+          "es": "Mi abuela sigue muy activa a los 85 años."
+        },
+        {
+          "en": "This volcano is still [active].",
+          "tr": "Bu yanardağ hâlâ etkin.",
+          "de": "Dieser Vulkan ist noch aktiv.",
+          "fr": "Ce volcan est toujours actif.",
+          "it": "Questo vulcano è ancora attivo.",
+          "es": "Este volcán sigue activo."
+        }
+      ]
+    },
+    {
+      "id": "actively",
+      "pos": "adverb",
+      "parent": "active",
+      "parts": [
+        "act",
+        "-ive",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "by doing something, not just waiting or watching",
+        "tr": "aktif olarak, etkin biçimde",
+        "de": "aktiv",
+        "fr": "activement",
+        "it": "attivamente",
+        "es": "activamente"
+      },
+      "sentences": [
+        {
+          "en": "She is [actively] looking for a new job.",
+          "tr": "Aktif olarak yeni bir iş arıyor.",
+          "de": "Sie sucht aktiv nach einer neuen Stelle.",
+          "fr": "Elle cherche activement un nouvel emploi.",
+          "it": "Sta cercando attivamente un nuovo lavoro.",
+          "es": "Está buscando activamente un nuevo trabajo."
+        },
+        {
+          "en": "The students took part [actively] in the discussion.",
+          "tr": "Öğrenciler tartışmaya etkin biçimde katıldı.",
+          "de": "Die Schüler beteiligten sich aktiv an der Diskussion.",
+          "fr": "Les élèves ont participé activement à la discussion.",
+          "it": "Gli studenti hanno partecipato attivamente alla discussione.",
+          "es": "Los alumnos participaron activamente en el debate."
+        }
+      ]
+    },
+    {
+      "id": "inactive",
+      "pos": "adjective",
+      "parent": "active",
+      "parts": [
+        "in-not-",
+        "act",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "not moving or doing much; not working or in use",
+        "tr": "hareketsiz, pasif; kullanılmayan",
+        "de": "inaktiv, untätig",
+        "fr": "inactif",
+        "it": "inattivo",
+        "es": "inactivo"
+      },
+      "sentences": [
+        {
+          "en": "Many children are too [inactive] these days.",
+          "tr": "Bugünlerde pek çok çocuk fazla hareketsiz.",
+          "de": "Viele Kinder bewegen sich heutzutage zu wenig.",
+          "fr": "Beaucoup d'enfants sont trop inactifs aujourd'hui.",
+          "it": "Oggi molti bambini sono troppo sedentari.",
+          "es": "Hoy en día muchos niños son demasiado inactivos."
+        },
+        {
+          "en": "Your account was closed because it was [inactive].",
+          "tr": "Hesabınız kullanılmadığı için kapatıldı.",
+          "de": "Ihr Konto wurde geschlossen, weil es inaktiv war.",
+          "fr": "Votre compte a été fermé car il était inactif.",
+          "it": "Il suo account è stato chiuso perché era inattivo.",
+          "es": "Su cuenta se cerró porque estaba inactiva."
+        }
+      ]
+    },
+    {
+      "id": "proactive",
+      "pos": "adjective",
+      "parent": "active",
+      "parts": [
+        "pro-",
+        "act",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "acting early to stop problems, not waiting for them to happen",
+        "tr": "önceden harekete geçen, önleyici, proaktif",
+        "de": "proaktiv, vorausschauend",
+        "fr": "proactif",
+        "it": "proattivo",
+        "es": "proactivo"
+      },
+      "sentences": [
+        {
+          "en": "Be [proactive] and fix small problems early.",
+          "tr": "Önceden harekete geç ve küçük sorunları erkenden çöz.",
+          "de": "Sei vorausschauend und behebe kleine Probleme früh.",
+          "fr": "Sois proactif et règle les petits problèmes tôt.",
+          "it": "Sii proattivo e risolvi presto i piccoli problemi.",
+          "es": "Sé proactivo y resuelve pronto los pequeños problemas."
+        },
+        {
+          "en": "The school takes a [proactive] approach to bullying.",
+          "tr": "Okul zorbalığa karşı önleyici bir yaklaşım benimsiyor.",
+          "de": "Die Schule geht vorbeugend gegen Mobbing vor.",
+          "fr": "L'école adopte une approche proactive face au harcèlement.",
+          "it": "La scuola adotta un approccio proattivo contro il bullismo.",
+          "es": "La escuela adopta un enfoque proactivo contra el acoso."
+        }
+      ]
+    },
+    {
+      "id": "activity",
+      "pos": "noun",
+      "parent": "active",
+      "parts": [
+        "act",
+        "-iv",
+        "-ity"
+      ],
+      "gloss": {
+        "en": "something you do for fun or to learn; a situation where a lot is happening",
+        "tr": "etkinlik, faaliyet; hareketlilik",
+        "de": "die Aktivität, die Beschäftigung",
+        "fr": "l'activité",
+        "it": "l'attività",
+        "es": "la actividad"
+      },
+      "sentences": [
+        {
+          "en": "Swimming is my favourite summer [activity].",
+          "tr": "Yüzmek en sevdiğim yaz etkinliği.",
+          "de": "Schwimmen ist meine liebste Sommeraktivität.",
+          "fr": "La natation est mon activité d'été préférée.",
+          "it": "Il nuoto è la mia attività estiva preferita.",
+          "es": "Nadar es mi actividad de verano favorita."
+        },
+        {
+          "en": "There was a lot of [activity] at the station.",
+          "tr": "İstasyonda büyük bir hareketlilik vardı.",
+          "de": "Am Bahnhof herrschte viel Betrieb.",
+          "fr": "Il y avait beaucoup d'animation à la gare.",
+          "it": "C'era molto movimento alla stazione.",
+          "es": "Había mucho movimiento en la estación."
+        }
+      ]
+    },
+    {
+      "id": "activate",
+      "pos": "verb",
+      "parent": "active",
+      "parts": [
+        "act",
+        "-iv",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "to make something start working",
+        "tr": "etkinleştirmek, çalıştırmak",
+        "de": "aktivieren, auslösen",
+        "fr": "activer, déclencher",
+        "it": "attivare",
+        "es": "activar"
+      },
+      "sentences": [
+        {
+          "en": "You need to [activate] your new card before using it.",
+          "tr": "Yeni kartınızı kullanmadan önce etkinleştirmeniz gerekiyor.",
+          "de": "Sie müssen Ihre neue Karte vor der Nutzung aktivieren.",
+          "fr": "Vous devez activer votre nouvelle carte avant de l'utiliser.",
+          "it": "Deve attivare la nuova carta prima di usarla.",
+          "es": "Tiene que activar su nueva tarjeta antes de usarla."
+        },
+        {
+          "en": "Smoke [activated] the fire alarm.",
+          "tr": "Duman yangın alarmını çalıştırdı.",
+          "de": "Rauch löste den Feueralarm aus.",
+          "fr": "La fumée a déclenché l'alarme incendie.",
+          "it": "Il fumo ha fatto scattare l'allarme antincendio.",
+          "es": "El humo activó la alarma de incendios."
+        }
+      ]
+    },
+    {
+      "id": "activist",
+      "pos": "noun",
+      "parent": "active",
+      "parts": [
+        "act",
+        "-iv",
+        "-ist"
+      ],
+      "gloss": {
+        "en": "a person who works hard for political or social change",
+        "tr": "aktivist, eylemci",
+        "de": "der Aktivist",
+        "fr": "le militant",
+        "it": "l'attivista",
+        "es": "el activista"
+      },
+      "sentences": [
+        {
+          "en": "She became an environmental [activist] at sixteen.",
+          "tr": "On altı yaşında çevre aktivisti oldu.",
+          "de": "Mit sechzehn wurde sie Umweltaktivistin.",
+          "fr": "Elle est devenue militante écologiste à seize ans.",
+          "it": "È diventata un'attivista ambientale a sedici anni.",
+          "es": "Se hizo activista medioambiental a los dieciséis años."
+        },
+        {
+          "en": "[Activists] protested outside the factory.",
+          "tr": "Aktivistler fabrikanın önünde protesto yaptı.",
+          "de": "Aktivisten protestierten vor der Fabrik.",
+          "fr": "Des militants ont manifesté devant l'usine.",
+          "it": "Gli attivisti hanno protestato davanti alla fabbrica.",
+          "es": "Los activistas protestaron frente a la fábrica."
+        }
+      ]
+    },
+    {
+      "id": "react",
+      "pos": "verb",
+      "parent": "act",
+      "parts": [
+        "re-",
+        "act"
+      ],
+      "gloss": {
+        "en": "to do or say something because of what has happened (literally: to act back)",
+        "tr": "tepki vermek",
+        "de": "reagieren",
+        "fr": "réagir",
+        "it": "reagire",
+        "es": "reaccionar"
+      },
+      "sentences": [
+        {
+          "en": "How did your parents [react] to the news?",
+          "tr": "Ailen habere nasıl tepki verdi?",
+          "de": "Wie haben deine Eltern auf die Nachricht reagiert?",
+          "fr": "Comment tes parents ont-ils réagi à la nouvelle ?",
+          "it": "Come hanno reagito i tuoi genitori alla notizia?",
+          "es": "¿Cómo reaccionaron tus padres a la noticia?"
+        },
+        {
+          "en": "The driver [reacted] fast and stopped the car.",
+          "tr": "Sürücü hızlı tepki verdi ve arabayı durdurdu.",
+          "de": "Der Fahrer reagierte schnell und hielt das Auto an.",
+          "fr": "Le conducteur a réagi vite et a arrêté la voiture.",
+          "it": "L'autista ha reagito in fretta e ha fermato l'auto.",
+          "es": "El conductor reaccionó rápido y detuvo el coche."
+        }
+      ]
+    },
+    {
+      "id": "reaction",
+      "pos": "noun",
+      "parent": "react",
+      "parts": [
+        "re-",
+        "act",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "what you do, say or feel because of something",
+        "tr": "tepki",
+        "de": "die Reaktion",
+        "fr": "la réaction",
+        "it": "la reazione",
+        "es": "la reacción"
+      },
+      "sentences": [
+        {
+          "en": "His first [reaction] was to laugh.",
+          "tr": "İlk tepkisi gülmek oldu.",
+          "de": "Seine erste Reaktion war, zu lachen.",
+          "fr": "Sa première réaction a été de rire.",
+          "it": "La sua prima reazione è stata ridere.",
+          "es": "Su primera reacción fue reírse."
+        },
+        {
+          "en": "She had an allergic [reaction] to the nuts.",
+          "tr": "Kuruyemişe alerjik tepki verdi.",
+          "de": "Sie hatte eine allergische Reaktion auf die Nüsse.",
+          "fr": "Elle a fait une réaction allergique aux fruits à coque.",
+          "it": "Ha avuto una reazione allergica alla frutta secca.",
+          "es": "Tuvo una reacción alérgica a los frutos secos."
+        }
+      ]
+    },
+    {
+      "id": "interact",
+      "pos": "verb",
+      "parent": "act",
+      "parts": [
+        "inter-",
+        "act"
+      ],
+      "gloss": {
+        "en": "to talk or work with others; to affect each other (literally: to act between)",
+        "tr": "etkileşim kurmak, etkileşmek",
+        "de": "interagieren, miteinander umgehen",
+        "fr": "interagir",
+        "it": "interagire",
+        "es": "interactuar"
+      },
+      "sentences": [
+        {
+          "en": "Children learn by [interacting] with each other.",
+          "tr": "Çocuklar birbirleriyle etkileşim kurarak öğrenir.",
+          "de": "Kinder lernen, indem sie miteinander umgehen.",
+          "fr": "Les enfants apprennent en interagissant les uns avec les autres.",
+          "it": "I bambini imparano interagendo tra loro.",
+          "es": "Los niños aprenden interactuando entre ellos."
+        },
+        {
+          "en": "Some medicines [interact] badly with alcohol.",
+          "tr": "Bazı ilaçlar alkolle kötü etkileşime girer.",
+          "de": "Manche Medikamente vertragen sich schlecht mit Alkohol.",
+          "fr": "Certains médicaments interagissent mal avec l'alcool.",
+          "it": "Alcuni farmaci interagiscono male con l'alcol.",
+          "es": "Algunos medicamentos interactúan mal con el alcohol."
+        }
+      ]
+    },
+    {
+      "id": "interaction",
+      "pos": "noun",
+      "parent": "interact",
+      "parts": [
+        "inter-",
+        "act",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "the way people or things talk to, work with or affect each other",
+        "tr": "etkileşim",
+        "de": "die Interaktion, der Umgang",
+        "fr": "l'interaction",
+        "it": "l'interazione",
+        "es": "la interacción"
+      },
+      "sentences": [
+        {
+          "en": "The game encourages [interaction] between players.",
+          "tr": "Oyun oyuncular arasındaki etkileşimi teşvik ediyor.",
+          "de": "Das Spiel fördert die Interaktion zwischen den Spielern.",
+          "fr": "Le jeu encourage l'interaction entre les joueurs.",
+          "it": "Il gioco favorisce l'interazione tra i giocatori.",
+          "es": "El juego fomenta la interacción entre los jugadores."
+        },
+        {
+          "en": "Online lessons have less [interaction] than classroom lessons.",
+          "tr": "Çevrimiçi derslerde yüz yüze derslere göre daha az etkileşim var.",
+          "de": "Online-Unterricht bietet weniger Interaktion als Präsenzunterricht.",
+          "fr": "Les cours en ligne offrent moins d'interaction que les cours en classe.",
+          "it": "Le lezioni online hanno meno interazione di quelle in classe.",
+          "es": "Las clases en línea tienen menos interacción que las presenciales."
+        }
+      ]
+    },
+    {
+      "id": "interactive",
+      "pos": "adjective",
+      "parent": "interact",
+      "parts": [
+        "inter-",
+        "act",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "letting you take part or respond, not just watch",
+        "tr": "etkileşimli, interaktif",
+        "de": "interaktiv",
+        "fr": "interactif",
+        "it": "interattivo",
+        "es": "interactivo"
+      },
+      "sentences": [
+        {
+          "en": "The museum has an [interactive] map for kids.",
+          "tr": "Müzede çocuklar için etkileşimli bir harita var.",
+          "de": "Das Museum hat eine interaktive Karte für Kinder.",
+          "fr": "Le musée a une carte interactive pour les enfants.",
+          "it": "Il museo ha una mappa interattiva per bambini.",
+          "es": "El museo tiene un mapa interactivo para niños."
+        },
+        {
+          "en": "Our teacher makes the lessons very [interactive].",
+          "tr": "Öğretmenimiz dersleri çok etkileşimli hale getiriyor.",
+          "de": "Unsere Lehrerin gestaltet den Unterricht sehr interaktiv.",
+          "fr": "Notre professeure rend les cours très interactifs.",
+          "it": "La nostra insegnante rende le lezioni molto interattive.",
+          "es": "Nuestra profesora hace las clases muy interactivas."
+        }
+      ]
+    },
+    {
+      "id": "enact",
+      "pos": "verb",
+      "parent": "act",
+      "parts": [
+        "en-",
+        "act"
+      ],
+      "gloss": {
+        "en": "to make a plan into law; to act out a scene (literally: to put into action)",
+        "tr": "(yasa) çıkarmak, yürürlüğe koymak; canlandırmak",
+        "de": "erlassen, in Kraft setzen; darstellen",
+        "fr": "adopter, promulguer ; jouer",
+        "it": "emanare, approvare; mettere in scena",
+        "es": "promulgar, aprobar; representar"
+      },
+      "sentences": [
+        {
+          "en": "The government [enacted] a new law on plastic bags.",
+          "tr": "Hükümet plastik poşetlerle ilgili yeni bir yasa çıkardı.",
+          "de": "Die Regierung erließ ein neues Gesetz über Plastiktüten.",
+          "fr": "Le gouvernement a adopté une nouvelle loi sur les sacs plastiques.",
+          "it": "Il governo ha emanato una nuova legge sui sacchetti di plastica.",
+          "es": "El gobierno promulgó una nueva ley sobre las bolsas de plástico."
+        },
+        {
+          "en": "The students [enacted] a famous scene from history.",
+          "tr": "Öğrenciler tarihten ünlü bir sahneyi canlandırdı.",
+          "de": "Die Schüler stellten eine berühmte Szene aus der Geschichte nach.",
+          "fr": "Les élèves ont joué une scène célèbre de l'histoire.",
+          "it": "Gli studenti hanno messo in scena un famoso episodio della storia.",
+          "es": "Los alumnos representaron una escena famosa de la historia."
+        }
+      ]
+    },
+    {
+      "id": "exact",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "ex-",
+        "act"
+      ],
+      "gloss": {
+        "en": "completely correct, with nothing more or less (from Latin exactus, 'weighed out, made precise', of exigere)",
+        "tr": "tam, kesin, doğru",
+        "de": "genau, exakt",
+        "fr": "exact, précis",
+        "it": "esatto, preciso",
+        "es": "exacto"
+      },
+      "sentences": [
+        {
+          "en": "What is the [exact] time, please?",
+          "tr": "Saat tam olarak kaç, lütfen?",
+          "de": "Wie spät ist es genau, bitte?",
+          "fr": "Quelle est l'heure exacte, s'il vous plaît ?",
+          "it": "Qual è l'ora esatta, per favore?",
+          "es": "¿Qué hora es exactamente, por favor?"
+        },
+        {
+          "en": "I can't remember his [exact] words.",
+          "tr": "Onun tam olarak ne dediğini hatırlayamıyorum.",
+          "de": "Ich erinnere mich nicht an seine genauen Worte.",
+          "fr": "Je ne me souviens pas de ses mots exacts.",
+          "it": "Non ricordo le sue parole esatte.",
+          "es": "No recuerdo sus palabras exactas."
+        }
+      ]
+    },
+    {
+      "id": "exactly",
+      "pos": "adverb",
+      "parent": "exact",
+      "parts": [
+        "ex-",
+        "act",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "completely, precisely; also said to agree: 'yes, that's right'",
+        "tr": "tam olarak, kesinlikle; aynen",
+        "de": "genau",
+        "fr": "exactement",
+        "it": "esattamente",
+        "es": "exactamente"
+      },
+      "sentences": [
+        {
+          "en": "The train left at [exactly] six o'clock.",
+          "tr": "Tren saat tam altıda kalktı.",
+          "de": "Der Zug fuhr um genau sechs Uhr ab.",
+          "fr": "Le train est parti à six heures exactement.",
+          "it": "Il treno è partito esattamente alle sei.",
+          "es": "El tren salió exactamente a las seis."
+        },
+        {
+          "en": "That's [exactly] what I wanted to say.",
+          "tr": "Tam da söylemek istediğim buydu.",
+          "de": "Das ist genau das, was ich sagen wollte.",
+          "fr": "C'est exactement ce que je voulais dire.",
+          "it": "È esattamente quello che volevo dire.",
+          "es": "Eso es exactamente lo que quería decir."
+        }
+      ]
+    },
+    {
+      "id": "transaction",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "trans-",
+        "act",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "an act of buying, selling or moving money (from Latin transigere, 'to drive through, to settle')",
+        "tr": "işlem, alışveriş",
+        "de": "die Transaktion, der Geschäftsvorgang",
+        "fr": "la transaction",
+        "it": "la transazione",
+        "es": "la transacción"
+      },
+      "sentences": [
+        {
+          "en": "Every [transaction] appears on your bank statement.",
+          "tr": "Her işlem banka hesap özetinizde görünür.",
+          "de": "Jede Transaktion erscheint auf Ihrem Kontoauszug.",
+          "fr": "Chaque transaction apparaît sur votre relevé bancaire.",
+          "it": "Ogni transazione compare sul suo estratto conto.",
+          "es": "Cada transacción aparece en su extracto bancario."
+        },
+        {
+          "en": "The shop charges a small fee per [transaction].",
+          "tr": "Mağaza her işlem için küçük bir ücret alıyor.",
+          "de": "Der Laden verlangt eine kleine Gebühr pro Transaktion.",
+          "fr": "Le magasin facture de petits frais par transaction.",
+          "it": "Il negozio applica una piccola commissione per ogni transazione.",
+          "es": "La tienda cobra una pequeña comisión por transacción."
+        }
+      ]
+    },
+    {
+      "id": "agent",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "ag",
+        "-ent"
+      ],
+      "gloss": {
+        "en": "a person who acts or does business for someone else; a spy (literally: one who does)",
+        "tr": "temsilci, acente; ajan",
+        "de": "der Vertreter, der Makler; der Agent",
+        "fr": "l'agent",
+        "it": "l'agente",
+        "es": "el agente"
+      },
+      "sentences": [
+        {
+          "en": "Our travel [agent] booked the hotel for us.",
+          "tr": "Seyahat acentemiz otel rezervasyonumuzu yaptı.",
+          "de": "Unser Reisebüro hat das Hotel für uns gebucht.",
+          "fr": "Notre agent de voyages nous a réservé l'hôtel.",
+          "it": "Il nostro agente di viaggio ci ha prenotato l'albergo.",
+          "es": "Nuestro agente de viajes nos reservó el hotel."
+        },
+        {
+          "en": "The film is about a secret [agent] in Berlin.",
+          "tr": "Film Berlin'deki bir gizli ajanı anlatıyor.",
+          "de": "Der Film handelt von einem Geheimagenten in Berlin.",
+          "fr": "Le film parle d'un agent secret à Berlin.",
+          "it": "Il film parla di un agente segreto a Berlino.",
+          "es": "La película trata de un agente secreto en Berlín."
+        }
+      ]
+    },
+    {
+      "id": "agency",
+      "pos": "noun",
+      "parent": "agent",
+      "parts": [
+        "ag",
+        "-ency"
+      ],
+      "gloss": {
+        "en": "a business or organization that does work for others",
+        "tr": "ajans, büro, kurum",
+        "de": "die Agentur, die Behörde",
+        "fr": "l'agence",
+        "it": "l'agenzia",
+        "es": "la agencia"
+      },
+      "sentences": [
+        {
+          "en": "She works for an advertising [agency].",
+          "tr": "Bir reklam ajansında çalışıyor.",
+          "de": "Sie arbeitet für eine Werbeagentur.",
+          "fr": "Elle travaille pour une agence de publicité.",
+          "it": "Lavora per un'agenzia pubblicitaria.",
+          "es": "Trabaja para una agencia de publicidad."
+        },
+        {
+          "en": "We found our flat through an [agency].",
+          "tr": "Dairemizi bir emlak bürosu aracılığıyla bulduk.",
+          "de": "Wir haben unsere Wohnung über eine Agentur gefunden.",
+          "fr": "Nous avons trouvé notre appartement par une agence.",
+          "it": "Abbiamo trovato l'appartamento tramite un'agenzia.",
+          "es": "Encontramos nuestro piso a través de una agencia."
+        }
+      ]
+    },
+    {
+      "id": "agile",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "ag",
+        "-ile"
+      ],
+      "gloss": {
+        "en": "able to move quickly and easily; quick at thinking (literally: easy to set in motion)",
+        "tr": "çevik, atik",
+        "de": "beweglich, flink, wendig",
+        "fr": "agile",
+        "it": "agile",
+        "es": "ágil"
+      },
+      "sentences": [
+        {
+          "en": "Cats are very [agile] animals.",
+          "tr": "Kediler çok çevik hayvanlardır.",
+          "de": "Katzen sind sehr wendige Tiere.",
+          "fr": "Les chats sont des animaux très agiles.",
+          "it": "I gatti sono animali molto agili.",
+          "es": "Los gatos son animales muy ágiles."
+        },
+        {
+          "en": "At ninety, he still has an [agile] mind.",
+          "tr": "Doksan yaşında zihni hâlâ çok çevik.",
+          "de": "Mit neunzig ist er geistig noch sehr beweglich.",
+          "fr": "À quatre-vingt-dix ans, il a encore l'esprit vif.",
+          "it": "A novant'anni ha ancora una mente agile.",
+          "es": "A los noventa años, todavía tiene una mente ágil."
+        }
+      ]
+    },
+    {
+      "id": "agility",
+      "pos": "noun",
+      "parent": "agile",
+      "parts": [
+        "ag",
+        "-ility"
+      ],
+      "gloss": {
+        "en": "the ability to move quickly and easily",
+        "tr": "çeviklik",
+        "de": "die Beweglichkeit, die Wendigkeit",
+        "fr": "l'agilité",
+        "it": "l'agilità",
+        "es": "la agilidad"
+      },
+      "sentences": [
+        {
+          "en": "Football players need speed and [agility].",
+          "tr": "Futbolcuların hıza ve çevikliğe ihtiyacı vardır.",
+          "de": "Fußballspieler brauchen Schnelligkeit und Wendigkeit.",
+          "fr": "Les footballeurs ont besoin de vitesse et d'agilité.",
+          "it": "I calciatori hanno bisogno di velocità e agilità.",
+          "es": "Los futbolistas necesitan velocidad y agilidad."
+        },
+        {
+          "en": "The monkey climbed the tree with great [agility].",
+          "tr": "Maymun ağaca büyük bir çeviklikle tırmandı.",
+          "de": "Der Affe kletterte sehr geschickt auf den Baum.",
+          "fr": "Le singe a grimpé à l'arbre avec une grande agilité.",
+          "it": "La scimmia si è arrampicata sull'albero con grande agilità.",
+          "es": "El mono trepó al árbol con gran agilidad."
+        }
+      ]
+    }
+  ]
+}

@@ -1,5 +1,48 @@
 [
   {
+    "id": "act",
+    "forms": [
+      "act",
+      "ag"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to do, to drive, to set in motion (actus: a thing done)",
+      "tr": "yapmak, yürütmek, harekete geçirmek (actus: yapılan şey)",
+      "de": "tun, treiben, in Bewegung setzen (actus: das Getane)",
+      "fr": "faire, mener, mettre en mouvement (actus : ce qui est fait)",
+      "it": "fare, condurre, mettere in moto (actus: ciò che è fatto)",
+      "es": "hacer, conducir, poner en marcha (actus: lo hecho)"
+    },
+    "words": [
+      "act",
+      "action",
+      "actor",
+      "actual",
+      "actually",
+      "active",
+      "actively",
+      "inactive",
+      "proactive",
+      "activity",
+      "activate",
+      "activist",
+      "react",
+      "reaction",
+      "interact",
+      "interaction",
+      "interactive",
+      "enact",
+      "exact",
+      "exactly",
+      "transaction",
+      "agent",
+      "agency",
+      "agile",
+      "agility"
+    ]
+  },
+  {
     "id": "aud",
     "forms": [
       "aud"

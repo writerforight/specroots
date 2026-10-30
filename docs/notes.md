@@ -5,6 +5,22 @@ Bağlayıcı kararlar burada değil `SPEC.md`'dedir; buradaki bir not karar olun
 
 ## 2026-10-30
 
+### Yeni kök: act (kullanıcı isteği, 54. kök)
+- Latince *agere, actus* (yapmak, sürmek, yürütmek). Yazımlar `act` (act, action, actual, react, exact,
+  transaction) ve `ag` (agent, agency, agile). Yeni ek yok; *activity, activate, activist* `-iv` ile
+  (objectivity, motivate gibi).
+- 25 kelime: act, action, actor, actual, actually, active, actively, inactive, proactive, activity,
+  activate, activist, react, reaction, interact, interaction, interactive, enact, exact, exactly,
+  transaction, agent, agency, agile, agility. *act* tek kayıt (fiil); isim anlamı tanımda ve 3. cümlede.
+- *actual/actually* tanımında yalancı eş uyarısı var: tr *aktüel*, de *aktuell*, fr *actuel*, it
+  *attuale*, es *actual* "güncel" demek; İngilizcede "gerçek, aslında".
+- *exact* (exigere < ex- + agere) ve *transaction* (transigere < trans- + agere) Latincede ön ekle
+  birleşmiş; İngilizcede `act` yazımı görünür, bu yüzden parent `null`.
+- `fac` kökü (*facere*, yapmak: fact, factory) ayrı bir fiil; anlamları yakın, kök açıklamaları farklı.
+- Bilerek dışarıda bırakılanlar: *agenda* (`-enda` eki gerekir), *actress* (`-ress` eki gerekir; bkz.
+  temptress), *counteract* (`counter-` ön eki katalogda yok), *agitate* (agitare; `-itate` eki gerekir),
+  *ambiguous*, *navigate*, *cogent*, *examine* (agere'den ama yazımda kök görünmüyor).
+
 ### Yeni kök: tempt (kullanıcı isteği, 53. kök)
 - Latince *temptare* (dokunmak, yoklamak, denemek); aynı fiilin *tentare* yazımı da yaygın. Yazımlar
   `tempt` (tempt, attempt: Eski Fransızca atempter < Latince attemptare) ve `tent` (tentative: Orta Çağ
