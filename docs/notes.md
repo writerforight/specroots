@@ -5,6 +5,16 @@ Bağlayıcı kararlar burada değil `SPEC.md`'dedir; buradaki bir not karar olun
 
 ## 2026-10-30
 
+### Yeni kök: nect (kullanıcı isteği, 55. kök)
+- Latince *nectere, nexus* (bağlamak). Yazımlar `nect` (connect: Latince conectere, con- + nectere) ve
+  `nex` (annex: annectere, ad- + nectere; nexus). Yeni ek yok; `an-` (nunci'den) ve `-us` zaten vardı.
+- 13 kelime (az: 13): connect, connected, unconnected, interconnected, connection, connector,
+  connectivity, disconnect, disconnected, reconnect, annex, annexation, nexus. *connect* üç cümleli
+  (bağlamak, birleştirmek, insanlarla bağ kurmak); *annex* tek kayıt, isim anlamı (ek bina) tanımda ve 2. cümlede.
+- *interconnected* ve *unconnected* parent olarak `connected`'a bağlı (*interconnect* fiili ayrı girilmedi; az kullanılıyor).
+- Bilerek dışarıda bırakılanlar: *nectar* (Yunanca nektar, ilgisiz), *net* "ağ" (Germen), *disconnection*,
+  *connective* (dar kullanım), *well-connected* (`well-` parçası yok).
+
 ### Yeni kök: act (kullanıcı isteği, 54. kök)
 - Latince *agere, actus* (yapmak, sürmek, yürütmek). Yazımlar `act` (act, action, actual, react, exact,
   transaction) ve `ag` (agent, agency, agile). Yeni ek yok; *activity, activate, activist* `-iv` ile

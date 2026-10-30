@@ -44,7 +44,7 @@ yanına `(az: N)` yaz. Toplam hedef ≈ 1000–2000 kelime.
 - Aynı test iki turdur düzelmiyorsa ya da push reddediliyorsa döngüyü durdur ve nedenini yaz.
 
 ## Durum
-Kök: 54 · Kelime: 1378 kayıt, 1373 ayrı kelime (5 birleşik kelime iki kökte). Kuyruk bitti; D2 kapandı (2026-10-19, 949 kelime). 2026-10-22: mevcut köklere +177 kelime, 51. kök nunci (+15), 52. kök cad (+20). 2026-10-29: mevcut 37 köke +177 kelime. 2026-10-30: 53. kök tempt (+10), 54. kök act (+25).
+Kök: 55 · Kelime: 1391 kayıt, 1386 ayrı kelime (5 birleşik kelime iki kökte). Kuyruk bitti; D2 kapandı (2026-10-19, 949 kelime). 2026-10-22: mevcut köklere +177 kelime, 51. kök nunci (+15), 52. kök cad (+20). 2026-10-29: mevcut 37 köke +177 kelime. 2026-10-30: 53. kök tempt (+10), 54. kök act (+25), 55. kök nect (+13).
 
 ## Kuyruk
 
@@ -95,6 +95,7 @@ Kök: 54 · Kelime: 1378 kayıt, 1373 ayrı kelime (5 birleşik kelime iki kökt
 - [x] cad / cid / cas — düşmek — 20 (2026-10-22, kullanıcı isteğiyle 52. kök; `cid` kesmek değil)
 - [x] tempt / tent — denemek, sınamak — 10 (az: 10; 2026-10-30, kullanıcı isteğiyle 53. kök)
 - [x] act / ag — yapmak, yürütmek — 25 (2026-10-30, kullanıcı isteğiyle 54. kök; `fac` değil)
+- [x] nect / nex — bağlamak — 13 (az: 13; 2026-10-30, kullanıcı isteğiyle 55. kök)
 
 ### Yeni (Yunanca, `"origin": "gr"`)
 - [x] graph / gram — yazmak, çizmek — 20

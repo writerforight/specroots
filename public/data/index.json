@@ -1225,6 +1225,37 @@
     ]
   },
   {
+    "id": "nect",
+    "forms": [
+      "nect",
+      "nex"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to bind, to tie, to join (nexus: a tie)",
+      "tr": "bağlamak, düğümlemek (nexus: bağ)",
+      "de": "binden, knüpfen, verbinden (nexus: die Verbindung)",
+      "fr": "lier, nouer, attacher (nexus : le lien)",
+      "it": "legare, annodare, unire (nexus: il legame)",
+      "es": "atar, anudar, unir (nexus: el lazo)"
+    },
+    "words": [
+      "connect",
+      "connected",
+      "unconnected",
+      "interconnected",
+      "connection",
+      "connector",
+      "connectivity",
+      "disconnect",
+      "disconnected",
+      "reconnect",
+      "annex",
+      "annexation",
+      "nexus"
+    ]
+  },
+  {
     "id": "nunci",
     "forms": [
       "nunci",

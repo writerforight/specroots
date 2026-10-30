@@ -1,0 +1,504 @@
+{
+  "id": "nect",
+  "forms": [
+    "nect",
+    "nex"
+  ],
+  "origin": "la",
+  "etymon": "nectere",
+  "meaning": {
+    "en": "to bind, to tie, to join (nexus: a tie)",
+    "tr": "bağlamak, düğümlemek (nexus: bağ)",
+    "de": "binden, knüpfen, verbinden (nexus: die Verbindung)",
+    "fr": "lier, nouer, attacher (nexus : le lien)",
+    "it": "legare, annodare, unire (nexus: il legame)",
+    "es": "atar, anudar, unir (nexus: el lazo)"
+  },
+  "words": [
+    {
+      "id": "connect",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "con-",
+        "nect"
+      ],
+      "gloss": {
+        "en": "to join two things together; to link to a network or to another person (literally: to tie together)",
+        "tr": "bağlamak, birleştirmek; bağlanmak, bağ kurmak",
+        "de": "verbinden, anschließen",
+        "fr": "connecter, relier",
+        "it": "collegare, connettere",
+        "es": "conectar, unir"
+      },
+      "sentences": [
+        {
+          "en": "[Connect] the printer to your laptop with this cable.",
+          "tr": "Yazıcıyı bu kabloyla dizüstü bilgisayarına bağla.",
+          "de": "Schließ den Drucker mit diesem Kabel an deinen Laptop an.",
+          "fr": "Connecte l'imprimante à ton ordinateur portable avec ce câble.",
+          "it": "Collega la stampante al tuo portatile con questo cavo.",
+          "es": "Conecta la impresora a tu portátil con este cable."
+        },
+        {
+          "en": "A new bridge [connects] the two towns.",
+          "tr": "Yeni bir köprü iki kasabayı birbirine bağlıyor.",
+          "de": "Eine neue Brücke verbindet die beiden Städte.",
+          "fr": "Un nouveau pont relie les deux villes.",
+          "it": "Un nuovo ponte collega le due città.",
+          "es": "Un nuevo puente une los dos pueblos."
+        },
+        {
+          "en": "Music helps people [connect] with each other.",
+          "tr": "Müzik insanların birbiriyle bağ kurmasına yardım eder.",
+          "de": "Musik bringt Menschen einander näher.",
+          "fr": "La musique aide les gens à créer des liens.",
+          "it": "La musica aiuta le persone a entrare in sintonia.",
+          "es": "La música ayuda a las personas a conectar entre sí."
+        }
+      ]
+    },
+    {
+      "id": "connected",
+      "pos": "adjective",
+      "parent": "connect",
+      "parts": [
+        "con-",
+        "nect",
+        "-ed"
+      ],
+      "gloss": {
+        "en": "joined or linked; related to something",
+        "tr": "bağlı, bağlantılı; ilişkili",
+        "de": "verbunden; zusammenhängend",
+        "fr": "connecté, relié ; lié",
+        "it": "collegato, connesso",
+        "es": "conectado; relacionado"
+      },
+      "sentences": [
+        {
+          "en": "Is your phone [connected] to the Wi-Fi?",
+          "tr": "Telefonun Wi-Fi'ye bağlı mı?",
+          "de": "Ist dein Handy mit dem WLAN verbunden?",
+          "fr": "Ton téléphone est-il connecté au wifi ?",
+          "it": "Il tuo telefono è connesso al wi-fi?",
+          "es": "¿Tu móvil está conectado al wifi?"
+        },
+        {
+          "en": "Sleep and mood are closely [connected].",
+          "tr": "Uyku ve ruh hali yakından bağlantılıdır.",
+          "de": "Schlaf und Stimmung hängen eng zusammen.",
+          "fr": "Le sommeil et l'humeur sont étroitement liés.",
+          "it": "Il sonno e l'umore sono strettamente collegati.",
+          "es": "El sueño y el estado de ánimo están muy relacionados."
+        }
+      ]
+    },
+    {
+      "id": "unconnected",
+      "pos": "adjective",
+      "parent": "connected",
+      "parts": [
+        "un-",
+        "con-",
+        "nect",
+        "-ed"
+      ],
+      "gloss": {
+        "en": "not related to each other",
+        "tr": "bağlantısız, ilgisiz",
+        "de": "unzusammenhängend, ohne Zusammenhang",
+        "fr": "sans rapport, sans lien",
+        "it": "scollegato, non correlato",
+        "es": "sin relación, inconexo"
+      },
+      "sentences": [
+        {
+          "en": "The two crimes are probably [unconnected].",
+          "tr": "İki suç muhtemelen birbiriyle bağlantısız.",
+          "de": "Die beiden Verbrechen hängen wahrscheinlich nicht zusammen.",
+          "fr": "Les deux crimes n'ont probablement aucun lien.",
+          "it": "I due crimini probabilmente non sono collegati.",
+          "es": "Los dos delitos probablemente no están relacionados."
+        },
+        {
+          "en": "My headache was [unconnected] to the food.",
+          "tr": "Baş ağrımın yemekle bir ilgisi yoktu.",
+          "de": "Meine Kopfschmerzen hatten nichts mit dem Essen zu tun.",
+          "fr": "Mon mal de tête n'avait aucun rapport avec la nourriture.",
+          "it": "Il mio mal di testa non era collegato al cibo.",
+          "es": "Mi dolor de cabeza no tenía relación con la comida."
+        }
+      ]
+    },
+    {
+      "id": "interconnected",
+      "pos": "adjective",
+      "parent": "connected",
+      "parts": [
+        "inter-",
+        "con-",
+        "nect",
+        "-ed"
+      ],
+      "gloss": {
+        "en": "connected to each other, so that each part affects the others",
+        "tr": "birbirine bağlı",
+        "de": "miteinander verbunden, vernetzt",
+        "fr": "interconnecté, lié entre eux",
+        "it": "interconnesso",
+        "es": "interconectado"
+      },
+      "sentences": [
+        {
+          "en": "In nature, all living things are [interconnected].",
+          "tr": "Doğada tüm canlılar birbirine bağlıdır.",
+          "de": "In der Natur ist alles Lebendige miteinander verbunden.",
+          "fr": "Dans la nature, tous les êtres vivants sont interconnectés.",
+          "it": "In natura, tutti gli esseri viventi sono interconnessi.",
+          "es": "En la naturaleza, todos los seres vivos están interconectados."
+        },
+        {
+          "en": "Poverty and poor health are [interconnected] problems.",
+          "tr": "Yoksulluk ve kötü sağlık birbirine bağlı sorunlardır.",
+          "de": "Armut und schlechte Gesundheit sind miteinander verbundene Probleme.",
+          "fr": "La pauvreté et la mauvaise santé sont des problèmes liés entre eux.",
+          "it": "La povertà e la cattiva salute sono problemi interconnessi.",
+          "es": "La pobreza y la mala salud son problemas interconectados."
+        }
+      ]
+    },
+    {
+      "id": "connection",
+      "pos": "noun",
+      "parent": "connect",
+      "parts": [
+        "con-",
+        "nect",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a link between things or people; a link to a network; a train or flight you change to",
+        "tr": "bağlantı, ilişki; aktarma",
+        "de": "die Verbindung, der Zusammenhang; der Anschluss",
+        "fr": "la connexion, le lien ; la correspondance",
+        "it": "il collegamento, la connessione; la coincidenza",
+        "es": "la conexión, la relación"
+      },
+      "sentences": [
+        {
+          "en": "The internet [connection] is very slow today.",
+          "tr": "İnternet bağlantısı bugün çok yavaş.",
+          "de": "Die Internetverbindung ist heute sehr langsam.",
+          "fr": "La connexion internet est très lente aujourd'hui.",
+          "it": "La connessione internet è molto lenta oggi.",
+          "es": "La conexión a internet va muy lenta hoy."
+        },
+        {
+          "en": "Is there a [connection] between diet and sleep?",
+          "tr": "Beslenme ile uyku arasında bir bağlantı var mı?",
+          "de": "Gibt es einen Zusammenhang zwischen Ernährung und Schlaf?",
+          "fr": "Y a-t-il un lien entre l'alimentation et le sommeil ?",
+          "it": "C'è un collegamento tra alimentazione e sonno?",
+          "es": "¿Hay relación entre la dieta y el sueño?"
+        },
+        {
+          "en": "We missed our [connection] in Frankfurt.",
+          "tr": "Frankfurt'taki aktarmamızı kaçırdık.",
+          "de": "Wir haben unseren Anschluss in Frankfurt verpasst.",
+          "fr": "Nous avons raté notre correspondance à Francfort.",
+          "it": "Abbiamo perso la coincidenza a Francoforte.",
+          "es": "Perdimos la conexión en Fráncfort."
+        }
+      ]
+    },
+    {
+      "id": "connector",
+      "pos": "noun",
+      "parent": "connect",
+      "parts": [
+        "con-",
+        "nect",
+        "-or"
+      ],
+      "gloss": {
+        "en": "a part that joins two things, such as cables or pipes",
+        "tr": "konnektör, bağlantı parçası",
+        "de": "der Stecker, das Verbindungsstück",
+        "fr": "le connecteur",
+        "it": "il connettore",
+        "es": "el conector"
+      },
+      "sentences": [
+        {
+          "en": "This phone uses a different charging [connector].",
+          "tr": "Bu telefon farklı bir şarj konnektörü kullanıyor.",
+          "de": "Dieses Handy hat einen anderen Ladestecker.",
+          "fr": "Ce téléphone utilise un autre connecteur de charge.",
+          "it": "Questo telefono usa un connettore di ricarica diverso.",
+          "es": "Este móvil usa un conector de carga distinto."
+        },
+        {
+          "en": "The [connector] on the cable is broken.",
+          "tr": "Kablonun ucundaki bağlantı parçası kırık.",
+          "de": "Der Stecker am Kabel ist kaputt.",
+          "fr": "Le connecteur du câble est cassé.",
+          "it": "Il connettore del cavo è rotto.",
+          "es": "El conector del cable está roto."
+        }
+      ]
+    },
+    {
+      "id": "connectivity",
+      "pos": "noun",
+      "parent": "connect",
+      "parts": [
+        "con-",
+        "nect",
+        "-iv",
+        "-ity"
+      ],
+      "gloss": {
+        "en": "the ability to connect to a network or to other things",
+        "tr": "bağlantı (olanağı), bağlanabilirlik",
+        "de": "die Konnektivität, die Netzanbindung",
+        "fr": "la connectivité",
+        "it": "la connettività",
+        "es": "la conectividad"
+      },
+      "sentences": [
+        {
+          "en": "Mobile [connectivity] is poor in the mountains.",
+          "tr": "Dağlarda mobil bağlantı zayıf.",
+          "de": "In den Bergen ist der Mobilfunkempfang schlecht.",
+          "fr": "La connectivité mobile est faible en montagne.",
+          "it": "In montagna la connettività mobile è scarsa.",
+          "es": "La conectividad móvil es mala en la montaña."
+        },
+        {
+          "en": "The new laptop has better [connectivity] options.",
+          "tr": "Yeni dizüstü bilgisayarın bağlantı seçenekleri daha iyi.",
+          "de": "Der neue Laptop hat mehr Anschlussmöglichkeiten.",
+          "fr": "Le nouvel ordinateur portable offre de meilleures options de connectivité.",
+          "it": "Il nuovo portatile ha migliori opzioni di connettività.",
+          "es": "El nuevo portátil tiene mejores opciones de conectividad."
+        }
+      ]
+    },
+    {
+      "id": "disconnect",
+      "pos": "verb",
+      "parent": "connect",
+      "parts": [
+        "dis-",
+        "con-",
+        "nect"
+      ],
+      "gloss": {
+        "en": "to separate two things that were joined; to cut off from a network or supply",
+        "tr": "bağlantısını kesmek, ayırmak",
+        "de": "trennen, abklemmen",
+        "fr": "déconnecter, débrancher",
+        "it": "scollegare, disconnettere",
+        "es": "desconectar"
+      },
+      "sentences": [
+        {
+          "en": "[Disconnect] the power before you open the machine.",
+          "tr": "Makineyi açmadan önce elektriğini kes.",
+          "de": "Zieh den Stecker, bevor du das Gerät öffnest.",
+          "fr": "Débranche l'alimentation avant d'ouvrir l'appareil.",
+          "it": "Scollega la corrente prima di aprire la macchina.",
+          "es": "Desconecta la corriente antes de abrir la máquina."
+        },
+        {
+          "en": "The call was [disconnected] in the tunnel.",
+          "tr": "Tünelde arama kesildi.",
+          "de": "Im Tunnel brach das Gespräch ab.",
+          "fr": "L'appel a été coupé dans le tunnel.",
+          "it": "La chiamata si è interrotta nella galleria.",
+          "es": "La llamada se cortó en el túnel."
+        }
+      ]
+    },
+    {
+      "id": "disconnected",
+      "pos": "adjective",
+      "parent": "disconnect",
+      "parts": [
+        "dis-",
+        "con-",
+        "nect",
+        "-ed"
+      ],
+      "gloss": {
+        "en": "cut off from other people; not joined in a clear way",
+        "tr": "kopuk, kopmuş; bağlantısız",
+        "de": "abgeschnitten; zusammenhanglos",
+        "fr": "déconnecté ; décousu",
+        "it": "distaccato; slegato",
+        "es": "desconectado; inconexo"
+      },
+      "sentences": [
+        {
+          "en": "After moving abroad, I felt [disconnected] from my friends.",
+          "tr": "Yurt dışına taşındıktan sonra arkadaşlarımdan kopmuş hissettim.",
+          "de": "Nach dem Umzug ins Ausland fühlte ich mich von meinen Freunden abgeschnitten.",
+          "fr": "Après mon départ à l'étranger, je me sentais déconnecté de mes amis.",
+          "it": "Dopo il trasferimento all'estero mi sentivo distaccato dai miei amici.",
+          "es": "Después de mudarme al extranjero, me sentí desconectado de mis amigos."
+        },
+        {
+          "en": "His story was a series of [disconnected] ideas.",
+          "tr": "Hikâyesi birbirinden kopuk fikirlerden oluşuyordu.",
+          "de": "Seine Geschichte bestand aus zusammenhanglosen Ideen.",
+          "fr": "Son récit était une suite d'idées décousues.",
+          "it": "Il suo racconto era una serie di idee slegate.",
+          "es": "Su relato era una serie de ideas inconexas."
+        }
+      ]
+    },
+    {
+      "id": "reconnect",
+      "pos": "verb",
+      "parent": "connect",
+      "parts": [
+        "re-",
+        "con-",
+        "nect"
+      ],
+      "gloss": {
+        "en": "to connect again; to get back in touch with someone",
+        "tr": "yeniden bağlamak, yeniden bağlanmak; yeniden iletişim kurmak",
+        "de": "wieder verbinden; wieder Kontakt aufnehmen",
+        "fr": "reconnecter ; renouer",
+        "it": "ricollegare; riallacciare i rapporti",
+        "es": "volver a conectar; retomar el contacto"
+      },
+      "sentences": [
+        {
+          "en": "The phone will [reconnect] to the network automatically.",
+          "tr": "Telefon ağa otomatik olarak yeniden bağlanacak.",
+          "de": "Das Handy verbindet sich automatisch wieder mit dem Netz.",
+          "fr": "Le téléphone se reconnectera automatiquement au réseau.",
+          "it": "Il telefono si ricollegherà automaticamente alla rete.",
+          "es": "El móvil se volverá a conectar a la red automáticamente."
+        },
+        {
+          "en": "I [reconnected] with an old school friend online.",
+          "tr": "Eski bir okul arkadaşımla internet üzerinden yeniden iletişim kurdum.",
+          "de": "Ich habe online wieder Kontakt zu einem alten Schulfreund aufgenommen.",
+          "fr": "J'ai renoué avec un vieil ami d'école en ligne.",
+          "it": "Ho ritrovato online un vecchio compagno di scuola.",
+          "es": "Retomé el contacto con un viejo amigo del colegio por internet."
+        }
+      ]
+    },
+    {
+      "id": "annex",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "an-",
+        "nex"
+      ],
+      "gloss": {
+        "en": "to take an area and make it part of your own country (literally: to tie to); also a noun: an extra building",
+        "tr": "ilhak etmek, topraklarına katmak; (isim) ek bina",
+        "de": "annektieren; (Nomen) der Anbau",
+        "fr": "annexer ; (nom) l'annexe",
+        "it": "annettere; (nome) l'edificio annesso",
+        "es": "anexionar; (sustantivo) el anexo"
+      },
+      "sentences": [
+        {
+          "en": "The empire [annexed] the small kingdom in 1800.",
+          "tr": "İmparatorluk küçük krallığı 1800'de ilhak etti.",
+          "de": "Das Reich annektierte das kleine Königreich im Jahr 1800.",
+          "fr": "L'empire a annexé le petit royaume en 1800.",
+          "it": "L'impero annesse il piccolo regno nel 1800.",
+          "es": "El imperio anexionó el pequeño reino en 1800."
+        },
+        {
+          "en": "The science classes are in the school [annex].",
+          "tr": "Fen dersleri okulun ek binasında yapılıyor.",
+          "de": "Der Naturwissenschaftsunterricht findet im Anbau der Schule statt.",
+          "fr": "Les cours de sciences ont lieu dans l'annexe de l'école.",
+          "it": "Le lezioni di scienze si tengono nell'edificio annesso della scuola.",
+          "es": "Las clases de ciencias son en el anexo del colegio."
+        }
+      ]
+    },
+    {
+      "id": "annexation",
+      "pos": "noun",
+      "parent": "annex",
+      "parts": [
+        "an-",
+        "nex",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "the act of taking an area and making it part of a country",
+        "tr": "ilhak",
+        "de": "die Annexion",
+        "fr": "l'annexion",
+        "it": "l'annessione",
+        "es": "la anexión"
+      },
+      "sentences": [
+        {
+          "en": "Many countries did not accept the [annexation].",
+          "tr": "Pek çok ülke ilhakı tanımadı.",
+          "de": "Viele Länder erkannten die Annexion nicht an.",
+          "fr": "De nombreux pays n'ont pas reconnu l'annexion.",
+          "it": "Molti paesi non hanno riconosciuto l'annessione.",
+          "es": "Muchos países no reconocieron la anexión."
+        },
+        {
+          "en": "The [annexation] of the island led to war.",
+          "tr": "Adanın ilhakı savaşa yol açtı.",
+          "de": "Die Annexion der Insel führte zum Krieg.",
+          "fr": "L'annexion de l'île a mené à la guerre.",
+          "it": "L'annessione dell'isola portò alla guerra.",
+          "es": "La anexión de la isla llevó a la guerra."
+        }
+      ]
+    },
+    {
+      "id": "nexus",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "nex",
+        "-us"
+      ],
+      "gloss": {
+        "en": "a central link or meeting point between things (formal; Latin for 'a tie')",
+        "tr": "bağ, bağlantı noktası, merkez",
+        "de": "der Zusammenhang, der Knotenpunkt",
+        "fr": "le lien, le carrefour",
+        "it": "il nesso, il crocevia",
+        "es": "el nexo, el vínculo"
+      },
+      "sentences": [
+        {
+          "en": "The city is a [nexus] of trade routes.",
+          "tr": "Şehir ticaret yollarının kesiştiği bir merkez.",
+          "de": "Die Stadt ist ein Knotenpunkt von Handelswegen.",
+          "fr": "La ville est un carrefour de routes commerciales.",
+          "it": "La città è un crocevia di rotte commerciali.",
+          "es": "La ciudad es un nudo de rutas comerciales."
+        },
+        {
+          "en": "Researchers study the [nexus] between water and energy.",
+          "tr": "Araştırmacılar su ile enerji arasındaki bağı inceliyor.",
+          "de": "Forscher untersuchen den Zusammenhang zwischen Wasser und Energie.",
+          "fr": "Les chercheurs étudient le lien entre l'eau et l'énergie.",
+          "it": "I ricercatori studiano il nesso tra acqua ed energia.",
+          "es": "Los investigadores estudian el nexo entre el agua y la energía."
+        }
+      ]
+    }
+  ]
+}
