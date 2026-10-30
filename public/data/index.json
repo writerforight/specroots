@@ -1976,6 +1976,34 @@
     ]
   },
   {
+    "id": "tempt",
+    "forms": [
+      "tempt",
+      "tent"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to try, to test; to touch, to feel (also spelled tentare)",
+      "tr": "denemek, sınamak; dokunmak, yoklamak (tentare diye de yazılır)",
+      "de": "versuchen, prüfen; betasten (auch tentare geschrieben)",
+      "fr": "essayer, mettre à l'épreuve ; toucher, tâter (aussi écrit tentare)",
+      "it": "provare, mettere alla prova; toccare, tastare (anche tentare)",
+      "es": "intentar, poner a prueba; tocar, palpar (también tentare)"
+    },
+    "words": [
+      "tempt",
+      "temptation",
+      "tempted",
+      "tempting",
+      "temptingly",
+      "attempt",
+      "attempted",
+      "tentative",
+      "tentatively",
+      "tentacle"
+    ]
+  },
+  {
     "id": "ten",
     "forms": [
       "ten",

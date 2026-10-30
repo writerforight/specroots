@@ -1,0 +1,379 @@
+{
+  "id": "tempt",
+  "forms": [
+    "tempt",
+    "tent"
+  ],
+  "origin": "la",
+  "etymon": "temptare",
+  "meaning": {
+    "en": "to try, to test; to touch, to feel (also spelled tentare)",
+    "tr": "denemek, sınamak; dokunmak, yoklamak (tentare diye de yazılır)",
+    "de": "versuchen, prüfen; betasten (auch tentare geschrieben)",
+    "fr": "essayer, mettre à l'épreuve ; toucher, tâter (aussi écrit tentare)",
+    "it": "provare, mettere alla prova; toccare, tastare (anche tentare)",
+    "es": "intentar, poner a prueba; tocar, palpar (también tentare)"
+  },
+  "words": [
+    {
+      "id": "tempt",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "tempt"
+      ],
+      "gloss": {
+        "en": "to make someone want to do or have something, often something they should not (literally: to test)",
+        "tr": "cezbetmek, ayartmak, özendirmek",
+        "de": "verlocken, in Versuchung führen",
+        "fr": "tenter",
+        "it": "tentare, allettare",
+        "es": "tentar"
+      },
+      "sentences": [
+        {
+          "en": "The smell of fresh bread [tempted] me into the shop.",
+          "tr": "Taze ekmeğin kokusu beni dükkâna çekti.",
+          "de": "Der Duft von frischem Brot lockte mich in den Laden.",
+          "fr": "L'odeur du pain frais m'a attiré dans la boutique.",
+          "it": "Il profumo del pane fresco mi ha attirato nel negozio.",
+          "es": "El olor a pan recién hecho me atrajo a la tienda."
+        },
+        {
+          "en": "Nothing could [tempt] him to leave his village.",
+          "tr": "Hiçbir şey onu köyünden ayrılmaya özendiremezdi.",
+          "de": "Nichts konnte ihn dazu verlocken, sein Dorf zu verlassen.",
+          "fr": "Rien ne pouvait l'inciter à quitter son village.",
+          "it": "Niente poteva indurlo a lasciare il suo paese.",
+          "es": "Nada podía tentarlo a dejar su pueblo."
+        }
+      ]
+    },
+    {
+      "id": "temptation",
+      "pos": "noun",
+      "parent": "tempt",
+      "parts": [
+        "tempt",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "a strong wish to do or have something you should not",
+        "tr": "cazibe, ayartı; (bir şeyi yapma) isteği",
+        "de": "die Versuchung",
+        "fr": "la tentation",
+        "it": "la tentazione",
+        "es": "la tentación"
+      },
+      "sentences": [
+        {
+          "en": "I couldn't resist the [temptation] to eat another cookie.",
+          "tr": "Bir kurabiye daha yeme isteğine karşı koyamadım.",
+          "de": "Ich konnte der Versuchung nicht widerstehen, noch einen Keks zu essen.",
+          "fr": "Je n'ai pas pu résister à la tentation de manger un autre biscuit.",
+          "it": "Non ho resistito alla tentazione di mangiare un altro biscotto.",
+          "es": "No pude resistir la tentación de comer otra galleta."
+        },
+        {
+          "en": "Phones are a big [temptation] during lessons.",
+          "tr": "Ders sırasında telefon büyük bir cazibe.",
+          "de": "Handys sind im Unterricht eine große Versuchung.",
+          "fr": "Les téléphones sont une grande tentation pendant les cours.",
+          "it": "I telefoni sono una grande tentazione durante le lezioni.",
+          "es": "Los móviles son una gran tentación durante las clases."
+        }
+      ]
+    },
+    {
+      "id": "tempted",
+      "pos": "adjective",
+      "parent": "tempt",
+      "parts": [
+        "tempt",
+        "-ed"
+      ],
+      "gloss": {
+        "en": "wanting to do something, though you may decide not to",
+        "tr": "-esi gelmiş, (bir şeye) heveslenmiş",
+        "de": "versucht, geneigt",
+        "fr": "tenté",
+        "it": "tentato",
+        "es": "tentado"
+      },
+      "sentences": [
+        {
+          "en": "I was [tempted] to stay in bed all day.",
+          "tr": "Bütün gün yatakta kalasım geldi.",
+          "de": "Ich war versucht, den ganzen Tag im Bett zu bleiben.",
+          "fr": "J'ai été tenté de rester au lit toute la journée.",
+          "it": "Ero tentato di restare a letto tutto il giorno.",
+          "es": "Estuve tentado de quedarme en la cama todo el día."
+        },
+        {
+          "en": "Don't be [tempted] to skip breakfast.",
+          "tr": "Kahvaltıyı atlamak cazip gelse de atlama.",
+          "de": "Lass dich nicht dazu verleiten, das Frühstück auszulassen.",
+          "fr": "Ne te laisse pas tenter de sauter le petit-déjeuner.",
+          "it": "Non cedere alla tentazione di saltare la colazione.",
+          "es": "No caigas en la tentación de saltarte el desayuno."
+        }
+      ]
+    },
+    {
+      "id": "tempting",
+      "pos": "adjective",
+      "parent": "tempt",
+      "parts": [
+        "tempt",
+        "-ing"
+      ],
+      "gloss": {
+        "en": "attractive; making you want to do or have it",
+        "tr": "cazip, çekici, iştah açıcı",
+        "de": "verlockend",
+        "fr": "tentant, alléchant",
+        "it": "allettante, invitante",
+        "es": "tentador"
+      },
+      "sentences": [
+        {
+          "en": "This chocolate cake looks very [tempting].",
+          "tr": "Bu çikolatalı pasta çok iştah açıcı görünüyor.",
+          "de": "Dieser Schokoladenkuchen sieht sehr verlockend aus.",
+          "fr": "Ce gâteau au chocolat a l'air très tentant.",
+          "it": "Questa torta al cioccolato sembra molto invitante.",
+          "es": "Esta tarta de chocolate parece muy tentadora."
+        },
+        {
+          "en": "It was a [tempting] offer, but I said no.",
+          "tr": "Cazip bir teklifti ama hayır dedim.",
+          "de": "Es war ein verlockendes Angebot, aber ich habe Nein gesagt.",
+          "fr": "C'était une offre tentante, mais j'ai dit non.",
+          "it": "Era un'offerta allettante, ma ho detto di no.",
+          "es": "Era una oferta tentadora, pero dije que no."
+        }
+      ]
+    },
+    {
+      "id": "temptingly",
+      "pos": "adverb",
+      "parent": "tempting",
+      "parts": [
+        "tempt",
+        "-ing",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "in a way that makes you want something",
+        "tr": "insanın canını çekecek şekilde, cazip biçimde",
+        "de": "verlockend",
+        "fr": "de manière tentante",
+        "it": "in modo invitante",
+        "es": "de forma tentadora"
+      },
+      "sentences": [
+        {
+          "en": "The beach was [temptingly] close to our hotel.",
+          "tr": "Plaj otelimize insanın canını çekecek kadar yakındı.",
+          "de": "Der Strand lag verlockend nah an unserem Hotel.",
+          "fr": "La plage, tout près de notre hôtel, nous tendait les bras.",
+          "it": "La spiaggia era invitante, vicinissima al nostro hotel.",
+          "es": "La playa estaba tentadoramente cerca de nuestro hotel."
+        },
+        {
+          "en": "Sweets were placed [temptingly] near the checkout.",
+          "tr": "Şekerlemeler kasanın yanına, insanın canını çekecek şekilde dizilmişti.",
+          "de": "Süßigkeiten lagen verlockend nah an der Kasse.",
+          "fr": "Les bonbons étaient disposés de façon tentante près de la caisse.",
+          "it": "I dolciumi erano esposti in modo invitante vicino alla cassa.",
+          "es": "Los dulces estaban colocados de forma tentadora junto a la caja."
+        }
+      ]
+    },
+    {
+      "id": "attempt",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "at-",
+        "tempt"
+      ],
+      "gloss": {
+        "en": "to try to do something, especially something hard; also a noun: a try (literally: to test toward)",
+        "tr": "denemek, kalkışmak, girişmek; (isim) deneme, girişim",
+        "de": "versuchen; (Nomen) der Versuch",
+        "fr": "tenter, essayer ; (nom) la tentative",
+        "it": "tentare, provare; (nome) il tentativo",
+        "es": "intentar; (sustantivo) el intento"
+      },
+      "sentences": [
+        {
+          "en": "He [attempted] to climb the mountain alone.",
+          "tr": "Dağa tek başına tırmanmaya kalkıştı.",
+          "de": "Er versuchte, den Berg allein zu besteigen.",
+          "fr": "Il a tenté d'escalader la montagne seul.",
+          "it": "Ha tentato di scalare la montagna da solo.",
+          "es": "Intentó escalar la montaña solo."
+        },
+        {
+          "en": "Please [attempt] every question on the test.",
+          "tr": "Lütfen sınavdaki her soruyu yanıtlamaya çalış.",
+          "de": "Versuch bitte, jede Frage im Test zu beantworten.",
+          "fr": "Essaie de répondre à toutes les questions du test.",
+          "it": "Prova a rispondere a tutte le domande del test.",
+          "es": "Intenta responder todas las preguntas del examen."
+        },
+        {
+          "en": "She passed her driving test on the first [attempt].",
+          "tr": "Ehliyet sınavını ilk denemede geçti.",
+          "de": "Sie hat die Fahrprüfung beim ersten Versuch bestanden.",
+          "fr": "Elle a réussi son permis de conduire du premier coup.",
+          "it": "Ha superato l'esame di guida al primo tentativo.",
+          "es": "Aprobó el examen de conducir al primer intento."
+        }
+      ]
+    },
+    {
+      "id": "attempted",
+      "pos": "adjective",
+      "parent": "attempt",
+      "parts": [
+        "at-",
+        "tempt",
+        "-ed"
+      ],
+      "gloss": {
+        "en": "tried but not completed, often of a crime (attempted robbery)",
+        "tr": "teşebbüs edilmiş, girişilmiş (suçta: ... girişimi)",
+        "de": "versucht (versuchter Raub)",
+        "fr": "tenté (tentative de vol)",
+        "it": "tentato (tentata rapina)",
+        "es": "frustrado, en grado de tentativa (intento de robo)"
+      },
+      "sentences": [
+        {
+          "en": "He was arrested for [attempted] robbery.",
+          "tr": "Soygun girişiminden tutuklandı.",
+          "de": "Er wurde wegen versuchten Raubes festgenommen.",
+          "fr": "Il a été arrêté pour tentative de vol.",
+          "it": "È stato arrestato per tentata rapina.",
+          "es": "Lo detuvieron por intento de robo."
+        },
+        {
+          "en": "The [attempted] rescue failed because of the storm.",
+          "tr": "Kurtarma girişimi fırtına yüzünden başarısız oldu.",
+          "de": "Der Rettungsversuch scheiterte wegen des Sturms.",
+          "fr": "La tentative de sauvetage a échoué à cause de la tempête.",
+          "it": "Il tentativo di soccorso è fallito a causa della tempesta.",
+          "es": "El intento de rescate fracasó por la tormenta."
+        }
+      ]
+    },
+    {
+      "id": "tentative",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "tent",
+        "-ative"
+      ],
+      "gloss": {
+        "en": "not yet certain or final; careful and unsure, like a first try (literally: testing)",
+        "tr": "kesinleşmemiş, geçici; çekingen",
+        "de": "vorläufig; zaghaft",
+        "fr": "provisoire ; hésitant",
+        "it": "provvisorio; esitante",
+        "es": "provisional; vacilante"
+      },
+      "sentences": [
+        {
+          "en": "We have a [tentative] plan to meet in June.",
+          "tr": "Haziranda buluşmak için kesinleşmemiş bir planımız var.",
+          "de": "Wir haben einen vorläufigen Plan, uns im Juni zu treffen.",
+          "fr": "Nous avons un projet provisoire de nous voir en juin.",
+          "it": "Abbiamo un piano provvisorio di vederci a giugno.",
+          "es": "Tenemos un plan provisional de vernos en junio."
+        },
+        {
+          "en": "The baby took a few [tentative] steps.",
+          "tr": "Bebek birkaç çekingen adım attı.",
+          "de": "Das Baby machte ein paar zaghafte Schritte.",
+          "fr": "Le bébé a fait quelques pas hésitants.",
+          "it": "Il bambino ha fatto qualche passo incerto.",
+          "es": "El bebé dio unos pasos vacilantes."
+        }
+      ]
+    },
+    {
+      "id": "tentatively",
+      "pos": "adverb",
+      "parent": "tentative",
+      "parts": [
+        "tent",
+        "-ative",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "for now, not yet final; carefully, without confidence",
+        "tr": "şimdilik, geçici olarak; çekinerek",
+        "de": "vorläufig; zaghaft",
+        "fr": "provisoirement ; timidement",
+        "it": "provvisoriamente; timidamente",
+        "es": "provisionalmente; tímidamente"
+      },
+      "sentences": [
+        {
+          "en": "The meeting is [tentatively] set for Monday.",
+          "tr": "Toplantı şimdilik pazartesiye planlandı.",
+          "de": "Das Treffen ist vorläufig für Montag angesetzt.",
+          "fr": "La réunion est provisoirement fixée à lundi.",
+          "it": "La riunione è fissata provvisoriamente per lunedì.",
+          "es": "La reunión está fijada provisionalmente para el lunes."
+        },
+        {
+          "en": "She smiled [tentatively] at the new teacher.",
+          "tr": "Yeni öğretmene çekinerek gülümsedi.",
+          "de": "Sie lächelte den neuen Lehrer zaghaft an.",
+          "fr": "Elle a souri timidement au nouveau professeur.",
+          "it": "Ha sorriso timidamente al nuovo insegnante.",
+          "es": "Le sonrió tímidamente al nuevo profesor."
+        }
+      ]
+    },
+    {
+      "id": "tentacle",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "tent",
+        "-acle"
+      ],
+      "gloss": {
+        "en": "a long, bendy arm of an animal such as an octopus (literally: a thing for feeling)",
+        "tr": "dokunaç",
+        "de": "der Tentakel, der Fangarm",
+        "fr": "le tentacule",
+        "it": "il tentacolo",
+        "es": "el tentáculo"
+      },
+      "sentences": [
+        {
+          "en": "An octopus has eight [tentacles].",
+          "tr": "Ahtapotun sekiz dokunacı vardır.",
+          "de": "Ein Krake hat acht Fangarme.",
+          "fr": "Une pieuvre a huit tentacules.",
+          "it": "Un polpo ha otto tentacoli.",
+          "es": "Un pulpo tiene ocho tentáculos."
+        },
+        {
+          "en": "The jellyfish stung me with its [tentacles].",
+          "tr": "Denizanası dokunaçlarıyla beni soktu.",
+          "de": "Die Qualle hat mich mit ihren Tentakeln gestochen.",
+          "fr": "La méduse m'a piqué avec ses tentacules.",
+          "it": "La medusa mi ha punto con i suoi tentacoli.",
+          "es": "La medusa me picó con sus tentáculos."
+        }
+      ]
+    }
+  ]
+}

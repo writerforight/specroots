@@ -3,6 +3,20 @@
 Her turda güncellenir: optimizasyon, SPEC ile tutarsızlıklar, issue durumu, şüpheli veri, açık sorular.
 Bağlayıcı kararlar burada değil `SPEC.md`'dedir; buradaki bir not karar olunca SPEC'e taşınır.
 
+## 2026-10-30
+
+### Yeni kök: tempt (kullanıcı isteği, 53. kök)
+- Latince *temptare* (dokunmak, yoklamak, denemek); aynı fiilin *tentare* yazımı da yaygın. Yazımlar
+  `tempt` (tempt, attempt: Eski Fransızca atempter < Latince attemptare) ve `tent` (tentative: Orta Çağ
+  Latincesi tentativus; tentacle: Yeni Latince tentaculum, "yoklama aracı"). Yeni ek yok.
+- 10 kelime (az: 10): tempt, temptation, tempted, tempting, temptingly, attempt, attempted, tentative,
+  tentatively, tentacle. *attempt* tek kayıt (fiil); isim anlamı tanımda ve üçüncü cümlede.
+- `tent` yazımı ten köküyle (*tenere*: content, retention, detention) ortak; anlam kök açıklamasında
+  ayrılıyor, arama "tent" için iki kök gösterir (cad/cid gibi).
+- Bilerek dışarıda bırakılanlar: *contempt* (Latince contemnere, temptare değil), *tent* "çadır"
+  (tendere), *temptress* (`tempt·-ress` için yeni ek gerekir; `-ess` "tempteress" heceler), *tempter*
+  (çoğunlukla dinî/edebî), *tentativeness* (`-ness` eki katalogda yok; nadir).
+
 ## 2026-10-29
 
 ### Veri: +177 kelime (kullanıcı isteği: "yüklemeye devam et")
