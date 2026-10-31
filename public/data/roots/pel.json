@@ -4,7 +4,8 @@
     "pel",
     "pell",
     "puls",
-    "pulse"
+    "pulse",
+    "peal"
   ],
   "origin": "la",
   "etymon": "pellere, pulsus",
@@ -761,6 +762,122 @@
           "fr": "Je me suis senti poussé à dire quelque chose.",
           "it": "Mi sono sentito spinto a dire qualcosa.",
           "es": "Me sentí empujado a decir algo."
+        }
+      ]
+    },
+    {
+      "id": "appeal",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ap-",
+        "peal"
+      ],
+      "gloss": {
+        "en": "to ask strongly for help; to ask a higher court to change a decision; to attract someone; also a noun (from Latin appellare, 'to call on', usually traced to ad- + pellere, 'to drive toward'; the link is not certain)",
+        "tr": "çağrıda bulunmak; (karara) itiraz etmek, temyize gitmek; cazip gelmek; (isim) çağrı, itiraz, cazibe",
+        "de": "appellieren, aufrufen; Berufung einlegen; reizen, ansprechen; (Nomen) der Appell, die Berufung, der Reiz",
+        "fr": "lancer un appel ; faire appel ; attirer, plaire ; (nom) l'appel, l'attrait",
+        "it": "fare appello; ricorrere in appello; attirare, piacere; (nome) l'appello, il fascino",
+        "es": "hacer un llamamiento; recurrir, apelar; atraer; (sustantivo) el llamamiento, la apelación, el atractivo"
+      },
+      "sentences": [
+        {
+          "en": "The police [appealed] for witnesses to come forward.",
+          "tr": "Polis tanıkların ortaya çıkması için çağrıda bulundu.",
+          "de": "Die Polizei rief Zeugen auf, sich zu melden.",
+          "fr": "La police a lancé un appel à témoins.",
+          "it": "La polizia ha lanciato un appello ai testimoni.",
+          "es": "La policía hizo un llamamiento a los testigos."
+        },
+        {
+          "en": "He will [appeal] against the court's decision.",
+          "tr": "Mahkemenin kararına itiraz edecek.",
+          "de": "Er wird gegen das Urteil des Gerichts Berufung einlegen.",
+          "fr": "Il va faire appel de la décision du tribunal.",
+          "it": "Farà ricorso contro la decisione del tribunale.",
+          "es": "Va a recurrir la decisión del tribunal."
+        },
+        {
+          "en": "Camping doesn't [appeal] to me at all.",
+          "tr": "Kamp yapmak bana hiç cazip gelmiyor.",
+          "de": "Camping reizt mich überhaupt nicht.",
+          "fr": "Le camping ne m'attire pas du tout.",
+          "it": "Il campeggio non mi attira per niente.",
+          "es": "Ir de acampada no me atrae nada."
+        }
+      ]
+    },
+    {
+      "id": "appealing",
+      "pos": "adjective",
+      "parent": "appeal",
+      "parts": [
+        "ap-",
+        "peal",
+        "-ing"
+      ],
+      "gloss": {
+        "en": "attractive or interesting",
+        "tr": "çekici, cazip",
+        "de": "ansprechend, reizvoll",
+        "fr": "attirant, séduisant",
+        "it": "attraente, allettante",
+        "es": "atractivo, atrayente"
+      },
+      "sentences": [
+        {
+          "en": "A holiday by the sea sounds very [appealing].",
+          "tr": "Deniz kenarında bir tatil kulağa çok cazip geliyor.",
+          "de": "Ein Urlaub am Meer klingt sehr reizvoll.",
+          "fr": "Des vacances au bord de la mer, c'est très attirant.",
+          "it": "Una vacanza al mare sembra molto allettante.",
+          "es": "Unas vacaciones en la playa suenan muy atractivas."
+        },
+        {
+          "en": "The new design is simple and [appealing].",
+          "tr": "Yeni tasarım sade ve çekici.",
+          "de": "Das neue Design ist schlicht und ansprechend.",
+          "fr": "Le nouveau design est simple et attirant.",
+          "it": "Il nuovo design è semplice e attraente.",
+          "es": "El nuevo diseño es sencillo y atractivo."
+        }
+      ]
+    },
+    {
+      "id": "unappealing",
+      "pos": "adjective",
+      "parent": "appealing",
+      "parts": [
+        "un-",
+        "ap-",
+        "peal",
+        "-ing"
+      ],
+      "gloss": {
+        "en": "not attractive; not making you want it",
+        "tr": "çekici olmayan, iç açmayan, iştah kaçıran",
+        "de": "unattraktiv, wenig reizvoll",
+        "fr": "peu attirant, peu appétissant",
+        "it": "poco attraente, poco invitante",
+        "es": "poco atractivo, poco apetecible"
+      },
+      "sentences": [
+        {
+          "en": "The hospital food looked grey and [unappealing].",
+          "tr": "Hastane yemeği gri ve iştah kaçırıcı görünüyordu.",
+          "de": "Das Krankenhausessen sah grau und wenig appetitlich aus.",
+          "fr": "La nourriture de l'hôpital avait l'air grise et peu appétissante.",
+          "it": "Il cibo dell'ospedale sembrava grigio e poco invitante.",
+          "es": "La comida del hospital tenía un aspecto gris y poco apetecible."
+        },
+        {
+          "en": "Working every weekend is an [unappealing] idea.",
+          "tr": "Her hafta sonu çalışmak hiç cazip bir fikir değil.",
+          "de": "Jedes Wochenende zu arbeiten ist keine reizvolle Idee.",
+          "fr": "Travailler tous les week-ends est une idée peu attirante.",
+          "it": "Lavorare ogni fine settimana è un'idea poco allettante.",
+          "es": "Trabajar todos los fines de semana es una idea poco atractiva."
         }
       ]
     }

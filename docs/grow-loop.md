@@ -44,7 +44,7 @@ yanına `(az: N)` yaz. Toplam hedef ≈ 1000–2000 kelime.
 - Aynı test iki turdur düzelmiyorsa ya da push reddediliyorsa döngüyü durdur ve nedenini yaz.
 
 ## Durum
-Kök: 56 · Kelime: 1405 kayıt, 1400 ayrı kelime (5 birleşik kelime iki kökte). Kuyruk bitti; D2 kapandı (2026-10-19, 949 kelime). 2026-10-22: mevcut köklere +177 kelime, 51. kök nunci (+15), 52. kök cad (+20). 2026-10-29: mevcut 37 köke +177 kelime. 2026-10-30: 53. kök tempt (+10), 54. kök act (+25), 55. kök nect (+13). 2026-10-31: 56. kök trib (+14).
+Kök: 56 · Kelime: 1408 kayıt, 1403 ayrı kelime (5 birleşik kelime iki kökte). Kuyruk bitti; D2 kapandı (2026-10-19, 949 kelime). 2026-10-22: mevcut köklere +177 kelime, 51. kök nunci (+15), 52. kök cad (+20). 2026-10-29: mevcut 37 köke +177 kelime. 2026-10-30: 53. kök tempt (+10), 54. kök act (+25), 55. kök nect (+13). 2026-10-31: 56. kök trib (+14); pel'e appeal ailesi (+3).
 
 ## Kuyruk
 

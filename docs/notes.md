@@ -16,6 +16,14 @@ Bağlayıcı kararlar burada değil `SPEC.md`'dedir; buradaki bir not karar olun
 - Bilerek dışarıda bırakılanlar: *tribe*, *tribunal*, *tribune* (tribus/tribunus; tribuere ile akraba
   ama doğrudan bu fiilden değil), *distributive*, *contributory*, *misattribute* (dar kullanım).
 
+### pel: appeal ailesi (kullanıcı isteği)
+- *appeal, appealing, unappealing* pel köküne eklendi (pel 21 → 24); yeni yazım `peal` (`ap- · peal`).
+- Köken: Eski Fransızca apeler < Latince *appellare* (seslenmek, çağırmak). Genelde ad- + *pellere*
+  (-e doğru sürmek) diye açıklanıyor ama bağ kesin değil; bu yüzden ilk turda girilmemişti. *appeal*
+  tanımında bu çekince açıkça yazılı. Türkçe *apel* (yoklama) Fransızca *appel* üzerinden aynı kelime.
+- *appeal* tek kayıt (fiil), üç cümle: çağrı, itiraz/temyiz, cazip gelmek; isim anlamları tanımda.
+  Dışarıda: *appellate*, *appellation* (resmî/teknik).
+
 ## 2026-10-30
 
 ### Yeni kök: nect (kullanıcı isteği, 55. kök)
