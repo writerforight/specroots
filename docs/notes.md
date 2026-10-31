@@ -3,6 +3,19 @@
 Her turda güncellenir: optimizasyon, SPEC ile tutarsızlıklar, issue durumu, şüpheli veri, açık sorular.
 Bağlayıcı kararlar burada değil `SPEC.md`'dedir; buradaki bir not karar olunca SPEC'e taşınır.
 
+## 2026-10-31
+
+### Yeni kök: trib (kullanıcı isteği, 56. kök)
+- Latince *tribuere, tributus* (pay etmek, vermek; büyük olasılıkla *tribus* "kabile"den: kabilelere
+  paylaştırmak), *tributum* (vergi). Yazımlar `tribute` (tribute, contribute, distribute, attribute) ve
+  `tribut` (ek önünde e düşer: contribution, tributary). Yeni ek yok.
+- 14 kelime (az: 14): tribute, tributary, contribute, contribution, contributor, contributing,
+  distribute, distribution, distributor, redistribute, redistribution, attribute, attribution,
+  retribution. *tribute* üç cümleli (saygı, övgü, tarihte haraç); *attribute* tek kayıt (fiil),
+  isim anlamı ("özellik", vurgu başta) tanımda ve 3. cümlede.
+- Bilerek dışarıda bırakılanlar: *tribe*, *tribunal*, *tribune* (tribus/tribunus; tribuere ile akraba
+  ama doğrudan bu fiilden değil), *distributive*, *contributory*, *misattribute* (dar kullanım).
+
 ## 2026-10-30
 
 ### Yeni kök: nect (kullanıcı isteği, 55. kök)

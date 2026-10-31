@@ -1,0 +1,534 @@
+{
+  "id": "trib",
+  "forms": [
+    "tribute",
+    "tribut"
+  ],
+  "origin": "la",
+  "etymon": "tribuere",
+  "meaning": {
+    "en": "to give, to assign, to share out (tributum: a tax paid)",
+    "tr": "vermek, pay etmek, paylaştırmak (tributum: ödenen vergi)",
+    "de": "zuteilen, geben, verteilen (tributum: die Abgabe)",
+    "fr": "attribuer, donner, répartir (tributum : l'impôt payé)",
+    "it": "attribuire, dare, distribuire (tributum: il tributo pagato)",
+    "es": "asignar, dar, repartir (tributum: el impuesto pagado)"
+  },
+  "words": [
+    {
+      "id": "tribute",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "tribute"
+      ],
+      "gloss": {
+        "en": "something said or done to show respect or thanks; in history, money paid to a stronger ruler",
+        "tr": "saygı, övgü, anma; (tarihte) haraç",
+        "de": "die Würdigung, die Hommage; (historisch) der Tribut",
+        "fr": "l'hommage ; (histoire) le tribut",
+        "it": "l'omaggio; (storia) il tributo",
+        "es": "el homenaje; (historia) el tributo"
+      },
+      "sentences": [
+        {
+          "en": "The concert was a [tribute] to the famous singer.",
+          "tr": "Konser ünlü şarkıcıya bir saygı gösterisiydi.",
+          "de": "Das Konzert war eine Hommage an den berühmten Sänger.",
+          "fr": "Le concert était un hommage au célèbre chanteur.",
+          "it": "Il concerto era un omaggio al famoso cantante.",
+          "es": "El concierto fue un homenaje al famoso cantante."
+        },
+        {
+          "en": "The president paid [tribute] to the firefighters.",
+          "tr": "Cumhurbaşkanı itfaiyecilere övgüde bulundu.",
+          "de": "Der Präsident würdigte die Feuerwehrleute.",
+          "fr": "Le président a rendu hommage aux pompiers.",
+          "it": "Il presidente ha reso omaggio ai vigili del fuoco.",
+          "es": "El presidente rindió homenaje a los bomberos."
+        },
+        {
+          "en": "Small kingdoms paid [tribute] to the empire.",
+          "tr": "Küçük krallıklar imparatorluğa haraç öderdi.",
+          "de": "Kleine Königreiche zahlten dem Reich Tribut.",
+          "fr": "Les petits royaumes payaient un tribut à l'empire.",
+          "it": "I piccoli regni pagavano un tributo all'impero.",
+          "es": "Los pequeños reinos pagaban tributo al imperio."
+        }
+      ]
+    },
+    {
+      "id": "tributary",
+      "pos": "noun",
+      "parent": "tribute",
+      "parts": [
+        "tribut",
+        "-ary"
+      ],
+      "gloss": {
+        "en": "a river or stream that flows into a bigger river (literally: one that pays in)",
+        "tr": "kol, ana nehre karışan akarsu",
+        "de": "der Nebenfluss",
+        "fr": "l'affluent",
+        "it": "l'affluente",
+        "es": "el afluente"
+      },
+      "sentences": [
+        {
+          "en": "The Inn is a [tributary] of the Danube.",
+          "tr": "Inn, Tuna'nın bir koludur.",
+          "de": "Der Inn ist ein Nebenfluss der Donau.",
+          "fr": "L'Inn est un affluent du Danube.",
+          "it": "L'Inn è un affluente del Danubio.",
+          "es": "El Eno es un afluente del Danubio."
+        },
+        {
+          "en": "Many small [tributaries] feed this great river.",
+          "tr": "Pek çok küçük kol bu büyük nehri besler.",
+          "de": "Viele kleine Nebenflüsse speisen diesen großen Fluss.",
+          "fr": "De nombreux petits affluents alimentent ce grand fleuve.",
+          "it": "Molti piccoli affluenti alimentano questo grande fiume.",
+          "es": "Muchos pequeños afluentes alimentan este gran río."
+        }
+      ]
+    },
+    {
+      "id": "contribute",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "con-",
+        "tribute"
+      ],
+      "gloss": {
+        "en": "to give money, time or ideas together with others; to help cause something (literally: to give together)",
+        "tr": "katkıda bulunmak, katkı sağlamak; yol açmak",
+        "de": "beitragen, beisteuern",
+        "fr": "contribuer",
+        "it": "contribuire",
+        "es": "contribuir, aportar"
+      },
+      "sentences": [
+        {
+          "en": "Everyone [contributed] ten euros for her present.",
+          "tr": "Hediyesi için herkes on avro katkıda bulundu.",
+          "de": "Jeder steuerte zehn Euro für ihr Geschenk bei.",
+          "fr": "Chacun a donné dix euros pour son cadeau.",
+          "it": "Ognuno ha contribuito con dieci euro al suo regalo.",
+          "es": "Cada uno aportó diez euros para su regalo."
+        },
+        {
+          "en": "Stress can [contribute] to poor sleep.",
+          "tr": "Stres uykunun bozulmasına yol açabilir.",
+          "de": "Stress kann zu schlechtem Schlaf beitragen.",
+          "fr": "Le stress peut contribuer à un mauvais sommeil.",
+          "it": "Lo stress può contribuire a dormire male.",
+          "es": "El estrés puede contribuir a dormir mal."
+        }
+      ]
+    },
+    {
+      "id": "contribution",
+      "pos": "noun",
+      "parent": "contribute",
+      "parts": [
+        "con-",
+        "tribut",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "something you give or do to help a shared result",
+        "tr": "katkı, bağış",
+        "de": "der Beitrag, die Spende",
+        "fr": "la contribution",
+        "it": "il contributo",
+        "es": "la contribución, la aportación"
+      },
+      "sentences": [
+        {
+          "en": "Thank you for your [contribution] to the project.",
+          "tr": "Projeye katkın için teşekkürler.",
+          "de": "Danke für deinen Beitrag zum Projekt.",
+          "fr": "Merci pour ta contribution au projet.",
+          "it": "Grazie per il tuo contributo al progetto.",
+          "es": "Gracias por tu aportación al proyecto."
+        },
+        {
+          "en": "The charity depends on small [contributions].",
+          "tr": "Yardım kuruluşu küçük bağışlara dayanıyor.",
+          "de": "Die Hilfsorganisation ist auf kleine Spenden angewiesen.",
+          "fr": "L'association dépend de petits dons.",
+          "it": "L'associazione benefica dipende da piccole donazioni.",
+          "es": "La organización benéfica depende de pequeñas donaciones."
+        }
+      ]
+    },
+    {
+      "id": "contributor",
+      "pos": "noun",
+      "parent": "contribute",
+      "parts": [
+        "con-",
+        "tribut",
+        "-or"
+      ],
+      "gloss": {
+        "en": "a person or thing that gives or helps to cause something; a writer for a magazine or website",
+        "tr": "katkıda bulunan; (dergi vb.) yazar",
+        "de": "der Mitwirkende; der Autor (einer Zeitschrift)",
+        "fr": "le contributeur, le collaborateur",
+        "it": "il collaboratore, il contributore",
+        "es": "el colaborador; el causante"
+      },
+      "sentences": [
+        {
+          "en": "Cars are a major [contributor] to air pollution.",
+          "tr": "Arabalar hava kirliliğinin başlıca nedenlerinden biri.",
+          "de": "Autos tragen stark zur Luftverschmutzung bei.",
+          "fr": "Les voitures sont une source majeure de pollution de l'air.",
+          "it": "Le auto contribuiscono molto all'inquinamento dell'aria.",
+          "es": "Los coches son una de las principales causas de la contaminación del aire."
+        },
+        {
+          "en": "She is a regular [contributor] to the school magazine.",
+          "tr": "Okul dergisine düzenli olarak yazıyor.",
+          "de": "Sie schreibt regelmäßig für die Schülerzeitung.",
+          "fr": "Elle écrit régulièrement pour le journal de l'école.",
+          "it": "Scrive regolarmente per il giornalino della scuola.",
+          "es": "Colabora con regularidad en la revista del colegio."
+        }
+      ]
+    },
+    {
+      "id": "contributing",
+      "pos": "adjective",
+      "parent": "contribute",
+      "parts": [
+        "con-",
+        "tribut",
+        "-ing"
+      ],
+      "gloss": {
+        "en": "helping to cause something, together with other things",
+        "tr": "etken olan, katkıda bulunan",
+        "de": "mitverursachend, beitragend",
+        "fr": "qui contribue, contributif",
+        "it": "che contribuisce, concorrente",
+        "es": "que contribuye, contribuyente"
+      },
+      "sentences": [
+        {
+          "en": "Bad weather was a [contributing] factor in the crash.",
+          "tr": "Kötü hava kazada etken olan unsurlardan biriydi.",
+          "de": "Schlechtes Wetter war ein Faktor, der zum Unfall beitrug.",
+          "fr": "Le mauvais temps a été un facteur qui a contribué à l'accident.",
+          "it": "Il maltempo è stato un fattore che ha contribuito all'incidente.",
+          "es": "El mal tiempo fue un factor que contribuyó al accidente."
+        },
+        {
+          "en": "Lack of sleep is a [contributing] cause of stress.",
+          "tr": "Uykusuzluk stresi artıran nedenlerden biridir.",
+          "de": "Schlafmangel ist eine der Ursachen für Stress.",
+          "fr": "Le manque de sommeil est l'une des causes du stress.",
+          "it": "La mancanza di sonno è una delle cause dello stress.",
+          "es": "La falta de sueño es una de las causas del estrés."
+        }
+      ]
+    },
+    {
+      "id": "distribute",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "dis-",
+        "tribute"
+      ],
+      "gloss": {
+        "en": "to give things out to many people or places (literally: to give apart)",
+        "tr": "dağıtmak",
+        "de": "verteilen, vertreiben",
+        "fr": "distribuer",
+        "it": "distribuire",
+        "es": "distribuir, repartir"
+      },
+      "sentences": [
+        {
+          "en": "The teacher [distributed] the tests to the class.",
+          "tr": "Öğretmen sınav kâğıtlarını sınıfa dağıttı.",
+          "de": "Der Lehrer verteilte die Tests an die Klasse.",
+          "fr": "Le professeur a distribué les sujets d'examen à la classe.",
+          "it": "L'insegnante ha distribuito i compiti alla classe.",
+          "es": "El profesor repartió los exámenes a la clase."
+        },
+        {
+          "en": "Volunteers [distribute] food to families in need.",
+          "tr": "Gönüllüler ihtiyaç sahibi ailelere yiyecek dağıtıyor.",
+          "de": "Freiwillige verteilen Lebensmittel an bedürftige Familien.",
+          "fr": "Des bénévoles distribuent de la nourriture aux familles dans le besoin.",
+          "it": "I volontari distribuiscono cibo alle famiglie bisognose.",
+          "es": "Los voluntarios reparten comida a familias necesitadas."
+        }
+      ]
+    },
+    {
+      "id": "distribution",
+      "pos": "noun",
+      "parent": "distribute",
+      "parts": [
+        "dis-",
+        "tribut",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "the giving out of something; the way something is spread over an area or group",
+        "tr": "dağıtım; dağılım",
+        "de": "die Verteilung, der Vertrieb",
+        "fr": "la distribution, la répartition",
+        "it": "la distribuzione",
+        "es": "la distribución, el reparto"
+      },
+      "sentences": [
+        {
+          "en": "The [distribution] of aid began after the flood.",
+          "tr": "Selden sonra yardım dağıtımı başladı.",
+          "de": "Nach der Flut begann die Verteilung der Hilfsgüter.",
+          "fr": "La distribution de l'aide a commencé après l'inondation.",
+          "it": "La distribuzione degli aiuti è iniziata dopo l'alluvione.",
+          "es": "El reparto de ayuda comenzó después de la inundación."
+        },
+        {
+          "en": "The [distribution] of wealth is very unequal.",
+          "tr": "Servetin dağılımı çok eşitsiz.",
+          "de": "Die Verteilung des Vermögens ist sehr ungleich.",
+          "fr": "La répartition des richesses est très inégale.",
+          "it": "La distribuzione della ricchezza è molto disuguale.",
+          "es": "La distribución de la riqueza es muy desigual."
+        }
+      ]
+    },
+    {
+      "id": "distributor",
+      "pos": "noun",
+      "parent": "distribute",
+      "parts": [
+        "dis-",
+        "tribut",
+        "-or"
+      ],
+      "gloss": {
+        "en": "a company that supplies goods to shops",
+        "tr": "distribütör, dağıtıcı firma",
+        "de": "der Großhändler, der Vertriebspartner",
+        "fr": "le distributeur",
+        "it": "il distributore",
+        "es": "el distribuidor"
+      },
+      "sentences": [
+        {
+          "en": "The [distributor] delivers the books to every shop.",
+          "tr": "Distribütör kitapları her dükkâna teslim ediyor.",
+          "de": "Der Großhändler liefert die Bücher an jeden Laden.",
+          "fr": "Le distributeur livre les livres à chaque magasin.",
+          "it": "Il distributore consegna i libri a ogni negozio.",
+          "es": "El distribuidor entrega los libros en cada tienda."
+        },
+        {
+          "en": "He works for a large film [distributor].",
+          "tr": "Büyük bir film dağıtım şirketinde çalışıyor.",
+          "de": "Er arbeitet für einen großen Filmverleih.",
+          "fr": "Il travaille pour un grand distributeur de films.",
+          "it": "Lavora per un grande distributore cinematografico.",
+          "es": "Trabaja para una gran distribuidora de cine."
+        }
+      ]
+    },
+    {
+      "id": "redistribute",
+      "pos": "verb",
+      "parent": "distribute",
+      "parts": [
+        "re-",
+        "dis-",
+        "tribute"
+      ],
+      "gloss": {
+        "en": "to share something out again in a different way",
+        "tr": "yeniden dağıtmak",
+        "de": "umverteilen, neu verteilen",
+        "fr": "redistribuer",
+        "it": "ridistribuire",
+        "es": "redistribuir"
+      },
+      "sentences": [
+        {
+          "en": "The manager [redistributed] the work after two people left.",
+          "tr": "İki kişi ayrılınca müdür işleri yeniden dağıttı.",
+          "de": "Nachdem zwei Leute gegangen waren, verteilte der Chef die Arbeit neu.",
+          "fr": "Le responsable a redistribué le travail après le départ de deux personnes.",
+          "it": "Il responsabile ha ridistribuito il lavoro dopo che due persone se ne sono andate.",
+          "es": "El jefe redistribuyó el trabajo cuando se fueron dos personas."
+        },
+        {
+          "en": "Taxes help [redistribute] money from rich to poor.",
+          "tr": "Vergiler parayı zenginden yoksula yeniden dağıtmaya yardımcı olur.",
+          "de": "Steuern helfen, Geld von Reichen zu Armen umzuverteilen.",
+          "fr": "Les impôts aident à redistribuer l'argent des riches vers les pauvres.",
+          "it": "Le tasse aiutano a ridistribuire il denaro dai ricchi ai poveri.",
+          "es": "Los impuestos ayudan a redistribuir el dinero de los ricos a los pobres."
+        }
+      ]
+    },
+    {
+      "id": "redistribution",
+      "pos": "noun",
+      "parent": "redistribute",
+      "parts": [
+        "re-",
+        "dis-",
+        "tribut",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "sharing something out again, especially wealth or land",
+        "tr": "yeniden dağıtım",
+        "de": "die Umverteilung",
+        "fr": "la redistribution",
+        "it": "la ridistribuzione",
+        "es": "la redistribución"
+      },
+      "sentences": [
+        {
+          "en": "The party wants more [redistribution] of wealth.",
+          "tr": "Parti servetin daha fazla yeniden dağıtılmasını istiyor.",
+          "de": "Die Partei will mehr Umverteilung des Vermögens.",
+          "fr": "Le parti veut davantage de redistribution des richesses.",
+          "it": "Il partito vuole una maggiore ridistribuzione della ricchezza.",
+          "es": "El partido quiere más redistribución de la riqueza."
+        },
+        {
+          "en": "Land [redistribution] gave farmers their own fields.",
+          "tr": "Toprakların yeniden dağıtımı çiftçilere kendi tarlalarını verdi.",
+          "de": "Die Umverteilung des Landes gab den Bauern eigene Felder.",
+          "fr": "La redistribution des terres a donné aux paysans leurs propres champs.",
+          "it": "La ridistribuzione delle terre ha dato ai contadini i propri campi.",
+          "es": "La redistribución de tierras dio a los campesinos sus propios campos."
+        }
+      ]
+    },
+    {
+      "id": "attribute",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "at-",
+        "tribute"
+      ],
+      "gloss": {
+        "en": "to say that something is caused by or belongs to someone or something; also a noun (stress on 'at'): a quality (literally: to give to)",
+        "tr": "atfetmek, (bir şeye) bağlamak; (isim) özellik, nitelik",
+        "de": "zuschreiben; (Nomen) die Eigenschaft, das Merkmal",
+        "fr": "attribuer ; (nom) l'attribut, la qualité",
+        "it": "attribuire; (nome) l'attributo, la qualità",
+        "es": "atribuir; (sustantivo) el atributo, la cualidad"
+      },
+      "sentences": [
+        {
+          "en": "She [attributes] her success to hard work.",
+          "tr": "Başarısını sıkı çalışmaya bağlıyor.",
+          "de": "Sie schreibt ihren Erfolg harter Arbeit zu.",
+          "fr": "Elle attribue son succès à son travail acharné.",
+          "it": "Attribuisce il suo successo al duro lavoro.",
+          "es": "Atribuye su éxito al trabajo duro."
+        },
+        {
+          "en": "This painting is [attributed] to a student of Rembrandt.",
+          "tr": "Bu tablonun Rembrandt'ın bir öğrencisine ait olduğu düşünülüyor.",
+          "de": "Dieses Gemälde wird einem Schüler Rembrandts zugeschrieben.",
+          "fr": "Ce tableau est attribué à un élève de Rembrandt.",
+          "it": "Questo dipinto è attribuito a un allievo di Rembrandt.",
+          "es": "Este cuadro se atribuye a un alumno de Rembrandt."
+        },
+        {
+          "en": "Patience is an important [attribute] for a teacher.",
+          "tr": "Sabır bir öğretmen için önemli bir özelliktir.",
+          "de": "Geduld ist eine wichtige Eigenschaft für einen Lehrer.",
+          "fr": "La patience est une qualité importante pour un enseignant.",
+          "it": "La pazienza è una qualità importante per un insegnante.",
+          "es": "La paciencia es una cualidad importante para un profesor."
+        }
+      ]
+    },
+    {
+      "id": "attribution",
+      "pos": "noun",
+      "parent": "attribute",
+      "parts": [
+        "at-",
+        "tribut",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "saying who made something or what caused it; naming the source",
+        "tr": "atıf, kaynak gösterme; (birine) atfedilme",
+        "de": "die Zuschreibung; die Quellenangabe",
+        "fr": "l'attribution ; la mention de la source",
+        "it": "l'attribuzione; l'indicazione della fonte",
+        "es": "la atribución; la mención de la fuente"
+      },
+      "sentences": [
+        {
+          "en": "You can use the photo with [attribution] to the photographer.",
+          "tr": "Fotoğrafı fotoğrafçıya atıf yaparak kullanabilirsin.",
+          "de": "Du darfst das Foto mit Nennung des Fotografen verwenden.",
+          "fr": "Tu peux utiliser la photo en citant le photographe.",
+          "it": "Puoi usare la foto citando il fotografo.",
+          "es": "Puedes usar la foto citando al fotógrafo."
+        },
+        {
+          "en": "Experts question the [attribution] of the poem to Homer.",
+          "tr": "Uzmanlar şiirin Homeros'a ait olduğu görüşünü sorguluyor.",
+          "de": "Experten bezweifeln, dass das Gedicht von Homer stammt.",
+          "fr": "Les experts contestent l'attribution du poème à Homère.",
+          "it": "Gli esperti mettono in dubbio l'attribuzione del poema a Omero.",
+          "es": "Los expertos cuestionan la atribución del poema a Homero."
+        }
+      ]
+    },
+    {
+      "id": "retribution",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "re-",
+        "tribut",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "punishment given to someone for a wrong they did (literally: a paying back)",
+        "tr": "karşılık, misilleme, ceza",
+        "de": "die Vergeltung",
+        "fr": "le châtiment, les représailles",
+        "it": "la punizione, la ritorsione",
+        "es": "el castigo, la represalia"
+      },
+      "sentences": [
+        {
+          "en": "He feared [retribution] for telling the truth.",
+          "tr": "Gerçeği söylediği için misillemeden korkuyordu.",
+          "de": "Er fürchtete Vergeltung, weil er die Wahrheit gesagt hatte.",
+          "fr": "Il craignait des représailles pour avoir dit la vérité.",
+          "it": "Temeva ritorsioni per aver detto la verità.",
+          "es": "Temía represalias por haber dicho la verdad."
+        },
+        {
+          "en": "The victims' families want justice, not [retribution].",
+          "tr": "Kurbanların aileleri intikam değil adalet istiyor.",
+          "de": "Die Familien der Opfer wollen Gerechtigkeit, keine Vergeltung.",
+          "fr": "Les familles des victimes veulent la justice, pas la vengeance.",
+          "it": "Le famiglie delle vittime vogliono giustizia, non vendetta.",
+          "es": "Las familias de las víctimas quieren justicia, no venganza."
+        }
+      ]
+    }
+  ]
+}

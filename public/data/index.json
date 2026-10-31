@@ -2229,6 +2229,38 @@
     ]
   },
   {
+    "id": "trib",
+    "forms": [
+      "tribute",
+      "tribut"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to give, to assign, to share out (tributum: a tax paid)",
+      "tr": "vermek, pay etmek, paylaştırmak (tributum: ödenen vergi)",
+      "de": "zuteilen, geben, verteilen (tributum: die Abgabe)",
+      "fr": "attribuer, donner, répartir (tributum : l'impôt payé)",
+      "it": "attribuire, dare, distribuire (tributum: il tributo pagato)",
+      "es": "asignar, dar, repartir (tributum: el impuesto pagado)"
+    },
+    "words": [
+      "tribute",
+      "tributary",
+      "contribute",
+      "contribution",
+      "contributor",
+      "contributing",
+      "distribute",
+      "distribution",
+      "distributor",
+      "redistribute",
+      "redistribution",
+      "attribute",
+      "attribution",
+      "retribution"
+    ]
+  },
+  {
     "id": "ven",
     "forms": [
       "ven",
