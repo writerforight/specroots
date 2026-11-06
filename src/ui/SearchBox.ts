@@ -1,9 +1,9 @@
 import type { I18n } from '../i18n/I18n';
 import type { SearchHit, SearchIndex } from '../services/SearchIndex';
 import { clear, h } from './dom';
-import { affixHref, objectHref, rootHref } from './routes';
+import { affixHref, rootHref } from './routes';
 
-/** Type a root, a word, an affix or an object (in any language) and jump to it. Enter opens the first hit. */
+/** Type a root, a word or an affix and jump to it. Enter opens the first hit. */
 export class SearchBox {
   readonly el: HTMLElement;
   private readonly input: HTMLInputElement;
@@ -53,13 +53,11 @@ export class SearchBox {
 
   private href(hit: SearchHit): string {
     if (hit.affix) return affixHref(hit.affix.id);
-    if (hit.objectId) return objectHref(hit.objectId);
     return hit.rootId ? rootHref(hit.rootId, hit.wordId) : '#/';
   }
 
   /** Roots say "root"; affixes show their meaning, which also tells homographs (in- into, in- not) apart. */
   private tag(hit: SearchHit): HTMLElement | null {
-    if (hit.objectId) return h('span', { class: 'hit-kind' }, hit.matched ?? this.i18n.t('part_object'));
     if (hit.affix) return h('span', { class: 'hit-kind' }, hit.affix.meaning[this.i18n.language] ?? hit.affix.meaning.en ?? '');
     return hit.wordId ? null : h('span', { class: 'hit-kind' }, this.i18n.t('part_root'));
   }

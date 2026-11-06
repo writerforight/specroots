@@ -97,7 +97,7 @@ button, input, select { font: inherit; color: inherit; }
 @media (max-width: 760px) {
   .layout { grid-template-columns: minmax(0, 1fr); }
   .root-list { position: static; height: auto; border-right: 0; }
-  body[data-view='root'] .root-list, body[data-view='affix'] .root-list, body[data-view='object'] .root-list { display: none; }
+  body[data-view='root'] .root-list, body[data-view='affix'] .root-list { display: none; }
   body[data-view='home'] .root-detail { display: none; }
   .root-detail { padding: 16px 16px 48px; }
   .back-link { display: inline-block; margin-bottom: 12px; color: var(--accent); text-decoration: none; }
@@ -105,10 +105,8 @@ button, input, select { font: inherit; color: inherit; }
 }
 
 /* ---------- side list: roots, prefixes or suffixes ---------- */
-/* Four modes: a 2×2 grid, so long names (Ön ekler, Gegenstände…) never overflow the 300 px list. */
-.segmented.browse-switch { display: grid; grid-template-columns: 1fr 1fr; gap: 2px; margin: 0 4px 4px; border-radius: 14px; }
-.segmented.browse-switch button { min-width: 0; padding: 4px 6px; font-size: 0.88rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-.list-count { margin: 12px 10px 0; font-size: 0.8rem; color: var(--text-muted); }
+.browse-switch { display: flex; margin: 0 4px 4px; }
+.browse-switch button { flex: 1; padding: 4px 6px; font-size: 0.9rem; white-space: nowrap; }
 .list-section-title { margin: 28px 8px 0; padding-top: 16px; border-top: 1px solid var(--border); font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--text-muted); }
 .letter { margin: 16px 8px 4px; font-family: var(--font-text); font-size: 1.1rem; color: var(--accent); }
 .letter-group ul { margin: 0; padding: 0; list-style: none; }
@@ -267,21 +265,3 @@ mark { background: var(--mark); color: inherit; padding: 0 2px; border-radius: 3
 /* Plain-HTML fallback in index.html, visible only until the app starts (or without JavaScript). */
 .static-intro { max-width: 760px; margin: 0 auto; padding: 32px 16px; font-family: var(--font-text); }
 .static-intro a { color: var(--accent); }
-
-/* ---------- everyday objects ---------- */
-.object-name { font-weight: 600; }
-.object-head .root-title { display: flex; align-items: center; gap: 8px; }
-.object-body { display: grid; grid-template-columns: minmax(0, 260px) minmax(0, 1fr); gap: 24px; align-items: start; }
-.object-photo { margin: 0; }
-.object-photo img { display: block; width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: var(--radius); background: var(--surface-2); }
-.object-photo figcaption { margin-top: 6px; font-size: 0.75rem; color: var(--text-muted); }
-.object-glosses { margin-top: 0; font-family: var(--font-text); font-size: 1.25rem; align-items: center; }
-.object-glosses dd { display: flex; align-items: center; gap: 4px; }
-.object-others { padding-top: 8px; border-top: 1px dashed var(--border); font-size: 1rem; color: var(--text-muted); }
-.object-origin .group-title { margin-top: 20px; }
-.object-origin p { margin: 4px 0; }
-.object-root-link { color: var(--accent); }
-@media (max-width: 760px) {
-  .object-body { grid-template-columns: minmax(0, 1fr); }
-  .object-photo { max-width: 320px; }
-}

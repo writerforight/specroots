@@ -1,5 +1,0 @@
-{
-  "bathroom": { "en": "bathroom", "tr": "banyo", "de": "Badezimmer", "fr": "salle de bain", "it": "bagno", "es": "baño" },
-  "classroom": { "en": "classroom", "tr": "sınıf", "de": "Klassenzimmer", "fr": "salle de classe", "it": "aula", "es": "aula" },
-  "kitchen": { "en": "kitchen", "tr": "mutfak", "de": "Küche", "fr": "cuisine", "it": "cucina", "es": "cocina" }
-}

@@ -12,10 +12,6 @@ export function rootFiles(): string[] {
   return readdirSync(join(DATA_DIR, 'roots')).filter((f) => f.endsWith('.json'));
 }
 
-export function objectFiles(): string[] {
-  return readdirSync(join(DATA_DIR, 'objects')).filter((f) => f.endsWith('.json'));
-}
-
 /** The real repository, reading the real files from disk instead of over HTTP. */
 export function diskRepository(): JsonLexiconRepository {
   return new JsonLexiconRepository(async (path) => readJson(path.replace(/^data\//, '')));

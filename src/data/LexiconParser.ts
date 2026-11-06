@@ -1,6 +1,5 @@
 import { Affix, type AffixIndex, type AffixKind, type AffixOccurrence } from '../domain/Affix';
-import { EverydayObject, type CommonsImage, type ObjectSummary, type Place } from '../domain/EverydayObject';
-import { isLang, TRANSLATION_LANGUAGES, type Localized, type TranslationLang } from '../domain/Language';
+import { isLang, type Localized } from '../domain/Language';
 import { Morpheme } from '../domain/Morpheme';
 import { Root, type Origin, type RootSummary } from '../domain/Root';
 import { Sentence } from '../domain/Sentence';
@@ -98,48 +97,6 @@ export class LexiconParser {
         words: this.strings(obj.words, `${where} › words`),
       };
     });
-  }
-
-  parsePlaces(raw: unknown): Map<string, Place> {
-    const obj = this.object(raw, 'places.json');
-    return new Map(Object.entries(obj).map(([id, name]) => [id, { id, name: this.localized(name, `places.json › ${id}`) }]));
-  }
-
-  parseObjectIndex(raw: unknown, places: ReadonlyMap<string, Place>): ObjectSummary[] {
-    return this.array(raw, 'objects-index.json').map((value, i) => this.objectSummary(value, `objects-index.json[${i}]`, places));
-  }
-
-  parseObject(raw: unknown, places: ReadonlyMap<string, Place>): EverydayObject {
-    const { id, name, place, names } = this.objectSummary(raw, 'object', places);
-    const obj = this.object(raw, 'object');
-    const where = `objects/${id}.json`;
-    const root = obj.root === null || obj.root === undefined ? null : this.string(obj.root, `${where} › root`);
-    let image: CommonsImage | null = null;
-    if (obj.image !== null && obj.image !== undefined) {
-      const img = this.object(obj.image, `${where} › image`);
-      const wikidata = this.string(img.wikidata, `${where} › image › wikidata`);
-      if (!/^Q\d+$/.test(wikidata)) throw new LexiconError(`${where} › image`, `"${wikidata}" is not a Wikidata id like "Q183670"`);
-      image = { file: this.string(img.file, `${where} › image › file`), wikidata };
-    }
-    return new EverydayObject(id, name, place, names, this.localized(obj.definition, `${where} › definition`), this.string(obj.origin, `${where} › origin`), root, image);
-  }
-
-  /** Fields shared by an object file and its index entry. */
-  private objectSummary(raw: unknown, where: string, places: ReadonlyMap<string, Place>): ObjectSummary {
-    const obj = this.object(raw, where);
-    const id = this.string(obj.id, `${where} › id`);
-    const here = `${where} (${id})`;
-    const name = this.string(obj.name, `${here} › name`);
-    if (id !== name.replace(/ /g, '-')) throw new LexiconError(here, `id must be the name with dashes for spaces ("${name.replace(/ /g, '-')}")`);
-    const place = this.string(obj.place, `${here} › place`);
-    if (!places.has(place)) throw new LexiconError(here, `place "${place}" is not in places.json`);
-    const rawNames = this.object(obj.names, `${here} › names`);
-    const names = {} as Record<TranslationLang, string>;
-    for (const lang of TRANSLATION_LANGUAGES) names[lang] = this.string(rawNames[lang], `${here} › names › ${lang}`);
-    for (const lang of Object.keys(rawNames)) {
-      if (!(TRANSLATION_LANGUAGES as readonly string[]).includes(lang)) throw new LexiconError(`${here} › names`, `unknown translation language "${lang}"`);
-    }
-    return { id, name, place, names };
   }
 
   private parseWord(raw: unknown, where: string, forms: readonly string[], affixes: ReadonlyMap<string, Affix>): Word {

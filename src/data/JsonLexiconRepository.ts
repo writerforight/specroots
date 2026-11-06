@@ -1,5 +1,4 @@
 import type { Affix, AffixIndex } from '../domain/Affix';
-import type { EverydayObject, ObjectSummary, Place } from '../domain/EverydayObject';
 import type { Root, RootSummary } from '../domain/Root';
 import { LexiconParser } from './LexiconParser';
 import type { LexiconRepository } from './LexiconRepository';
@@ -8,8 +7,7 @@ export type Fetcher = (path: string) => Promise<unknown>;
 
 /**
  * Reads public/data: index.json for the list, one file per root loaded when it is opened, and
- * affix-index.json only once the learner browses by prefix or suffix. Objects work the same way:
- * objects-index.json for the list and search, one file per object when it is opened.
+ * affix-index.json only once the learner browses by prefix or suffix.
  */
 export class JsonLexiconRepository implements LexiconRepository {
   private readonly parser = new LexiconParser();
@@ -17,9 +15,6 @@ export class JsonLexiconRepository implements LexiconRepository {
   private affixes: Promise<ReadonlyMap<string, Affix>> | null = null;
   private affixIndex: Promise<AffixIndex> | null = null;
   private readonly roots = new Map<string, Promise<Root>>();
-  private places: Promise<ReadonlyMap<string, Place>> | null = null;
-  private objectIndex: Promise<ObjectSummary[]> | null = null;
-  private readonly objects = new Map<string, Promise<EverydayObject>>();
 
   constructor(private readonly fetchJson: Fetcher) {}
 
@@ -64,31 +59,5 @@ export class JsonLexiconRepository implements LexiconRepository {
       this.roots.set(id, root);
     }
     return root;
-  }
-
-  getPlaces(): Promise<ReadonlyMap<string, Place>> {
-    this.places ??= this.fetchJson('data/places.json').then((raw) => this.parser.parsePlaces(raw));
-    this.places.catch(() => (this.places = null));
-    return this.places;
-  }
-
-  listObjects(): Promise<ObjectSummary[]> {
-    this.objectIndex ??= Promise.all([this.fetchJson('data/objects-index.json'), this.getPlaces()]).then(([raw, places]) =>
-      this.parser.parseObjectIndex(raw, places).sort((a, b) => a.name.localeCompare(b.name)),
-    );
-    this.objectIndex.catch(() => (this.objectIndex = null));
-    return this.objectIndex;
-  }
-
-  getObject(id: string): Promise<EverydayObject> {
-    let object = this.objects.get(id);
-    if (!object) {
-      object = Promise.all([this.fetchJson(`data/objects/${encodeURIComponent(id)}.json`), this.getPlaces()]).then(([raw, places]) =>
-        this.parser.parseObject(raw, places),
-      );
-      object.catch(() => this.objects.delete(id));
-      this.objects.set(id, object);
-    }
-    return object;
   }
 }

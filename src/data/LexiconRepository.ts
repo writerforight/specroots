@@ -1,5 +1,4 @@
 import type { Affix, AffixIndex } from '../domain/Affix';
-import type { EverydayObject, ObjectSummary, Place } from '../domain/EverydayObject';
 import type { Root, RootSummary } from '../domain/Root';
 
 /**
@@ -13,8 +12,4 @@ export interface LexiconRepository {
   getAffixes(): Promise<ReadonlyMap<string, Affix>>;
   /** Which words of which roots carry each affix, for browsing by prefix or suffix. */
   getAffixIndex(): Promise<AffixIndex>;
-  /** Every everyday object, sorted alphabetically by its English name. */
-  listObjects(): Promise<ObjectSummary[]>;
-  getObject(id: string): Promise<EverydayObject>;
-  getPlaces(): Promise<ReadonlyMap<string, Place>>;
 }

@@ -1,14 +1,12 @@
 import type { Affix } from '../domain/Affix';
-import type { EverydayObject, Place } from '../domain/EverydayObject';
 import type { Root } from '../domain/Root';
 import { AffixFamilyView, type AffixGroup } from './AffixFamilyView';
 import type { DerivationViewKind } from '../services/SettingsStore';
 import { clear, h } from './dom';
 import { DERIVATION_VIEWS } from './derivations';
-import { ObjectCardView } from './ObjectCardView';
 import type { ViewContext } from './ViewContext';
 
-/** The right-hand pane: one root with its word family, one affix with the words built with it, or one object. */
+/** The right-hand pane: one root with its word family, or one affix with the words built with it. */
 export class RootDetailView {
   readonly el = h('main', { class: 'root-detail', tabindex: '-1' });
 
@@ -16,20 +14,13 @@ export class RootDetailView {
 
   showEmpty(ctx: ViewContext): void {
     clear(this.el);
-    const mode = ctx.settings.browseMode;
-    this.el.append(h('p', { class: 'empty-state' }, ctx.i18n.t(mode === 'root' ? 'chooseRoot' : mode === 'object' ? 'chooseObject' : 'chooseAffix')));
+    this.el.append(h('p', { class: 'empty-state' }, ctx.i18n.t(ctx.settings.browseMode === 'root' ? 'chooseRoot' : 'chooseAffix')));
   }
 
   showAffix(affix: Affix, groups: readonly AffixGroup[], ctx: ViewContext): void {
     clear(this.el);
     this.el.append(h('a', { class: 'back-link', href: '#/' }, `← ${ctx.i18n.t('back')}`), ...new AffixFamilyView(ctx).render(affix, groups));
     // Arriving from a word card deep in a root page: start the new page at its top.
-    window.scrollTo?.({ top: 0 });
-  }
-
-  showObject(object: EverydayObject, place: Place | undefined, ctx: ViewContext): void {
-    clear(this.el);
-    this.el.append(h('a', { class: 'back-link', href: '#/' }, `← ${ctx.i18n.t('back')}`), ...new ObjectCardView(ctx).render(object, place));
     window.scrollTo?.({ top: 0 });
   }
 

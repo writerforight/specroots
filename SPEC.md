@@ -34,9 +34,7 @@ seçilen dillerdeki karşılığı ve öğretici örnek cümleleri bir arada gö
     tentacle; 2026-10-30); 54. kök `act` (agere, yapmak: act, actually, active, react, exact, agent; 2026-10-30;
     `fac` = facere yapmak ile karıştırılmasın); 55. kök `nect` (nectere, bağlamak: connect, connection, annex,
     nexus; 2026-10-30); 56. kök `trib` (tribuere, vermek: tribute, contribute, distribute, attribute;
-    2026-10-31); 57. kök `prehend` (prehendere, kavramak, yakalamak; Fransızca prendre/pris üzerinden de:
-    comprehend, apprehend, comprise, enterprise, entrepreneur, surprise; 2026-11-06; `cap` = capere almak ile
-    karıştırılmasın). Yeni kök sınırsız açılmaz; her biri kullanıcı onayıyla eklenir.
+    2026-10-31). Yeni kök sınırsız açılmaz; her biri kullanıcı onayıyla eklenir.
 12. **Mimari:** nesne yönelimli, katmanlı (aşağıda). Görünüm ve tema veri ve mantıktan bağımsız
     değiştirilebilir olmalı.
 13. **Bulunabilirlik (2026-10-18):** yalnızca ana sayfa için: açıklama, Open Graph görseli (`public/og.png`),
@@ -71,12 +69,6 @@ src/styles/    tokens.css (renkler, yazı tipleri, ölçüler) + app.css (yalnı
   ve kökün yazımlarından (`forms`) oluşur; birleşince kelimeyi tam olarak hecelemelidir.
   Örnek cümlede hedef kelime `[köşeli parantez]` içinde yazılır (tam bir tane).
 - `public/data/index.json`: alfabetik liste ve arama için özet; `npm run data` üretir, elle düzenlenmez.
-- `public/data/objects/<id>.json`: bir gündelik nesne. `id` = İngilizce ad, boşluk yerine tire
-  (`paper-clip`); `name` İngilizce ad; `place` `places.json`'da olmalı; `names` beş çeviri dilinde
-  (isimler artikelle: `die Kreide`, `la craie`); `definition` 6 dilde kısa tanım; `origin` tek satır
-  köken (`Old English ċealc ← Latin calx (limestone)`); `root` bir kök kimliği ya da `null`;
-  `image` `{ "file": Commons dosya adı, "wikidata": "Q…" }` ya da `null`.
-- `public/data/objects-index.json`: nesne listesi ve arama için özet; `npm run data` üretir.
 - `public/data/affix-index.json`: her ek → onu taşıyan kökler ve kelimeler (eklerle gezinme için).
   `npm run data` üretir, elle düzenlenmez; yalnızca ön ek / son ek modunda yüklenir.
 - Aynı yazılışlı farklı ekler ayrı kimlik alır ve yazılışlarını `form` ile söyler:
@@ -101,22 +93,6 @@ src/styles/    tokens.css (renkler, yazı tipleri, ölçüler) + app.css (yalnı
 - **D2 50 kök (bitti, 2026-10-19):** 50 kök (40 Latince, 10 Yunanca), 949 kelime. Veri hattı (D1)
   olmadan `docs/grow-loop.md` döngüsüyle elle yazıldı ve kontrol edildi. 20 kelimeye ulaşamayan
   kökler uydurma kelimeyle doldurulmadı; listesi `docs/notes.md`'de.
-- **D5 Gündelik nesneler (kullanıcı isteği, 2026-11-06; ilk tur bitti):** öğrenme planının 2. parçası
-  (1. kökler+ekler, 2. gündelik nesne adları, 3. dil bilgisi, 4. deyimler). Kökün tahmin ettiremediği adlar:
-  tebeşir, kevgir, oklava. Sol listede dördüncü mod **Nesneler** (Kökler · Ön ekler · Son ekler · Nesneler,
-  2×2 düğme); İngilizce adına göre A–Z, yanında ilk seçili dildeki adı. Nesne sayfası `#/object/<id>`:
-  fotoğraf, İngilizce ad + kısa tanım (arayüz dilinde), seçili dillerde adı (artikelle), kalan diller
-  soluk, her ad dinlenebilir, kelimenin geçmişi tek satır, ad bir specroots kökünden geliyorsa köke bağlantı
-  (scissors → `cid`). Arama nesneleri **her dildeki adıyla, artikelsiz** bulur ("tebeşir", "kreide").
-  Veri: `public/data/objects/<id>.json` + `places.json` (yer = büyüme turlarının konusu, kartta görünür);
-  `objects-index.json`'u `npm run data` üretir, her çalışmada bütün nesneleri yeniden okur, alfabetik sıralar
-  ve aynı adı (herhangi bir dilde) iki nesneye verilmişse uyarır. Kaynak: adlar, çeviriler ve köken
-  Wiktionary (kaikki.org, anlama göre ayrılmış çeviriler), fotoğraf Wikidata P18 → Wikimedia Commons
-  (sayfaya bağlantılı, yazar/lisans orada). Wikidata etiketleri çeviri için kullanılmaz (chalk → "tebeşir
-  taşı", "calcilutite" gibi yanlış anlamlar). Yardımcı: `node scripts/lookup-object.mjs "<ad>"` adayları
-  yazdırır, dosyayı insan/Claude seçip yazar. Büyüme: kullanıcının verdiği nesneler (herhangi bir dilde)
-  ya da `docs/objects-loop.md` ile yer yer turlar. İlk tur: 30 nesne (sınıf, mutfak, banyo).
-  Nesnelerde örnek cümle yok (sonra eklenebilir); siteden nesne ekleme yok (sunucu yok).
 - **D3 Çevrimdışı (PWA):** ana ekrana eklenebilir, internetsiz açılır.
 - **D4 Eklerle gezinme (kullanıcı isteği, 2026-10-18; bitti, 2026-10-19):** köklerin yanında ön ek ve son eklerden de
   gezinme: bir eke (ör. `re-`, `-tion`) tıklayınca o eki taşıyan bütün kelimeler, kökleriyle birlikte.
