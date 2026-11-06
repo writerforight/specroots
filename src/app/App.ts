@@ -52,7 +52,7 @@ export class App {
     this.i18n = new I18n(settings.value.uiLang);
     this.list = new RootListView(this.i18n);
     this.affixList = new AffixListView(this.i18n);
-    this.objectList = new ObjectListView(this.i18n);
+    this.objectList = new ObjectListView(this.i18n, (objectGrouping) => this.settings.update({ objectGrouping }));
     this.modeSwitch = new BrowseModeSwitch(this.i18n, (browseMode) => this.settings.update({ browseMode }));
     this.detail = new RootDetailView((kind) => this.settings.update({ derivationView: kind }));
     this.search = new SearchBox(this.i18n, (href) => (location.hash = href));
@@ -176,7 +176,8 @@ export class App {
       return;
     }
     if (mode === 'object') {
-      this.objectList.render(this.objects, this.settings.value.translationLangs[0], route.kind === 'object' ? route.objectId : null);
+      const { objectGrouping, translationLangs } = this.settings.value;
+      this.objectList.render(this.objects, this.places, objectGrouping, translationLangs[0], route.kind === 'object' ? route.objectId : null);
       this.sidebar.replaceChildren(this.modeSwitch.el, this.objectList.el);
       return;
     }

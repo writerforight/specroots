@@ -3,6 +3,8 @@ import type { KeyValueStore } from './KeyValueStore';
 
 export type ThemeChoice = 'system' | 'light' | 'dark';
 export type DerivationViewKind = 'list' | 'tree';
+/** How the object list is ordered: grouped under the place where things are used, or one A–Z list. */
+export type ObjectGrouping = 'place' | 'alpha';
 /** What the side list shows: roots, the prefixes or suffixes words are built with, or everyday objects. */
 export type BrowseMode = 'root' | 'prefix' | 'suffix' | 'object';
 
@@ -11,6 +13,7 @@ export interface Settings {
   readonly translationLangs: readonly TranslationLang[];
   readonly theme: ThemeChoice;
   readonly derivationView: DerivationViewKind;
+  readonly objectGrouping: ObjectGrouping;
   readonly browseMode: BrowseMode;
   /** False until the learner has picked languages on the welcome screen. */
   readonly onboarded: boolean;
@@ -54,6 +57,7 @@ export class SettingsStore {
       translationLangs: isTranslationLang(uiLang) ? [uiLang] : ['tr'],
       theme: 'system',
       derivationView: 'list',
+      objectGrouping: 'place',
       browseMode: 'root',
       onboarded: false,
     };
@@ -83,6 +87,7 @@ export class SettingsStore {
       translationLangs: langs ?? defaults.translationLangs,
       theme: raw.theme === 'light' || raw.theme === 'dark' || raw.theme === 'system' ? raw.theme : defaults.theme,
       derivationView: raw.derivationView === 'tree' ? 'tree' : 'list',
+      objectGrouping: raw.objectGrouping === 'alpha' ? 'alpha' : 'place',
       browseMode: raw.browseMode === 'prefix' || raw.browseMode === 'suffix' || raw.browseMode === 'object' ? raw.browseMode : 'root',
       onboarded: raw.onboarded === true,
     };
