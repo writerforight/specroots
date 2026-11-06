@@ -52,7 +52,8 @@ describe('SearchIndex with objects', async () => {
     expect(index.search('kevgir')[0]?.objectId).toBe('colander');
   });
   it('lists an object once even when several of its names match', () => {
-    const hits = index.search('sp').filter((h) => h.objectId === 'spatula');
+    // spatula, spatule, spatola and espátula all match "spat"; the object must still appear once.
+    const hits = index.search('spat').filter((h) => h.objectId === 'spatula');
     expect(hits.length).toBe(1);
   });
   it('strips articles in all five languages', () => {

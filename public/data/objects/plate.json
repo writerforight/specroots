@@ -1,0 +1,52 @@
+{
+  "id": "plate",
+  "name": "plate",
+  "names": {
+    "tr": "tabak",
+    "de": "der Teller",
+    "fr": "l'assiette",
+    "it": "il piatto",
+    "es": "el plato"
+  },
+  "definition": {
+    "en": "a flat round dish that you eat food from",
+    "tr": "üzerinden yemek yenen yassı, yuvarlak kap",
+    "de": "ein flaches rundes Geschirrteil, von dem man isst",
+    "fr": "une pièce de vaisselle plate et ronde dans laquelle on mange",
+    "it": "un recipiente piatto e rotondo da cui si mangia",
+    "es": "un recipiente plano y redondo en el que se come"
+  },
+  "breakdown": {},
+  "origin": "Old French plate (flat) ← Greek platýs (flat, broad)",
+  "root": null,
+  "image": {
+    "file": "Unglazed plates.jpg",
+    "wikidata": "Q57216"
+  },
+  "sentences": [
+    {
+      "en": "Put the cake on a small [plate].",
+      "tr": "Pastayı küçük bir tabağa koy.",
+      "de": "Leg den Kuchen auf einen kleinen Teller.",
+      "fr": "Mets le gâteau sur une petite assiette.",
+      "it": "Metti la torta su un piattino.",
+      "es": "Pon el pastel en un plato pequeño."
+    },
+    {
+      "en": "Can you put the [plates] in the dishwasher?",
+      "tr": "Tabakları bulaşık makinesine koyabilir misin?",
+      "de": "Kannst du die Teller in die Spülmaschine stellen?",
+      "fr": "Tu peux mettre les assiettes dans le lave-vaisselle ?",
+      "it": "Puoi mettere i piatti nella lavastoviglie?",
+      "es": "¿Puedes meter los platos en el lavavajillas?"
+    },
+    {
+      "en": "I have a lot on my [plate] this week.",
+      "tr": "Bu hafta başımda çok iş var.",
+      "de": "Ich habe diese Woche viel um die Ohren.",
+      "fr": "J'ai beaucoup de pain sur la planche cette semaine.",
+      "it": "Ho molta carne al fuoco questa settimana.",
+      "es": "Tengo muchas cosas entre manos esta semana."
+    }
+  ]
+}

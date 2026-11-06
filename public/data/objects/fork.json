@@ -1,0 +1,52 @@
+{
+  "id": "fork",
+  "name": "fork",
+  "names": {
+    "tr": "çatal",
+    "de": "die Gabel",
+    "fr": "la fourchette",
+    "it": "la forchetta",
+    "es": "el tenedor"
+  },
+  "definition": {
+    "en": "a tool with a handle and two to four points, for picking up food",
+    "tr": "yiyeceği almak için iki ila dört dişli, saplı araç",
+    "de": "ein Essgerät mit Stiel und zwei bis vier Zinken, um Essen aufzunehmen",
+    "fr": "un ustensile à manche avec deux à quatre dents pour piquer les aliments",
+    "it": "un utensile con manico e da due a quattro rebbi per prendere il cibo",
+    "es": "un utensilio con mango y de dos a cuatro dientes para pinchar la comida"
+  },
+  "breakdown": {},
+  "origin": "Old English forca ← Latin furca (pitchfork)",
+  "root": null,
+  "image": {
+    "file": "Assorted forks.jpg",
+    "wikidata": "Q81881"
+  },
+  "sentences": [
+    {
+      "en": "Hold the [fork] in your left hand.",
+      "tr": "Çatalı sol elinde tut.",
+      "de": "Halte die Gabel in der linken Hand.",
+      "fr": "Tiens la fourchette dans la main gauche.",
+      "it": "Tieni la forchetta nella mano sinistra.",
+      "es": "Coge el tenedor con la mano izquierda."
+    },
+    {
+      "en": "Could I have a clean [fork], please?",
+      "tr": "Temiz bir çatal alabilir miyim lütfen?",
+      "de": "Könnte ich bitte eine saubere Gabel haben?",
+      "fr": "Je pourrais avoir une fourchette propre, s'il vous plaît ?",
+      "it": "Potrei avere una forchetta pulita, per favore?",
+      "es": "¿Me trae un tenedor limpio, por favor?"
+    },
+    {
+      "en": "At the [fork] in the road, turn left.",
+      "tr": "Yolun ikiye ayrıldığı yerde sola dön.",
+      "de": "An der Weggabelung biegst du links ab.",
+      "fr": "À la bifurcation, tourne à gauche.",
+      "it": "Al bivio, gira a sinistra.",
+      "es": "En la bifurcación, gira a la izquierda."
+    }
+  ]
+}

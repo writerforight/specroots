@@ -1,0 +1,52 @@
+{
+  "id": "onion",
+  "name": "onion",
+  "names": {
+    "tr": "soğan",
+    "de": "die Zwiebel",
+    "fr": "l'oignon",
+    "it": "la cipolla",
+    "es": "la cebolla"
+  },
+  "definition": {
+    "en": "a round vegetable with layers and a strong smell that makes you cry when you cut it",
+    "tr": "katmanlı, keskin kokulu, doğrarken ağlatan yuvarlak sebze",
+    "de": "ein rundes Gemüse aus Schichten mit starkem Geruch, das beim Schneiden die Augen tränen lässt",
+    "fr": "un légume rond, en couches, à l'odeur forte, qui fait pleurer quand on le coupe",
+    "it": "un ortaggio rotondo a strati, dall'odore forte, che fa piangere quando lo tagli",
+    "es": "una verdura redonda, en capas, de olor fuerte, que hace llorar al cortarla"
+  },
+  "breakdown": {},
+  "origin": "Anglo-French union ← Latin ūniō (oneness; a single large pearl or onion)",
+  "root": null,
+  "image": {
+    "file": "Onions.jpg",
+    "wikidata": "Q3406628"
+  },
+  "sentences": [
+    {
+      "en": "Fry the [onion] until it is soft.",
+      "tr": "Soğanı yumuşayana kadar kavur.",
+      "de": "Brate die Zwiebel an, bis sie weich ist.",
+      "fr": "Fais revenir l'oignon jusqu'à ce qu'il soit tendre.",
+      "it": "Fai soffriggere la cipolla finché è morbida.",
+      "es": "Sofríe la cebolla hasta que esté blanda."
+    },
+    {
+      "en": "Cutting [onions] always makes me cry.",
+      "tr": "Soğan doğramak beni hep ağlatır.",
+      "de": "Beim Zwiebelschneiden muss ich immer weinen.",
+      "fr": "Couper des oignons me fait toujours pleurer.",
+      "it": "Tagliare le cipolle mi fa sempre piangere.",
+      "es": "Cortar cebolla siempre me hace llorar."
+    },
+    {
+      "en": "Buy a kilo of [onions] at the market.",
+      "tr": "Pazardan bir kilo soğan al.",
+      "de": "Kauf auf dem Markt ein Kilo Zwiebeln.",
+      "fr": "Achète un kilo d'oignons au marché.",
+      "it": "Compra un chilo di cipolle al mercato.",
+      "es": "Compra un kilo de cebollas en el mercado."
+    }
+  ]
+}

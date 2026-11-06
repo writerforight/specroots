@@ -1,0 +1,63 @@
+{
+  "id": "oven",
+  "name": "oven",
+  "names": {
+    "tr": "fırın",
+    "de": "der Backofen",
+    "fr": "le four",
+    "it": "il forno",
+    "es": "el horno"
+  },
+  "definition": {
+    "en": "a closed hot box in a kitchen for baking and roasting",
+    "tr": "pişirmek ve kızartmak için mutfaktaki kapalı sıcak kutu",
+    "de": "ein geschlossener heißer Kasten in der Küche zum Backen und Braten",
+    "fr": "une boîte fermée et chaude dans la cuisine pour cuire au four",
+    "it": "una cassa chiusa e calda in cucina per cuocere al forno",
+    "es": "una caja cerrada y caliente en la cocina para hornear y asar"
+  },
+  "breakdown": {
+    "de": [
+      {
+        "text": "Back",
+        "gloss": "bake (backen)"
+      },
+      {
+        "text": "ofen",
+        "gloss": "oven, stove"
+      }
+    ]
+  },
+  "origin": "Old English ofen (a furnace)",
+  "root": null,
+  "image": {
+    "file": "Hands open oven door to take out baked food from inside in a modern kitchen.jpg",
+    "wikidata": "Q36539"
+  },
+  "sentences": [
+    {
+      "en": "Bake the bread in a hot [oven].",
+      "tr": "Ekmeği sıcak bir fırında pişir.",
+      "de": "Back das Brot in einem heißen Ofen.",
+      "fr": "Fais cuire le pain dans un four chaud.",
+      "it": "Cuoci il pane in forno caldo.",
+      "es": "Hornea el pan en el horno caliente."
+    },
+    {
+      "en": "Don't open the [oven] door too early.",
+      "tr": "Fırın kapağını çok erken açma.",
+      "de": "Öffne die Ofentür nicht zu früh.",
+      "fr": "N'ouvre pas la porte du four trop tôt.",
+      "it": "Non aprire lo sportello del forno troppo presto.",
+      "es": "No abras la puerta del horno demasiado pronto."
+    },
+    {
+      "en": "It's like an [oven] in here, open a window!",
+      "tr": "Burası fırın gibi, bir pencere aç!",
+      "de": "Hier drin ist es wie im Backofen, mach ein Fenster auf!",
+      "fr": "On se croirait dans un four ici, ouvre une fenêtre !",
+      "it": "Qui dentro è un forno, apri una finestra!",
+      "es": "¡Esto es un horno, abre una ventana!"
+    }
+  ]
+}

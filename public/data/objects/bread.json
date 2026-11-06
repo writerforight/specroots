@@ -1,0 +1,52 @@
+{
+  "id": "bread",
+  "name": "bread",
+  "names": {
+    "tr": "ekmek",
+    "de": "das Brot",
+    "fr": "le pain",
+    "it": "il pane",
+    "es": "el pan"
+  },
+  "definition": {
+    "en": "a basic food made from flour, water and yeast, baked in an oven",
+    "tr": "un, su ve mayadan yapılıp fırında pişirilen temel yiyecek",
+    "de": "ein Grundnahrungsmittel aus Mehl, Wasser und Hefe, im Ofen gebacken",
+    "fr": "un aliment de base fait de farine, d'eau et de levure, cuit au four",
+    "it": "un alimento base fatto di farina, acqua e lievito, cotto in forno",
+    "es": "un alimento básico hecho de harina, agua y levadura, cocido al horno"
+  },
+  "breakdown": {},
+  "origin": "Old English brēad (a piece, a morsel)",
+  "root": null,
+  "image": {
+    "file": "Assorted bread.jpg",
+    "wikidata": "Q7802"
+  },
+  "sentences": [
+    {
+      "en": "I buy fresh [bread] every morning.",
+      "tr": "Her sabah taze ekmek alırım.",
+      "de": "Ich kaufe jeden Morgen frisches Brot.",
+      "fr": "J'achète du pain frais chaque matin.",
+      "it": "Compro il pane fresco ogni mattina.",
+      "es": "Compro pan fresco cada mañana."
+    },
+    {
+      "en": "Would you like some [bread] with your soup?",
+      "tr": "Çorbanın yanında biraz ekmek ister misin?",
+      "de": "Möchtest du etwas Brot zur Suppe?",
+      "fr": "Tu veux du pain avec ta soupe ?",
+      "it": "Vuoi un po' di pane con la minestra?",
+      "es": "¿Quieres pan con la sopa?"
+    },
+    {
+      "en": "Teaching is my [bread] and butter.",
+      "tr": "Öğretmenlik benim ekmek kapım.",
+      "de": "Das Unterrichten ist mein täglich Brot.",
+      "fr": "L'enseignement, c'est mon gagne-pain.",
+      "it": "L'insegnamento è il mio pane quotidiano.",
+      "es": "La enseñanza es mi pan de cada día."
+    }
+  ]
+}

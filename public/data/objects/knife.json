@@ -1,0 +1,52 @@
+{
+  "id": "knife",
+  "name": "knife",
+  "names": {
+    "tr": "bıçak",
+    "de": "das Messer",
+    "fr": "le couteau",
+    "it": "il coltello",
+    "es": "el cuchillo"
+  },
+  "definition": {
+    "en": "a tool with a sharp blade and a handle, for cutting",
+    "tr": "kesmek için keskin ağızlı, saplı araç",
+    "de": "ein Werkzeug mit scharfer Klinge und Griff zum Schneiden",
+    "fr": "un outil à lame tranchante et à manche pour couper",
+    "it": "un attrezzo con lama affilata e manico per tagliare",
+    "es": "una herramienta con hoja afilada y mango para cortar"
+  },
+  "breakdown": {},
+  "origin": "Old English cnīf ← Old Norse knífr",
+  "root": null,
+  "image": {
+    "file": "4Messer (fcm).png",
+    "wikidata": "Q32489"
+  },
+  "sentences": [
+    {
+      "en": "Cut the bread with a sharp [knife].",
+      "tr": "Ekmeği keskin bir bıçakla kes.",
+      "de": "Schneid das Brot mit einem scharfen Messer.",
+      "fr": "Coupe le pain avec un couteau bien aiguisé.",
+      "it": "Taglia il pane con un coltello affilato.",
+      "es": "Corta el pan con un cuchillo afilado."
+    },
+    {
+      "en": "The [knives] are in the top drawer.",
+      "tr": "Bıçaklar üst çekmecede.",
+      "de": "Die Messer sind in der obersten Schublade.",
+      "fr": "Les couteaux sont dans le tiroir du haut.",
+      "it": "I coltelli sono nel cassetto in alto.",
+      "es": "Los cuchillos están en el cajón de arriba."
+    },
+    {
+      "en": "The tension in the room was so thick you could cut it with a [knife].",
+      "tr": "Odadaki gerginlik bıçakla kesilecek gibiydi.",
+      "de": "Die Spannung im Raum war zum Schneiden.",
+      "fr": "On aurait pu couper la tension au couteau.",
+      "it": "La tensione nella stanza si tagliava col coltello.",
+      "es": "La tensión en la sala se podía cortar con un cuchillo."
+    }
+  ]
+}

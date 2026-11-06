@@ -1,0 +1,83 @@
+{
+  "id": "refrigerator",
+  "name": "refrigerator",
+  "names": {
+    "tr": "buzdolabı",
+    "de": "der Kühlschrank",
+    "fr": "le réfrigérateur",
+    "it": "il frigorifero",
+    "es": "el frigorífico"
+  },
+  "definition": {
+    "en": "a cold cupboard that keeps food fresh (short: fridge)",
+    "tr": "yiyecekleri taze tutan soğuk dolap",
+    "de": "ein kalter Schrank, der Lebensmittel frisch hält",
+    "fr": "une armoire froide qui garde les aliments frais (frigo)",
+    "it": "un armadio freddo che mantiene freschi i cibi (frigo)",
+    "es": "un armario frío que mantiene frescos los alimentos (nevera)"
+  },
+  "breakdown": {
+    "en": [
+      {
+        "text": "re",
+        "gloss": "again",
+        "affix": "re-"
+      },
+      {
+        "text": "frig",
+        "gloss": "cold (Latin frīgus)"
+      },
+      {
+        "text": "er",
+        "gloss": "verb stem (refrigerāre)"
+      },
+      {
+        "text": "ator",
+        "gloss": "thing that does",
+        "affix": "-ator"
+      }
+    ],
+    "de": [
+      {
+        "text": "Kühl",
+        "gloss": "cool (kühlen = to cool)"
+      },
+      {
+        "text": "schrank",
+        "gloss": "cupboard"
+      }
+    ]
+  },
+  "origin": "Latin refrigerāre (to make cool again: re- + frīgus, cold)",
+  "root": null,
+  "image": {
+    "file": "LG refrigerator interior.jpg",
+    "wikidata": "Q37828"
+  },
+  "sentences": [
+    {
+      "en": "Put the milk back in the [refrigerator].",
+      "tr": "Sütü buzdolabına geri koy.",
+      "de": "Stell die Milch zurück in den Kühlschrank.",
+      "fr": "Remets le lait au réfrigérateur.",
+      "it": "Rimetti il latte nel frigorifero.",
+      "es": "Vuelve a meter la leche en el frigorífico."
+    },
+    {
+      "en": "Our [refrigerator] is almost empty.",
+      "tr": "Buzdolabımız neredeyse boş.",
+      "de": "Unser Kühlschrank ist fast leer.",
+      "fr": "Notre réfrigérateur est presque vide.",
+      "it": "Il nostro frigorifero è quasi vuoto.",
+      "es": "Nuestro frigorífico está casi vacío."
+    },
+    {
+      "en": "The shop sells [refrigerators] and washing machines.",
+      "tr": "Mağaza buzdolabı ve çamaşır makinesi satıyor.",
+      "de": "Der Laden verkauft Kühlschränke und Waschmaschinen.",
+      "fr": "Le magasin vend des réfrigérateurs et des lave-linge.",
+      "it": "Il negozio vende frigoriferi e lavatrici.",
+      "es": "La tienda vende frigoríficos y lavadoras."
+    }
+  ]
+}

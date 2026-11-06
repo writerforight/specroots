@@ -1,0 +1,52 @@
+{
+  "id": "spoon",
+  "name": "spoon",
+  "names": {
+    "tr": "kaşık",
+    "de": "der Löffel",
+    "fr": "la cuillère",
+    "it": "il cucchiaio",
+    "es": "la cuchara"
+  },
+  "definition": {
+    "en": "a small tool with a round bowl and a handle, for eating soup or stirring",
+    "tr": "çorba içmek ya da karıştırmak için yuvarlak uçlu, saplı küçük araç",
+    "de": "ein kleines Gerät mit runder Mulde und Stiel zum Essen von Suppe oder zum Umrühren",
+    "fr": "un petit ustensile à manche avec un creux rond, pour manger la soupe ou mélanger",
+    "it": "un piccolo utensile con manico e incavo tondo, per mangiare la minestra o mescolare",
+    "es": "un utensilio pequeño con mango y cavidad redonda, para tomar sopa o remover"
+  },
+  "breakdown": {},
+  "origin": "Old English spōn (a chip of wood)",
+  "root": null,
+  "image": {
+    "file": "SpoonCollection.jpg",
+    "wikidata": "Q81895"
+  },
+  "sentences": [
+    {
+      "en": "Eat your soup with a [spoon].",
+      "tr": "Çorbanı kaşıkla iç.",
+      "de": "Iss deine Suppe mit dem Löffel.",
+      "fr": "Mange ta soupe avec une cuillère.",
+      "it": "Mangia la minestra con il cucchiaio.",
+      "es": "Tómate la sopa con la cuchara."
+    },
+    {
+      "en": "Add two [spoons] of sugar, please.",
+      "tr": "İki kaşık şeker ekle lütfen.",
+      "de": "Gib bitte zwei Löffel Zucker dazu.",
+      "fr": "Ajoute deux cuillères de sucre, s'il te plaît.",
+      "it": "Aggiungi due cucchiai di zucchero, per favore.",
+      "es": "Añade dos cucharadas de azúcar, por favor."
+    },
+    {
+      "en": "He was born with a silver [spoon] in his mouth.",
+      "tr": "Ağzında gümüş kaşıkla doğdu (zengin doğdu).",
+      "de": "Er wurde mit einem silbernen Löffel im Mund geboren.",
+      "fr": "Il est né avec une cuillère d'argent dans la bouche.",
+      "it": "È nato con la camicia.",
+      "es": "Nació en cuna de oro."
+    }
+  ]
+}

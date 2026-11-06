@@ -1,0 +1,78 @@
+{
+  "id": "dishwasher",
+  "name": "dishwasher",
+  "names": {
+    "tr": "bulaşık makinesi",
+    "de": "die Spülmaschine",
+    "fr": "le lave-vaisselle",
+    "it": "la lavastoviglie",
+    "es": "el lavavajillas"
+  },
+  "definition": {
+    "en": "a machine that washes plates, glasses and cutlery",
+    "tr": "tabak, bardak ve çatal bıçağı yıkayan makine",
+    "de": "eine Maschine, die Teller, Gläser und Besteck spült",
+    "fr": "une machine qui lave les assiettes, les verres et les couverts",
+    "it": "una macchina che lava piatti, bicchieri e posate",
+    "es": "una máquina que lava platos, vasos y cubiertos"
+  },
+  "breakdown": {
+    "en": [
+      {
+        "text": "dish",
+        "gloss": "dish, plate"
+      },
+      {
+        "text": "wash",
+        "gloss": "wash"
+      },
+      {
+        "text": "er",
+        "gloss": "thing that does",
+        "affix": "-er"
+      }
+    ],
+    "de": [
+      {
+        "text": "Spül",
+        "gloss": "rinse (spülen)"
+      },
+      {
+        "text": "maschine",
+        "gloss": "machine"
+      }
+    ]
+  },
+  "origin": "dish + washer (wash + -er)",
+  "root": null,
+  "image": {
+    "file": "Geschirrspuelmaschine.JPG",
+    "wikidata": "Q186263"
+  },
+  "sentences": [
+    {
+      "en": "Can you empty the [dishwasher]?",
+      "tr": "Bulaşık makinesini boşaltabilir misin?",
+      "de": "Kannst du die Spülmaschine ausräumen?",
+      "fr": "Tu peux vider le lave-vaisselle ?",
+      "it": "Puoi svuotare la lavastoviglie?",
+      "es": "¿Puedes vaciar el lavavajillas?"
+    },
+    {
+      "en": "This pan is not safe for the [dishwasher].",
+      "tr": "Bu tava bulaşık makinesinde yıkanmaz.",
+      "de": "Diese Pfanne ist nicht spülmaschinenfest.",
+      "fr": "Cette poêle ne va pas au lave-vaisselle.",
+      "it": "Questa padella non va in lavastoviglie.",
+      "es": "Esta sartén no se puede meter en el lavavajillas."
+    },
+    {
+      "en": "He worked as a [dishwasher] in a restaurant.",
+      "tr": "Bir restoranda bulaşıkçı olarak çalıştı.",
+      "de": "Er arbeitete als Tellerwäscher in einem Restaurant.",
+      "fr": "Il a travaillé comme plongeur dans un restaurant.",
+      "it": "Ha lavorato come lavapiatti in un ristorante.",
+      "es": "Trabajó de friegaplatos en un restaurante."
+    }
+  ]
+}

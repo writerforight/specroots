@@ -1,0 +1,52 @@
+{
+  "id": "bowl",
+  "name": "bowl",
+  "names": {
+    "tr": "kase",
+    "de": "die Schüssel",
+    "fr": "le bol",
+    "it": "la ciotola",
+    "es": "el cuenco"
+  },
+  "definition": {
+    "en": "a deep round dish for soup, salad or cereal",
+    "tr": "çorba, salata ya da mısır gevreği için derin, yuvarlak kap",
+    "de": "ein tiefes rundes Gefäß für Suppe, Salat oder Müsli",
+    "fr": "un récipient rond et creux pour la soupe, la salade ou les céréales",
+    "it": "un recipiente rotondo e fondo per minestra, insalata o cereali",
+    "es": "un recipiente redondo y hondo para sopa, ensalada o cereales"
+  },
+  "breakdown": {},
+  "origin": "Old English bolla (a round pot)",
+  "root": null,
+  "image": {
+    "file": "Ancient Roman clay bowl.jpg",
+    "wikidata": "Q153988"
+  },
+  "sentences": [
+    {
+      "en": "I eat a [bowl] of cereal every morning.",
+      "tr": "Her sabah bir kase mısır gevreği yerim.",
+      "de": "Ich esse jeden Morgen eine Schüssel Müsli.",
+      "fr": "Je mange un bol de céréales chaque matin.",
+      "it": "Mangio una ciotola di cereali ogni mattina.",
+      "es": "Me como un cuenco de cereales cada mañana."
+    },
+    {
+      "en": "Mix the flour and eggs in a large [bowl].",
+      "tr": "Unu ve yumurtaları büyük bir kasede karıştır.",
+      "de": "Verrühre Mehl und Eier in einer großen Schüssel.",
+      "fr": "Mélange la farine et les œufs dans un grand bol.",
+      "it": "Mescola farina e uova in una ciotola grande.",
+      "es": "Mezcla la harina y los huevos en un cuenco grande."
+    },
+    {
+      "en": "The cat drinks from a blue [bowl].",
+      "tr": "Kedi mavi bir kaseden su içiyor.",
+      "de": "Die Katze trinkt aus einem blauen Napf.",
+      "fr": "Le chat boit dans un bol bleu.",
+      "it": "Il gatto beve da una ciotola blu.",
+      "es": "El gato bebe de un cuenco azul."
+    }
+  ]
+}
