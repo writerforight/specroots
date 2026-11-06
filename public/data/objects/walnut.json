@@ -1,0 +1,73 @@
+{
+  "id": "walnut",
+  "name": "walnut",
+  "names": {
+    "tr": "ceviz",
+    "de": "die Walnuss",
+    "fr": "la noix",
+    "it": "la noce",
+    "es": "la nuez"
+  },
+  "definition": {
+    "en": "a nut with a hard round shell and a wrinkled inside",
+    "tr": "sert, yuvarlak kabuklu, içi kıvrımlı kuruyemiş",
+    "de": "eine Nuss mit harter runder Schale und runzeligem Kern",
+    "fr": "une noix à la coquille dure et ronde, à l'intérieur ridé",
+    "it": "una noce con guscio duro e rotondo e gheriglio rugoso",
+    "es": "un fruto seco de cáscara dura y redonda, con el interior arrugado"
+  },
+  "breakdown": {
+    "en": [
+      {
+        "text": "wal",
+        "gloss": "foreign (Old English wealh)"
+      },
+      {
+        "text": "nut",
+        "gloss": "nut"
+      }
+    ],
+    "de": [
+      {
+        "text": "Wal",
+        "gloss": "foreign (old welsch)"
+      },
+      {
+        "text": "nuss",
+        "gloss": "nut"
+      }
+    ]
+  },
+  "origin": "Old English wealh-hnutu (foreign nut), the same parts as German Walnuss",
+  "root": null,
+  "image": {
+    "file": "Walnuts - whole and open with halved kernel.jpg",
+    "wikidata": "Q208021"
+  },
+  "sentences": [
+    {
+      "en": "Add some [walnuts] to the salad.",
+      "tr": "Salataya biraz ceviz ekle.",
+      "de": "Gib ein paar Walnüsse in den Salat.",
+      "fr": "Ajoute quelques noix dans la salade.",
+      "it": "Aggiungi qualche noce all'insalata.",
+      "es": "Añade unas nueces a la ensalada."
+    },
+    {
+      "en": "Baklava with [walnuts] is very sweet.",
+      "tr": "Cevizli baklava çok tatlıdır.",
+      "de": "Baklava mit Walnüssen ist sehr süß.",
+      "fr": "Le baklava aux noix est très sucré.",
+      "it": "La baklava con le noci è dolcissima.",
+      "es": "El baklava con nueces es muy dulce."
+    },
+    {
+      "en": "Crack the [walnut] with a nutcracker.",
+      "tr": "Cevizi fındıkkıranla kır.",
+      "de": "Knack die Walnuss mit einem Nussknacker.",
+      "fr": "Casse la noix avec un casse-noix.",
+      "it": "Rompi la noce con lo schiaccianoci.",
+      "es": "Casca la nuez con un cascanueces."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "water",
+  "name": "water",
+  "names": {
+    "tr": "su",
+    "de": "das Wasser",
+    "fr": "l'eau",
+    "it": "l'acqua",
+    "es": "el agua"
+  },
+  "definition": {
+    "en": "the clear liquid we drink, in rivers, seas and rain",
+    "tr": "nehirlerde, denizlerde ve yağmurda bulunan, içtiğimiz berrak sıvı",
+    "de": "die klare Flüssigkeit, die wir trinken, in Flüssen, Meeren und Regen",
+    "fr": "le liquide clair que l'on boit, dans les rivières, les mers et la pluie",
+    "it": "il liquido trasparente che beviamo, nei fiumi, nei mari e nella pioggia",
+    "es": "el líquido transparente que bebemos, en ríos, mares y lluvia"
+  },
+  "breakdown": {},
+  "origin": "Old English wæter (compare German Wasser)",
+  "root": null,
+  "image": {
+    "file": "Stilles Mineralwasser.jpg",
+    "wikidata": "Q7892"
+  },
+  "sentences": [
+    {
+      "en": "Drink more [water] when it's hot.",
+      "tr": "Hava sıcakken daha çok su iç.",
+      "de": "Trink mehr Wasser, wenn es heiß ist.",
+      "fr": "Bois plus d'eau quand il fait chaud.",
+      "it": "Bevi più acqua quando fa caldo.",
+      "es": "Bebe más agua cuando hace calor."
+    },
+    {
+      "en": "Boil the [water] for the pasta.",
+      "tr": "Makarna için suyu kaynat.",
+      "de": "Bring das Wasser für die Nudeln zum Kochen.",
+      "fr": "Fais bouillir l'eau pour les pâtes.",
+      "it": "Fai bollire l'acqua per la pasta.",
+      "es": "Hierve el agua para la pasta."
+    },
+    {
+      "en": "Still or sparkling [water]?",
+      "tr": "Sade mi, maden suyu mu?",
+      "de": "Stilles oder sprudelndes Wasser?",
+      "fr": "De l'eau plate ou gazeuse ?",
+      "it": "Acqua naturale o frizzante?",
+      "es": "¿Agua sin gas o con gas?"
+    }
+  ]
+}

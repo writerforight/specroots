@@ -1,0 +1,52 @@
+{
+  "id": "jam",
+  "name": "jam",
+  "names": {
+    "tr": "reçel",
+    "de": "die Marmelade",
+    "fr": "la confiture",
+    "it": "la marmellata",
+    "es": "la mermelada"
+  },
+  "definition": {
+    "en": "a sweet food made by cooking fruit with sugar, spread on bread",
+    "tr": "meyvenin şekerle pişirilmesiyle yapılan, ekmeğe sürülen tatlı",
+    "de": "ein süßer Aufstrich aus Früchten, mit Zucker gekocht",
+    "fr": "un aliment sucré fait de fruits cuits avec du sucre, à tartiner",
+    "it": "un alimento dolce fatto di frutta cotta con zucchero, da spalmare",
+    "es": "un dulce hecho cociendo fruta con azúcar, para untar"
+  },
+  "breakdown": {},
+  "origin": "probably from jam (to press tight: crushed fruit)",
+  "root": null,
+  "image": {
+    "file": "Fruits jam variants.jpg",
+    "wikidata": "Q74048276"
+  },
+  "sentences": [
+    {
+      "en": "I like toast with butter and [jam].",
+      "tr": "Kızarmış ekmeği tereyağı ve reçelle severim.",
+      "de": "Ich mag Toast mit Butter und Marmelade.",
+      "fr": "J'aime les tartines au beurre et à la confiture.",
+      "it": "Mi piace il pane tostato con burro e marmellata.",
+      "es": "Me gustan las tostadas con mantequilla y mermelada."
+    },
+    {
+      "en": "My aunt makes cherry [jam] every summer.",
+      "tr": "Teyzem her yaz vişne reçeli yapar.",
+      "de": "Meine Tante kocht jeden Sommer Kirschmarmelade.",
+      "fr": "Ma tante fait de la confiture de cerises chaque été.",
+      "it": "Mia zia fa la marmellata di ciliegie ogni estate.",
+      "es": "Mi tía hace mermelada de cerezas cada verano."
+    },
+    {
+      "en": "The [jam] jar is empty.",
+      "tr": "Reçel kavanozu boş.",
+      "de": "Das Marmeladenglas ist leer.",
+      "fr": "Le pot de confiture est vide.",
+      "it": "Il barattolo di marmellata è vuoto.",
+      "es": "El tarro de mermelada está vacío."
+    }
+  ]
+}

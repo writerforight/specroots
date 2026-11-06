@@ -1,0 +1,73 @@
+{
+  "id": "tablecloth",
+  "name": "tablecloth",
+  "names": {
+    "tr": "masa örtüsü",
+    "de": "die Tischdecke",
+    "fr": "la nappe",
+    "it": "la tovaglia",
+    "es": "el mantel"
+  },
+  "definition": {
+    "en": "a cloth that covers a table during meals",
+    "tr": "yemek sırasında masayı örten kumaş",
+    "de": "ein Tuch, das beim Essen den Tisch bedeckt",
+    "fr": "un tissu qui couvre la table pendant les repas",
+    "it": "un telo che copre la tavola durante i pasti",
+    "es": "una tela que cubre la mesa durante las comidas"
+  },
+  "breakdown": {
+    "en": [
+      {
+        "text": "table",
+        "gloss": "table"
+      },
+      {
+        "text": "cloth",
+        "gloss": "cloth"
+      }
+    ],
+    "de": [
+      {
+        "text": "Tisch",
+        "gloss": "table"
+      },
+      {
+        "text": "decke",
+        "gloss": "cover, blanket"
+      }
+    ]
+  },
+  "origin": "table + cloth",
+  "root": null,
+  "image": {
+    "file": "Tablecloth 01.JPG",
+    "wikidata": "Q536168"
+  },
+  "sentences": [
+    {
+      "en": "Put a clean [tablecloth] on the table.",
+      "tr": "Masaya temiz bir örtü ser.",
+      "de": "Leg eine saubere Tischdecke auf den Tisch.",
+      "fr": "Mets une nappe propre sur la table.",
+      "it": "Metti una tovaglia pulita sul tavolo.",
+      "es": "Pon un mantel limpio en la mesa."
+    },
+    {
+      "en": "He spilled wine on the white [tablecloth].",
+      "tr": "Beyaz masa örtüsüne şarap döktü.",
+      "de": "Er hat Wein auf die weiße Tischdecke verschüttet.",
+      "fr": "Il a renversé du vin sur la nappe blanche.",
+      "it": "Ha rovesciato il vino sulla tovaglia bianca.",
+      "es": "Derramó vino en el mantel blanco."
+    },
+    {
+      "en": "My grandmother made this [tablecloth] by hand.",
+      "tr": "Bu masa örtüsünü babaannem elle yaptı.",
+      "de": "Meine Oma hat diese Tischdecke von Hand gemacht.",
+      "fr": "Ma grand-mère a fait cette nappe à la main.",
+      "it": "Mia nonna ha fatto questa tovaglia a mano.",
+      "es": "Mi abuela hizo este mantel a mano."
+    }
+  ]
+}

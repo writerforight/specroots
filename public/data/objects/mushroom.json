@@ -1,0 +1,52 @@
+{
+  "id": "mushroom",
+  "name": "mushroom",
+  "names": {
+    "tr": "mantar",
+    "de": "der Pilz",
+    "fr": "le champignon",
+    "it": "il fungo",
+    "es": "el champiñón"
+  },
+  "definition": {
+    "en": "a fungus with a stem and a round top; some kinds are eaten",
+    "tr": "sapı ve yuvarlak başı olan, bazı türleri yenen bitkimsi canlı",
+    "de": "ein Pilz mit Stiel und rundem Hut; manche Arten isst man",
+    "fr": "un champignon avec un pied et un chapeau rond ; certains se mangent",
+    "it": "un fungo con gambo e cappello rotondo; alcuni si mangiano",
+    "es": "un hongo con pie y sombrero redondo; algunos se comen"
+  },
+  "breakdown": {},
+  "origin": "Old French mousseron (perhaps from mousse, moss)",
+  "root": null,
+  "image": {
+    "file": "Grzyby Pasaż Natoliński w Warszawie.jpg",
+    "wikidata": "Q654236"
+  },
+  "sentences": [
+    {
+      "en": "I'd like a pizza with [mushrooms].",
+      "tr": "Mantarlı bir pizza istiyorum.",
+      "de": "Ich hätte gern eine Pizza mit Pilzen.",
+      "fr": "Je voudrais une pizza aux champignons.",
+      "it": "Vorrei una pizza ai funghi.",
+      "es": "Quiero una pizza con champiñones."
+    },
+    {
+      "en": "Never eat a wild [mushroom] you don't know.",
+      "tr": "Tanımadığın yabani mantarı asla yeme.",
+      "de": "Iss nie einen wilden Pilz, den du nicht kennst.",
+      "fr": "Ne mange jamais un champignon sauvage que tu ne connais pas.",
+      "it": "Non mangiare mai un fungo selvatico che non conosci.",
+      "es": "Nunca comas una seta silvestre que no conozcas."
+    },
+    {
+      "en": "New cafés [mushroomed] in the old town.",
+      "tr": "Eski şehirde mantar gibi yeni kafeler bitti.",
+      "de": "In der Altstadt schossen neue Cafés wie Pilze aus dem Boden.",
+      "fr": "De nouveaux cafés ont poussé comme des champignons dans la vieille ville.",
+      "it": "Nuovi caffè sono spuntati come funghi in centro.",
+      "es": "Nuevos cafés brotaron como setas en el casco antiguo."
+    }
+  ]
+}

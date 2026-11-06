@@ -1,0 +1,52 @@
+{
+  "id": "pear",
+  "name": "pear",
+  "names": {
+    "tr": "armut",
+    "de": "die Birne",
+    "fr": "la poire",
+    "it": "la pera",
+    "es": "la pera"
+  },
+  "definition": {
+    "en": "a sweet fruit that is narrow at the top and round at the bottom",
+    "tr": "üstü dar, altı yuvarlak tatlı meyve",
+    "de": "eine süße Frucht, oben schmal und unten rund",
+    "fr": "un fruit sucré, étroit en haut et rond en bas",
+    "it": "un frutto dolce, stretto in alto e rotondo in basso",
+    "es": "una fruta dulce, estrecha arriba y redonda abajo"
+  },
+  "breakdown": {},
+  "origin": "Old English pere ← Latin pirum (German Birne also means light bulb)",
+  "root": null,
+  "image": {
+    "file": "Pears.jpg",
+    "wikidata": "Q146281"
+  },
+  "sentences": [
+    {
+      "en": "This [pear] is soft and juicy.",
+      "tr": "Bu armut yumuşak ve sulu.",
+      "de": "Diese Birne ist weich und saftig.",
+      "fr": "Cette poire est tendre et juteuse.",
+      "it": "Questa pera è morbida e succosa.",
+      "es": "Esta pera está blanda y jugosa."
+    },
+    {
+      "en": "We picked [pears] in my uncle's garden.",
+      "tr": "Amcamın bahçesinde armut topladık.",
+      "de": "Wir haben im Garten meines Onkels Birnen gepflückt.",
+      "fr": "Nous avons cueilli des poires dans le jardin de mon oncle.",
+      "it": "Abbiamo raccolto pere nel giardino di mio zio.",
+      "es": "Cogimos peras en el huerto de mi tío."
+    },
+    {
+      "en": "Our plans went [pear]-shaped.",
+      "tr": "Planlarımız suya düştü.",
+      "de": "Unsere Pläne sind schiefgegangen.",
+      "fr": "Nos projets sont tombés à l'eau.",
+      "it": "I nostri piani sono andati a monte.",
+      "es": "Nuestros planes se fueron al traste."
+    }
+  ]
+}

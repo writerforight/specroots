@@ -1,0 +1,63 @@
+{
+  "id": "grape",
+  "name": "grape",
+  "names": {
+    "tr": "üzüm",
+    "de": "die Weintraube",
+    "fr": "le raisin",
+    "it": "l'uva",
+    "es": "la uva"
+  },
+  "definition": {
+    "en": "a small round green or purple fruit that grows in bunches",
+    "tr": "salkım halinde yetişen küçük, yuvarlak, yeşil ya da mor meyve",
+    "de": "eine kleine runde grüne oder blaue Frucht, die in Trauben wächst",
+    "fr": "un petit fruit rond, vert ou violet, qui pousse en grappes",
+    "it": "un piccolo frutto rotondo, verde o viola, che cresce a grappoli",
+    "es": "una fruta pequeña y redonda, verde o morada, que crece en racimos"
+  },
+  "breakdown": {
+    "de": [
+      {
+        "text": "Wein",
+        "gloss": "wine"
+      },
+      {
+        "text": "traube",
+        "gloss": "bunch of grapes"
+      }
+    ]
+  },
+  "origin": "Old French grape (a bunch of grapes; from a hook used to pick them)",
+  "root": null,
+  "image": {
+    "file": "Wine grapes03.jpg",
+    "wikidata": "Q10978"
+  },
+  "sentences": [
+    {
+      "en": "Wine is made from [grapes].",
+      "tr": "Şarap üzümden yapılır.",
+      "de": "Wein wird aus Trauben gemacht.",
+      "fr": "Le vin est fait avec du raisin.",
+      "it": "Il vino si fa con l'uva.",
+      "es": "El vino se hace con uvas."
+    },
+    {
+      "en": "Wash the [grapes] before you eat them.",
+      "tr": "Üzümleri yemeden önce yıka.",
+      "de": "Wasch die Trauben, bevor du sie isst.",
+      "fr": "Lave le raisin avant de le manger.",
+      "it": "Lava l'uva prima di mangiarla.",
+      "es": "Lava las uvas antes de comerlas."
+    },
+    {
+      "en": "I heard it on the [grapevine].",
+      "tr": "Kulağıma çalındı.",
+      "de": "Das habe ich durch die Gerüchteküche gehört.",
+      "fr": "Je l'ai appris par le bouche-à-oreille.",
+      "it": "L'ho saputo per sentito dire.",
+      "es": "Me enteré por radio macuto."
+    }
+  ]
+}

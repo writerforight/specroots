@@ -1,0 +1,73 @@
+{
+  "id": "ice-cube",
+  "name": "ice cube",
+  "names": {
+    "tr": "buz küpü",
+    "de": "der Eiswürfel",
+    "fr": "le glaçon",
+    "it": "il cubetto di ghiaccio",
+    "es": "el cubito de hielo"
+  },
+  "definition": {
+    "en": "a small block of frozen water for cooling drinks",
+    "tr": "içecekleri soğutmak için küçük donmuş su parçası",
+    "de": "ein kleines Stück gefrorenes Wasser zum Kühlen von Getränken",
+    "fr": "un petit bloc d'eau gelée pour rafraîchir les boissons",
+    "it": "un piccolo blocco d'acqua ghiacciata per raffreddare le bevande",
+    "es": "un bloque pequeño de agua congelada para enfriar bebidas"
+  },
+  "breakdown": {
+    "en": [
+      {
+        "text": "ice",
+        "gloss": "ice"
+      },
+      {
+        "text": "cube",
+        "gloss": "cube"
+      }
+    ],
+    "de": [
+      {
+        "text": "Eis",
+        "gloss": "ice"
+      },
+      {
+        "text": "würfel",
+        "gloss": "dice, cube"
+      }
+    ]
+  },
+  "origin": "ice (Old English īs) + cube (Greek kýbos, a dice)",
+  "root": null,
+  "image": {
+    "file": "Ice cubes openphoto.jpg",
+    "wikidata": "Q488463"
+  },
+  "sentences": [
+    {
+      "en": "Do you want an [ice cube] in your juice?",
+      "tr": "Meyve suyuna buz ister misin?",
+      "de": "Möchtest du einen Eiswürfel in den Saft?",
+      "fr": "Tu veux un glaçon dans ton jus ?",
+      "it": "Vuoi un cubetto di ghiaccio nel succo?",
+      "es": "¿Quieres un cubito de hielo en el zumo?"
+    },
+    {
+      "en": "Fill the tray and make [ice cubes].",
+      "tr": "Kalıbı doldur ve buz yap.",
+      "de": "Füll die Form und mach Eiswürfel.",
+      "fr": "Remplis le bac et fais des glaçons.",
+      "it": "Riempi la vaschetta e fai i cubetti di ghiaccio.",
+      "es": "Llena la cubitera y haz cubitos de hielo."
+    },
+    {
+      "en": "The [ice cubes] melted in the sun.",
+      "tr": "Buz küpleri güneşte eridi.",
+      "de": "Die Eiswürfel schmolzen in der Sonne.",
+      "fr": "Les glaçons ont fondu au soleil.",
+      "it": "I cubetti di ghiaccio si sono sciolti al sole.",
+      "es": "Los cubitos de hielo se derritieron al sol."
+    }
+  ]
+}

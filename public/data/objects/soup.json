@@ -1,0 +1,52 @@
+{
+  "id": "soup",
+  "name": "soup",
+  "names": {
+    "tr": "çorba",
+    "de": "die Suppe",
+    "fr": "la soupe",
+    "it": "la zuppa",
+    "es": "la sopa"
+  },
+  "definition": {
+    "en": "a hot liquid food made from vegetables, meat or fish",
+    "tr": "sebze, et ya da balıkla yapılan sıcak, sıvı yemek",
+    "de": "ein heißes, flüssiges Gericht aus Gemüse, Fleisch oder Fisch",
+    "fr": "un plat chaud et liquide à base de légumes, de viande ou de poisson",
+    "it": "un piatto caldo e liquido a base di verdure, carne o pesce",
+    "es": "un plato caliente y líquido de verduras, carne o pescado"
+  },
+  "breakdown": {},
+  "origin": "Old French soupe (bread soaked in broth); Turkish çorba comes from Persian",
+  "root": null,
+  "image": {
+    "file": "Vegetable beef barley soup.jpg",
+    "wikidata": "Q41415"
+  },
+  "sentences": [
+    {
+      "en": "Lentil [soup] is my favourite.",
+      "tr": "Mercimek çorbası en sevdiğim.",
+      "de": "Linsensuppe ist meine Lieblingssuppe.",
+      "fr": "La soupe de lentilles est ma préférée.",
+      "it": "La zuppa di lenticchie è la mia preferita.",
+      "es": "La sopa de lentejas es mi favorita."
+    },
+    {
+      "en": "The [soup] is too hot to eat.",
+      "tr": "Çorba yenemeyecek kadar sıcak.",
+      "de": "Die Suppe ist zu heiß zum Essen.",
+      "fr": "La soupe est trop chaude pour être mangée.",
+      "it": "La zuppa è troppo calda da mangiare.",
+      "es": "La sopa está demasiado caliente para comerla."
+    },
+    {
+      "en": "Now we're in the [soup]!",
+      "tr": "Şimdi başımız belada!",
+      "de": "Jetzt sitzen wir in der Suppe!",
+      "fr": "Nous voilà dans le pétrin !",
+      "it": "Adesso siamo nei guai!",
+      "es": "¡Ahora sí que estamos en un lío!"
+    }
+  ]
+}

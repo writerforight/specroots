@@ -1,0 +1,73 @@
+{
+  "id": "toothpick",
+  "name": "toothpick",
+  "names": {
+    "tr": "kürdan",
+    "de": "der Zahnstocher",
+    "fr": "le cure-dent",
+    "it": "lo stuzzicadenti",
+    "es": "el palillo de dientes"
+  },
+  "definition": {
+    "en": "a small thin stick for cleaning between your teeth",
+    "tr": "dişlerin arasını temizlemek için küçük ince çubuk",
+    "de": "ein kleines dünnes Stäbchen zum Reinigen zwischen den Zähnen",
+    "fr": "un petit bâton fin pour nettoyer entre les dents",
+    "it": "un piccolo bastoncino sottile per pulire tra i denti",
+    "es": "un palito fino para limpiarse entre los dientes"
+  },
+  "breakdown": {
+    "en": [
+      {
+        "text": "tooth",
+        "gloss": "tooth"
+      },
+      {
+        "text": "pick",
+        "gloss": "pick, point"
+      }
+    ],
+    "de": [
+      {
+        "text": "Zahn",
+        "gloss": "tooth"
+      },
+      {
+        "text": "stocher",
+        "gloss": "poker (stochern = to poke)"
+      }
+    ]
+  },
+  "origin": "tooth + pick (Turkish kürdan comes from French cure-dent, tooth-cleaner)",
+  "root": null,
+  "image": {
+    "file": "2023 Wykałaczki (2).jpg",
+    "wikidata": "Q41331"
+  },
+  "sentences": [
+    {
+      "en": "There are [toothpicks] on every table.",
+      "tr": "Her masada kürdan var.",
+      "de": "Auf jedem Tisch stehen Zahnstocher.",
+      "fr": "Il y a des cure-dents sur chaque table.",
+      "it": "Ci sono stuzzicadenti su ogni tavolo.",
+      "es": "Hay palillos en todas las mesas."
+    },
+    {
+      "en": "Check the cake with a [toothpick].",
+      "tr": "Keki bir kürdanla kontrol et.",
+      "de": "Prüf den Kuchen mit einem Zahnstocher.",
+      "fr": "Vérifie la cuisson du gâteau avec un cure-dent.",
+      "it": "Controlla la torta con uno stuzzicadenti.",
+      "es": "Comprueba el bizcocho con un palillo."
+    },
+    {
+      "en": "Hold the olive and cheese together with a [toothpick].",
+      "tr": "Zeytinle peyniri kürdanla birleştir.",
+      "de": "Halt Olive und Käse mit einem Zahnstocher zusammen.",
+      "fr": "Tiens l'olive et le fromage avec un cure-dent.",
+      "it": "Tieni insieme oliva e formaggio con uno stuzzicadenti.",
+      "es": "Sujeta la aceituna y el queso con un palillo."
+    }
+  ]
+}
