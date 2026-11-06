@@ -19,7 +19,8 @@ Repo: `~/Desktop/projects/specroots`. Bağlayıcı kurallar: `SPEC.md`.
 - Aynı test iki turdur düzelmiyorsa ya da push iki kez reddedilirse döngüyü durdur ve nedenini yaz.
 
 ## Sıradaki tur
-kök
+liste
 
 ## Günlük
 - 2026-11-06: döngü kuruldu (D5 listeler iskeleti bitti: 30 nesne, 3 liste; 63 kök).
+- 2026-11-06: kök turu — fin (+23), manu (+16); toplam 65 kök, 1529 kelime. Yeni ekler: -ish, -age, -ery, -o; birleşik parçalar -cure, -pul, -fest, -script, -fact.

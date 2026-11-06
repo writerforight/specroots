@@ -675,6 +675,47 @@
     ]
   },
   {
+    "id": "fin",
+    "forms": [
+      "fin",
+      "fine"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "end, limit (finis; finire: to finish)",
+      "tr": "son, sınır (finis; finire: bitirmek)",
+      "de": "Ende, Grenze (finis; finire: beenden)",
+      "fr": "fin, limite (finis ; finire : finir)",
+      "it": "fine, limite (finis; finire: finire)",
+      "es": "fin, límite (finis; finire: terminar)"
+    },
+    "words": [
+      "finish",
+      "finished",
+      "unfinished",
+      "final",
+      "finally",
+      "finalist",
+      "finalize",
+      "fine",
+      "finite",
+      "infinite",
+      "infinity",
+      "define",
+      "definition",
+      "definite",
+      "definitely",
+      "indefinite",
+      "redefine",
+      "confine",
+      "confinement",
+      "refine",
+      "refined",
+      "refinery",
+      "finance"
+    ]
+  },
+  {
     "id": "flect",
     "forms": [
       "flect",
@@ -1079,6 +1120,41 @@
       "recommend",
       "recommendation",
       "remand"
+    ]
+  },
+  {
+    "id": "manu",
+    "forms": [
+      "manu",
+      "mani",
+      "man"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "hand",
+      "tr": "el",
+      "de": "Hand",
+      "fr": "main",
+      "it": "mano",
+      "es": "mano"
+    },
+    "words": [
+      "manual",
+      "manually",
+      "manuscript",
+      "manufacture",
+      "manicure",
+      "manipulate",
+      "manipulation",
+      "manipulative",
+      "manage",
+      "management",
+      "manageable",
+      "unmanageable",
+      "mismanage",
+      "manifest",
+      "manifestation",
+      "manifesto"
     ]
   },
   {

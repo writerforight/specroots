@@ -45,7 +45,7 @@ yanına `(az: N)` yaz. Toplam hedef ≈ 1000–2000 kelime.
 - Aynı test iki turdur düzelmiyorsa ya da push reddediliyorsa döngüyü durdur ve nedenini yaz.
 
 ## Durum
-Kök: 63 · Kelime: 1497 kayıt, 1492 ayrı kelime (5 birleşik kelime iki kökte). Kuyruk bitti; D2 kapandı (2026-10-19, 949 kelime). 2026-10-22: mevcut köklere +177 kelime, 51. kök nunci (+15), 52. kök cad (+20). 2026-10-29: mevcut 37 köke +177 kelime. 2026-10-30: 53. kök tempt (+10), 54. kök act (+25), 55. kök nect (+13). 2026-10-31: 56. kök trib (+14); pel'e appeal ailesi (+3). 2026-11-06: 57. kök prehend (+19); 58. kök sequ (+14), 59. kök solv (+11), 60. kök vinc (+12); 61. kök leg (+14), 62. kök sum (+10), 63. kök scend (+9).
+Kök: 65 · Kelime: 1536 kayıt, 1529 ayrı kelime (5 birleşik kelime iki kökte). Kuyruk bitti; D2 kapandı (2026-10-19, 949 kelime). 2026-10-22: mevcut köklere +177 kelime, 51. kök nunci (+15), 52. kök cad (+20). 2026-10-29: mevcut 37 köke +177 kelime. 2026-10-30: 53. kök tempt (+10), 54. kök act (+25), 55. kök nect (+13). 2026-10-31: 56. kök trib (+14); pel'e appeal ailesi (+3). 2026-11-06: 57. kök prehend (+19); 58. kök sequ (+14), 59. kök solv (+11), 60. kök vinc (+12); 61. kök leg (+14), 62. kök sum (+10), 63. kök scend (+9).
 
 ## Kuyruk
 
@@ -113,8 +113,8 @@ Kök: 63 · Kelime: 1497 kayıt, 1492 ayrı kelime (5 birleşik kelime iki kökt
 
 ### Yeni (2026-11-06, kullanıcı onayı: "kökler uygun")
 Latince (`"origin": "la"`):
-- [ ] fin — son, sınır (finish, final, define, infinite, confine)
-- [ ] man / manu — el (manual, manufacture, manuscript, manage, manipulate)
+- [x] fin — 23 — son, sınır (finish, final, define, infinite, confine)
+- [x] man / manu — 16 (az: 16) — el (manual, manufacture, manuscript, manage, manipulate)
 - [ ] ped / pedi — ayak (pedal, pedestrian, expedition, impede) — Yunanca *paid-* (çocuk) ile karıştırma
 - [ ] corp / corpor — beden (corpse, corporation, incorporate, corporal)
 - [ ] sci — bilmek (science, conscious, conscience, omniscient)

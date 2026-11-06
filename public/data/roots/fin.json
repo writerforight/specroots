@@ -1,0 +1,849 @@
+{
+  "id": "fin",
+  "forms": [
+    "fin",
+    "fine"
+  ],
+  "origin": "la",
+  "etymon": "finis",
+  "meaning": {
+    "en": "end, limit (finis; finire: to finish)",
+    "tr": "son, sınır (finis; finire: bitirmek)",
+    "de": "Ende, Grenze (finis; finire: beenden)",
+    "fr": "fin, limite (finis ; finire : finir)",
+    "it": "fine, limite (finis; finire: finire)",
+    "es": "fin, límite (finis; finire: terminar)"
+  },
+  "words": [
+    {
+      "id": "finish",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "fin",
+        "-ish"
+      ],
+      "gloss": {
+        "en": "to bring to an end; to complete",
+        "tr": "bitirmek, tamamlamak",
+        "de": "beenden, fertig machen",
+        "fr": "finir, terminer",
+        "it": "finire, terminare",
+        "es": "terminar, acabar"
+      },
+      "sentences": [
+        {
+          "en": "Did you [finish] your homework?",
+          "tr": "Ödevini bitirdin mi?",
+          "de": "Hast du deine Hausaufgaben fertig gemacht?",
+          "fr": "Tu as fini tes devoirs ?",
+          "it": "Hai finito i compiti?",
+          "es": "¿Has terminado los deberes?"
+        },
+        {
+          "en": "The race [finishes] at the bridge.",
+          "tr": "Yarış köprüde bitiyor.",
+          "de": "Das Rennen endet an der Brücke.",
+          "fr": "La course se termine au pont.",
+          "it": "La gara finisce al ponte.",
+          "es": "La carrera termina en el puente."
+        }
+      ]
+    },
+    {
+      "id": "finished",
+      "pos": "adjective",
+      "parent": "finish",
+      "parts": [
+        "fin",
+        "-ish",
+        "-ed"
+      ],
+      "gloss": {
+        "en": "completed; ready",
+        "tr": "bitmiş, tamamlanmış",
+        "de": "fertig, beendet",
+        "fr": "terminé, fini",
+        "it": "finito, terminato",
+        "es": "terminado, acabado"
+      },
+      "sentences": [
+        {
+          "en": "The [finished] house looks beautiful.",
+          "tr": "Bitmiş ev çok güzel görünüyor.",
+          "de": "Das fertige Haus sieht schön aus.",
+          "fr": "La maison terminée est très belle.",
+          "it": "La casa finita è bellissima.",
+          "es": "La casa terminada se ve preciosa."
+        },
+        {
+          "en": "Are you [finished] with the laptop?",
+          "tr": "Bilgisayarla işin bitti mi?",
+          "de": "Bist du mit dem Laptop fertig?",
+          "fr": "Tu as fini avec l'ordinateur ?",
+          "it": "Hai finito con il portatile?",
+          "es": "¿Has terminado con el portátil?"
+        }
+      ]
+    },
+    {
+      "id": "unfinished",
+      "pos": "adjective",
+      "parent": "finished",
+      "parts": [
+        "un-",
+        "fin",
+        "-ish",
+        "-ed"
+      ],
+      "gloss": {
+        "en": "not completed",
+        "tr": "bitmemiş, yarım kalmış",
+        "de": "unvollendet, unfertig",
+        "fr": "inachevé",
+        "it": "incompiuto",
+        "es": "inacabado"
+      },
+      "sentences": [
+        {
+          "en": "He left an [unfinished] letter on the desk.",
+          "tr": "Masada yarım kalmış bir mektup bıraktı.",
+          "de": "Er ließ einen unvollendeten Brief auf dem Tisch.",
+          "fr": "Il a laissé une lettre inachevée sur le bureau.",
+          "it": "Ha lasciato una lettera incompiuta sulla scrivania.",
+          "es": "Dejó una carta inacabada en el escritorio."
+        },
+        {
+          "en": "We have [unfinished] business to discuss.",
+          "tr": "Konuşmamız gereken yarım kalmış işler var.",
+          "de": "Wir haben noch Unerledigtes zu besprechen.",
+          "fr": "Nous avons des affaires en suspens à discuter.",
+          "it": "Abbiamo questioni in sospeso da discutere.",
+          "es": "Tenemos asuntos pendientes que hablar."
+        }
+      ]
+    },
+    {
+      "id": "final",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "fin",
+        "-al"
+      ],
+      "gloss": {
+        "en": "last; coming at the end",
+        "tr": "son, en sondaki",
+        "de": "letzter, End-",
+        "fr": "final, dernier",
+        "it": "finale, ultimo",
+        "es": "final, último"
+      },
+      "sentences": [
+        {
+          "en": "This is the [final] chapter of the book.",
+          "tr": "Bu, kitabın son bölümü.",
+          "de": "Das ist das letzte Kapitel des Buches.",
+          "fr": "C'est le dernier chapitre du livre.",
+          "it": "Questo è l'ultimo capitolo del libro.",
+          "es": "Este es el último capítulo del libro."
+        },
+        {
+          "en": "The [final] decision is yours.",
+          "tr": "Son karar senin.",
+          "de": "Die endgültige Entscheidung liegt bei dir.",
+          "fr": "La décision finale t'appartient.",
+          "it": "La decisione finale spetta a te.",
+          "es": "La decisión final es tuya."
+        }
+      ]
+    },
+    {
+      "id": "finally",
+      "pos": "adverb",
+      "parent": "final",
+      "parts": [
+        "fin",
+        "-al",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "at last, after a long time",
+        "tr": "sonunda, nihayet",
+        "de": "endlich, schließlich",
+        "fr": "enfin, finalement",
+        "it": "finalmente, alla fine",
+        "es": "por fin, finalmente"
+      },
+      "sentences": [
+        {
+          "en": "The bus [finally] arrived.",
+          "tr": "Otobüs sonunda geldi.",
+          "de": "Der Bus kam endlich.",
+          "fr": "Le bus est enfin arrivé.",
+          "it": "L'autobus è finalmente arrivato.",
+          "es": "Por fin llegó el autobús."
+        },
+        {
+          "en": "[Finally], I want to thank my family.",
+          "tr": "Son olarak aileme teşekkür etmek istiyorum.",
+          "de": "Zum Schluss möchte ich meiner Familie danken.",
+          "fr": "Enfin, je veux remercier ma famille.",
+          "it": "Infine, voglio ringraziare la mia famiglia.",
+          "es": "Por último, quiero dar las gracias a mi familia."
+        }
+      ]
+    },
+    {
+      "id": "finalist",
+      "pos": "noun",
+      "parent": "final",
+      "parts": [
+        "fin",
+        "-al",
+        "-ist"
+      ],
+      "gloss": {
+        "en": "a person or team in the last part of a competition",
+        "tr": "finalist",
+        "de": "der Finalist",
+        "fr": "le finaliste",
+        "it": "il finalista",
+        "es": "el finalista"
+      },
+      "sentences": [
+        {
+          "en": "She was a [finalist] in the singing contest.",
+          "tr": "Şarkı yarışmasında finalistti.",
+          "de": "Sie war Finalistin im Gesangswettbewerb.",
+          "fr": "Elle était finaliste du concours de chant.",
+          "it": "Era finalista del concorso di canto.",
+          "es": "Fue finalista del concurso de canto."
+        },
+        {
+          "en": "Each [finalist] gets a small prize.",
+          "tr": "Her finalist küçük bir ödül alır.",
+          "de": "Jeder Finalist bekommt einen kleinen Preis.",
+          "fr": "Chaque finaliste reçoit un petit prix.",
+          "it": "Ogni finalista riceve un piccolo premio.",
+          "es": "Cada finalista recibe un pequeño premio."
+        }
+      ]
+    },
+    {
+      "id": "finalize",
+      "pos": "verb",
+      "parent": "final",
+      "parts": [
+        "fin",
+        "-al",
+        "-ize"
+      ],
+      "gloss": {
+        "en": "to make final; to complete the last details",
+        "tr": "kesinleştirmek, son şeklini vermek",
+        "de": "abschließen, endgültig festlegen",
+        "fr": "finaliser",
+        "it": "finalizzare, mettere a punto",
+        "es": "ultimar, concretar"
+      },
+      "sentences": [
+        {
+          "en": "We need to [finalize] the plan by Friday.",
+          "tr": "Planı cumaya kadar kesinleştirmemiz lazım.",
+          "de": "Wir müssen den Plan bis Freitag abschließen.",
+          "fr": "Nous devons finaliser le plan d'ici vendredi.",
+          "it": "Dobbiamo finalizzare il piano entro venerdì.",
+          "es": "Tenemos que ultimar el plan antes del viernes."
+        },
+        {
+          "en": "They [finalized] the contract yesterday.",
+          "tr": "Sözleşmeye dün son şeklini verdiler.",
+          "de": "Sie haben den Vertrag gestern abgeschlossen.",
+          "fr": "Ils ont finalisé le contrat hier.",
+          "it": "Hanno finalizzato il contratto ieri.",
+          "es": "Cerraron el contrato ayer."
+        }
+      ]
+    },
+    {
+      "id": "fine",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "fine"
+      ],
+      "gloss": {
+        "en": "good, all right; also: very thin; literally: finished, perfected (also a noun: money paid as a punishment)",
+        "tr": "iyi, güzel; ince; (isim) para cezası",
+        "de": "gut, in Ordnung; fein; (Nomen) die Geldstrafe",
+        "fr": "bien, fin; (nom) l'amende",
+        "it": "bene, fine; (nome) la multa",
+        "es": "bien, fino; (sustantivo) la multa"
+      },
+      "sentences": [
+        {
+          "en": "I'm [fine], thanks.",
+          "tr": "İyiyim, teşekkürler.",
+          "de": "Mir geht's gut, danke.",
+          "fr": "Je vais bien, merci.",
+          "it": "Sto bene, grazie.",
+          "es": "Estoy bien, gracias."
+        },
+        {
+          "en": "He paid a [fine] for parking there.",
+          "tr": "Oraya park ettiği için ceza ödedi.",
+          "de": "Er zahlte eine Geldstrafe fürs Parken dort.",
+          "fr": "Il a payé une amende pour s'être garé là.",
+          "it": "Ha pagato una multa per aver parcheggiato lì.",
+          "es": "Pagó una multa por aparcar allí."
+        },
+        {
+          "en": "The sand on this beach is very [fine].",
+          "tr": "Bu plajın kumu çok ince.",
+          "de": "Der Sand an diesem Strand ist sehr fein.",
+          "fr": "Le sable de cette plage est très fin.",
+          "it": "La sabbia di questa spiaggia è molto fine.",
+          "es": "La arena de esta playa es muy fina."
+        }
+      ]
+    },
+    {
+      "id": "finite",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "fin",
+        "-ite"
+      ],
+      "gloss": {
+        "en": "having an end or limit",
+        "tr": "sınırlı, sonlu",
+        "de": "endlich, begrenzt",
+        "fr": "fini, limité",
+        "it": "finito, limitato",
+        "es": "finito, limitado"
+      },
+      "sentences": [
+        {
+          "en": "Oil is a [finite] resource.",
+          "tr": "Petrol sınırlı bir kaynaktır.",
+          "de": "Öl ist eine endliche Ressource.",
+          "fr": "Le pétrole est une ressource limitée.",
+          "it": "Il petrolio è una risorsa limitata.",
+          "es": "El petróleo es un recurso finito."
+        },
+        {
+          "en": "We have a [finite] amount of time.",
+          "tr": "Sınırlı bir zamanımız var.",
+          "de": "Wir haben nur begrenzt Zeit.",
+          "fr": "Nous avons un temps limité.",
+          "it": "Abbiamo un tempo limitato.",
+          "es": "Tenemos un tiempo limitado."
+        }
+      ]
+    },
+    {
+      "id": "infinite",
+      "pos": "adjective",
+      "parent": "finite",
+      "parts": [
+        "in-not-",
+        "fin",
+        "-ite"
+      ],
+      "gloss": {
+        "en": "without end or limit",
+        "tr": "sonsuz, sınırsız",
+        "de": "unendlich",
+        "fr": "infini",
+        "it": "infinito",
+        "es": "infinito"
+      },
+      "sentences": [
+        {
+          "en": "The universe may be [infinite].",
+          "tr": "Evren sonsuz olabilir.",
+          "de": "Das Universum ist vielleicht unendlich.",
+          "fr": "L'univers est peut-être infini.",
+          "it": "L'universo forse è infinito.",
+          "es": "Puede que el universo sea infinito."
+        },
+        {
+          "en": "She has [infinite] patience with children.",
+          "tr": "Çocuklara karşı sonsuz bir sabrı var.",
+          "de": "Sie hat unendlich viel Geduld mit Kindern.",
+          "fr": "Elle a une patience infinie avec les enfants.",
+          "it": "Ha una pazienza infinita con i bambini.",
+          "es": "Tiene una paciencia infinita con los niños."
+        }
+      ]
+    },
+    {
+      "id": "infinity",
+      "pos": "noun",
+      "parent": "infinite",
+      "parts": [
+        "in-not-",
+        "fin",
+        "-ity"
+      ],
+      "gloss": {
+        "en": "endless space, time or number",
+        "tr": "sonsuzluk",
+        "de": "die Unendlichkeit",
+        "fr": "l'infini",
+        "it": "l'infinito",
+        "es": "el infinito"
+      },
+      "sentences": [
+        {
+          "en": "The road seemed to go on to [infinity].",
+          "tr": "Yol sonsuza kadar uzanıyor gibiydi.",
+          "de": "Die Straße schien bis in die Unendlichkeit zu führen.",
+          "fr": "La route semblait continuer à l'infini.",
+          "it": "La strada sembrava continuare all'infinito.",
+          "es": "La carretera parecía seguir hasta el infinito."
+        },
+        {
+          "en": "The sign for [infinity] looks like an eight on its side.",
+          "tr": "Sonsuzluk işareti yan yatmış bir sekize benzer.",
+          "de": "Das Zeichen für Unendlichkeit sieht aus wie eine liegende Acht.",
+          "fr": "Le signe de l'infini ressemble à un huit couché.",
+          "it": "Il simbolo dell'infinito sembra un otto sdraiato.",
+          "es": "El símbolo del infinito parece un ocho tumbado."
+        }
+      ]
+    },
+    {
+      "id": "define",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "de-",
+        "fine"
+      ],
+      "gloss": {
+        "en": "to say exactly what something means; literally: to set the limits of",
+        "tr": "tanımlamak, sınırlarını belirlemek",
+        "de": "definieren, bestimmen",
+        "fr": "définir",
+        "it": "definire",
+        "es": "definir"
+      },
+      "sentences": [
+        {
+          "en": "How do you [define] success?",
+          "tr": "Başarıyı nasıl tanımlarsın?",
+          "de": "Wie definierst du Erfolg?",
+          "fr": "Comment définis-tu le succès ?",
+          "it": "Come definisci il successo?",
+          "es": "¿Cómo defines el éxito?"
+        },
+        {
+          "en": "The river [defines] the border.",
+          "tr": "Sınırı nehir belirliyor.",
+          "de": "Der Fluss bestimmt die Grenze.",
+          "fr": "La rivière définit la frontière.",
+          "it": "Il fiume definisce il confine.",
+          "es": "El río marca la frontera."
+        }
+      ]
+    },
+    {
+      "id": "definition",
+      "pos": "noun",
+      "parent": "define",
+      "parts": [
+        "de-",
+        "fin",
+        "-ition"
+      ],
+      "gloss": {
+        "en": "an explanation of what a word means",
+        "tr": "tanım",
+        "de": "die Definition",
+        "fr": "la définition",
+        "it": "la definizione",
+        "es": "la definición"
+      },
+      "sentences": [
+        {
+          "en": "Look up the [definition] in a dictionary.",
+          "tr": "Tanıma sözlükten bak.",
+          "de": "Schlag die Definition im Wörterbuch nach.",
+          "fr": "Cherche la définition dans un dictionnaire.",
+          "it": "Cerca la definizione nel dizionario.",
+          "es": "Busca la definición en un diccionario."
+        },
+        {
+          "en": "This photo has a high [definition].",
+          "tr": "Bu fotoğrafın çözünürlüğü yüksek.",
+          "de": "Dieses Foto hat eine hohe Auflösung.",
+          "fr": "Cette photo a une haute définition.",
+          "it": "Questa foto ha un'alta definizione.",
+          "es": "Esta foto tiene alta definición."
+        }
+      ]
+    },
+    {
+      "id": "definite",
+      "pos": "adjective",
+      "parent": "define",
+      "parts": [
+        "de-",
+        "fin",
+        "-ite"
+      ],
+      "gloss": {
+        "en": "clear and certain; fixed",
+        "tr": "kesin, belirli",
+        "de": "bestimmt, eindeutig",
+        "fr": "précis, certain",
+        "it": "preciso, definito",
+        "es": "definido, claro"
+      },
+      "sentences": [
+        {
+          "en": "We need a [definite] answer today.",
+          "tr": "Bugün kesin bir cevaba ihtiyacımız var.",
+          "de": "Wir brauchen heute eine eindeutige Antwort.",
+          "fr": "Il nous faut une réponse précise aujourd'hui.",
+          "it": "Ci serve una risposta precisa oggi.",
+          "es": "Necesitamos una respuesta clara hoy."
+        },
+        {
+          "en": "\"The\" is the [definite] article in English.",
+          "tr": "\"The\" İngilizcedeki belirli tanımlıktır.",
+          "de": "\"The\" ist im Englischen der bestimmte Artikel.",
+          "fr": "« The » est l'article défini en anglais.",
+          "it": "\"The\" è l'articolo determinativo in inglese.",
+          "es": "\"The\" es el artículo definido en inglés."
+        }
+      ]
+    },
+    {
+      "id": "definitely",
+      "pos": "adverb",
+      "parent": "definite",
+      "parts": [
+        "de-",
+        "fin",
+        "-ite",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "certainly, without doubt",
+        "tr": "kesinlikle",
+        "de": "auf jeden Fall, bestimmt",
+        "fr": "certainement, sans aucun doute",
+        "it": "sicuramente, di sicuro",
+        "es": "definitivamente, sin duda"
+      },
+      "sentences": [
+        {
+          "en": "I will [definitely] come to your party.",
+          "tr": "Partine kesinlikle geleceğim.",
+          "de": "Ich komme auf jeden Fall zu deiner Party.",
+          "fr": "Je viendrai certainement à ta fête.",
+          "it": "Verrò sicuramente alla tua festa.",
+          "es": "Sin duda iré a tu fiesta."
+        },
+        {
+          "en": "This is [definitely] the best pizza in town.",
+          "tr": "Bu kesinlikle şehirdeki en iyi pizza.",
+          "de": "Das ist definitiv die beste Pizza der Stadt.",
+          "fr": "C'est sans doute la meilleure pizza de la ville.",
+          "it": "Questa è di sicuro la pizza migliore della città.",
+          "es": "Esta es sin duda la mejor pizza de la ciudad."
+        }
+      ]
+    },
+    {
+      "id": "indefinite",
+      "pos": "adjective",
+      "parent": "definite",
+      "parts": [
+        "in-not-",
+        "de-",
+        "fin",
+        "-ite"
+      ],
+      "gloss": {
+        "en": "not clear or fixed; without a set end",
+        "tr": "belirsiz, süresiz",
+        "de": "unbestimmt",
+        "fr": "indéfini, indéterminé",
+        "it": "indefinito, indeterminato",
+        "es": "indefinido"
+      },
+      "sentences": [
+        {
+          "en": "The shop is closed for an [indefinite] period.",
+          "tr": "Dükkân süresiz olarak kapalı.",
+          "de": "Der Laden ist auf unbestimmte Zeit geschlossen.",
+          "fr": "Le magasin est fermé pour une durée indéterminée.",
+          "it": "Il negozio è chiuso a tempo indeterminato.",
+          "es": "La tienda está cerrada por tiempo indefinido."
+        },
+        {
+          "en": "\"A\" is the [indefinite] article.",
+          "tr": "\"A\" belirsiz tanımlıktır.",
+          "de": "\"A\" ist der unbestimmte Artikel.",
+          "fr": "« A » est l'article indéfini.",
+          "it": "\"A\" è l'articolo indeterminativo.",
+          "es": "\"A\" es el artículo indefinido."
+        }
+      ]
+    },
+    {
+      "id": "redefine",
+      "pos": "verb",
+      "parent": "define",
+      "parts": [
+        "re-",
+        "de-",
+        "fine"
+      ],
+      "gloss": {
+        "en": "to define again or in a new way",
+        "tr": "yeniden tanımlamak",
+        "de": "neu definieren",
+        "fr": "redéfinir",
+        "it": "ridefinire",
+        "es": "redefinir"
+      },
+      "sentences": [
+        {
+          "en": "Smartphones [redefined] how we take photos.",
+          "tr": "Akıllı telefonlar fotoğraf çekme biçimimizi yeniden tanımladı.",
+          "de": "Smartphones haben neu definiert, wie wir fotografieren.",
+          "fr": "Les smartphones ont redéfini notre façon de prendre des photos.",
+          "it": "Gli smartphone hanno ridefinito il modo di fare foto.",
+          "es": "Los móviles redefinieron cómo hacemos fotos."
+        },
+        {
+          "en": "Let's [redefine] our goals for next year.",
+          "tr": "Gelecek yılki hedeflerimizi yeniden tanımlayalım.",
+          "de": "Lass uns unsere Ziele für nächstes Jahr neu festlegen.",
+          "fr": "Redéfinissons nos objectifs pour l'an prochain.",
+          "it": "Ridefiniamo i nostri obiettivi per l'anno prossimo.",
+          "es": "Redefinamos nuestros objetivos para el año que viene."
+        }
+      ]
+    },
+    {
+      "id": "confine",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "con-",
+        "fine"
+      ],
+      "gloss": {
+        "en": "to keep within limits; to shut in",
+        "tr": "sınırlamak, kapatmak",
+        "de": "begrenzen, einsperren",
+        "fr": "confiner, limiter",
+        "it": "confinare, limitare",
+        "es": "confinar, limitar"
+      },
+      "sentences": [
+        {
+          "en": "Please [confine] your answer to one page.",
+          "tr": "Lütfen cevabını bir sayfayla sınırla.",
+          "de": "Bitte beschränke deine Antwort auf eine Seite.",
+          "fr": "Limite ta réponse à une page, s'il te plaît.",
+          "it": "Per favore, limita la risposta a una pagina.",
+          "es": "Por favor, limita tu respuesta a una página."
+        },
+        {
+          "en": "The sick dog was [confined] to the house.",
+          "tr": "Hasta köpek evde tutuldu.",
+          "de": "Der kranke Hund musste im Haus bleiben.",
+          "fr": "Le chien malade a été confiné à la maison.",
+          "it": "Il cane malato è stato confinato in casa.",
+          "es": "El perro enfermo estuvo confinado en casa."
+        }
+      ]
+    },
+    {
+      "id": "confinement",
+      "pos": "noun",
+      "parent": "confine",
+      "parts": [
+        "con-",
+        "fine",
+        "-ment"
+      ],
+      "gloss": {
+        "en": "being kept in a closed place",
+        "tr": "kapatılma, hapis",
+        "de": "die Einsperrung, die Haft",
+        "fr": "l'enfermement, le confinement",
+        "it": "il confinamento, la reclusione",
+        "es": "el confinamiento, el encierro"
+      },
+      "sentences": [
+        {
+          "en": "He spent a year in solitary [confinement].",
+          "tr": "Bir yılı hücre hapsinde geçirdi.",
+          "de": "Er verbrachte ein Jahr in Einzelhaft.",
+          "fr": "Il a passé un an à l'isolement.",
+          "it": "Ha passato un anno in isolamento.",
+          "es": "Pasó un año en aislamiento."
+        },
+        {
+          "en": "After weeks of [confinement], we went outside.",
+          "tr": "Haftalarca kapalı kaldıktan sonra dışarı çıktık.",
+          "de": "Nach Wochen im Lockdown gingen wir nach draußen.",
+          "fr": "Après des semaines de confinement, nous sommes sortis.",
+          "it": "Dopo settimane di confinamento, siamo usciti.",
+          "es": "Tras semanas de confinamiento, salimos a la calle."
+        }
+      ]
+    },
+    {
+      "id": "refine",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "re-",
+        "fine"
+      ],
+      "gloss": {
+        "en": "to make purer or better in small details",
+        "tr": "arıtmak, inceltmek, geliştirmek",
+        "de": "verfeinern, raffinieren",
+        "fr": "raffiner, peaufiner",
+        "it": "raffinare, perfezionare",
+        "es": "refinar, pulir"
+      },
+      "sentences": [
+        {
+          "en": "Factories [refine] sugar and oil.",
+          "tr": "Fabrikalar şeker ve petrolü arıtır.",
+          "de": "Fabriken raffinieren Zucker und Öl.",
+          "fr": "Les usines raffinent le sucre et le pétrole.",
+          "it": "Le fabbriche raffinano zucchero e petrolio.",
+          "es": "Las fábricas refinan azúcar y petróleo."
+        },
+        {
+          "en": "She [refined] her essay before sending it.",
+          "tr": "Göndermeden önce denemesini geliştirdi.",
+          "de": "Sie hat ihren Aufsatz vor dem Abschicken verfeinert.",
+          "fr": "Elle a peaufiné sa dissertation avant de l'envoyer.",
+          "it": "Ha perfezionato il saggio prima di inviarlo.",
+          "es": "Pulió su redacción antes de enviarla."
+        }
+      ]
+    },
+    {
+      "id": "refined",
+      "pos": "adjective",
+      "parent": "refine",
+      "parts": [
+        "re-",
+        "fin",
+        "-ed"
+      ],
+      "gloss": {
+        "en": "made pure; also: polite and elegant",
+        "tr": "arıtılmış; kibar, zarif",
+        "de": "raffiniert; kultiviert",
+        "fr": "raffiné",
+        "it": "raffinato",
+        "es": "refinado"
+      },
+      "sentences": [
+        {
+          "en": "Avoid [refined] sugar if you can.",
+          "tr": "Mümkünse rafine şekerden kaçın.",
+          "de": "Meide raffinierten Zucker, wenn du kannst.",
+          "fr": "Évite le sucre raffiné si tu peux.",
+          "it": "Evita lo zucchero raffinato, se puoi.",
+          "es": "Evita el azúcar refinado si puedes."
+        },
+        {
+          "en": "She has very [refined] manners.",
+          "tr": "Çok kibar tavırları var.",
+          "de": "Sie hat sehr feine Manieren.",
+          "fr": "Elle a des manières très raffinées.",
+          "it": "Ha modi molto raffinati.",
+          "es": "Tiene unos modales muy refinados."
+        }
+      ]
+    },
+    {
+      "id": "refinery",
+      "pos": "noun",
+      "parent": "refine",
+      "parts": [
+        "re-",
+        "fin",
+        "-ery"
+      ],
+      "gloss": {
+        "en": "a factory where oil or sugar is made pure",
+        "tr": "rafineri",
+        "de": "die Raffinerie",
+        "fr": "la raffinerie",
+        "it": "la raffineria",
+        "es": "la refinería"
+      },
+      "sentences": [
+        {
+          "en": "My uncle works at an oil [refinery].",
+          "tr": "Amcam bir petrol rafinerisinde çalışıyor.",
+          "de": "Mein Onkel arbeitet in einer Ölraffinerie.",
+          "fr": "Mon oncle travaille dans une raffinerie de pétrole.",
+          "it": "Mio zio lavora in una raffineria di petrolio.",
+          "es": "Mi tío trabaja en una refinería de petróleo."
+        },
+        {
+          "en": "The [refinery] lights shine all night.",
+          "tr": "Rafinerinin ışıkları bütün gece yanar.",
+          "de": "Die Lichter der Raffinerie leuchten die ganze Nacht.",
+          "fr": "Les lumières de la raffinerie brillent toute la nuit.",
+          "it": "Le luci della raffineria brillano tutta la notte.",
+          "es": "Las luces de la refinería brillan toda la noche."
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "fin",
+        "-ance"
+      ],
+      "gloss": {
+        "en": "the management of money; literally: settling a debt, bringing it to an end (also a verb: to pay for)",
+        "tr": "finans, maliye",
+        "de": "die Finanzen, das Finanzwesen",
+        "fr": "la finance, les finances",
+        "it": "la finanza",
+        "es": "las finanzas"
+      },
+      "sentences": [
+        {
+          "en": "She studies [finance] at university.",
+          "tr": "Üniversitede finans okuyor.",
+          "de": "Sie studiert Finanzwesen an der Uni.",
+          "fr": "Elle étudie la finance à l'université.",
+          "it": "Studia finanza all'università.",
+          "es": "Estudia finanzas en la universidad."
+        },
+        {
+          "en": "Who will [finance] the new bridge?",
+          "tr": "Yeni köprüyü kim finanse edecek?",
+          "de": "Wer finanziert die neue Brücke?",
+          "fr": "Qui va financer le nouveau pont ?",
+          "it": "Chi finanzierà il nuovo ponte?",
+          "es": "¿Quién financiará el nuevo puente?"
+        }
+      ]
+    }
+  ]
+}

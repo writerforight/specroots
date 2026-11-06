@@ -3077,5 +3077,109 @@
       "it": "non (latino nec)",
       "es": "no (latín nec)"
     }
+  },
+  "-ish": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "verb ending (from French -iss-: finish, punish)",
+      "tr": "fiil eki (Fransızca -iss-: finish, punish)",
+      "de": "Verbendung (aus französisch -iss-: finish, punish)",
+      "fr": "terminaison verbale (du français -iss- : finir, finissons)",
+      "it": "desinenza verbale (dal francese -iss-)",
+      "es": "terminación verbal (del francés -iss-)"
+    }
+  },
+  "-age": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "action, result or place (makes a noun)",
+      "tr": "eylem, sonuç ya da yer (isim yapar)",
+      "de": "Handlung, Ergebnis oder Ort (bildet ein Nomen)",
+      "fr": "action, résultat ou lieu (forme un nom)",
+      "it": "azione, risultato o luogo (forma un nome)",
+      "es": "acción, resultado o lugar (forma un sustantivo)"
+    }
+  },
+  "-ery": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "place where something is done (makes a noun)",
+      "tr": "bir işin yapıldığı yer (isim yapar)",
+      "de": "Ort, an dem etwas gemacht wird (bildet ein Nomen)",
+      "fr": "lieu où l'on fait quelque chose (forme un nom)",
+      "it": "luogo dove si fa qualcosa (forma un nome)",
+      "es": "lugar donde se hace algo (forma un sustantivo)"
+    }
+  },
+  "-cure": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "care (Latin cura)",
+      "tr": "bakım (Latince cura)",
+      "de": "Pflege (lateinisch cura)",
+      "fr": "soin (latin cura)",
+      "it": "cura (latino cura)",
+      "es": "cuidado (latín cura)"
+    },
+    "combining": true
+  },
+  "-pul": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "filled (manipulus: a handful, from plere, to fill)",
+      "tr": "dolu (manipulus: bir avuç, plere: doldurmak)",
+      "de": "gefüllt (manipulus: eine Handvoll, von plere, füllen)",
+      "fr": "rempli (manipulus : une poignée, de plere, remplir)",
+      "it": "pieno (manipulus: una manciata, da plere, riempire)",
+      "es": "lleno (manipulus: un puñado, de plere, llenar)"
+    },
+    "combining": true
+  },
+  "-fest": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "struck, grasped (Latin -festus)",
+      "tr": "vurulmuş, tutulmuş (Latince -festus)",
+      "de": "geschlagen, gegriffen (lateinisch -festus)",
+      "fr": "frappé, saisi (latin -festus)",
+      "it": "colpito, afferrato (latino -festus)",
+      "es": "golpeado, asido (latín -festus)"
+    },
+    "combining": true
+  },
+  "-script": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "written (Latin scriptus, from scribere)",
+      "tr": "yazılmış (Latince scriptus, scribere'den)",
+      "de": "geschrieben (lateinisch scriptus, von scribere)",
+      "fr": "écrit (latin scriptus, de scribere)",
+      "it": "scritto (latino scriptus, da scribere)",
+      "es": "escrito (latín scriptus, de scribere)"
+    },
+    "combining": true
+  },
+  "-fact": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "made (Latin factus, from facere)",
+      "tr": "yapılmış (Latince factus, facere'den)",
+      "de": "gemacht (lateinisch factus, von facere)",
+      "fr": "fait (latin factus, de facere)",
+      "it": "fatto (latino factus, da facere)",
+      "es": "hecho (latín factus, de facere)"
+    },
+    "combining": true
+  },
+  "-o": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "noun ending (Italian -o)",
+      "tr": "isim eki (İtalyanca -o)",
+      "de": "Nomenendung (italienisch -o)",
+      "fr": "terminaison de nom (italien -o)",
+      "it": "desinenza di nome (-o)",
+      "es": "terminación de sustantivo (italiano -o)"
+    }
   }
 }

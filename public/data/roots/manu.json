@@ -1,0 +1,600 @@
+{
+  "id": "manu",
+  "forms": [
+    "manu",
+    "mani",
+    "man"
+  ],
+  "origin": "la",
+  "etymon": "manus",
+  "meaning": {
+    "en": "hand",
+    "tr": "el",
+    "de": "Hand",
+    "fr": "main",
+    "it": "mano",
+    "es": "mano"
+  },
+  "words": [
+    {
+      "id": "manual",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "manu",
+        "-al"
+      ],
+      "gloss": {
+        "en": "done by hand (also a noun: a book of instructions)",
+        "tr": "elle yapılan; (isim) kullanım kılavuzu",
+        "de": "manuell, Hand-; (Nomen) das Handbuch",
+        "fr": "manuel; (nom) le manuel",
+        "it": "manuale; (nome) il manuale",
+        "es": "manual; (sustantivo) el manual"
+      },
+      "sentences": [
+        {
+          "en": "The car has a [manual] gearbox.",
+          "tr": "Arabanın vites kutusu manuel.",
+          "de": "Das Auto hat ein Schaltgetriebe.",
+          "fr": "La voiture a une boîte de vitesses manuelle.",
+          "it": "L'auto ha il cambio manuale.",
+          "es": "El coche tiene cambio manual."
+        },
+        {
+          "en": "Read the [manual] before you start.",
+          "tr": "Başlamadan önce kılavuzu oku.",
+          "de": "Lies das Handbuch, bevor du anfängst.",
+          "fr": "Lis le manuel avant de commencer.",
+          "it": "Leggi il manuale prima di iniziare.",
+          "es": "Lee el manual antes de empezar."
+        },
+        {
+          "en": "[Manual] work can be very tiring.",
+          "tr": "Beden işi çok yorucu olabilir.",
+          "de": "Handarbeit kann sehr anstrengend sein.",
+          "fr": "Le travail manuel peut être très fatigant.",
+          "it": "Il lavoro manuale può essere molto faticoso.",
+          "es": "El trabajo manual puede ser muy cansado."
+        }
+      ]
+    },
+    {
+      "id": "manually",
+      "pos": "adverb",
+      "parent": "manual",
+      "parts": [
+        "manu",
+        "-al",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "by hand, not by a machine",
+        "tr": "elle",
+        "de": "von Hand, manuell",
+        "fr": "manuellement, à la main",
+        "it": "manualmente, a mano",
+        "es": "manualmente, a mano"
+      },
+      "sentences": [
+        {
+          "en": "The doors must be opened [manually].",
+          "tr": "Kapıların elle açılması gerekiyor.",
+          "de": "Die Türen müssen von Hand geöffnet werden.",
+          "fr": "Les portes doivent être ouvertes manuellement.",
+          "it": "Le porte vanno aperte a mano.",
+          "es": "Las puertas se abren a mano."
+        },
+        {
+          "en": "I fixed the setting [manually].",
+          "tr": "Ayarı elle düzelttim.",
+          "de": "Ich habe die Einstellung manuell korrigiert.",
+          "fr": "J'ai corrigé le réglage manuellement.",
+          "it": "Ho corretto l'impostazione manualmente.",
+          "es": "Corregí el ajuste manualmente."
+        }
+      ]
+    },
+    {
+      "id": "manuscript",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "manu",
+        "-script"
+      ],
+      "gloss": {
+        "en": "a text written by hand, or an author's text before printing",
+        "tr": "el yazması; müsvedde",
+        "de": "das Manuskript, die Handschrift",
+        "fr": "le manuscrit",
+        "it": "il manoscritto",
+        "es": "el manuscrito"
+      },
+      "sentences": [
+        {
+          "en": "The library keeps old [manuscripts].",
+          "tr": "Kütüphane eski el yazmalarını saklıyor.",
+          "de": "Die Bibliothek bewahrt alte Handschriften auf.",
+          "fr": "La bibliothèque conserve de vieux manuscrits.",
+          "it": "La biblioteca conserva antichi manoscritti.",
+          "es": "La biblioteca guarda manuscritos antiguos."
+        },
+        {
+          "en": "She sent her [manuscript] to a publisher.",
+          "tr": "Müsveddesini bir yayınevine gönderdi.",
+          "de": "Sie schickte ihr Manuskript an einen Verlag.",
+          "fr": "Elle a envoyé son manuscrit à un éditeur.",
+          "it": "Ha mandato il manoscritto a un editore.",
+          "es": "Envió su manuscrito a una editorial."
+        }
+      ]
+    },
+    {
+      "id": "manufacture",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "manu",
+        "-fact",
+        "-ure"
+      ],
+      "gloss": {
+        "en": "to make goods in a factory; literally: to make by hand",
+        "tr": "üretmek, imal etmek",
+        "de": "herstellen",
+        "fr": "fabriquer",
+        "it": "fabbricare, produrre",
+        "es": "fabricar"
+      },
+      "sentences": [
+        {
+          "en": "This company [manufactures] bicycles.",
+          "tr": "Bu şirket bisiklet üretiyor.",
+          "de": "Diese Firma stellt Fahrräder her.",
+          "fr": "Cette entreprise fabrique des vélos.",
+          "it": "Questa azienda produce biciclette.",
+          "es": "Esta empresa fabrica bicicletas."
+        },
+        {
+          "en": "The phones are [manufactured] in Asia.",
+          "tr": "Telefonlar Asya'da üretiliyor.",
+          "de": "Die Handys werden in Asien hergestellt.",
+          "fr": "Les téléphones sont fabriqués en Asie.",
+          "it": "I telefoni sono prodotti in Asia.",
+          "es": "Los móviles se fabrican en Asia."
+        }
+      ]
+    },
+    {
+      "id": "manicure",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "mani",
+        "-cure"
+      ],
+      "gloss": {
+        "en": "care of the hands and nails",
+        "tr": "manikür",
+        "de": "die Maniküre",
+        "fr": "la manucure",
+        "it": "la manicure",
+        "es": "la manicura"
+      },
+      "sentences": [
+        {
+          "en": "She gets a [manicure] every month.",
+          "tr": "Her ay manikür yaptırıyor.",
+          "de": "Sie lässt sich jeden Monat eine Maniküre machen.",
+          "fr": "Elle se fait faire une manucure chaque mois.",
+          "it": "Si fa la manicure ogni mese.",
+          "es": "Se hace la manicura cada mes."
+        },
+        {
+          "en": "A [manicure] takes about half an hour.",
+          "tr": "Manikür yaklaşık yarım saat sürer.",
+          "de": "Eine Maniküre dauert etwa eine halbe Stunde.",
+          "fr": "Une manucure prend environ une demi-heure.",
+          "it": "Una manicure dura circa mezz'ora.",
+          "es": "Una manicura dura una media hora."
+        }
+      ]
+    },
+    {
+      "id": "manipulate",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "mani",
+        "-pul",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "to control or handle skilfully; often: to influence someone unfairly",
+        "tr": "yönlendirmek, manipüle etmek; ustalıkla kullanmak",
+        "de": "manipulieren; geschickt handhaben",
+        "fr": "manipuler",
+        "it": "manipolare",
+        "es": "manipular"
+      },
+      "sentences": [
+        {
+          "en": "Advertising tries to [manipulate] our choices.",
+          "tr": "Reklamlar seçimlerimizi yönlendirmeye çalışır.",
+          "de": "Werbung versucht, unsere Entscheidungen zu manipulieren.",
+          "fr": "La publicité essaie de manipuler nos choix.",
+          "it": "La pubblicità cerca di manipolare le nostre scelte.",
+          "es": "La publicidad intenta manipular nuestras decisiones."
+        },
+        {
+          "en": "The robot can [manipulate] small objects.",
+          "tr": "Robot küçük nesneleri ustalıkla tutabiliyor.",
+          "de": "Der Roboter kann kleine Gegenstände greifen und bewegen.",
+          "fr": "Le robot peut manipuler de petits objets.",
+          "it": "Il robot può manipolare piccoli oggetti.",
+          "es": "El robot puede manipular objetos pequeños."
+        }
+      ]
+    },
+    {
+      "id": "manipulation",
+      "pos": "noun",
+      "parent": "manipulate",
+      "parts": [
+        "mani",
+        "-pul",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "controlling someone or something, often unfairly",
+        "tr": "manipülasyon, yönlendirme",
+        "de": "die Manipulation",
+        "fr": "la manipulation",
+        "it": "la manipolazione",
+        "es": "la manipulación"
+      },
+      "sentences": [
+        {
+          "en": "The election was full of [manipulation].",
+          "tr": "Seçim manipülasyonla doluydu.",
+          "de": "Die Wahl war voller Manipulation.",
+          "fr": "L'élection était pleine de manipulations.",
+          "it": "L'elezione era piena di manipolazioni.",
+          "es": "Las elecciones estuvieron llenas de manipulación."
+        },
+        {
+          "en": "Photo [manipulation] is easy with modern apps.",
+          "tr": "Modern uygulamalarla fotoğraf üzerinde oynamak kolay.",
+          "de": "Bildbearbeitung ist mit modernen Apps leicht.",
+          "fr": "La retouche photo est facile avec les applis modernes.",
+          "it": "Il fotoritocco è facile con le app moderne.",
+          "es": "El retoque fotográfico es fácil con las apps modernas."
+        }
+      ]
+    },
+    {
+      "id": "manipulative",
+      "pos": "adjective",
+      "parent": "manipulate",
+      "parts": [
+        "mani",
+        "-pul",
+        "-ative"
+      ],
+      "gloss": {
+        "en": "trying to control people in a hidden, unfair way",
+        "tr": "manipülatif, insanları kullanan",
+        "de": "manipulativ",
+        "fr": "manipulateur",
+        "it": "manipolatore",
+        "es": "manipulador"
+      },
+      "sentences": [
+        {
+          "en": "He can be very [manipulative] with his friends.",
+          "tr": "Arkadaşlarına karşı çok manipülatif olabiliyor.",
+          "de": "Er kann gegenüber seinen Freunden sehr manipulativ sein.",
+          "fr": "Il peut être très manipulateur avec ses amis.",
+          "it": "Può essere molto manipolatore con gli amici.",
+          "es": "Puede ser muy manipulador con sus amigos."
+        },
+        {
+          "en": "That ad is clever but [manipulative].",
+          "tr": "O reklam zekice ama manipülatif.",
+          "de": "Diese Werbung ist clever, aber manipulativ.",
+          "fr": "Cette pub est habile mais manipulatrice.",
+          "it": "Quella pubblicità è furba ma manipolatoria.",
+          "es": "Ese anuncio es ingenioso pero manipulador."
+        }
+      ]
+    },
+    {
+      "id": "manage",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "man",
+        "-age"
+      ],
+      "gloss": {
+        "en": "to be in charge of; to succeed in doing something difficult; from Italian maneggiare, to handle (horses)",
+        "tr": "yönetmek; başarmak, becermek",
+        "de": "leiten; schaffen",
+        "fr": "gérer; réussir à",
+        "it": "gestire; riuscire a",
+        "es": "dirigir; conseguir, arreglárselas"
+      },
+      "sentences": [
+        {
+          "en": "She [manages] a small hotel.",
+          "tr": "Küçük bir otel yönetiyor.",
+          "de": "Sie leitet ein kleines Hotel.",
+          "fr": "Elle gère un petit hôtel.",
+          "it": "Gestisce un piccolo albergo.",
+          "es": "Dirige un pequeño hotel."
+        },
+        {
+          "en": "Did you [manage] to find the station?",
+          "tr": "İstasyonu bulabildin mi?",
+          "de": "Hast du es geschafft, den Bahnhof zu finden?",
+          "fr": "Tu as réussi à trouver la gare ?",
+          "it": "Sei riuscito a trovare la stazione?",
+          "es": "¿Conseguiste encontrar la estación?"
+        }
+      ]
+    },
+    {
+      "id": "management",
+      "pos": "noun",
+      "parent": "manage",
+      "parts": [
+        "man",
+        "-age",
+        "-ment"
+      ],
+      "gloss": {
+        "en": "controlling and organizing a business; the people who do it",
+        "tr": "yönetim",
+        "de": "die Leitung, das Management",
+        "fr": "la gestion, la direction",
+        "it": "la gestione, la direzione",
+        "es": "la gestión, la dirección"
+      },
+      "sentences": [
+        {
+          "en": "The [management] decided to close the shop.",
+          "tr": "Yönetim dükkânı kapatmaya karar verdi.",
+          "de": "Die Geschäftsleitung beschloss, den Laden zu schließen.",
+          "fr": "La direction a décidé de fermer le magasin.",
+          "it": "La direzione ha deciso di chiudere il negozio.",
+          "es": "La dirección decidió cerrar la tienda."
+        },
+        {
+          "en": "Good time [management] reduces stress.",
+          "tr": "İyi zaman yönetimi stresi azaltır.",
+          "de": "Gutes Zeitmanagement verringert Stress.",
+          "fr": "Une bonne gestion du temps réduit le stress.",
+          "it": "Una buona gestione del tempo riduce lo stress.",
+          "es": "Una buena gestión del tiempo reduce el estrés."
+        }
+      ]
+    },
+    {
+      "id": "manageable",
+      "pos": "adjective",
+      "parent": "manage",
+      "parts": [
+        "man",
+        "-age",
+        "-able"
+      ],
+      "gloss": {
+        "en": "possible to deal with or control",
+        "tr": "idare edilebilir, üstesinden gelinebilir",
+        "de": "machbar, überschaubar",
+        "fr": "gérable",
+        "it": "gestibile",
+        "es": "manejable"
+      },
+      "sentences": [
+        {
+          "en": "Break the work into [manageable] steps.",
+          "tr": "İşi üstesinden gelinebilir adımlara böl.",
+          "de": "Teil die Arbeit in machbare Schritte auf.",
+          "fr": "Divise le travail en étapes gérables.",
+          "it": "Dividi il lavoro in passi gestibili.",
+          "es": "Divide el trabajo en pasos manejables."
+        },
+        {
+          "en": "The traffic today is [manageable].",
+          "tr": "Bugün trafik idare edilebilir durumda.",
+          "de": "Der Verkehr ist heute überschaubar.",
+          "fr": "La circulation est gérable aujourd'hui.",
+          "it": "Il traffico oggi è gestibile.",
+          "es": "El tráfico hoy es manejable."
+        }
+      ]
+    },
+    {
+      "id": "unmanageable",
+      "pos": "adjective",
+      "parent": "manageable",
+      "parts": [
+        "un-",
+        "man",
+        "-age",
+        "-able"
+      ],
+      "gloss": {
+        "en": "too difficult to control",
+        "tr": "kontrol edilemez, idaresi imkânsız",
+        "de": "unkontrollierbar, nicht zu bewältigen",
+        "fr": "ingérable",
+        "it": "ingestibile",
+        "es": "inmanejable"
+      },
+      "sentences": [
+        {
+          "en": "Her hair is [unmanageable] after the rain.",
+          "tr": "Yağmurdan sonra saçları zapt edilemez oluyor.",
+          "de": "Nach dem Regen sind ihre Haare nicht zu bändigen.",
+          "fr": "Ses cheveux sont ingérables après la pluie.",
+          "it": "Dopo la pioggia i suoi capelli sono ingestibili.",
+          "es": "Después de la lluvia su pelo es inmanejable."
+        },
+        {
+          "en": "The debt became [unmanageable].",
+          "tr": "Borç kontrol edilemez hale geldi.",
+          "de": "Die Schulden wurden unkontrollierbar.",
+          "fr": "La dette est devenue ingérable.",
+          "it": "Il debito è diventato ingestibile.",
+          "es": "La deuda se volvió inmanejable."
+        }
+      ]
+    },
+    {
+      "id": "mismanage",
+      "pos": "verb",
+      "parent": "manage",
+      "parts": [
+        "mis-",
+        "man",
+        "-age"
+      ],
+      "gloss": {
+        "en": "to manage badly",
+        "tr": "kötü yönetmek",
+        "de": "schlecht verwalten, misswirtschaften",
+        "fr": "mal gérer",
+        "it": "gestire male",
+        "es": "gestionar mal"
+      },
+      "sentences": [
+        {
+          "en": "The club [mismanaged] its money for years.",
+          "tr": "Kulüp yıllarca parasını kötü yönetti.",
+          "de": "Der Verein hat sein Geld jahrelang schlecht verwaltet.",
+          "fr": "Le club a mal géré son argent pendant des années.",
+          "it": "Il club ha gestito male i suoi soldi per anni.",
+          "es": "El club gestionó mal su dinero durante años."
+        },
+        {
+          "en": "Don't [mismanage] your time before exams.",
+          "tr": "Sınavlardan önce zamanını kötü kullanma.",
+          "de": "Teil dir vor den Prüfungen deine Zeit nicht schlecht ein.",
+          "fr": "Ne gère pas mal ton temps avant les examens.",
+          "it": "Non gestire male il tempo prima degli esami.",
+          "es": "No gestiones mal tu tiempo antes de los exámenes."
+        }
+      ]
+    },
+    {
+      "id": "manifest",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "mani",
+        "-fest"
+      ],
+      "gloss": {
+        "en": "clear to see; literally: struck by the hand, grasped (also a verb: to show clearly)",
+        "tr": "apaçık; (fiil) göstermek, ortaya çıkmak",
+        "de": "offenkundig; (Verb) zeigen, sich äußern",
+        "fr": "manifeste; (verbe) manifester",
+        "it": "manifesto, evidente; (verbo) manifestare",
+        "es": "manifiesto; (verbo) manifestar"
+      },
+      "sentences": [
+        {
+          "en": "Her joy was [manifest] in her face.",
+          "tr": "Sevinci yüzünden apaçık okunuyordu.",
+          "de": "Ihre Freude war ihr deutlich anzusehen.",
+          "fr": "Sa joie était manifeste sur son visage.",
+          "it": "La sua gioia era evidente sul volto.",
+          "es": "Su alegría era manifiesta en su cara."
+        },
+        {
+          "en": "The illness [manifests] itself as a rash.",
+          "tr": "Hastalık kendini döküntüyle gösteriyor.",
+          "de": "Die Krankheit zeigt sich als Ausschlag.",
+          "fr": "La maladie se manifeste par une éruption.",
+          "it": "La malattia si manifesta con un'eruzione.",
+          "es": "La enfermedad se manifiesta con un sarpullido."
+        }
+      ]
+    },
+    {
+      "id": "manifestation",
+      "pos": "noun",
+      "parent": "manifest",
+      "parts": [
+        "mani",
+        "-fest",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "a sign that shows something clearly",
+        "tr": "belirti, dışavurum",
+        "de": "die Erscheinung, der Ausdruck",
+        "fr": "la manifestation, le signe",
+        "it": "la manifestazione, il segno",
+        "es": "la manifestación, la señal"
+      },
+      "sentences": [
+        {
+          "en": "Fever is a [manifestation] of infection.",
+          "tr": "Ateş, enfeksiyonun bir belirtisidir.",
+          "de": "Fieber ist ein Zeichen einer Infektion.",
+          "fr": "La fièvre est un signe d'infection.",
+          "it": "La febbre è una manifestazione di infezione.",
+          "es": "La fiebre es una manifestación de infección."
+        },
+        {
+          "en": "The protest was a [manifestation] of public anger.",
+          "tr": "Protesto halkın öfkesinin dışavurumuydu.",
+          "de": "Der Protest war Ausdruck der öffentlichen Wut.",
+          "fr": "La manifestation était l'expression de la colère publique.",
+          "it": "La protesta era una manifestazione della rabbia popolare.",
+          "es": "La protesta fue una manifestación de la ira popular."
+        }
+      ]
+    },
+    {
+      "id": "manifesto",
+      "pos": "noun",
+      "parent": "manifest",
+      "parts": [
+        "mani",
+        "-fest",
+        "-o"
+      ],
+      "gloss": {
+        "en": "a public statement of a group's ideas and plans",
+        "tr": "manifesto, bildirge",
+        "de": "das Manifest",
+        "fr": "le manifeste",
+        "it": "il manifesto",
+        "es": "el manifiesto"
+      },
+      "sentences": [
+        {
+          "en": "The party published its [manifesto].",
+          "tr": "Parti manifestosunu yayımladı.",
+          "de": "Die Partei veröffentlichte ihr Manifest.",
+          "fr": "Le parti a publié son manifeste.",
+          "it": "Il partito ha pubblicato il suo manifesto.",
+          "es": "El partido publicó su manifiesto."
+        },
+        {
+          "en": "The artists wrote a short [manifesto].",
+          "tr": "Sanatçılar kısa bir bildirge yazdı.",
+          "de": "Die Künstler schrieben ein kurzes Manifest.",
+          "fr": "Les artistes ont écrit un court manifeste.",
+          "it": "Gli artisti hanno scritto un breve manifesto.",
+          "es": "Los artistas escribieron un breve manifiesto."
+        }
+      ]
+    }
+  ]
+}
