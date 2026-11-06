@@ -1,0 +1,514 @@
+{
+  "id": "fort",
+  "forms": [
+    "fort",
+    "force"
+  ],
+  "origin": "la",
+  "etymon": "fortis",
+  "meaning": {
+    "en": "strong (Late Latin fortia: strength)",
+    "tr": "güçlü (Geç Latince fortia: güç)",
+    "de": "stark (spätlateinisch fortia: Kraft)",
+    "fr": "fort (latin tardif fortia : force)",
+    "it": "forte (latino tardo fortia: forza)",
+    "es": "fuerte (latín tardío fortia: fuerza)"
+  },
+  "words": [
+    {
+      "id": "fort",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "fort"
+      ],
+      "gloss": {
+        "en": "a strong building made to defend a place",
+        "tr": "kale, istihkâm",
+        "de": "das Fort, die Festung",
+        "fr": "le fort",
+        "it": "il forte",
+        "es": "el fuerte"
+      },
+      "sentences": [
+        {
+          "en": "The soldiers defended the [fort] for weeks.",
+          "tr": "Askerler kaleyi haftalarca savundu.",
+          "de": "Die Soldaten verteidigten das Fort wochenlang.",
+          "fr": "Les soldats ont défendu le fort pendant des semaines.",
+          "it": "I soldati hanno difeso il forte per settimane.",
+          "es": "Los soldados defendieron el fuerte durante semanas."
+        },
+        {
+          "en": "Can you hold the [fort] while I'm out?",
+          "tr": "Ben yokken idare edebilir misin?",
+          "de": "Kannst du die Stellung halten, während ich weg bin?",
+          "fr": "Tu peux garder la boutique pendant mon absence ?",
+          "it": "Puoi badare a tutto mentre sono fuori?",
+          "es": "¿Puedes quedarte al mando mientras estoy fuera?"
+        }
+      ]
+    },
+    {
+      "id": "fortress",
+      "pos": "noun",
+      "parent": "fort",
+      "parts": [
+        "fort",
+        "-ress"
+      ],
+      "gloss": {
+        "en": "a large strong castle or town with walls",
+        "tr": "hisar, kale",
+        "de": "die Festung",
+        "fr": "la forteresse",
+        "it": "la fortezza",
+        "es": "la fortaleza"
+      },
+      "sentences": [
+        {
+          "en": "Rumeli [Fortress] stands by the Bosphorus.",
+          "tr": "Rumeli Hisarı Boğaz'ın kıyısında durur.",
+          "de": "Die Festung Rumeli steht am Bosporus.",
+          "fr": "La forteresse de Rumeli se dresse sur le Bosphore.",
+          "it": "La fortezza di Rumeli sorge sul Bosforo.",
+          "es": "La fortaleza de Rumeli se alza junto al Bósforo."
+        },
+        {
+          "en": "The old town is a [fortress] on a hill.",
+          "tr": "Eski şehir bir tepenin üstünde kale gibi.",
+          "de": "Die Altstadt ist eine Festung auf einem Hügel.",
+          "fr": "La vieille ville est une forteresse sur une colline.",
+          "it": "Il centro storico è una fortezza su una collina.",
+          "es": "El casco antiguo es una fortaleza sobre una colina."
+        }
+      ]
+    },
+    {
+      "id": "fortify",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "fort",
+        "-ify"
+      ],
+      "gloss": {
+        "en": "to make stronger; to protect with walls",
+        "tr": "güçlendirmek, tahkim etmek",
+        "de": "stärken, befestigen",
+        "fr": "fortifier",
+        "it": "fortificare, rafforzare",
+        "es": "fortificar, reforzar"
+      },
+      "sentences": [
+        {
+          "en": "They [fortified] the city with high walls.",
+          "tr": "Şehri yüksek surlarla tahkim ettiler.",
+          "de": "Sie befestigten die Stadt mit hohen Mauern.",
+          "fr": "Ils ont fortifié la ville avec de hauts murs.",
+          "it": "Hanno fortificato la città con mura alte.",
+          "es": "Fortificaron la ciudad con altas murallas."
+        },
+        {
+          "en": "This flour is [fortified] with iron.",
+          "tr": "Bu un demirle zenginleştirilmiş.",
+          "de": "Dieses Mehl ist mit Eisen angereichert.",
+          "fr": "Cette farine est enrichie en fer.",
+          "it": "Questa farina è arricchita di ferro.",
+          "es": "Esta harina está enriquecida con hierro."
+        }
+      ]
+    },
+    {
+      "id": "fortification",
+      "pos": "noun",
+      "parent": "fortify",
+      "parts": [
+        "fort",
+        "-ific",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "walls and towers built to defend a place",
+        "tr": "sur, istihkâm",
+        "de": "die Befestigung",
+        "fr": "la fortification",
+        "it": "la fortificazione",
+        "es": "la fortificación"
+      },
+      "sentences": [
+        {
+          "en": "The [fortifications] date from the 16th century.",
+          "tr": "Surlar 16. yüzyıldan kalma.",
+          "de": "Die Befestigungen stammen aus dem 16. Jahrhundert.",
+          "fr": "Les fortifications datent du XVIe siècle.",
+          "it": "Le fortificazioni risalgono al Cinquecento.",
+          "es": "Las fortificaciones datan del siglo XVI."
+        },
+        {
+          "en": "We walked along the old [fortification].",
+          "tr": "Eski surun boyunca yürüdük.",
+          "de": "Wir gingen an der alten Befestigung entlang.",
+          "fr": "Nous avons marché le long de l'ancienne fortification.",
+          "it": "Abbiamo camminato lungo la vecchia fortificazione.",
+          "es": "Caminamos a lo largo de la antigua fortificación."
+        }
+      ]
+    },
+    {
+      "id": "fortitude",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "fort",
+        "-itude"
+      ],
+      "gloss": {
+        "en": "courage and strength in pain or trouble",
+        "tr": "metanet, yüreklilik",
+        "de": "die Seelenstärke",
+        "fr": "le courage, la force d'âme",
+        "it": "la forza d'animo",
+        "es": "la entereza, la fortaleza"
+      },
+      "sentences": [
+        {
+          "en": "She faced her illness with great [fortitude].",
+          "tr": "Hastalığına büyük bir metanetle göğüs gerdi.",
+          "de": "Sie trug ihre Krankheit mit großer Seelenstärke.",
+          "fr": "Elle a affronté sa maladie avec un grand courage.",
+          "it": "Ha affrontato la malattia con grande forza d'animo.",
+          "es": "Afrontó su enfermedad con gran entereza."
+        },
+        {
+          "en": "It takes [fortitude] to start again.",
+          "tr": "Yeniden başlamak yüreklilik ister.",
+          "de": "Es braucht Kraft, neu anzufangen.",
+          "fr": "Il faut du courage pour recommencer.",
+          "it": "Ci vuole forza d'animo per ricominciare.",
+          "es": "Hace falta entereza para empezar de nuevo."
+        }
+      ]
+    },
+    {
+      "id": "effort",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "ef-",
+        "fort"
+      ],
+      "gloss": {
+        "en": "hard work; trying to do something; literally: putting out strength",
+        "tr": "çaba, gayret",
+        "de": "die Mühe, die Anstrengung",
+        "fr": "l'effort",
+        "it": "lo sforzo",
+        "es": "el esfuerzo"
+      },
+      "sentences": [
+        {
+          "en": "Learning a language takes a lot of [effort].",
+          "tr": "Dil öğrenmek çok çaba ister.",
+          "de": "Eine Sprache zu lernen kostet viel Mühe.",
+          "fr": "Apprendre une langue demande beaucoup d'efforts.",
+          "it": "Imparare una lingua richiede molto sforzo.",
+          "es": "Aprender un idioma requiere mucho esfuerzo."
+        },
+        {
+          "en": "Thanks for making the [effort] to come.",
+          "tr": "Gelme zahmetine katlandığın için teşekkürler.",
+          "de": "Danke, dass du dir die Mühe gemacht hast zu kommen.",
+          "fr": "Merci d'avoir fait l'effort de venir.",
+          "it": "Grazie di aver fatto lo sforzo di venire.",
+          "es": "Gracias por hacer el esfuerzo de venir."
+        }
+      ]
+    },
+    {
+      "id": "effortless",
+      "pos": "adjective",
+      "parent": "effort",
+      "parts": [
+        "ef-",
+        "fort",
+        "-less"
+      ],
+      "gloss": {
+        "en": "seeming to need no effort; easy",
+        "tr": "zahmetsiz, kolay görünen",
+        "de": "mühelos",
+        "fr": "sans effort, facile",
+        "it": "senza sforzo",
+        "es": "sin esfuerzo"
+      },
+      "sentences": [
+        {
+          "en": "Her dancing looks [effortless].",
+          "tr": "Dansı zahmetsiz görünüyor.",
+          "de": "Ihr Tanzen wirkt mühelos.",
+          "fr": "Sa danse a l'air facile.",
+          "it": "Il suo ballo sembra senza sforzo.",
+          "es": "Su baile parece no costarle ningún esfuerzo."
+        },
+        {
+          "en": "He speaks English with [effortless] ease.",
+          "tr": "İngilizceyi zahmetsizce konuşuyor.",
+          "de": "Er spricht mühelos Englisch.",
+          "fr": "Il parle anglais sans aucun effort.",
+          "it": "Parla inglese senza alcuno sforzo.",
+          "es": "Habla inglés con total soltura."
+        }
+      ]
+    },
+    {
+      "id": "comfort",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "com-",
+        "fort"
+      ],
+      "gloss": {
+        "en": "a pleasant, relaxed feeling; help for someone who is sad; literally: making strong together",
+        "tr": "konfor, rahatlık; teselli",
+        "de": "der Komfort, die Bequemlichkeit; der Trost",
+        "fr": "le confort; le réconfort",
+        "it": "il comfort; il conforto",
+        "es": "la comodidad; el consuelo"
+      },
+      "sentences": [
+        {
+          "en": "The hotel offers every [comfort].",
+          "tr": "Otel her türlü konforu sunuyor.",
+          "de": "Das Hotel bietet jeden Komfort.",
+          "fr": "L'hôtel offre tout le confort.",
+          "it": "L'albergo offre ogni comfort.",
+          "es": "El hotel ofrece todas las comodidades."
+        },
+        {
+          "en": "Her words were a great [comfort] to me.",
+          "tr": "Sözleri bana büyük teselli oldu.",
+          "de": "Ihre Worte waren mir ein großer Trost.",
+          "fr": "Ses paroles m'ont été d'un grand réconfort.",
+          "it": "Le sue parole mi sono state di grande conforto.",
+          "es": "Sus palabras fueron un gran consuelo para mí."
+        }
+      ]
+    },
+    {
+      "id": "comfortable",
+      "pos": "adjective",
+      "parent": "comfort",
+      "parts": [
+        "com-",
+        "fort",
+        "-able"
+      ],
+      "gloss": {
+        "en": "pleasant to sit in or wear; relaxed",
+        "tr": "rahat",
+        "de": "bequem",
+        "fr": "confortable",
+        "it": "comodo",
+        "es": "cómodo"
+      },
+      "sentences": [
+        {
+          "en": "This sofa is very [comfortable].",
+          "tr": "Bu kanepe çok rahat.",
+          "de": "Dieses Sofa ist sehr bequem.",
+          "fr": "Ce canapé est très confortable.",
+          "it": "Questo divano è molto comodo.",
+          "es": "Este sofá es muy cómodo."
+        },
+        {
+          "en": "Wear [comfortable] shoes for the walk.",
+          "tr": "Yürüyüş için rahat ayakkabı giy.",
+          "de": "Zieh für die Wanderung bequeme Schuhe an.",
+          "fr": "Mets des chaussures confortables pour la balade.",
+          "it": "Metti scarpe comode per la passeggiata.",
+          "es": "Ponte zapatos cómodos para el paseo."
+        }
+      ]
+    },
+    {
+      "id": "uncomfortable",
+      "pos": "adjective",
+      "parent": "comfortable",
+      "parts": [
+        "un-",
+        "com-",
+        "fort",
+        "-able"
+      ],
+      "gloss": {
+        "en": "not comfortable; feeling awkward",
+        "tr": "rahatsız; tedirgin",
+        "de": "unbequem; unangenehm",
+        "fr": "inconfortable; mal à l'aise",
+        "it": "scomodo; a disagio",
+        "es": "incómodo"
+      },
+      "sentences": [
+        {
+          "en": "The chairs in the waiting room are [uncomfortable].",
+          "tr": "Bekleme odasındaki sandalyeler rahatsız.",
+          "de": "Die Stühle im Wartezimmer sind unbequem.",
+          "fr": "Les chaises de la salle d'attente sont inconfortables.",
+          "it": "Le sedie della sala d'attesa sono scomode.",
+          "es": "Las sillas de la sala de espera son incómodas."
+        },
+        {
+          "en": "I feel [uncomfortable] when people stare.",
+          "tr": "İnsanlar bakınca tedirgin oluyorum.",
+          "de": "Mir ist unwohl, wenn Leute starren.",
+          "fr": "Je suis mal à l'aise quand on me fixe.",
+          "it": "Mi sento a disagio quando la gente mi fissa.",
+          "es": "Me siento incómodo cuando la gente me mira fijamente."
+        }
+      ]
+    },
+    {
+      "id": "discomfort",
+      "pos": "noun",
+      "parent": "comfort",
+      "parts": [
+        "dis-",
+        "com-",
+        "fort"
+      ],
+      "gloss": {
+        "en": "slight pain or an uneasy feeling",
+        "tr": "rahatsızlık, hafif ağrı",
+        "de": "das Unbehagen, die Beschwerden",
+        "fr": "la gêne, l'inconfort",
+        "it": "il fastidio, il disagio",
+        "es": "la molestia, la incomodidad"
+      },
+      "sentences": [
+        {
+          "en": "You may feel some [discomfort] after the injection.",
+          "tr": "İğneden sonra biraz rahatsızlık hissedebilirsin.",
+          "de": "Nach der Spritze kannst du leichte Beschwerden haben.",
+          "fr": "Tu peux ressentir une gêne après la piqûre.",
+          "it": "Dopo l'iniezione potresti sentire un po' di fastidio.",
+          "es": "Puedes sentir alguna molestia después de la inyección."
+        },
+        {
+          "en": "He hid his [discomfort] with a smile.",
+          "tr": "Rahatsızlığını bir gülümsemeyle gizledi.",
+          "de": "Er verbarg sein Unbehagen hinter einem Lächeln.",
+          "fr": "Il a caché sa gêne derrière un sourire.",
+          "it": "Ha nascosto il suo disagio con un sorriso.",
+          "es": "Ocultó su incomodidad con una sonrisa."
+        }
+      ]
+    },
+    {
+      "id": "force",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "force"
+      ],
+      "gloss": {
+        "en": "strength or power; from Late Latin fortia (also a verb: to make someone do something)",
+        "tr": "güç, kuvvet; (fiil) zorlamak",
+        "de": "die Kraft, die Gewalt; (Verb) zwingen",
+        "fr": "la force; (verbe) forcer",
+        "it": "la forza; (verbo) costringere",
+        "es": "la fuerza; (verbo) obligar"
+      },
+      "sentences": [
+        {
+          "en": "The [force] of the wind broke the window.",
+          "tr": "Rüzgârın gücü pencereyi kırdı.",
+          "de": "Die Kraft des Windes zerbrach das Fenster.",
+          "fr": "La force du vent a cassé la fenêtre.",
+          "it": "La forza del vento ha rotto la finestra.",
+          "es": "La fuerza del viento rompió la ventana."
+        },
+        {
+          "en": "Nobody can [force] you to sign.",
+          "tr": "Kimse seni imzalamaya zorlayamaz.",
+          "de": "Niemand kann dich zwingen zu unterschreiben.",
+          "fr": "Personne ne peut te forcer à signer.",
+          "it": "Nessuno può costringerti a firmare.",
+          "es": "Nadie puede obligarte a firmar."
+        }
+      ]
+    },
+    {
+      "id": "enforce",
+      "pos": "verb",
+      "parent": "force",
+      "parts": [
+        "en-",
+        "force"
+      ],
+      "gloss": {
+        "en": "to make people obey a rule or law",
+        "tr": "uygulamak, yürürlüğe koymak",
+        "de": "durchsetzen",
+        "fr": "faire appliquer",
+        "it": "far rispettare",
+        "es": "hacer cumplir"
+      },
+      "sentences": [
+        {
+          "en": "The police [enforce] the speed limit here.",
+          "tr": "Polis burada hız sınırını uyguluyor.",
+          "de": "Die Polizei setzt hier das Tempolimit durch.",
+          "fr": "La police fait respecter la limitation de vitesse ici.",
+          "it": "La polizia qui fa rispettare il limite di velocità.",
+          "es": "La policía hace cumplir aquí el límite de velocidad."
+        },
+        {
+          "en": "The new rule is hard to [enforce].",
+          "tr": "Yeni kuralı uygulamak zor.",
+          "de": "Die neue Regel ist schwer durchzusetzen.",
+          "fr": "La nouvelle règle est difficile à faire appliquer.",
+          "it": "La nuova regola è difficile da far rispettare.",
+          "es": "La nueva norma es difícil de hacer cumplir."
+        }
+      ]
+    },
+    {
+      "id": "reinforce",
+      "pos": "verb",
+      "parent": "force",
+      "parts": [
+        "re-",
+        "in-",
+        "force"
+      ],
+      "gloss": {
+        "en": "to make stronger, e.g. with more material or people",
+        "tr": "takviye etmek, pekiştirmek",
+        "de": "verstärken",
+        "fr": "renforcer",
+        "it": "rinforzare",
+        "es": "reforzar"
+      },
+      "sentences": [
+        {
+          "en": "Steel bars [reinforce] the concrete.",
+          "tr": "Çelik çubuklar betonu güçlendirir.",
+          "de": "Stahlstäbe verstärken den Beton.",
+          "fr": "Des barres d'acier renforcent le béton.",
+          "it": "Le barre d'acciaio rinforzano il calcestruzzo.",
+          "es": "Las barras de acero refuerzan el hormigón."
+        },
+        {
+          "en": "Exercises [reinforce] what you learned.",
+          "tr": "Alıştırmalar öğrendiklerini pekiştirir.",
+          "de": "Übungen festigen, was du gelernt hast.",
+          "fr": "Les exercices renforcent ce que tu as appris.",
+          "it": "Gli esercizi rinforzano ciò che hai imparato.",
+          "es": "Los ejercicios refuerzan lo que has aprendido."
+        }
+      ]
+    }
+  ]
+}

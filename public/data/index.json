@@ -43,6 +43,32 @@
     ]
   },
   {
+    "id": "ann",
+    "forms": [
+      "ann",
+      "annu",
+      "anni",
+      "enn"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "year",
+      "tr": "yıl",
+      "de": "Jahr",
+      "fr": "année, an",
+      "it": "anno",
+      "es": "año"
+    },
+    "words": [
+      "annual",
+      "annually",
+      "anniversary",
+      "annuity",
+      "perennial",
+      "biennial"
+    ]
+  },
+  {
     "id": "aqu",
     "forms": [
       "aqu",
@@ -858,6 +884,38 @@
       "deform",
       "deformity",
       "platform"
+    ]
+  },
+  {
+    "id": "fort",
+    "forms": [
+      "fort",
+      "force"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "strong (Late Latin fortia: strength)",
+      "tr": "güçlü (Geç Latince fortia: güç)",
+      "de": "stark (spätlateinisch fortia: Kraft)",
+      "fr": "fort (latin tardif fortia : force)",
+      "it": "forte (latino tardo fortia: forza)",
+      "es": "fuerte (latín tardío fortia: fuerza)"
+    },
+    "words": [
+      "fort",
+      "fortress",
+      "fortify",
+      "fortification",
+      "fortitude",
+      "effort",
+      "effortless",
+      "comfort",
+      "comfortable",
+      "uncomfortable",
+      "discomfort",
+      "force",
+      "enforce",
+      "reinforce"
     ]
   },
   {

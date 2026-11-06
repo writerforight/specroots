@@ -3387,5 +3387,39 @@
       "es": "del mar (latín marinus, de mare)"
     },
     "combining": true
+  },
+  "-vers": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "turning (Latin versus, from vertere)",
+      "tr": "dönme (Latince versus, vertere'den)",
+      "de": "Wendung (lateinisch versus, von vertere)",
+      "fr": "tour, retour (latin versus, de vertere)",
+      "it": "volgere (latino versus, da vertere)",
+      "es": "vuelta (latín versus, de vertere)"
+    },
+    "combining": true
+  },
+  "-ress": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "noun ending (Old French -esse)",
+      "tr": "isim eki (Eski Fransızca -esse)",
+      "de": "Nomenendung (altfranzösisch -esse)",
+      "fr": "terminaison de nom (ancien français -esse)",
+      "it": "desinenza di nome (francese antico -esse)",
+      "es": "terminación de sustantivo (francés antiguo -esse)"
+    }
+  },
+  "-itude": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "state or quality (Latin -itudo; makes a noun)",
+      "tr": "durum, nitelik (Latince -itudo; isim yapar)",
+      "de": "Zustand, Eigenschaft (lateinisch -itudo; bildet ein Nomen)",
+      "fr": "état, qualité (latin -itudo ; forme un nom)",
+      "it": "stato, qualità (latino -itudo; forma un nome)",
+      "es": "estado, cualidad (latín -itudo; forma un sustantivo)"
+    }
   }
 }

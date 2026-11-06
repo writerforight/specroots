@@ -29,9 +29,9 @@ Bir kökü öğrenen onlarca kelimeyi okuyabilir. *spec / spect* "bakmak" demek,
 
 ## Şu ana kadarki kökler
 
-73 kök ve 1605 kelime, her biri iki örnek cümleyle. Ayrıca fotoğraflı ve altı dilde adıyla kelime listelerinde **80 gündelik nesne** (tebeşir, kevgir, oklava…).
+75 kök ve 1624 kelime, her biri iki örnek cümleyle. Ayrıca fotoğraflı ve altı dilde adıyla kelime listelerinde **80 gündelik nesne** (tebeşir, kevgir, oklava…).
 
-- **Latince (63):** `act` · `aqu` · `aud` · `cad` · `cap` · `ced` · `cid` · `clud` · `corp` · `cred` · `cur` · `dict` · `duc` · `fac` · `fer` · `fin` · `flect` · `form` · `grad` · `ject` · `junct` · `leg` · `loc` · `mand` · `manu` · `mit` · `mort` · `mov` · `nect` · `nov` · `nunci` · `ped` · `pel` · `pend` · `plic` · `port` · `pos` · `prehend` · `press` · `rupt` · `scend` · `sci` · `scrib` · `sent` · `sequ` · `sist` · `solv` · `spec` · `spir` · `struct` · `sum` · `tempt` · `ten` · `tend` · `terr` · `tract` · `trib` · `ven` · `vert` · `vid` · `vinc` · `viv` · `voc`
+- **Latince (65):** `act` · `ann` · `aqu` · `aud` · `cad` · `cap` · `ced` · `cid` · `clud` · `corp` · `cred` · `cur` · `dict` · `duc` · `fac` · `fer` · `fin` · `flect` · `form` · `fort` · `grad` · `ject` · `junct` · `leg` · `loc` · `mand` · `manu` · `mit` · `mort` · `mov` · `nect` · `nov` · `nunci` · `ped` · `pel` · `pend` · `plic` · `port` · `pos` · `prehend` · `press` · `rupt` · `scend` · `sci` · `scrib` · `sent` · `sequ` · `sist` · `solv` · `spec` · `spir` · `struct` · `sum` · `tempt` · `ten` · `tend` · `terr` · `tract` · `trib` · `ven` · `vert` · `vid` · `vinc` · `viv` · `voc`
 - **Yunanca (10):** `bio` · `chron` · `graph` · `log` · `metr` · `morph` · `path` · `phon` · `photo` · `scop`
 
 Sıradaki adım ([SPEC.md](SPEC.md)): internetsiz kullanım.

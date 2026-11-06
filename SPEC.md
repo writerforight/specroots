@@ -47,7 +47,8 @@ seçilen dillerdeki karşılığı ve öğretici örnek cümleleri bir arada gö
     omniscient), 69. kök `nov` (novus, yeni: novel, novice, innovate, renovate),
     70. kök `mort` (mors, ölüm: mortal, immortal, mortgage, mortify), 71. kök `viv` (vivere/vita, yaşamak: vivid,
     survive, revive, vital, vitamin), 72. kök `terr` (terra, toprak: territory, terrain, terrace,
-    terrestrial, subterranean), 73. kök `aqu` (aqua, su: aquarium, aquatic, aqueduct, aquifer).
+    terrestrial, subterranean), 73. kök `aqu` (aqua, su: aquarium, aquatic, aqueduct, aquifer), 74. kök `ann` (annus, yıl: annual,
+    anniversary, perennial), 75. kök `fort` (fortis, güçlü: fort, effort, comfort, force, reinforce).
     Yeni kök sınırsız açılmaz; her biri kullanıcı onayıyla eklenir.
 12. **Mimari:** nesne yönelimli, katmanlı (aşağıda). Görünüm ve tema veri ve mantıktan bağımsız
     değiştirilebilir olmalı.

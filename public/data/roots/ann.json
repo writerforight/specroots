@@ -1,0 +1,235 @@
+{
+  "id": "ann",
+  "forms": [
+    "ann",
+    "annu",
+    "anni",
+    "enn"
+  ],
+  "origin": "la",
+  "etymon": "annus",
+  "meaning": {
+    "en": "year",
+    "tr": "yıl",
+    "de": "Jahr",
+    "fr": "année, an",
+    "it": "anno",
+    "es": "año"
+  },
+  "words": [
+    {
+      "id": "annual",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "ann",
+        "-ual"
+      ],
+      "gloss": {
+        "en": "happening once a year; for one year",
+        "tr": "yıllık",
+        "de": "jährlich, Jahres-",
+        "fr": "annuel",
+        "it": "annuale",
+        "es": "anual"
+      },
+      "sentences": [
+        {
+          "en": "The [annual] meeting is in March.",
+          "tr": "Yıllık toplantı martta.",
+          "de": "Die Jahresversammlung ist im März.",
+          "fr": "La réunion annuelle a lieu en mars.",
+          "it": "La riunione annuale è a marzo.",
+          "es": "La reunión anual es en marzo."
+        },
+        {
+          "en": "Her [annual] salary went up this year.",
+          "tr": "Yıllık maaşı bu yıl arttı.",
+          "de": "Ihr Jahresgehalt ist dieses Jahr gestiegen.",
+          "fr": "Son salaire annuel a augmenté cette année.",
+          "it": "Il suo stipendio annuo è aumentato quest'anno.",
+          "es": "Su salario anual subió este año."
+        }
+      ]
+    },
+    {
+      "id": "annually",
+      "pos": "adverb",
+      "parent": "annual",
+      "parts": [
+        "ann",
+        "-ual",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "once a year, every year",
+        "tr": "her yıl, yılda bir",
+        "de": "jährlich",
+        "fr": "chaque année",
+        "it": "annualmente",
+        "es": "anualmente"
+      },
+      "sentences": [
+        {
+          "en": "The festival takes place [annually].",
+          "tr": "Festival her yıl düzenleniyor.",
+          "de": "Das Festival findet jährlich statt.",
+          "fr": "Le festival a lieu chaque année.",
+          "it": "Il festival si tiene annualmente.",
+          "es": "El festival se celebra anualmente."
+        },
+        {
+          "en": "The prices are checked [annually].",
+          "tr": "Fiyatlar yılda bir kontrol ediliyor.",
+          "de": "Die Preise werden jährlich geprüft.",
+          "fr": "Les prix sont vérifiés chaque année.",
+          "it": "I prezzi vengono controllati ogni anno.",
+          "es": "Los precios se revisan cada año."
+        }
+      ]
+    },
+    {
+      "id": "anniversary",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "anni",
+        "-vers",
+        "-ary"
+      ],
+      "gloss": {
+        "en": "the same date as an event in an earlier year; literally: the year turning back",
+        "tr": "yıl dönümü",
+        "de": "der Jahrestag",
+        "fr": "l'anniversaire (d'un événement)",
+        "it": "l'anniversario",
+        "es": "el aniversario"
+      },
+      "sentences": [
+        {
+          "en": "Today is our wedding [anniversary].",
+          "tr": "Bugün evlilik yıl dönümümüz.",
+          "de": "Heute ist unser Hochzeitstag.",
+          "fr": "Aujourd'hui, c'est notre anniversaire de mariage.",
+          "it": "Oggi è il nostro anniversario di matrimonio.",
+          "es": "Hoy es nuestro aniversario de boda."
+        },
+        {
+          "en": "The city celebrates its 100th [anniversary].",
+          "tr": "Şehir 100. yıl dönümünü kutluyor.",
+          "de": "Die Stadt feiert ihr hundertjähriges Jubiläum.",
+          "fr": "La ville fête son centième anniversaire.",
+          "it": "La città festeggia il centesimo anniversario.",
+          "es": "La ciudad celebra su centenario."
+        }
+      ]
+    },
+    {
+      "id": "annuity",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "annu",
+        "-ity"
+      ],
+      "gloss": {
+        "en": "a fixed sum of money paid every year",
+        "tr": "yıllık gelir, rant",
+        "de": "die Jahresrente",
+        "fr": "la rente annuelle",
+        "it": "la rendita annua",
+        "es": "la anualidad, la renta"
+      },
+      "sentences": [
+        {
+          "en": "She lives on a small [annuity].",
+          "tr": "Küçük bir yıllık gelirle yaşıyor.",
+          "de": "Sie lebt von einer kleinen Rente.",
+          "fr": "Elle vit d'une petite rente.",
+          "it": "Vive di una piccola rendita.",
+          "es": "Vive de una pequeña renta anual."
+        },
+        {
+          "en": "The [annuity] is paid in January.",
+          "tr": "Yıllık ödeme ocakta yapılıyor.",
+          "de": "Die Jahresrente wird im Januar ausgezahlt.",
+          "fr": "La rente est versée en janvier.",
+          "it": "La rendita viene pagata a gennaio.",
+          "es": "La anualidad se paga en enero."
+        }
+      ]
+    },
+    {
+      "id": "perennial",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "per-",
+        "enn",
+        "-ial"
+      ],
+      "gloss": {
+        "en": "lasting through many years; (of plants) growing again every year",
+        "tr": "yıllarca süren, kalıcı; çok yıllık (bitki)",
+        "de": "immerwährend; mehrjährig",
+        "fr": "perpétuel; vivace (plante)",
+        "it": "perenne",
+        "es": "perenne"
+      },
+      "sentences": [
+        {
+          "en": "Traffic is a [perennial] problem in this city.",
+          "tr": "Trafik bu şehrin ezelî sorunudur.",
+          "de": "Der Verkehr ist ein ewiges Problem in dieser Stadt.",
+          "fr": "La circulation est un problème perpétuel dans cette ville.",
+          "it": "Il traffico è un problema perenne in questa città.",
+          "es": "El tráfico es un problema perenne en esta ciudad."
+        },
+        {
+          "en": "Lavender is a [perennial] plant.",
+          "tr": "Lavanta çok yıllık bir bitkidir.",
+          "de": "Lavendel ist eine mehrjährige Pflanze.",
+          "fr": "La lavande est une plante vivace.",
+          "it": "La lavanda è una pianta perenne.",
+          "es": "La lavanda es una planta perenne."
+        }
+      ]
+    },
+    {
+      "id": "biennial",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "bi-",
+        "enn",
+        "-ial"
+      ],
+      "gloss": {
+        "en": "happening every two years",
+        "tr": "iki yılda bir olan",
+        "de": "zweijährlich",
+        "fr": "biennal",
+        "it": "biennale",
+        "es": "bienal"
+      },
+      "sentences": [
+        {
+          "en": "Venice hosts a [biennial] art show.",
+          "tr": "Venedik iki yılda bir sanat sergisine ev sahipliği yapar.",
+          "de": "Venedig veranstaltet eine Kunstausstellung alle zwei Jahre.",
+          "fr": "Venise accueille une exposition d'art biennale.",
+          "it": "Venezia ospita una mostra d'arte biennale.",
+          "es": "Venecia acoge una muestra de arte bienal."
+        },
+        {
+          "en": "The conference is [biennial], not annual.",
+          "tr": "Konferans yıllık değil, iki yılda bir.",
+          "de": "Die Konferenz findet alle zwei Jahre statt, nicht jährlich.",
+          "fr": "La conférence est biennale, pas annuelle.",
+          "it": "La conferenza è biennale, non annuale.",
+          "es": "La conferencia es bienal, no anual."
+        }
+      ]
+    }
+  ]
+}
