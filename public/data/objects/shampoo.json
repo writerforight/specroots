@@ -1,0 +1,52 @@
+{
+  "id": "shampoo",
+  "name": "shampoo",
+  "names": {
+    "tr": "şampuan",
+    "de": "das Shampoo",
+    "fr": "le shampooing",
+    "it": "lo shampoo",
+    "es": "el champú"
+  },
+  "definition": {
+    "en": "a liquid soap for washing your hair",
+    "tr": "saç yıkamak için sıvı sabun",
+    "de": "eine flüssige Seife zum Haarewaschen",
+    "fr": "un savon liquide pour se laver les cheveux",
+    "it": "un sapone liquido per lavare i capelli",
+    "es": "un jabón líquido para lavarse el pelo"
+  },
+  "breakdown": {},
+  "origin": "Hindi chāmpo (press! massage!), via the British in India",
+  "root": null,
+  "image": {
+    "file": "Hair wash with shampoo.jpg",
+    "wikidata": "Q180204"
+  },
+  "sentences": [
+    {
+      "en": "This [shampoo] smells of apples.",
+      "tr": "Bu şampuan elma kokuyor.",
+      "de": "Dieses Shampoo riecht nach Äpfeln.",
+      "fr": "Ce shampooing sent la pomme.",
+      "it": "Questo shampoo profuma di mela.",
+      "es": "Este champú huele a manzana."
+    },
+    {
+      "en": "Rinse the [shampoo] out well.",
+      "tr": "Şampuanı iyice durula.",
+      "de": "Spül das Shampoo gut aus.",
+      "fr": "Rince bien le shampooing.",
+      "it": "Risciacqua bene lo shampoo.",
+      "es": "Aclara bien el champú."
+    },
+    {
+      "en": "Don't get [shampoo] in your eyes.",
+      "tr": "Gözüne şampuan kaçırma.",
+      "de": "Pass auf, dass kein Shampoo in die Augen kommt.",
+      "fr": "Ne mets pas de shampooing dans les yeux.",
+      "it": "Non farti entrare lo shampoo negli occhi.",
+      "es": "Que no te entre champú en los ojos."
+    }
+  ]
+}

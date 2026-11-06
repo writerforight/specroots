@@ -1,0 +1,69 @@
+{
+  "id": "deodorant",
+  "name": "deodorant",
+  "names": {
+    "tr": "deodorant",
+    "de": "das Deo",
+    "fr": "le déodorant",
+    "it": "il deodorante",
+    "es": "el desodorante"
+  },
+  "definition": {
+    "en": "a product you put under your arms to stop bad smells",
+    "tr": "kötü kokuyu önlemek için koltuk altına sürülen ürün",
+    "de": "ein Mittel, das man unter die Arme gibt, gegen Körpergeruch",
+    "fr": "un produit qu'on met sous les bras contre les mauvaises odeurs",
+    "it": "un prodotto da mettere sotto le ascelle contro i cattivi odori",
+    "es": "un producto que se pone en las axilas contra el mal olor"
+  },
+  "breakdown": {
+    "en": [
+      {
+        "text": "de",
+        "gloss": "away",
+        "affix": "de-"
+      },
+      {
+        "text": "odor",
+        "gloss": "smell (Latin odor)"
+      },
+      {
+        "text": "ant",
+        "gloss": "doing",
+        "affix": "-ant"
+      }
+    ]
+  },
+  "origin": "de- (away) + Latin odor (smell) + -ant",
+  "root": null,
+  "image": {
+    "file": "20-06-18-Deodorants RRK6884.jpg",
+    "wikidata": "Q309035"
+  },
+  "sentences": [
+    {
+      "en": "Don't forget [deodorant] after sport.",
+      "tr": "Spordan sonra deodorantı unutma.",
+      "de": "Vergiss nach dem Sport das Deo nicht.",
+      "fr": "N'oublie pas le déodorant après le sport.",
+      "it": "Non dimenticare il deodorante dopo lo sport.",
+      "es": "No olvides el desodorante después del deporte."
+    },
+    {
+      "en": "This [deodorant] has no smell.",
+      "tr": "Bu deodorantın kokusu yok.",
+      "de": "Dieses Deo ist geruchlos.",
+      "fr": "Ce déodorant n'a pas d'odeur.",
+      "it": "Questo deodorante non ha profumo.",
+      "es": "Este desodorante no huele a nada."
+    },
+    {
+      "en": "He sprayed too much [deodorant].",
+      "tr": "Çok fazla deodorant sıktı.",
+      "de": "Er hat zu viel Deo gesprüht.",
+      "fr": "Il a mis trop de déodorant.",
+      "it": "Ha spruzzato troppo deodorante.",
+      "es": "Se echó demasiado desodorante."
+    }
+  ]
+}

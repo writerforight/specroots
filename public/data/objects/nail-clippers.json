@@ -1,0 +1,81 @@
+{
+  "id": "nail-clippers",
+  "name": "nail clippers",
+  "names": {
+    "tr": "tırnak makası",
+    "de": "der Nagelknipser",
+    "fr": "le coupe-ongles",
+    "it": "il tagliaunghie",
+    "es": "el cortaúñas"
+  },
+  "definition": {
+    "en": "a small metal tool for cutting fingernails and toenails",
+    "tr": "el ve ayak tırnaklarını kesmek için küçük metal alet",
+    "de": "ein kleines Metallwerkzeug zum Schneiden von Finger- und Fußnägeln",
+    "fr": "un petit outil en métal pour couper les ongles",
+    "it": "un piccolo attrezzo di metallo per tagliare le unghie",
+    "es": "una pequeña herramienta de metal para cortar las uñas"
+  },
+  "breakdown": {
+    "en": [
+      {
+        "text": "nail",
+        "gloss": "nail"
+      },
+      {
+        "text": "clip",
+        "gloss": "cut (Old Norse klippa)"
+      },
+      {
+        "text": "pers",
+        "gloss": "thing that does (-er, plural)"
+      }
+    ],
+    "de": [
+      {
+        "text": "Nagel",
+        "gloss": "nail"
+      },
+      {
+        "text": "knips",
+        "gloss": "snip (knipsen)"
+      },
+      {
+        "text": "er",
+        "gloss": "thing that does"
+      }
+    ]
+  },
+  "origin": "nail + clip (Old Norse klippa, to cut) + -er",
+  "root": null,
+  "image": {
+    "file": "2023 Obcinacze do paznokci.jpg",
+    "wikidata": "Q270380"
+  },
+  "sentences": [
+    {
+      "en": "Where are the [nail clippers]?",
+      "tr": "Tırnak makası nerede?",
+      "de": "Wo ist der Nagelknipser?",
+      "fr": "Où est le coupe-ongles ?",
+      "it": "Dov'è il tagliaunghie?",
+      "es": "¿Dónde está el cortaúñas?"
+    },
+    {
+      "en": "Cut the baby's nails with small [nail clippers].",
+      "tr": "Bebeğin tırnaklarını küçük bir tırnak makasıyla kes.",
+      "de": "Schneid dem Baby die Nägel mit einem kleinen Nagelknipser.",
+      "fr": "Coupe les ongles du bébé avec un petit coupe-ongles.",
+      "it": "Taglia le unghie del bambino con un piccolo tagliaunghie.",
+      "es": "Córtale las uñas al bebé con un cortaúñas pequeño."
+    },
+    {
+      "en": "You can't take [nail clippers] in hand luggage on some flights.",
+      "tr": "Bazı uçuşlarda el bagajına tırnak makası alınamaz.",
+      "de": "Auf manchen Flügen darf kein Nagelknipser ins Handgepäck.",
+      "fr": "Sur certains vols, le coupe-ongles est interdit en cabine.",
+      "it": "Su alcuni voli il tagliaunghie non è ammesso nel bagaglio a mano.",
+      "es": "En algunos vuelos no se puede llevar cortaúñas en el equipaje de mano."
+    }
+  ]
+}

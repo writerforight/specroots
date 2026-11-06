@@ -1,0 +1,77 @@
+{
+  "id": "bathroom-scale",
+  "name": "bathroom scale",
+  "names": {
+    "tr": "banyo tartısı",
+    "de": "die Personenwaage",
+    "fr": "le pèse-personne",
+    "it": "la bilancia pesapersone",
+    "es": "la báscula de baño"
+  },
+  "definition": {
+    "en": "a flat device you stand on to see your weight",
+    "tr": "üstüne çıkarak kilonu gördüğün düz alet",
+    "de": "ein flaches Gerät, auf das man sich stellt, um sein Gewicht zu sehen",
+    "fr": "un appareil plat sur lequel on monte pour se peser",
+    "it": "un apparecchio piatto su cui si sale per pesarsi",
+    "es": "un aparato plano al que te subes para ver tu peso"
+  },
+  "breakdown": {
+    "en": [
+      {
+        "text": "bath",
+        "gloss": "bath"
+      },
+      {
+        "text": "room",
+        "gloss": "room"
+      },
+      {
+        "text": "scale",
+        "gloss": "scale"
+      }
+    ],
+    "de": [
+      {
+        "text": "Personen",
+        "gloss": "person"
+      },
+      {
+        "text": "waage",
+        "gloss": "scale (wiegen = to weigh)"
+      }
+    ]
+  },
+  "origin": "bath + room + scale (Old Norse skál, a bowl)",
+  "root": null,
+  "image": {
+    "file": "Personenwaage (fcm).jpg",
+    "wikidata": "Q1421918"
+  },
+  "sentences": [
+    {
+      "en": "I stepped on the [bathroom scale] after the holidays.",
+      "tr": "Tatilden sonra banyo tartısına çıktım.",
+      "de": "Nach den Feiertagen habe ich mich auf die Waage gestellt.",
+      "fr": "Je suis monté sur le pèse-personne après les fêtes.",
+      "it": "Dopo le feste sono salito sulla bilancia.",
+      "es": "Después de las fiestas me subí a la báscula."
+    },
+    {
+      "en": "Our [bathroom scale] shows one kilo too much.",
+      "tr": "Banyo tartımız bir kilo fazla gösteriyor.",
+      "de": "Unsere Waage zeigt ein Kilo zu viel an.",
+      "fr": "Notre pèse-personne affiche un kilo de trop.",
+      "it": "La nostra bilancia segna un chilo in più.",
+      "es": "Nuestra báscula marca un kilo de más."
+    },
+    {
+      "en": "Put the [bathroom scale] on a hard floor.",
+      "tr": "Banyo tartısını sert bir zemine koy.",
+      "de": "Stell die Personenwaage auf einen harten Boden.",
+      "fr": "Pose le pèse-personne sur un sol dur.",
+      "it": "Metti la bilancia su un pavimento duro.",
+      "es": "Pon la báscula sobre un suelo duro."
+    }
+  ]
+}

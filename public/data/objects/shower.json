@@ -1,0 +1,52 @@
+{
+  "id": "shower",
+  "name": "shower",
+  "names": {
+    "tr": "duş",
+    "de": "die Dusche",
+    "fr": "la douche",
+    "it": "la doccia",
+    "es": "la ducha"
+  },
+  "definition": {
+    "en": "a place where you wash under water falling from above",
+    "tr": "üstten akan suyun altında yıkanılan yer",
+    "de": "ein Ort, an dem man sich unter von oben fallendem Wasser wäscht",
+    "fr": "un endroit où l'on se lave sous l'eau qui tombe d'en haut",
+    "it": "un posto dove ci si lava sotto l'acqua che cade dall'alto",
+    "es": "un lugar donde uno se lava bajo agua que cae de arriba"
+  },
+  "breakdown": {},
+  "origin": "Old English scūr (a short fall of rain)",
+  "root": null,
+  "image": {
+    "file": "Showerhead.JPG",
+    "wikidata": "Q7863"
+  },
+  "sentences": [
+    {
+      "en": "I take a [shower] every morning.",
+      "tr": "Her sabah duş alırım.",
+      "de": "Ich dusche jeden Morgen.",
+      "fr": "Je prends une douche tous les matins.",
+      "it": "Faccio la doccia ogni mattina.",
+      "es": "Me ducho todas las mañanas."
+    },
+    {
+      "en": "The [shower] is cold again!",
+      "tr": "Duş yine soğuk!",
+      "de": "Die Dusche ist schon wieder kalt!",
+      "fr": "La douche est encore froide !",
+      "it": "La doccia è di nuovo fredda!",
+      "es": "¡La ducha vuelve a estar fría!"
+    },
+    {
+      "en": "We got caught in a [shower] on the way home.",
+      "tr": "Eve dönerken sağanağa yakalandık.",
+      "de": "Auf dem Heimweg sind wir in einen Schauer gekommen.",
+      "fr": "Nous avons été surpris par une averse en rentrant.",
+      "it": "Siamo stati sorpresi da un acquazzone tornando a casa.",
+      "es": "Nos pilló un chaparrón de camino a casa."
+    }
+  ]
+}

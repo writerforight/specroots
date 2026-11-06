@@ -1,0 +1,73 @@
+{
+  "id": "hairbrush",
+  "name": "hairbrush",
+  "names": {
+    "tr": "saç fırçası",
+    "de": "die Haarbürste",
+    "fr": "la brosse à cheveux",
+    "it": "la spazzola",
+    "es": "el cepillo de pelo"
+  },
+  "definition": {
+    "en": "a brush for making your hair tidy",
+    "tr": "saçı düzeltmek için fırça",
+    "de": "eine Bürste, um die Haare zu ordnen",
+    "fr": "une brosse pour se coiffer",
+    "it": "una spazzola per pettinarsi",
+    "es": "un cepillo para peinarse"
+  },
+  "breakdown": {
+    "en": [
+      {
+        "text": "hair",
+        "gloss": "hair"
+      },
+      {
+        "text": "brush",
+        "gloss": "brush"
+      }
+    ],
+    "de": [
+      {
+        "text": "Haar",
+        "gloss": "hair"
+      },
+      {
+        "text": "bürste",
+        "gloss": "brush"
+      }
+    ]
+  },
+  "origin": "hair + brush",
+  "root": null,
+  "image": {
+    "file": "Hairbrush with metal bristles.jpg",
+    "wikidata": "Q1642980"
+  },
+  "sentences": [
+    {
+      "en": "She keeps a [hairbrush] in her bag.",
+      "tr": "Çantasında bir saç fırçası taşıyor.",
+      "de": "Sie hat eine Haarbürste in der Tasche.",
+      "fr": "Elle garde une brosse à cheveux dans son sac.",
+      "it": "Tiene una spazzola nella borsa.",
+      "es": "Lleva un cepillo de pelo en el bolso."
+    },
+    {
+      "en": "My [hairbrush] is full of hair.",
+      "tr": "Saç fırçam saç dolu.",
+      "de": "Meine Haarbürste ist voller Haare.",
+      "fr": "Ma brosse est pleine de cheveux.",
+      "it": "La mia spazzola è piena di capelli.",
+      "es": "Mi cepillo está lleno de pelos."
+    },
+    {
+      "en": "Use a soft [hairbrush] for children.",
+      "tr": "Çocuklar için yumuşak bir saç fırçası kullan.",
+      "de": "Nimm für Kinder eine weiche Haarbürste.",
+      "fr": "Utilise une brosse douce pour les enfants.",
+      "it": "Usa una spazzola morbida per i bambini.",
+      "es": "Usa un cepillo suave para los niños."
+    }
+  ]
+}

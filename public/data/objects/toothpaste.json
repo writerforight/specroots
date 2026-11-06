@@ -1,0 +1,73 @@
+{
+  "id": "toothpaste",
+  "name": "toothpaste",
+  "names": {
+    "tr": "diş macunu",
+    "de": "die Zahnpasta",
+    "fr": "le dentifrice",
+    "it": "il dentifricio",
+    "es": "la pasta de dientes"
+  },
+  "definition": {
+    "en": "a paste you put on a toothbrush to clean your teeth",
+    "tr": "dişleri temizlemek için fırçaya sürülen macun",
+    "de": "eine Paste, die man zum Zähneputzen auf die Bürste gibt",
+    "fr": "une pâte qu'on met sur la brosse pour se laver les dents",
+    "it": "una pasta che si mette sullo spazzolino per lavarsi i denti",
+    "es": "una pasta que se pone en el cepillo para lavarse los dientes"
+  },
+  "breakdown": {
+    "en": [
+      {
+        "text": "tooth",
+        "gloss": "tooth"
+      },
+      {
+        "text": "paste",
+        "gloss": "paste"
+      }
+    ],
+    "de": [
+      {
+        "text": "Zahn",
+        "gloss": "tooth"
+      },
+      {
+        "text": "pasta",
+        "gloss": "paste"
+      }
+    ]
+  },
+  "origin": "tooth + paste (Late Latin pasta, dough)",
+  "root": null,
+  "image": {
+    "file": "Toothpasteonbrush.jpg",
+    "wikidata": "Q35855"
+  },
+  "sentences": [
+    {
+      "en": "We're out of [toothpaste].",
+      "tr": "Diş macunumuz bitti.",
+      "de": "Die Zahnpasta ist alle.",
+      "fr": "Il n'y a plus de dentifrice.",
+      "it": "È finito il dentifricio.",
+      "es": "Se nos ha acabado la pasta de dientes."
+    },
+    {
+      "en": "Put the cap back on the [toothpaste].",
+      "tr": "Diş macununun kapağını kapat.",
+      "de": "Mach den Deckel wieder auf die Zahnpasta.",
+      "fr": "Remets le bouchon du dentifrice.",
+      "it": "Rimetti il tappo al dentifricio.",
+      "es": "Pon el tapón a la pasta de dientes."
+    },
+    {
+      "en": "A pea-sized bit of [toothpaste] is enough.",
+      "tr": "Bezelye kadar diş macunu yeterli.",
+      "de": "Eine erbsengroße Menge Zahnpasta reicht.",
+      "fr": "Une noisette de dentifrice suffit.",
+      "it": "Basta una quantità di dentifricio grande come un pisello.",
+      "es": "Basta una cantidad de pasta del tamaño de un guisante."
+    }
+  ]
+}

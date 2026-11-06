@@ -1,0 +1,68 @@
+{
+  "id": "hairdryer",
+  "name": "hairdryer",
+  "names": {
+    "tr": "saç kurutma makinesi",
+    "de": "der Föhn",
+    "fr": "le sèche-cheveux",
+    "it": "l'asciugacapelli",
+    "es": "el secador de pelo"
+  },
+  "definition": {
+    "en": "an electric machine that blows hot air to dry your hair",
+    "tr": "saçı kurutmak için sıcak hava üfleyen elektrikli makine",
+    "de": "ein elektrisches Gerät, das warme Luft bläst, um die Haare zu trocknen",
+    "fr": "un appareil électrique qui souffle de l'air chaud pour sécher les cheveux",
+    "it": "un apparecchio elettrico che soffia aria calda per asciugare i capelli",
+    "es": "un aparato eléctrico que echa aire caliente para secar el pelo"
+  },
+  "breakdown": {
+    "en": [
+      {
+        "text": "hair",
+        "gloss": "hair"
+      },
+      {
+        "text": "dry",
+        "gloss": "dry"
+      },
+      {
+        "text": "er",
+        "gloss": "thing that does",
+        "affix": "-er"
+      }
+    ]
+  },
+  "origin": "hair + dry + -er (German Föhn is named after the warm Alpine wind)",
+  "root": null,
+  "image": {
+    "file": "Hairdryer 20101109.jpg",
+    "wikidata": "Q15004"
+  },
+  "sentences": [
+    {
+      "en": "Can I borrow your [hairdryer]?",
+      "tr": "Saç kurutma makineni ödünç alabilir miyim?",
+      "de": "Kann ich deinen Föhn ausleihen?",
+      "fr": "Je peux t'emprunter ton sèche-cheveux ?",
+      "it": "Posso prendere in prestito il tuo asciugacapelli?",
+      "es": "¿Me prestas tu secador de pelo?"
+    },
+    {
+      "en": "The hotel room has a [hairdryer].",
+      "tr": "Otel odasında saç kurutma makinesi var.",
+      "de": "Im Hotelzimmer gibt es einen Föhn.",
+      "fr": "La chambre d'hôtel a un sèche-cheveux.",
+      "it": "La camera d'albergo ha un asciugacapelli.",
+      "es": "La habitación del hotel tiene secador."
+    },
+    {
+      "en": "Don't use a [hairdryer] near water.",
+      "tr": "Saç kurutma makinesini suyun yanında kullanma.",
+      "de": "Benutz den Föhn nicht in der Nähe von Wasser.",
+      "fr": "N'utilise pas de sèche-cheveux près de l'eau.",
+      "it": "Non usare l'asciugacapelli vicino all'acqua.",
+      "es": "No uses el secador cerca del agua."
+    }
+  ]
+}

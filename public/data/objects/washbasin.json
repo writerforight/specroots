@@ -1,0 +1,73 @@
+{
+  "id": "washbasin",
+  "name": "washbasin",
+  "names": {
+    "tr": "lavabo",
+    "de": "das Waschbecken",
+    "fr": "le lavabo",
+    "it": "il lavandino",
+    "es": "el lavabo"
+  },
+  "definition": {
+    "en": "a small basin with taps for washing your hands and face",
+    "tr": "el ve yüz yıkamak için musluklu küçük tekne",
+    "de": "ein kleines Becken mit Wasserhahn zum Waschen von Händen und Gesicht",
+    "fr": "un petit bac avec robinets pour se laver les mains et le visage",
+    "it": "un piccolo lavabo con rubinetti per lavarsi mani e viso",
+    "es": "una pila pequeña con grifos para lavarse las manos y la cara"
+  },
+  "breakdown": {
+    "en": [
+      {
+        "text": "wash",
+        "gloss": "wash"
+      },
+      {
+        "text": "basin",
+        "gloss": "basin"
+      }
+    ],
+    "de": [
+      {
+        "text": "Wasch",
+        "gloss": "wash (waschen)"
+      },
+      {
+        "text": "becken",
+        "gloss": "basin"
+      }
+    ]
+  },
+  "origin": "wash + basin (Old French bacin)",
+  "root": null,
+  "image": {
+    "file": "Sink and taps in the men's locker room 3 BW.jpg",
+    "wikidata": "Q140565"
+  },
+  "sentences": [
+    {
+      "en": "Wash your face at the [washbasin].",
+      "tr": "Yüzünü lavaboda yıka.",
+      "de": "Wasch dir das Gesicht am Waschbecken.",
+      "fr": "Lave-toi le visage au lavabo.",
+      "it": "Lavati la faccia al lavandino.",
+      "es": "Lávate la cara en el lavabo."
+    },
+    {
+      "en": "There is a mirror above the [washbasin].",
+      "tr": "Lavabonun üstünde bir ayna var.",
+      "de": "Über dem Waschbecken hängt ein Spiegel.",
+      "fr": "Il y a un miroir au-dessus du lavabo.",
+      "it": "Sopra il lavandino c'è uno specchio.",
+      "es": "Hay un espejo encima del lavabo."
+    },
+    {
+      "en": "The [washbasin] is full of hair again.",
+      "tr": "Lavabo yine saç dolu.",
+      "de": "Das Waschbecken ist schon wieder voller Haare.",
+      "fr": "Le lavabo est encore plein de cheveux.",
+      "it": "Il lavandino è di nuovo pieno di capelli.",
+      "es": "El lavabo está otra vez lleno de pelos."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "toilet",
+  "name": "toilet",
+  "names": {
+    "tr": "tuvalet",
+    "de": "die Toilette",
+    "fr": "les toilettes",
+    "it": "il water",
+    "es": "el inodoro"
+  },
+  "definition": {
+    "en": "the seat and bowl you use to get rid of body waste; also the room",
+    "tr": "vücut atıkları için kullanılan klozet; ayrıca o oda",
+    "de": "das Becken mit Sitz für die Notdurft; auch der Raum",
+    "fr": "la cuvette avec siège pour faire ses besoins ; aussi la pièce",
+    "it": "il vaso con sedile per i bisogni; anche la stanza",
+    "es": "la taza con asiento para hacer las necesidades; también el cuarto"
+  },
+  "breakdown": {},
+  "origin": "French toilette (a small cloth, then the dressing table, then the room)",
+  "root": null,
+  "image": {
+    "file": "Wc1.jpg",
+    "wikidata": "Q7857"
+  },
+  "sentences": [
+    {
+      "en": "Where is the [toilet], please?",
+      "tr": "Tuvalet nerede, lütfen?",
+      "de": "Wo ist bitte die Toilette?",
+      "fr": "Où sont les toilettes, s'il vous plaît ?",
+      "it": "Dov'è il bagno, per favore?",
+      "es": "¿Dónde está el baño, por favor?"
+    },
+    {
+      "en": "Don't forget to flush the [toilet].",
+      "tr": "Sifonu çekmeyi unutma.",
+      "de": "Vergiss nicht zu spülen.",
+      "fr": "N'oublie pas de tirer la chasse d'eau.",
+      "it": "Non dimenticare di tirare lo sciacquone.",
+      "es": "No olvides tirar de la cadena."
+    },
+    {
+      "en": "The [toilet] is blocked; call a plumber.",
+      "tr": "Tuvalet tıkandı; bir tesisatçı çağır.",
+      "de": "Die Toilette ist verstopft; ruf einen Klempner.",
+      "fr": "Les toilettes sont bouchées ; appelle un plombier.",
+      "it": "Il water è intasato; chiama un idraulico.",
+      "es": "El inodoro está atascado; llama a un fontanero."
+    }
+  ]
+}
