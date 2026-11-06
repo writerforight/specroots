@@ -1,0 +1,407 @@
+{
+  "id": "psych",
+  "forms": [
+    "psych",
+    "psycho",
+    "psyche"
+  ],
+  "origin": "gr",
+  "etymon": "psykhḗ",
+  "meaning": {
+    "en": "mind, soul (literally: breath)",
+    "tr": "ruh, zihin (sözcük anlamı: nefes)",
+    "de": "Seele, Geist (wörtlich: Atem)",
+    "fr": "âme, esprit (littéralement : souffle)",
+    "it": "anima, mente (letteralmente: respiro)",
+    "es": "alma, mente (literalmente: aliento)"
+  },
+  "words": [
+    {
+      "id": "psyche",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "psyche"
+      ],
+      "gloss": {
+        "en": "the mind or soul of a person; Greek psykhḗ, breath, soul",
+        "tr": "ruh, psişe",
+        "de": "die Psyche",
+        "fr": "la psyché",
+        "it": "la psiche",
+        "es": "la psique"
+      },
+      "sentences": [
+        {
+          "en": "The war left deep marks on his [psyche].",
+          "tr": "Savaş onun ruhunda derin izler bıraktı.",
+          "de": "Der Krieg hinterließ tiefe Spuren in seiner Psyche.",
+          "fr": "La guerre a laissé des traces profondes dans sa psyché.",
+          "it": "La guerra ha lasciato segni profondi nella sua psiche.",
+          "es": "La guerra dejó huellas profundas en su psique."
+        },
+        {
+          "en": "Novels help us understand the human [psyche].",
+          "tr": "Romanlar insan ruhunu anlamamıza yardım eder.",
+          "de": "Romane helfen uns, die menschliche Psyche zu verstehen.",
+          "fr": "Les romans nous aident à comprendre la psyché humaine.",
+          "it": "I romanzi ci aiutano a capire la psiche umana.",
+          "es": "Las novelas nos ayudan a entender la psique humana."
+        }
+      ]
+    },
+    {
+      "id": "psychic",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "psych",
+        "-ic"
+      ],
+      "gloss": {
+        "en": "claiming to know the future or read minds (also a noun: such a person)",
+        "tr": "medyum; ruhsal",
+        "de": "übersinnlich; (Nomen) das Medium",
+        "fr": "médium; psychique",
+        "it": "sensitivo; psichico",
+        "es": "vidente; psíquico"
+      },
+      "sentences": [
+        {
+          "en": "She visited a [psychic] to learn about her future.",
+          "tr": "Geleceğini öğrenmek için bir medyuma gitti.",
+          "de": "Sie besuchte ein Medium, um etwas über ihre Zukunft zu erfahren.",
+          "fr": "Elle est allée voir une voyante pour connaître son avenir.",
+          "it": "È andata da una sensitiva per conoscere il futuro.",
+          "es": "Visitó a una vidente para saber su futuro."
+        },
+        {
+          "en": "I'm not [psychic]; just tell me what you want!",
+          "tr": "Ben medyum değilim; ne istediğini söyle!",
+          "de": "Ich bin kein Hellseher; sag mir einfach, was du willst!",
+          "fr": "Je ne suis pas devin ; dis-moi ce que tu veux !",
+          "it": "Non sono un indovino; dimmi cosa vuoi!",
+          "es": "No soy adivino; ¡dime qué quieres!"
+        }
+      ]
+    },
+    {
+      "id": "psychology",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "psycho",
+        "-logy"
+      ],
+      "gloss": {
+        "en": "the science of the mind and behaviour",
+        "tr": "psikoloji",
+        "de": "die Psychologie",
+        "fr": "la psychologie",
+        "it": "la psicologia",
+        "es": "la psicología"
+      },
+      "sentences": [
+        {
+          "en": "She studies [psychology] at university.",
+          "tr": "Üniversitede psikoloji okuyor.",
+          "de": "Sie studiert Psychologie.",
+          "fr": "Elle étudie la psychologie à l'université.",
+          "it": "Studia psicologia all'università.",
+          "es": "Estudia psicología en la universidad."
+        },
+        {
+          "en": "Good sellers understand customer [psychology].",
+          "tr": "İyi satıcılar müşteri psikolojisini anlar.",
+          "de": "Gute Verkäufer verstehen die Psychologie der Kunden.",
+          "fr": "Les bons vendeurs comprennent la psychologie du client.",
+          "it": "I bravi venditori capiscono la psicologia dei clienti.",
+          "es": "Los buenos vendedores entienden la psicología del cliente."
+        }
+      ]
+    },
+    {
+      "id": "psychologist",
+      "pos": "noun",
+      "parent": "psychology",
+      "parts": [
+        "psycho",
+        "-logist"
+      ],
+      "gloss": {
+        "en": "a person who studies the mind or helps people with mental problems",
+        "tr": "psikolog",
+        "de": "der Psychologe",
+        "fr": "le psychologue",
+        "it": "lo psicologo",
+        "es": "el psicólogo"
+      },
+      "sentences": [
+        {
+          "en": "The school has a [psychologist] for students.",
+          "tr": "Okulun öğrenciler için bir psikoloğu var.",
+          "de": "Die Schule hat einen Psychologen für die Schüler.",
+          "fr": "L'école a un psychologue pour les élèves.",
+          "it": "La scuola ha uno psicologo per gli studenti.",
+          "es": "El colegio tiene un psicólogo para los alumnos."
+        },
+        {
+          "en": "Talking to a [psychologist] helped him a lot.",
+          "tr": "Bir psikologla konuşmak ona çok yardımcı oldu.",
+          "de": "Mit einem Psychologen zu sprechen hat ihm sehr geholfen.",
+          "fr": "Parler à un psychologue l'a beaucoup aidé.",
+          "it": "Parlare con uno psicologo lo ha aiutato molto.",
+          "es": "Hablar con un psicólogo le ayudó mucho."
+        }
+      ]
+    },
+    {
+      "id": "psychological",
+      "pos": "adjective",
+      "parent": "psychology",
+      "parts": [
+        "psycho",
+        "-logical"
+      ],
+      "gloss": {
+        "en": "relating to the mind",
+        "tr": "psikolojik",
+        "de": "psychologisch",
+        "fr": "psychologique",
+        "it": "psicologico",
+        "es": "psicológico"
+      },
+      "sentences": [
+        {
+          "en": "Exams put a lot of [psychological] pressure on students.",
+          "tr": "Sınavlar öğrencilere çok psikolojik baskı yapar.",
+          "de": "Prüfungen setzen Studierende psychologisch stark unter Druck.",
+          "fr": "Les examens mettent beaucoup de pression psychologique sur les étudiants.",
+          "it": "Gli esami mettono molta pressione psicologica sugli studenti.",
+          "es": "Los exámenes ponen mucha presión psicológica a los estudiantes."
+        },
+        {
+          "en": "It's a [psychological] thriller.",
+          "tr": "Bu bir psikolojik gerilim filmi.",
+          "de": "Das ist ein Psychothriller.",
+          "fr": "C'est un thriller psychologique.",
+          "it": "È un thriller psicologico.",
+          "es": "Es un thriller psicológico."
+        }
+      ]
+    },
+    {
+      "id": "psychiatry",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "psych",
+        "-iatr",
+        "-y"
+      ],
+      "gloss": {
+        "en": "the branch of medicine that treats mental illness; literally: healing of the soul",
+        "tr": "psikiyatri",
+        "de": "die Psychiatrie",
+        "fr": "la psychiatrie",
+        "it": "la psichiatria",
+        "es": "la psiquiatría"
+      },
+      "sentences": [
+        {
+          "en": "He chose [psychiatry] after medical school.",
+          "tr": "Tıp fakültesinden sonra psikiyatriyi seçti.",
+          "de": "Nach dem Medizinstudium entschied er sich für Psychiatrie.",
+          "fr": "Il a choisi la psychiatrie après la fac de médecine.",
+          "it": "Dopo medicina ha scelto psichiatria.",
+          "es": "Eligió psiquiatría después de Medicina."
+        },
+        {
+          "en": "Modern [psychiatry] uses talk and medicine.",
+          "tr": "Modern psikiyatri konuşma ve ilaç kullanır.",
+          "de": "Die moderne Psychiatrie arbeitet mit Gesprächen und Medikamenten.",
+          "fr": "La psychiatrie moderne utilise la parole et les médicaments.",
+          "it": "La psichiatria moderna usa la parola e i farmaci.",
+          "es": "La psiquiatría moderna usa la palabra y los fármacos."
+        }
+      ]
+    },
+    {
+      "id": "psychiatrist",
+      "pos": "noun",
+      "parent": "psychiatry",
+      "parts": [
+        "psych",
+        "-iatr",
+        "-ist"
+      ],
+      "gloss": {
+        "en": "a doctor who treats mental illness",
+        "tr": "psikiyatrist",
+        "de": "der Psychiater",
+        "fr": "le psychiatre",
+        "it": "lo psichiatra",
+        "es": "el psiquiatra"
+      },
+      "sentences": [
+        {
+          "en": "The [psychiatrist] prescribed a new medicine.",
+          "tr": "Psikiyatrist yeni bir ilaç yazdı.",
+          "de": "Der Psychiater verschrieb ein neues Medikament.",
+          "fr": "Le psychiatre a prescrit un nouveau médicament.",
+          "it": "Lo psichiatra ha prescritto un nuovo farmaco.",
+          "es": "El psiquiatra le recetó un medicamento nuevo."
+        },
+        {
+          "en": "A [psychiatrist] is a medical doctor; a psychologist is not.",
+          "tr": "Psikiyatrist tıp doktorudur, psikolog değildir.",
+          "de": "Ein Psychiater ist Arzt, ein Psychologe nicht.",
+          "fr": "Un psychiatre est médecin, un psychologue non.",
+          "it": "Lo psichiatra è un medico, lo psicologo no.",
+          "es": "El psiquiatra es médico; el psicólogo, no."
+        }
+      ]
+    },
+    {
+      "id": "psychiatric",
+      "pos": "adjective",
+      "parent": "psychiatry",
+      "parts": [
+        "psych",
+        "-iatr",
+        "-ic"
+      ],
+      "gloss": {
+        "en": "relating to the treatment of mental illness",
+        "tr": "psikiyatrik",
+        "de": "psychiatrisch",
+        "fr": "psychiatrique",
+        "it": "psichiatrico",
+        "es": "psiquiátrico"
+      },
+      "sentences": [
+        {
+          "en": "She works in a [psychiatric] hospital.",
+          "tr": "Bir psikiyatri hastanesinde çalışıyor.",
+          "de": "Sie arbeitet in einer psychiatrischen Klinik.",
+          "fr": "Elle travaille dans un hôpital psychiatrique.",
+          "it": "Lavora in un ospedale psichiatrico.",
+          "es": "Trabaja en un hospital psiquiátrico."
+        },
+        {
+          "en": "He needs [psychiatric] help.",
+          "tr": "Psikiyatrik yardıma ihtiyacı var.",
+          "de": "Er braucht psychiatrische Hilfe.",
+          "fr": "Il a besoin d'une aide psychiatrique.",
+          "it": "Ha bisogno di aiuto psichiatrico.",
+          "es": "Necesita ayuda psiquiátrica."
+        }
+      ]
+    },
+    {
+      "id": "psychotherapy",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "psycho",
+        "-therapy"
+      ],
+      "gloss": {
+        "en": "treating mental problems by talking",
+        "tr": "psikoterapi",
+        "de": "die Psychotherapie",
+        "fr": "la psychothérapie",
+        "it": "la psicoterapia",
+        "es": "la psicoterapia"
+      },
+      "sentences": [
+        {
+          "en": "[Psychotherapy] can help with anxiety.",
+          "tr": "Psikoterapi kaygıya yardımcı olabilir.",
+          "de": "Psychotherapie kann bei Angst helfen.",
+          "fr": "La psychothérapie peut aider contre l'anxiété.",
+          "it": "La psicoterapia può aiutare con l'ansia.",
+          "es": "La psicoterapia puede ayudar con la ansiedad."
+        },
+        {
+          "en": "She has been in [psychotherapy] for a year.",
+          "tr": "Bir yıldır psikoterapi görüyor.",
+          "de": "Sie ist seit einem Jahr in Psychotherapie.",
+          "fr": "Elle suit une psychothérapie depuis un an.",
+          "it": "È in psicoterapia da un anno.",
+          "es": "Lleva un año en psicoterapia."
+        }
+      ]
+    },
+    {
+      "id": "psychosis",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "psych",
+        "-osis"
+      ],
+      "gloss": {
+        "en": "a serious mental illness in which a person loses touch with reality",
+        "tr": "psikoz",
+        "de": "die Psychose",
+        "fr": "la psychose",
+        "it": "la psicosi",
+        "es": "la psicosis"
+      },
+      "sentences": [
+        {
+          "en": "During [psychosis], people may hear voices.",
+          "tr": "Psikoz sırasında insanlar sesler duyabilir.",
+          "de": "Während einer Psychose hören Menschen manchmal Stimmen.",
+          "fr": "Pendant une psychose, on peut entendre des voix.",
+          "it": "Durante una psicosi si possono sentire voci.",
+          "es": "Durante una psicosis se pueden oír voces."
+        },
+        {
+          "en": "Lack of sleep can trigger [psychosis].",
+          "tr": "Uykusuzluk psikozu tetikleyebilir.",
+          "de": "Schlafmangel kann eine Psychose auslösen.",
+          "fr": "Le manque de sommeil peut déclencher une psychose.",
+          "it": "La mancanza di sonno può scatenare una psicosi.",
+          "es": "La falta de sueño puede desencadenar una psicosis."
+        }
+      ]
+    },
+    {
+      "id": "psychopath",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "psycho",
+        "-path"
+      ],
+      "gloss": {
+        "en": "a person with a mental disorder who feels no guilt or empathy",
+        "tr": "psikopat",
+        "de": "der Psychopath",
+        "fr": "le psychopathe",
+        "it": "lo psicopatico",
+        "es": "el psicópata"
+      },
+      "sentences": [
+        {
+          "en": "The villain in the film is a [psychopath].",
+          "tr": "Filmdeki kötü adam bir psikopat.",
+          "de": "Der Bösewicht im Film ist ein Psychopath.",
+          "fr": "Le méchant du film est un psychopathe.",
+          "it": "Il cattivo del film è uno psicopatico.",
+          "es": "El villano de la película es un psicópata."
+        },
+        {
+          "en": "[Psychopaths] can seem very charming.",
+          "tr": "Psikopatlar çok çekici görünebilir.",
+          "de": "Psychopathen können sehr charmant wirken.",
+          "fr": "Les psychopathes peuvent paraître très charmants.",
+          "it": "Gli psicopatici possono sembrare molto affascinanti.",
+          "es": "Los psicópatas pueden parecer muy encantadores."
+        }
+      ]
+    }
+  ]
+}

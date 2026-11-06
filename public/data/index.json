@@ -1050,6 +1050,32 @@
     ]
   },
   {
+    "id": "hydr",
+    "forms": [
+      "hydr",
+      "hydro"
+    ],
+    "origin": "gr",
+    "meaning": {
+      "en": "water",
+      "tr": "su",
+      "de": "Wasser",
+      "fr": "eau",
+      "it": "acqua",
+      "es": "agua"
+    },
+    "words": [
+      "hydrogen",
+      "hydrate",
+      "dehydrate",
+      "dehydration",
+      "hydraulic",
+      "hydroelectric",
+      "hydrant",
+      "carbohydrate"
+    ]
+  },
+  {
     "id": "ject",
     "forms": [
       "ject"
@@ -2180,6 +2206,36 @@
       "compressor",
       "repress",
       "irrepressible"
+    ]
+  },
+  {
+    "id": "psych",
+    "forms": [
+      "psych",
+      "psycho",
+      "psyche"
+    ],
+    "origin": "gr",
+    "meaning": {
+      "en": "mind, soul (literally: breath)",
+      "tr": "ruh, zihin (sözcük anlamı: nefes)",
+      "de": "Seele, Geist (wörtlich: Atem)",
+      "fr": "âme, esprit (littéralement : souffle)",
+      "it": "anima, mente (letteralmente: respiro)",
+      "es": "alma, mente (literalmente: aliento)"
+    },
+    "words": [
+      "psyche",
+      "psychic",
+      "psychology",
+      "psychologist",
+      "psychological",
+      "psychiatry",
+      "psychiatrist",
+      "psychiatric",
+      "psychotherapy",
+      "psychosis",
+      "psychopath"
     ]
   },
   {

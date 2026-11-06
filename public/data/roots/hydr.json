@@ -1,0 +1,303 @@
+{
+  "id": "hydr",
+  "forms": [
+    "hydr",
+    "hydro"
+  ],
+  "origin": "gr",
+  "etymon": "hýdōr",
+  "meaning": {
+    "en": "water",
+    "tr": "su",
+    "de": "Wasser",
+    "fr": "eau",
+    "it": "acqua",
+    "es": "agua"
+  },
+  "words": [
+    {
+      "id": "hydrogen",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "hydro",
+        "-gen"
+      ],
+      "gloss": {
+        "en": "the lightest gas, which forms water with oxygen; literally: water-maker",
+        "tr": "hidrojen",
+        "de": "der Wasserstoff",
+        "fr": "l'hydrogène",
+        "it": "l'idrogeno",
+        "es": "el hidrógeno"
+      },
+      "sentences": [
+        {
+          "en": "Water is made of [hydrogen] and oxygen.",
+          "tr": "Su hidrojen ve oksijenden oluşur.",
+          "de": "Wasser besteht aus Wasserstoff und Sauerstoff.",
+          "fr": "L'eau est composée d'hydrogène et d'oxygène.",
+          "it": "L'acqua è fatta di idrogeno e ossigeno.",
+          "es": "El agua está formada por hidrógeno y oxígeno."
+        },
+        {
+          "en": "Some buses now run on [hydrogen].",
+          "tr": "Bazı otobüsler artık hidrojenle çalışıyor.",
+          "de": "Manche Busse fahren jetzt mit Wasserstoff.",
+          "fr": "Certains bus roulent désormais à l'hydrogène.",
+          "it": "Alcuni autobus ora vanno a idrogeno.",
+          "es": "Algunos autobuses ya funcionan con hidrógeno."
+        }
+      ]
+    },
+    {
+      "id": "hydrate",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "hydr",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "to give water to; to keep the body or skin wet enough",
+        "tr": "nemlendirmek, su vermek",
+        "de": "mit Wasser versorgen, befeuchten",
+        "fr": "hydrater",
+        "it": "idratare",
+        "es": "hidratar"
+      },
+      "sentences": [
+        {
+          "en": "Drink water to [hydrate] after running.",
+          "tr": "Koşudan sonra vücudunu nemlendirmek için su iç.",
+          "de": "Trink nach dem Laufen Wasser, um deinen Körper zu versorgen.",
+          "fr": "Bois de l'eau pour t'hydrater après la course.",
+          "it": "Bevi acqua per idratarti dopo la corsa.",
+          "es": "Bebe agua para hidratarte después de correr."
+        },
+        {
+          "en": "This cream [hydrates] dry skin.",
+          "tr": "Bu krem kuru cildi nemlendirir.",
+          "de": "Diese Creme spendet trockener Haut Feuchtigkeit.",
+          "fr": "Cette crème hydrate les peaux sèches.",
+          "it": "Questa crema idrata la pelle secca.",
+          "es": "Esta crema hidrata la piel seca."
+        }
+      ]
+    },
+    {
+      "id": "dehydrate",
+      "pos": "verb",
+      "parent": "hydrate",
+      "parts": [
+        "de-",
+        "hydr",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "to lose or remove water",
+        "tr": "susuz kalmak, kurutmak",
+        "de": "austrocknen, dehydrieren",
+        "fr": "déshydrater",
+        "it": "disidratare",
+        "es": "deshidratar"
+      },
+      "sentences": [
+        {
+          "en": "You can [dehydrate] quickly in the desert.",
+          "tr": "Çölde çabucak susuz kalabilirsin.",
+          "de": "In der Wüste kann man schnell austrocknen.",
+          "fr": "On peut se déshydrater vite dans le désert.",
+          "it": "Nel deserto ci si può disidratare in fretta.",
+          "es": "En el desierto te puedes deshidratar rápido."
+        },
+        {
+          "en": "The fruit is [dehydrated] for long storage.",
+          "tr": "Meyve uzun süre saklamak için kurutuluyor.",
+          "de": "Das Obst wird für lange Lagerung getrocknet.",
+          "fr": "Les fruits sont déshydratés pour se conserver longtemps.",
+          "it": "La frutta viene disidratata per conservarla a lungo.",
+          "es": "La fruta se deshidrata para conservarla mucho tiempo."
+        }
+      ]
+    },
+    {
+      "id": "dehydration",
+      "pos": "noun",
+      "parent": "dehydrate",
+      "parts": [
+        "de-",
+        "hydr",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "a dangerous lack of water in the body",
+        "tr": "vücudun susuz kalması, dehidrasyon",
+        "de": "die Dehydrierung, der Flüssigkeitsmangel",
+        "fr": "la déshydratation",
+        "it": "la disidratazione",
+        "es": "la deshidratación"
+      },
+      "sentences": [
+        {
+          "en": "Headaches can be a sign of [dehydration].",
+          "tr": "Baş ağrısı susuz kalmanın bir işareti olabilir.",
+          "de": "Kopfschmerzen können ein Zeichen von Flüssigkeitsmangel sein.",
+          "fr": "Les maux de tête peuvent être un signe de déshydratation.",
+          "it": "Il mal di testa può essere un segno di disidratazione.",
+          "es": "El dolor de cabeza puede ser señal de deshidratación."
+        },
+        {
+          "en": "Babies suffer from [dehydration] very quickly.",
+          "tr": "Bebekler çok çabuk susuz kalır.",
+          "de": "Babys trocknen sehr schnell aus.",
+          "fr": "Les bébés souffrent très vite de déshydratation.",
+          "it": "I neonati si disidratano molto in fretta.",
+          "es": "Los bebés se deshidratan muy rápido."
+        }
+      ]
+    },
+    {
+      "id": "hydraulic",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "hydr",
+        "-aul",
+        "-ic"
+      ],
+      "gloss": {
+        "en": "moved by the pressure of water or oil; literally: water pipe",
+        "tr": "hidrolik",
+        "de": "hydraulisch",
+        "fr": "hydraulique",
+        "it": "idraulico",
+        "es": "hidráulico"
+      },
+      "sentences": [
+        {
+          "en": "The truck has a [hydraulic] lift.",
+          "tr": "Kamyonun hidrolik bir kaldırıcısı var.",
+          "de": "Der Lastwagen hat eine hydraulische Hebebühne.",
+          "fr": "Le camion a un élévateur hydraulique.",
+          "it": "Il camion ha un sollevatore idraulico.",
+          "es": "El camión tiene un elevador hidráulico."
+        },
+        {
+          "en": "Car brakes use [hydraulic] pressure.",
+          "tr": "Araba frenleri hidrolik basınç kullanır.",
+          "de": "Autobremsen arbeiten mit hydraulischem Druck.",
+          "fr": "Les freins de voiture utilisent la pression hydraulique.",
+          "it": "I freni dell'auto usano la pressione idraulica.",
+          "es": "Los frenos del coche usan presión hidráulica."
+        }
+      ]
+    },
+    {
+      "id": "hydroelectric",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "hydro",
+        "-electric"
+      ],
+      "gloss": {
+        "en": "making electricity from moving water",
+        "tr": "hidroelektrik",
+        "de": "Wasserkraft-",
+        "fr": "hydroélectrique",
+        "it": "idroelettrico",
+        "es": "hidroeléctrico"
+      },
+      "sentences": [
+        {
+          "en": "The dam has a [hydroelectric] power station.",
+          "tr": "Barajın bir hidroelektrik santrali var.",
+          "de": "Der Damm hat ein Wasserkraftwerk.",
+          "fr": "Le barrage a une centrale hydroélectrique.",
+          "it": "La diga ha una centrale idroelettrica.",
+          "es": "La presa tiene una central hidroeléctrica."
+        },
+        {
+          "en": "Norway uses a lot of [hydroelectric] power.",
+          "tr": "Norveç çok miktarda hidroelektrik enerjisi kullanır.",
+          "de": "Norwegen nutzt viel Wasserkraft.",
+          "fr": "La Norvège utilise beaucoup d'énergie hydroélectrique.",
+          "it": "La Norvegia usa molta energia idroelettrica.",
+          "es": "Noruega usa mucha energía hidroeléctrica."
+        }
+      ]
+    },
+    {
+      "id": "hydrant",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "hydr",
+        "-ant"
+      ],
+      "gloss": {
+        "en": "a pipe in the street where firefighters get water",
+        "tr": "yangın musluğu",
+        "de": "der Hydrant",
+        "fr": "la bouche d'incendie",
+        "it": "l'idrante",
+        "es": "la boca de incendios"
+      },
+      "sentences": [
+        {
+          "en": "Don't park in front of the fire [hydrant].",
+          "tr": "Yangın musluğunun önüne park etme.",
+          "de": "Park nicht vor dem Hydranten.",
+          "fr": "Ne te gare pas devant la bouche d'incendie.",
+          "it": "Non parcheggiare davanti all'idrante.",
+          "es": "No aparques delante de la boca de incendios."
+        },
+        {
+          "en": "Kids played in the water from a broken [hydrant].",
+          "tr": "Çocuklar kırık bir yangın musluğundan çıkan suda oynadı.",
+          "de": "Kinder spielten im Wasser eines kaputten Hydranten.",
+          "fr": "Des enfants jouaient dans l'eau d'une bouche d'incendie cassée.",
+          "it": "I bambini giocavano con l'acqua di un idrante rotto.",
+          "es": "Los niños jugaban con el agua de una boca de incendios rota."
+        }
+      ]
+    },
+    {
+      "id": "carbohydrate",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "carbo-",
+        "hydr",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "a food substance like sugar or starch that gives energy; literally: carbon with water",
+        "tr": "karbonhidrat",
+        "de": "das Kohlenhydrat",
+        "fr": "le glucide",
+        "it": "il carboidrato",
+        "es": "el hidrato de carbono"
+      },
+      "sentences": [
+        {
+          "en": "Pasta and rice are full of [carbohydrates].",
+          "tr": "Makarna ve pirinç karbonhidrat doludur.",
+          "de": "Nudeln und Reis sind voller Kohlenhydrate.",
+          "fr": "Les pâtes et le riz sont riches en glucides.",
+          "it": "Pasta e riso sono ricchi di carboidrati.",
+          "es": "La pasta y el arroz están llenos de hidratos de carbono."
+        },
+        {
+          "en": "Athletes eat [carbohydrates] before a race.",
+          "tr": "Sporcular yarıştan önce karbonhidrat yer.",
+          "de": "Sportler essen vor einem Rennen Kohlenhydrate.",
+          "fr": "Les athlètes mangent des glucides avant une course.",
+          "it": "Gli atleti mangiano carboidrati prima di una gara.",
+          "es": "Los atletas comen hidratos antes de una carrera."
+        }
+      ]
+    }
+  ]
+}

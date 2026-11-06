@@ -3524,5 +3524,89 @@
       "it": "desinenza di nome (greco -os)",
       "es": "terminación de sustantivo (griego -os)"
     }
+  },
+  "-gen": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "producing, born of (Greek -genes)",
+      "tr": "üreten, doğuran (Yunanca -genes)",
+      "de": "erzeugend (griechisch -genes)",
+      "fr": "qui produit (grec -genes)",
+      "it": "che produce (greco -genes)",
+      "es": "que produce (griego -genes)"
+    },
+    "combining": true
+  },
+  "-aul": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "pipe (Greek aulos)",
+      "tr": "boru (Yunanca aulos)",
+      "de": "Rohr (griechisch aulos)",
+      "fr": "tuyau (grec aulos)",
+      "it": "tubo (greco aulos)",
+      "es": "tubo (griego aulos)"
+    },
+    "combining": true
+  },
+  "-electric": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "electric (Greek ēlektron, amber)",
+      "tr": "elektrik (Yunanca ēlektron, kehribar)",
+      "de": "elektrisch (griechisch ēlektron, Bernstein)",
+      "fr": "électrique (grec ēlektron, ambre)",
+      "it": "elettrico (greco ēlektron, ambra)",
+      "es": "eléctrico (griego ēlektron, ámbar)"
+    },
+    "combining": true
+  },
+  "carbo-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "carbon (Latin carbo, coal)",
+      "tr": "karbon (Latince carbo, kömür)",
+      "de": "Kohlenstoff (lateinisch carbo, Kohle)",
+      "fr": "carbone (latin carbo, charbon)",
+      "it": "carbonio (latino carbo, carbone)",
+      "es": "carbono (latín carbo, carbón)"
+    },
+    "combining": true
+  },
+  "-iatr": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "healing, doctor (Greek iatros)",
+      "tr": "tedavi, hekim (Yunanca iatros)",
+      "de": "Heilung, Arzt (griechisch iatros)",
+      "fr": "soin, médecin (grec iatros)",
+      "it": "cura, medico (greco iatros)",
+      "es": "curación, médico (griego iatros)"
+    },
+    "combining": true
+  },
+  "-therapy": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "treatment (Greek therapeia)",
+      "tr": "tedavi (Yunanca therapeia)",
+      "de": "Behandlung (griechisch therapeia)",
+      "fr": "traitement (grec therapeia)",
+      "it": "trattamento (greco therapeia)",
+      "es": "tratamiento (griego therapeia)"
+    },
+    "combining": true
+  },
+  "-path": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "feeling, suffering, disease (Greek pathos)",
+      "tr": "duygu, acı, hastalık (Yunanca pathos)",
+      "de": "Gefühl, Leiden, Krankheit (griechisch pathos)",
+      "fr": "sentiment, souffrance, maladie (grec pathos)",
+      "it": "sentimento, sofferenza, malattia (greco pathos)",
+      "es": "sentimiento, sufrimiento, enfermedad (griego pathos)"
+    },
+    "combining": true
   }
 }

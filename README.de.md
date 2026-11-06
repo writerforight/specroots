@@ -29,10 +29,10 @@ Wer eine Wurzel kennt, versteht Dutzende Wörter. *spec / spect* heißt „schau
 
 ## Bisherige Wurzeln
 
-83 Wurzeln und 1699 Wörter, jedes mit zwei Beispielsätzen. Dazu **129 Alltagsgegenstände** in Wortlisten (Kreide, Sieb, Nudelholz…) mit Foto und ihrem Namen in allen sechs Sprachen.
+85 Wurzeln und 1714 Wörter, jedes mit zwei Beispielsätzen. Dazu **129 Alltagsgegenstände** in Wortlisten (Kreide, Sieb, Nudelholz…) mit Foto und ihrem Namen in allen sechs Sprachen.
 
 - **Lateinisch (72):** `act` · `ann` · `aqu` · `aud` · `cad` · `cap` · `ced` · `cid` · `clud` · `corp` · `cred` · `cur` · `dict` · `duc` · `fac` · `fer` · `fin` · `flect` · `form` · `fort` · `grad` · `grat` · `ject` · `junct` · `leg` · `loc` · `magn` · `mand` · `manu` · `ment` · `mit` · `mort` · `mov` · `nat` · `nect` · `nomin` · `nov` · `nunci` · `ped` · `pel` · `pend` · `plic` · `port` · `pos` · `prehend` · `press` · `rupt` · `scend` · `sci` · `scrib` · `sent` · `sequ` · `sign` · `sist` · `solv` · `spec` · `spir` · `struct` · `sum` · `temp` · `tempt` · `ten` · `tend` · `terr` · `tract` · `trib` · `ven` · `vert` · `vid` · `vinc` · `viv` · `voc`
-- **Griechisch (11):** `bio` · `chron` · `graph` · `log` · `metr` · `morph` · `path` · `phon` · `photo` · `scop` · `therm`
+- **Griechisch (13):** `bio` · `chron` · `graph` · `hydr` · `log` · `metr` · `morph` · `path` · `phon` · `photo` · `psych` · `scop` · `therm`
 
 Als Nächstes ([SPEC.md](SPEC.md), auf Türkisch): Offline-Nutzung.
 
