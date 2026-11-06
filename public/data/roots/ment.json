@@ -1,0 +1,303 @@
+{
+  "id": "ment",
+  "forms": [
+    "ment"
+  ],
+  "origin": "la",
+  "etymon": "mens, mentis",
+  "meaning": {
+    "en": "mind",
+    "tr": "akıl, zihin",
+    "de": "Geist, Verstand",
+    "fr": "esprit",
+    "it": "mente",
+    "es": "mente"
+  },
+  "words": [
+    {
+      "id": "mental",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "ment",
+        "-al"
+      ],
+      "gloss": {
+        "en": "of the mind",
+        "tr": "zihinsel, ruhsal",
+        "de": "geistig, psychisch",
+        "fr": "mental",
+        "it": "mentale",
+        "es": "mental"
+      },
+      "sentences": [
+        {
+          "en": "[Mental] health is as important as physical health.",
+          "tr": "Ruh sağlığı beden sağlığı kadar önemlidir.",
+          "de": "Psychische Gesundheit ist so wichtig wie körperliche.",
+          "fr": "La santé mentale est aussi importante que la santé physique.",
+          "it": "La salute mentale è importante quanto quella fisica.",
+          "es": "La salud mental es tan importante como la física."
+        },
+        {
+          "en": "Chess is good [mental] exercise.",
+          "tr": "Satranç iyi bir zihin egzersizidir.",
+          "de": "Schach ist gutes Gehirntraining.",
+          "fr": "Les échecs sont un bon exercice mental.",
+          "it": "Gli scacchi sono un buon esercizio mentale.",
+          "es": "El ajedrez es un buen ejercicio mental."
+        }
+      ]
+    },
+    {
+      "id": "mentally",
+      "pos": "adverb",
+      "parent": "mental",
+      "parts": [
+        "ment",
+        "-al",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "in the mind",
+        "tr": "zihinsel olarak",
+        "de": "geistig, psychisch",
+        "fr": "mentalement",
+        "it": "mentalmente",
+        "es": "mentalmente"
+      },
+      "sentences": [
+        {
+          "en": "After the exam I was [mentally] tired.",
+          "tr": "Sınavdan sonra zihnen yorgundum.",
+          "de": "Nach der Prüfung war ich geistig erschöpft.",
+          "fr": "Après l'examen, j'étais mentalement épuisé.",
+          "it": "Dopo l'esame ero mentalmente stanco.",
+          "es": "Después del examen estaba mentalmente agotado."
+        },
+        {
+          "en": "Athletes prepare [mentally] before a race.",
+          "tr": "Sporcular yarıştan önce zihinsel olarak hazırlanır.",
+          "de": "Sportler bereiten sich vor dem Rennen mental vor.",
+          "fr": "Les athlètes se préparent mentalement avant une course.",
+          "it": "Gli atleti si preparano mentalmente prima della gara.",
+          "es": "Los atletas se preparan mentalmente antes de una carrera."
+        }
+      ]
+    },
+    {
+      "id": "mentality",
+      "pos": "noun",
+      "parent": "mental",
+      "parts": [
+        "ment",
+        "-al",
+        "-ity"
+      ],
+      "gloss": {
+        "en": "a way of thinking",
+        "tr": "zihniyet",
+        "de": "die Mentalität, die Denkweise",
+        "fr": "la mentalité",
+        "it": "la mentalità",
+        "es": "la mentalidad"
+      },
+      "sentences": [
+        {
+          "en": "We need to change our [mentality] about waste.",
+          "tr": "Atık konusundaki zihniyetimizi değiştirmeliyiz.",
+          "de": "Wir müssen unsere Denkweise über Müll ändern.",
+          "fr": "Il faut changer notre mentalité sur les déchets.",
+          "it": "Dobbiamo cambiare mentalità sui rifiuti.",
+          "es": "Tenemos que cambiar nuestra mentalidad sobre los residuos."
+        },
+        {
+          "en": "The team has a winning [mentality].",
+          "tr": "Takımın kazanan bir zihniyeti var.",
+          "de": "Die Mannschaft hat eine Siegermentalität.",
+          "fr": "L'équipe a une mentalité de gagnant.",
+          "it": "La squadra ha una mentalità vincente.",
+          "es": "El equipo tiene mentalidad ganadora."
+        }
+      ]
+    },
+    {
+      "id": "mention",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ment",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "to speak or write about something briefly; literally: calling to mind",
+        "tr": "bahsetmek, değinmek",
+        "de": "erwähnen",
+        "fr": "mentionner",
+        "it": "menzionare",
+        "es": "mencionar"
+      },
+      "sentences": [
+        {
+          "en": "Did she [mention] the party?",
+          "tr": "Partiden bahsetti mi?",
+          "de": "Hat sie die Party erwähnt?",
+          "fr": "Elle a mentionné la fête ?",
+          "it": "Ha menzionato la festa?",
+          "es": "¿Mencionó la fiesta?"
+        },
+        {
+          "en": "Don't [mention] it, I was happy to help.",
+          "tr": "Lafı mı olur, yardım etmekten mutluluk duydum.",
+          "de": "Nicht der Rede wert, ich habe gern geholfen.",
+          "fr": "Il n'y a pas de quoi, j'étais content d'aider.",
+          "it": "Figurati, è stato un piacere aiutarti.",
+          "es": "No hay de qué, me alegró ayudar."
+        }
+      ]
+    },
+    {
+      "id": "comment",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "com-",
+        "ment"
+      ],
+      "gloss": {
+        "en": "a remark that gives an opinion (also a verb: to make a remark)",
+        "tr": "yorum",
+        "de": "der Kommentar, die Bemerkung",
+        "fr": "le commentaire",
+        "it": "il commento",
+        "es": "el comentario"
+      },
+      "sentences": [
+        {
+          "en": "Please leave a [comment] below the video.",
+          "tr": "Lütfen videonun altına bir yorum bırak.",
+          "de": "Bitte hinterlass einen Kommentar unter dem Video.",
+          "fr": "Laisse un commentaire sous la vidéo, s'il te plaît.",
+          "it": "Lascia un commento sotto il video, per favore.",
+          "es": "Deja un comentario debajo del vídeo, por favor."
+        },
+        {
+          "en": "The minister refused to [comment].",
+          "tr": "Bakan yorum yapmayı reddetti.",
+          "de": "Der Minister lehnte einen Kommentar ab.",
+          "fr": "Le ministre a refusé de commenter.",
+          "it": "Il ministro si è rifiutato di commentare.",
+          "es": "El ministro se negó a hacer comentarios."
+        }
+      ]
+    },
+    {
+      "id": "commentary",
+      "pos": "noun",
+      "parent": "comment",
+      "parts": [
+        "com-",
+        "ment",
+        "-ary"
+      ],
+      "gloss": {
+        "en": "a spoken description of an event as it happens; notes explaining a text",
+        "tr": "(canlı) anlatım, yorum; şerh",
+        "de": "der Kommentar, die Reportage",
+        "fr": "le commentaire",
+        "it": "la telecronaca, il commento",
+        "es": "la retransmisión, el comentario"
+      },
+      "sentences": [
+        {
+          "en": "We listened to the match [commentary] on the radio.",
+          "tr": "Maçın anlatımını radyodan dinledik.",
+          "de": "Wir hörten die Spielreportage im Radio.",
+          "fr": "Nous avons écouté le commentaire du match à la radio.",
+          "it": "Abbiamo ascoltato la telecronaca alla radio.",
+          "es": "Escuchamos la retransmisión del partido por la radio."
+        },
+        {
+          "en": "The book has a [commentary] on each poem.",
+          "tr": "Kitapta her şiir için bir şerh var.",
+          "de": "Das Buch hat einen Kommentar zu jedem Gedicht.",
+          "fr": "Le livre comporte un commentaire sur chaque poème.",
+          "it": "Il libro ha un commento a ogni poesia.",
+          "es": "El libro tiene un comentario de cada poema."
+        }
+      ]
+    },
+    {
+      "id": "commentator",
+      "pos": "noun",
+      "parent": "comment",
+      "parts": [
+        "com-",
+        "ment",
+        "-ator"
+      ],
+      "gloss": {
+        "en": "a person who describes an event on TV or radio",
+        "tr": "spiker, yorumcu",
+        "de": "der Kommentator",
+        "fr": "le commentateur",
+        "it": "il commentatore, il telecronista",
+        "es": "el comentarista"
+      },
+      "sentences": [
+        {
+          "en": "The [commentator] shouted \"Goal!\"",
+          "tr": "Spiker \"Gol!\" diye bağırdı.",
+          "de": "Der Kommentator schrie \"Tor!\".",
+          "fr": "Le commentateur a crié « But ! ».",
+          "it": "Il telecronista ha gridato \"Gol!\".",
+          "es": "El comentarista gritó \"¡Gol!\"."
+        },
+        {
+          "en": "She works as a political [commentator].",
+          "tr": "Siyasi yorumcu olarak çalışıyor.",
+          "de": "Sie arbeitet als politische Kommentatorin.",
+          "fr": "Elle travaille comme commentatrice politique.",
+          "it": "Lavora come commentatrice politica.",
+          "es": "Trabaja como comentarista política."
+        }
+      ]
+    },
+    {
+      "id": "demented",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "de-",
+        "ment",
+        "-ed"
+      ],
+      "gloss": {
+        "en": "suffering from dementia; informally: crazy; literally: out of one's mind",
+        "tr": "bunamış; (gündelik) çılgın",
+        "de": "dement; (umgangssprachlich) verrückt",
+        "fr": "dément; fou",
+        "it": "demente; pazzo",
+        "es": "demente; loco"
+      },
+      "sentences": [
+        {
+          "en": "Her grandfather became [demented] in old age.",
+          "tr": "Dedesi yaşlılıkta bunadı.",
+          "de": "Ihr Großvater wurde im Alter dement.",
+          "fr": "Son grand-père est devenu dément avec l'âge.",
+          "it": "Suo nonno è diventato demente da anziano.",
+          "es": "Su abuelo se volvió demente con la edad."
+        },
+        {
+          "en": "The dog ran around like a [demented] thing.",
+          "tr": "Köpek deli gibi etrafta koştu.",
+          "de": "Der Hund rannte wie verrückt herum.",
+          "fr": "Le chien courait partout comme un fou.",
+          "it": "Il cane correva in giro come un pazzo.",
+          "es": "El perro corría por todas partes como loco."
+        }
+      ]
+    }
+  ]
+}

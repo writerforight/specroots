@@ -1,0 +1,449 @@
+{
+  "id": "nat",
+  "forms": [
+    "nat",
+    "nate",
+    "natur"
+  ],
+  "origin": "la",
+  "etymon": "nasci, natus",
+  "meaning": {
+    "en": "to be born (natura: birth, nature)",
+    "tr": "doğmak (natura: doğuş, doğa)",
+    "de": "geboren werden (natura: Geburt, Natur)",
+    "fr": "naître (natura : naissance, nature)",
+    "it": "nascere (natura: nascita, natura)",
+    "es": "nacer (natura: nacimiento, naturaleza)"
+  },
+  "words": [
+    {
+      "id": "native",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "nat",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "belonging to a place by birth; (of a language) learned first as a child",
+        "tr": "yerli; (dil) ana dili",
+        "de": "einheimisch; Mutter-",
+        "fr": "natal, indigène; maternel (langue)",
+        "it": "nativo; madrelingua",
+        "es": "nativo, natal"
+      },
+      "sentences": [
+        {
+          "en": "Turkish is my [native] language.",
+          "tr": "Türkçe benim ana dilim.",
+          "de": "Türkisch ist meine Muttersprache.",
+          "fr": "Le turc est ma langue maternelle.",
+          "it": "Il turco è la mia lingua madre.",
+          "es": "El turco es mi lengua materna."
+        },
+        {
+          "en": "She speaks German like a [native] speaker.",
+          "tr": "Almancayı anadili gibi konuşuyor.",
+          "de": "Sie spricht Deutsch wie eine Muttersprachlerin.",
+          "fr": "Elle parle allemand comme une langue maternelle.",
+          "it": "Parla tedesco come una madrelingua.",
+          "es": "Habla alemán como una nativa."
+        }
+      ]
+    },
+    {
+      "id": "nation",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "nat",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a country and its people; literally: a group born together",
+        "tr": "ulus, millet",
+        "de": "die Nation",
+        "fr": "la nation",
+        "it": "la nazione",
+        "es": "la nación"
+      },
+      "sentences": [
+        {
+          "en": "The whole [nation] watched the final.",
+          "tr": "Bütün ulus finali izledi.",
+          "de": "Die ganze Nation sah das Finale.",
+          "fr": "Toute la nation a regardé la finale.",
+          "it": "Tutta la nazione ha guardato la finale.",
+          "es": "Toda la nación vio la final."
+        },
+        {
+          "en": "The United [Nations] is in New York.",
+          "tr": "Birleşmiş Milletler New York'ta.",
+          "de": "Die Vereinten Nationen sitzen in New York.",
+          "fr": "Les Nations unies sont à New York.",
+          "it": "Le Nazioni Unite sono a New York.",
+          "es": "Las Naciones Unidas están en Nueva York."
+        }
+      ]
+    },
+    {
+      "id": "national",
+      "pos": "adjective",
+      "parent": "nation",
+      "parts": [
+        "nat",
+        "-ion",
+        "-al"
+      ],
+      "gloss": {
+        "en": "of a whole nation",
+        "tr": "ulusal, milli",
+        "de": "national, landesweit",
+        "fr": "national",
+        "it": "nazionale",
+        "es": "nacional"
+      },
+      "sentences": [
+        {
+          "en": "Today is a [national] holiday.",
+          "tr": "Bugün resmî tatil.",
+          "de": "Heute ist ein Nationalfeiertag.",
+          "fr": "Aujourd'hui, c'est un jour férié national.",
+          "it": "Oggi è festa nazionale.",
+          "es": "Hoy es fiesta nacional."
+        },
+        {
+          "en": "He plays for the [national] team.",
+          "tr": "Milli takımda oynuyor.",
+          "de": "Er spielt in der Nationalmannschaft.",
+          "fr": "Il joue dans l'équipe nationale.",
+          "it": "Gioca nella nazionale.",
+          "es": "Juega en la selección nacional."
+        }
+      ]
+    },
+    {
+      "id": "nationality",
+      "pos": "noun",
+      "parent": "national",
+      "parts": [
+        "nat",
+        "-ion",
+        "-al",
+        "-ity"
+      ],
+      "gloss": {
+        "en": "the country you are a citizen of",
+        "tr": "uyruk, vatandaşlık",
+        "de": "die Staatsangehörigkeit",
+        "fr": "la nationalité",
+        "it": "la nazionalità",
+        "es": "la nacionalidad"
+      },
+      "sentences": [
+        {
+          "en": "What is your [nationality]?",
+          "tr": "Uyruğun ne?",
+          "de": "Welche Staatsangehörigkeit hast du?",
+          "fr": "Quelle est ta nationalité ?",
+          "it": "Qual è la tua nazionalità?",
+          "es": "¿Cuál es tu nacionalidad?"
+        },
+        {
+          "en": "She has dual [nationality].",
+          "tr": "Çifte vatandaşlığı var.",
+          "de": "Sie hat die doppelte Staatsbürgerschaft.",
+          "fr": "Elle a la double nationalité.",
+          "it": "Ha la doppia nazionalità.",
+          "es": "Tiene doble nacionalidad."
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "pos": "adjective",
+      "parent": "national",
+      "parts": [
+        "inter-",
+        "nat",
+        "-ion",
+        "-al"
+      ],
+      "gloss": {
+        "en": "between countries",
+        "tr": "uluslararası",
+        "de": "international",
+        "fr": "international",
+        "it": "internazionale",
+        "es": "internacional"
+      },
+      "sentences": [
+        {
+          "en": "RWTH has many [international] students.",
+          "tr": "RWTH'de pek çok uluslararası öğrenci var.",
+          "de": "Die RWTH hat viele internationale Studierende.",
+          "fr": "La RWTH compte beaucoup d'étudiants internationaux.",
+          "it": "La RWTH ha molti studenti internazionali.",
+          "es": "La RWTH tiene muchos estudiantes internacionales."
+        },
+        {
+          "en": "The [international] airport is far from town.",
+          "tr": "Uluslararası havalimanı şehirden uzak.",
+          "de": "Der internationale Flughafen liegt weit außerhalb.",
+          "fr": "L'aéroport international est loin de la ville.",
+          "it": "L'aeroporto internazionale è lontano dalla città.",
+          "es": "El aeropuerto internacional está lejos de la ciudad."
+        }
+      ]
+    },
+    {
+      "id": "nature",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "nat",
+        "-ure"
+      ],
+      "gloss": {
+        "en": "the natural world; also: what someone is like by birth",
+        "tr": "doğa; huy, mizaç",
+        "de": "die Natur; das Wesen",
+        "fr": "la nature; le caractère",
+        "it": "la natura; il carattere",
+        "es": "la naturaleza; el carácter"
+      },
+      "sentences": [
+        {
+          "en": "We love walking in [nature].",
+          "tr": "Doğada yürümeyi seviyoruz.",
+          "de": "Wir wandern gern in der Natur.",
+          "fr": "Nous aimons marcher dans la nature.",
+          "it": "Ci piace camminare nella natura.",
+          "es": "Nos encanta caminar por la naturaleza."
+        },
+        {
+          "en": "It's not in his [nature] to lie.",
+          "tr": "Yalan söylemek onun huyunda yok.",
+          "de": "Lügen liegt nicht in seinem Wesen.",
+          "fr": "Mentir n'est pas dans sa nature.",
+          "it": "Mentire non è nella sua natura.",
+          "es": "Mentir no está en su naturaleza."
+        }
+      ]
+    },
+    {
+      "id": "natural",
+      "pos": "adjective",
+      "parent": "nature",
+      "parts": [
+        "natur",
+        "-al"
+      ],
+      "gloss": {
+        "en": "from nature, not made by people; normal",
+        "tr": "doğal",
+        "de": "natürlich",
+        "fr": "naturel",
+        "it": "naturale",
+        "es": "natural"
+      },
+      "sentences": [
+        {
+          "en": "This juice has only [natural] sugar.",
+          "tr": "Bu meyve suyunda yalnızca doğal şeker var.",
+          "de": "Dieser Saft hat nur natürlichen Zucker.",
+          "fr": "Ce jus ne contient que du sucre naturel.",
+          "it": "Questo succo ha solo zucchero naturale.",
+          "es": "Este zumo solo tiene azúcar natural."
+        },
+        {
+          "en": "It's [natural] to feel nervous before an exam.",
+          "tr": "Sınavdan önce gergin hissetmek doğal.",
+          "de": "Es ist natürlich, vor einer Prüfung nervös zu sein.",
+          "fr": "C'est naturel d'être nerveux avant un examen.",
+          "it": "È naturale essere nervosi prima di un esame.",
+          "es": "Es natural ponerse nervioso antes de un examen."
+        }
+      ]
+    },
+    {
+      "id": "naturally",
+      "pos": "adverb",
+      "parent": "natural",
+      "parts": [
+        "natur",
+        "-al",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "of course; in a natural way",
+        "tr": "doğal olarak, elbette",
+        "de": "natürlich",
+        "fr": "naturellement",
+        "it": "naturalmente",
+        "es": "naturalmente"
+      },
+      "sentences": [
+        {
+          "en": "[Naturally], we invited all our friends.",
+          "tr": "Doğal olarak bütün arkadaşlarımızı davet ettik.",
+          "de": "Natürlich haben wir alle Freunde eingeladen.",
+          "fr": "Naturellement, nous avons invité tous nos amis.",
+          "it": "Naturalmente abbiamo invitato tutti gli amici.",
+          "es": "Naturalmente, invitamos a todos nuestros amigos."
+        },
+        {
+          "en": "Her hair is [naturally] curly.",
+          "tr": "Saçları doğuştan kıvırcık.",
+          "de": "Ihre Haare sind von Natur aus lockig.",
+          "fr": "Ses cheveux sont naturellement bouclés.",
+          "it": "Ha i capelli naturalmente ricci.",
+          "es": "Tiene el pelo rizado de forma natural."
+        }
+      ]
+    },
+    {
+      "id": "supernatural",
+      "pos": "adjective",
+      "parent": "natural",
+      "parts": [
+        "super-",
+        "natur",
+        "-al"
+      ],
+      "gloss": {
+        "en": "beyond the laws of nature",
+        "tr": "doğaüstü",
+        "de": "übernatürlich",
+        "fr": "surnaturel",
+        "it": "soprannaturale",
+        "es": "sobrenatural"
+      },
+      "sentences": [
+        {
+          "en": "The film is about [supernatural] events in an old house.",
+          "tr": "Film eski bir evdeki doğaüstü olayları anlatıyor.",
+          "de": "Der Film handelt von übernatürlichen Ereignissen in einem alten Haus.",
+          "fr": "Le film parle d'événements surnaturels dans une vieille maison.",
+          "it": "Il film parla di eventi soprannaturali in una vecchia casa.",
+          "es": "La película trata de sucesos sobrenaturales en una casa vieja."
+        },
+        {
+          "en": "He doesn't believe in [supernatural] powers.",
+          "tr": "Doğaüstü güçlere inanmıyor.",
+          "de": "Er glaubt nicht an übernatürliche Kräfte.",
+          "fr": "Il ne croit pas aux pouvoirs surnaturels.",
+          "it": "Non crede nei poteri soprannaturali.",
+          "es": "No cree en poderes sobrenaturales."
+        }
+      ]
+    },
+    {
+      "id": "unnatural",
+      "pos": "adjective",
+      "parent": "natural",
+      "parts": [
+        "un-",
+        "natur",
+        "-al"
+      ],
+      "gloss": {
+        "en": "not natural; strange or forced",
+        "tr": "doğal olmayan, yapay, zorlama",
+        "de": "unnatürlich",
+        "fr": "peu naturel, anormal",
+        "it": "innaturale",
+        "es": "antinatural, forzado"
+      },
+      "sentences": [
+        {
+          "en": "Her smile looked [unnatural] in the photo.",
+          "tr": "Fotoğrafta gülüşü zorlama görünüyordu.",
+          "de": "Ihr Lächeln wirkte auf dem Foto unnatürlich.",
+          "fr": "Son sourire avait l'air forcé sur la photo.",
+          "it": "Il suo sorriso sembrava innaturale nella foto.",
+          "es": "Su sonrisa parecía forzada en la foto."
+        },
+        {
+          "en": "The lake had an [unnatural] green colour.",
+          "tr": "Gölün doğal olmayan yeşil bir rengi vardı.",
+          "de": "Der See hatte eine unnatürliche grüne Farbe.",
+          "fr": "Le lac avait une couleur verte anormale.",
+          "it": "Il lago aveva un colore verde innaturale.",
+          "es": "El lago tenía un color verde antinatural."
+        }
+      ]
+    },
+    {
+      "id": "innate",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "in-",
+        "nate"
+      ],
+      "gloss": {
+        "en": "present from birth; not learned",
+        "tr": "doğuştan",
+        "de": "angeboren",
+        "fr": "inné",
+        "it": "innato",
+        "es": "innato"
+      },
+      "sentences": [
+        {
+          "en": "Babies have an [innate] ability to learn language.",
+          "tr": "Bebeklerin doğuştan dil öğrenme yeteneği vardır.",
+          "de": "Babys haben eine angeborene Fähigkeit, Sprache zu lernen.",
+          "fr": "Les bébés ont une capacité innée à apprendre une langue.",
+          "it": "I neonati hanno una capacità innata di imparare la lingua.",
+          "es": "Los bebés tienen una capacidad innata para aprender idiomas."
+        },
+        {
+          "en": "She has an [innate] sense of rhythm.",
+          "tr": "Doğuştan bir ritim duygusu var.",
+          "de": "Sie hat ein angeborenes Rhythmusgefühl.",
+          "fr": "Elle a un sens inné du rythme.",
+          "it": "Ha un senso innato del ritmo.",
+          "es": "Tiene un sentido innato del ritmo."
+        }
+      ]
+    },
+    {
+      "id": "prenatal",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "pre-",
+        "nat",
+        "-al"
+      ],
+      "gloss": {
+        "en": "before birth",
+        "tr": "doğum öncesi",
+        "de": "vorgeburtlich, pränatal",
+        "fr": "prénatal",
+        "it": "prenatale",
+        "es": "prenatal"
+      },
+      "sentences": [
+        {
+          "en": "She goes to [prenatal] classes every week.",
+          "tr": "Her hafta doğum öncesi derslerine gidiyor.",
+          "de": "Sie geht jede Woche zum Geburtsvorbereitungskurs.",
+          "fr": "Elle va aux cours prénatals chaque semaine.",
+          "it": "Va al corso preparto ogni settimana.",
+          "es": "Va a clases de preparación al parto cada semana."
+        },
+        {
+          "en": "Good [prenatal] care is important.",
+          "tr": "İyi bir doğum öncesi bakım önemlidir.",
+          "de": "Gute vorgeburtliche Betreuung ist wichtig.",
+          "fr": "De bons soins prénatals sont importants.",
+          "it": "Una buona assistenza prenatale è importante.",
+          "es": "Una buena atención prenatal es importante."
+        }
+      ]
+    }
+  ]
+}

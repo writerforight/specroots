@@ -1333,6 +1333,31 @@
     ]
   },
   {
+    "id": "ment",
+    "forms": [
+      "ment"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "mind",
+      "tr": "akıl, zihin",
+      "de": "Geist, Verstand",
+      "fr": "esprit",
+      "it": "mente",
+      "es": "mente"
+    },
+    "words": [
+      "mental",
+      "mentally",
+      "mentality",
+      "mention",
+      "comment",
+      "commentary",
+      "commentator",
+      "demented"
+    ]
+  },
+  {
     "id": "metr",
     "forms": [
       "metr",
@@ -1532,6 +1557,37 @@
       "mobility",
       "immobile",
       "automobile"
+    ]
+  },
+  {
+    "id": "nat",
+    "forms": [
+      "nat",
+      "nate",
+      "natur"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to be born (natura: birth, nature)",
+      "tr": "doğmak (natura: doğuş, doğa)",
+      "de": "geboren werden (natura: Geburt, Natur)",
+      "fr": "naître (natura : naissance, nature)",
+      "it": "nascere (natura: nascita, natura)",
+      "es": "nacer (natura: nacimiento, naturaleza)"
+    },
+    "words": [
+      "native",
+      "nation",
+      "national",
+      "nationality",
+      "international",
+      "nature",
+      "natural",
+      "naturally",
+      "supernatural",
+      "unnatural",
+      "innate",
+      "prenatal"
     ]
   },
   {

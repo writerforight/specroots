@@ -49,7 +49,8 @@ seçilen dillerdeki karşılığı ve öğretici örnek cümleleri bir arada gö
     survive, revive, vital, vitamin), 72. kök `terr` (terra, toprak: territory, terrain, terrace,
     terrestrial, subterranean), 73. kök `aqu` (aqua, su: aquarium, aquatic, aqueduct, aquifer), 74. kök `ann` (annus, yıl: annual,
     anniversary, perennial), 75. kök `fort` (fortis, güçlü: fort, effort, comfort, force, reinforce), 76. kök `grat` (gratus/gratia: grateful,
-    gratitude, congratulate, grace), 77. kök `magn` (magnus, büyük: magnify, magnificent, magnitude, major).
+    gratitude, congratulate, grace), 77. kök `magn` (magnus, büyük: magnify, magnificent, magnitude, major), 78. kök `ment` (mens, akıl: mental, mention,
+    comment), 79. kök `nat` (nasci, doğmak: native, nation, nature, innate).
     Yeni kök sınırsız açılmaz; her biri kullanıcı onayıyla eklenir.
 12. **Mimari:** nesne yönelimli, katmanlı (aşağıda). Görünüm ve tema veri ve mantıktan bağımsız
     değiştirilebilir olmalı.
