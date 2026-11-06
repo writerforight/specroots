@@ -3066,5 +3066,16 @@
       "es": "que puede ser (latín -bilis)"
     },
     "form": "ble"
+  },
+  "neg-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "not (Latin nec)",
+      "tr": "değil (Latince nec)",
+      "de": "nicht (lateinisch nec)",
+      "fr": "ne… pas (latin nec)",
+      "it": "non (latino nec)",
+      "es": "no (latín nec)"
+    }
   }
 }

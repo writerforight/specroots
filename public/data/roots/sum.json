@@ -1,0 +1,377 @@
+{
+  "id": "sum",
+  "forms": [
+    "sume",
+    "sum",
+    "sumpt"
+  ],
+  "origin": "la",
+  "etymon": "sumere",
+  "meaning": {
+    "en": "to take, to take up (sumptus: taken)",
+    "tr": "almak, üstlenmek",
+    "de": "nehmen, an sich nehmen (sumptus: genommen)",
+    "fr": "prendre (sumptus : pris)",
+    "it": "prendere (sumptus: preso)",
+    "es": "tomar (sumptus: tomado)"
+  },
+  "words": [
+    {
+      "id": "assume",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "as-",
+        "sume"
+      ],
+      "gloss": {
+        "en": "to think something is true without proof; to take on a role or duty (literally: to take to oneself)",
+        "tr": "varsaymak, farz etmek; üstlenmek",
+        "de": "annehmen, vermuten; übernehmen",
+        "fr": "supposer ; assumer",
+        "it": "supporre, presumere; assumere",
+        "es": "suponer, dar por hecho; asumir"
+      },
+      "sentences": [
+        {
+          "en": "I [assumed] you were at home.",
+          "tr": "Evde olduğunu varsaydım.",
+          "de": "Ich nahm an, dass du zu Hause bist.",
+          "fr": "J'ai supposé que tu étais à la maison.",
+          "it": "Pensavo che fossi a casa.",
+          "es": "Supuse que estabas en casa."
+        },
+        {
+          "en": "She [assumed] control of the company.",
+          "tr": "Şirketin yönetimini üstlendi.",
+          "de": "Sie übernahm die Leitung der Firma.",
+          "fr": "Elle a pris le contrôle de l'entreprise.",
+          "it": "Ha assunto il controllo dell'azienda.",
+          "es": "Asumió el control de la empresa."
+        }
+      ]
+    },
+    {
+      "id": "assumption",
+      "pos": "noun",
+      "parent": "assume",
+      "parts": [
+        "as-",
+        "sumpt",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "something you think is true without proof",
+        "tr": "varsayım",
+        "de": "die Annahme",
+        "fr": "la supposition, l'hypothèse",
+        "it": "il presupposto, la supposizione",
+        "es": "la suposición"
+      },
+      "sentences": [
+        {
+          "en": "That is a dangerous [assumption].",
+          "tr": "Bu tehlikeli bir varsayım.",
+          "de": "Das ist eine gefährliche Annahme.",
+          "fr": "C'est une supposition dangereuse.",
+          "it": "È un presupposto pericoloso.",
+          "es": "Es una suposición peligrosa."
+        },
+        {
+          "en": "We worked on the [assumption] that prices would rise.",
+          "tr": "Fiyatların artacağı varsayımıyla çalıştık.",
+          "de": "Wir gingen von der Annahme aus, dass die Preise steigen.",
+          "fr": "Nous sommes partis de l'hypothèse que les prix augmenteraient.",
+          "it": "Abbiamo lavorato sul presupposto che i prezzi sarebbero saliti.",
+          "es": "Trabajamos con la suposición de que los precios subirían."
+        }
+      ]
+    },
+    {
+      "id": "unassuming",
+      "pos": "adjective",
+      "parent": "assume",
+      "parts": [
+        "un-",
+        "as-",
+        "sum",
+        "-ing"
+      ],
+      "gloss": {
+        "en": "modest; not wanting attention",
+        "tr": "alçakgönüllü, gösterişsiz",
+        "de": "bescheiden, unscheinbar",
+        "fr": "modeste, discret",
+        "it": "modesto, senza pretese",
+        "es": "modesto, sencillo"
+      },
+      "sentences": [
+        {
+          "en": "He is a quiet, [unassuming] man.",
+          "tr": "Sessiz, alçakgönüllü bir adam.",
+          "de": "Er ist ein ruhiger, bescheidener Mann.",
+          "fr": "C'est un homme calme et modeste.",
+          "it": "È un uomo tranquillo e modesto.",
+          "es": "Es un hombre tranquilo y modesto."
+        },
+        {
+          "en": "The restaurant looks [unassuming] from outside.",
+          "tr": "Restoran dışarıdan gösterişsiz görünüyor.",
+          "de": "Das Restaurant wirkt von außen unscheinbar.",
+          "fr": "Le restaurant a l'air modeste de l'extérieur.",
+          "it": "Il ristorante sembra modesto da fuori.",
+          "es": "El restaurante parece sencillo por fuera."
+        }
+      ]
+    },
+    {
+      "id": "consume",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "con-",
+        "sume"
+      ],
+      "gloss": {
+        "en": "to use up, eat or drink something (literally: to take completely)",
+        "tr": "tüketmek",
+        "de": "verbrauchen, konsumieren",
+        "fr": "consommer",
+        "it": "consumare",
+        "es": "consumir"
+      },
+      "sentences": [
+        {
+          "en": "Big cars [consume] a lot of fuel.",
+          "tr": "Büyük arabalar çok yakıt tüketir.",
+          "de": "Große Autos verbrauchen viel Treibstoff.",
+          "fr": "Les grosses voitures consomment beaucoup de carburant.",
+          "it": "Le auto grandi consumano molto carburante.",
+          "es": "Los coches grandes consumen mucho combustible."
+        },
+        {
+          "en": "Americans [consume] a lot of sugar.",
+          "tr": "Amerikalılar çok şeker tüketiyor.",
+          "de": "Amerikaner konsumieren viel Zucker.",
+          "fr": "Les Américains consomment beaucoup de sucre.",
+          "it": "Gli americani consumano molto zucchero.",
+          "es": "Los estadounidenses consumen mucho azúcar."
+        }
+      ]
+    },
+    {
+      "id": "consumer",
+      "pos": "noun",
+      "parent": "consume",
+      "parts": [
+        "con-",
+        "sum",
+        "-er"
+      ],
+      "gloss": {
+        "en": "a person who buys and uses goods or services",
+        "tr": "tüketici",
+        "de": "der Verbraucher, die Verbraucherin",
+        "fr": "le consommateur, la consommatrice",
+        "it": "il consumatore",
+        "es": "el consumidor"
+      },
+      "sentences": [
+        {
+          "en": "[Consumers] want cheaper phones.",
+          "tr": "Tüketiciler daha ucuz telefonlar istiyor.",
+          "de": "Verbraucher wollen günstigere Handys.",
+          "fr": "Les consommateurs veulent des téléphones moins chers.",
+          "it": "I consumatori vogliono telefoni più economici.",
+          "es": "Los consumidores quieren móviles más baratos."
+        },
+        {
+          "en": "The law protects [consumer] rights.",
+          "tr": "Yasa tüketici haklarını korur.",
+          "de": "Das Gesetz schützt die Verbraucherrechte.",
+          "fr": "La loi protège les droits des consommateurs.",
+          "it": "La legge tutela i diritti dei consumatori.",
+          "es": "La ley protege los derechos del consumidor."
+        }
+      ]
+    },
+    {
+      "id": "consumption",
+      "pos": "noun",
+      "parent": "consume",
+      "parts": [
+        "con-",
+        "sumpt",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "the amount of something that is used up; the act of using, eating or drinking",
+        "tr": "tüketim",
+        "de": "der Verbrauch, der Konsum",
+        "fr": "la consommation",
+        "it": "il consumo",
+        "es": "el consumo"
+      },
+      "sentences": [
+        {
+          "en": "Our energy [consumption] went down this year.",
+          "tr": "Bu yıl enerji tüketimimiz düştü.",
+          "de": "Unser Energieverbrauch ist dieses Jahr gesunken.",
+          "fr": "Notre consommation d'énergie a baissé cette année.",
+          "it": "Il nostro consumo di energia è calato quest'anno.",
+          "es": "Nuestro consumo de energía bajó este año."
+        },
+        {
+          "en": "This water is not safe for [consumption].",
+          "tr": "Bu su içilmeye uygun değil.",
+          "de": "Dieses Wasser ist nicht zum Verzehr geeignet.",
+          "fr": "Cette eau n'est pas propre à la consommation.",
+          "it": "Quest'acqua non è adatta al consumo.",
+          "es": "Esta agua no es apta para el consumo."
+        }
+      ]
+    },
+    {
+      "id": "presume",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "pre-",
+        "sume"
+      ],
+      "gloss": {
+        "en": "to believe something is true because it is likely (literally: to take beforehand)",
+        "tr": "sanmak, varsaymak",
+        "de": "vermuten, annehmen",
+        "fr": "présumer, supposer",
+        "it": "presumere, supporre",
+        "es": "presumir, suponer"
+      },
+      "sentences": [
+        {
+          "en": "I [presume] you have met before.",
+          "tr": "Daha önce tanıştığınızı sanıyorum.",
+          "de": "Ich nehme an, ihr kennt euch schon.",
+          "fr": "Je présume que vous vous êtes déjà rencontrés.",
+          "it": "Presumo che vi siate già conosciuti.",
+          "es": "Supongo que ya os conocéis."
+        },
+        {
+          "en": "Everyone is [presumed] innocent until proven guilty.",
+          "tr": "Suçu kanıtlanana kadar herkes masum sayılır.",
+          "de": "Jeder gilt als unschuldig, bis seine Schuld bewiesen ist.",
+          "fr": "Toute personne est présumée innocente jusqu'à preuve du contraire.",
+          "it": "Ognuno è presunto innocente fino a prova contraria.",
+          "es": "Toda persona se presume inocente hasta que se demuestre lo contrario."
+        }
+      ]
+    },
+    {
+      "id": "presumption",
+      "pos": "noun",
+      "parent": "presume",
+      "parts": [
+        "pre-",
+        "sumpt",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "something believed to be true because it is likely",
+        "tr": "varsayım, karine",
+        "de": "die Vermutung, die Annahme",
+        "fr": "la présomption",
+        "it": "la presunzione",
+        "es": "la presunción"
+      },
+      "sentences": [
+        {
+          "en": "The law starts from the [presumption] of innocence.",
+          "tr": "Hukuk masumiyet karinesinden yola çıkar.",
+          "de": "Das Recht geht von der Unschuldsvermutung aus.",
+          "fr": "Le droit part de la présomption d'innocence.",
+          "it": "La legge parte dalla presunzione d'innocenza.",
+          "es": "La ley parte de la presunción de inocencia."
+        },
+        {
+          "en": "His [presumption] turned out to be wrong.",
+          "tr": "Varsayımının yanlış olduğu ortaya çıktı.",
+          "de": "Seine Vermutung erwies sich als falsch.",
+          "fr": "Sa présomption s'est révélée fausse.",
+          "it": "La sua presunzione si è rivelata sbagliata.",
+          "es": "Su presunción resultó ser errónea."
+        }
+      ]
+    },
+    {
+      "id": "resume",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "re-",
+        "sume"
+      ],
+      "gloss": {
+        "en": "to start again after a pause (literally: to take up again)",
+        "tr": "yeniden başlamak, devam etmek",
+        "de": "wieder aufnehmen, fortsetzen",
+        "fr": "reprendre",
+        "it": "riprendere",
+        "es": "reanudar"
+      },
+      "sentences": [
+        {
+          "en": "The game will [resume] after the rain.",
+          "tr": "Maç yağmurdan sonra yeniden başlayacak.",
+          "de": "Das Spiel wird nach dem Regen fortgesetzt.",
+          "fr": "Le match reprendra après la pluie.",
+          "it": "La partita riprenderà dopo la pioggia.",
+          "es": "El partido se reanudará después de la lluvia."
+        },
+        {
+          "en": "She [resumed] work after lunch.",
+          "tr": "Öğle yemeğinden sonra işe devam etti.",
+          "de": "Nach dem Mittagessen arbeitete sie weiter.",
+          "fr": "Elle a repris le travail après le déjeuner.",
+          "it": "Ha ripreso il lavoro dopo pranzo.",
+          "es": "Reanudó el trabajo después de comer."
+        }
+      ]
+    },
+    {
+      "id": "resumption",
+      "pos": "noun",
+      "parent": "resume",
+      "parts": [
+        "re-",
+        "sumpt",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "the act of starting again after a pause",
+        "tr": "yeniden başlama",
+        "de": "die Wiederaufnahme",
+        "fr": "la reprise",
+        "it": "la ripresa",
+        "es": "la reanudación"
+      },
+      "sentences": [
+        {
+          "en": "We hope for a quick [resumption] of talks.",
+          "tr": "Görüşmelerin hızla yeniden başlamasını umuyoruz.",
+          "de": "Wir hoffen auf eine schnelle Wiederaufnahme der Gespräche.",
+          "fr": "Nous espérons une reprise rapide des discussions.",
+          "it": "Speriamo in una rapida ripresa dei colloqui.",
+          "es": "Esperamos una pronta reanudación de las conversaciones."
+        },
+        {
+          "en": "The [resumption] of flights was good news.",
+          "tr": "Uçuşların yeniden başlaması iyi haberdi.",
+          "de": "Die Wiederaufnahme der Flüge war eine gute Nachricht.",
+          "fr": "La reprise des vols était une bonne nouvelle.",
+          "it": "La ripresa dei voli è stata una buona notizia.",
+          "es": "La reanudación de los vuelos fue una buena noticia."
+        }
+      ]
+    }
+  ]
+}

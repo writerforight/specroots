@@ -37,7 +37,10 @@ seçilen dillerdeki karşılığı ve öğretici örnek cümleleri bir arada gö
     2026-10-31); 57. kök `prehend` (prehendere, kavramak: comprehend, apprehend, surprise, enterprise;
     2026-11-06); 2026-11-06 kullanıcı isteği "daha çok fiil kökü": 58. kök `sequ` (sequi, izlemek:
     sequence, consequence, execute, prosecute), 59. kök `solv` (solvere, çözmek: solve, solution,
-    dissolve, resolve, absolute), 60. kök `vinc` (vincere, yenmek: victory, convince, evict, invincible).
+    dissolve, resolve, absolute), 60. kök `vinc` (vincere, yenmek: victory, convince, evict, invincible);
+    aynı gün "yeni kökler ekle": 61. kök `leg` (legere, toplamak/seçmek/okumak: collect, select, elect,
+    lecture, elegant), 62. kök `sum` (sumere, almak: assume, consume, presume, resume), 63. kök `scend`
+    (scandere, tırmanmak: ascend, descend, transcend, condescend).
     Yeni kök sınırsız açılmaz; her biri kullanıcı onayıyla eklenir.
 12. **Mimari:** nesne yönelimli, katmanlı (aşağıda). Görünüm ve tema veri ve mantıktan bağımsız
     değiştirilebilir olmalı.

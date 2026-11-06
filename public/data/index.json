@@ -936,6 +936,39 @@
     ]
   },
   {
+    "id": "leg",
+    "forms": [
+      "lect",
+      "leg",
+      "lig"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to gather, to choose, to read (lectus: chosen, read)",
+      "tr": "toplamak, seçmek, okumak",
+      "de": "sammeln, auswählen, lesen (lectus: gewählt, gelesen)",
+      "fr": "cueillir, choisir, lire (lectus : choisi, lu)",
+      "it": "raccogliere, scegliere, leggere (lectus: scelto, letto)",
+      "es": "recoger, elegir, leer (lectus: elegido, leído)"
+    },
+    "words": [
+      "collect",
+      "collection",
+      "collector",
+      "select",
+      "selection",
+      "selective",
+      "elect",
+      "election",
+      "neglect",
+      "lecture",
+      "legible",
+      "illegible",
+      "elegant",
+      "eligible"
+    ]
+  },
+  {
     "id": "loc",
     "forms": [
       "loc"
@@ -1763,6 +1796,33 @@
     ]
   },
   {
+    "id": "scend",
+    "forms": [
+      "scend",
+      "scent"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to climb (-scensus: climbed)",
+      "tr": "tırmanmak, çıkmak",
+      "de": "steigen, klettern (-scensus: gestiegen)",
+      "fr": "monter, grimper (-scensus : monté)",
+      "it": "salire, arrampicarsi (-scensus: salito)",
+      "es": "subir, trepar (-scensus: subido)"
+    },
+    "words": [
+      "ascend",
+      "ascending",
+      "ascent",
+      "descend",
+      "descent",
+      "descendant",
+      "transcend",
+      "condescend",
+      "condescending"
+    ]
+  },
+  {
     "id": "scop",
     "forms": [
       "scope",
@@ -2158,6 +2218,35 @@
       "misconstrue",
       "destroy",
       "destroyer"
+    ]
+  },
+  {
+    "id": "sum",
+    "forms": [
+      "sume",
+      "sum",
+      "sumpt"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to take, to take up (sumptus: taken)",
+      "tr": "almak, üstlenmek",
+      "de": "nehmen, an sich nehmen (sumptus: genommen)",
+      "fr": "prendre (sumptus : pris)",
+      "it": "prendere (sumptus: preso)",
+      "es": "tomar (sumptus: tomado)"
+    },
+    "words": [
+      "assume",
+      "assumption",
+      "unassuming",
+      "consume",
+      "consumer",
+      "consumption",
+      "presume",
+      "presumption",
+      "resume",
+      "resumption"
     ]
   },
   {

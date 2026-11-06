@@ -24,6 +24,20 @@ Bağlayıcı kararlar burada değil `SPEC.md`'dedir; buradaki bir not karar olun
   victorious, victor, convince, convinced, convincing, unconvincing, conviction, convict, evict, eviction,
   invincible. Dışarıda: *province* (köken tartışmalı), *vanquish* (Fransızca üzerinden), *victim* (ilgisiz).
 
+### Yeni kökler: leg, sum, scend (kullanıcı isteği "yeni kökler ekle", 61–63. kökler)
+- **leg** (*legere, lectus*: toplamak, seçmek, okumak). Yazımlar `lect`, `leg`, `lig` (eligere'de e → i).
+  14 kelime (az: 14): collect, collection, collector, select, selection, selective, elect, election, neglect,
+  lecture, legible, illegible, elegant, eligible. Yeni ön ek `neg-` (değil, Latince nec; neglegere).
+  Dışarıda: *lecturer* (`-ure` + `-er` "lectureer" heceler), *legend* (`-end` eki yok), *intelligent*,
+  *intellect* (inter- + legere; parçalanışı zorlama), *recollect* (dar kullanım).
+- **sum** (*sumere, sumptus*: almak). Yazımlar `sume`, `sum`, `sumpt`. 10 kelime (az: 10): assume,
+  assumption, unassuming, consume, consumer, consumption, presume, presumption, resume, resumption.
+  Dışarıda: *presumably* (`-ably` eki yok), *sumptuous* (sumptus "masraf" üzerinden, dolaylı), *résumé* (aksanlı).
+- **scend** (*scandere*: tırmanmak). Yazımlar `scend`, `scent` (ascent, descent: Latince ascensus'tan
+  Fransızca üzerinden, *descent* ile aynı yol). 9 kelime (az: 9): ascend, ascending, ascent, descend, descent,
+  descendant, transcend, condescend, condescending. `scent` "koku" kelimesi ilgisiz (Latince sentire); burada
+  yalnızca kök yazımı. Dışarıda: *scan* (scandere'den ama anlam kaymış), *transcendent* (dar kullanım).
+
 ## 2026-10-31
 
 ### Yeni kök: trib (kullanıcı isteği, 56. kök)

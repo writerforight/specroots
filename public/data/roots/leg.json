@@ -1,0 +1,518 @@
+{
+  "id": "leg",
+  "forms": [
+    "lect",
+    "leg",
+    "lig"
+  ],
+  "origin": "la",
+  "etymon": "legere",
+  "meaning": {
+    "en": "to gather, to choose, to read (lectus: chosen, read)",
+    "tr": "toplamak, seçmek, okumak",
+    "de": "sammeln, auswählen, lesen (lectus: gewählt, gelesen)",
+    "fr": "cueillir, choisir, lire (lectus : choisi, lu)",
+    "it": "raccogliere, scegliere, leggere (lectus: scelto, letto)",
+    "es": "recoger, elegir, leer (lectus: elegido, leído)"
+  },
+  "words": [
+    {
+      "id": "collect",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "col-",
+        "lect"
+      ],
+      "gloss": {
+        "en": "to bring things together; to pick someone or something up (literally: to gather together)",
+        "tr": "toplamak, biriktirmek; (birini) almak",
+        "de": "sammeln; abholen",
+        "fr": "collectionner, ramasser ; aller chercher",
+        "it": "raccogliere, collezionare; andare a prendere",
+        "es": "recoger, coleccionar, reunir"
+      },
+      "sentences": [
+        {
+          "en": "My brother [collects] old coins.",
+          "tr": "Ağabeyim eski paralar biriktiriyor.",
+          "de": "Mein Bruder sammelt alte Münzen.",
+          "fr": "Mon frère collectionne les vieilles pièces.",
+          "it": "Mio fratello colleziona monete antiche.",
+          "es": "Mi hermano colecciona monedas antiguas."
+        },
+        {
+          "en": "I will [collect] you from the station.",
+          "tr": "Seni istasyondan alacağım.",
+          "de": "Ich hole dich am Bahnhof ab.",
+          "fr": "Je viendrai te chercher à la gare.",
+          "it": "Ti vengo a prendere alla stazione.",
+          "es": "Te recogeré en la estación."
+        }
+      ]
+    },
+    {
+      "id": "collection",
+      "pos": "noun",
+      "parent": "collect",
+      "parts": [
+        "col-",
+        "lect",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a group of things gathered together; the act of collecting",
+        "tr": "koleksiyon; toplama",
+        "de": "die Sammlung",
+        "fr": "la collection ; la collecte",
+        "it": "la collezione; la raccolta",
+        "es": "la colección; la recogida"
+      },
+      "sentences": [
+        {
+          "en": "The museum has a huge [collection] of paintings.",
+          "tr": "Müzenin çok büyük bir tablo koleksiyonu var.",
+          "de": "Das Museum hat eine riesige Gemäldesammlung.",
+          "fr": "Le musée possède une immense collection de tableaux.",
+          "it": "Il museo ha un'enorme collezione di dipinti.",
+          "es": "El museo tiene una enorme colección de cuadros."
+        },
+        {
+          "en": "Rubbish [collection] is on Mondays.",
+          "tr": "Çöpler pazartesi günleri toplanıyor.",
+          "de": "Die Müllabfuhr kommt montags.",
+          "fr": "La collecte des ordures a lieu le lundi.",
+          "it": "La raccolta dei rifiuti è il lunedì.",
+          "es": "La recogida de basura es los lunes."
+        }
+      ]
+    },
+    {
+      "id": "collector",
+      "pos": "noun",
+      "parent": "collect",
+      "parts": [
+        "col-",
+        "lect",
+        "-or"
+      ],
+      "gloss": {
+        "en": "a person who collects things as a hobby or as a job",
+        "tr": "koleksiyoncu; tahsildar",
+        "de": "der Sammler, die Sammlerin",
+        "fr": "le collectionneur, la collectionneuse",
+        "it": "il collezionista",
+        "es": "el coleccionista"
+      },
+      "sentences": [
+        {
+          "en": "The painting was sold to a private [collector].",
+          "tr": "Tablo özel bir koleksiyoncuya satıldı.",
+          "de": "Das Gemälde wurde an einen Privatsammler verkauft.",
+          "fr": "Le tableau a été vendu à un collectionneur privé.",
+          "it": "Il dipinto è stato venduto a un collezionista privato.",
+          "es": "El cuadro se vendió a un coleccionista privado."
+        },
+        {
+          "en": "She is a [collector] of rare books.",
+          "tr": "Nadir kitap koleksiyoncusu.",
+          "de": "Sie sammelt seltene Bücher.",
+          "fr": "Elle collectionne les livres rares.",
+          "it": "È una collezionista di libri rari.",
+          "es": "Es coleccionista de libros raros."
+        }
+      ]
+    },
+    {
+      "id": "select",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "se-",
+        "lect"
+      ],
+      "gloss": {
+        "en": "to choose carefully from a group (literally: to pick apart)",
+        "tr": "seçmek",
+        "de": "auswählen",
+        "fr": "sélectionner, choisir",
+        "it": "selezionare, scegliere",
+        "es": "seleccionar, elegir"
+      },
+      "sentences": [
+        {
+          "en": "[Select] a file and click \"Open\".",
+          "tr": "Bir dosya seç ve \"Aç\"a tıkla.",
+          "de": "Wähle eine Datei aus und klicke auf „Öffnen\".",
+          "fr": "Sélectionne un fichier et clique sur « Ouvrir ».",
+          "it": "Seleziona un file e clicca su \"Apri\".",
+          "es": "Selecciona un archivo y haz clic en \"Abrir\"."
+        },
+        {
+          "en": "Only ten students were [selected] for the trip.",
+          "tr": "Gezi için sadece on öğrenci seçildi.",
+          "de": "Nur zehn Schüler wurden für die Reise ausgewählt.",
+          "fr": "Seuls dix élèves ont été choisis pour le voyage.",
+          "it": "Solo dieci studenti sono stati scelti per il viaggio.",
+          "es": "Solo diez alumnos fueron seleccionados para el viaje."
+        }
+      ]
+    },
+    {
+      "id": "selection",
+      "pos": "noun",
+      "parent": "select",
+      "parts": [
+        "se-",
+        "lect",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "the act of choosing; a group of things to choose from",
+        "tr": "seçim; çeşit, seçki",
+        "de": "die Auswahl",
+        "fr": "la sélection, le choix",
+        "it": "la selezione, la scelta",
+        "es": "la selección, la variedad"
+      },
+      "sentences": [
+        {
+          "en": "The shop has a good [selection] of teas.",
+          "tr": "Dükkânda iyi bir çay çeşidi var.",
+          "de": "Der Laden hat eine gute Auswahl an Tees.",
+          "fr": "Le magasin a un bon choix de thés.",
+          "it": "Il negozio ha una buona selezione di tè.",
+          "es": "La tienda tiene una buena selección de tés."
+        },
+        {
+          "en": "Natural [selection] explains how species change.",
+          "tr": "Doğal seçilim türlerin nasıl değiştiğini açıklar.",
+          "de": "Die natürliche Auslese erklärt, wie sich Arten verändern.",
+          "fr": "La sélection naturelle explique comment les espèces changent.",
+          "it": "La selezione naturale spiega come cambiano le specie.",
+          "es": "La selección natural explica cómo cambian las especies."
+        }
+      ]
+    },
+    {
+      "id": "selective",
+      "pos": "adjective",
+      "parent": "select",
+      "parts": [
+        "se-",
+        "lect",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "choosing carefully; affecting only some things",
+        "tr": "seçici",
+        "de": "wählerisch, selektiv",
+        "fr": "sélectif",
+        "it": "selettivo",
+        "es": "selectivo, exigente"
+      },
+      "sentences": [
+        {
+          "en": "She is very [selective] about her friends.",
+          "tr": "Arkadaş seçiminde çok seçicidir.",
+          "de": "Sie ist bei ihren Freunden sehr wählerisch.",
+          "fr": "Elle est très sélective dans ses amitiés.",
+          "it": "È molto selettiva con gli amici.",
+          "es": "Es muy selectiva con sus amigos."
+        },
+        {
+          "en": "He has a [selective] memory.",
+          "tr": "Seçici bir hafızası var.",
+          "de": "Er hat ein selektives Gedächtnis.",
+          "fr": "Il a une mémoire sélective.",
+          "it": "Ha una memoria selettiva.",
+          "es": "Tiene una memoria selectiva."
+        }
+      ]
+    },
+    {
+      "id": "elect",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "e-",
+        "lect"
+      ],
+      "gloss": {
+        "en": "to choose someone for a job by voting (literally: to pick out)",
+        "tr": "seçmek (oyla)",
+        "de": "wählen (durch Abstimmung)",
+        "fr": "élire",
+        "it": "eleggere",
+        "es": "elegir (por votación)"
+      },
+      "sentences": [
+        {
+          "en": "The town [elected] a new mayor.",
+          "tr": "Kasaba yeni bir belediye başkanı seçti.",
+          "de": "Die Stadt wählte einen neuen Bürgermeister.",
+          "fr": "La ville a élu un nouveau maire.",
+          "it": "La città ha eletto un nuovo sindaco.",
+          "es": "El pueblo eligió a un nuevo alcalde."
+        },
+        {
+          "en": "She was [elected] class president.",
+          "tr": "Sınıf başkanı seçildi.",
+          "de": "Sie wurde zur Klassensprecherin gewählt.",
+          "fr": "Elle a été élue déléguée de classe.",
+          "it": "È stata eletta rappresentante di classe.",
+          "es": "Fue elegida delegada de clase."
+        }
+      ]
+    },
+    {
+      "id": "election",
+      "pos": "noun",
+      "parent": "elect",
+      "parts": [
+        "e-",
+        "lect",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a time when people vote to choose someone",
+        "tr": "seçim",
+        "de": "die Wahl",
+        "fr": "l'élection",
+        "it": "l'elezione",
+        "es": "la elección"
+      },
+      "sentences": [
+        {
+          "en": "Who will win the [election]?",
+          "tr": "Seçimi kim kazanacak?",
+          "de": "Wer wird die Wahl gewinnen?",
+          "fr": "Qui va gagner l'élection ?",
+          "it": "Chi vincerà le elezioni?",
+          "es": "¿Quién ganará las elecciones?"
+        },
+        {
+          "en": "There is an [election] next spring.",
+          "tr": "Gelecek bahar seçim var.",
+          "de": "Nächsten Frühling gibt es eine Wahl.",
+          "fr": "Il y a une élection au printemps prochain.",
+          "it": "La prossima primavera ci sono le elezioni.",
+          "es": "Hay elecciones la próxima primavera."
+        }
+      ]
+    },
+    {
+      "id": "neglect",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "neg-",
+        "lect"
+      ],
+      "gloss": {
+        "en": "to not give enough care or attention to someone or something (literally: to not pick up)",
+        "tr": "ihmal etmek",
+        "de": "vernachlässigen",
+        "fr": "négliger",
+        "it": "trascurare",
+        "es": "descuidar, desatender"
+      },
+      "sentences": [
+        {
+          "en": "The garden was [neglected] for years.",
+          "tr": "Bahçe yıllarca ihmal edildi.",
+          "de": "Der Garten wurde jahrelang vernachlässigt.",
+          "fr": "Le jardin a été négligé pendant des années.",
+          "it": "Il giardino è stato trascurato per anni.",
+          "es": "El jardín estuvo descuidado durante años."
+        },
+        {
+          "en": "Do not [neglect] your health.",
+          "tr": "Sağlığını ihmal etme.",
+          "de": "Vernachlässige deine Gesundheit nicht.",
+          "fr": "Ne néglige pas ta santé.",
+          "it": "Non trascurare la tua salute.",
+          "es": "No descuides tu salud."
+        }
+      ]
+    },
+    {
+      "id": "lecture",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "lect",
+        "-ure"
+      ],
+      "gloss": {
+        "en": "a talk to teach a group, especially at university (literally: a reading)",
+        "tr": "ders, konferans",
+        "de": "die Vorlesung, der Vortrag",
+        "fr": "le cours magistral, la conférence",
+        "it": "la lezione, la conferenza",
+        "es": "la clase magistral, la conferencia"
+      },
+      "sentences": [
+        {
+          "en": "The [lecture] starts at nine.",
+          "tr": "Ders dokuzda başlıyor.",
+          "de": "Die Vorlesung beginnt um neun.",
+          "fr": "Le cours commence à neuf heures.",
+          "it": "La lezione inizia alle nove.",
+          "es": "La clase empieza a las nueve."
+        },
+        {
+          "en": "She gave a [lecture] on climate change.",
+          "tr": "İklim değişikliği üzerine bir konferans verdi.",
+          "de": "Sie hielt einen Vortrag über den Klimawandel.",
+          "fr": "Elle a donné une conférence sur le changement climatique.",
+          "it": "Ha tenuto una conferenza sul cambiamento climatico.",
+          "es": "Dio una conferencia sobre el cambio climático."
+        }
+      ]
+    },
+    {
+      "id": "legible",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "leg",
+        "-ible"
+      ],
+      "gloss": {
+        "en": "clear enough to be read",
+        "tr": "okunaklı",
+        "de": "leserlich",
+        "fr": "lisible",
+        "it": "leggibile",
+        "es": "legible"
+      },
+      "sentences": [
+        {
+          "en": "Please write in [legible] letters.",
+          "tr": "Lütfen okunaklı harflerle yaz.",
+          "de": "Bitte schreib in leserlichen Buchstaben.",
+          "fr": "Écris en lettres lisibles, s'il te plaît.",
+          "it": "Scrivi in lettere leggibili, per favore.",
+          "es": "Escribe con letras legibles, por favor."
+        },
+        {
+          "en": "The old sign was barely [legible].",
+          "tr": "Eski tabela zar zor okunuyordu.",
+          "de": "Das alte Schild war kaum leserlich.",
+          "fr": "Le vieux panneau était à peine lisible.",
+          "it": "La vecchia insegna era appena leggibile.",
+          "es": "El viejo letrero apenas era legible."
+        }
+      ]
+    },
+    {
+      "id": "illegible",
+      "pos": "adjective",
+      "parent": "legible",
+      "parts": [
+        "il-not-",
+        "leg",
+        "-ible"
+      ],
+      "gloss": {
+        "en": "too unclear to be read",
+        "tr": "okunaksız",
+        "de": "unleserlich",
+        "fr": "illisible",
+        "it": "illeggibile",
+        "es": "ilegible"
+      },
+      "sentences": [
+        {
+          "en": "The doctor's handwriting was [illegible].",
+          "tr": "Doktorun el yazısı okunaksızdı.",
+          "de": "Die Handschrift des Arztes war unleserlich.",
+          "fr": "L'écriture du médecin était illisible.",
+          "it": "La calligrafia del medico era illeggibile.",
+          "es": "La letra del médico era ilegible."
+        },
+        {
+          "en": "Rain made the address [illegible].",
+          "tr": "Yağmur adresi okunmaz hâle getirdi.",
+          "de": "Der Regen machte die Adresse unleserlich.",
+          "fr": "La pluie a rendu l'adresse illisible.",
+          "it": "La pioggia ha reso illeggibile l'indirizzo.",
+          "es": "La lluvia hizo ilegible la dirección."
+        }
+      ]
+    },
+    {
+      "id": "elegant",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "e-",
+        "leg",
+        "-ant"
+      ],
+      "gloss": {
+        "en": "stylish and graceful; (of an idea) simple and clever (literally: choosing carefully)",
+        "tr": "zarif, şık",
+        "de": "elegant",
+        "fr": "élégant",
+        "it": "elegante",
+        "es": "elegante"
+      },
+      "sentences": [
+        {
+          "en": "She wore an [elegant] black dress.",
+          "tr": "Şık bir siyah elbise giydi.",
+          "de": "Sie trug ein elegantes schwarzes Kleid.",
+          "fr": "Elle portait une élégante robe noire.",
+          "it": "Indossava un elegante vestito nero.",
+          "es": "Llevaba un elegante vestido negro."
+        },
+        {
+          "en": "That is an [elegant] solution to the problem.",
+          "tr": "Bu, soruna zarif bir çözüm.",
+          "de": "Das ist eine elegante Lösung des Problems.",
+          "fr": "C'est une solution élégante au problème.",
+          "it": "È una soluzione elegante al problema.",
+          "es": "Es una solución elegante al problema."
+        }
+      ]
+    },
+    {
+      "id": "eligible",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "e-",
+        "lig",
+        "-ible"
+      ],
+      "gloss": {
+        "en": "allowed to do or receive something because you meet the rules (literally: able to be chosen)",
+        "tr": "uygun, hak sahibi, seçilebilir",
+        "de": "berechtigt, wählbar",
+        "fr": "éligible, admissible",
+        "it": "idoneo, avente diritto",
+        "es": "que reúne los requisitos, elegible"
+      },
+      "sentences": [
+        {
+          "en": "You are [eligible] for a discount.",
+          "tr": "İndirimden yararlanma hakkın var.",
+          "de": "Du hast Anspruch auf einen Rabatt.",
+          "fr": "Tu as droit à une réduction.",
+          "it": "Hai diritto a uno sconto.",
+          "es": "Tienes derecho a un descuento."
+        },
+        {
+          "en": "At eighteen, you are [eligible] to vote.",
+          "tr": "On sekiz yaşında oy kullanma hakkın olur.",
+          "de": "Mit achtzehn bist du wahlberechtigt.",
+          "fr": "À dix-huit ans, on a le droit de voter.",
+          "it": "A diciotto anni si ha diritto di voto.",
+          "es": "A los dieciocho años puedes votar."
+        }
+      ]
+    }
+  ]
+}

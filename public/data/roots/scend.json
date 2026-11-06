@@ -1,0 +1,339 @@
+{
+  "id": "scend",
+  "forms": [
+    "scend",
+    "scent"
+  ],
+  "origin": "la",
+  "etymon": "scandere",
+  "meaning": {
+    "en": "to climb (-scensus: climbed)",
+    "tr": "tırmanmak, çıkmak",
+    "de": "steigen, klettern (-scensus: gestiegen)",
+    "fr": "monter, grimper (-scensus : monté)",
+    "it": "salire, arrampicarsi (-scensus: salito)",
+    "es": "subir, trepar (-scensus: subido)"
+  },
+  "words": [
+    {
+      "id": "ascend",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "a-",
+        "scend"
+      ],
+      "gloss": {
+        "en": "to go up, to rise (literally: to climb toward)",
+        "tr": "yükselmek, çıkmak",
+        "de": "aufsteigen, hinaufsteigen",
+        "fr": "monter, s'élever",
+        "it": "salire, ascendere",
+        "es": "ascender, subir"
+      },
+      "sentences": [
+        {
+          "en": "The plane [ascended] into the clouds.",
+          "tr": "Uçak bulutlara doğru yükseldi.",
+          "de": "Das Flugzeug stieg in die Wolken auf.",
+          "fr": "L'avion s'est élevé dans les nuages.",
+          "it": "L'aereo è salito tra le nuvole.",
+          "es": "El avión ascendió entre las nubes."
+        },
+        {
+          "en": "We [ascended] the stairs slowly.",
+          "tr": "Merdivenleri yavaşça çıktık.",
+          "de": "Wir stiegen langsam die Treppe hinauf.",
+          "fr": "Nous avons monté l'escalier lentement.",
+          "it": "Abbiamo salito le scale lentamente.",
+          "es": "Subimos las escaleras despacio."
+        }
+      ]
+    },
+    {
+      "id": "ascending",
+      "pos": "adjective",
+      "parent": "ascend",
+      "parts": [
+        "a-",
+        "scend",
+        "-ing"
+      ],
+      "gloss": {
+        "en": "going up; (of an order) from the smallest to the largest",
+        "tr": "artan, yükselen",
+        "de": "aufsteigend",
+        "fr": "croissant, ascendant",
+        "it": "crescente",
+        "es": "ascendente"
+      },
+      "sentences": [
+        {
+          "en": "Sort the numbers in [ascending] order.",
+          "tr": "Sayıları küçükten büyüğe sırala.",
+          "de": "Sortiere die Zahlen in aufsteigender Reihenfolge.",
+          "fr": "Trie les nombres par ordre croissant.",
+          "it": "Ordina i numeri in ordine crescente.",
+          "es": "Ordena los números de forma ascendente."
+        },
+        {
+          "en": "The [ascending] path was steep.",
+          "tr": "Yukarı çıkan patika dikti.",
+          "de": "Der aufsteigende Weg war steil.",
+          "fr": "Le chemin qui montait était raide.",
+          "it": "Il sentiero in salita era ripido.",
+          "es": "El camino de subida era empinado."
+        }
+      ]
+    },
+    {
+      "id": "ascent",
+      "pos": "noun",
+      "parent": "ascend",
+      "parts": [
+        "a-",
+        "scent"
+      ],
+      "gloss": {
+        "en": "the act of climbing or going up",
+        "tr": "tırmanış, yükseliş",
+        "de": "der Aufstieg",
+        "fr": "l'ascension, la montée",
+        "it": "l'ascesa, la salita",
+        "es": "el ascenso, la subida"
+      },
+      "sentences": [
+        {
+          "en": "The [ascent] to the top took six hours.",
+          "tr": "Zirveye tırmanış altı saat sürdü.",
+          "de": "Der Aufstieg zum Gipfel dauerte sechs Stunden.",
+          "fr": "L'ascension jusqu'au sommet a duré six heures.",
+          "it": "La salita fino in cima è durata sei ore.",
+          "es": "El ascenso a la cima duró seis horas."
+        },
+        {
+          "en": "Her [ascent] to power was very fast.",
+          "tr": "İktidara yükselişi çok hızlı oldu.",
+          "de": "Ihr Aufstieg zur Macht war sehr schnell.",
+          "fr": "Son ascension au pouvoir a été très rapide.",
+          "it": "La sua ascesa al potere è stata molto rapida.",
+          "es": "Su ascenso al poder fue muy rápido."
+        }
+      ]
+    },
+    {
+      "id": "descend",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "de-",
+        "scend"
+      ],
+      "gloss": {
+        "en": "to go down (literally: to climb down)",
+        "tr": "inmek, alçalmak",
+        "de": "hinabsteigen, sinken",
+        "fr": "descendre",
+        "it": "scendere",
+        "es": "descender, bajar"
+      },
+      "sentences": [
+        {
+          "en": "The plane began to [descend].",
+          "tr": "Uçak alçalmaya başladı.",
+          "de": "Das Flugzeug begann zu sinken.",
+          "fr": "L'avion a commencé à descendre.",
+          "it": "L'aereo ha iniziato a scendere.",
+          "es": "El avión empezó a descender."
+        },
+        {
+          "en": "Night [descended] on the city.",
+          "tr": "Şehrin üstüne gece çöktü.",
+          "de": "Die Nacht senkte sich über die Stadt.",
+          "fr": "La nuit est tombée sur la ville.",
+          "it": "La notte è scesa sulla città.",
+          "es": "La noche cayó sobre la ciudad."
+        }
+      ]
+    },
+    {
+      "id": "descent",
+      "pos": "noun",
+      "parent": "descend",
+      "parts": [
+        "de-",
+        "scent"
+      ],
+      "gloss": {
+        "en": "the act of going down; your family origin",
+        "tr": "iniş; soy, köken",
+        "de": "der Abstieg, der Sinkflug; die Abstammung",
+        "fr": "la descente ; l'origine",
+        "it": "la discesa; la discendenza, l'origine",
+        "es": "el descenso; la ascendencia, el origen"
+      },
+      "sentences": [
+        {
+          "en": "The [descent] was harder than the climb.",
+          "tr": "İniş tırmanıştan daha zordu.",
+          "de": "Der Abstieg war schwerer als der Aufstieg.",
+          "fr": "La descente était plus dure que la montée.",
+          "it": "La discesa è stata più dura della salita.",
+          "es": "El descenso fue más difícil que la subida."
+        },
+        {
+          "en": "She is of Turkish [descent].",
+          "tr": "Türk kökenli.",
+          "de": "Sie ist türkischer Abstammung.",
+          "fr": "Elle est d'origine turque.",
+          "it": "È di origine turca.",
+          "es": "Es de ascendencia turca."
+        }
+      ]
+    },
+    {
+      "id": "descendant",
+      "pos": "noun",
+      "parent": "descend",
+      "parts": [
+        "de-",
+        "scend",
+        "-ant"
+      ],
+      "gloss": {
+        "en": "a person who comes from an older family member, like a grandchild",
+        "tr": "torun, soyundan gelen",
+        "de": "der Nachkomme",
+        "fr": "le descendant, la descendante",
+        "it": "il discendente",
+        "es": "el descendiente"
+      },
+      "sentences": [
+        {
+          "en": "He is a [descendant] of a famous poet.",
+          "tr": "Ünlü bir şairin torunu.",
+          "de": "Er ist ein Nachkomme eines berühmten Dichters.",
+          "fr": "Il est le descendant d'un poète célèbre.",
+          "it": "È un discendente di un poeta famoso.",
+          "es": "Es descendiente de un poeta famoso."
+        },
+        {
+          "en": "Her [descendants] still live in the village.",
+          "tr": "Onun soyundan gelenler hâlâ köyde yaşıyor.",
+          "de": "Ihre Nachkommen leben noch im Dorf.",
+          "fr": "Ses descendants vivent encore au village.",
+          "it": "I suoi discendenti vivono ancora nel villaggio.",
+          "es": "Sus descendientes todavía viven en el pueblo."
+        }
+      ]
+    },
+    {
+      "id": "transcend",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "tran-",
+        "scend"
+      ],
+      "gloss": {
+        "en": "to go beyond the usual limits of something (literally: to climb across)",
+        "tr": "aşmak, ötesine geçmek",
+        "de": "übersteigen, überwinden",
+        "fr": "transcender, dépasser",
+        "it": "trascendere, superare",
+        "es": "trascender, superar"
+      },
+      "sentences": [
+        {
+          "en": "Good music [transcends] language.",
+          "tr": "İyi müzik dili aşar.",
+          "de": "Gute Musik überwindet Sprachgrenzen.",
+          "fr": "La bonne musique transcende la langue.",
+          "it": "La buona musica trascende la lingua.",
+          "es": "La buena música trasciende el idioma."
+        },
+        {
+          "en": "Their friendship [transcended] politics.",
+          "tr": "Dostlukları siyasetin ötesine geçti.",
+          "de": "Ihre Freundschaft stand über der Politik.",
+          "fr": "Leur amitié dépassait la politique.",
+          "it": "La loro amicizia ha superato la politica.",
+          "es": "Su amistad superó la política."
+        }
+      ]
+    },
+    {
+      "id": "condescend",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "con-",
+        "de-",
+        "scend"
+      ],
+      "gloss": {
+        "en": "to act as if you are better than others (literally: to climb down together, to lower yourself)",
+        "tr": "tepeden bakmak, lütfetmek",
+        "de": "herablassend sein, sich herablassen",
+        "fr": "condescendre, prendre de haut",
+        "it": "trattare con condiscendenza",
+        "es": "tratar con condescendencia"
+      },
+      "sentences": [
+        {
+          "en": "Do not [condescend] to your customers.",
+          "tr": "Müşterilerine tepeden bakma.",
+          "de": "Sei nicht herablassend zu deinen Kunden.",
+          "fr": "Ne prends pas tes clients de haut.",
+          "it": "Non trattare i clienti con condiscendenza.",
+          "es": "No trates a tus clientes con condescendencia."
+        },
+        {
+          "en": "He never [condescended] to help us.",
+          "tr": "Bize yardım etmeye hiç tenezzül etmedi.",
+          "de": "Er ließ sich nie herab, uns zu helfen.",
+          "fr": "Il n'a jamais daigné nous aider.",
+          "it": "Non si è mai degnato di aiutarci.",
+          "es": "Nunca se dignó a ayudarnos."
+        }
+      ]
+    },
+    {
+      "id": "condescending",
+      "pos": "adjective",
+      "parent": "condescend",
+      "parts": [
+        "con-",
+        "de-",
+        "scend",
+        "-ing"
+      ],
+      "gloss": {
+        "en": "showing that you think you are better than others",
+        "tr": "küçümseyici, tepeden bakan",
+        "de": "herablassend",
+        "fr": "condescendant",
+        "it": "condiscendente, paternalistico",
+        "es": "condescendiente"
+      },
+      "sentences": [
+        {
+          "en": "I did not like his [condescending] tone.",
+          "tr": "Küçümseyici ses tonunu beğenmedim.",
+          "de": "Sein herablassender Ton gefiel mir nicht.",
+          "fr": "Je n'ai pas aimé son ton condescendant.",
+          "it": "Non mi è piaciuto il suo tono condiscendente.",
+          "es": "No me gustó su tono condescendiente."
+        },
+        {
+          "en": "Try not to sound [condescending].",
+          "tr": "Küçümseyici görünmemeye çalış.",
+          "de": "Versuch, nicht herablassend zu klingen.",
+          "fr": "Essaie de ne pas paraître condescendant.",
+          "it": "Cerca di non sembrare condiscendente.",
+          "es": "Intenta no sonar condescendiente."
+        }
+      ]
+    }
+  ]
+}
