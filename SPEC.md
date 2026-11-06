@@ -41,7 +41,9 @@ seçilen dillerdeki karşılığı ve öğretici örnek cümleleri bir arada gö
     aynı gün "yeni kökler ekle": 61. kök `leg` (legere, toplamak/seçmek/okumak: collect, select, elect,
     lecture, elegant), 62. kök `sum` (sumere, almak: assume, consume, presume, resume), 63. kök `scend`
     (scandere, tırmanmak: ascend, descend, transcend, condescend). 2026-11-06 onaylı kuyruktan (`docs/grow-loop.md`): 64. kök `fin` (finis, son: finish, final, define, infinite,
-    confine, refine, finance), 65. kök `manu` (manus, el: manual, manuscript, manufacture, manage, manipulate, manifest).
+    confine, refine, finance), 65. kök `manu` (manus, el: manual, manuscript, manufacture, manage, manipulate, manifest),
+    66. kök `ped` (pes, ayak: pedal, pedestrian, expedition, impede, centipede), 67. kök `corp` (corpus, beden: corpse,
+    corporation, incorporate, corporal, corset).
     Yeni kök sınırsız açılmaz; her biri kullanıcı onayıyla eklenir.
 12. **Mimari:** nesne yönelimli, katmanlı (aşağıda). Görünüm ve tema veri ve mantıktan bağımsız
     değiştirilebilir olmalı.

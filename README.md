@@ -41,9 +41,9 @@ spec / spect  "to look"
 
 ## Roots so far
 
-65 roots and 1529 words, each with two example sentences. Plus **40 everyday objects** in word lists (chalk, colander, rolling pin…) with photos and their names in all six languages.
+67 roots and 1550 words, each with two example sentences. Plus **40 everyday objects** in word lists (chalk, colander, rolling pin…) with photos and their names in all six languages.
 
-- **Latin (55):** `act` · `aud` · `cad` · `cap` · `ced` · `cid` · `clud` · `cred` · `cur` · `dict` · `duc` · `fac` · `fer` · `fin` · `flect` · `form` · `grad` · `ject` · `junct` · `leg` · `loc` · `mand` · `manu` · `mit` · `mov` · `nect` · `nunci` · `pel` · `pend` · `plic` · `port` · `pos` · `prehend` · `press` · `rupt` · `scend` · `scrib` · `sent` · `sequ` · `sist` · `solv` · `spec` · `spir` · `struct` · `sum` · `tempt` · `ten` · `tend` · `tract` · `trib` · `ven` · `vert` · `vid` · `vinc` · `voc`
+- **Latin (57):** `act` · `aud` · `cad` · `cap` · `ced` · `cid` · `clud` · `corp` · `cred` · `cur` · `dict` · `duc` · `fac` · `fer` · `fin` · `flect` · `form` · `grad` · `ject` · `junct` · `leg` · `loc` · `mand` · `manu` · `mit` · `mov` · `nect` · `nunci` · `ped` · `pel` · `pend` · `plic` · `port` · `pos` · `prehend` · `press` · `rupt` · `scend` · `scrib` · `sent` · `sequ` · `sist` · `solv` · `spec` · `spir` · `struct` · `sum` · `tempt` · `ten` · `tend` · `tract` · `trib` · `ven` · `vert` · `vid` · `vinc` · `voc`
 - **Greek (10):** `bio` · `chron` · `graph` · `log` · `metr` · `morph` · `path` · `phon` · `photo` · `scop`
 
 Next on the roadmap ([SPEC.md](SPEC.md)): offline use.

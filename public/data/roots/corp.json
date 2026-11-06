@@ -1,0 +1,372 @@
+{
+  "id": "corp",
+  "forms": [
+    "corp",
+    "corpor",
+    "corps",
+    "corpse",
+    "corpus",
+    "cors"
+  ],
+  "origin": "la",
+  "etymon": "corpus, corporis",
+  "meaning": {
+    "en": "body",
+    "tr": "beden, vücut",
+    "de": "Körper",
+    "fr": "corps",
+    "it": "corpo",
+    "es": "cuerpo"
+  },
+  "words": [
+    {
+      "id": "corps",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "corps"
+      ],
+      "gloss": {
+        "en": "an organized group of people, e.g. in the army; from French, literally: body (the s is silent)",
+        "tr": "kolordu, birlik, heyet",
+        "de": "das Korps",
+        "fr": "le corps",
+        "it": "il corpo",
+        "es": "el cuerpo"
+      },
+      "sentences": [
+        {
+          "en": "He joined the medical [corps] of the army.",
+          "tr": "Ordunun sağlık birliğine katıldı.",
+          "de": "Er trat dem Sanitätskorps der Armee bei.",
+          "fr": "Il s'est engagé dans le corps médical de l'armée.",
+          "it": "È entrato nel corpo sanitario dell'esercito.",
+          "es": "Se unió al cuerpo médico del ejército."
+        },
+        {
+          "en": "The diplomatic [corps] met at the palace.",
+          "tr": "Diplomatik heyet sarayda toplandı.",
+          "de": "Das diplomatische Korps traf sich im Palast.",
+          "fr": "Le corps diplomatique s'est réuni au palais.",
+          "it": "Il corpo diplomatico si è riunito a palazzo.",
+          "es": "El cuerpo diplomático se reunió en el palacio."
+        }
+      ]
+    },
+    {
+      "id": "corpse",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "corpse"
+      ],
+      "gloss": {
+        "en": "a dead body",
+        "tr": "ceset",
+        "de": "die Leiche",
+        "fr": "le cadavre",
+        "it": "il cadavere",
+        "es": "el cadáver"
+      },
+      "sentences": [
+        {
+          "en": "The police found a [corpse] in the river.",
+          "tr": "Polis nehirde bir ceset buldu.",
+          "de": "Die Polizei fand eine Leiche im Fluss.",
+          "fr": "La police a trouvé un cadavre dans la rivière.",
+          "it": "La polizia ha trovato un cadavere nel fiume.",
+          "es": "La policía encontró un cadáver en el río."
+        },
+        {
+          "en": "The detective looked closely at the [corpse].",
+          "tr": "Dedektif cesede dikkatle baktı.",
+          "de": "Der Detektiv betrachtete die Leiche genau.",
+          "fr": "Le détective a examiné le cadavre de près.",
+          "it": "Il detective ha osservato attentamente il cadavere.",
+          "es": "El detective observó el cadáver de cerca."
+        }
+      ]
+    },
+    {
+      "id": "corporate",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "corpor",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "of a large company; literally: made into one body",
+        "tr": "kurumsal, şirketle ilgili",
+        "de": "Unternehmens-, Firmen-",
+        "fr": "d'entreprise",
+        "it": "aziendale",
+        "es": "corporativo, empresarial"
+      },
+      "sentences": [
+        {
+          "en": "She works in [corporate] law.",
+          "tr": "Şirketler hukuku alanında çalışıyor.",
+          "de": "Sie arbeitet im Unternehmensrecht.",
+          "fr": "Elle travaille en droit des sociétés.",
+          "it": "Lavora nel diritto societario.",
+          "es": "Trabaja en derecho corporativo."
+        },
+        {
+          "en": "The [corporate] office is in London.",
+          "tr": "Şirketin merkez ofisi Londra'da.",
+          "de": "Die Firmenzentrale ist in London.",
+          "fr": "Le siège de l'entreprise est à Londres.",
+          "it": "La sede aziendale è a Londra.",
+          "es": "La sede corporativa está en Londres."
+        }
+      ]
+    },
+    {
+      "id": "corporation",
+      "pos": "noun",
+      "parent": "corporate",
+      "parts": [
+        "corpor",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "a large company; a group acting as one body in law",
+        "tr": "şirket, kuruluş",
+        "de": "der Konzern, die Körperschaft",
+        "fr": "la société, la corporation",
+        "it": "la società, la corporazione",
+        "es": "la corporación, la empresa"
+      },
+      "sentences": [
+        {
+          "en": "He works for a big [corporation].",
+          "tr": "Büyük bir şirkette çalışıyor.",
+          "de": "Er arbeitet für einen großen Konzern.",
+          "fr": "Il travaille pour une grande société.",
+          "it": "Lavora per una grande società.",
+          "es": "Trabaja para una gran corporación."
+        },
+        {
+          "en": "The BBC is a public [corporation].",
+          "tr": "BBC bir kamu kuruluşudur.",
+          "de": "Die BBC ist eine öffentliche Körperschaft.",
+          "fr": "La BBC est une entreprise publique.",
+          "it": "La BBC è un ente pubblico.",
+          "es": "La BBC es una corporación pública."
+        }
+      ]
+    },
+    {
+      "id": "incorporate",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "in-",
+        "corpor",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "to include as a part; literally: to put into the body",
+        "tr": "dahil etmek, bünyesine katmak",
+        "de": "einbeziehen, aufnehmen",
+        "fr": "incorporer, intégrer",
+        "it": "incorporare, integrare",
+        "es": "incorporar, integrar"
+      },
+      "sentences": [
+        {
+          "en": "We [incorporated] your ideas into the plan.",
+          "tr": "Fikirlerini plana dahil ettik.",
+          "de": "Wir haben deine Ideen in den Plan aufgenommen.",
+          "fr": "Nous avons intégré tes idées au projet.",
+          "it": "Abbiamo integrato le tue idee nel piano.",
+          "es": "Incorporamos tus ideas al plan."
+        },
+        {
+          "en": "The new phone [incorporates] a better camera.",
+          "tr": "Yeni telefon daha iyi bir kamera içeriyor.",
+          "de": "Das neue Handy enthält eine bessere Kamera.",
+          "fr": "Le nouveau téléphone intègre un meilleur appareil photo.",
+          "it": "Il nuovo telefono integra una fotocamera migliore.",
+          "es": "El nuevo móvil incorpora una cámara mejor."
+        }
+      ]
+    },
+    {
+      "id": "incorporation",
+      "pos": "noun",
+      "parent": "incorporate",
+      "parts": [
+        "in-",
+        "corpor",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "including something as a part; also: forming a company",
+        "tr": "dahil etme; şirket kurma",
+        "de": "die Einbeziehung; die Gründung",
+        "fr": "l'intégration; la constitution (d'une société)",
+        "it": "l'integrazione; la costituzione (di una società)",
+        "es": "la incorporación; la constitución (de una empresa)"
+      },
+      "sentences": [
+        {
+          "en": "The [incorporation] of music made the lesson fun.",
+          "tr": "Müziğin derse katılması dersi eğlenceli yaptı.",
+          "de": "Die Einbeziehung von Musik machte den Unterricht lustig.",
+          "fr": "L'intégration de la musique a rendu le cours amusant.",
+          "it": "L'integrazione della musica ha reso divertente la lezione.",
+          "es": "La incorporación de música hizo divertida la clase."
+        },
+        {
+          "en": "The company's [incorporation] took a month.",
+          "tr": "Şirketin kuruluşu bir ay sürdü.",
+          "de": "Die Gründung der Firma dauerte einen Monat.",
+          "fr": "La constitution de la société a pris un mois.",
+          "it": "La costituzione della società ha richiesto un mese.",
+          "es": "La constitución de la empresa tardó un mes."
+        }
+      ]
+    },
+    {
+      "id": "corporal",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "corpor",
+        "-al"
+      ],
+      "gloss": {
+        "en": "of the body (as in corporal punishment); also a noun: a low army rank",
+        "tr": "bedensel; (isim) onbaşı",
+        "de": "körperlich; (Nomen) der Unteroffizier, der Gefreite",
+        "fr": "corporel; (nom) le caporal",
+        "it": "corporale; (nome) il caporale",
+        "es": "corporal; (sustantivo) el cabo"
+      },
+      "sentences": [
+        {
+          "en": "[Corporal] punishment is banned in schools.",
+          "tr": "Okullarda bedensel ceza yasak.",
+          "de": "Körperstrafen sind in Schulen verboten.",
+          "fr": "Les châtiments corporels sont interdits à l'école.",
+          "it": "Le punizioni corporali sono vietate nelle scuole.",
+          "es": "El castigo corporal está prohibido en las escuelas."
+        },
+        {
+          "en": "The [corporal] gave the soldiers their orders.",
+          "tr": "Onbaşı askerlere emirlerini verdi.",
+          "de": "Der Unteroffizier gab den Soldaten ihre Befehle.",
+          "fr": "Le caporal a donné leurs ordres aux soldats.",
+          "it": "Il caporale ha dato gli ordini ai soldati.",
+          "es": "El cabo dio las órdenes a los soldados."
+        }
+      ]
+    },
+    {
+      "id": "corpus",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "corpus"
+      ],
+      "gloss": {
+        "en": "a large collection of texts; literally: body (of writing)",
+        "tr": "derlem, külliyat",
+        "de": "das Korpus",
+        "fr": "le corpus",
+        "it": "il corpus",
+        "es": "el corpus"
+      },
+      "sentences": [
+        {
+          "en": "Linguists study a [corpus] of real sentences.",
+          "tr": "Dilbilimciler gerçek cümlelerden oluşan bir derlemi inceler.",
+          "de": "Linguisten untersuchen ein Korpus echter Sätze.",
+          "fr": "Les linguistes étudient un corpus de phrases réelles.",
+          "it": "I linguisti studiano un corpus di frasi reali.",
+          "es": "Los lingüistas estudian un corpus de frases reales."
+        },
+        {
+          "en": "The [corpus] of his work fills ten books.",
+          "tr": "Eserlerinin bütünü on kitap dolduruyor.",
+          "de": "Sein Gesamtwerk füllt zehn Bücher.",
+          "fr": "L'ensemble de son œuvre remplit dix livres.",
+          "it": "Il corpus delle sue opere riempie dieci libri.",
+          "es": "El conjunto de su obra llena diez libros."
+        }
+      ]
+    },
+    {
+      "id": "corpulent",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "corp",
+        "-ulent"
+      ],
+      "gloss": {
+        "en": "fat, having a large body",
+        "tr": "şişman, iri yarı",
+        "de": "beleibt, korpulent",
+        "fr": "corpulent",
+        "it": "corpulento",
+        "es": "corpulento"
+      },
+      "sentences": [
+        {
+          "en": "A [corpulent] man sat next to me on the train.",
+          "tr": "Trende yanıma iri yarı bir adam oturdu.",
+          "de": "Im Zug saß ein beleibter Mann neben mir.",
+          "fr": "Un homme corpulent s'est assis à côté de moi dans le train.",
+          "it": "Sul treno si è seduto accanto a me un uomo corpulento.",
+          "es": "En el tren se sentó a mi lado un hombre corpulento."
+        },
+        {
+          "en": "The old king was [corpulent] and slow.",
+          "tr": "Yaşlı kral şişman ve ağırdı.",
+          "de": "Der alte König war korpulent und langsam.",
+          "fr": "Le vieux roi était corpulent et lent.",
+          "it": "Il vecchio re era corpulento e lento.",
+          "es": "El viejo rey era corpulento y lento."
+        }
+      ]
+    },
+    {
+      "id": "corset",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "cors",
+        "-et"
+      ],
+      "gloss": {
+        "en": "a tight piece of clothing that shapes the body; literally: little body",
+        "tr": "korse",
+        "de": "das Korsett",
+        "fr": "le corset",
+        "it": "il corsetto",
+        "es": "el corsé"
+      },
+      "sentences": [
+        {
+          "en": "Women once wore a [corset] under their dress.",
+          "tr": "Kadınlar eskiden elbiselerinin altına korse giyerdi.",
+          "de": "Frauen trugen früher ein Korsett unter dem Kleid.",
+          "fr": "Autrefois, les femmes portaient un corset sous leur robe.",
+          "it": "Un tempo le donne portavano il corsetto sotto il vestito.",
+          "es": "Antes las mujeres llevaban corsé bajo el vestido."
+        },
+        {
+          "en": "The rules are a [corset] for new ideas.",
+          "tr": "Kurallar yeni fikirler için bir korse gibi.",
+          "de": "Die Regeln sind ein Korsett für neue Ideen.",
+          "fr": "Les règles sont un carcan pour les idées nouvelles.",
+          "it": "Le regole sono una gabbia per le idee nuove.",
+          "es": "Las normas son un corsé para las ideas nuevas."
+        }
+      ]
+    }
+  ]
+}

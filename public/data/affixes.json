@@ -3181,5 +3181,51 @@
       "it": "desinenza di nome (-o)",
       "es": "terminación de sustantivo (italiano -o)"
     }
+  },
+  "-ian": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "person or thing related to (makes a noun or adjective)",
+      "tr": "ile ilgili kişi ya da şey (isim ya da sıfat yapar)",
+      "de": "Person oder Sache, die zu etwas gehört (bildet Nomen oder Adjektiv)",
+      "fr": "personne ou chose liée à (forme un nom ou un adjectif)",
+      "it": "persona o cosa legata a (forma un nome o aggettivo)",
+      "es": "persona o cosa relacionada con (forma un sustantivo o adjetivo)"
+    }
+  },
+  "-ulent": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "full of (makes an adjective)",
+      "tr": "dolu (sıfat yapar)",
+      "de": "voll von (bildet ein Adjektiv)",
+      "fr": "plein de (forme un adjectif)",
+      "it": "pieno di (forma un aggettivo)",
+      "es": "lleno de (forma un adjetivo)"
+    }
+  },
+  "bi-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "two (Latin bis)",
+      "tr": "iki (Latince bis)",
+      "de": "zwei (lateinisch bis)",
+      "fr": "deux (latin bis)",
+      "it": "due (latino bis)",
+      "es": "dos (latín bis)"
+    },
+    "combining": true
+  },
+  "quadru-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "four (Latin quattuor)",
+      "tr": "dört (Latince quattuor)",
+      "de": "vier (lateinisch quattuor)",
+      "fr": "quatre (latin quattuor)",
+      "it": "quattro (latino quattuor)",
+      "es": "cuatro (latín quattuor)"
+    },
+    "combining": true
   }
 }

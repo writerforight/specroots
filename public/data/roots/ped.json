@@ -1,0 +1,411 @@
+{
+  "id": "ped",
+  "forms": [
+    "ped",
+    "pedi",
+    "pede",
+    "pedit",
+    "pedite",
+    "pedestr"
+  ],
+  "origin": "la",
+  "etymon": "pes, pedis",
+  "meaning": {
+    "en": "foot",
+    "tr": "ayak",
+    "de": "Fuß",
+    "fr": "pied",
+    "it": "piede",
+    "es": "pie"
+  },
+  "words": [
+    {
+      "id": "pedal",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "ped",
+        "-al"
+      ],
+      "gloss": {
+        "en": "a part you push with your foot (bike, car, piano)",
+        "tr": "pedal",
+        "de": "das Pedal",
+        "fr": "la pédale",
+        "it": "il pedale",
+        "es": "el pedal"
+      },
+      "sentences": [
+        {
+          "en": "Push the [pedal] harder to go faster.",
+          "tr": "Daha hızlı gitmek için pedala daha sert bas.",
+          "de": "Tritt fester in die Pedale, um schneller zu fahren.",
+          "fr": "Appuie plus fort sur la pédale pour aller plus vite.",
+          "it": "Spingi più forte sul pedale per andare più veloce.",
+          "es": "Pisa más fuerte el pedal para ir más rápido."
+        },
+        {
+          "en": "The brake [pedal] is on the left.",
+          "tr": "Fren pedalı solda.",
+          "de": "Das Bremspedal ist links.",
+          "fr": "La pédale de frein est à gauche.",
+          "it": "Il pedale del freno è a sinistra.",
+          "es": "El pedal del freno está a la izquierda."
+        }
+      ]
+    },
+    {
+      "id": "pedestrian",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "pedestr",
+        "-ian"
+      ],
+      "gloss": {
+        "en": "a person walking in the street; literally: one on foot (as an adjective: dull, ordinary)",
+        "tr": "yaya; (sıfat) sıradan, sıkıcı",
+        "de": "der Fußgänger; (Adjektiv) langweilig",
+        "fr": "le piéton; (adjectif) banal",
+        "it": "il pedone; (aggettivo) banale",
+        "es": "el peatón; (adjetivo) vulgar, corriente"
+      },
+      "sentences": [
+        {
+          "en": "The car stopped to let a [pedestrian] cross.",
+          "tr": "Araba bir yayanın geçmesi için durdu.",
+          "de": "Das Auto hielt, um einen Fußgänger über die Straße zu lassen.",
+          "fr": "La voiture s'est arrêtée pour laisser passer un piéton.",
+          "it": "L'auto si è fermata per far passare un pedone.",
+          "es": "El coche paró para dejar cruzar a un peatón."
+        },
+        {
+          "en": "This street is for [pedestrians] only.",
+          "tr": "Bu sokak yalnızca yayalar için.",
+          "de": "Diese Straße ist nur für Fußgänger.",
+          "fr": "Cette rue est réservée aux piétons.",
+          "it": "Questa strada è solo per pedoni.",
+          "es": "Esta calle es solo para peatones."
+        }
+      ]
+    },
+    {
+      "id": "expedition",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "ex-",
+        "pedit",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a long trip with a purpose, e.g. to explore; literally: freeing the feet, setting out",
+        "tr": "keşif gezisi, sefer",
+        "de": "die Expedition",
+        "fr": "l'expédition",
+        "it": "la spedizione",
+        "es": "la expedición"
+      },
+      "sentences": [
+        {
+          "en": "They went on an [expedition] to the Arctic.",
+          "tr": "Kuzey Kutbu'na bir keşif gezisine çıktılar.",
+          "de": "Sie gingen auf eine Expedition in die Arktis.",
+          "fr": "Ils sont partis en expédition dans l'Arctique.",
+          "it": "Sono partiti per una spedizione nell'Artico.",
+          "es": "Se fueron de expedición al Ártico."
+        },
+        {
+          "en": "We made a quick shopping [expedition] to town.",
+          "tr": "Kasabaya hızlı bir alışveriş seferi yaptık.",
+          "de": "Wir machten einen schnellen Einkaufsausflug in die Stadt.",
+          "fr": "Nous avons fait une petite expédition shopping en ville.",
+          "it": "Abbiamo fatto una rapida spedizione di shopping in città.",
+          "es": "Hicimos una rápida expedición de compras al centro."
+        }
+      ]
+    },
+    {
+      "id": "expedite",
+      "pos": "verb",
+      "parent": "expedition",
+      "parts": [
+        "ex-",
+        "pedite"
+      ],
+      "gloss": {
+        "en": "to make something happen faster",
+        "tr": "hızlandırmak",
+        "de": "beschleunigen",
+        "fr": "accélérer, hâter",
+        "it": "accelerare, sbrigare",
+        "es": "agilizar, acelerar"
+      },
+      "sentences": [
+        {
+          "en": "Paying extra will [expedite] your order.",
+          "tr": "Fazladan ödemek siparişini hızlandırır.",
+          "de": "Ein Aufpreis beschleunigt deine Bestellung.",
+          "fr": "Payer un supplément accélérera ta commande.",
+          "it": "Pagando un extra il tuo ordine verrà accelerato.",
+          "es": "Pagar un extra agilizará tu pedido."
+        },
+        {
+          "en": "The new rules [expedite] the visa process.",
+          "tr": "Yeni kurallar vize sürecini hızlandırıyor.",
+          "de": "Die neuen Regeln beschleunigen das Visumverfahren.",
+          "fr": "Les nouvelles règles accélèrent la procédure de visa.",
+          "it": "Le nuove regole accelerano la pratica del visto.",
+          "es": "Las nuevas normas agilizan el trámite del visado."
+        }
+      ]
+    },
+    {
+      "id": "expedient",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "ex-",
+        "pedi",
+        "-ent"
+      ],
+      "gloss": {
+        "en": "useful for a purpose, though perhaps not fair or right",
+        "tr": "işe yarar, çıkarına uygun",
+        "de": "zweckmäßig, opportun",
+        "fr": "opportun, commode",
+        "it": "conveniente, opportuno",
+        "es": "conveniente, oportuno"
+      },
+      "sentences": [
+        {
+          "en": "It was [expedient] to say nothing.",
+          "tr": "Hiçbir şey söylememek işine geliyordu.",
+          "de": "Es war zweckmäßig, nichts zu sagen.",
+          "fr": "Il était opportun de ne rien dire.",
+          "it": "Era conveniente non dire niente.",
+          "es": "Era conveniente no decir nada."
+        },
+        {
+          "en": "He chose the [expedient] solution, not the best one.",
+          "tr": "En iyi çözümü değil, işine gelen çözümü seçti.",
+          "de": "Er wählte die bequeme Lösung, nicht die beste.",
+          "fr": "Il a choisi la solution commode, pas la meilleure.",
+          "it": "Ha scelto la soluzione comoda, non la migliore.",
+          "es": "Eligió la solución cómoda, no la mejor."
+        }
+      ]
+    },
+    {
+      "id": "impede",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "im-",
+        "pede"
+      ],
+      "gloss": {
+        "en": "to slow down or block; literally: to put the feet in chains",
+        "tr": "engellemek, yavaşlatmak",
+        "de": "behindern",
+        "fr": "entraver, gêner",
+        "it": "ostacolare, impedire",
+        "es": "impedir, obstaculizar"
+      },
+      "sentences": [
+        {
+          "en": "Snow [impeded] the rescue teams.",
+          "tr": "Kar kurtarma ekiplerini engelledi.",
+          "de": "Schnee behinderte die Rettungsteams.",
+          "fr": "La neige a entravé les secours.",
+          "it": "La neve ha ostacolato i soccorsi.",
+          "es": "La nieve obstaculizó a los equipos de rescate."
+        },
+        {
+          "en": "Noise can [impede] learning.",
+          "tr": "Gürültü öğrenmeyi engelleyebilir.",
+          "de": "Lärm kann das Lernen behindern.",
+          "fr": "Le bruit peut gêner l'apprentissage.",
+          "it": "Il rumore può ostacolare l'apprendimento.",
+          "es": "El ruido puede dificultar el aprendizaje."
+        }
+      ]
+    },
+    {
+      "id": "impediment",
+      "pos": "noun",
+      "parent": "impede",
+      "parts": [
+        "im-",
+        "pedi",
+        "-ment"
+      ],
+      "gloss": {
+        "en": "something that blocks or slows; also: a speech problem",
+        "tr": "engel; konuşma bozukluğu",
+        "de": "das Hindernis; der Sprachfehler",
+        "fr": "l'obstacle; le trouble de la parole",
+        "it": "l'impedimento, l'ostacolo; il difetto di pronuncia",
+        "es": "el impedimento, el obstáculo; el defecto del habla"
+      },
+      "sentences": [
+        {
+          "en": "Money is the main [impediment] to the plan.",
+          "tr": "Planın önündeki asıl engel para.",
+          "de": "Geld ist das Haupthindernis für den Plan.",
+          "fr": "L'argent est le principal obstacle au projet.",
+          "it": "Il denaro è l'ostacolo principale al piano.",
+          "es": "El dinero es el principal impedimento del plan."
+        },
+        {
+          "en": "As a child he had a speech [impediment].",
+          "tr": "Çocukken konuşma bozukluğu vardı.",
+          "de": "Als Kind hatte er einen Sprachfehler.",
+          "fr": "Enfant, il avait un trouble de la parole.",
+          "it": "Da bambino aveva un difetto di pronuncia.",
+          "es": "De niño tenía un defecto del habla."
+        }
+      ]
+    },
+    {
+      "id": "pedicure",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "pedi",
+        "-cure"
+      ],
+      "gloss": {
+        "en": "care of the feet and toenails",
+        "tr": "pedikür",
+        "de": "die Pediküre",
+        "fr": "la pédicure",
+        "it": "la pedicure",
+        "es": "la pedicura"
+      },
+      "sentences": [
+        {
+          "en": "She booked a [pedicure] before the wedding.",
+          "tr": "Düğünden önce pedikür randevusu aldı.",
+          "de": "Sie buchte vor der Hochzeit eine Pediküre.",
+          "fr": "Elle a réservé une pédicure avant le mariage.",
+          "it": "Ha prenotato una pedicure prima del matrimonio.",
+          "es": "Reservó una pedicura antes de la boda."
+        },
+        {
+          "en": "A [pedicure] is good after a long hike.",
+          "tr": "Uzun bir yürüyüşten sonra pedikür iyi gelir.",
+          "de": "Nach einer langen Wanderung tut eine Pediküre gut.",
+          "fr": "Une pédicure fait du bien après une longue randonnée.",
+          "it": "Una pedicure fa bene dopo una lunga escursione.",
+          "es": "Una pedicura sienta bien tras una larga caminata."
+        }
+      ]
+    },
+    {
+      "id": "centipede",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "centi-",
+        "pede"
+      ],
+      "gloss": {
+        "en": "a small animal with many legs; literally: hundred feet",
+        "tr": "kırkayak",
+        "de": "der Hundertfüßer",
+        "fr": "le mille-pattes",
+        "it": "il millepiedi",
+        "es": "el ciempiés"
+      },
+      "sentences": [
+        {
+          "en": "A [centipede] ran across the floor.",
+          "tr": "Yerde bir kırkayak koştu.",
+          "de": "Ein Hundertfüßer lief über den Boden.",
+          "fr": "Un mille-pattes a traversé le sol.",
+          "it": "Un millepiedi ha attraversato il pavimento.",
+          "es": "Un ciempiés cruzó el suelo."
+        },
+        {
+          "en": "A [centipede] doesn't really have a hundred legs.",
+          "tr": "Kırkayağın aslında yüz bacağı yoktur.",
+          "de": "Ein Hundertfüßer hat nicht wirklich hundert Beine.",
+          "fr": "Un mille-pattes n'a pas vraiment mille pattes.",
+          "it": "Un millepiedi non ha davvero mille zampe.",
+          "es": "Un ciempiés no tiene realmente cien patas."
+        }
+      ]
+    },
+    {
+      "id": "biped",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "bi-",
+        "ped"
+      ],
+      "gloss": {
+        "en": "an animal that walks on two feet",
+        "tr": "iki ayaklı canlı",
+        "de": "der Zweibeiner",
+        "fr": "le bipède",
+        "it": "il bipede",
+        "es": "el bípedo"
+      },
+      "sentences": [
+        {
+          "en": "Humans and birds are [bipeds].",
+          "tr": "İnsanlar ve kuşlar iki ayaklıdır.",
+          "de": "Menschen und Vögel sind Zweibeiner.",
+          "fr": "Les humains et les oiseaux sont des bipèdes.",
+          "it": "Gli esseri umani e gli uccelli sono bipedi.",
+          "es": "Los humanos y las aves son bípedos."
+        },
+        {
+          "en": "The robot walks like a [biped].",
+          "tr": "Robot iki ayaklı bir canlı gibi yürüyor.",
+          "de": "Der Roboter geht wie ein Zweibeiner.",
+          "fr": "Le robot marche comme un bipède.",
+          "it": "Il robot cammina come un bipede.",
+          "es": "El robot camina como un bípedo."
+        }
+      ]
+    },
+    {
+      "id": "quadruped",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "quadru-",
+        "ped"
+      ],
+      "gloss": {
+        "en": "an animal that walks on four feet",
+        "tr": "dört ayaklı hayvan",
+        "de": "der Vierbeiner",
+        "fr": "le quadrupède",
+        "it": "il quadrupede",
+        "es": "el cuadrúpedo"
+      },
+      "sentences": [
+        {
+          "en": "Horses and dogs are [quadrupeds].",
+          "tr": "Atlar ve köpekler dört ayaklıdır.",
+          "de": "Pferde und Hunde sind Vierbeiner.",
+          "fr": "Les chevaux et les chiens sont des quadrupèdes.",
+          "it": "Cavalli e cani sono quadrupedi.",
+          "es": "Los caballos y los perros son cuadrúpedos."
+        },
+        {
+          "en": "The [quadruped] robot can climb stairs.",
+          "tr": "Dört ayaklı robot merdiven çıkabiliyor.",
+          "de": "Der vierbeinige Roboter kann Treppen steigen.",
+          "fr": "Le robot quadrupède peut monter les escaliers.",
+          "it": "Il robot quadrupede sa salire le scale.",
+          "es": "El robot cuadrúpedo puede subir escaleras."
+        }
+      ]
+    }
+  ]
+}

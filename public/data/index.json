@@ -387,6 +387,38 @@
     ]
   },
   {
+    "id": "corp",
+    "forms": [
+      "corp",
+      "corpor",
+      "corps",
+      "corpse",
+      "corpus",
+      "cors"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "body",
+      "tr": "beden, vücut",
+      "de": "Körper",
+      "fr": "corps",
+      "it": "corpo",
+      "es": "cuerpo"
+    },
+    "words": [
+      "corps",
+      "corpse",
+      "corporate",
+      "corporation",
+      "incorporate",
+      "incorporation",
+      "corporal",
+      "corpus",
+      "corpulent",
+      "corset"
+    ]
+  },
+  {
     "id": "cred",
     "forms": [
       "cred",
@@ -1435,6 +1467,39 @@
       "pathological",
       "pathologist",
       "homeopathy"
+    ]
+  },
+  {
+    "id": "ped",
+    "forms": [
+      "ped",
+      "pedi",
+      "pede",
+      "pedit",
+      "pedite",
+      "pedestr"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "foot",
+      "tr": "ayak",
+      "de": "Fuß",
+      "fr": "pied",
+      "it": "piede",
+      "es": "pie"
+    },
+    "words": [
+      "pedal",
+      "pedestrian",
+      "expedition",
+      "expedite",
+      "expedient",
+      "impede",
+      "impediment",
+      "pedicure",
+      "centipede",
+      "biped",
+      "quadruped"
     ]
   },
   {
