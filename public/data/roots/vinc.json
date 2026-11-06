@@ -1,0 +1,448 @@
+{
+  "id": "vinc",
+  "forms": [
+    "vinc",
+    "vince",
+    "vict"
+  ],
+  "origin": "la",
+  "etymon": "vincere",
+  "meaning": {
+    "en": "to conquer, to defeat, to win (victus: conquered)",
+    "tr": "yenmek, fethetmek, galip gelmek",
+    "de": "siegen, besiegen (victus: besiegt)",
+    "fr": "vaincre (victus : vaincu)",
+    "it": "vincere (victus: vinto)",
+    "es": "vencer (victus: vencido)"
+  },
+  "words": [
+    {
+      "id": "victory",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "vict",
+        "-ory"
+      ],
+      "gloss": {
+        "en": "the act of winning a fight, game or election",
+        "tr": "zafer, galibiyet",
+        "de": "der Sieg",
+        "fr": "la victoire",
+        "it": "la vittoria",
+        "es": "la victoria"
+      },
+      "sentences": [
+        {
+          "en": "The fans celebrated the [victory] all night.",
+          "tr": "Taraftarlar zaferi bütün gece kutladı.",
+          "de": "Die Fans feierten den Sieg die ganze Nacht.",
+          "fr": "Les supporters ont fêté la victoire toute la nuit.",
+          "it": "I tifosi hanno festeggiato la vittoria tutta la notte.",
+          "es": "Los aficionados celebraron la victoria toda la noche."
+        },
+        {
+          "en": "It was an easy [victory] for our team.",
+          "tr": "Takımımız için kolay bir galibiyetti.",
+          "de": "Es war ein leichter Sieg für unser Team.",
+          "fr": "C'était une victoire facile pour notre équipe.",
+          "it": "È stata una vittoria facile per la nostra squadra.",
+          "es": "Fue una victoria fácil para nuestro equipo."
+        }
+      ]
+    },
+    {
+      "id": "victorious",
+      "pos": "adjective",
+      "parent": "victory",
+      "parts": [
+        "vict",
+        "-or",
+        "-ious"
+      ],
+      "gloss": {
+        "en": "having won",
+        "tr": "muzaffer, galip, kazanan",
+        "de": "siegreich",
+        "fr": "victorieux",
+        "it": "vittorioso",
+        "es": "victorioso"
+      },
+      "sentences": [
+        {
+          "en": "The [victorious] team lifted the cup.",
+          "tr": "Kazanan takım kupayı kaldırdı.",
+          "de": "Die siegreiche Mannschaft hob den Pokal.",
+          "fr": "L'équipe victorieuse a soulevé la coupe.",
+          "it": "La squadra vittoriosa ha alzato la coppa.",
+          "es": "El equipo victorioso levantó la copa."
+        },
+        {
+          "en": "She came out [victorious] after a long fight.",
+          "tr": "Uzun bir mücadeleden galip çıktı.",
+          "de": "Nach einem langen Kampf ging sie siegreich hervor.",
+          "fr": "Elle est sortie victorieuse après un long combat.",
+          "it": "È uscita vittoriosa dopo una lunga lotta.",
+          "es": "Salió victoriosa tras una larga lucha."
+        }
+      ]
+    },
+    {
+      "id": "victor",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "vict",
+        "-or"
+      ],
+      "gloss": {
+        "en": "the winner of a fight or competition",
+        "tr": "galip, kazanan",
+        "de": "der Sieger, die Siegerin",
+        "fr": "le vainqueur",
+        "it": "il vincitore",
+        "es": "el vencedor"
+      },
+      "sentences": [
+        {
+          "en": "History is often written by the [victors].",
+          "tr": "Tarih çoğu zaman galipler tarafından yazılır.",
+          "de": "Geschichte wird oft von den Siegern geschrieben.",
+          "fr": "L'histoire est souvent écrite par les vainqueurs.",
+          "it": "La storia è spesso scritta dai vincitori.",
+          "es": "La historia la escriben a menudo los vencedores."
+        },
+        {
+          "en": "After three rounds, there was a clear [victor].",
+          "tr": "Üç turun sonunda açık bir kazanan vardı.",
+          "de": "Nach drei Runden gab es einen klaren Sieger.",
+          "fr": "Après trois manches, il y avait un vainqueur évident.",
+          "it": "Dopo tre round c'era un vincitore chiaro.",
+          "es": "Después de tres asaltos hubo un vencedor claro."
+        }
+      ]
+    },
+    {
+      "id": "convince",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "con-",
+        "vince"
+      ],
+      "gloss": {
+        "en": "to make someone believe or agree (literally: to defeat completely in argument)",
+        "tr": "ikna etmek, inandırmak",
+        "de": "überzeugen",
+        "fr": "convaincre",
+        "it": "convincere",
+        "es": "convencer"
+      },
+      "sentences": [
+        {
+          "en": "I [convinced] my dad to buy a dog.",
+          "tr": "Babamı köpek almaya ikna ettim.",
+          "de": "Ich habe meinen Vater überzeugt, einen Hund zu kaufen.",
+          "fr": "J'ai convaincu mon père d'acheter un chien.",
+          "it": "Ho convinto mio padre a comprare un cane.",
+          "es": "Convencí a mi padre de comprar un perro."
+        },
+        {
+          "en": "Nothing could [convince] her to stay.",
+          "tr": "Hiçbir şey onu kalmaya ikna edemedi.",
+          "de": "Nichts konnte sie überzeugen zu bleiben.",
+          "fr": "Rien ne pouvait la convaincre de rester.",
+          "it": "Niente poteva convincerla a restare.",
+          "es": "Nada pudo convencerla de quedarse."
+        }
+      ]
+    },
+    {
+      "id": "convinced",
+      "pos": "adjective",
+      "parent": "convince",
+      "parts": [
+        "con-",
+        "vinc",
+        "-ed"
+      ],
+      "gloss": {
+        "en": "completely sure about something",
+        "tr": "emin, ikna olmuş",
+        "de": "überzeugt",
+        "fr": "convaincu",
+        "it": "convinto",
+        "es": "convencido"
+      },
+      "sentences": [
+        {
+          "en": "I am [convinced] that he is lying.",
+          "tr": "Yalan söylediğinden eminim.",
+          "de": "Ich bin überzeugt, dass er lügt.",
+          "fr": "Je suis convaincu qu'il ment.",
+          "it": "Sono convinto che stia mentendo.",
+          "es": "Estoy convencido de que miente."
+        },
+        {
+          "en": "She was not [convinced] by his excuse.",
+          "tr": "Onun bahanesine inanmadı.",
+          "de": "Seine Ausrede überzeugte sie nicht.",
+          "fr": "Elle n'était pas convaincue par son excuse.",
+          "it": "Non era convinta dalla sua scusa.",
+          "es": "No la convenció su excusa."
+        }
+      ]
+    },
+    {
+      "id": "convincing",
+      "pos": "adjective",
+      "parent": "convince",
+      "parts": [
+        "con-",
+        "vinc",
+        "-ing"
+      ],
+      "gloss": {
+        "en": "making you believe that something is true",
+        "tr": "ikna edici, inandırıcı",
+        "de": "überzeugend",
+        "fr": "convaincant",
+        "it": "convincente",
+        "es": "convincente"
+      },
+      "sentences": [
+        {
+          "en": "He gave a [convincing] answer.",
+          "tr": "İkna edici bir cevap verdi.",
+          "de": "Er gab eine überzeugende Antwort.",
+          "fr": "Il a donné une réponse convaincante.",
+          "it": "Ha dato una risposta convincente.",
+          "es": "Dio una respuesta convincente."
+        },
+        {
+          "en": "The actors were very [convincing].",
+          "tr": "Oyuncular çok inandırıcıydı.",
+          "de": "Die Schauspieler waren sehr überzeugend.",
+          "fr": "Les acteurs étaient très convaincants.",
+          "it": "Gli attori erano molto convincenti.",
+          "es": "Los actores fueron muy convincentes."
+        }
+      ]
+    },
+    {
+      "id": "unconvincing",
+      "pos": "adjective",
+      "parent": "convincing",
+      "parts": [
+        "un-",
+        "con-",
+        "vinc",
+        "-ing"
+      ],
+      "gloss": {
+        "en": "not making you believe that something is true",
+        "tr": "inandırıcı olmayan",
+        "de": "nicht überzeugend",
+        "fr": "peu convaincant",
+        "it": "poco convincente",
+        "es": "poco convincente"
+      },
+      "sentences": [
+        {
+          "en": "His story sounded [unconvincing].",
+          "tr": "Hikâyesi inandırıcı gelmedi.",
+          "de": "Seine Geschichte klang nicht überzeugend.",
+          "fr": "Son histoire semblait peu convaincante.",
+          "it": "La sua storia sembrava poco convincente.",
+          "es": "Su historia sonaba poco convincente."
+        },
+        {
+          "en": "The ending of the film was [unconvincing].",
+          "tr": "Filmin sonu inandırıcı değildi.",
+          "de": "Das Ende des Films war nicht überzeugend.",
+          "fr": "La fin du film était peu convaincante.",
+          "it": "Il finale del film era poco convincente.",
+          "es": "El final de la película fue poco convincente."
+        }
+      ]
+    },
+    {
+      "id": "conviction",
+      "pos": "noun",
+      "parent": "convince",
+      "parts": [
+        "con-",
+        "vict",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a strong belief; also, an official decision in court that someone is guilty",
+        "tr": "inanç, kanaat; mahkûmiyet",
+        "de": "die Überzeugung; die Verurteilung",
+        "fr": "la conviction ; la condamnation",
+        "it": "la convinzione; la condanna",
+        "es": "la convicción; la condena"
+      },
+      "sentences": [
+        {
+          "en": "She spoke with great [conviction].",
+          "tr": "Büyük bir inançla konuştu.",
+          "de": "Sie sprach mit großer Überzeugung.",
+          "fr": "Elle a parlé avec une grande conviction.",
+          "it": "Ha parlato con grande convinzione.",
+          "es": "Habló con gran convicción."
+        },
+        {
+          "en": "He has no previous [convictions].",
+          "tr": "Daha önce hiç mahkûmiyeti yok.",
+          "de": "Er hat keine Vorstrafen.",
+          "fr": "Il n'a pas de condamnations antérieures.",
+          "it": "Non ha condanne precedenti.",
+          "es": "No tiene condenas anteriores."
+        }
+      ]
+    },
+    {
+      "id": "convict",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "con-",
+        "vict"
+      ],
+      "gloss": {
+        "en": "to decide officially in court that someone is guilty; as a noun (stress on con-), a person in prison",
+        "tr": "mahkûm etmek, suçlu bulmak; (isim) mahkûm",
+        "de": "verurteilen, schuldig sprechen; (Substantiv) der Sträfling",
+        "fr": "déclarer coupable, condamner ; (nom) le détenu",
+        "it": "condannare; (sostantivo) il detenuto",
+        "es": "condenar, declarar culpable; (sustantivo) el convicto"
+      },
+      "sentences": [
+        {
+          "en": "The jury [convicted] him of theft.",
+          "tr": "Jüri onu hırsızlıktan suçlu buldu.",
+          "de": "Die Geschworenen sprachen ihn des Diebstahls schuldig.",
+          "fr": "Le jury l'a déclaré coupable de vol.",
+          "it": "La giuria lo ha condannato per furto.",
+          "es": "El jurado lo declaró culpable de robo."
+        },
+        {
+          "en": "Two [convicts] escaped from the prison.",
+          "tr": "İki mahkûm cezaevinden kaçtı.",
+          "de": "Zwei Sträflinge flohen aus dem Gefängnis.",
+          "fr": "Deux détenus se sont évadés de la prison.",
+          "it": "Due detenuti sono evasi dal carcere.",
+          "es": "Dos convictos se escaparon de la cárcel."
+        }
+      ]
+    },
+    {
+      "id": "evict",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "e-",
+        "vict"
+      ],
+      "gloss": {
+        "en": "to force someone by law to leave their home (literally: to conquer out, to win back property)",
+        "tr": "tahliye etmek, evden çıkarmak",
+        "de": "zwangsräumen, hinauswerfen",
+        "fr": "expulser (d'un logement)",
+        "it": "sfrattare",
+        "es": "desahuciar, desalojar"
+      },
+      "sentences": [
+        {
+          "en": "The family was [evicted] for not paying rent.",
+          "tr": "Aile kira ödemediği için evden çıkarıldı.",
+          "de": "Die Familie wurde wegen nicht bezahlter Miete zwangsgeräumt.",
+          "fr": "La famille a été expulsée pour loyers impayés.",
+          "it": "La famiglia è stata sfrattata per non aver pagato l'affitto.",
+          "es": "La familia fue desahuciada por no pagar el alquiler."
+        },
+        {
+          "en": "The landlord cannot [evict] you without a reason.",
+          "tr": "Ev sahibi seni sebepsiz yere çıkaramaz.",
+          "de": "Der Vermieter kann dich nicht ohne Grund rauswerfen.",
+          "fr": "Le propriétaire ne peut pas t'expulser sans raison.",
+          "it": "Il padrone di casa non può sfrattarti senza motivo.",
+          "es": "El casero no puede desalojarte sin motivo."
+        }
+      ]
+    },
+    {
+      "id": "eviction",
+      "pos": "noun",
+      "parent": "evict",
+      "parts": [
+        "e-",
+        "vict",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "the act of forcing someone to leave their home by law",
+        "tr": "tahliye",
+        "de": "die Zwangsräumung",
+        "fr": "l'expulsion (d'un logement)",
+        "it": "lo sfratto",
+        "es": "el desahucio"
+      },
+      "sentences": [
+        {
+          "en": "They received an [eviction] notice.",
+          "tr": "Tahliye bildirimi aldılar.",
+          "de": "Sie bekamen einen Räumungsbescheid.",
+          "fr": "Ils ont reçu un avis d'expulsion.",
+          "it": "Hanno ricevuto un avviso di sfratto.",
+          "es": "Recibieron una orden de desahucio."
+        },
+        {
+          "en": "Many people face [eviction] in winter.",
+          "tr": "Kışın birçok insan tahliyeyle karşı karşıya.",
+          "de": "Viele Menschen droht im Winter die Zwangsräumung.",
+          "fr": "Beaucoup de gens risquent l'expulsion en hiver.",
+          "it": "In inverno molte persone rischiano lo sfratto.",
+          "es": "Mucha gente se enfrenta al desahucio en invierno."
+        }
+      ]
+    },
+    {
+      "id": "invincible",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "in-not-",
+        "vinc",
+        "-ible"
+      ],
+      "gloss": {
+        "en": "too strong to be defeated",
+        "tr": "yenilmez",
+        "de": "unbesiegbar",
+        "fr": "invincible",
+        "it": "invincibile",
+        "es": "invencible"
+      },
+      "sentences": [
+        {
+          "en": "At twenty, I felt [invincible].",
+          "tr": "Yirmi yaşındayken kendimi yenilmez hissediyordum.",
+          "de": "Mit zwanzig fühlte ich mich unbesiegbar.",
+          "fr": "À vingt ans, je me sentais invincible.",
+          "it": "A vent'anni mi sentivo invincibile.",
+          "es": "A los veinte años me sentía invencible."
+        },
+        {
+          "en": "The champion seemed [invincible] this season.",
+          "tr": "Şampiyon bu sezon yenilmez görünüyordu.",
+          "de": "Der Meister schien in dieser Saison unbesiegbar.",
+          "fr": "Le champion semblait invincible cette saison.",
+          "it": "Il campione sembrava invincibile in questa stagione.",
+          "es": "El campeón parecía invencible esta temporada."
+        }
+      ]
+    }
+  ]
+}

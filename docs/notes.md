@@ -3,6 +3,27 @@
 Her turda güncellenir: optimizasyon, SPEC ile tutarsızlıklar, issue durumu, şüpheli veri, açık sorular.
 Bağlayıcı kararlar burada değil `SPEC.md`'dedir; buradaki bir not karar olunca SPEC'e taşınır.
 
+## 2026-11-06
+
+### Gündelik nesneler (D5) geri alındı
+- Kullanıcı nesne bölümünü beğenmedi ("dünkü hâline döndür"): 7f63db2 ve 681800b geri alındı (revert).
+  `prehend` kökü (aynı gün eklendi) kaldı. Kavram/nesne fikri ileride yeniden konuşulabilir; bu turda yok.
+
+### Yeni fiil kökleri: sequ, solv, vinc (kullanıcı isteği, 58–60. kökler)
+- **sequ** (*sequi, secutus*, izlemek). Yazımlar `sequ`, `secut`, `secute`, `ecut`, `ecute` (ex- + sequi'de
+  s düşer: execute). 14 kelime (az: 14): sequence, consequence, consequently, subsequent, subsequently,
+  consecutive, execute, execution, executive, prosecute, prosecution, prosecutor, persecute, persecution.
+  Dışarıda: *sequel* (katalogdaki `-el` "küçük şey" eki, yanlış anlam verir), *second*, *pursue*, *suit*
+  (Fransızca üzerinden; parçalanışı zorlama), *sequential*, *obsequious* (nadir).
+- **solv** (*solvere, solutus*, çözmek, gevşetmek). Yazımlar `solve`, `solv`, `solut`, `solute`, `solu`.
+  11 kelime (az: 11): solve, solution, unsolved, soluble, insoluble, dissolve, resolve, resolution,
+  unresolved, absolute, absolutely. Yeni ek `-ble-can` (form `ble`, "olabilen", Latince -bilis): katalogdaki
+  `-ble` sıklık bildiren fiil eki (scribble), soluble için yanlış anlam verirdi.
+  Dışarıda: *solvent* (iki ayrı anlam, ileride), *absolve* (dar kullanım), *resolute*.
+- **vinc** (*vincere, victus*, yenmek). Yazımlar `vinc`, `vince`, `vict`. 12 kelime (az: 12): victory,
+  victorious, victor, convince, convinced, convincing, unconvincing, conviction, convict, evict, eviction,
+  invincible. Dışarıda: *province* (köken tartışmalı), *vanquish* (Fransızca üzerinden), *victim* (ilgisiz).
+
 ## 2026-10-31
 
 ### Yeni kök: trib (kullanıcı isteği, 56. kök)

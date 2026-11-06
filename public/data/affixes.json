@@ -3054,5 +3054,17 @@
       "it": "persona che fa (grafia francese di -or)",
       "es": "persona que hace (grafía francesa de -or)"
     }
+  },
+  "-ble-can": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "that can be (Latin -bilis, as in -able)",
+      "tr": "-ebilir, -abilir (Latince -bilis)",
+      "de": "-bar, -lich (lateinisch -bilis)",
+      "fr": "qui peut être (latin -bilis)",
+      "it": "che può essere (latino -bilis)",
+      "es": "que puede ser (latín -bilis)"
+    },
+    "form": "ble"
   }
 }

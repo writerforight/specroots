@@ -1,0 +1,420 @@
+{
+  "id": "solv",
+  "forms": [
+    "solve",
+    "solv",
+    "solut",
+    "solute",
+    "solu"
+  ],
+  "origin": "la",
+  "etymon": "solvere",
+  "meaning": {
+    "en": "to loosen, to untie, to set free (solutus: loosened)",
+    "tr": "gevşetmek, çözmek, serbest bırakmak",
+    "de": "lösen, losbinden (solutus: gelöst)",
+    "fr": "délier, détacher, résoudre (solutus : délié)",
+    "it": "sciogliere, slegare (solutus: sciolto)",
+    "es": "soltar, desatar, resolver (solutus: suelto)"
+  },
+  "words": [
+    {
+      "id": "solve",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "solve"
+      ],
+      "gloss": {
+        "en": "to find the answer to a problem (literally: to untie a knot)",
+        "tr": "çözmek, halletmek",
+        "de": "lösen",
+        "fr": "résoudre",
+        "it": "risolvere",
+        "es": "resolver, solucionar"
+      },
+      "sentences": [
+        {
+          "en": "Can you [solve] this puzzle?",
+          "tr": "Bu bulmacayı çözebilir misin?",
+          "de": "Kannst du dieses Rätsel lösen?",
+          "fr": "Peux-tu résoudre cette énigme ?",
+          "it": "Riesci a risolvere questo rompicapo?",
+          "es": "¿Puedes resolver este acertijo?"
+        },
+        {
+          "en": "Money will not [solve] all our problems.",
+          "tr": "Para bütün sorunlarımızı çözmeyecek.",
+          "de": "Geld wird nicht alle unsere Probleme lösen.",
+          "fr": "L'argent ne résoudra pas tous nos problèmes.",
+          "it": "I soldi non risolveranno tutti i nostri problemi.",
+          "es": "El dinero no resolverá todos nuestros problemas."
+        }
+      ]
+    },
+    {
+      "id": "solution",
+      "pos": "noun",
+      "parent": "solve",
+      "parts": [
+        "solut",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "the answer to a problem; a liquid with something dissolved in it",
+        "tr": "çözüm; çözelti",
+        "de": "die Lösung",
+        "fr": "la solution",
+        "it": "la soluzione",
+        "es": "la solución"
+      },
+      "sentences": [
+        {
+          "en": "We need a quick [solution].",
+          "tr": "Hızlı bir çözüme ihtiyacımız var.",
+          "de": "Wir brauchen eine schnelle Lösung.",
+          "fr": "Il nous faut une solution rapide.",
+          "it": "Ci serve una soluzione rapida.",
+          "es": "Necesitamos una solución rápida."
+        },
+        {
+          "en": "Clean the cut with a salt [solution].",
+          "tr": "Kesiği tuzlu bir çözeltiyle temizle.",
+          "de": "Reinige die Wunde mit einer Salzlösung.",
+          "fr": "Nettoie la coupure avec une solution saline.",
+          "it": "Pulisci il taglio con una soluzione salina.",
+          "es": "Limpia el corte con una solución salina."
+        }
+      ]
+    },
+    {
+      "id": "unsolved",
+      "pos": "adjective",
+      "parent": "solve",
+      "parts": [
+        "un-",
+        "solv",
+        "-ed"
+      ],
+      "gloss": {
+        "en": "not yet solved",
+        "tr": "çözülmemiş",
+        "de": "ungelöst",
+        "fr": "non résolu",
+        "it": "irrisolto",
+        "es": "sin resolver"
+      },
+      "sentences": [
+        {
+          "en": "The crime is still [unsolved].",
+          "tr": "Suç hâlâ çözülmedi.",
+          "de": "Das Verbrechen ist immer noch ungelöst.",
+          "fr": "Le crime n'est toujours pas résolu.",
+          "it": "Il crimine è ancora irrisolto.",
+          "es": "El crimen sigue sin resolver."
+        },
+        {
+          "en": "Some math problems remain [unsolved] for centuries.",
+          "tr": "Bazı matematik problemleri yüzyıllarca çözülmeden kalır.",
+          "de": "Manche Matheprobleme bleiben jahrhundertelang ungelöst.",
+          "fr": "Certains problèmes de maths restent non résolus pendant des siècles.",
+          "it": "Alcuni problemi di matematica restano irrisolti per secoli.",
+          "es": "Algunos problemas matemáticos siguen sin resolver durante siglos."
+        }
+      ]
+    },
+    {
+      "id": "soluble",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "solu",
+        "-ble-can"
+      ],
+      "gloss": {
+        "en": "able to dissolve in a liquid",
+        "tr": "çözünür, eriyebilir",
+        "de": "löslich",
+        "fr": "soluble",
+        "it": "solubile",
+        "es": "soluble"
+      },
+      "sentences": [
+        {
+          "en": "Sugar is [soluble] in water.",
+          "tr": "Şeker suda çözünür.",
+          "de": "Zucker ist in Wasser löslich.",
+          "fr": "Le sucre est soluble dans l'eau.",
+          "it": "Lo zucchero è solubile in acqua.",
+          "es": "El azúcar es soluble en agua."
+        },
+        {
+          "en": "This coffee is [soluble], so just add hot water.",
+          "tr": "Bu kahve çözünür, sadece sıcak su ekle.",
+          "de": "Dieser Kaffee ist löslich, gib einfach heißes Wasser dazu.",
+          "fr": "Ce café est soluble, ajoute juste de l'eau chaude.",
+          "it": "Questo caffè è solubile, aggiungi solo acqua calda.",
+          "es": "Este café es soluble, solo añade agua caliente."
+        }
+      ]
+    },
+    {
+      "id": "insoluble",
+      "pos": "adjective",
+      "parent": "soluble",
+      "parts": [
+        "in-not-",
+        "solu",
+        "-ble-can"
+      ],
+      "gloss": {
+        "en": "not able to dissolve; (of a problem) impossible to solve",
+        "tr": "çözünmez; (sorun) çözümsüz",
+        "de": "unlöslich; (Problem) unlösbar",
+        "fr": "insoluble",
+        "it": "insolubile; irrisolvibile",
+        "es": "insoluble"
+      },
+      "sentences": [
+        {
+          "en": "Sand is [insoluble] in water.",
+          "tr": "Kum suda çözünmez.",
+          "de": "Sand ist in Wasser unlöslich.",
+          "fr": "Le sable est insoluble dans l'eau.",
+          "it": "La sabbia è insolubile in acqua.",
+          "es": "La arena es insoluble en agua."
+        },
+        {
+          "en": "It seemed like an [insoluble] problem.",
+          "tr": "Çözümsüz bir sorun gibi görünüyordu.",
+          "de": "Es schien ein unlösbares Problem zu sein.",
+          "fr": "Cela semblait un problème insoluble.",
+          "it": "Sembrava un problema irrisolvibile.",
+          "es": "Parecía un problema insoluble."
+        }
+      ]
+    },
+    {
+      "id": "dissolve",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "dis-",
+        "solve"
+      ],
+      "gloss": {
+        "en": "to mix into a liquid and disappear; to end an organization (literally: to loosen apart)",
+        "tr": "çözünmek, eritmek; feshetmek",
+        "de": "sich auflösen, auflösen",
+        "fr": "dissoudre, se dissoudre",
+        "it": "sciogliere, sciogliersi",
+        "es": "disolver, disolverse"
+      },
+      "sentences": [
+        {
+          "en": "Stir until the sugar [dissolves].",
+          "tr": "Şeker eriyene kadar karıştır.",
+          "de": "Rühre, bis sich der Zucker auflöst.",
+          "fr": "Remue jusqu'à ce que le sucre se dissolve.",
+          "it": "Mescola finché lo zucchero non si scioglie.",
+          "es": "Remueve hasta que el azúcar se disuelva."
+        },
+        {
+          "en": "The band [dissolved] after ten years.",
+          "tr": "Grup on yıl sonra dağıldı.",
+          "de": "Die Band löste sich nach zehn Jahren auf.",
+          "fr": "Le groupe s'est dissous après dix ans.",
+          "it": "La band si è sciolta dopo dieci anni.",
+          "es": "La banda se disolvió después de diez años."
+        }
+      ]
+    },
+    {
+      "id": "resolve",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "re-",
+        "solve"
+      ],
+      "gloss": {
+        "en": "to solve a problem or end a disagreement; to decide firmly",
+        "tr": "çözmek, halletmek; kararlılıkla karar vermek",
+        "de": "lösen, beilegen; sich fest vornehmen",
+        "fr": "résoudre ; se résoudre à",
+        "it": "risolvere; decidere fermamente",
+        "es": "resolver; decidir firmemente"
+      },
+      "sentences": [
+        {
+          "en": "They [resolved] the argument by talking.",
+          "tr": "Tartışmayı konuşarak hallettiler.",
+          "de": "Sie legten den Streit durch Reden bei.",
+          "fr": "Ils ont résolu la dispute en discutant.",
+          "it": "Hanno risolto la lite parlando.",
+          "es": "Resolvieron la discusión hablando."
+        },
+        {
+          "en": "She [resolved] to study every day.",
+          "tr": "Her gün çalışmaya karar verdi.",
+          "de": "Sie nahm sich fest vor, jeden Tag zu lernen.",
+          "fr": "Elle a résolu d'étudier tous les jours.",
+          "it": "Ha deciso fermamente di studiare ogni giorno.",
+          "es": "Decidió estudiar todos los días."
+        }
+      ]
+    },
+    {
+      "id": "resolution",
+      "pos": "noun",
+      "parent": "resolve",
+      "parts": [
+        "re-",
+        "solut",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a firm decision; an official decision of a group; the solving of a problem; the sharpness of a screen or image",
+        "tr": "karar, kararlılık; çözüm; (ekran) çözünürlük",
+        "de": "der Vorsatz, die Resolution; die Lösung; die Auflösung",
+        "fr": "la résolution",
+        "it": "la risoluzione, il proposito",
+        "es": "la resolución, el propósito"
+      },
+      "sentences": [
+        {
+          "en": "My New Year's [resolution] is to read more.",
+          "tr": "Yeni yıl kararım daha çok okumak.",
+          "de": "Mein Vorsatz fürs neue Jahr ist, mehr zu lesen.",
+          "fr": "Ma résolution du Nouvel An est de lire plus.",
+          "it": "Il mio proposito per l'anno nuovo è leggere di più.",
+          "es": "Mi propósito de Año Nuevo es leer más."
+        },
+        {
+          "en": "This screen has a very high [resolution].",
+          "tr": "Bu ekranın çözünürlüğü çok yüksek.",
+          "de": "Dieser Bildschirm hat eine sehr hohe Auflösung.",
+          "fr": "Cet écran a une très haute résolution.",
+          "it": "Questo schermo ha una risoluzione molto alta.",
+          "es": "Esta pantalla tiene una resolución muy alta."
+        },
+        {
+          "en": "The UN passed a [resolution] on climate.",
+          "tr": "BM iklim konusunda bir karar aldı.",
+          "de": "Die UNO verabschiedete eine Resolution zum Klima.",
+          "fr": "L'ONU a adopté une résolution sur le climat.",
+          "it": "L'ONU ha approvato una risoluzione sul clima.",
+          "es": "La ONU aprobó una resolución sobre el clima."
+        }
+      ]
+    },
+    {
+      "id": "unresolved",
+      "pos": "adjective",
+      "parent": "resolve",
+      "parts": [
+        "un-",
+        "re-",
+        "solv",
+        "-ed"
+      ],
+      "gloss": {
+        "en": "not yet solved or settled",
+        "tr": "çözümsüz kalmış, halledilmemiş",
+        "de": "ungelöst, ungeklärt",
+        "fr": "non résolu",
+        "it": "irrisolto",
+        "es": "sin resolver, pendiente"
+      },
+      "sentences": [
+        {
+          "en": "Several questions remain [unresolved].",
+          "tr": "Birkaç soru hâlâ çözümsüz.",
+          "de": "Mehrere Fragen bleiben ungeklärt.",
+          "fr": "Plusieurs questions restent non résolues.",
+          "it": "Diverse questioni restano irrisolte.",
+          "es": "Varias preguntas siguen sin resolver."
+        },
+        {
+          "en": "They left the meeting with the conflict [unresolved].",
+          "tr": "Çatışmayı çözmeden toplantıdan ayrıldılar.",
+          "de": "Sie verließen das Treffen, ohne den Konflikt zu lösen.",
+          "fr": "Ils ont quitté la réunion sans résoudre le conflit.",
+          "it": "Hanno lasciato la riunione con il conflitto irrisolto.",
+          "es": "Salieron de la reunión con el conflicto sin resolver."
+        }
+      ]
+    },
+    {
+      "id": "absolute",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "ab-",
+        "solute"
+      ],
+      "gloss": {
+        "en": "complete, total; not limited (literally: loosened away, free from everything)",
+        "tr": "mutlak, tam, kesin",
+        "de": "absolut, völlig",
+        "fr": "absolu, total",
+        "it": "assoluto, totale",
+        "es": "absoluto, total"
+      },
+      "sentences": [
+        {
+          "en": "I have [absolute] trust in her.",
+          "tr": "Ona mutlak güvenim var.",
+          "de": "Ich habe absolutes Vertrauen zu ihr.",
+          "fr": "J'ai une confiance absolue en elle.",
+          "it": "Ho una fiducia assoluta in lei.",
+          "es": "Tengo una confianza absoluta en ella."
+        },
+        {
+          "en": "The king had [absolute] power.",
+          "tr": "Kralın mutlak gücü vardı.",
+          "de": "Der König hatte absolute Macht.",
+          "fr": "Le roi avait un pouvoir absolu.",
+          "it": "Il re aveva un potere assoluto.",
+          "es": "El rey tenía un poder absoluto."
+        }
+      ]
+    },
+    {
+      "id": "absolutely",
+      "pos": "adverb",
+      "parent": "absolute",
+      "parts": [
+        "ab-",
+        "solute",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "completely; also used to say a strong \"yes\"",
+        "tr": "kesinlikle, tamamen; (cevap) kesinlikle evet",
+        "de": "absolut, völlig; (Antwort) auf jeden Fall",
+        "fr": "absolument",
+        "it": "assolutamente",
+        "es": "absolutamente, totalmente"
+      },
+      "sentences": [
+        {
+          "en": "You are [absolutely] right.",
+          "tr": "Kesinlikle haklısın.",
+          "de": "Du hast absolut recht.",
+          "fr": "Tu as absolument raison.",
+          "it": "Hai assolutamente ragione.",
+          "es": "Tienes toda la razón."
+        },
+        {
+          "en": "\"Can I come too?\" \"[Absolutely]!\"",
+          "tr": "\"Ben de gelebilir miyim?\" \"Kesinlikle!\"",
+          "de": "„Darf ich mitkommen?\" „Auf jeden Fall!\"",
+          "fr": "« Je peux venir aussi ? » « Absolument ! »",
+          "it": "\"Posso venire anch'io?\" \"Assolutamente!\"",
+          "es": "\"¿Puedo ir yo también?\" \"¡Por supuesto!\""
+        }
+      ]
+    }
+  ]
+}

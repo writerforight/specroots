@@ -34,7 +34,11 @@ seçilen dillerdeki karşılığı ve öğretici örnek cümleleri bir arada gö
     tentacle; 2026-10-30); 54. kök `act` (agere, yapmak: act, actually, active, react, exact, agent; 2026-10-30;
     `fac` = facere yapmak ile karıştırılmasın); 55. kök `nect` (nectere, bağlamak: connect, connection, annex,
     nexus; 2026-10-30); 56. kök `trib` (tribuere, vermek: tribute, contribute, distribute, attribute;
-    2026-10-31). Yeni kök sınırsız açılmaz; her biri kullanıcı onayıyla eklenir.
+    2026-10-31); 57. kök `prehend` (prehendere, kavramak: comprehend, apprehend, surprise, enterprise;
+    2026-11-06); 2026-11-06 kullanıcı isteği "daha çok fiil kökü": 58. kök `sequ` (sequi, izlemek:
+    sequence, consequence, execute, prosecute), 59. kök `solv` (solvere, çözmek: solve, solution,
+    dissolve, resolve, absolute), 60. kök `vinc` (vincere, yenmek: victory, convince, evict, invincible).
+    Yeni kök sınırsız açılmaz; her biri kullanıcı onayıyla eklenir.
 12. **Mimari:** nesne yönelimli, katmanlı (aşağıda). Görünüm ve tema veri ve mantıktan bağımsız
     değiştirilebilir olmalı.
 13. **Bulunabilirlik (2026-10-18):** yalnızca ana sayfa için: açıklama, Open Graph görseli (`public/og.png`),

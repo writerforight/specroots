@@ -1886,6 +1886,41 @@
     ]
   },
   {
+    "id": "sequ",
+    "forms": [
+      "sequ",
+      "secut",
+      "secute",
+      "ecut",
+      "ecute"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to follow (secutus: followed)",
+      "tr": "izlemek, takip etmek, ardından gelmek",
+      "de": "folgen (secutus: gefolgt)",
+      "fr": "suivre (secutus : suivi)",
+      "it": "seguire (secutus: seguito)",
+      "es": "seguir (secutus: seguido)"
+    },
+    "words": [
+      "sequence",
+      "consequence",
+      "consequently",
+      "subsequent",
+      "subsequently",
+      "consecutive",
+      "execute",
+      "execution",
+      "executive",
+      "prosecute",
+      "prosecution",
+      "prosecutor",
+      "persecute",
+      "persecution"
+    ]
+  },
+  {
     "id": "sist",
     "forms": [
       "sist",
@@ -1940,6 +1975,38 @@
       "circumstantial",
       "substance",
       "substantial"
+    ]
+  },
+  {
+    "id": "solv",
+    "forms": [
+      "solve",
+      "solv",
+      "solut",
+      "solute",
+      "solu"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to loosen, to untie, to set free (solutus: loosened)",
+      "tr": "gevşetmek, çözmek, serbest bırakmak",
+      "de": "lösen, losbinden (solutus: gelöst)",
+      "fr": "délier, détacher, résoudre (solutus : délié)",
+      "it": "sciogliere, slegare (solutus: sciolto)",
+      "es": "soltar, desatar, resolver (solutus: suelto)"
+    },
+    "words": [
+      "solve",
+      "solution",
+      "unsolved",
+      "soluble",
+      "insoluble",
+      "dissolve",
+      "resolve",
+      "resolution",
+      "unresolved",
+      "absolute",
+      "absolutely"
     ]
   },
   {
@@ -2466,6 +2533,37 @@
       "interviewer",
       "preview",
       "viewer"
+    ]
+  },
+  {
+    "id": "vinc",
+    "forms": [
+      "vinc",
+      "vince",
+      "vict"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to conquer, to defeat, to win (victus: conquered)",
+      "tr": "yenmek, fethetmek, galip gelmek",
+      "de": "siegen, besiegen (victus: besiegt)",
+      "fr": "vaincre (victus : vaincu)",
+      "it": "vincere (victus: vinto)",
+      "es": "vencer (victus: vencido)"
+    },
+    "words": [
+      "victory",
+      "victorious",
+      "victor",
+      "convince",
+      "convinced",
+      "convincing",
+      "unconvincing",
+      "conviction",
+      "convict",
+      "evict",
+      "eviction",
+      "invincible"
     ]
   },
   {

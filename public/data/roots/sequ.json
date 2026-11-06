@@ -1,0 +1,524 @@
+{
+  "id": "sequ",
+  "forms": [
+    "sequ",
+    "secut",
+    "secute",
+    "ecut",
+    "ecute"
+  ],
+  "origin": "la",
+  "etymon": "sequi",
+  "meaning": {
+    "en": "to follow (secutus: followed)",
+    "tr": "izlemek, takip etmek, ardından gelmek",
+    "de": "folgen (secutus: gefolgt)",
+    "fr": "suivre (secutus : suivi)",
+    "it": "seguire (secutus: seguito)",
+    "es": "seguir (secutus: seguido)"
+  },
+  "words": [
+    {
+      "id": "sequence",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "sequ",
+        "-ence"
+      ],
+      "gloss": {
+        "en": "a set of things that follow one another in a fixed order",
+        "tr": "sıra, dizi, art arda gelen şeyler",
+        "de": "die Reihenfolge, die Folge",
+        "fr": "la séquence, la suite, l'ordre",
+        "it": "la sequenza, l'ordine",
+        "es": "la secuencia, el orden"
+      },
+      "sentences": [
+        {
+          "en": "Put the pictures in the right [sequence].",
+          "tr": "Resimleri doğru sıraya koy.",
+          "de": "Bring die Bilder in die richtige Reihenfolge.",
+          "fr": "Mets les images dans le bon ordre.",
+          "it": "Metti le immagini nella sequenza giusta.",
+          "es": "Pon las imágenes en el orden correcto."
+        },
+        {
+          "en": "The film opens with a long [sequence] at sea.",
+          "tr": "Film denizde geçen uzun bir sahne dizisiyle açılıyor.",
+          "de": "Der Film beginnt mit einer langen Sequenz auf See.",
+          "fr": "Le film commence par une longue séquence en mer.",
+          "it": "Il film si apre con una lunga sequenza in mare.",
+          "es": "La película empieza con una larga secuencia en el mar."
+        }
+      ]
+    },
+    {
+      "id": "consequence",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "con-",
+        "sequ",
+        "-ence"
+      ],
+      "gloss": {
+        "en": "a result of an action, often a bad one (literally: what follows with it)",
+        "tr": "sonuç, netice",
+        "de": "die Folge, die Konsequenz",
+        "fr": "la conséquence",
+        "it": "la conseguenza",
+        "es": "la consecuencia"
+      },
+      "sentences": [
+        {
+          "en": "Every choice has a [consequence].",
+          "tr": "Her seçimin bir sonucu vardır.",
+          "de": "Jede Entscheidung hat eine Folge.",
+          "fr": "Chaque choix a une conséquence.",
+          "it": "Ogni scelta ha una conseguenza.",
+          "es": "Cada decisión tiene una consecuencia."
+        },
+        {
+          "en": "He did not think about the [consequences].",
+          "tr": "Sonuçlarını düşünmedi.",
+          "de": "Er dachte nicht an die Folgen.",
+          "fr": "Il n'a pas pensé aux conséquences.",
+          "it": "Non ha pensato alle conseguenze.",
+          "es": "No pensó en las consecuencias."
+        }
+      ]
+    },
+    {
+      "id": "consequently",
+      "pos": "adverb",
+      "parent": "consequence",
+      "parts": [
+        "con-",
+        "sequ",
+        "-ent",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "as a result; therefore",
+        "tr": "bu yüzden, sonuç olarak",
+        "de": "folglich, deshalb",
+        "fr": "par conséquent",
+        "it": "di conseguenza",
+        "es": "por consiguiente, en consecuencia"
+      },
+      "sentences": [
+        {
+          "en": "The road was closed; [consequently], we were late.",
+          "tr": "Yol kapalıydı; bu yüzden geç kaldık.",
+          "de": "Die Straße war gesperrt; folglich kamen wir zu spät.",
+          "fr": "La route était fermée ; par conséquent, nous étions en retard.",
+          "it": "La strada era chiusa; di conseguenza siamo arrivati tardi.",
+          "es": "La carretera estaba cerrada; por consiguiente, llegamos tarde."
+        },
+        {
+          "en": "She trained hard and [consequently] won the race.",
+          "tr": "Çok çalıştı ve bu yüzden yarışı kazandı.",
+          "de": "Sie trainierte hart und gewann folglich das Rennen.",
+          "fr": "Elle s'est beaucoup entraînée et a par conséquent gagné la course.",
+          "it": "Si è allenata molto e di conseguenza ha vinto la gara.",
+          "es": "Entrenó mucho y en consecuencia ganó la carrera."
+        }
+      ]
+    },
+    {
+      "id": "subsequent",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "sub-",
+        "sequ",
+        "-ent"
+      ],
+      "gloss": {
+        "en": "coming after something else (literally: following close under)",
+        "tr": "sonraki, ardından gelen",
+        "de": "nachfolgend, später",
+        "fr": "suivant, ultérieur",
+        "it": "successivo, seguente",
+        "es": "posterior, siguiente"
+      },
+      "sentences": [
+        {
+          "en": "The [subsequent] years were happier.",
+          "tr": "Sonraki yıllar daha mutluydu.",
+          "de": "Die nachfolgenden Jahre waren glücklicher.",
+          "fr": "Les années suivantes ont été plus heureuses.",
+          "it": "Gli anni successivi furono più felici.",
+          "es": "Los años siguientes fueron más felices."
+        },
+        {
+          "en": "The first test failed, but [subsequent] tests worked.",
+          "tr": "İlk deneme başarısız oldu ama sonraki denemeler işe yaradı.",
+          "de": "Der erste Test scheiterte, aber spätere Tests klappten.",
+          "fr": "Le premier essai a échoué, mais les essais suivants ont marché.",
+          "it": "Il primo test è fallito, ma quelli successivi hanno funzionato.",
+          "es": "La primera prueba falló, pero las siguientes funcionaron."
+        }
+      ]
+    },
+    {
+      "id": "subsequently",
+      "pos": "adverb",
+      "parent": "subsequent",
+      "parts": [
+        "sub-",
+        "sequ",
+        "-ent",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "after that; later",
+        "tr": "daha sonra, ardından",
+        "de": "anschließend, später",
+        "fr": "par la suite, ensuite",
+        "it": "successivamente, in seguito",
+        "es": "posteriormente, después"
+      },
+      "sentences": [
+        {
+          "en": "He was arrested and [subsequently] released.",
+          "tr": "Tutuklandı ve daha sonra serbest bırakıldı.",
+          "de": "Er wurde verhaftet und anschließend freigelassen.",
+          "fr": "Il a été arrêté puis relâché par la suite.",
+          "it": "È stato arrestato e successivamente rilasciato.",
+          "es": "Fue detenido y posteriormente liberado."
+        },
+        {
+          "en": "The book was [subsequently] made into a film.",
+          "tr": "Kitap daha sonra filme çekildi.",
+          "de": "Das Buch wurde später verfilmt.",
+          "fr": "Le livre a ensuite été adapté au cinéma.",
+          "it": "Il libro è stato in seguito trasformato in un film.",
+          "es": "El libro fue llevado después al cine."
+        }
+      ]
+    },
+    {
+      "id": "consecutive",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "con-",
+        "secut",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "following one after another without a break",
+        "tr": "art arda, üst üste",
+        "de": "aufeinanderfolgend",
+        "fr": "consécutif",
+        "it": "consecutivo",
+        "es": "consecutivo"
+      },
+      "sentences": [
+        {
+          "en": "It rained for five [consecutive] days.",
+          "tr": "Beş gün üst üste yağmur yağdı.",
+          "de": "Es regnete an fünf aufeinanderfolgenden Tagen.",
+          "fr": "Il a plu cinq jours consécutifs.",
+          "it": "È piovuto per cinque giorni consecutivi.",
+          "es": "Llovió cinco días consecutivos."
+        },
+        {
+          "en": "The team won three [consecutive] games.",
+          "tr": "Takım üst üste üç maç kazandı.",
+          "de": "Die Mannschaft gewann drei Spiele in Folge.",
+          "fr": "L'équipe a gagné trois matchs consécutifs.",
+          "it": "La squadra ha vinto tre partite consecutive.",
+          "es": "El equipo ganó tres partidos consecutivos."
+        }
+      ]
+    },
+    {
+      "id": "execute",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ex-",
+        "ecute"
+      ],
+      "gloss": {
+        "en": "to carry out a plan or order; to kill someone as a legal punishment (literally: to follow out to the end)",
+        "tr": "uygulamak, yerine getirmek; idam etmek",
+        "de": "ausführen; hinrichten",
+        "fr": "exécuter",
+        "it": "eseguire; giustiziare",
+        "es": "ejecutar"
+      },
+      "sentences": [
+        {
+          "en": "The team [executed] the plan perfectly.",
+          "tr": "Ekip planı kusursuz uyguladı.",
+          "de": "Das Team führte den Plan perfekt aus.",
+          "fr": "L'équipe a parfaitement exécuté le plan.",
+          "it": "La squadra ha eseguito il piano alla perfezione.",
+          "es": "El equipo ejecutó el plan a la perfección."
+        },
+        {
+          "en": "The computer [executes] each command in order.",
+          "tr": "Bilgisayar her komutu sırayla çalıştırır.",
+          "de": "Der Computer führt jeden Befehl der Reihe nach aus.",
+          "fr": "L'ordinateur exécute chaque commande dans l'ordre.",
+          "it": "Il computer esegue ogni comando in ordine.",
+          "es": "El ordenador ejecuta cada orden por turno."
+        }
+      ]
+    },
+    {
+      "id": "execution",
+      "pos": "noun",
+      "parent": "execute",
+      "parts": [
+        "ex-",
+        "ecut",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "the carrying out of a plan; killing someone as a legal punishment",
+        "tr": "uygulama, yürütme; idam",
+        "de": "die Ausführung; die Hinrichtung",
+        "fr": "l'exécution",
+        "it": "l'esecuzione",
+        "es": "la ejecución"
+      },
+      "sentences": [
+        {
+          "en": "The idea was good, but the [execution] was poor.",
+          "tr": "Fikir iyiydi ama uygulama zayıftı.",
+          "de": "Die Idee war gut, aber die Ausführung schwach.",
+          "fr": "L'idée était bonne, mais l'exécution était faible.",
+          "it": "L'idea era buona, ma l'esecuzione era scarsa.",
+          "es": "La idea era buena, pero la ejecución fue pobre."
+        },
+        {
+          "en": "Many countries have ended [executions].",
+          "tr": "Birçok ülke idamlara son verdi.",
+          "de": "Viele Länder haben Hinrichtungen abgeschafft.",
+          "fr": "Beaucoup de pays ont mis fin aux exécutions.",
+          "it": "Molti paesi hanno abolito le esecuzioni.",
+          "es": "Muchos países han puesto fin a las ejecuciones."
+        }
+      ]
+    },
+    {
+      "id": "executive",
+      "pos": "noun",
+      "parent": "execute",
+      "parts": [
+        "ex-",
+        "ecut",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "a manager with power in a company; as an adjective, about carrying out decisions",
+        "tr": "yönetici; (sıfat) yürütme ile ilgili",
+        "de": "die Führungskraft; (Adjektiv) ausführend, Exekutiv-",
+        "fr": "le cadre dirigeant ; (adjectif) exécutif",
+        "it": "il dirigente; (aggettivo) esecutivo",
+        "es": "el ejecutivo, el directivo; (adjetivo) ejecutivo"
+      },
+      "sentences": [
+        {
+          "en": "She is a senior [executive] at a bank.",
+          "tr": "Bir bankada üst düzey yönetici.",
+          "de": "Sie ist eine leitende Führungskraft bei einer Bank.",
+          "fr": "Elle est cadre supérieure dans une banque.",
+          "it": "È una dirigente di alto livello in una banca.",
+          "es": "Es una alta ejecutiva de un banco."
+        },
+        {
+          "en": "The president leads the [executive] branch.",
+          "tr": "Cumhurbaşkanı yürütme organının başıdır.",
+          "de": "Der Präsident leitet die Exekutive.",
+          "fr": "Le président dirige le pouvoir exécutif.",
+          "it": "Il presidente guida il potere esecutivo.",
+          "es": "El presidente dirige el poder ejecutivo."
+        }
+      ]
+    },
+    {
+      "id": "prosecute",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "pro-",
+        "secute"
+      ],
+      "gloss": {
+        "en": "to accuse someone officially in a court of law (literally: to follow forward)",
+        "tr": "kovuşturmak, dava açmak",
+        "de": "strafrechtlich verfolgen, anklagen",
+        "fr": "poursuivre en justice",
+        "it": "perseguire penalmente",
+        "es": "procesar, enjuiciar"
+      },
+      "sentences": [
+        {
+          "en": "Shoplifters will be [prosecuted].",
+          "tr": "Mağaza hırsızları hakkında dava açılacaktır.",
+          "de": "Ladendiebe werden angezeigt und verfolgt.",
+          "fr": "Les voleurs à l'étalage seront poursuivis.",
+          "it": "I taccheggiatori saranno perseguiti.",
+          "es": "Los ladrones de tiendas serán procesados."
+        },
+        {
+          "en": "There was not enough evidence to [prosecute] him.",
+          "tr": "Onu yargılamak için yeterli kanıt yoktu.",
+          "de": "Es gab nicht genug Beweise, um ihn anzuklagen.",
+          "fr": "Il n'y avait pas assez de preuves pour le poursuivre.",
+          "it": "Non c'erano prove sufficienti per perseguirlo.",
+          "es": "No había pruebas suficientes para procesarlo."
+        }
+      ]
+    },
+    {
+      "id": "prosecution",
+      "pos": "noun",
+      "parent": "prosecute",
+      "parts": [
+        "pro-",
+        "secut",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "the act of accusing someone in court; the lawyers who accuse",
+        "tr": "kovuşturma; iddia makamı",
+        "de": "die Strafverfolgung; die Anklage",
+        "fr": "les poursuites ; l'accusation",
+        "it": "l'azione penale; l'accusa",
+        "es": "el procesamiento; la acusación, la fiscalía"
+      },
+      "sentences": [
+        {
+          "en": "The [prosecution] called its first witness.",
+          "tr": "İddia makamı ilk tanığını çağırdı.",
+          "de": "Die Anklage rief ihre erste Zeugin auf.",
+          "fr": "L'accusation a appelé son premier témoin.",
+          "it": "L'accusa ha chiamato il primo testimone.",
+          "es": "La acusación llamó a su primer testigo."
+        },
+        {
+          "en": "He faces [prosecution] for fraud.",
+          "tr": "Dolandırıcılıktan yargılanıyor.",
+          "de": "Ihm droht eine Strafverfolgung wegen Betrugs.",
+          "fr": "Il fait l'objet de poursuites pour fraude.",
+          "it": "Rischia un procedimento penale per frode.",
+          "es": "Se enfrenta a un proceso por fraude."
+        }
+      ]
+    },
+    {
+      "id": "prosecutor",
+      "pos": "noun",
+      "parent": "prosecute",
+      "parts": [
+        "pro-",
+        "secut",
+        "-or"
+      ],
+      "gloss": {
+        "en": "a lawyer who accuses someone in court for the state",
+        "tr": "savcı",
+        "de": "der Staatsanwalt, die Staatsanwältin",
+        "fr": "le procureur",
+        "it": "il pubblico ministero",
+        "es": "el fiscal"
+      },
+      "sentences": [
+        {
+          "en": "The [prosecutor] asked for a long sentence.",
+          "tr": "Savcı uzun bir ceza istedi.",
+          "de": "Die Staatsanwältin forderte eine lange Strafe.",
+          "fr": "Le procureur a demandé une longue peine.",
+          "it": "Il pubblico ministero ha chiesto una lunga condanna.",
+          "es": "El fiscal pidió una pena larga."
+        },
+        {
+          "en": "My aunt works as a [prosecutor].",
+          "tr": "Teyzem savcı olarak çalışıyor.",
+          "de": "Meine Tante arbeitet als Staatsanwältin.",
+          "fr": "Ma tante travaille comme procureure.",
+          "it": "Mia zia lavora come pubblico ministero.",
+          "es": "Mi tía trabaja como fiscal."
+        }
+      ]
+    },
+    {
+      "id": "persecute",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "per-",
+        "secute"
+      ],
+      "gloss": {
+        "en": "to treat people cruelly and unfairly, especially for their beliefs (literally: to follow through, to hunt down)",
+        "tr": "zulmetmek, eziyet etmek",
+        "de": "verfolgen (wegen Glauben, Herkunft)",
+        "fr": "persécuter",
+        "it": "perseguitare",
+        "es": "perseguir (por creencias), acosar"
+      },
+      "sentences": [
+        {
+          "en": "They were [persecuted] for their religion.",
+          "tr": "Dinleri yüzünden zulme uğradılar.",
+          "de": "Sie wurden wegen ihrer Religion verfolgt.",
+          "fr": "Ils ont été persécutés pour leur religion.",
+          "it": "Sono stati perseguitati per la loro religione.",
+          "es": "Fueron perseguidos por su religión."
+        },
+        {
+          "en": "No one should be [persecuted] for their ideas.",
+          "tr": "Kimse fikirleri yüzünden eziyet görmemeli.",
+          "de": "Niemand sollte für seine Ideen verfolgt werden.",
+          "fr": "Personne ne devrait être persécuté pour ses idées.",
+          "it": "Nessuno dovrebbe essere perseguitato per le sue idee.",
+          "es": "Nadie debería ser perseguido por sus ideas."
+        }
+      ]
+    },
+    {
+      "id": "persecution",
+      "pos": "noun",
+      "parent": "persecute",
+      "parts": [
+        "per-",
+        "secut",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "cruel and unfair treatment of a group of people",
+        "tr": "zulüm, baskı",
+        "de": "die Verfolgung",
+        "fr": "la persécution",
+        "it": "la persecuzione",
+        "es": "la persecución"
+      },
+      "sentences": [
+        {
+          "en": "Many families fled from [persecution].",
+          "tr": "Birçok aile zulümden kaçtı.",
+          "de": "Viele Familien flohen vor der Verfolgung.",
+          "fr": "Beaucoup de familles ont fui la persécution.",
+          "it": "Molte famiglie sono fuggite dalla persecuzione.",
+          "es": "Muchas familias huyeron de la persecución."
+        },
+        {
+          "en": "The book tells a story of [persecution] and hope.",
+          "tr": "Kitap bir zulüm ve umut hikâyesi anlatıyor.",
+          "de": "Das Buch erzählt eine Geschichte von Verfolgung und Hoffnung.",
+          "fr": "Le livre raconte une histoire de persécution et d'espoir.",
+          "it": "Il libro racconta una storia di persecuzione e speranza.",
+          "es": "El libro cuenta una historia de persecución y esperanza."
+        }
+      ]
+    }
+  ]
+}
