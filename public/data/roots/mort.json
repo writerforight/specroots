@@ -1,0 +1,304 @@
+{
+  "id": "mort",
+  "forms": [
+    "mort",
+    "mortu"
+  ],
+  "origin": "la",
+  "etymon": "mors, mortis",
+  "meaning": {
+    "en": "death (mori: to die)",
+    "tr": "ölüm (mori: ölmek)",
+    "de": "Tod (mori: sterben)",
+    "fr": "mort (mori : mourir)",
+    "it": "morte (mori: morire)",
+    "es": "muerte (mori: morir)"
+  },
+  "words": [
+    {
+      "id": "mortal",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "mort",
+        "-al"
+      ],
+      "gloss": {
+        "en": "certain to die one day; also: causing death",
+        "tr": "ölümlü; ölümcül",
+        "de": "sterblich; tödlich",
+        "fr": "mortel",
+        "it": "mortale",
+        "es": "mortal"
+      },
+      "sentences": [
+        {
+          "en": "All humans are [mortal].",
+          "tr": "Bütün insanlar ölümlüdür.",
+          "de": "Alle Menschen sind sterblich.",
+          "fr": "Tous les êtres humains sont mortels.",
+          "it": "Tutti gli esseri umani sono mortali.",
+          "es": "Todos los seres humanos son mortales."
+        },
+        {
+          "en": "The soldier was in [mortal] danger.",
+          "tr": "Asker ölümcül bir tehlikedeydi.",
+          "de": "Der Soldat war in Lebensgefahr.",
+          "fr": "Le soldat était en danger de mort.",
+          "it": "Il soldato era in pericolo di morte.",
+          "es": "El soldado estaba en peligro mortal."
+        }
+      ]
+    },
+    {
+      "id": "mortality",
+      "pos": "noun",
+      "parent": "mortal",
+      "parts": [
+        "mort",
+        "-al",
+        "-ity"
+      ],
+      "gloss": {
+        "en": "the number of deaths; the fact of having to die",
+        "tr": "ölüm oranı; ölümlülük",
+        "de": "die Sterblichkeit",
+        "fr": "la mortalité",
+        "it": "la mortalità",
+        "es": "la mortalidad"
+      },
+      "sentences": [
+        {
+          "en": "Child [mortality] has fallen a lot.",
+          "tr": "Çocuk ölüm oranı çok düştü.",
+          "de": "Die Kindersterblichkeit ist stark gesunken.",
+          "fr": "La mortalité infantile a beaucoup baissé.",
+          "it": "La mortalità infantile è molto diminuita.",
+          "es": "La mortalidad infantil ha bajado mucho."
+        },
+        {
+          "en": "Illness made him think about his own [mortality].",
+          "tr": "Hastalık ona kendi ölümlülüğünü düşündürdü.",
+          "de": "Die Krankheit ließ ihn über seine eigene Sterblichkeit nachdenken.",
+          "fr": "La maladie l'a fait réfléchir à sa propre mortalité.",
+          "it": "La malattia lo ha fatto riflettere sulla propria mortalità.",
+          "es": "La enfermedad le hizo pensar en su propia mortalidad."
+        }
+      ]
+    },
+    {
+      "id": "immortal",
+      "pos": "adjective",
+      "parent": "mortal",
+      "parts": [
+        "im-not-",
+        "mort",
+        "-al"
+      ],
+      "gloss": {
+        "en": "living for ever; never forgotten",
+        "tr": "ölümsüz",
+        "de": "unsterblich",
+        "fr": "immortel",
+        "it": "immortale",
+        "es": "inmortal"
+      },
+      "sentences": [
+        {
+          "en": "In the story, the gods are [immortal].",
+          "tr": "Hikâyede tanrılar ölümsüzdür.",
+          "de": "In der Geschichte sind die Götter unsterblich.",
+          "fr": "Dans l'histoire, les dieux sont immortels.",
+          "it": "Nella storia gli dèi sono immortali.",
+          "es": "En la historia, los dioses son inmortales."
+        },
+        {
+          "en": "His songs made him [immortal].",
+          "tr": "Şarkıları onu ölümsüz kıldı.",
+          "de": "Seine Lieder machten ihn unsterblich.",
+          "fr": "Ses chansons l'ont rendu immortel.",
+          "it": "Le sue canzoni lo hanno reso immortale.",
+          "es": "Sus canciones lo hicieron inmortal."
+        }
+      ]
+    },
+    {
+      "id": "immortality",
+      "pos": "noun",
+      "parent": "immortal",
+      "parts": [
+        "im-not-",
+        "mort",
+        "-al",
+        "-ity"
+      ],
+      "gloss": {
+        "en": "eternal life; lasting fame",
+        "tr": "ölümsüzlük",
+        "de": "die Unsterblichkeit",
+        "fr": "l'immortalité",
+        "it": "l'immortalità",
+        "es": "la inmortalidad"
+      },
+      "sentences": [
+        {
+          "en": "Many old stories search for [immortality].",
+          "tr": "Pek çok eski hikâye ölümsüzlüğü arar.",
+          "de": "Viele alte Geschichten suchen die Unsterblichkeit.",
+          "fr": "Beaucoup de vieux récits cherchent l'immortalité.",
+          "it": "Molte storie antiche cercano l'immortalità.",
+          "es": "Muchas historias antiguas buscan la inmortalidad."
+        },
+        {
+          "en": "The painting gave her a kind of [immortality].",
+          "tr": "Tablo ona bir tür ölümsüzlük kazandırdı.",
+          "de": "Das Gemälde verlieh ihr eine Art Unsterblichkeit.",
+          "fr": "Le tableau lui a donné une sorte d'immortalité.",
+          "it": "Il dipinto le ha dato una sorta di immortalità.",
+          "es": "El cuadro le dio una especie de inmortalidad."
+        }
+      ]
+    },
+    {
+      "id": "mortgage",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "mort",
+        "-gage"
+      ],
+      "gloss": {
+        "en": "a loan to buy a house, paid back over many years; literally: dead pledge",
+        "tr": "konut kredisi, ipotek",
+        "de": "die Hypothek",
+        "fr": "le prêt immobilier, l'hypothèque",
+        "it": "il mutuo",
+        "es": "la hipoteca"
+      },
+      "sentences": [
+        {
+          "en": "They took out a [mortgage] to buy the flat.",
+          "tr": "Daireyi almak için konut kredisi çektiler.",
+          "de": "Sie nahmen eine Hypothek auf, um die Wohnung zu kaufen.",
+          "fr": "Ils ont pris un prêt immobilier pour acheter l'appartement.",
+          "it": "Hanno acceso un mutuo per comprare l'appartamento.",
+          "es": "Pidieron una hipoteca para comprar el piso."
+        },
+        {
+          "en": "We pay the [mortgage] every month.",
+          "tr": "Her ay kredi taksitini ödüyoruz.",
+          "de": "Wir zahlen jeden Monat die Hypothek ab.",
+          "fr": "Nous remboursons le prêt chaque mois.",
+          "it": "Paghiamo il mutuo ogni mese.",
+          "es": "Pagamos la hipoteca cada mes."
+        }
+      ]
+    },
+    {
+      "id": "mortify",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "mort",
+        "-ify"
+      ],
+      "gloss": {
+        "en": "to make someone feel very ashamed; literally: to make dead",
+        "tr": "utandırmak, rezil etmek",
+        "de": "zutiefst beschämen",
+        "fr": "mortifier, humilier",
+        "it": "mortificare, umiliare",
+        "es": "mortificar, avergonzar"
+      },
+      "sentences": [
+        {
+          "en": "She was [mortified] when she fell on stage.",
+          "tr": "Sahnede düşünce yerin dibine girdi.",
+          "de": "Sie schämte sich zu Tode, als sie auf der Bühne stürzte.",
+          "fr": "Elle était mortifiée quand elle est tombée sur scène.",
+          "it": "Si è sentita umiliata quando è caduta sul palco.",
+          "es": "Se moría de vergüenza cuando se cayó en el escenario."
+        },
+        {
+          "en": "His joke [mortified] his parents.",
+          "tr": "Şakası ailesini çok utandırdı.",
+          "de": "Sein Witz war seinen Eltern furchtbar peinlich.",
+          "fr": "Sa blague a mortifié ses parents.",
+          "it": "La sua battuta ha imbarazzato i genitori.",
+          "es": "Su broma avergonzó a sus padres."
+        }
+      ]
+    },
+    {
+      "id": "mortician",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "mort",
+        "-ic",
+        "-ian"
+      ],
+      "gloss": {
+        "en": "a person whose job is to prepare the dead for funerals (US English)",
+        "tr": "cenaze işlerini yapan kişi",
+        "de": "der Bestatter",
+        "fr": "l'entrepreneur de pompes funèbres",
+        "it": "l'impresario di pompe funebri",
+        "es": "el empleado de funeraria"
+      },
+      "sentences": [
+        {
+          "en": "The [mortician] spoke quietly to the family.",
+          "tr": "Cenaze görevlisi aileyle sessizce konuştu.",
+          "de": "Der Bestatter sprach leise mit der Familie.",
+          "fr": "L'employé des pompes funèbres a parlé doucement à la famille.",
+          "it": "L'impresario funebre ha parlato piano con la famiglia.",
+          "es": "El de la funeraria habló en voz baja con la familia."
+        },
+        {
+          "en": "Her uncle worked as a [mortician].",
+          "tr": "Amcası cenaze işlerinde çalışıyordu.",
+          "de": "Ihr Onkel arbeitete als Bestatter.",
+          "fr": "Son oncle travaillait dans les pompes funèbres.",
+          "it": "Suo zio faceva l'impresario di pompe funebri.",
+          "es": "Su tío trabajaba en una funeraria."
+        }
+      ]
+    },
+    {
+      "id": "mortuary",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "mortu",
+        "-ary"
+      ],
+      "gloss": {
+        "en": "a room or building where dead bodies are kept before burial",
+        "tr": "morg",
+        "de": "die Leichenhalle",
+        "fr": "la morgue",
+        "it": "l'obitorio",
+        "es": "el depósito de cadáveres"
+      },
+      "sentences": [
+        {
+          "en": "The body was taken to the [mortuary].",
+          "tr": "Ceset morga götürüldü.",
+          "de": "Die Leiche wurde in die Leichenhalle gebracht.",
+          "fr": "Le corps a été emmené à la morgue.",
+          "it": "Il corpo è stato portato all'obitorio.",
+          "es": "El cuerpo fue llevado al depósito."
+        },
+        {
+          "en": "The hospital [mortuary] is in the basement.",
+          "tr": "Hastanenin morgu bodrumda.",
+          "de": "Die Leichenhalle des Krankenhauses ist im Keller.",
+          "fr": "La morgue de l'hôpital est au sous-sol.",
+          "it": "L'obitorio dell'ospedale è nel seminterrato.",
+          "es": "El depósito del hospital está en el sótano."
+        }
+      ]
+    }
+  ]
+}

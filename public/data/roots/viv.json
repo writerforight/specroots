@@ -1,0 +1,446 @@
+{
+  "id": "viv",
+  "forms": [
+    "viv",
+    "vive",
+    "vit"
+  ],
+  "origin": "la",
+  "etymon": "vivere / vita",
+  "meaning": {
+    "en": "to live; life (vita)",
+    "tr": "yaşamak; hayat (vita)",
+    "de": "leben; Leben (vita)",
+    "fr": "vivre ; vie (vita)",
+    "it": "vivere; vita (vita)",
+    "es": "vivir; vida (vita)"
+  },
+  "words": [
+    {
+      "id": "vivid",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "viv",
+        "-id"
+      ],
+      "gloss": {
+        "en": "very bright and clear; literally: full of life",
+        "tr": "canlı, parlak",
+        "de": "lebhaft, leuchtend",
+        "fr": "vif, éclatant",
+        "it": "vivido, vivace",
+        "es": "vivo, intenso"
+      },
+      "sentences": [
+        {
+          "en": "She wore a [vivid] red dress.",
+          "tr": "Canlı kırmızı bir elbise giydi.",
+          "de": "Sie trug ein leuchtend rotes Kleid.",
+          "fr": "Elle portait une robe d'un rouge éclatant.",
+          "it": "Indossava un vestito rosso vivo.",
+          "es": "Llevaba un vestido de un rojo intenso."
+        },
+        {
+          "en": "I have [vivid] memories of that summer.",
+          "tr": "O yaza dair canlı anılarım var.",
+          "de": "Ich habe lebhafte Erinnerungen an diesen Sommer.",
+          "fr": "J'ai des souvenirs très vifs de cet été-là.",
+          "it": "Ho ricordi vividi di quell'estate.",
+          "es": "Tengo recuerdos muy vivos de aquel verano."
+        }
+      ]
+    },
+    {
+      "id": "vividly",
+      "pos": "adverb",
+      "parent": "vivid",
+      "parts": [
+        "viv",
+        "-id",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "in a clear and lively way",
+        "tr": "canlı biçimde, net olarak",
+        "de": "lebhaft, deutlich",
+        "fr": "de façon vivante, clairement",
+        "it": "vividamente, chiaramente",
+        "es": "vívidamente, con claridad"
+      },
+      "sentences": [
+        {
+          "en": "I [vividly] remember my first day at school.",
+          "tr": "Okuldaki ilk günümü net olarak hatırlıyorum.",
+          "de": "Ich erinnere mich lebhaft an meinen ersten Schultag.",
+          "fr": "Je me souviens clairement de mon premier jour d'école.",
+          "it": "Ricordo chiaramente il mio primo giorno di scuola.",
+          "es": "Recuerdo vívidamente mi primer día de colegio."
+        },
+        {
+          "en": "The book [vividly] describes life in the village.",
+          "tr": "Kitap köy hayatını canlı biçimde anlatıyor.",
+          "de": "Das Buch beschreibt das Dorfleben sehr anschaulich.",
+          "fr": "Le livre décrit de façon vivante la vie au village.",
+          "it": "Il libro descrive vividamente la vita del paese.",
+          "es": "El libro describe con viveza la vida en el pueblo."
+        }
+      ]
+    },
+    {
+      "id": "vivacious",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "viv",
+        "-acious"
+      ],
+      "gloss": {
+        "en": "lively and full of energy (of a person)",
+        "tr": "neşeli, hayat dolu",
+        "de": "lebhaft, temperamentvoll",
+        "fr": "plein de vie, enjoué",
+        "it": "vivace, brioso",
+        "es": "vivaz, alegre"
+      },
+      "sentences": [
+        {
+          "en": "Their daughter is bright and [vivacious].",
+          "tr": "Kızları zeki ve hayat dolu.",
+          "de": "Ihre Tochter ist klug und lebhaft.",
+          "fr": "Leur fille est intelligente et pleine de vie.",
+          "it": "La loro figlia è sveglia e vivace.",
+          "es": "Su hija es lista y vivaz."
+        },
+        {
+          "en": "She has a [vivacious] laugh.",
+          "tr": "Neşeli bir gülüşü var.",
+          "de": "Sie hat ein ansteckendes, lebhaftes Lachen.",
+          "fr": "Elle a un rire enjoué.",
+          "it": "Ha una risata vivace.",
+          "es": "Tiene una risa alegre."
+        }
+      ]
+    },
+    {
+      "id": "revive",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "re-",
+        "vive"
+      ],
+      "gloss": {
+        "en": "to bring back to life or strength",
+        "tr": "canlandırmak, diriltmek",
+        "de": "wiederbeleben",
+        "fr": "ranimer, faire revivre",
+        "it": "rianimare, far rivivere",
+        "es": "reanimar, revivir"
+      },
+      "sentences": [
+        {
+          "en": "The doctors [revived] the man on the street.",
+          "tr": "Doktorlar adamı sokakta hayata döndürdü.",
+          "de": "Die Ärzte haben den Mann auf der Straße wiederbelebt.",
+          "fr": "Les médecins ont ranimé l'homme dans la rue.",
+          "it": "I medici hanno rianimato l'uomo per strada.",
+          "es": "Los médicos reanimaron al hombre en la calle."
+        },
+        {
+          "en": "A cup of coffee will [revive] me.",
+          "tr": "Bir fincan kahve beni kendime getirir.",
+          "de": "Eine Tasse Kaffee wird mich wieder munter machen.",
+          "fr": "Une tasse de café va me requinquer.",
+          "it": "Una tazza di caffè mi rimetterà in sesto.",
+          "es": "Una taza de café me reanimará."
+        }
+      ]
+    },
+    {
+      "id": "revival",
+      "pos": "noun",
+      "parent": "revive",
+      "parts": [
+        "re-",
+        "viv",
+        "-al"
+      ],
+      "gloss": {
+        "en": "a new start or return to popularity",
+        "tr": "yeniden canlanma",
+        "de": "die Wiederbelebung, das Comeback",
+        "fr": "le renouveau, la reprise",
+        "it": "la rinascita, il ritorno",
+        "es": "el resurgimiento, la reposición"
+      },
+      "sentences": [
+        {
+          "en": "Vinyl records are having a [revival].",
+          "tr": "Plaklar yeniden canlanıyor.",
+          "de": "Schallplatten erleben ein Comeback.",
+          "fr": "Les disques vinyles connaissent un renouveau.",
+          "it": "I dischi in vinile stanno vivendo una rinascita.",
+          "es": "Los discos de vinilo viven un resurgimiento."
+        },
+        {
+          "en": "The theatre staged a [revival] of an old play.",
+          "tr": "Tiyatro eski bir oyunu yeniden sahneledi.",
+          "de": "Das Theater brachte ein altes Stück neu auf die Bühne.",
+          "fr": "Le théâtre a repris une vieille pièce.",
+          "it": "Il teatro ha rimesso in scena una vecchia commedia.",
+          "es": "El teatro hizo una reposición de una obra antigua."
+        }
+      ]
+    },
+    {
+      "id": "survive",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "sur-",
+        "vive"
+      ],
+      "gloss": {
+        "en": "to stay alive through danger; literally: to live beyond",
+        "tr": "hayatta kalmak, atlatmak",
+        "de": "überleben",
+        "fr": "survivre",
+        "it": "sopravvivere",
+        "es": "sobrevivir"
+      },
+      "sentences": [
+        {
+          "en": "Only two people [survived] the crash.",
+          "tr": "Kazadan yalnızca iki kişi sağ kurtuldu.",
+          "de": "Nur zwei Menschen überlebten den Absturz.",
+          "fr": "Seules deux personnes ont survécu à l'accident.",
+          "it": "Solo due persone sono sopravvissute all'incidente.",
+          "es": "Solo dos personas sobrevivieron al accidente."
+        },
+        {
+          "en": "Plants can't [survive] without water.",
+          "tr": "Bitkiler susuz yaşayamaz.",
+          "de": "Pflanzen können ohne Wasser nicht überleben.",
+          "fr": "Les plantes ne peuvent pas survivre sans eau.",
+          "it": "Le piante non possono sopravvivere senz'acqua.",
+          "es": "Las plantas no pueden sobrevivir sin agua."
+        }
+      ]
+    },
+    {
+      "id": "survival",
+      "pos": "noun",
+      "parent": "survive",
+      "parts": [
+        "sur-",
+        "viv",
+        "-al"
+      ],
+      "gloss": {
+        "en": "staying alive",
+        "tr": "hayatta kalma",
+        "de": "das Überleben",
+        "fr": "la survie",
+        "it": "la sopravvivenza",
+        "es": "la supervivencia"
+      },
+      "sentences": [
+        {
+          "en": "The film is about [survival] in the desert.",
+          "tr": "Film çölde hayatta kalmayı anlatıyor.",
+          "de": "Der Film handelt vom Überleben in der Wüste.",
+          "fr": "Le film parle de survie dans le désert.",
+          "it": "Il film parla di sopravvivenza nel deserto.",
+          "es": "La película trata de la supervivencia en el desierto."
+        },
+        {
+          "en": "Small shops are fighting for [survival].",
+          "tr": "Küçük dükkânlar ayakta kalma mücadelesi veriyor.",
+          "de": "Kleine Läden kämpfen ums Überleben.",
+          "fr": "Les petits commerces luttent pour leur survie.",
+          "it": "I piccoli negozi lottano per la sopravvivenza.",
+          "es": "Las tiendas pequeñas luchan por sobrevivir."
+        }
+      ]
+    },
+    {
+      "id": "survivor",
+      "pos": "noun",
+      "parent": "survive",
+      "parts": [
+        "sur-",
+        "viv",
+        "-or"
+      ],
+      "gloss": {
+        "en": "a person who stays alive after danger",
+        "tr": "hayatta kalan kişi",
+        "de": "der Überlebende",
+        "fr": "le survivant",
+        "it": "il sopravvissuto",
+        "es": "el superviviente"
+      },
+      "sentences": [
+        {
+          "en": "Rescuers found three [survivors].",
+          "tr": "Kurtarıcılar üç kişiyi sağ buldu.",
+          "de": "Die Retter fanden drei Überlebende.",
+          "fr": "Les secouristes ont trouvé trois survivants.",
+          "it": "I soccorritori hanno trovato tre sopravvissuti.",
+          "es": "Los rescatistas encontraron a tres supervivientes."
+        },
+        {
+          "en": "She's a real [survivor].",
+          "tr": "Gerçek bir savaşçı, her şeyi atlatır.",
+          "de": "Sie ist eine echte Kämpfernatur.",
+          "fr": "C'est une vraie battante.",
+          "it": "È una vera sopravvissuta.",
+          "es": "Es una auténtica superviviente."
+        }
+      ]
+    },
+    {
+      "id": "convivial",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "con-",
+        "viv",
+        "-ial"
+      ],
+      "gloss": {
+        "en": "friendly and cheerful, enjoying good company; literally: living (feasting) together",
+        "tr": "şen şakrak, cana yakın",
+        "de": "gesellig",
+        "fr": "convivial, chaleureux",
+        "it": "conviviale",
+        "es": "cordial, sociable"
+      },
+      "sentences": [
+        {
+          "en": "The dinner had a [convivial] atmosphere.",
+          "tr": "Yemeğin şen şakrak bir havası vardı.",
+          "de": "Beim Abendessen herrschte eine gesellige Stimmung.",
+          "fr": "Le dîner avait une ambiance conviviale.",
+          "it": "La cena aveva un'atmosfera conviviale.",
+          "es": "La cena tuvo un ambiente cordial."
+        },
+        {
+          "en": "He's a [convivial] host.",
+          "tr": "Cana yakın bir ev sahibi.",
+          "de": "Er ist ein geselliger Gastgeber.",
+          "fr": "C'est un hôte chaleureux.",
+          "it": "È un padrone di casa conviviale.",
+          "es": "Es un anfitrión muy sociable."
+        }
+      ]
+    },
+    {
+      "id": "vital",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "vit",
+        "-al"
+      ],
+      "gloss": {
+        "en": "very important, necessary for life",
+        "tr": "hayati, çok önemli",
+        "de": "lebenswichtig, entscheidend",
+        "fr": "vital, essentiel",
+        "it": "vitale, essenziale",
+        "es": "vital, esencial"
+      },
+      "sentences": [
+        {
+          "en": "Water is [vital] for all living things.",
+          "tr": "Su bütün canlılar için hayati önem taşır.",
+          "de": "Wasser ist für alle Lebewesen lebenswichtig.",
+          "fr": "L'eau est vitale pour tous les êtres vivants.",
+          "it": "L'acqua è vitale per tutti gli esseri viventi.",
+          "es": "El agua es vital para todos los seres vivos."
+        },
+        {
+          "en": "Your help was [vital] to our success.",
+          "tr": "Yardımın başarımız için çok önemliydi.",
+          "de": "Deine Hilfe war entscheidend für unseren Erfolg.",
+          "fr": "Ton aide a été essentielle à notre réussite.",
+          "it": "Il tuo aiuto è stato essenziale per il nostro successo.",
+          "es": "Tu ayuda fue esencial para nuestro éxito."
+        }
+      ]
+    },
+    {
+      "id": "vitality",
+      "pos": "noun",
+      "parent": "vital",
+      "parts": [
+        "vit",
+        "-al",
+        "-ity"
+      ],
+      "gloss": {
+        "en": "energy and liveliness",
+        "tr": "canlılık, dinçlik",
+        "de": "die Vitalität, die Lebenskraft",
+        "fr": "la vitalité",
+        "it": "la vitalità",
+        "es": "la vitalidad"
+      },
+      "sentences": [
+        {
+          "en": "At eighty, she is still full of [vitality].",
+          "tr": "Seksen yaşında hâlâ dinç.",
+          "de": "Mit achtzig ist sie noch voller Lebenskraft.",
+          "fr": "À quatre-vingts ans, elle est encore pleine de vitalité.",
+          "it": "A ottant'anni è ancora piena di vitalità.",
+          "es": "A los ochenta, sigue llena de vitalidad."
+        },
+        {
+          "en": "Young people bring [vitality] to the town.",
+          "tr": "Gençler kasabaya canlılık getiriyor.",
+          "de": "Junge Leute bringen Leben in die Stadt.",
+          "fr": "Les jeunes apportent de la vitalité à la ville.",
+          "it": "I giovani portano vitalità alla città.",
+          "es": "Los jóvenes dan vitalidad al pueblo."
+        }
+      ]
+    },
+    {
+      "id": "vitamin",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "vit",
+        "-amin"
+      ],
+      "gloss": {
+        "en": "a natural substance in food that the body needs; literally: life amine",
+        "tr": "vitamin",
+        "de": "das Vitamin",
+        "fr": "la vitamine",
+        "it": "la vitamina",
+        "es": "la vitamina"
+      },
+      "sentences": [
+        {
+          "en": "Oranges are full of [vitamin] C.",
+          "tr": "Portakallar C vitaminiyle dolu.",
+          "de": "Orangen sind voller Vitamin C.",
+          "fr": "Les oranges sont pleines de vitamine C.",
+          "it": "Le arance sono ricche di vitamina C.",
+          "es": "Las naranjas están llenas de vitamina C."
+        },
+        {
+          "en": "The doctor told me to take [vitamins].",
+          "tr": "Doktor vitamin almamı söyledi.",
+          "de": "Der Arzt sagte, ich soll Vitamine nehmen.",
+          "fr": "Le médecin m'a dit de prendre des vitamines.",
+          "it": "Il medico mi ha detto di prendere vitamine.",
+          "es": "El médico me dijo que tomara vitaminas."
+        }
+      ]
+    }
+  ]
+}

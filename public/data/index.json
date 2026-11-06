@@ -1311,6 +1311,32 @@
     ]
   },
   {
+    "id": "mort",
+    "forms": [
+      "mort",
+      "mortu"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "death (mori: to die)",
+      "tr": "ölüm (mori: ölmek)",
+      "de": "Tod (mori: sterben)",
+      "fr": "mort (mori : mourir)",
+      "it": "morte (mori: morire)",
+      "es": "muerte (mori: morir)"
+    },
+    "words": [
+      "mortal",
+      "mortality",
+      "immortal",
+      "immortality",
+      "mortgage",
+      "mortify",
+      "mortician",
+      "mortuary"
+    ]
+  },
+  {
     "id": "mov",
     "forms": [
       "mov",
@@ -2849,6 +2875,37 @@
       "evict",
       "eviction",
       "invincible"
+    ]
+  },
+  {
+    "id": "viv",
+    "forms": [
+      "viv",
+      "vive",
+      "vit"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to live; life (vita)",
+      "tr": "yaşamak; hayat (vita)",
+      "de": "leben; Leben (vita)",
+      "fr": "vivre ; vie (vita)",
+      "it": "vivere; vita (vita)",
+      "es": "vivir; vida (vita)"
+    },
+    "words": [
+      "vivid",
+      "vividly",
+      "vivacious",
+      "revive",
+      "revival",
+      "survive",
+      "survival",
+      "survivor",
+      "convivial",
+      "vital",
+      "vitality",
+      "vitamin"
     ]
   },
   {

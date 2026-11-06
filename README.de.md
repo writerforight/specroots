@@ -29,9 +29,9 @@ Wer eine Wurzel kennt, versteht Dutzende Wörter. *spec / spect* heißt „schau
 
 ## Bisherige Wurzeln
 
-69 Wurzeln und 1571 Wörter, jedes mit zwei Beispielsätzen. Dazu **60 Alltagsgegenstände** in Wortlisten (Kreide, Sieb, Nudelholz…) mit Foto und ihrem Namen in allen sechs Sprachen.
+71 Wurzeln und 1591 Wörter, jedes mit zwei Beispielsätzen. Dazu **60 Alltagsgegenstände** in Wortlisten (Kreide, Sieb, Nudelholz…) mit Foto und ihrem Namen in allen sechs Sprachen.
 
-- **Lateinisch (59):** `act` · `aud` · `cad` · `cap` · `ced` · `cid` · `clud` · `corp` · `cred` · `cur` · `dict` · `duc` · `fac` · `fer` · `fin` · `flect` · `form` · `grad` · `ject` · `junct` · `leg` · `loc` · `mand` · `manu` · `mit` · `mov` · `nect` · `nov` · `nunci` · `ped` · `pel` · `pend` · `plic` · `port` · `pos` · `prehend` · `press` · `rupt` · `scend` · `sci` · `scrib` · `sent` · `sequ` · `sist` · `solv` · `spec` · `spir` · `struct` · `sum` · `tempt` · `ten` · `tend` · `tract` · `trib` · `ven` · `vert` · `vid` · `vinc` · `voc`
+- **Lateinisch (61):** `act` · `aud` · `cad` · `cap` · `ced` · `cid` · `clud` · `corp` · `cred` · `cur` · `dict` · `duc` · `fac` · `fer` · `fin` · `flect` · `form` · `grad` · `ject` · `junct` · `leg` · `loc` · `mand` · `manu` · `mit` · `mort` · `mov` · `nect` · `nov` · `nunci` · `ped` · `pel` · `pend` · `plic` · `port` · `pos` · `prehend` · `press` · `rupt` · `scend` · `sci` · `scrib` · `sent` · `sequ` · `sist` · `solv` · `spec` · `spir` · `struct` · `sum` · `tempt` · `ten` · `tend` · `tract` · `trib` · `ven` · `vert` · `vid` · `vinc` · `viv` · `voc`
 - **Griechisch (10):** `bio` · `chron` · `graph` · `log` · `metr` · `morph` · `path` · `phon` · `photo` · `scop`
 
 Als Nächstes ([SPEC.md](SPEC.md), auf Türkisch): Offline-Nutzung.

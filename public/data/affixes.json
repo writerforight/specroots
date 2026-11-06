@@ -3261,5 +3261,40 @@
       "es": "todo (latín omnis)"
     },
     "combining": true
+  },
+  "-id": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "having the quality of (makes an adjective)",
+      "tr": "niteliğinde (sıfat yapar)",
+      "de": "mit der Eigenschaft (bildet ein Adjektiv)",
+      "fr": "qui a la qualité de (forme un adjectif)",
+      "it": "che ha la qualità di (forma un aggettivo)",
+      "es": "que tiene la cualidad de (forma un adjetivo)"
+    }
+  },
+  "-amin": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "amine, a nitrogen compound (chemistry)",
+      "tr": "amin, azotlu bileşik (kimya)",
+      "de": "Amin, eine Stickstoffverbindung (Chemie)",
+      "fr": "amine, composé azoté (chimie)",
+      "it": "ammina, composto azotato (chimica)",
+      "es": "amina, compuesto nitrogenado (química)"
+    },
+    "combining": true
+  },
+  "-gage": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "pledge (Old French gage)",
+      "tr": "rehin, teminat (Eski Fransızca gage)",
+      "de": "Pfand (altfranzösisch gage)",
+      "fr": "gage (ancien français)",
+      "it": "pegno (francese antico gage)",
+      "es": "prenda (francés antiguo gage)"
+    },
+    "combining": true
   }
 }

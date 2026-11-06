@@ -44,7 +44,9 @@ seçilen dillerdeki karşılığı ve öğretici örnek cümleleri bir arada gö
     confine, refine, finance), 65. kök `manu` (manus, el: manual, manuscript, manufacture, manage, manipulate, manifest),
     66. kök `ped` (pes, ayak: pedal, pedestrian, expedition, impede, centipede), 67. kök `corp` (corpus, beden: corpse,
     corporation, incorporate, corporal, corset), 68. kök `sci` (scire, bilmek: science, conscious, conscience,
-    omniscient), 69. kök `nov` (novus, yeni: novel, novice, innovate, renovate).
+    omniscient), 69. kök `nov` (novus, yeni: novel, novice, innovate, renovate),
+    70. kök `mort` (mors, ölüm: mortal, immortal, mortgage, mortify), 71. kök `viv` (vivere/vita, yaşamak: vivid,
+    survive, revive, vital, vitamin).
     Yeni kök sınırsız açılmaz; her biri kullanıcı onayıyla eklenir.
 12. **Mimari:** nesne yönelimli, katmanlı (aşağıda). Görünüm ve tema veri ve mantıktan bağımsız
     değiştirilebilir olmalı.
