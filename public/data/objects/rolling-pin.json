@@ -1,0 +1,26 @@
+{
+  "id": "rolling-pin",
+  "name": "rolling pin",
+  "place": "kitchen",
+  "names": {
+    "tr": "oklava",
+    "de": "das Nudelholz",
+    "fr": "le rouleau à pâtisserie",
+    "it": "il mattarello",
+    "es": "el rodillo"
+  },
+  "definition": {
+    "en": "a long wooden roller for flattening dough",
+    "tr": "hamur açmak için uzun tahta silindir",
+    "de": "eine lange Holzrolle zum Ausrollen von Teig",
+    "fr": "un long rouleau en bois pour étaler la pâte",
+    "it": "un lungo rullo di legno per stendere la pasta",
+    "es": "un rodillo largo de madera para estirar la masa"
+  },
+  "origin": "rolling + pin (Old English pinn, a peg)",
+  "root": null,
+  "image": {
+    "file": "Rollingpin.jpg",
+    "wikidata": "Q207763"
+  }
+}

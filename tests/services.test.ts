@@ -5,7 +5,7 @@ import { MESSAGES } from '../src/i18n/messages';
 import { MemoryStore } from '../src/services/KeyValueStore';
 import { SearchIndex } from '../src/services/SearchIndex';
 import { SettingsStore } from '../src/services/SettingsStore';
-import { affixHref, parseRoute, rootHref } from '../src/ui/routes';
+import { affixHref, objectHref, parseRoute, rootHref } from '../src/ui/routes';
 import { diskRepository } from './helpers';
 
 describe('SearchIndex', async () => {
@@ -30,6 +30,35 @@ describe('SearchIndex', async () => {
   });
   it('returns nothing for an empty query', () => {
     expect(index.search('   ')).toEqual([]);
+  });
+});
+
+describe('SearchIndex with objects', async () => {
+  const repo = diskRepository();
+  const index = new SearchIndex(await repo.listRoots(), (await repo.getAffixes()).values(), await repo.listObjects());
+
+  it('finds an object by its English name', () => {
+    expect(index.search('chalk')[0]).toMatchObject({ label: 'chalk', objectId: 'chalk' });
+  });
+  it('finds an object by a translation, without its article, and says what matched', () => {
+    expect(index.search('tebeşir')[0]).toMatchObject({ objectId: 'chalk', matched: 'tebeşir' });
+    expect(index.search('kreide')[0]).toMatchObject({ objectId: 'chalk', matched: 'die Kreide' });
+    expect(index.search('eponge')[0]).toMatchObject({ objectId: 'sponge', matched: "l'éponge" });
+    expect(index.search('kevgir')[0]?.objectId).toBe('colander');
+  });
+  it('lists an object once even when several of its names match', () => {
+    const hits = index.search('sp').filter((h) => h.objectId === 'spatula');
+    expect(hits.length).toBe(1);
+  });
+  it('strips articles in all five languages', () => {
+    expect(['der Kamm', 'la tiza', "l'agrafeuse", 'lo specchio', 'les ciseaux', 'el grifo'].map(SearchIndex.stripArticle)).toEqual([
+      'Kamm',
+      'tiza',
+      'agrafeuse',
+      'specchio',
+      'ciseaux',
+      'grifo',
+    ]);
   });
 });
 
@@ -79,6 +108,7 @@ describe('routes', () => {
     expect(parseRoute(affixHref('in-not-'))).toEqual({ kind: 'affix', affixId: 'in-not-' });
     expect(parseRoute(affixHref('-ion'))).toEqual({ kind: 'affix', affixId: '-ion' });
     expect(parseRoute('#/affix/')).toEqual({ kind: 'home' });
+    expect(parseRoute(objectHref('paper-clip'))).toEqual({ kind: 'object', objectId: 'paper-clip' });
   });
 });
 

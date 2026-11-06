@@ -1,0 +1,26 @@
+{
+  "id": "sponge",
+  "name": "sponge",
+  "place": "bathroom",
+  "names": {
+    "tr": "sünger",
+    "de": "der Schwamm",
+    "fr": "l'éponge",
+    "it": "la spugna",
+    "es": "la esponja"
+  },
+  "definition": {
+    "en": "a soft material full of holes that soaks up water",
+    "tr": "suyu emen, delikli yumuşak malzeme",
+    "de": "ein weiches Material voller Löcher, das Wasser aufsaugt",
+    "fr": "une matière souple pleine de trous qui absorbe l'eau",
+    "it": "un materiale morbido pieno di buchi che assorbe l'acqua",
+    "es": "un material blando lleno de agujeros que absorbe el agua"
+  },
+  "origin": "Latin spongia ← Greek spongiá",
+  "root": null,
+  "image": {
+    "file": "Sponge-viscose.jpg",
+    "wikidata": "Q1210980"
+  }
+}

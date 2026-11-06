@@ -41,9 +41,9 @@ spec / spect  "to look"
 
 ## Roots so far
 
-56 roots and 1403 words, each with two example sentences.
+57 roots and 1422 words, each with two example sentences. Plus **30 everyday objects** (chalk, colander, rolling pin…) with photos and their names in all six languages.
 
-- **Latin (46):** `act` · `aud` · `cad` · `cap` · `ced` · `cid` · `clud` · `cred` · `cur` · `dict` · `duc` · `fac` · `fer` · `flect` · `form` · `grad` · `ject` · `junct` · `loc` · `mand` · `mit` · `mov` · `nect` · `nunci` · `pel` · `pend` · `plic` · `pos` · `port` · `press` · `rupt` · `scrib` · `sent` · `sist` · `spec` · `spir` · `struct` · `tempt` · `ten` · `tend` · `tract` · `trib` · `ven` · `vert` · `vid` · `voc`
+- **Latin (47):** `act` · `aud` · `cad` · `cap` · `ced` · `cid` · `clud` · `cred` · `cur` · `dict` · `duc` · `fac` · `fer` · `flect` · `form` · `grad` · `ject` · `junct` · `loc` · `mand` · `mit` · `mov` · `nect` · `nunci` · `pel` · `pend` · `plic` · `pos` · `port` · `prehend` · `press` · `rupt` · `scrib` · `sent` · `sist` · `spec` · `spir` · `struct` · `tempt` · `ten` · `tend` · `tract` · `trib` · `ven` · `vert` · `vid` · `voc`
 - **Greek (10):** `bio` · `chron` · `graph` · `log` · `metr` · `morph` · `path` · `phon` · `photo` · `scop`
 
 Next on the roadmap ([SPEC.md](SPEC.md)): offline use.

@@ -1,0 +1,26 @@
+{
+  "id": "whisk",
+  "name": "whisk",
+  "place": "kitchen",
+  "names": {
+    "tr": "çırpma teli",
+    "de": "der Schneebesen",
+    "fr": "le fouet",
+    "it": "la frusta",
+    "es": "el batidor"
+  },
+  "definition": {
+    "en": "a tool of wire loops for beating eggs or cream",
+    "tr": "yumurta ya da krema çırpmak için tel halkalı alet",
+    "de": "ein Gerät aus Drahtschlaufen zum Schlagen von Eiern oder Sahne",
+    "fr": "un ustensile en boucles de fil pour battre les œufs ou la crème",
+    "it": "un attrezzo di fili metallici per sbattere uova o panna",
+    "es": "un utensilio de alambres para batir huevos o nata"
+  },
+  "origin": "Old Norse visk (a bundle of straw)",
+  "root": null,
+  "image": {
+    "file": "Balloon spiral ball whisks.jpg",
+    "wikidata": "Q263057"
+  }
+}
