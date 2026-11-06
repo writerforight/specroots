@@ -1622,6 +1622,35 @@
     ]
   },
   {
+    "id": "nomin",
+    "forms": [
+      "nomin",
+      "nom",
+      "noun",
+      "nown"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "name",
+      "tr": "ad, isim",
+      "de": "Name",
+      "fr": "nom",
+      "it": "nome",
+      "es": "nombre"
+    },
+    "words": [
+      "nominate",
+      "nomination",
+      "nominee",
+      "nominal",
+      "denomination",
+      "noun",
+      "pronoun",
+      "renowned",
+      "misnomer"
+    ]
+  },
+  {
     "id": "nov",
     "forms": [
       "nov"
@@ -2399,6 +2428,38 @@
       "prosecutor",
       "persecute",
       "persecution"
+    ]
+  },
+  {
+    "id": "sign",
+    "forms": [
+      "sign",
+      "signat"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "mark, sign",
+      "tr": "işaret",
+      "de": "Zeichen",
+      "fr": "signe, marque",
+      "it": "segno",
+      "es": "señal, signo"
+    },
+    "words": [
+      "sign",
+      "signal",
+      "signature",
+      "signify",
+      "significant",
+      "significance",
+      "insignificant",
+      "design",
+      "designer",
+      "designate",
+      "assign",
+      "assignment",
+      "resign",
+      "resignation"
     ]
   },
   {

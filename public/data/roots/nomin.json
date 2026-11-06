@@ -1,0 +1,338 @@
+{
+  "id": "nomin",
+  "forms": [
+    "nomin",
+    "nom",
+    "noun",
+    "nown"
+  ],
+  "origin": "la",
+  "etymon": "nomen, nominis",
+  "meaning": {
+    "en": "name",
+    "tr": "ad, isim",
+    "de": "Name",
+    "fr": "nom",
+    "it": "nome",
+    "es": "nombre"
+  },
+  "words": [
+    {
+      "id": "nominate",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "nomin",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "to officially suggest someone for a job or prize; literally: to name",
+        "tr": "aday göstermek",
+        "de": "nominieren, vorschlagen",
+        "fr": "nommer, proposer",
+        "it": "nominare, candidare",
+        "es": "nominar, proponer"
+      },
+      "sentences": [
+        {
+          "en": "They [nominated] her for the best actress award.",
+          "tr": "Onu en iyi kadın oyuncu ödülüne aday gösterdiler.",
+          "de": "Sie wurde für den Preis als beste Schauspielerin nominiert.",
+          "fr": "Elle a été nommée pour le prix de la meilleure actrice.",
+          "it": "È stata candidata al premio come migliore attrice.",
+          "es": "La nominaron al premio a la mejor actriz."
+        },
+        {
+          "en": "Each class [nominates] one speaker.",
+          "tr": "Her sınıf bir sözcü aday gösteriyor.",
+          "de": "Jede Klasse schlägt einen Sprecher vor.",
+          "fr": "Chaque classe propose un porte-parole.",
+          "it": "Ogni classe propone un rappresentante.",
+          "es": "Cada clase propone a un portavoz."
+        }
+      ]
+    },
+    {
+      "id": "nomination",
+      "pos": "noun",
+      "parent": "nominate",
+      "parts": [
+        "nomin",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "the act of suggesting someone officially",
+        "tr": "adaylık",
+        "de": "die Nominierung",
+        "fr": "la nomination",
+        "it": "la candidatura, la nomina",
+        "es": "la nominación"
+      },
+      "sentences": [
+        {
+          "en": "The film got five Oscar [nominations].",
+          "tr": "Film beş Oscar adaylığı aldı.",
+          "de": "Der Film bekam fünf Oscar-Nominierungen.",
+          "fr": "Le film a obtenu cinq nominations aux Oscars.",
+          "it": "Il film ha ottenuto cinque candidature agli Oscar.",
+          "es": "La película consiguió cinco nominaciones a los Óscar."
+        },
+        {
+          "en": "Her [nomination] surprised everyone.",
+          "tr": "Adaylığı herkesi şaşırttı.",
+          "de": "Ihre Nominierung überraschte alle.",
+          "fr": "Sa nomination a surpris tout le monde.",
+          "it": "La sua candidatura ha sorpreso tutti.",
+          "es": "Su nominación sorprendió a todos."
+        }
+      ]
+    },
+    {
+      "id": "nominee",
+      "pos": "noun",
+      "parent": "nominate",
+      "parts": [
+        "nomin",
+        "-ee"
+      ],
+      "gloss": {
+        "en": "a person who has been nominated",
+        "tr": "aday",
+        "de": "der Nominierte",
+        "fr": "le nominé, le candidat",
+        "it": "il candidato",
+        "es": "el nominado"
+      },
+      "sentences": [
+        {
+          "en": "All the [nominees] sat in the front row.",
+          "tr": "Bütün adaylar ön sırada oturdu.",
+          "de": "Alle Nominierten saßen in der ersten Reihe.",
+          "fr": "Tous les nominés étaient assis au premier rang.",
+          "it": "Tutti i candidati sedevano in prima fila.",
+          "es": "Todos los nominados se sentaron en primera fila."
+        },
+        {
+          "en": "She is the party's [nominee] for mayor.",
+          "tr": "Partinin belediye başkanı adayı o.",
+          "de": "Sie ist die Kandidatin der Partei für das Bürgermeisteramt.",
+          "fr": "Elle est la candidate du parti à la mairie.",
+          "it": "È la candidata del partito a sindaco.",
+          "es": "Es la candidata del partido a la alcaldía."
+        }
+      ]
+    },
+    {
+      "id": "nominal",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "nomin",
+        "-al"
+      ],
+      "gloss": {
+        "en": "in name only, not real; very small (of an amount)",
+        "tr": "sözde, adı var kendi yok; (miktar) cüzi",
+        "de": "nominell; geringfügig",
+        "fr": "nominal; symbolique",
+        "it": "nominale; simbolico",
+        "es": "nominal; simbólico"
+      },
+      "sentences": [
+        {
+          "en": "He is the [nominal] head, but she decides.",
+          "tr": "Adı başkan ama kararları o veriyor.",
+          "de": "Er ist nur nominell der Chef, aber sie entscheidet.",
+          "fr": "Il est le chef nominal, mais c'est elle qui décide.",
+          "it": "Lui è il capo nominale, ma decide lei.",
+          "es": "Él es el jefe nominal, pero decide ella."
+        },
+        {
+          "en": "Entry costs a [nominal] fee of one euro.",
+          "tr": "Giriş bir avroluk cüzi bir ücrete.",
+          "de": "Der Eintritt kostet eine symbolische Gebühr von einem Euro.",
+          "fr": "L'entrée coûte une somme symbolique d'un euro.",
+          "it": "L'ingresso costa una cifra simbolica di un euro.",
+          "es": "La entrada cuesta un precio simbólico de un euro."
+        }
+      ]
+    },
+    {
+      "id": "denomination",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "de-",
+        "nomin",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "a religious group; the value printed on money",
+        "tr": "mezhep; (para) değer, kupür",
+        "de": "die Konfession; der Nennwert",
+        "fr": "la confession; la valeur (d'un billet)",
+        "it": "la confessione; il taglio (di banconota)",
+        "es": "la confesión; el valor (de un billete)"
+      },
+      "sentences": [
+        {
+          "en": "People of every [denomination] came to the service.",
+          "tr": "Törene her mezhepten insan geldi.",
+          "de": "Menschen aller Konfessionen kamen zum Gottesdienst.",
+          "fr": "Des gens de toutes les confessions sont venus à la cérémonie.",
+          "it": "Persone di ogni confessione sono venute alla funzione.",
+          "es": "Vinieron personas de todas las confesiones."
+        },
+        {
+          "en": "The machine accepts notes of any [denomination].",
+          "tr": "Makine her değerdeki banknotu kabul ediyor.",
+          "de": "Der Automat nimmt Scheine jedes Nennwerts.",
+          "fr": "La machine accepte les billets de toute valeur.",
+          "it": "La macchina accetta banconote di qualsiasi taglio.",
+          "es": "La máquina acepta billetes de cualquier valor."
+        }
+      ]
+    },
+    {
+      "id": "noun",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "noun"
+      ],
+      "gloss": {
+        "en": "a word for a person, place or thing; from Old French non, Latin nomen (name)",
+        "tr": "isim, ad",
+        "de": "das Nomen, das Substantiv",
+        "fr": "le nom",
+        "it": "il nome, il sostantivo",
+        "es": "el sustantivo"
+      },
+      "sentences": [
+        {
+          "en": "\"Table\" and \"love\" are [nouns].",
+          "tr": "\"Masa\" ve \"aşk\" isimdir.",
+          "de": "\"Tisch\" und \"Liebe\" sind Nomen.",
+          "fr": "« Table » et « amour » sont des noms.",
+          "it": "\"Tavolo\" e \"amore\" sono nomi.",
+          "es": "\"Mesa\" y \"amor\" son sustantivos."
+        },
+        {
+          "en": "In German, every [noun] starts with a capital letter.",
+          "tr": "Almancada her isim büyük harfle başlar.",
+          "de": "Im Deutschen beginnt jedes Nomen mit einem Großbuchstaben.",
+          "fr": "En allemand, chaque nom commence par une majuscule.",
+          "it": "In tedesco ogni sostantivo inizia con la maiuscola.",
+          "es": "En alemán, todo sustantivo empieza por mayúscula."
+        }
+      ]
+    },
+    {
+      "id": "pronoun",
+      "pos": "noun",
+      "parent": "noun",
+      "parts": [
+        "pro-",
+        "noun"
+      ],
+      "gloss": {
+        "en": "a word used instead of a noun, like she, it or they",
+        "tr": "zamir",
+        "de": "das Pronomen",
+        "fr": "le pronom",
+        "it": "il pronome",
+        "es": "el pronombre"
+      },
+      "sentences": [
+        {
+          "en": "\"She\" is a personal [pronoun].",
+          "tr": "\"She\" bir şahıs zamiridir.",
+          "de": "\"She\" ist ein Personalpronomen.",
+          "fr": "« She » est un pronom personnel.",
+          "it": "\"She\" è un pronome personale.",
+          "es": "\"She\" es un pronombre personal."
+        },
+        {
+          "en": "Turkish has no gender in its [pronouns].",
+          "tr": "Türkçede zamirlerde cinsiyet yoktur.",
+          "de": "Das Türkische kennt kein Geschlecht bei Pronomen.",
+          "fr": "Le turc n'a pas de genre dans ses pronoms.",
+          "it": "Il turco non ha genere nei pronomi.",
+          "es": "El turco no tiene género en los pronombres."
+        }
+      ]
+    },
+    {
+      "id": "renowned",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "re-",
+        "nown",
+        "-ed"
+      ],
+      "gloss": {
+        "en": "famous and admired; literally: named again and again",
+        "tr": "ünlü, şöhretli",
+        "de": "berühmt, renommiert",
+        "fr": "renommé",
+        "it": "rinomato",
+        "es": "renombrado, famoso"
+      },
+      "sentences": [
+        {
+          "en": "The city is [renowned] for its cathedral.",
+          "tr": "Şehir katedraliyle ünlüdür.",
+          "de": "Die Stadt ist für ihren Dom berühmt.",
+          "fr": "La ville est renommée pour sa cathédrale.",
+          "it": "La città è rinomata per la sua cattedrale.",
+          "es": "La ciudad es famosa por su catedral."
+        },
+        {
+          "en": "A [renowned] scientist gave the talk.",
+          "tr": "Konuşmayı ünlü bir bilim insanı yaptı.",
+          "de": "Ein renommierter Wissenschaftler hielt den Vortrag.",
+          "fr": "Un scientifique renommé a donné la conférence.",
+          "it": "Un rinomato scienziato ha tenuto la conferenza.",
+          "es": "Un científico de renombre dio la charla."
+        }
+      ]
+    },
+    {
+      "id": "misnomer",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "mis-",
+        "nom",
+        "-er"
+      ],
+      "gloss": {
+        "en": "a wrong or unsuitable name",
+        "tr": "yanlış ad, yakıştırma",
+        "de": "die Fehlbezeichnung",
+        "fr": "l'appellation impropre",
+        "it": "il termine improprio",
+        "es": "el nombre inapropiado"
+      },
+      "sentences": [
+        {
+          "en": "\"Guinea pig\" is a [misnomer]; it's not a pig.",
+          "tr": "\"Guinea pig\" yanlış bir ad; o bir domuz değil.",
+          "de": "\"Meerschweinchen\" ist eine Fehlbezeichnung; es ist kein Schwein.",
+          "fr": "« Cochon d'Inde » est un nom impropre : ce n'est pas un cochon.",
+          "it": "\"Porcellino d'India\" è un termine improprio: non è un maiale.",
+          "es": "\"Cobaya\" es un nombre inapropiado; no es un cerdo."
+        },
+        {
+          "en": "Calling it a holiday is a [misnomer]; we worked all week.",
+          "tr": "Ona tatil demek yanlış; bütün hafta çalıştık.",
+          "de": "Es Urlaub zu nennen ist falsch; wir haben die ganze Woche gearbeitet.",
+          "fr": "Appeler ça des vacances est impropre : nous avons travaillé toute la semaine.",
+          "it": "Chiamarla vacanza è improprio: abbiamo lavorato tutta la settimana.",
+          "es": "Llamarlo vacaciones es inexacto: trabajamos toda la semana."
+        }
+      ]
+    }
+  ]
+}

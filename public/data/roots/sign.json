@@ -1,0 +1,524 @@
+{
+  "id": "sign",
+  "forms": [
+    "sign",
+    "signat"
+  ],
+  "origin": "la",
+  "etymon": "signum",
+  "meaning": {
+    "en": "mark, sign",
+    "tr": "işaret",
+    "de": "Zeichen",
+    "fr": "signe, marque",
+    "it": "segno",
+    "es": "señal, signo"
+  },
+  "words": [
+    {
+      "id": "sign",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "sign"
+      ],
+      "gloss": {
+        "en": "a mark, board or movement that gives information (also a verb: to write your name)",
+        "tr": "işaret, tabela; (fiil) imzalamak",
+        "de": "das Zeichen, das Schild; (Verb) unterschreiben",
+        "fr": "le signe, le panneau; (verbe) signer",
+        "it": "il segno, il cartello; (verbo) firmare",
+        "es": "la señal, el letrero; (verbo) firmar"
+      },
+      "sentences": [
+        {
+          "en": "Follow the [signs] to the station.",
+          "tr": "İstasyona giden tabelaları takip et.",
+          "de": "Folge den Schildern zum Bahnhof.",
+          "fr": "Suis les panneaux jusqu'à la gare.",
+          "it": "Segui i cartelli per la stazione.",
+          "es": "Sigue las señales hasta la estación."
+        },
+        {
+          "en": "Please [sign] here.",
+          "tr": "Lütfen buraya imza atın.",
+          "de": "Bitte unterschreiben Sie hier.",
+          "fr": "Signez ici, s'il vous plaît.",
+          "it": "Firmi qui, per favore.",
+          "es": "Firme aquí, por favor."
+        },
+        {
+          "en": "Dark clouds are a [sign] of rain.",
+          "tr": "Kara bulutlar yağmur işaretidir.",
+          "de": "Dunkle Wolken sind ein Zeichen für Regen.",
+          "fr": "Les nuages sombres sont un signe de pluie.",
+          "it": "Le nuvole scure sono segno di pioggia.",
+          "es": "Las nubes oscuras son señal de lluvia."
+        }
+      ]
+    },
+    {
+      "id": "signal",
+      "pos": "noun",
+      "parent": "sign",
+      "parts": [
+        "sign",
+        "-al"
+      ],
+      "gloss": {
+        "en": "a sign, light or sound that sends a message",
+        "tr": "sinyal, işaret",
+        "de": "das Signal",
+        "fr": "le signal",
+        "it": "il segnale",
+        "es": "la señal"
+      },
+      "sentences": [
+        {
+          "en": "There is no phone [signal] in the mountains.",
+          "tr": "Dağlarda telefon sinyali yok.",
+          "de": "In den Bergen gibt es kein Handysignal.",
+          "fr": "Il n'y a pas de réseau dans les montagnes.",
+          "it": "In montagna non c'è segnale.",
+          "es": "En la montaña no hay señal de móvil."
+        },
+        {
+          "en": "The driver gave a [signal] before turning.",
+          "tr": "Sürücü dönmeden önce sinyal verdi.",
+          "de": "Der Fahrer blinkte vor dem Abbiegen.",
+          "fr": "Le conducteur a mis son clignotant avant de tourner.",
+          "it": "L'autista ha messo la freccia prima di svoltare.",
+          "es": "El conductor puso el intermitente antes de girar."
+        }
+      ]
+    },
+    {
+      "id": "signature",
+      "pos": "noun",
+      "parent": "sign",
+      "parts": [
+        "signat",
+        "-ure"
+      ],
+      "gloss": {
+        "en": "your name written in your own way",
+        "tr": "imza",
+        "de": "die Unterschrift",
+        "fr": "la signature",
+        "it": "la firma",
+        "es": "la firma"
+      },
+      "sentences": [
+        {
+          "en": "The letter needs your [signature].",
+          "tr": "Mektubun imzan gerekiyor.",
+          "de": "Der Brief braucht deine Unterschrift.",
+          "fr": "La lettre a besoin de ta signature.",
+          "it": "La lettera ha bisogno della tua firma.",
+          "es": "La carta necesita tu firma."
+        },
+        {
+          "en": "Pasta is the chef's [signature] dish.",
+          "tr": "Makarna şefin imza yemeği.",
+          "de": "Pasta ist das Markengericht des Kochs.",
+          "fr": "Les pâtes sont le plat signature du chef.",
+          "it": "La pasta è il piatto forte dello chef.",
+          "es": "La pasta es el plato estrella del chef."
+        }
+      ]
+    },
+    {
+      "id": "signify",
+      "pos": "verb",
+      "parent": "sign",
+      "parts": [
+        "sign",
+        "-ify"
+      ],
+      "gloss": {
+        "en": "to mean or show something",
+        "tr": "anlamına gelmek, belirtmek",
+        "de": "bedeuten, anzeigen",
+        "fr": "signifier",
+        "it": "significare",
+        "es": "significar"
+      },
+      "sentences": [
+        {
+          "en": "A red light [signifies] danger.",
+          "tr": "Kırmızı ışık tehlike anlamına gelir.",
+          "de": "Ein rotes Licht bedeutet Gefahr.",
+          "fr": "Un feu rouge signifie danger.",
+          "it": "Una luce rossa significa pericolo.",
+          "es": "Una luz roja significa peligro."
+        },
+        {
+          "en": "What does this symbol [signify]?",
+          "tr": "Bu sembol ne anlama geliyor?",
+          "de": "Was bedeutet dieses Symbol?",
+          "fr": "Que signifie ce symbole ?",
+          "it": "Che cosa significa questo simbolo?",
+          "es": "¿Qué significa este símbolo?"
+        }
+      ]
+    },
+    {
+      "id": "significant",
+      "pos": "adjective",
+      "parent": "signify",
+      "parts": [
+        "sign",
+        "-ific",
+        "-ant"
+      ],
+      "gloss": {
+        "en": "important or large enough to notice",
+        "tr": "önemli, kayda değer",
+        "de": "bedeutend, erheblich",
+        "fr": "important, significatif",
+        "it": "significativo, notevole",
+        "es": "significativo, importante"
+      },
+      "sentences": [
+        {
+          "en": "There was a [significant] rise in prices.",
+          "tr": "Fiyatlarda önemli bir artış oldu.",
+          "de": "Die Preise sind erheblich gestiegen.",
+          "fr": "Il y a eu une hausse importante des prix.",
+          "it": "C'è stato un aumento significativo dei prezzi.",
+          "es": "Hubo una subida significativa de los precios."
+        },
+        {
+          "en": "Today is a [significant] day for our family.",
+          "tr": "Bugün ailemiz için önemli bir gün.",
+          "de": "Heute ist ein bedeutender Tag für unsere Familie.",
+          "fr": "Aujourd'hui est un jour important pour notre famille.",
+          "it": "Oggi è un giorno importante per la nostra famiglia.",
+          "es": "Hoy es un día importante para nuestra familia."
+        }
+      ]
+    },
+    {
+      "id": "significance",
+      "pos": "noun",
+      "parent": "significant",
+      "parts": [
+        "sign",
+        "-ific",
+        "-ance"
+      ],
+      "gloss": {
+        "en": "importance; meaning",
+        "tr": "önem; anlam",
+        "de": "die Bedeutung",
+        "fr": "l'importance, la signification",
+        "it": "l'importanza, il significato",
+        "es": "la importancia, el significado"
+      },
+      "sentences": [
+        {
+          "en": "Nobody understood the [significance] of the letter.",
+          "tr": "Kimse mektubun önemini anlamadı.",
+          "de": "Niemand verstand die Bedeutung des Briefes.",
+          "fr": "Personne n'a compris l'importance de la lettre.",
+          "it": "Nessuno ha capito l'importanza della lettera.",
+          "es": "Nadie entendió la importancia de la carta."
+        },
+        {
+          "en": "The date has a special [significance] for her.",
+          "tr": "Bu tarihin onun için özel bir anlamı var.",
+          "de": "Das Datum hat für sie eine besondere Bedeutung.",
+          "fr": "Cette date a une signification particulière pour elle.",
+          "it": "La data ha un significato speciale per lei.",
+          "es": "La fecha tiene un significado especial para ella."
+        }
+      ]
+    },
+    {
+      "id": "insignificant",
+      "pos": "adjective",
+      "parent": "significant",
+      "parts": [
+        "in-not-",
+        "sign",
+        "-ific",
+        "-ant"
+      ],
+      "gloss": {
+        "en": "too small or unimportant to matter",
+        "tr": "önemsiz",
+        "de": "unbedeutend",
+        "fr": "insignifiant",
+        "it": "insignificante",
+        "es": "insignificante"
+      },
+      "sentences": [
+        {
+          "en": "The difference is [insignificant].",
+          "tr": "Fark önemsiz.",
+          "de": "Der Unterschied ist unbedeutend.",
+          "fr": "La différence est insignifiante.",
+          "it": "La differenza è insignificante.",
+          "es": "La diferencia es insignificante."
+        },
+        {
+          "en": "Under the stars, I felt [insignificant].",
+          "tr": "Yıldızların altında kendimi önemsiz hissettim.",
+          "de": "Unter den Sternen fühlte ich mich unbedeutend.",
+          "fr": "Sous les étoiles, je me sentais insignifiant.",
+          "it": "Sotto le stelle mi sentivo insignificante.",
+          "es": "Bajo las estrellas me sentía insignificante."
+        }
+      ]
+    },
+    {
+      "id": "design",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "de-",
+        "sign"
+      ],
+      "gloss": {
+        "en": "to plan how something will look and work; literally: to mark out (also a noun)",
+        "tr": "tasarlamak; (isim) tasarım",
+        "de": "entwerfen, gestalten; (Nomen) das Design",
+        "fr": "concevoir; (nom) le design",
+        "it": "progettare; (nome) il design",
+        "es": "diseñar; (sustantivo) el diseño"
+      },
+      "sentences": [
+        {
+          "en": "She [designs] websites for small shops.",
+          "tr": "Küçük dükkânlar için web sitesi tasarlıyor.",
+          "de": "Sie gestaltet Webseiten für kleine Läden.",
+          "fr": "Elle conçoit des sites web pour de petits commerces.",
+          "it": "Progetta siti web per piccoli negozi.",
+          "es": "Diseña páginas web para tiendas pequeñas."
+        },
+        {
+          "en": "I like the simple [design] of this chair.",
+          "tr": "Bu sandalyenin sade tasarımını seviyorum.",
+          "de": "Mir gefällt das schlichte Design dieses Stuhls.",
+          "fr": "J'aime le design simple de cette chaise.",
+          "it": "Mi piace il design semplice di questa sedia.",
+          "es": "Me gusta el diseño sencillo de esta silla."
+        }
+      ]
+    },
+    {
+      "id": "designer",
+      "pos": "noun",
+      "parent": "design",
+      "parts": [
+        "de-",
+        "sign",
+        "-er"
+      ],
+      "gloss": {
+        "en": "a person who designs things",
+        "tr": "tasarımcı",
+        "de": "der Designer",
+        "fr": "le designer, le créateur",
+        "it": "il designer, lo stilista",
+        "es": "el diseñador"
+      },
+      "sentences": [
+        {
+          "en": "He works as a graphic [designer].",
+          "tr": "Grafik tasarımcı olarak çalışıyor.",
+          "de": "Er arbeitet als Grafikdesigner.",
+          "fr": "Il travaille comme graphiste.",
+          "it": "Lavora come grafico.",
+          "es": "Trabaja como diseñador gráfico."
+        },
+        {
+          "en": "The dress is by a famous [designer].",
+          "tr": "Elbise ünlü bir tasarımcının.",
+          "de": "Das Kleid ist von einem berühmten Designer.",
+          "fr": "La robe est d'un créateur célèbre.",
+          "it": "Il vestito è di uno stilista famoso.",
+          "es": "El vestido es de un diseñador famoso."
+        }
+      ]
+    },
+    {
+      "id": "designate",
+      "pos": "verb",
+      "parent": "design",
+      "parts": [
+        "de-",
+        "sign",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "to officially choose or name for a purpose",
+        "tr": "belirlemek, tayin etmek",
+        "de": "bestimmen, ausweisen",
+        "fr": "désigner",
+        "it": "designare",
+        "es": "designar"
+      },
+      "sentences": [
+        {
+          "en": "This area is [designated] for smokers.",
+          "tr": "Bu alan sigara içenler için ayrılmış.",
+          "de": "Dieser Bereich ist für Raucher ausgewiesen.",
+          "fr": "Cette zone est réservée aux fumeurs.",
+          "it": "Questa zona è riservata ai fumatori.",
+          "es": "Esta zona está reservada a los fumadores."
+        },
+        {
+          "en": "They [designated] her as team leader.",
+          "tr": "Onu takım lideri olarak belirlediler.",
+          "de": "Sie bestimmten sie zur Teamleiterin.",
+          "fr": "Ils l'ont désignée cheffe d'équipe.",
+          "it": "L'hanno designata come capo squadra.",
+          "es": "La designaron jefa de equipo."
+        }
+      ]
+    },
+    {
+      "id": "assign",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "as-",
+        "sign"
+      ],
+      "gloss": {
+        "en": "to give someone a task or a place; literally: to mark out for",
+        "tr": "görevlendirmek, vermek, atamak",
+        "de": "zuweisen, zuteilen",
+        "fr": "assigner, attribuer",
+        "it": "assegnare",
+        "es": "asignar"
+      },
+      "sentences": [
+        {
+          "en": "The teacher [assigned] us a long essay.",
+          "tr": "Öğretmen bize uzun bir ödev verdi.",
+          "de": "Die Lehrerin gab uns einen langen Aufsatz auf.",
+          "fr": "La prof nous a donné une longue dissertation.",
+          "it": "L'insegnante ci ha assegnato un lungo tema.",
+          "es": "La profesora nos asignó una redacción larga."
+        },
+        {
+          "en": "Each guest is [assigned] a table.",
+          "tr": "Her konuğa bir masa veriliyor.",
+          "de": "Jedem Gast wird ein Tisch zugewiesen.",
+          "fr": "Chaque invité se voit attribuer une table.",
+          "it": "A ogni ospite viene assegnato un tavolo.",
+          "es": "A cada invitado se le asigna una mesa."
+        }
+      ]
+    },
+    {
+      "id": "assignment",
+      "pos": "noun",
+      "parent": "assign",
+      "parts": [
+        "as-",
+        "sign",
+        "-ment"
+      ],
+      "gloss": {
+        "en": "a piece of work given to someone",
+        "tr": "ödev, görev",
+        "de": "die Aufgabe, der Auftrag",
+        "fr": "le devoir, la mission",
+        "it": "il compito, l'incarico",
+        "es": "la tarea, el encargo"
+      },
+      "sentences": [
+        {
+          "en": "The [assignment] is due on Monday.",
+          "tr": "Ödevin teslimi pazartesi.",
+          "de": "Die Aufgabe ist am Montag fällig.",
+          "fr": "Le devoir est à rendre lundi.",
+          "it": "Il compito va consegnato lunedì.",
+          "es": "La tarea se entrega el lunes."
+        },
+        {
+          "en": "The journalist is on [assignment] in Kenya.",
+          "tr": "Gazeteci görev için Kenya'da.",
+          "de": "Der Journalist ist im Auftrag in Kenia.",
+          "fr": "Le journaliste est en mission au Kenya.",
+          "it": "Il giornalista è in missione in Kenya.",
+          "es": "El periodista está de encargo en Kenia."
+        }
+      ]
+    },
+    {
+      "id": "resign",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "re-",
+        "sign"
+      ],
+      "gloss": {
+        "en": "to leave a job by your own choice; literally: to unseal, give back",
+        "tr": "istifa etmek",
+        "de": "zurücktreten, kündigen",
+        "fr": "démissionner",
+        "it": "dimettersi",
+        "es": "dimitir"
+      },
+      "sentences": [
+        {
+          "en": "The minister [resigned] after the scandal.",
+          "tr": "Bakan skandaldan sonra istifa etti.",
+          "de": "Der Minister trat nach dem Skandal zurück.",
+          "fr": "Le ministre a démissionné après le scandale.",
+          "it": "Il ministro si è dimesso dopo lo scandalo.",
+          "es": "El ministro dimitió tras el escándalo."
+        },
+        {
+          "en": "She [resigned] to start her own company.",
+          "tr": "Kendi şirketini kurmak için istifa etti.",
+          "de": "Sie kündigte, um ihre eigene Firma zu gründen.",
+          "fr": "Elle a démissionné pour créer sa propre entreprise.",
+          "it": "Si è dimessa per fondare la sua azienda.",
+          "es": "Dimitió para fundar su propia empresa."
+        }
+      ]
+    },
+    {
+      "id": "resignation",
+      "pos": "noun",
+      "parent": "resign",
+      "parts": [
+        "re-",
+        "sign",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "leaving a job by choice; also: accepting something you can't change",
+        "tr": "istifa; boyun eğme",
+        "de": "der Rücktritt, die Kündigung; die Resignation",
+        "fr": "la démission; la résignation",
+        "it": "le dimissioni; la rassegnazione",
+        "es": "la dimisión; la resignación"
+      },
+      "sentences": [
+        {
+          "en": "He handed in his [resignation] on Friday.",
+          "tr": "Cuma günü istifasını verdi.",
+          "de": "Er reichte am Freitag seine Kündigung ein.",
+          "fr": "Il a remis sa démission vendredi.",
+          "it": "Ha presentato le dimissioni venerdì.",
+          "es": "Presentó su dimisión el viernes."
+        },
+        {
+          "en": "She accepted the news with quiet [resignation].",
+          "tr": "Haberi sessiz bir boyun eğişle karşıladı.",
+          "de": "Sie nahm die Nachricht mit stiller Resignation auf.",
+          "fr": "Elle a accueilli la nouvelle avec une résignation tranquille.",
+          "it": "Ha accolto la notizia con rassegnazione.",
+          "es": "Recibió la noticia con serena resignación."
+        }
+      ]
+    }
+  ]
+}
