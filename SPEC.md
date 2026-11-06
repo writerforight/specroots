@@ -51,7 +51,8 @@ seçilen dillerdeki karşılığı ve öğretici örnek cümleleri bir arada gö
     anniversary, perennial), 75. kök `fort` (fortis, güçlü: fort, effort, comfort, force, reinforce), 76. kök `grat` (gratus/gratia: grateful,
     gratitude, congratulate, grace), 77. kök `magn` (magnus, büyük: magnify, magnificent, magnitude, major), 78. kök `ment` (mens, akıl: mental, mention,
     comment), 79. kök `nat` (nasci, doğmak: native, nation, nature, innate), 80. kök `nomin` (nomen, ad: nominate, noun,
-    pronoun, renowned), 81. kök `sign` (signum, işaret: signal, signature, design, assign, resign).
+    pronoun, renowned), 81. kök `sign` (signum, işaret: signal, signature, design, assign, resign), 82. kök `temp` (tempus, zaman: temporary,
+    contemporary, tempo), 83. kök `therm` (Yunanca thermós, ısı: thermal, thermometer, thermostat, hypothermia).
     Yeni kök sınırsız açılmaz; her biri kullanıcı onayıyla eklenir.
 12. **Mimari:** nesne yönelimli, katmanlı (aşağıda). Görünüm ve tema veri ve mantıktan bağımsız
     değiştirilebilir olmalı.

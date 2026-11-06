@@ -45,7 +45,7 @@ yanına `(az: N)` yaz. Toplam hedef ≈ 1000–2000 kelime.
 - Aynı test iki turdur düzelmiyorsa ya da push reddediliyorsa döngüyü durdur ve nedenini yaz.
 
 ## Durum
-Kök: 81 · Kelime: 1696 kayıt, 1687 ayrı kelime (5 birleşik kelime iki kökte). Kuyruk bitti; D2 kapandı (2026-10-19, 949 kelime). 2026-10-22: mevcut köklere +177 kelime, 51. kök nunci (+15), 52. kök cad (+20). 2026-10-29: mevcut 37 köke +177 kelime. 2026-10-30: 53. kök tempt (+10), 54. kök act (+25), 55. kök nect (+13). 2026-10-31: 56. kök trib (+14); pel'e appeal ailesi (+3). 2026-11-06: 57. kök prehend (+19); 58. kök sequ (+14), 59. kök solv (+11), 60. kök vinc (+12); 61. kök leg (+14), 62. kök sum (+10), 63. kök scend (+9).
+Kök: 83 · Kelime: 1709 kayıt, 1699 ayrı kelime (5 birleşik kelime iki kökte). Kuyruk bitti; D2 kapandı (2026-10-19, 949 kelime). 2026-10-22: mevcut köklere +177 kelime, 51. kök nunci (+15), 52. kök cad (+20). 2026-10-29: mevcut 37 köke +177 kelime. 2026-10-30: 53. kök tempt (+10), 54. kök act (+25), 55. kök nect (+13). 2026-10-31: 56. kök trib (+14); pel'e appeal ailesi (+3). 2026-11-06: 57. kök prehend (+19); 58. kök sequ (+14), 59. kök solv (+11), 60. kök vinc (+12); 61. kök leg (+14), 62. kök sum (+10), 63. kök scend (+9).
 
 ## Kuyruk
 
@@ -131,9 +131,9 @@ Latince (`"origin": "la"`):
 - [x] nat — 12 (az: 12) — doğmak (native, nation, nature, prenatal, innate)
 - [x] nomin / nom — 9 (az: 9) — ad (nominate, nominal, denomination, nominee)
 - [x] sign — 14 (az: 14) — işaret (signal, signature, design, assign, resign, significant)
-- [ ] temp / tempor — zaman (temporary, contemporary, tempo) — `tempt` (denemek) ile karıştırma
+- [x] temp / tempor — 4 (az: 4; temperature bağı tartışmalı, girilmedi) — zaman (temporary, contemporary, tempo) — `tempt` (denemek) ile karıştırma
 Yunanca (`"origin": "gr"`):
-- [ ] therm — ısı (thermal, thermometer, thermostat)
+- [x] therm — 9 (az: 9) — ısı (thermal, thermometer, thermostat)
 - [ ] hydr — su (hydrogen, hydrate, dehydrate, hydraulic)
 - [ ] psych — ruh (psychology, psychic, psychiatrist)
 - [ ] dem — halk (democracy, epidemic, demographic)

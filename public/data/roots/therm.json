@@ -1,0 +1,338 @@
+{
+  "id": "therm",
+  "forms": [
+    "therm",
+    "thermo"
+  ],
+  "origin": "gr",
+  "etymon": "thermós",
+  "meaning": {
+    "en": "heat, hot",
+    "tr": "ısı, sıcak",
+    "de": "Wärme, warm",
+    "fr": "chaleur, chaud",
+    "it": "calore, caldo",
+    "es": "calor, caliente"
+  },
+  "words": [
+    {
+      "id": "thermal",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "therm",
+        "-al"
+      ],
+      "gloss": {
+        "en": "relating to heat; keeping you warm",
+        "tr": "ısıl, termal; sıcak tutan",
+        "de": "thermisch, Wärme-; Thermo-",
+        "fr": "thermique; thermal",
+        "it": "termico; termale",
+        "es": "térmico; termal"
+      },
+      "sentences": [
+        {
+          "en": "Wear [thermal] underwear when you go skiing.",
+          "tr": "Kayağa giderken termal iç çamaşırı giy.",
+          "de": "Trag beim Skifahren Thermounterwäsche.",
+          "fr": "Porte des sous-vêtements thermiques pour le ski.",
+          "it": "Indossa intimo termico quando vai a sciare.",
+          "es": "Ponte ropa interior térmica para esquiar."
+        },
+        {
+          "en": "Pamukkale is famous for its [thermal] pools.",
+          "tr": "Pamukkale termal havuzlarıyla ünlüdür.",
+          "de": "Pamukkale ist für seine Thermalbecken berühmt.",
+          "fr": "Pamukkale est célèbre pour ses bassins thermaux.",
+          "it": "Pamukkale è famosa per le sue piscine termali.",
+          "es": "Pamukkale es famosa por sus piscinas termales."
+        }
+      ]
+    },
+    {
+      "id": "geothermal",
+      "pos": "adjective",
+      "parent": "thermal",
+      "parts": [
+        "geo-",
+        "therm",
+        "-al"
+      ],
+      "gloss": {
+        "en": "using heat from inside the earth",
+        "tr": "jeotermal",
+        "de": "geothermisch, Erdwärme-",
+        "fr": "géothermique",
+        "it": "geotermico",
+        "es": "geotérmico"
+      },
+      "sentences": [
+        {
+          "en": "Iceland gets much of its power from [geothermal] energy.",
+          "tr": "İzlanda enerjisinin çoğunu jeotermal enerjiden alır.",
+          "de": "Island gewinnt viel Strom aus Erdwärme.",
+          "fr": "L'Islande tire une grande partie de son électricité de la géothermie.",
+          "it": "L'Islanda ricava molta energia dalla geotermia.",
+          "es": "Islandia obtiene mucha energía de la geotermia."
+        },
+        {
+          "en": "The town is heated by a [geothermal] plant.",
+          "tr": "Kasaba jeotermal bir santralle ısıtılıyor.",
+          "de": "Die Stadt wird von einem Geothermiekraftwerk beheizt.",
+          "fr": "La ville est chauffée par une centrale géothermique.",
+          "it": "La città è riscaldata da una centrale geotermica.",
+          "es": "El pueblo se calienta con una planta geotérmica."
+        }
+      ]
+    },
+    {
+      "id": "thermometer",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "thermo",
+        "-meter"
+      ],
+      "gloss": {
+        "en": "an instrument for measuring temperature; literally: heat-measurer",
+        "tr": "termometre",
+        "de": "das Thermometer",
+        "fr": "le thermomètre",
+        "it": "il termometro",
+        "es": "el termómetro"
+      },
+      "sentences": [
+        {
+          "en": "The [thermometer] shows minus five degrees.",
+          "tr": "Termometre eksi beş dereceyi gösteriyor.",
+          "de": "Das Thermometer zeigt minus fünf Grad.",
+          "fr": "Le thermomètre indique moins cinq degrés.",
+          "it": "Il termometro segna meno cinque gradi.",
+          "es": "El termómetro marca cinco grados bajo cero."
+        },
+        {
+          "en": "Put the [thermometer] under your tongue.",
+          "tr": "Termometreyi dilinin altına koy.",
+          "de": "Leg das Thermometer unter die Zunge.",
+          "fr": "Mets le thermomètre sous ta langue.",
+          "it": "Metti il termometro sotto la lingua.",
+          "es": "Ponte el termómetro debajo de la lengua."
+        }
+      ]
+    },
+    {
+      "id": "thermostat",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "thermo",
+        "-stat"
+      ],
+      "gloss": {
+        "en": "a device that keeps a room or machine at a set temperature",
+        "tr": "termostat",
+        "de": "der Thermostat",
+        "fr": "le thermostat",
+        "it": "il termostato",
+        "es": "el termostato"
+      },
+      "sentences": [
+        {
+          "en": "Turn the [thermostat] down at night.",
+          "tr": "Geceleri termostatı kıs.",
+          "de": "Dreh nachts den Thermostat herunter.",
+          "fr": "Baisse le thermostat la nuit.",
+          "it": "Abbassa il termostato di notte.",
+          "es": "Baja el termostato por la noche."
+        },
+        {
+          "en": "The oven has a broken [thermostat].",
+          "tr": "Fırının termostatı bozuk.",
+          "de": "Der Ofen hat einen kaputten Thermostat.",
+          "fr": "Le four a un thermostat cassé.",
+          "it": "Il forno ha il termostato rotto.",
+          "es": "El horno tiene el termostato roto."
+        }
+      ]
+    },
+    {
+      "id": "thermos",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "therm",
+        "-os"
+      ],
+      "gloss": {
+        "en": "a bottle that keeps drinks hot or cold (from a brand name, Greek thermos, hot)",
+        "tr": "termos",
+        "de": "die Thermoskanne",
+        "fr": "le thermos",
+        "it": "il thermos",
+        "es": "el termo"
+      },
+      "sentences": [
+        {
+          "en": "I take a [thermos] of tea to work.",
+          "tr": "İşe bir termos çay götürüyorum.",
+          "de": "Ich nehme eine Thermoskanne Tee mit zur Arbeit.",
+          "fr": "J'emporte un thermos de thé au travail.",
+          "it": "Porto un thermos di tè al lavoro.",
+          "es": "Me llevo un termo de té al trabajo."
+        },
+        {
+          "en": "The coffee in the [thermos] is still hot.",
+          "tr": "Termostaki kahve hâlâ sıcak.",
+          "de": "Der Kaffee in der Thermoskanne ist noch heiß.",
+          "fr": "Le café dans le thermos est encore chaud.",
+          "it": "Il caffè nel thermos è ancora caldo.",
+          "es": "El café del termo sigue caliente."
+        }
+      ]
+    },
+    {
+      "id": "hypothermia",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "hypo-",
+        "therm",
+        "-ia"
+      ],
+      "gloss": {
+        "en": "a dangerously low body temperature",
+        "tr": "hipotermi, vücut ısısının tehlikeli düşmesi",
+        "de": "die Unterkühlung",
+        "fr": "l'hypothermie",
+        "it": "l'ipotermia",
+        "es": "la hipotermia"
+      },
+      "sentences": [
+        {
+          "en": "The climbers were treated for [hypothermia].",
+          "tr": "Dağcılar hipotermi nedeniyle tedavi edildi.",
+          "de": "Die Bergsteiger wurden wegen Unterkühlung behandelt.",
+          "fr": "Les alpinistes ont été soignés pour hypothermie.",
+          "it": "Gli alpinisti sono stati curati per ipotermia.",
+          "es": "Los escaladores fueron tratados por hipotermia."
+        },
+        {
+          "en": "Cold water can cause [hypothermia] quickly.",
+          "tr": "Soğuk su hızla hipotermiye yol açabilir.",
+          "de": "Kaltes Wasser kann schnell zu Unterkühlung führen.",
+          "fr": "L'eau froide peut vite provoquer une hypothermie.",
+          "it": "L'acqua fredda può causare rapidamente ipotermia.",
+          "es": "El agua fría puede causar hipotermia rápidamente."
+        }
+      ]
+    },
+    {
+      "id": "thermodynamics",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "thermo",
+        "-dynamics"
+      ],
+      "gloss": {
+        "en": "the science of heat, energy and work",
+        "tr": "termodinamik",
+        "de": "die Thermodynamik",
+        "fr": "la thermodynamique",
+        "it": "la termodinamica",
+        "es": "la termodinámica"
+      },
+      "sentences": [
+        {
+          "en": "We have a [thermodynamics] exam next week.",
+          "tr": "Gelecek hafta termodinamik sınavımız var.",
+          "de": "Wir haben nächste Woche eine Thermodynamik-Klausur.",
+          "fr": "Nous avons un examen de thermodynamique la semaine prochaine.",
+          "it": "La settimana prossima abbiamo l'esame di termodinamica.",
+          "es": "La semana que viene tenemos examen de termodinámica."
+        },
+        {
+          "en": "Engines follow the laws of [thermodynamics].",
+          "tr": "Motorlar termodinamik yasalarına uyar.",
+          "de": "Motoren folgen den Gesetzen der Thermodynamik.",
+          "fr": "Les moteurs obéissent aux lois de la thermodynamique.",
+          "it": "I motori seguono le leggi della termodinamica.",
+          "es": "Los motores siguen las leyes de la termodinámica."
+        }
+      ]
+    },
+    {
+      "id": "exothermic",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "exo-",
+        "therm",
+        "-ic"
+      ],
+      "gloss": {
+        "en": "giving out heat (of a chemical reaction)",
+        "tr": "ekzotermik, ısı veren",
+        "de": "exotherm",
+        "fr": "exothermique",
+        "it": "esotermico",
+        "es": "exotérmico"
+      },
+      "sentences": [
+        {
+          "en": "Burning wood is an [exothermic] reaction.",
+          "tr": "Odunun yanması ekzotermik bir tepkimedir.",
+          "de": "Holzverbrennung ist eine exotherme Reaktion.",
+          "fr": "La combustion du bois est une réaction exothermique.",
+          "it": "La combustione del legno è una reazione esotermica.",
+          "es": "La combustión de la madera es una reacción exotérmica."
+        },
+        {
+          "en": "The mixture got hot because the reaction is [exothermic].",
+          "tr": "Tepkime ekzotermik olduğu için karışım ısındı.",
+          "de": "Die Mischung wurde heiß, weil die Reaktion exotherm ist.",
+          "fr": "Le mélange a chauffé car la réaction est exothermique.",
+          "it": "La miscela si è scaldata perché la reazione è esotermica.",
+          "es": "La mezcla se calentó porque la reacción es exotérmica."
+        }
+      ]
+    },
+    {
+      "id": "endothermic",
+      "pos": "adjective",
+      "parent": "exothermic",
+      "parts": [
+        "endo-",
+        "therm",
+        "-ic"
+      ],
+      "gloss": {
+        "en": "taking in heat (of a chemical reaction)",
+        "tr": "endotermik, ısı alan",
+        "de": "endotherm",
+        "fr": "endothermique",
+        "it": "endotermico",
+        "es": "endotérmico"
+      },
+      "sentences": [
+        {
+          "en": "An ice pack works through an [endothermic] reaction.",
+          "tr": "Soğuk kompres endotermik bir tepkimeyle çalışır.",
+          "de": "Ein Kühlpack funktioniert durch eine endotherme Reaktion.",
+          "fr": "Une poche de froid fonctionne grâce à une réaction endothermique.",
+          "it": "Il ghiaccio istantaneo funziona con una reazione endotermica.",
+          "es": "Una bolsa de frío funciona con una reacción endotérmica."
+        },
+        {
+          "en": "Melting ice is an [endothermic] process.",
+          "tr": "Buzun erimesi endotermik bir süreçtir.",
+          "de": "Das Schmelzen von Eis ist ein endothermer Vorgang.",
+          "fr": "La fonte de la glace est un processus endothermique.",
+          "it": "Lo scioglimento del ghiaccio è un processo endotermico.",
+          "es": "El deshielo es un proceso endotérmico."
+        }
+      ]
+    }
+  ]
+}

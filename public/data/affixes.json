@@ -3444,5 +3444,85 @@
       "es": "ánimo, alma (latín animus)"
     },
     "combining": true
+  },
+  "-meter": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "measuring device (Greek metron, measure)",
+      "tr": "ölçme aleti (Yunanca metron, ölçü)",
+      "de": "Messgerät (griechisch metron, Maß)",
+      "fr": "appareil de mesure (grec metron, mesure)",
+      "it": "strumento di misura (greco metron, misura)",
+      "es": "instrumento de medida (griego metron, medida)"
+    },
+    "combining": true
+  },
+  "-stat": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "that keeps something standing, stable (Greek statos)",
+      "tr": "sabit tutan (Yunanca statos)",
+      "de": "was etwas konstant hält (griechisch statos)",
+      "fr": "qui maintient stable (grec statos)",
+      "it": "che mantiene stabile (greco statos)",
+      "es": "que mantiene estable (griego statos)"
+    },
+    "combining": true
+  },
+  "-dynamics": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "study of forces (Greek dynamis, power)",
+      "tr": "kuvvetler bilimi (Yunanca dynamis, güç)",
+      "de": "Lehre von den Kräften (griechisch dynamis, Kraft)",
+      "fr": "étude des forces (grec dynamis, puissance)",
+      "it": "studio delle forze (greco dynamis, potenza)",
+      "es": "estudio de las fuerzas (griego dynamis, potencia)"
+    },
+    "combining": true
+  },
+  "hypo-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "under, below (Greek)",
+      "tr": "altında, düşük (Yunanca)",
+      "de": "unter (griechisch)",
+      "fr": "sous (grec)",
+      "it": "sotto (greco)",
+      "es": "bajo, debajo (griego)"
+    }
+  },
+  "exo-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "outside, out (Greek)",
+      "tr": "dış, dışarı (Yunanca)",
+      "de": "außen, hinaus (griechisch)",
+      "fr": "dehors (grec)",
+      "it": "fuori (greco)",
+      "es": "fuera (griego)"
+    }
+  },
+  "-ia": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "condition, state (Greek/Latin; makes a noun)",
+      "tr": "durum, hal (Yunanca/Latince; isim yapar)",
+      "de": "Zustand (griechisch/lateinisch; bildet ein Nomen)",
+      "fr": "état (grec/latin ; forme un nom)",
+      "it": "condizione (greco/latino; forma un nome)",
+      "es": "estado (griego/latín; forma un sustantivo)"
+    }
+  },
+  "-os": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "noun ending (Greek -os)",
+      "tr": "isim eki (Yunanca -os)",
+      "de": "Nomenendung (griechisch -os)",
+      "fr": "terminaison de nom (grec -os)",
+      "it": "desinenza di nome (greco -os)",
+      "es": "terminación de sustantivo (griego -os)"
+    }
   }
 }

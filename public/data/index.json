@@ -2732,6 +2732,28 @@
     ]
   },
   {
+    "id": "temp",
+    "forms": [
+      "temp",
+      "tempor"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "time",
+      "tr": "zaman",
+      "de": "Zeit",
+      "fr": "temps",
+      "it": "tempo",
+      "es": "tiempo"
+    },
+    "words": [
+      "temporary",
+      "contemporary",
+      "tempo",
+      "temporal"
+    ]
+  },
+  {
     "id": "tempt",
     "forms": [
       "tempt",
@@ -2892,6 +2914,33 @@
       "subterranean",
       "terrier",
       "inter"
+    ]
+  },
+  {
+    "id": "therm",
+    "forms": [
+      "therm",
+      "thermo"
+    ],
+    "origin": "gr",
+    "meaning": {
+      "en": "heat, hot",
+      "tr": "ısı, sıcak",
+      "de": "Wärme, warm",
+      "fr": "chaleur, chaud",
+      "it": "calore, caldo",
+      "es": "calor, caliente"
+    },
+    "words": [
+      "thermal",
+      "geothermal",
+      "thermometer",
+      "thermostat",
+      "thermos",
+      "hypothermia",
+      "thermodynamics",
+      "exothermic",
+      "endothermic"
     ]
   },
   {

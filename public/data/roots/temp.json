@@ -1,0 +1,160 @@
+{
+  "id": "temp",
+  "forms": [
+    "temp",
+    "tempor"
+  ],
+  "origin": "la",
+  "etymon": "tempus, temporis",
+  "meaning": {
+    "en": "time",
+    "tr": "zaman",
+    "de": "Zeit",
+    "fr": "temps",
+    "it": "tempo",
+    "es": "tiempo"
+  },
+  "words": [
+    {
+      "id": "temporary",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "tempor",
+        "-ary"
+      ],
+      "gloss": {
+        "en": "lasting only for a short time",
+        "tr": "geçici",
+        "de": "vorübergehend, befristet",
+        "fr": "temporaire",
+        "it": "temporaneo, provvisorio",
+        "es": "temporal, provisional"
+      },
+      "sentences": [
+        {
+          "en": "She has a [temporary] job for the summer.",
+          "tr": "Yaz için geçici bir işi var.",
+          "de": "Sie hat einen befristeten Job für den Sommer.",
+          "fr": "Elle a un emploi temporaire pour l'été.",
+          "it": "Ha un lavoro temporaneo per l'estate.",
+          "es": "Tiene un trabajo temporal para el verano."
+        },
+        {
+          "en": "The road is closed, but it's only [temporary].",
+          "tr": "Yol kapalı ama bu yalnızca geçici.",
+          "de": "Die Straße ist gesperrt, aber nur vorübergehend.",
+          "fr": "La route est fermée, mais c'est temporaire.",
+          "it": "La strada è chiusa, ma è solo temporaneo.",
+          "es": "La carretera está cortada, pero es solo temporal."
+        }
+      ]
+    },
+    {
+      "id": "contemporary",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "con-",
+        "tempor",
+        "-ary"
+      ],
+      "gloss": {
+        "en": "of the present time, modern; also: living at the same time",
+        "tr": "çağdaş; aynı dönemde yaşamış",
+        "de": "zeitgenössisch",
+        "fr": "contemporain",
+        "it": "contemporaneo",
+        "es": "contemporáneo"
+      },
+      "sentences": [
+        {
+          "en": "The museum shows [contemporary] art.",
+          "tr": "Müze çağdaş sanat sergiliyor.",
+          "de": "Das Museum zeigt zeitgenössische Kunst.",
+          "fr": "Le musée expose de l'art contemporain.",
+          "it": "Il museo espone arte contemporanea.",
+          "es": "El museo expone arte contemporáneo."
+        },
+        {
+          "en": "Mozart was a [contemporary] of Haydn.",
+          "tr": "Mozart, Haydn'ın çağdaşıydı.",
+          "de": "Mozart war ein Zeitgenosse Haydns.",
+          "fr": "Mozart était un contemporain de Haydn.",
+          "it": "Mozart era contemporaneo di Haydn.",
+          "es": "Mozart fue contemporáneo de Haydn."
+        }
+      ]
+    },
+    {
+      "id": "tempo",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "temp",
+        "-o"
+      ],
+      "gloss": {
+        "en": "the speed of music or of an activity; from Italian, literally: time",
+        "tr": "tempo, hız",
+        "de": "das Tempo",
+        "fr": "le tempo, le rythme",
+        "it": "il tempo, il ritmo",
+        "es": "el tempo, el ritmo"
+      },
+      "sentences": [
+        {
+          "en": "The song starts at a slow [tempo].",
+          "tr": "Şarkı yavaş bir tempoyla başlıyor.",
+          "de": "Das Lied beginnt in langsamem Tempo.",
+          "fr": "La chanson commence sur un tempo lent.",
+          "it": "La canzone inizia a un tempo lento.",
+          "es": "La canción empieza con un tempo lento."
+        },
+        {
+          "en": "Life in a big city has a fast [tempo].",
+          "tr": "Büyük şehirde hayatın temposu hızlıdır.",
+          "de": "Das Leben in der Großstadt hat ein schnelles Tempo.",
+          "fr": "La vie dans une grande ville a un rythme rapide.",
+          "it": "La vita in una grande città ha un ritmo veloce.",
+          "es": "La vida en una gran ciudad tiene un ritmo rápido."
+        }
+      ]
+    },
+    {
+      "id": "temporal",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "tempor",
+        "-al"
+      ],
+      "gloss": {
+        "en": "relating to time; also: worldly, not religious",
+        "tr": "zamansal; dünyevi",
+        "de": "zeitlich; weltlich",
+        "fr": "temporel",
+        "it": "temporale",
+        "es": "temporal"
+      },
+      "sentences": [
+        {
+          "en": "The story jumps between [temporal] levels.",
+          "tr": "Öykü farklı zaman düzlemleri arasında atlıyor.",
+          "de": "Die Geschichte springt zwischen zeitlichen Ebenen.",
+          "fr": "Le récit saute entre différents niveaux temporels.",
+          "it": "Il racconto salta tra piani temporali diversi.",
+          "es": "El relato salta entre distintos planos temporales."
+        },
+        {
+          "en": "The king had [temporal] power, the church spiritual power.",
+          "tr": "Kralın dünyevi, kilisenin ruhani gücü vardı.",
+          "de": "Der König hatte weltliche, die Kirche geistliche Macht.",
+          "fr": "Le roi avait le pouvoir temporel, l'Église le pouvoir spirituel.",
+          "it": "Il re aveva il potere temporale, la chiesa quello spirituale.",
+          "es": "El rey tenía el poder temporal y la Iglesia el espiritual."
+        }
+      ]
+    }
+  ]
+}
