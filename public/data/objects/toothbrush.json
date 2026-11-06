@@ -1,0 +1,26 @@
+{
+  "id": "toothbrush",
+  "name": "toothbrush",
+  "place": "bathroom",
+  "names": {
+    "tr": "diş fırçası",
+    "de": "die Zahnbürste",
+    "fr": "la brosse à dents",
+    "it": "lo spazzolino",
+    "es": "el cepillo de dientes"
+  },
+  "definition": {
+    "en": "a small brush with a long handle for cleaning your teeth",
+    "tr": "dişleri temizlemek için uzun saplı küçük fırça",
+    "de": "eine kleine Bürste mit langem Stiel zum Zähneputzen",
+    "fr": "une petite brosse à long manche pour se laver les dents",
+    "it": "una piccola spazzola con manico lungo per lavarsi i denti",
+    "es": "un cepillo pequeño de mango largo para lavarse los dientes"
+  },
+  "origin": "tooth + brush (compare German Zahnbürste)",
+  "root": null,
+  "image": {
+    "file": "Toothbrush x3 20050716 002.jpg",
+    "wikidata": "Q134205"
+  }
+}

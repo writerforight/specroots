@@ -1,0 +1,26 @@
+{
+  "id": "kettle",
+  "name": "kettle",
+  "place": "kitchen",
+  "names": {
+    "tr": "su ısıtıcısı",
+    "de": "der Wasserkocher",
+    "fr": "la bouilloire",
+    "it": "il bollitore",
+    "es": "el hervidor"
+  },
+  "definition": {
+    "en": "a pot with a spout and handle for boiling water",
+    "tr": "su kaynatmak için emzikli ve kulplu kap",
+    "de": "ein Gefäß mit Ausguss und Griff zum Kochen von Wasser",
+    "fr": "un récipient à bec et à poignée pour faire bouillir l'eau",
+    "it": "un recipiente con beccuccio e manico per far bollire l'acqua",
+    "es": "un recipiente con pico y asa para hervir agua"
+  },
+  "origin": "Old Norse ketill / Old English ċietel ← Latin catīllus (small bowl)",
+  "root": null,
+  "image": {
+    "file": "Kettle (AM 1965.78.862-3).jpg",
+    "wikidata": "Q107444"
+  }
+}

@@ -1,13 +1,15 @@
 export type Route =
   | { kind: 'home' }
   | { kind: 'root'; rootId: string; wordId: string | null }
-  | { kind: 'affix'; affixId: string };
+  | { kind: 'affix'; affixId: string }
+  | { kind: 'object'; objectId: string };
 
-/** Hash routes: #/ , #/root/spec , #/root/spec/inspection , #/affix/re- */
+/** Hash routes: #/ , #/root/spec , #/root/spec/inspection , #/affix/re- , #/object/chalk */
 export function parseRoute(hash: string): Route {
   const [, kind, id, wordId] = hash.replace(/^#/, '').split('/');
   if (kind === 'root' && id) return { kind: 'root', rootId: decodeURIComponent(id), wordId: wordId ? decodeURIComponent(wordId) : null };
   if (kind === 'affix' && id) return { kind: 'affix', affixId: decodeURIComponent(id) };
+  if (kind === 'object' && id) return { kind: 'object', objectId: decodeURIComponent(id) };
   return { kind: 'home' };
 }
 
@@ -17,4 +19,8 @@ export function rootHref(rootId: string, wordId: string | null = null): string {
 
 export function affixHref(affixId: string): string {
   return `#/affix/${encodeURIComponent(affixId)}`;
+}
+
+export function objectHref(objectId: string): string {
+  return `#/object/${encodeURIComponent(objectId)}`;
 }

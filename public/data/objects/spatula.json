@@ -1,0 +1,26 @@
+{
+  "id": "spatula",
+  "name": "spatula",
+  "place": "kitchen",
+  "names": {
+    "tr": "spatula",
+    "de": "der Pfannenwender",
+    "fr": "la spatule",
+    "it": "la spatola",
+    "es": "la espátula"
+  },
+  "definition": {
+    "en": "a tool with a broad flat blade for turning or spreading food",
+    "tr": "yiyeceği çevirmek ya da yaymak için geniş yassı uçlu alet",
+    "de": "ein Werkzeug mit breitem flachem Blatt zum Wenden oder Verstreichen",
+    "fr": "un ustensile à lame large et plate pour retourner ou étaler",
+    "it": "un attrezzo con lama larga e piatta per girare o spalmare",
+    "es": "un utensilio de hoja ancha y plana para dar la vuelta o extender"
+  },
+  "origin": "Latin spatula (small flat piece) ← Greek spáthē (broad blade)",
+  "root": null,
+  "image": {
+    "file": "Degskrapor.png",
+    "wikidata": "Q15148"
+  }
+}

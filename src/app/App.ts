@@ -1,5 +1,6 @@
 import type { LexiconRepository } from '../data/LexiconRepository';
 import type { Affix, AffixIndex } from '../domain/Affix';
+import type { ObjectSummary, Place } from '../domain/EverydayObject';
 import type { RootSummary } from '../domain/Root';
 import { I18n } from '../i18n/I18n';
 import { SearchIndex } from '../services/SearchIndex';
@@ -7,6 +8,7 @@ import type { SettingsStore } from '../services/SettingsStore';
 import { SpeechService } from '../services/SpeechService';
 import { AffixListView } from '../ui/AffixListView';
 import { BrowseModeSwitch } from '../ui/BrowseModeSwitch';
+import { ObjectListView } from '../ui/ObjectListView';
 import { h } from '../ui/dom';
 import { RootDetailView } from '../ui/RootDetailView';
 import { RootListView } from '../ui/RootListView';
@@ -23,6 +25,7 @@ export class App {
   private readonly theme = new ThemeController();
   private readonly list: RootListView;
   private readonly affixList: AffixListView;
+  private readonly objectList: ObjectListView;
   private readonly modeSwitch: BrowseModeSwitch;
   private readonly sidebar = h('nav', { class: 'root-list' });
   private readonly detail: RootDetailView;
@@ -33,6 +36,8 @@ export class App {
 
   private roots: RootSummary[] = [];
   private affixes: ReadonlyMap<string, Affix> = new Map();
+  private objects: ObjectSummary[] = [];
+  private places: ReadonlyMap<string, Place> = new Map();
   /** Loaded the first time the learner browses by prefix or suffix. */
   private affixIndex: AffixIndex | null = null;
   private route: Route = { kind: 'home' };
@@ -47,6 +52,7 @@ export class App {
     this.i18n = new I18n(settings.value.uiLang);
     this.list = new RootListView(this.i18n);
     this.affixList = new AffixListView(this.i18n);
+    this.objectList = new ObjectListView(this.i18n);
     this.modeSwitch = new BrowseModeSwitch(this.i18n, (browseMode) => this.settings.update({ browseMode }));
     this.detail = new RootDetailView((kind) => this.settings.update({ derivationView: kind }));
     this.search = new SearchBox(this.i18n, (href) => (location.hash = href));
@@ -79,12 +85,17 @@ export class App {
     window.addEventListener('hashchange', () => this.navigate());
 
     try {
-      [this.roots, this.affixes] = await Promise.all([this.repository.listRoots(), this.repository.getAffixes()]);
+      [this.roots, this.affixes, this.objects, this.places] = await Promise.all([
+        this.repository.listRoots(),
+        this.repository.getAffixes(),
+        this.repository.listObjects(),
+        this.repository.getPlaces(),
+      ]);
     } catch {
       this.detail.showError(this.context());
       return;
     }
-    this.search.setIndex(new SearchIndex(this.roots, this.affixes.values()));
+    this.search.setIndex(new SearchIndex(this.roots, this.affixes.values(), this.objects));
     await this.navigate();
     if (!this.settings.value.onboarded) this.dialog.open('welcome');
   }
@@ -108,7 +119,7 @@ export class App {
    */
   private navigate(): Promise<void> {
     this.route = parseRoute(location.hash);
-    const kind = this.route.kind === 'affix' ? this.affixes.get(this.route.affixId)?.kind : undefined;
+    const kind = this.route.kind === 'affix' ? this.affixes.get(this.route.affixId)?.kind : this.route.kind === 'object' ? 'object' : undefined;
     if (kind && kind !== this.settings.value.browseMode) {
       this.settings.update({ browseMode: kind });
       return Promise.resolve();
@@ -131,6 +142,11 @@ export class App {
         if (token !== this.renderToken) return;
         this.detail.show(root, this.context(), route.wordId);
         document.title = `${root.forms[0] ?? root.id} · specroots`;
+      } else if (route.kind === 'object') {
+        const object = await this.repository.getObject(route.objectId);
+        if (token !== this.renderToken) return;
+        this.detail.showObject(object, this.places.get(object.place), this.context());
+        document.title = `${object.name} · specroots`;
       } else {
         const affix = this.affixes.get(route.affixId);
         if (!affix) throw new Error(`unknown affix ${route.affixId}`);
@@ -149,7 +165,7 @@ export class App {
     }
   }
 
-  /** The mode switch and the list it selects: roots, prefixes or suffixes. */
+  /** The mode switch and the list it selects: roots, prefixes, suffixes or objects. */
   private async renderSidebar(route: Route): Promise<void> {
     const mode = this.settings.value.browseMode;
     this.modeSwitch.render(mode);
@@ -157,6 +173,11 @@ export class App {
     if (mode === 'root') {
       this.list.render(this.roots, route.kind === 'root' ? route.rootId : null);
       this.sidebar.replaceChildren(this.modeSwitch.el, this.list.el);
+      return;
+    }
+    if (mode === 'object') {
+      this.objectList.render(this.objects, this.settings.value.translationLangs[0], route.kind === 'object' ? route.objectId : null);
+      this.sidebar.replaceChildren(this.modeSwitch.el, this.objectList.el);
       return;
     }
     const index = await this.loadAffixIndex();

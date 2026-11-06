@@ -1,0 +1,26 @@
+{
+  "id": "blackboard",
+  "name": "blackboard",
+  "place": "classroom",
+  "names": {
+    "tr": "kara tahta",
+    "de": "die Tafel",
+    "fr": "le tableau noir",
+    "it": "la lavagna",
+    "es": "la pizarra"
+  },
+  "definition": {
+    "en": "a dark board on a classroom wall that you write on with chalk",
+    "tr": "sınıf duvarında tebeşirle üzerine yazılan koyu renkli tahta",
+    "de": "eine dunkle Fläche an der Wand des Klassenzimmers, auf die man mit Kreide schreibt",
+    "fr": "un panneau sombre au mur de la classe, sur lequel on écrit à la craie",
+    "it": "una superficie scura sulla parete dell'aula su cui si scrive col gesso",
+    "es": "una superficie oscura en la pared del aula en la que se escribe con tiza"
+  },
+  "origin": "black + board (boards were once made of black slate)",
+  "root": null,
+  "image": {
+    "file": "Tafel (Lehrmittel).jpg",
+    "wikidata": "Q235585"
+  }
+}

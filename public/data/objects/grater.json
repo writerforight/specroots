@@ -1,0 +1,26 @@
+{
+  "id": "grater",
+  "name": "grater",
+  "place": "kitchen",
+  "names": {
+    "tr": "rende",
+    "de": "die Reibe",
+    "fr": "la râpe",
+    "it": "la grattugia",
+    "es": "el rallador"
+  },
+  "definition": {
+    "en": "a metal tool with sharp holes for cutting food into small pieces",
+    "tr": "yiyeceği küçük parçalara ayırmak için keskin delikli metal alet",
+    "de": "ein Metallgerät mit scharfen Löchern, das Essen in kleine Stücke reibt",
+    "fr": "un outil en métal à trous tranchants pour réduire les aliments en petits morceaux",
+    "it": "un attrezzo di metallo con fori taglienti per ridurre il cibo in pezzetti",
+    "es": "un utensilio de metal con agujeros afilados para deshacer la comida en trocitos"
+  },
+  "origin": "grate (Old French grater, to scrape) + -er",
+  "root": null,
+  "image": {
+    "file": "746801 FlatCoarseGrater Lifestyle9x9.jpg",
+    "wikidata": "Q192848"
+  }
+}

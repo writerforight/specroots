@@ -1,0 +1,26 @@
+{
+  "id": "frying-pan",
+  "name": "frying pan",
+  "place": "kitchen",
+  "names": {
+    "tr": "tava",
+    "de": "die Bratpfanne",
+    "fr": "la poêle",
+    "it": "la padella",
+    "es": "la sartén"
+  },
+  "definition": {
+    "en": "a flat pan with a long handle for frying food",
+    "tr": "yemek kızartmak için uzun saplı yassı kap",
+    "de": "eine flache Pfanne mit langem Stiel zum Braten",
+    "fr": "une casserole plate à long manche pour faire frire les aliments",
+    "it": "una padella bassa con manico lungo per friggere",
+    "es": "un recipiente plano de mango largo para freír"
+  },
+  "origin": "frying + pan (Old English panne)",
+  "root": null,
+  "image": {
+    "file": "Pfanne (Edelstahl).jpg",
+    "wikidata": "Q127666"
+  }
+}

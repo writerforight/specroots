@@ -2,9 +2,9 @@ import type { I18n } from '../i18n/I18n';
 import type { BrowseMode } from '../services/SettingsStore';
 import { h } from './dom';
 
-export const BROWSE_MODES: readonly BrowseMode[] = ['root', 'prefix', 'suffix'];
+export const BROWSE_MODES: readonly BrowseMode[] = ['root', 'prefix', 'suffix', 'object'];
 
-/** Roots · Prefixes · Suffixes, above the side list. */
+/** Roots · Prefixes · Suffixes · Objects, above the side list. */
 export class BrowseModeSwitch {
   readonly el = h('div', { class: 'segmented browse-switch', role: 'group' });
 
