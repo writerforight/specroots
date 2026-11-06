@@ -1,0 +1,78 @@
+{
+  "id": "peeler",
+  "name": "peeler",
+  "names": {
+    "tr": "soyacak",
+    "de": "der Sparschäler",
+    "fr": "l'économe",
+    "it": "il pelapatate",
+    "es": "el pelador"
+  },
+  "definition": {
+    "en": "a small tool with a blade for taking the skin off fruit and vegetables",
+    "tr": "meyve ve sebzelerin kabuğunu soymak için bıçaklı küçük alet",
+    "de": "ein kleines Gerät mit Klinge, um Obst und Gemüse zu schälen",
+    "fr": "un petit outil à lame pour éplucher les fruits et légumes",
+    "it": "un piccolo attrezzo con lama per sbucciare frutta e verdura",
+    "es": "un pequeño utensilio con cuchilla para pelar fruta y verdura"
+  },
+  "breakdown": {
+    "en": [
+      {
+        "text": "peel",
+        "gloss": "peel (take the skin off)"
+      },
+      {
+        "text": "er",
+        "gloss": "thing that does",
+        "affix": "-er"
+      }
+    ],
+    "de": [
+      {
+        "text": "Spar",
+        "gloss": "save (sparen: it peels thinly)"
+      },
+      {
+        "text": "schäl",
+        "gloss": "peel (schälen)"
+      },
+      {
+        "text": "er",
+        "gloss": "thing that does"
+      }
+    ]
+  },
+  "origin": "peel (Latin pilare, to remove hair) + -er",
+  "root": null,
+  "image": {
+    "file": "Peeler 01 Pengo.jpg",
+    "wikidata": "Q14894"
+  },
+  "sentences": [
+    {
+      "en": "Use the [peeler] for the carrots.",
+      "tr": "Havuçlar için soyacağı kullan.",
+      "de": "Nimm den Sparschäler für die Karotten.",
+      "fr": "Utilise l'économe pour les carottes.",
+      "it": "Usa il pelapatate per le carote.",
+      "es": "Usa el pelador para las zanahorias."
+    },
+    {
+      "en": "A [peeler] is safer than a knife.",
+      "tr": "Soyacak bıçaktan daha güvenlidir.",
+      "de": "Ein Sparschäler ist sicherer als ein Messer.",
+      "fr": "Un économe est plus sûr qu'un couteau.",
+      "it": "Il pelapatate è più sicuro di un coltello.",
+      "es": "Un pelador es más seguro que un cuchillo."
+    },
+    {
+      "en": "Where did you put the potato [peeler]?",
+      "tr": "Patates soyacağını nereye koydun?",
+      "de": "Wo hast du den Kartoffelschäler hingelegt?",
+      "fr": "Où as-tu mis l'économe ?",
+      "it": "Dove hai messo il pelapatate?",
+      "es": "¿Dónde has puesto el pelapatatas?"
+    }
+  ]
+}

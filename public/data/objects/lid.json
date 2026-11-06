@@ -1,0 +1,63 @@
+{
+  "id": "lid",
+  "name": "lid",
+  "names": {
+    "tr": "kapak",
+    "de": "der Deckel",
+    "fr": "le couvercle",
+    "it": "il coperchio",
+    "es": "la tapa"
+  },
+  "definition": {
+    "en": "a cover that closes the top of a pot, box or jar",
+    "tr": "tencere, kutu ya da kavanozun üstünü kapatan örtü",
+    "de": "eine Abdeckung, die einen Topf, eine Dose oder ein Glas oben verschließt",
+    "fr": "ce qui ferme le haut d'une casserole, d'une boîte ou d'un bocal",
+    "it": "ciò che chiude la parte superiore di una pentola, scatola o barattolo",
+    "es": "lo que cierra la parte de arriba de una olla, caja o tarro"
+  },
+  "breakdown": {
+    "de": [
+      {
+        "text": "Deck",
+        "gloss": "cover (decken)"
+      },
+      {
+        "text": "el",
+        "gloss": "tool, small thing"
+      }
+    ]
+  },
+  "origin": "Old English hlid (a cover; compare eyelid)",
+  "root": null,
+  "image": {
+    "file": "65 - IMG 20150801 145657.jpg",
+    "wikidata": "Q2488579"
+  },
+  "sentences": [
+    {
+      "en": "Put the [lid] on the pot.",
+      "tr": "Tencerenin kapağını kapat.",
+      "de": "Leg den Deckel auf den Topf.",
+      "fr": "Mets le couvercle sur la casserole.",
+      "it": "Metti il coperchio sulla pentola.",
+      "es": "Pon la tapa a la olla."
+    },
+    {
+      "en": "I can't get the [lid] off this jar.",
+      "tr": "Bu kavanozun kapağını açamıyorum.",
+      "de": "Ich kriege den Deckel von diesem Glas nicht ab.",
+      "fr": "Je n'arrive pas à enlever le couvercle de ce bocal.",
+      "it": "Non riesco a togliere il coperchio di questo barattolo.",
+      "es": "No puedo quitar la tapa de este tarro."
+    },
+    {
+      "en": "The report blew the [lid] off the scandal.",
+      "tr": "Rapor skandalı gün yüzüne çıkardı.",
+      "de": "Der Bericht deckte den Skandal auf.",
+      "fr": "Le rapport a fait éclater le scandale.",
+      "it": "Il rapporto ha scoperchiato lo scandalo.",
+      "es": "El informe destapó el escándalo."
+    }
+  ]
+}

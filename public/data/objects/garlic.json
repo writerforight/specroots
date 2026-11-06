@@ -1,0 +1,73 @@
+{
+  "id": "garlic",
+  "name": "garlic",
+  "names": {
+    "tr": "sarımsak",
+    "de": "der Knoblauch",
+    "fr": "l'ail",
+    "it": "l'aglio",
+    "es": "el ajo"
+  },
+  "definition": {
+    "en": "a plant bulb made of small parts (cloves) with a very strong taste",
+    "tr": "güçlü tadı olan, dişlerden oluşan bitki soğanı",
+    "de": "eine Zwiebel aus kleinen Zehen mit sehr kräftigem Geschmack",
+    "fr": "un bulbe fait de petites gousses, au goût très fort",
+    "it": "un bulbo fatto di spicchi, dal sapore molto forte",
+    "es": "un bulbo formado por dientes, de sabor muy fuerte"
+  },
+  "breakdown": {
+    "en": [
+      {
+        "text": "gar",
+        "gloss": "spear (Old English gār)"
+      },
+      {
+        "text": "lic",
+        "gloss": "leek (Old English lēac)"
+      }
+    ],
+    "de": [
+      {
+        "text": "Knob",
+        "gloss": "split (old klieben: the bulb splits into cloves)"
+      },
+      {
+        "text": "lauch",
+        "gloss": "leek"
+      }
+    ]
+  },
+  "origin": "Old English gārlēac: gār (spear, for the leaf shape) + lēac (leek)",
+  "root": null,
+  "image": {
+    "file": "Garlic.jpg",
+    "wikidata": "Q21546392"
+  },
+  "sentences": [
+    {
+      "en": "Chop two cloves of [garlic].",
+      "tr": "İki diş sarımsak doğra.",
+      "de": "Hack zwei Knoblauchzehen.",
+      "fr": "Hache deux gousses d'ail.",
+      "it": "Trita due spicchi d'aglio.",
+      "es": "Pica dos dientes de ajo."
+    },
+    {
+      "en": "This sauce has too much [garlic].",
+      "tr": "Bu sosta çok fazla sarımsak var.",
+      "de": "In dieser Soße ist zu viel Knoblauch.",
+      "fr": "Il y a trop d'ail dans cette sauce.",
+      "it": "In questo sugo c'è troppo aglio.",
+      "es": "Esta salsa lleva demasiado ajo."
+    },
+    {
+      "en": "Some people say [garlic] keeps colds away.",
+      "tr": "Bazıları sarımsağın soğuk algınlığını uzak tuttuğunu söyler.",
+      "de": "Manche sagen, Knoblauch hält Erkältungen fern.",
+      "fr": "Certains disent que l'ail éloigne les rhumes.",
+      "it": "Alcuni dicono che l'aglio tiene lontano il raffreddore.",
+      "es": "Hay quien dice que el ajo aleja los resfriados."
+    }
+  ]
+}

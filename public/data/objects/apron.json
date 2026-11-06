@@ -1,0 +1,52 @@
+{
+  "id": "apron",
+  "name": "apron",
+  "names": {
+    "tr": "önlük",
+    "de": "die Schürze",
+    "fr": "le tablier",
+    "it": "il grembiule",
+    "es": "el delantal"
+  },
+  "definition": {
+    "en": "a piece of cloth worn over the front of clothes to keep them clean",
+    "tr": "giysileri temiz tutmak için önden giyilen kumaş",
+    "de": "ein Stück Stoff, das man vorne über der Kleidung trägt, damit sie sauber bleibt",
+    "fr": "un morceau de tissu porté devant les vêtements pour les protéger",
+    "it": "un pezzo di stoffa indossato davanti ai vestiti per tenerli puliti",
+    "es": "una prenda de tela que se lleva delante de la ropa para no mancharla"
+  },
+  "breakdown": {},
+  "origin": "Middle English a napron misheard as an apron ← Old French naperon (small cloth) ← Latin mappa",
+  "root": null,
+  "image": {
+    "file": "Apron (protective wear).jpg",
+    "wikidata": "Q273831"
+  },
+  "sentences": [
+    {
+      "en": "Put on an [apron] before you cook.",
+      "tr": "Yemek yapmadan önce önlük tak.",
+      "de": "Zieh eine Schürze an, bevor du kochst.",
+      "fr": "Mets un tablier avant de cuisiner.",
+      "it": "Mettiti il grembiule prima di cucinare.",
+      "es": "Ponte el delantal antes de cocinar."
+    },
+    {
+      "en": "His [apron] was covered in flour.",
+      "tr": "Önlüğü un içindeydi.",
+      "de": "Seine Schürze war voller Mehl.",
+      "fr": "Son tablier était couvert de farine.",
+      "it": "Il suo grembiule era pieno di farina.",
+      "es": "Su delantal estaba lleno de harina."
+    },
+    {
+      "en": "He's still tied to his mother's [apron] strings.",
+      "tr": "Hâlâ annesinin eteğine yapışık.",
+      "de": "Er hängt noch an Mutters Rockzipfel.",
+      "fr": "Il est toujours dans les jupes de sa mère.",
+      "it": "È ancora attaccato alla gonna della mamma.",
+      "es": "Sigue pegado a las faldas de su madre."
+    }
+  ]
+}

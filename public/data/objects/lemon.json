@@ -1,0 +1,52 @@
+{
+  "id": "lemon",
+  "name": "lemon",
+  "names": {
+    "tr": "limon",
+    "de": "die Zitrone",
+    "fr": "le citron",
+    "it": "il limone",
+    "es": "el limón"
+  },
+  "definition": {
+    "en": "a yellow fruit with a very sour juice",
+    "tr": "suyu çok ekşi olan sarı meyve",
+    "de": "eine gelbe Frucht mit sehr saurem Saft",
+    "fr": "un fruit jaune au jus très acide",
+    "it": "un frutto giallo dal succo molto aspro",
+    "es": "una fruta amarilla de zumo muy ácido"
+  },
+  "breakdown": {},
+  "origin": "Old French limon ← Arabic laymūn ← Persian līmū",
+  "root": null,
+  "image": {
+    "file": "Lemon.jpg",
+    "wikidata": "Q1093742"
+  },
+  "sentences": [
+    {
+      "en": "Add a squeeze of [lemon] to the fish.",
+      "tr": "Balığın üstüne biraz limon sık.",
+      "de": "Gib etwas Zitronensaft auf den Fisch.",
+      "fr": "Ajoute un filet de citron sur le poisson.",
+      "it": "Aggiungi una spruzzata di limone al pesce.",
+      "es": "Échale un chorrito de limón al pescado."
+    },
+    {
+      "en": "I drink tea with [lemon] and honey.",
+      "tr": "Çayı limon ve balla içerim.",
+      "de": "Ich trinke Tee mit Zitrone und Honig.",
+      "fr": "Je bois du thé au citron et au miel.",
+      "it": "Bevo il tè con limone e miele.",
+      "es": "Tomo té con limón y miel."
+    },
+    {
+      "en": "When life gives you [lemons], make lemonade.",
+      "tr": "Hayat sana limon verirse limonata yap.",
+      "de": "Wenn das Leben dir Zitronen gibt, mach Limonade draus.",
+      "fr": "Quand la vie te donne des citrons, fais de la limonade.",
+      "it": "Se la vita ti dà limoni, fai una limonata.",
+      "es": "Si la vida te da limones, haz limonada."
+    }
+  ]
+}

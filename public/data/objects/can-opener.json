@@ -1,0 +1,82 @@
+{
+  "id": "can-opener",
+  "name": "can opener",
+  "names": {
+    "tr": "konserve açacağı",
+    "de": "der Dosenöffner",
+    "fr": "l'ouvre-boîte",
+    "it": "l'apriscatole",
+    "es": "el abrelatas"
+  },
+  "definition": {
+    "en": "a tool for cutting open metal cans",
+    "tr": "metal konserve kutularını kesip açan alet",
+    "de": "ein Werkzeug zum Öffnen von Konservendosen",
+    "fr": "un outil pour ouvrir les boîtes de conserve",
+    "it": "un attrezzo per aprire le scatolette di metallo",
+    "es": "una herramienta para abrir latas de conserva"
+  },
+  "breakdown": {
+    "en": [
+      {
+        "text": "can",
+        "gloss": "can, tin"
+      },
+      {
+        "text": "open",
+        "gloss": "open"
+      },
+      {
+        "text": "er",
+        "gloss": "thing that does",
+        "affix": "-er"
+      }
+    ],
+    "de": [
+      {
+        "text": "Dosen",
+        "gloss": "can, tin"
+      },
+      {
+        "text": "öffn",
+        "gloss": "open (öffnen)"
+      },
+      {
+        "text": "er",
+        "gloss": "thing that does"
+      }
+    ]
+  },
+  "origin": "can (Old English canne, a cup) + open + -er",
+  "root": null,
+  "image": {
+    "file": "Kitchen-Modern-Can-Opener.jpg",
+    "wikidata": "Q12714"
+  },
+  "sentences": [
+    {
+      "en": "I need a [can opener] for the beans.",
+      "tr": "Fasulye için konserve açacağına ihtiyacım var.",
+      "de": "Ich brauche einen Dosenöffner für die Bohnen.",
+      "fr": "Il me faut un ouvre-boîte pour les haricots.",
+      "it": "Mi serve un apriscatole per i fagioli.",
+      "es": "Necesito un abrelatas para las judías."
+    },
+    {
+      "en": "Don't forget the [can opener] when we go camping.",
+      "tr": "Kampa giderken konserve açacağını unutma.",
+      "de": "Vergiss den Dosenöffner beim Campen nicht.",
+      "fr": "N'oublie pas l'ouvre-boîte pour le camping.",
+      "it": "Non dimenticare l'apriscatole in campeggio.",
+      "es": "No olvides el abrelatas cuando vayamos de acampada."
+    },
+    {
+      "en": "This tin has a ring, so no [can opener] is needed.",
+      "tr": "Bu kutunun halkası var, açacak gerekmez.",
+      "de": "Diese Dose hat einen Ring, man braucht keinen Öffner.",
+      "fr": "Cette boîte a un anneau, pas besoin d'ouvre-boîte.",
+      "it": "Questa scatoletta ha l'anello, non serve l'apriscatole.",
+      "es": "Esta lata tiene anilla, no hace falta abrelatas."
+    }
+  ]
+}

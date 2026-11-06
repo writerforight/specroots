@@ -1,0 +1,52 @@
+{
+  "id": "apple",
+  "name": "apple",
+  "names": {
+    "tr": "elma",
+    "de": "der Apfel",
+    "fr": "la pomme",
+    "it": "la mela",
+    "es": "la manzana"
+  },
+  "definition": {
+    "en": "a round fruit with red, green or yellow skin",
+    "tr": "kırmızı, yeşil ya da sarı kabuklu yuvarlak meyve",
+    "de": "eine runde Frucht mit roter, grüner oder gelber Schale",
+    "fr": "un fruit rond à la peau rouge, verte ou jaune",
+    "it": "un frutto rotondo con la buccia rossa, verde o gialla",
+    "es": "una fruta redonda de piel roja, verde o amarilla"
+  },
+  "breakdown": {},
+  "origin": "Old English æppel (compare German Apfel)",
+  "root": null,
+  "image": {
+    "file": "Honeycrisp.jpg",
+    "wikidata": "Q89"
+  },
+  "sentences": [
+    {
+      "en": "I eat an [apple] every day.",
+      "tr": "Her gün bir elma yerim.",
+      "de": "Ich esse jeden Tag einen Apfel.",
+      "fr": "Je mange une pomme tous les jours.",
+      "it": "Mangio una mela ogni giorno.",
+      "es": "Me como una manzana cada día."
+    },
+    {
+      "en": "She baked an [apple] pie.",
+      "tr": "Elmalı turta pişirdi.",
+      "de": "Sie hat einen Apfelkuchen gebacken.",
+      "fr": "Elle a fait une tarte aux pommes.",
+      "it": "Ha fatto una torta di mele.",
+      "es": "Hizo una tarta de manzana."
+    },
+    {
+      "en": "Her son is the [apple] of her eye.",
+      "tr": "Oğlu onun gözbebeği.",
+      "de": "Ihr Sohn ist ihr Augapfel.",
+      "fr": "Son fils est la prunelle de ses yeux.",
+      "it": "Suo figlio è la luce dei suoi occhi.",
+      "es": "Su hijo es la niña de sus ojos."
+    }
+  ]
+}

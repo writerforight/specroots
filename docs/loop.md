@@ -19,7 +19,7 @@ Repo: `~/Desktop/projects/specroots`. Bağlayıcı kurallar: `SPEC.md`.
 - Aynı test iki turdur düzelmiyorsa ya da push iki kez reddedilirse döngüyü durdur ve nedenini yaz.
 
 ## Sıradaki tur
-liste
+kök
 
 ## Günlük
 - 2026-11-06: döngü kuruldu (D5 listeler iskeleti bitti: 30 nesne, 3 liste; 63 kök).
@@ -30,3 +30,4 @@ liste
 - 2026-11-06: kök turu — sci (+11), nov (+10); toplam 69 kök, 1571 kelime. Yeni ekler: -ness, -ice, omni-. README kök listeleri artık index.json'dan üretiliyor.
 - 2026-11-06: liste turu — mutfak +10 (sink, freezer, napkin, tray, bottle, milk, sugar, flour, tomato, potato); 60 nesne, mutfak 41/100.
 - 2026-11-06: kök turu — mort (+8), viv (+12); toplam 71 kök, 1591 kelime. Yeni ekler: -id, -amin, -gage.
+- 2026-11-06: liste turu — mutfak +10 (lid, peeler, corkscrew, can opener, apron, garlic, lemon, apple, honey, olive oil); 70 nesne, mutfak 51/100.

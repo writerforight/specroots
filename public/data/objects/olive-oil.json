@@ -1,0 +1,73 @@
+{
+  "id": "olive-oil",
+  "name": "olive oil",
+  "names": {
+    "tr": "zeytinyağı",
+    "de": "das Olivenöl",
+    "fr": "l'huile d'olive",
+    "it": "l'olio d'oliva",
+    "es": "el aceite de oliva"
+  },
+  "definition": {
+    "en": "oil pressed from olives, used for cooking and salads",
+    "tr": "zeytinden sıkılan, yemekte ve salatada kullanılan yağ",
+    "de": "aus Oliven gepresstes Öl zum Kochen und für Salate",
+    "fr": "de l'huile pressée à partir d'olives, pour cuisiner et assaisonner",
+    "it": "olio spremuto dalle olive, usato per cucinare e condire",
+    "es": "aceite prensado de aceitunas, para cocinar y aliñar"
+  },
+  "breakdown": {
+    "en": [
+      {
+        "text": "olive",
+        "gloss": "olive"
+      },
+      {
+        "text": "oil",
+        "gloss": "oil (Latin oleum)"
+      }
+    ],
+    "de": [
+      {
+        "text": "Oliven",
+        "gloss": "olive"
+      },
+      {
+        "text": "öl",
+        "gloss": "oil"
+      }
+    ]
+  },
+  "origin": "olive (Latin oliva ← Greek elaía) + oil (Latin oleum, olive oil)",
+  "root": null,
+  "image": {
+    "file": "Italian olive oil 2007.jpg",
+    "wikidata": "Q93165"
+  },
+  "sentences": [
+    {
+      "en": "Fry the onions in [olive oil].",
+      "tr": "Soğanları zeytinyağında kavur.",
+      "de": "Brat die Zwiebeln in Olivenöl an.",
+      "fr": "Fais revenir les oignons dans l'huile d'olive.",
+      "it": "Soffriggi le cipolle nell'olio d'oliva.",
+      "es": "Sofríe la cebolla en aceite de oliva."
+    },
+    {
+      "en": "Pour a little [olive oil] on the salad.",
+      "tr": "Salatanın üstüne biraz zeytinyağı gezdir.",
+      "de": "Gieß ein wenig Olivenöl über den Salat.",
+      "fr": "Verse un peu d'huile d'olive sur la salade.",
+      "it": "Versa un filo d'olio d'oliva sull'insalata.",
+      "es": "Echa un chorrito de aceite de oliva a la ensalada."
+    },
+    {
+      "en": "Spain produces a lot of [olive oil].",
+      "tr": "İspanya çok zeytinyağı üretir.",
+      "de": "Spanien produziert viel Olivenöl.",
+      "fr": "L'Espagne produit beaucoup d'huile d'olive.",
+      "it": "La Spagna produce molto olio d'oliva.",
+      "es": "España produce mucho aceite de oliva."
+    }
+  ]
+}

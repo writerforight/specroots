@@ -1,0 +1,52 @@
+{
+  "id": "honey",
+  "name": "honey",
+  "names": {
+    "tr": "bal",
+    "de": "der Honig",
+    "fr": "le miel",
+    "it": "il miele",
+    "es": "la miel"
+  },
+  "definition": {
+    "en": "a sweet, sticky golden food made by bees",
+    "tr": "arıların yaptığı tatlı, yapışkan, altın renkli besin",
+    "de": "ein süßes, klebriges, goldenes Lebensmittel, das Bienen machen",
+    "fr": "un aliment doux, collant et doré fabriqué par les abeilles",
+    "it": "un alimento dolce, appiccicoso e dorato prodotto dalle api",
+    "es": "un alimento dulce, pegajoso y dorado que hacen las abejas"
+  },
+  "breakdown": {},
+  "origin": "Old English hunig (compare German Honig)",
+  "root": null,
+  "image": {
+    "file": "Runny hunny.jpg",
+    "wikidata": "Q10987"
+  },
+  "sentences": [
+    {
+      "en": "Put some [honey] on your bread.",
+      "tr": "Ekmeğine biraz bal sür.",
+      "de": "Streich etwas Honig auf dein Brot.",
+      "fr": "Mets un peu de miel sur ton pain.",
+      "it": "Metti un po' di miele sul pane.",
+      "es": "Pon un poco de miel en el pan."
+    },
+    {
+      "en": "Bees make [honey] from flowers.",
+      "tr": "Arılar çiçeklerden bal yapar.",
+      "de": "Bienen machen Honig aus Blüten.",
+      "fr": "Les abeilles font le miel à partir des fleurs.",
+      "it": "Le api fanno il miele dai fiori.",
+      "es": "Las abejas hacen miel de las flores."
+    },
+    {
+      "en": "Good night, [honey]!",
+      "tr": "İyi geceler, tatlım!",
+      "de": "Gute Nacht, Schatz!",
+      "fr": "Bonne nuit, mon chéri !",
+      "it": "Buonanotte, tesoro!",
+      "es": "¡Buenas noches, cariño!"
+    }
+  ]
+}

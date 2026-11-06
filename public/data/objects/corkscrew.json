@@ -1,0 +1,77 @@
+{
+  "id": "corkscrew",
+  "name": "corkscrew",
+  "names": {
+    "tr": "tirbuşon",
+    "de": "der Korkenzieher",
+    "fr": "le tire-bouchon",
+    "it": "il cavatappi",
+    "es": "el sacacorchos"
+  },
+  "definition": {
+    "en": "a tool with a twisted metal point for pulling corks out of bottles",
+    "tr": "şişelerden mantarı çekmek için burgulu metal uçlu alet",
+    "de": "ein Werkzeug mit gedrehter Metallspitze, um Korken aus Flaschen zu ziehen",
+    "fr": "un outil à vis en métal pour retirer les bouchons des bouteilles",
+    "it": "un attrezzo con una spirale di metallo per togliere i tappi dalle bottiglie",
+    "es": "una herramienta con espiral de metal para sacar los corchos de las botellas"
+  },
+  "breakdown": {
+    "en": [
+      {
+        "text": "cork",
+        "gloss": "cork"
+      },
+      {
+        "text": "screw",
+        "gloss": "screw"
+      }
+    ],
+    "de": [
+      {
+        "text": "Korken",
+        "gloss": "cork"
+      },
+      {
+        "text": "zieh",
+        "gloss": "pull (ziehen)"
+      },
+      {
+        "text": "er",
+        "gloss": "thing that does"
+      }
+    ]
+  },
+  "origin": "cork + screw (French tire-bouchon and German Korkenzieher both mean cork-puller)",
+  "root": null,
+  "image": {
+    "file": "Corkscrew P1150886.jpg",
+    "wikidata": "Q12337"
+  },
+  "sentences": [
+    {
+      "en": "Do you have a [corkscrew] for the wine?",
+      "tr": "Şarap için tirbuşonun var mı?",
+      "de": "Hast du einen Korkenzieher für den Wein?",
+      "fr": "Tu as un tire-bouchon pour le vin ?",
+      "it": "Hai un cavatappi per il vino?",
+      "es": "¿Tienes un sacacorchos para el vino?"
+    },
+    {
+      "en": "The [corkscrew] broke the cork in half.",
+      "tr": "Tirbuşon mantarı ikiye böldü.",
+      "de": "Der Korkenzieher hat den Korken zerbrochen.",
+      "fr": "Le tire-bouchon a cassé le bouchon en deux.",
+      "it": "Il cavatappi ha spezzato il tappo a metà.",
+      "es": "El sacacorchos partió el corcho por la mitad."
+    },
+    {
+      "en": "Her hair fell in [corkscrew] curls.",
+      "tr": "Saçları burgu burgu bukleler halinde dökülüyordu.",
+      "de": "Ihr Haar fiel in Korkenzieherlocken.",
+      "fr": "Ses cheveux tombaient en anglaises.",
+      "it": "I capelli le cadevano a boccoli.",
+      "es": "El pelo le caía en tirabuzones."
+    }
+  ]
+}
