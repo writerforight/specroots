@@ -43,6 +43,32 @@
     ]
   },
   {
+    "id": "aqu",
+    "forms": [
+      "aqu",
+      "aque",
+      "aqui",
+      "aqua"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "water",
+      "tr": "su",
+      "de": "Wasser",
+      "fr": "eau",
+      "it": "acqua",
+      "es": "agua"
+    },
+    "words": [
+      "aquarium",
+      "aquatic",
+      "aqueduct",
+      "aquifer",
+      "aqueous",
+      "aquamarine"
+    ]
+  },
+  {
     "id": "aud",
     "forms": [
       "aud"
@@ -2604,6 +2630,34 @@
       "contend",
       "contender",
       "superintendent"
+    ]
+  },
+  {
+    "id": "terr",
+    "forms": [
+      "terr",
+      "ter",
+      "terrestr"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "earth, land",
+      "tr": "toprak, kara",
+      "de": "Erde, Land",
+      "fr": "terre",
+      "it": "terra",
+      "es": "tierra"
+    },
+    "words": [
+      "territory",
+      "territorial",
+      "terrain",
+      "terrace",
+      "terrestrial",
+      "extraterrestrial",
+      "subterranean",
+      "terrier",
+      "inter"
     ]
   },
   {

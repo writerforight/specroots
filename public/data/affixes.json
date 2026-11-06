@@ -3296,5 +3296,96 @@
       "es": "prenda (francés antiguo gage)"
     },
     "combining": true
+  },
+  "-ain": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "of, belonging to (French -ain, Latin -anus)",
+      "tr": "-e ait (Fransızca -ain, Latince -anus)",
+      "de": "zugehörig (französisch -ain, lateinisch -anus)",
+      "fr": "qui appartient à (-ain, latin -anus)",
+      "it": "appartenente a (francese -ain, latino -anus)",
+      "es": "perteneciente a (francés -ain, latín -anus)"
+    }
+  },
+  "-ace": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "noun ending (Old French -ace)",
+      "tr": "isim eki (Eski Fransızca -ace)",
+      "de": "Nomenendung (altfranzösisch -ace)",
+      "fr": "terminaison de nom (ancien français -ace)",
+      "it": "desinenza di nome (francese antico -ace)",
+      "es": "terminación de sustantivo (francés antiguo -ace)"
+    }
+  },
+  "-anean": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "of, belonging to (Latin -aneus)",
+      "tr": "-e ait (Latince -aneus)",
+      "de": "zugehörig (lateinisch -aneus)",
+      "fr": "qui appartient à (latin -aneus)",
+      "it": "appartenente a (latino -aneus)",
+      "es": "perteneciente a (latín -aneus)"
+    }
+  },
+  "-arium": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "place for (Latin -arium)",
+      "tr": "için yer (Latince -arium)",
+      "de": "Ort für (lateinisch -arium)",
+      "fr": "lieu pour (latin -arium)",
+      "it": "luogo per (latino -arium)",
+      "es": "lugar para (latín -arium)"
+    }
+  },
+  "-atic": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "relating to (makes an adjective)",
+      "tr": "ile ilgili (sıfat yapar)",
+      "de": "bezogen auf (bildet ein Adjektiv)",
+      "fr": "relatif à (forme un adjectif)",
+      "it": "relativo a (forma un aggettivo)",
+      "es": "relativo a (forma un adjetivo)"
+    }
+  },
+  "-duct": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "led, a channel (Latin ductus, from ducere)",
+      "tr": "yönlendirilmiş, kanal (Latince ductus, ducere'den)",
+      "de": "geleitet, Kanal (lateinisch ductus, von ducere)",
+      "fr": "conduit (latin ductus, de ducere)",
+      "it": "condotto (latino ductus, da ducere)",
+      "es": "conducido, canal (latín ductus, de ducere)"
+    },
+    "combining": true
+  },
+  "-fer": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "carrying (Latin ferre)",
+      "tr": "taşıyan (Latince ferre)",
+      "de": "tragend (lateinisch ferre)",
+      "fr": "qui porte (latin ferre)",
+      "it": "che porta (latino ferre)",
+      "es": "que lleva (latín ferre)"
+    },
+    "combining": true
+  },
+  "-marine": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "of the sea (Latin marinus, from mare)",
+      "tr": "denize ait (Latince marinus, mare'den)",
+      "de": "zum Meer gehörig (lateinisch marinus, von mare)",
+      "fr": "de la mer (latin marinus, de mare)",
+      "it": "del mare (latino marinus, da mare)",
+      "es": "del mar (latín marinus, de mare)"
+    },
+    "combining": true
   }
 }

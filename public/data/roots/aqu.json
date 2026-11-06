@@ -1,0 +1,231 @@
+{
+  "id": "aqu",
+  "forms": [
+    "aqu",
+    "aque",
+    "aqui",
+    "aqua"
+  ],
+  "origin": "la",
+  "etymon": "aqua",
+  "meaning": {
+    "en": "water",
+    "tr": "su",
+    "de": "Wasser",
+    "fr": "eau",
+    "it": "acqua",
+    "es": "agua"
+  },
+  "words": [
+    {
+      "id": "aquarium",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "aqu",
+        "-arium"
+      ],
+      "gloss": {
+        "en": "a glass tank or building where fish and sea animals are kept",
+        "tr": "akvaryum",
+        "de": "das Aquarium",
+        "fr": "l'aquarium",
+        "it": "l'acquario",
+        "es": "el acuario"
+      },
+      "sentences": [
+        {
+          "en": "We saw sharks at the [aquarium].",
+          "tr": "Akvaryumda köpekbalıkları gördük.",
+          "de": "Wir haben im Aquarium Haie gesehen.",
+          "fr": "Nous avons vu des requins à l'aquarium.",
+          "it": "Abbiamo visto squali all'acquario.",
+          "es": "Vimos tiburones en el acuario."
+        },
+        {
+          "en": "He keeps goldfish in a small [aquarium].",
+          "tr": "Küçük bir akvaryumda japon balıkları besliyor.",
+          "de": "Er hält Goldfische in einem kleinen Aquarium.",
+          "fr": "Il garde des poissons rouges dans un petit aquarium.",
+          "it": "Tiene pesci rossi in un piccolo acquario.",
+          "es": "Tiene peces de colores en un acuario pequeño."
+        }
+      ]
+    },
+    {
+      "id": "aquatic",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "aqu",
+        "-atic"
+      ],
+      "gloss": {
+        "en": "living in or about water",
+        "tr": "suda yaşayan, su ile ilgili",
+        "de": "Wasser-, im Wasser lebend",
+        "fr": "aquatique",
+        "it": "acquatico",
+        "es": "acuático"
+      },
+      "sentences": [
+        {
+          "en": "Frogs and fish are [aquatic] animals.",
+          "tr": "Kurbağalar ve balıklar su hayvanıdır.",
+          "de": "Frösche und Fische sind Wassertiere.",
+          "fr": "Les grenouilles et les poissons sont des animaux aquatiques.",
+          "it": "Rane e pesci sono animali acquatici.",
+          "es": "Las ranas y los peces son animales acuáticos."
+        },
+        {
+          "en": "The [aquatic] centre has three pools.",
+          "tr": "Su sporları merkezinde üç havuz var.",
+          "de": "Das Wassersportzentrum hat drei Becken.",
+          "fr": "Le centre aquatique a trois bassins.",
+          "it": "Il centro acquatico ha tre piscine.",
+          "es": "El centro acuático tiene tres piscinas."
+        }
+      ]
+    },
+    {
+      "id": "aqueduct",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "aque",
+        "-duct"
+      ],
+      "gloss": {
+        "en": "a bridge or channel that carries water over a long distance; literally: water-leader",
+        "tr": "su kemeri",
+        "de": "das Aquädukt",
+        "fr": "l'aqueduc",
+        "it": "l'acquedotto",
+        "es": "el acueducto"
+      },
+      "sentences": [
+        {
+          "en": "The Romans built a huge [aqueduct] here.",
+          "tr": "Romalılar burada büyük bir su kemeri inşa etti.",
+          "de": "Die Römer bauten hier ein riesiges Aquädukt.",
+          "fr": "Les Romains ont construit ici un immense aqueduc.",
+          "it": "I romani costruirono qui un enorme acquedotto.",
+          "es": "Los romanos construyeron aquí un enorme acueducto."
+        },
+        {
+          "en": "Istanbul still has the Valens [Aqueduct].",
+          "tr": "İstanbul'da hâlâ Bozdoğan Kemeri duruyor.",
+          "de": "In Istanbul steht noch das Valens-Aquädukt.",
+          "fr": "Istanbul a toujours l'aqueduc de Valens.",
+          "it": "Istanbul ha ancora l'acquedotto di Valente.",
+          "es": "Estambul aún conserva el acueducto de Valente."
+        }
+      ]
+    },
+    {
+      "id": "aquifer",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "aqui",
+        "-fer"
+      ],
+      "gloss": {
+        "en": "a layer of rock under the ground that holds water; literally: water-carrier",
+        "tr": "akifer, yeraltı su katmanı",
+        "de": "der Grundwasserleiter",
+        "fr": "l'aquifère",
+        "it": "la falda acquifera",
+        "es": "el acuífero"
+      },
+      "sentences": [
+        {
+          "en": "The town gets its water from an [aquifer].",
+          "tr": "Kasaba suyunu bir yeraltı su katmanından alıyor.",
+          "de": "Die Stadt bezieht ihr Wasser aus einem Grundwasserleiter.",
+          "fr": "La ville tire son eau d'un aquifère.",
+          "it": "La città prende l'acqua da una falda acquifera.",
+          "es": "El pueblo obtiene el agua de un acuífero."
+        },
+        {
+          "en": "Farming is draining the [aquifer].",
+          "tr": "Tarım yeraltı suyunu tüketiyor.",
+          "de": "Die Landwirtschaft leert den Grundwasserleiter.",
+          "fr": "L'agriculture épuise l'aquifère.",
+          "it": "L'agricoltura sta prosciugando la falda.",
+          "es": "La agricultura está agotando el acuífero."
+        }
+      ]
+    },
+    {
+      "id": "aqueous",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "aque",
+        "-ous"
+      ],
+      "gloss": {
+        "en": "of or containing water (science)",
+        "tr": "sulu, su içeren",
+        "de": "wässrig",
+        "fr": "aqueux",
+        "it": "acquoso",
+        "es": "acuoso"
+      },
+      "sentences": [
+        {
+          "en": "Salt dissolves in an [aqueous] solution.",
+          "tr": "Tuz sulu bir çözeltide çözünür.",
+          "de": "Salz löst sich in einer wässrigen Lösung.",
+          "fr": "Le sel se dissout dans une solution aqueuse.",
+          "it": "Il sale si scioglie in una soluzione acquosa.",
+          "es": "La sal se disuelve en una solución acuosa."
+        },
+        {
+          "en": "The eye is filled with an [aqueous] liquid.",
+          "tr": "Göz sulu bir sıvıyla doludur.",
+          "de": "Das Auge ist mit einer wässrigen Flüssigkeit gefüllt.",
+          "fr": "L'œil est rempli d'un liquide aqueux.",
+          "it": "L'occhio è pieno di un liquido acquoso.",
+          "es": "El ojo está lleno de un líquido acuoso."
+        }
+      ]
+    },
+    {
+      "id": "aquamarine",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "aqua",
+        "-marine"
+      ],
+      "gloss": {
+        "en": "a blue-green stone or colour; literally: sea water",
+        "tr": "akuamarin (mavi-yeşil taş ya da renk)",
+        "de": "der Aquamarin",
+        "fr": "l'aigue-marine",
+        "it": "l'acquamarina",
+        "es": "la aguamarina"
+      },
+      "sentences": [
+        {
+          "en": "Her ring has an [aquamarine] stone.",
+          "tr": "Yüzüğünde akuamarin bir taş var.",
+          "de": "Ihr Ring hat einen Aquamarin.",
+          "fr": "Sa bague porte une aigue-marine.",
+          "it": "Il suo anello ha un'acquamarina.",
+          "es": "Su anillo tiene una aguamarina."
+        },
+        {
+          "en": "The sea was a clear [aquamarine].",
+          "tr": "Deniz berrak, mavi-yeşil bir renkteydi.",
+          "de": "Das Meer war klar aquamarinblau.",
+          "fr": "La mer était d'un bleu aigue-marine limpide.",
+          "it": "Il mare era di un limpido color acquamarina.",
+          "es": "El mar era de un claro color aguamarina."
+        }
+      ]
+    }
+  ]
+}

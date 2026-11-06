@@ -1,0 +1,340 @@
+{
+  "id": "terr",
+  "forms": [
+    "terr",
+    "ter",
+    "terrestr"
+  ],
+  "origin": "la",
+  "etymon": "terra",
+  "meaning": {
+    "en": "earth, land",
+    "tr": "toprak, kara",
+    "de": "Erde, Land",
+    "fr": "terre",
+    "it": "terra",
+    "es": "tierra"
+  },
+  "words": [
+    {
+      "id": "territory",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "terr",
+        "-it",
+        "-ory"
+      ],
+      "gloss": {
+        "en": "an area of land that belongs to a country, person or animal",
+        "tr": "toprak, bölge, egemenlik alanı",
+        "de": "das Gebiet, das Territorium",
+        "fr": "le territoire",
+        "it": "il territorio",
+        "es": "el territorio"
+      },
+      "sentences": [
+        {
+          "en": "The island is French [territory].",
+          "tr": "Ada Fransız toprağıdır.",
+          "de": "Die Insel ist französisches Gebiet.",
+          "fr": "L'île est un territoire français.",
+          "it": "L'isola è territorio francese.",
+          "es": "La isla es territorio francés."
+        },
+        {
+          "en": "Cats defend their [territory].",
+          "tr": "Kediler kendi bölgelerini korur.",
+          "de": "Katzen verteidigen ihr Revier.",
+          "fr": "Les chats défendent leur territoire.",
+          "it": "I gatti difendono il loro territorio.",
+          "es": "Los gatos defienden su territorio."
+        }
+      ]
+    },
+    {
+      "id": "territorial",
+      "pos": "adjective",
+      "parent": "territory",
+      "parts": [
+        "terr",
+        "-it",
+        "-or",
+        "-ial"
+      ],
+      "gloss": {
+        "en": "about land or an area; wanting to defend one's area",
+        "tr": "toprakla ilgili; bölgesini kıskanan",
+        "de": "territorial, Gebiets-; revierbezogen",
+        "fr": "territorial",
+        "it": "territoriale",
+        "es": "territorial"
+      },
+      "sentences": [
+        {
+          "en": "The two countries have a [territorial] dispute.",
+          "tr": "İki ülkenin toprak anlaşmazlığı var.",
+          "de": "Die beiden Länder haben einen Gebietsstreit.",
+          "fr": "Les deux pays ont un différend territorial.",
+          "it": "I due paesi hanno una disputa territoriale.",
+          "es": "Los dos países tienen un conflicto territorial."
+        },
+        {
+          "en": "Dogs can be very [territorial].",
+          "tr": "Köpekler bölgelerini çok kıskanabilir.",
+          "de": "Hunde können sehr revierbezogen sein.",
+          "fr": "Les chiens peuvent être très territoriaux.",
+          "it": "I cani possono essere molto territoriali.",
+          "es": "Los perros pueden ser muy territoriales."
+        }
+      ]
+    },
+    {
+      "id": "terrain",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "terr",
+        "-ain"
+      ],
+      "gloss": {
+        "en": "land and what it is like (hills, rocks, flat)",
+        "tr": "arazi",
+        "de": "das Gelände",
+        "fr": "le terrain",
+        "it": "il terreno",
+        "es": "el terreno"
+      },
+      "sentences": [
+        {
+          "en": "The [terrain] here is rocky and steep.",
+          "tr": "Buradaki arazi kayalık ve dik.",
+          "de": "Das Gelände hier ist felsig und steil.",
+          "fr": "Le terrain ici est rocheux et escarpé.",
+          "it": "Il terreno qui è roccioso e ripido.",
+          "es": "El terreno aquí es rocoso y empinado."
+        },
+        {
+          "en": "This bike is good on any [terrain].",
+          "tr": "Bu bisiklet her arazide iyi gider.",
+          "de": "Dieses Rad fährt in jedem Gelände gut.",
+          "fr": "Ce vélo roule bien sur tout terrain.",
+          "it": "Questa bici va bene su ogni terreno.",
+          "es": "Esta bici va bien en cualquier terreno."
+        }
+      ]
+    },
+    {
+      "id": "terrace",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "terr",
+        "-ace"
+      ],
+      "gloss": {
+        "en": "a flat area outside a building or cut into a hill",
+        "tr": "teras; set",
+        "de": "die Terrasse",
+        "fr": "la terrasse",
+        "it": "la terrazza",
+        "es": "la terraza"
+      },
+      "sentences": [
+        {
+          "en": "We had breakfast on the [terrace].",
+          "tr": "Kahvaltıyı terasta yaptık.",
+          "de": "Wir frühstückten auf der Terrasse.",
+          "fr": "Nous avons pris le petit-déjeuner sur la terrasse.",
+          "it": "Abbiamo fatto colazione sulla terrazza.",
+          "es": "Desayunamos en la terraza."
+        },
+        {
+          "en": "Rice grows on [terraces] in the hills.",
+          "tr": "Pirinç tepelerdeki setlerde yetişir.",
+          "de": "Reis wächst auf Terrassen in den Hügeln.",
+          "fr": "Le riz pousse en terrasses sur les collines.",
+          "it": "Il riso cresce su terrazze in collina.",
+          "es": "El arroz crece en terrazas en las colinas."
+        }
+      ]
+    },
+    {
+      "id": "terrestrial",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "terrestr",
+        "-ial"
+      ],
+      "gloss": {
+        "en": "of the Earth or of land (not water or space)",
+        "tr": "karasal, dünyaya ait",
+        "de": "irdisch; Land-",
+        "fr": "terrestre",
+        "it": "terrestre",
+        "es": "terrestre"
+      },
+      "sentences": [
+        {
+          "en": "Lions are [terrestrial] animals.",
+          "tr": "Aslanlar kara hayvanıdır.",
+          "de": "Löwen sind Landtiere.",
+          "fr": "Les lions sont des animaux terrestres.",
+          "it": "I leoni sono animali terrestri.",
+          "es": "Los leones son animales terrestres."
+        },
+        {
+          "en": "Some TV still comes by [terrestrial] signal.",
+          "tr": "Bazı televizyon yayınları hâlâ karasal sinyalle geliyor.",
+          "de": "Manches Fernsehen kommt noch per Antenne.",
+          "fr": "Certaines chaînes arrivent encore par voie hertzienne terrestre.",
+          "it": "Alcune TV arrivano ancora col segnale terrestre.",
+          "es": "Algunos canales llegan aún por señal terrestre."
+        }
+      ]
+    },
+    {
+      "id": "extraterrestrial",
+      "pos": "adjective",
+      "parent": "terrestrial",
+      "parts": [
+        "extra-",
+        "terrestr",
+        "-ial"
+      ],
+      "gloss": {
+        "en": "from outside the Earth (also a noun: an alien)",
+        "tr": "dünya dışı; (isim) uzaylı",
+        "de": "außerirdisch; (Nomen) der Außerirdische",
+        "fr": "extraterrestre",
+        "it": "extraterrestre",
+        "es": "extraterrestre"
+      },
+      "sentences": [
+        {
+          "en": "Scientists look for [extraterrestrial] life.",
+          "tr": "Bilim insanları dünya dışı yaşam arıyor.",
+          "de": "Forscher suchen nach außerirdischem Leben.",
+          "fr": "Les scientifiques cherchent une vie extraterrestre.",
+          "it": "Gli scienziati cercano la vita extraterrestre.",
+          "es": "Los científicos buscan vida extraterrestre."
+        },
+        {
+          "en": "In the film, an [extraterrestrial] lands in a garden.",
+          "tr": "Filmde bir uzaylı bir bahçeye iniyor.",
+          "de": "Im Film landet ein Außerirdischer in einem Garten.",
+          "fr": "Dans le film, un extraterrestre atterrit dans un jardin.",
+          "it": "Nel film un extraterrestre atterra in un giardino.",
+          "es": "En la película, un extraterrestre aterriza en un jardín."
+        }
+      ]
+    },
+    {
+      "id": "subterranean",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "sub-",
+        "terr",
+        "-anean"
+      ],
+      "gloss": {
+        "en": "under the ground",
+        "tr": "yeraltı",
+        "de": "unterirdisch",
+        "fr": "souterrain",
+        "it": "sotterraneo",
+        "es": "subterráneo"
+      },
+      "sentences": [
+        {
+          "en": "The city has [subterranean] tunnels.",
+          "tr": "Şehrin yeraltı tünelleri var.",
+          "de": "Die Stadt hat unterirdische Tunnel.",
+          "fr": "La ville a des tunnels souterrains.",
+          "it": "La città ha tunnel sotterranei.",
+          "es": "La ciudad tiene túneles subterráneos."
+        },
+        {
+          "en": "A [subterranean] river runs below the cave.",
+          "tr": "Mağaranın altından bir yeraltı nehri akıyor.",
+          "de": "Unter der Höhle fließt ein unterirdischer Fluss.",
+          "fr": "Une rivière souterraine coule sous la grotte.",
+          "it": "Sotto la grotta scorre un fiume sotterraneo.",
+          "es": "Bajo la cueva corre un río subterráneo."
+        }
+      ]
+    },
+    {
+      "id": "terrier",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "terr",
+        "-ier"
+      ],
+      "gloss": {
+        "en": "a small dog first bred to dig animals out of the earth",
+        "tr": "teriyer (küçük köpek)",
+        "de": "der Terrier",
+        "fr": "le terrier (chien)",
+        "it": "il terrier",
+        "es": "el terrier"
+      },
+      "sentences": [
+        {
+          "en": "Our [terrier] digs holes in the garden.",
+          "tr": "Teriyerimiz bahçede çukur kazıyor.",
+          "de": "Unser Terrier gräbt Löcher im Garten.",
+          "fr": "Notre terrier creuse des trous dans le jardin.",
+          "it": "Il nostro terrier scava buche in giardino.",
+          "es": "Nuestro terrier cava agujeros en el jardín."
+        },
+        {
+          "en": "The little [terrier] barked at the postman.",
+          "tr": "Küçük teriyer postacıya havladı.",
+          "de": "Der kleine Terrier bellte den Briefträger an.",
+          "fr": "Le petit terrier a aboyé contre le facteur.",
+          "it": "Il piccolo terrier ha abbaiato al postino.",
+          "es": "El pequeño terrier le ladró al cartero."
+        }
+      ]
+    },
+    {
+      "id": "inter",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "in-",
+        "ter"
+      ],
+      "gloss": {
+        "en": "to bury a dead person (formal); literally: to put into the earth",
+        "tr": "toprağa vermek, gömmek",
+        "de": "beisetzen, bestatten",
+        "fr": "inhumer, enterrer",
+        "it": "seppellire, inumare",
+        "es": "enterrar, inhumar"
+      },
+      "sentences": [
+        {
+          "en": "The poet was [interred] in his home town.",
+          "tr": "Şair memleketinde toprağa verildi.",
+          "de": "Der Dichter wurde in seiner Heimatstadt beigesetzt.",
+          "fr": "Le poète a été inhumé dans sa ville natale.",
+          "it": "Il poeta è stato sepolto nella sua città natale.",
+          "es": "El poeta fue enterrado en su ciudad natal."
+        },
+        {
+          "en": "Kings were [interred] in the old church.",
+          "tr": "Krallar eski kiliseye gömülürdü.",
+          "de": "Die Könige wurden in der alten Kirche bestattet.",
+          "fr": "Les rois étaient inhumés dans la vieille église.",
+          "it": "I re venivano sepolti nella vecchia chiesa.",
+          "es": "Los reyes eran enterrados en la antigua iglesia."
+        }
+      ]
+    }
+  ]
+}

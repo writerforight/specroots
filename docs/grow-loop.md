@@ -45,7 +45,7 @@ yanına `(az: N)` yaz. Toplam hedef ≈ 1000–2000 kelime.
 - Aynı test iki turdur düzelmiyorsa ya da push reddediliyorsa döngüyü durdur ve nedenini yaz.
 
 ## Durum
-Kök: 71 · Kelime: 1598 kayıt, 1591 ayrı kelime (5 birleşik kelime iki kökte). Kuyruk bitti; D2 kapandı (2026-10-19, 949 kelime). 2026-10-22: mevcut köklere +177 kelime, 51. kök nunci (+15), 52. kök cad (+20). 2026-10-29: mevcut 37 köke +177 kelime. 2026-10-30: 53. kök tempt (+10), 54. kök act (+25), 55. kök nect (+13). 2026-10-31: 56. kök trib (+14); pel'e appeal ailesi (+3). 2026-11-06: 57. kök prehend (+19); 58. kök sequ (+14), 59. kök solv (+11), 60. kök vinc (+12); 61. kök leg (+14), 62. kök sum (+10), 63. kök scend (+9).
+Kök: 73 · Kelime: 1613 kayıt, 1605 ayrı kelime (5 birleşik kelime iki kökte). Kuyruk bitti; D2 kapandı (2026-10-19, 949 kelime). 2026-10-22: mevcut köklere +177 kelime, 51. kök nunci (+15), 52. kök cad (+20). 2026-10-29: mevcut 37 köke +177 kelime. 2026-10-30: 53. kök tempt (+10), 54. kök act (+25), 55. kök nect (+13). 2026-10-31: 56. kök trib (+14); pel'e appeal ailesi (+3). 2026-11-06: 57. kök prehend (+19); 58. kök sequ (+14), 59. kök solv (+11), 60. kök vinc (+12); 61. kök leg (+14), 62. kök sum (+10), 63. kök scend (+9).
 
 ## Kuyruk
 
@@ -121,8 +121,8 @@ Latince (`"origin": "la"`):
 - [x] nov — 10 (az: 10) — yeni (novel, novice, innovate, renovate)
 - [x] mort — 8 (az: 8) — ölüm (mortal, immortal, mortgage, mortify)
 - [x] viv / vit — 12 (az: 12) — yaşamak (vivid, survive, revive, vital, vitamin)
-- [ ] terr — toprak (territory, terrain, terrace, Mediterranean, extraterrestrial)
-- [ ] aqu — su (aquarium, aquatic, aqueduct)
+- [x] terr — 9 (az: 9) — toprak (territory, terrain, terrace, Mediterranean, extraterrestrial)
+- [x] aqu — 6 (az: 6) — su (aquarium, aquatic, aqueduct)
 - [ ] ann / enn — yıl (annual, anniversary, annuity, perennial, millennium)
 - [ ] fort — güç (fort, fortress, effort, comfort, fortify)
 - [ ] grat — hoş, teşekkür (grateful, gratitude, congratulate, gratis)
