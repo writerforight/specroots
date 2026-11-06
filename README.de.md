@@ -29,7 +29,7 @@ Wer eine Wurzel kennt, versteht Dutzende Wörter. *spec / spect* heißt „schau
 
 ## Bisherige Wurzeln
 
-81 Wurzeln und 1687 Wörter, jedes mit zwei Beispielsätzen. Dazu **110 Alltagsgegenstände** in Wortlisten (Kreide, Sieb, Nudelholz…) mit Foto und ihrem Namen in allen sechs Sprachen.
+81 Wurzeln und 1687 Wörter, jedes mit zwei Beispielsätzen. Dazu **119 Alltagsgegenstände** in Wortlisten (Kreide, Sieb, Nudelholz…) mit Foto und ihrem Namen in allen sechs Sprachen.
 
 - **Lateinisch (71):** `act` · `ann` · `aqu` · `aud` · `cad` · `cap` · `ced` · `cid` · `clud` · `corp` · `cred` · `cur` · `dict` · `duc` · `fac` · `fer` · `fin` · `flect` · `form` · `fort` · `grad` · `grat` · `ject` · `junct` · `leg` · `loc` · `magn` · `mand` · `manu` · `ment` · `mit` · `mort` · `mov` · `nat` · `nect` · `nomin` · `nov` · `nunci` · `ped` · `pel` · `pend` · `plic` · `port` · `pos` · `prehend` · `press` · `rupt` · `scend` · `sci` · `scrib` · `sent` · `sequ` · `sign` · `sist` · `solv` · `spec` · `spir` · `struct` · `sum` · `tempt` · `ten` · `tend` · `terr` · `tract` · `trib` · `ven` · `vert` · `vid` · `vinc` · `viv` · `voc`
 - **Griechisch (10):** `bio` · `chron` · `graph` · `log` · `metr` · `morph` · `path` · `phon` · `photo` · `scop`

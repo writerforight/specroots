@@ -1,0 +1,73 @@
+{
+  "id": "cookbook",
+  "name": "cookbook",
+  "names": {
+    "tr": "yemek kitabı",
+    "de": "das Kochbuch",
+    "fr": "le livre de cuisine",
+    "it": "il ricettario",
+    "es": "el libro de cocina"
+  },
+  "definition": {
+    "en": "a book of recipes and cooking advice",
+    "tr": "tarifler ve yemek pişirme önerileri içeren kitap",
+    "de": "ein Buch mit Rezepten und Kochtipps",
+    "fr": "un livre de recettes et de conseils de cuisine",
+    "it": "un libro di ricette e consigli di cucina",
+    "es": "un libro de recetas y consejos de cocina"
+  },
+  "breakdown": {
+    "en": [
+      {
+        "text": "cook",
+        "gloss": "cook"
+      },
+      {
+        "text": "book",
+        "gloss": "book"
+      }
+    ],
+    "de": [
+      {
+        "text": "Koch",
+        "gloss": "cook (kochen)"
+      },
+      {
+        "text": "buch",
+        "gloss": "book"
+      }
+    ]
+  },
+  "origin": "cook (Latin coquus) + book",
+  "root": null,
+  "image": {
+    "file": "Handwritten cookbook by Dorothea Grimm.jpg",
+    "wikidata": "Q605076"
+  },
+  "sentences": [
+    {
+      "en": "I found this soup in an old [cookbook].",
+      "tr": "Bu çorbayı eski bir yemek kitabında buldum.",
+      "de": "Ich habe diese Suppe in einem alten Kochbuch gefunden.",
+      "fr": "J'ai trouvé cette soupe dans un vieux livre de cuisine.",
+      "it": "Ho trovato questa zuppa in un vecchio ricettario.",
+      "es": "Encontré esta sopa en un viejo libro de cocina."
+    },
+    {
+      "en": "My grandmother wrote her own [cookbook] by hand.",
+      "tr": "Babaannem kendi yemek kitabını elle yazdı.",
+      "de": "Meine Oma hat ihr eigenes Kochbuch von Hand geschrieben.",
+      "fr": "Ma grand-mère a écrit son propre livre de cuisine à la main.",
+      "it": "Mia nonna ha scritto a mano il suo ricettario.",
+      "es": "Mi abuela escribió a mano su propio libro de cocina."
+    },
+    {
+      "en": "She gave me a vegetarian [cookbook].",
+      "tr": "Bana vejetaryen bir yemek kitabı hediye etti.",
+      "de": "Sie schenkte mir ein vegetarisches Kochbuch.",
+      "fr": "Elle m'a offert un livre de cuisine végétarienne.",
+      "it": "Mi ha regalato un ricettario vegetariano.",
+      "es": "Me regaló un libro de cocina vegetariana."
+    }
+  ]
+}

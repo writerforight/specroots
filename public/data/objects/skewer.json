@@ -1,0 +1,52 @@
+{
+  "id": "skewer",
+  "name": "skewer",
+  "names": {
+    "tr": "şiş",
+    "de": "der Spieß",
+    "fr": "la brochette",
+    "it": "lo spiedo",
+    "es": "la brocheta"
+  },
+  "definition": {
+    "en": "a long thin metal or wooden stick for holding pieces of food while cooking",
+    "tr": "pişirirken yiyecek parçalarını tutmak için uzun ince metal ya da tahta çubuk",
+    "de": "ein langer dünner Stab aus Metall oder Holz, auf den man Essen zum Garen steckt",
+    "fr": "une longue tige fine en métal ou en bois pour tenir les morceaux d'aliments à la cuisson",
+    "it": "un lungo bastoncino di metallo o legno per infilare il cibo da cuocere",
+    "es": "un palo largo y fino de metal o madera para ensartar la comida al cocinarla"
+  },
+  "breakdown": {},
+  "origin": "Middle English skiver (origin unclear); Turkish şiş gave English shish kebab",
+  "root": null,
+  "image": {
+    "file": "Wooden skewers.jpg",
+    "wikidata": "Q1323569"
+  },
+  "sentences": [
+    {
+      "en": "Put the meat and peppers on a [skewer].",
+      "tr": "Eti ve biberleri bir şişe diz.",
+      "de": "Steck Fleisch und Paprika auf einen Spieß.",
+      "fr": "Enfile la viande et les poivrons sur une brochette.",
+      "it": "Infila la carne e i peperoni sullo spiedo.",
+      "es": "Ensarta la carne y los pimientos en una brocheta."
+    },
+    {
+      "en": "Soak wooden [skewers] in water first.",
+      "tr": "Tahta şişleri önce suda beklet.",
+      "de": "Leg Holzspieße vorher in Wasser ein.",
+      "fr": "Fais d'abord tremper les brochettes en bois dans l'eau.",
+      "it": "Metti prima gli spiedini di legno in ammollo.",
+      "es": "Pon antes las brochetas de madera en agua."
+    },
+    {
+      "en": "The barbecue smelled of lamb on [skewers].",
+      "tr": "Mangal şişteki kuzu eti kokuyordu.",
+      "de": "Der Grill duftete nach Lammspießen.",
+      "fr": "Le barbecue sentait les brochettes d'agneau.",
+      "it": "Il barbecue profumava di spiedini d'agnello.",
+      "es": "La barbacoa olía a brochetas de cordero."
+    }
+  ]
+}

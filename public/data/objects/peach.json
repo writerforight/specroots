@@ -1,0 +1,52 @@
+{
+  "id": "peach",
+  "name": "peach",
+  "names": {
+    "tr": "şeftali",
+    "de": "der Pfirsich",
+    "fr": "la pêche",
+    "it": "la pesca",
+    "es": "el melocotón"
+  },
+  "definition": {
+    "en": "a round juicy fruit with soft furry skin and a big stone",
+    "tr": "yumuşak tüylü kabuklu, iri çekirdekli, sulu, yuvarlak meyve",
+    "de": "eine runde saftige Frucht mit weicher, pelziger Schale und großem Kern",
+    "fr": "un fruit rond et juteux à la peau duvetée et au gros noyau",
+    "it": "un frutto rotondo e succoso con buccia vellutata e grosso nocciolo",
+    "es": "una fruta redonda y jugosa de piel aterciopelada y hueso grande"
+  },
+  "breakdown": {},
+  "origin": "Old French pesche ← Latin persicum (Persian apple; German Pfirsich is the same word)",
+  "root": null,
+  "image": {
+    "file": "Autumn Red peaches.jpg",
+    "wikidata": "Q13202263"
+  },
+  "sentences": [
+    {
+      "en": "This [peach] is ripe and sweet.",
+      "tr": "Bu şeftali olgun ve tatlı.",
+      "de": "Dieser Pfirsich ist reif und süß.",
+      "fr": "Cette pêche est mûre et sucrée.",
+      "it": "Questa pesca è matura e dolce.",
+      "es": "Este melocotón está maduro y dulce."
+    },
+    {
+      "en": "She made a [peach] pie for the guests.",
+      "tr": "Misafirler için şeftalili turta yaptı.",
+      "de": "Sie backte einen Pfirsichkuchen für die Gäste.",
+      "fr": "Elle a fait une tarte aux pêches pour les invités.",
+      "it": "Ha fatto una crostata di pesche per gli ospiti.",
+      "es": "Hizo una tarta de melocotón para los invitados."
+    },
+    {
+      "en": "Wash the [peaches] before you eat them.",
+      "tr": "Şeftalileri yemeden önce yıka.",
+      "de": "Wasch die Pfirsiche, bevor du sie isst.",
+      "fr": "Lave les pêches avant de les manger.",
+      "it": "Lava le pesche prima di mangiarle.",
+      "es": "Lava los melocotones antes de comerlos."
+    }
+  ]
+}

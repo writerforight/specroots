@@ -1,0 +1,52 @@
+{
+  "id": "cherry",
+  "name": "cherry",
+  "names": {
+    "tr": "kiraz",
+    "de": "die Kirsche",
+    "fr": "la cerise",
+    "it": "la ciliegia",
+    "es": "la cereza"
+  },
+  "definition": {
+    "en": "a small round red fruit with a stone inside",
+    "tr": "içinde çekirdeği olan küçük, yuvarlak, kırmızı meyve",
+    "de": "eine kleine runde rote Frucht mit einem Kern",
+    "fr": "un petit fruit rond et rouge avec un noyau",
+    "it": "un piccolo frutto rotondo e rosso con un nocciolo",
+    "es": "una fruta pequeña, redonda y roja con hueso"
+  },
+  "breakdown": {},
+  "origin": "Old North French cherise ← Latin cerasum ← Greek kerasós (Turkish kiraz is the same word)",
+  "root": null,
+  "image": {
+    "file": "Cherry Stella444.jpg",
+    "wikidata": "Q196"
+  },
+  "sentences": [
+    {
+      "en": "The [cherries] in Turkey are delicious.",
+      "tr": "Türkiye'nin kirazları çok lezzetli.",
+      "de": "Die Kirschen in der Türkei sind köstlich.",
+      "fr": "Les cerises de Turquie sont délicieuses.",
+      "it": "Le ciliegie della Turchia sono deliziose.",
+      "es": "Las cerezas de Turquía son deliciosas."
+    },
+    {
+      "en": "Mind the stones when you eat [cherries].",
+      "tr": "Kiraz yerken çekirdeklere dikkat et.",
+      "de": "Pass beim Kirschenessen auf die Kerne auf.",
+      "fr": "Attention aux noyaux quand tu manges des cerises.",
+      "it": "Attento ai noccioli quando mangi le ciliegie.",
+      "es": "Cuidado con los huesos al comer cerezas."
+    },
+    {
+      "en": "That win was the [cherry] on the cake.",
+      "tr": "O galibiyet pastanın üstündeki kiraz oldu.",
+      "de": "Der Sieg war das Sahnehäubchen.",
+      "fr": "Cette victoire, c'était la cerise sur le gâteau.",
+      "it": "Quella vittoria è stata la ciliegina sulla torta.",
+      "es": "Esa victoria fue la guinda del pastel."
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "lunchbox",
+  "name": "lunchbox",
+  "names": {
+    "tr": "beslenme kutusu",
+    "de": "die Brotdose",
+    "fr": "la boîte à lunch",
+    "it": "il portapranzo",
+    "es": "la fiambrera"
+  },
+  "definition": {
+    "en": "a small box for carrying food to school or work",
+    "tr": "okula ya da işe yemek götürmek için küçük kutu",
+    "de": "eine kleine Dose, um Essen zur Schule oder Arbeit mitzunehmen",
+    "fr": "une petite boîte pour emporter son repas à l'école ou au travail",
+    "it": "una piccola scatola per portare il pranzo a scuola o al lavoro",
+    "es": "una caja pequeña para llevar comida al colegio o al trabajo"
+  },
+  "breakdown": {
+    "en": [
+      {
+        "text": "lunch",
+        "gloss": "lunch"
+      },
+      {
+        "text": "box",
+        "gloss": "box"
+      }
+    ],
+    "de": [
+      {
+        "text": "Brot",
+        "gloss": "bread"
+      },
+      {
+        "text": "dose",
+        "gloss": "tin, box"
+      }
+    ]
+  },
+  "origin": "lunch + box",
+  "root": null,
+  "image": {
+    "file": "Henkelmänner.jpg",
+    "wikidata": "Q694311"
+  },
+  "sentences": [
+    {
+      "en": "Don't forget your [lunchbox]!",
+      "tr": "Beslenme kutunu unutma!",
+      "de": "Vergiss deine Brotdose nicht!",
+      "fr": "N'oublie pas ta boîte à lunch !",
+      "it": "Non dimenticare il portapranzo!",
+      "es": "¡No te olvides la fiambrera!"
+    },
+    {
+      "en": "I put a sandwich and an apple in his [lunchbox].",
+      "tr": "Beslenme kutusuna bir sandviç ve bir elma koydum.",
+      "de": "Ich habe ihm ein Brot und einen Apfel in die Brotdose gelegt.",
+      "fr": "J'ai mis un sandwich et une pomme dans sa boîte à lunch.",
+      "it": "Gli ho messo un panino e una mela nel portapranzo.",
+      "es": "Le metí un bocadillo y una manzana en la fiambrera."
+    },
+    {
+      "en": "Workers ate from metal [lunchboxes] at the factory.",
+      "tr": "İşçiler fabrikada metal sefer taslarından yemek yerdi.",
+      "de": "Die Arbeiter aßen in der Fabrik aus Henkelmännern.",
+      "fr": "Les ouvriers mangeaient dans des gamelles en métal à l'usine.",
+      "it": "Gli operai mangiavano dalle gavette di metallo in fabbrica.",
+      "es": "Los obreros comían de fiambreras de metal en la fábrica."
+    }
+  ]
+}

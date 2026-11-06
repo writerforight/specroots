@@ -1,0 +1,73 @@
+{
+  "id": "chickpea",
+  "name": "chickpea",
+  "names": {
+    "tr": "nohut",
+    "de": "die Kichererbse",
+    "fr": "le pois chiche",
+    "it": "il cece",
+    "es": "el garbanzo"
+  },
+  "definition": {
+    "en": "a round pale yellow seed eaten as food, used in hummus",
+    "tr": "humusta da kullanılan, yenen, yuvarlak açık sarı tane",
+    "de": "ein runder, hellgelber Samen, den man isst, z. B. im Hummus",
+    "fr": "une graine ronde jaune pâle que l'on mange, par exemple dans le houmous",
+    "it": "un seme tondo giallo chiaro che si mangia, per esempio nell'hummus",
+    "es": "una semilla redonda amarillo claro que se come, por ejemplo en el hummus"
+  },
+  "breakdown": {
+    "en": [
+      {
+        "text": "chick",
+        "gloss": "chick (Latin cicer)"
+      },
+      {
+        "text": "pea",
+        "gloss": "pea"
+      }
+    ],
+    "de": [
+      {
+        "text": "Kicher",
+        "gloss": "chickpea (Latin cicer)"
+      },
+      {
+        "text": "erbse",
+        "gloss": "pea"
+      }
+    ]
+  },
+  "origin": "chich (French chiche ← Latin cicer) + pea; German Kichererbse also from cicer",
+  "root": null,
+  "image": {
+    "file": "Chickpea.jpg",
+    "wikidata": "Q21156930"
+  },
+  "sentences": [
+    {
+      "en": "Hummus is made from [chickpeas].",
+      "tr": "Humus nohuttan yapılır.",
+      "de": "Hummus wird aus Kichererbsen gemacht.",
+      "fr": "Le houmous est fait de pois chiches.",
+      "it": "L'hummus si fa con i ceci.",
+      "es": "El hummus se hace con garbanzos."
+    },
+    {
+      "en": "Soak the [chickpeas] overnight.",
+      "tr": "Nohutları bir gece suda beklet.",
+      "de": "Weich die Kichererbsen über Nacht ein.",
+      "fr": "Fais tremper les pois chiches toute la nuit.",
+      "it": "Metti i ceci in ammollo per una notte.",
+      "es": "Pon los garbanzos en remojo toda la noche."
+    },
+    {
+      "en": "Rice with [chickpeas] is a classic Turkish dish.",
+      "tr": "Nohutlu pilav klasik bir Türk yemeğidir.",
+      "de": "Reis mit Kichererbsen ist ein türkischer Klassiker.",
+      "fr": "Le riz aux pois chiches est un plat turc classique.",
+      "it": "Il riso con i ceci è un piatto turco classico.",
+      "es": "El arroz con garbanzos es un plato turco clásico."
+    }
+  ]
+}

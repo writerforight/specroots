@@ -1,0 +1,73 @@
+{
+  "id": "strawberry",
+  "name": "strawberry",
+  "names": {
+    "tr": "çilek",
+    "de": "die Erdbeere",
+    "fr": "la fraise",
+    "it": "la fragola",
+    "es": "la fresa"
+  },
+  "definition": {
+    "en": "a small soft red fruit with tiny seeds on the outside",
+    "tr": "dışında minik çekirdekleri olan küçük, yumuşak, kırmızı meyve",
+    "de": "eine kleine weiche rote Frucht mit winzigen Kernen außen",
+    "fr": "un petit fruit rouge et tendre avec de minuscules graines dehors",
+    "it": "un piccolo frutto rosso e morbido con minuscoli semi all'esterno",
+    "es": "una fruta pequeña, blanda y roja con semillitas por fuera"
+  },
+  "breakdown": {
+    "en": [
+      {
+        "text": "straw",
+        "gloss": "straw"
+      },
+      {
+        "text": "berry",
+        "gloss": "berry"
+      }
+    ],
+    "de": [
+      {
+        "text": "Erd",
+        "gloss": "earth (Erde)"
+      },
+      {
+        "text": "beere",
+        "gloss": "berry"
+      }
+    ]
+  },
+  "origin": "Old English strēawberige (straw + berry; perhaps from the runners that look like straw)",
+  "root": null,
+  "image": {
+    "file": "Fragaria vesca (41503723130).jpg",
+    "wikidata": "Q745"
+  },
+  "sentences": [
+    {
+      "en": "I love [strawberries] with cream.",
+      "tr": "Kremalı çileğe bayılırım.",
+      "de": "Ich liebe Erdbeeren mit Sahne.",
+      "fr": "J'adore les fraises à la chantilly.",
+      "it": "Adoro le fragole con la panna.",
+      "es": "Me encantan las fresas con nata."
+    },
+    {
+      "en": "We picked [strawberries] on a farm.",
+      "tr": "Bir çiftlikte çilek topladık.",
+      "de": "Wir haben auf einem Hof Erdbeeren gepflückt.",
+      "fr": "Nous avons cueilli des fraises dans une ferme.",
+      "it": "Abbiamo raccolto fragole in una fattoria.",
+      "es": "Cogimos fresas en una granja."
+    },
+    {
+      "en": "This cake has fresh [strawberries] on top.",
+      "tr": "Bu pastanın üstünde taze çilek var.",
+      "de": "Auf diesem Kuchen liegen frische Erdbeeren.",
+      "fr": "Ce gâteau est garni de fraises fraîches.",
+      "it": "Questa torta ha fragole fresche sopra.",
+      "es": "Este pastel lleva fresas frescas encima."
+    }
+  ]
+}

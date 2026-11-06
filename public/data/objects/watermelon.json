@@ -1,0 +1,73 @@
+{
+  "id": "watermelon",
+  "name": "watermelon",
+  "names": {
+    "tr": "karpuz",
+    "de": "die Wassermelone",
+    "fr": "la pastèque",
+    "it": "l'anguria",
+    "es": "la sandía"
+  },
+  "definition": {
+    "en": "a very large round fruit with green skin and sweet red flesh",
+    "tr": "yeşil kabuklu, tatlı kırmızı içli çok büyük yuvarlak meyve",
+    "de": "eine sehr große runde Frucht mit grüner Schale und süßem rotem Fruchtfleisch",
+    "fr": "un très gros fruit rond à la peau verte et à la chair rouge et sucrée",
+    "it": "un frutto molto grande e rotondo, con buccia verde e polpa rossa e dolce",
+    "es": "una fruta muy grande y redonda, de piel verde y pulpa roja y dulce"
+  },
+  "breakdown": {
+    "en": [
+      {
+        "text": "water",
+        "gloss": "water"
+      },
+      {
+        "text": "melon",
+        "gloss": "melon"
+      }
+    ],
+    "de": [
+      {
+        "text": "Wasser",
+        "gloss": "water"
+      },
+      {
+        "text": "melone",
+        "gloss": "melon"
+      }
+    ]
+  },
+  "origin": "water + melon (Greek mēlopépōn, apple-gourd)",
+  "root": null,
+  "image": {
+    "file": "Water melon 2015.jpg",
+    "wikidata": "Q38645"
+  },
+  "sentences": [
+    {
+      "en": "Nothing is better than cold [watermelon] in summer.",
+      "tr": "Yazın soğuk karpuzdan iyisi yok.",
+      "de": "Im Sommer geht nichts über kalte Wassermelone.",
+      "fr": "Rien ne vaut une pastèque fraîche en été.",
+      "it": "D'estate niente batte un'anguria fresca.",
+      "es": "En verano no hay nada mejor que sandía fría."
+    },
+    {
+      "en": "We ate [watermelon] with white cheese.",
+      "tr": "Beyaz peynirle karpuz yedik.",
+      "de": "Wir aßen Wassermelone mit Schafskäse.",
+      "fr": "Nous avons mangé de la pastèque avec du fromage blanc.",
+      "it": "Abbiamo mangiato anguria con formaggio bianco.",
+      "es": "Comimos sandía con queso blanco."
+    },
+    {
+      "en": "This [watermelon] is too heavy to carry.",
+      "tr": "Bu karpuz taşınamayacak kadar ağır.",
+      "de": "Diese Wassermelone ist zu schwer zum Tragen.",
+      "fr": "Cette pastèque est trop lourde à porter.",
+      "it": "Quest'anguria è troppo pesante da portare.",
+      "es": "Esta sandía pesa demasiado para llevarla."
+    }
+  ]
+}

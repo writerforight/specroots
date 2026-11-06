@@ -1,0 +1,82 @@
+{
+  "id": "kitchen-timer",
+  "name": "kitchen timer",
+  "names": {
+    "tr": "mutfak zamanlayıcısı",
+    "de": "der Küchenwecker",
+    "fr": "le minuteur",
+    "it": "il timer da cucina",
+    "es": "el temporizador de cocina"
+  },
+  "definition": {
+    "en": "a small clock that rings when the cooking time is over",
+    "tr": "pişirme süresi bitince çalan küçük saat",
+    "de": "eine kleine Uhr, die klingelt, wenn die Garzeit vorbei ist",
+    "fr": "une petite horloge qui sonne quand le temps de cuisson est fini",
+    "it": "un piccolo orologio che suona quando il tempo di cottura è finito",
+    "es": "un pequeño reloj que suena cuando acaba el tiempo de cocción"
+  },
+  "breakdown": {
+    "en": [
+      {
+        "text": "kitchen",
+        "gloss": "kitchen"
+      },
+      {
+        "text": "tim",
+        "gloss": "time"
+      },
+      {
+        "text": "er",
+        "gloss": "thing that does",
+        "affix": "-er"
+      }
+    ],
+    "de": [
+      {
+        "text": "Küchen",
+        "gloss": "kitchen"
+      },
+      {
+        "text": "weck",
+        "gloss": "wake (wecken)"
+      },
+      {
+        "text": "er",
+        "gloss": "thing that does"
+      }
+    ]
+  },
+  "origin": "kitchen + timer (time + -er)",
+  "root": null,
+  "image": {
+    "file": "Lux Minute Minder timer.jpg",
+    "wikidata": "Q1411787"
+  },
+  "sentences": [
+    {
+      "en": "Set the [kitchen timer] for ten minutes.",
+      "tr": "Mutfak zamanlayıcısını on dakikaya kur.",
+      "de": "Stell den Küchenwecker auf zehn Minuten.",
+      "fr": "Règle le minuteur sur dix minutes.",
+      "it": "Imposta il timer da cucina su dieci minuti.",
+      "es": "Pon el temporizador de cocina a diez minutos."
+    },
+    {
+      "en": "The [kitchen timer] rang, so the eggs are ready.",
+      "tr": "Zamanlayıcı çaldı, yumurtalar hazır.",
+      "de": "Der Küchenwecker hat geklingelt, die Eier sind fertig.",
+      "fr": "Le minuteur a sonné, les œufs sont prêts.",
+      "it": "Il timer ha suonato, le uova sono pronte.",
+      "es": "Ha sonado el temporizador, los huevos están listos."
+    },
+    {
+      "en": "I use a [kitchen timer] to study in short blocks.",
+      "tr": "Kısa bloklar halinde çalışmak için mutfak zamanlayıcısı kullanırım.",
+      "de": "Ich lerne mit einem Küchenwecker in kurzen Blöcken.",
+      "fr": "J'utilise un minuteur pour étudier par courtes séances.",
+      "it": "Uso un timer da cucina per studiare a blocchi brevi.",
+      "es": "Uso un temporizador de cocina para estudiar en bloques cortos."
+    }
+  ]
+}

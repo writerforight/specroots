@@ -19,7 +19,7 @@ Repo: `~/Desktop/projects/specroots`. Bağlayıcı kurallar: `SPEC.md`.
 - Aynı test iki turdur düzelmiyorsa ya da push iki kez reddedilirse döngüyü durdur ve nedenini yaz.
 
 ## Sıradaki tur
-liste
+kök
 
 ## Günlük
 - 2026-11-06: döngü kuruldu (D5 listeler iskeleti bitti: 30 nesne, 3 liste; 63 kök).
@@ -40,3 +40,4 @@ liste
 - 2026-11-06: kök turu — ment (+8), nat (+12); toplam 79 kök, 1664 kelime. Yeni ek yok.
 - 2026-11-06: liste turu — mutfak +10 (tablecloth, toothpick, ice cube, water, jam, soup, mushroom, pear, grape, walnut); 110 nesne, mutfak 91/100.
 - 2026-11-06: kök turu — nomin (+9), sign (+14); toplam 81 kök, 1687 kelime. Yeni ek yok. anonymous (Yunanca onoma) bilerek dışarıda.
+- 2026-11-06: liste turu — mutfak +9 (skewer, cookbook, kitchen timer, lunchbox, watermelon, strawberry, cherry, peach, chickpea); MUTFAK 100/100 BİTTİ; 119 nesne. Sıradaki liste: banyo.
