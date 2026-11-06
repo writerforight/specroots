@@ -1,0 +1,52 @@
+{
+  "id": "pasta",
+  "name": "pasta",
+  "names": {
+    "tr": "makarna",
+    "de": "die Nudeln",
+    "fr": "les pâtes",
+    "it": "la pasta",
+    "es": "la pasta"
+  },
+  "definition": {
+    "en": "an Italian food made of flour and water, in many shapes, cooked in water",
+    "tr": "un ve sudan yapılan, pek çok şekli olan, suda pişirilen İtalyan yemeği",
+    "de": "ein italienisches Lebensmittel aus Mehl und Wasser in vielen Formen, in Wasser gekocht",
+    "fr": "un aliment italien à base de farine et d'eau, de formes variées, cuit à l'eau",
+    "it": "un alimento italiano di farina e acqua, in molte forme, cotto in acqua",
+    "es": "un alimento italiano de harina y agua, con muchas formas, que se cuece en agua"
+  },
+  "breakdown": {},
+  "origin": "Italian pasta ← Late Latin pasta (dough, paste)",
+  "root": null,
+  "image": {
+    "file": "Pasta IMG 3985.JPG",
+    "wikidata": "Q178"
+  },
+  "sentences": [
+    {
+      "en": "Cook the [pasta] for ten minutes.",
+      "tr": "Makarnayı on dakika haşla.",
+      "de": "Koch die Nudeln zehn Minuten.",
+      "fr": "Fais cuire les pâtes dix minutes.",
+      "it": "Cuoci la pasta per dieci minuti.",
+      "es": "Cuece la pasta diez minutos."
+    },
+    {
+      "en": "Students eat a lot of [pasta].",
+      "tr": "Öğrenciler çok makarna yer.",
+      "de": "Studenten essen viele Nudeln.",
+      "fr": "Les étudiants mangent beaucoup de pâtes.",
+      "it": "Gli studenti mangiano molta pasta.",
+      "es": "Los estudiantes comen mucha pasta."
+    },
+    {
+      "en": "We had [pasta] with tomato sauce.",
+      "tr": "Domates soslu makarna yedik.",
+      "de": "Wir hatten Nudeln mit Tomatensoße.",
+      "fr": "Nous avons mangé des pâtes à la sauce tomate.",
+      "it": "Abbiamo mangiato pasta al pomodoro.",
+      "es": "Comimos pasta con salsa de tomate."
+    }
+  ]
+}

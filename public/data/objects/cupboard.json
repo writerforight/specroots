@@ -1,0 +1,73 @@
+{
+  "id": "cupboard",
+  "name": "cupboard",
+  "names": {
+    "tr": "dolap",
+    "de": "der Küchenschrank",
+    "fr": "le placard",
+    "it": "l'armadietto",
+    "es": "el armario"
+  },
+  "definition": {
+    "en": "a piece of furniture with doors and shelves for keeping dishes or food",
+    "tr": "tabak ya da yiyecek koymak için kapaklı, raflı mobilya",
+    "de": "ein Möbelstück mit Türen und Fächern für Geschirr oder Vorräte",
+    "fr": "un meuble à portes et étagères pour ranger la vaisselle ou la nourriture",
+    "it": "un mobile con ante e ripiani per piatti o cibo",
+    "es": "un mueble con puertas y baldas para guardar platos o comida"
+  },
+  "breakdown": {
+    "en": [
+      {
+        "text": "cup",
+        "gloss": "cup"
+      },
+      {
+        "text": "board",
+        "gloss": "board, shelf"
+      }
+    ],
+    "de": [
+      {
+        "text": "Küchen",
+        "gloss": "kitchen"
+      },
+      {
+        "text": "schrank",
+        "gloss": "cupboard"
+      }
+    ]
+  },
+  "origin": "cup + board (a board or shelf for cups)",
+  "root": null,
+  "image": {
+    "file": "Franke kitchen systems.jpg",
+    "wikidata": "Q1306022"
+  },
+  "sentences": [
+    {
+      "en": "The plates are in the top [cupboard].",
+      "tr": "Tabaklar üst dolapta.",
+      "de": "Die Teller sind im oberen Schrank.",
+      "fr": "Les assiettes sont dans le placard du haut.",
+      "it": "I piatti sono nell'armadietto in alto.",
+      "es": "Los platos están en el armario de arriba."
+    },
+    {
+      "en": "Our kitchen [cupboards] are almost empty.",
+      "tr": "Mutfak dolaplarımız neredeyse boş.",
+      "de": "Unsere Küchenschränke sind fast leer.",
+      "fr": "Nos placards de cuisine sont presque vides.",
+      "it": "I nostri armadietti della cucina sono quasi vuoti.",
+      "es": "Los armarios de nuestra cocina están casi vacíos."
+    },
+    {
+      "en": "Close the [cupboard] door, please.",
+      "tr": "Dolabın kapağını kapat lütfen.",
+      "de": "Mach bitte die Schranktür zu.",
+      "fr": "Ferme la porte du placard, s'il te plaît.",
+      "it": "Chiudi l'anta dell'armadietto, per favore.",
+      "es": "Cierra la puerta del armario, por favor."
+    }
+  ]
+}

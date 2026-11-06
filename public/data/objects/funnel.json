@@ -1,0 +1,52 @@
+{
+  "id": "funnel",
+  "name": "funnel",
+  "names": {
+    "tr": "huni",
+    "de": "der Trichter",
+    "fr": "l'entonnoir",
+    "it": "l'imbuto",
+    "es": "el embudo"
+  },
+  "definition": {
+    "en": "a tube that is wide at the top and narrow at the bottom, for pouring liquids",
+    "tr": "sıvı dökmek için üstü geniş, altı dar boru",
+    "de": "ein oben weites, unten enges Rohr zum Umfüllen von Flüssigkeiten",
+    "fr": "un tube large en haut et étroit en bas pour verser des liquides",
+    "it": "un tubo largo in alto e stretto in basso per versare liquidi",
+    "es": "un tubo ancho arriba y estrecho abajo para echar líquidos"
+  },
+  "breakdown": {},
+  "origin": "Old Provençal fonilh ← Latin infundibulum (from infundere, to pour in)",
+  "root": null,
+  "image": {
+    "file": "Kitchen Funnel.jpg",
+    "wikidata": "Q29957"
+  },
+  "sentences": [
+    {
+      "en": "Use a [funnel] to fill the bottle.",
+      "tr": "Şişeyi doldurmak için huni kullan.",
+      "de": "Nimm einen Trichter, um die Flasche zu füllen.",
+      "fr": "Utilise un entonnoir pour remplir la bouteille.",
+      "it": "Usa un imbuto per riempire la bottiglia.",
+      "es": "Usa un embudo para llenar la botella."
+    },
+    {
+      "en": "Without a [funnel], I spilled the oil.",
+      "tr": "Huni olmadan yağı döktüm.",
+      "de": "Ohne Trichter habe ich das Öl verschüttet.",
+      "fr": "Sans entonnoir, j'ai renversé l'huile.",
+      "it": "Senza imbuto ho rovesciato l'olio.",
+      "es": "Sin embudo, derramé el aceite."
+    },
+    {
+      "en": "The storm cloud had the shape of a [funnel].",
+      "tr": "Fırtına bulutu huni şeklindeydi.",
+      "de": "Die Sturmwolke hatte die Form eines Trichters.",
+      "fr": "Le nuage d'orage avait la forme d'un entonnoir.",
+      "it": "La nuvola temporalesca aveva la forma di un imbuto.",
+      "es": "La nube de tormenta tenía forma de embudo."
+    }
+  ]
+}

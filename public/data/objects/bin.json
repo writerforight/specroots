@@ -1,0 +1,63 @@
+{
+  "id": "bin",
+  "name": "bin",
+  "names": {
+    "tr": "çöp kovası",
+    "de": "der Mülleimer",
+    "fr": "la poubelle",
+    "it": "la pattumiera",
+    "es": "el cubo de la basura"
+  },
+  "definition": {
+    "en": "a container for rubbish (US English: trash can)",
+    "tr": "çöp koymak için kap",
+    "de": "ein Behälter für Abfall",
+    "fr": "un récipient pour les déchets",
+    "it": "un contenitore per i rifiuti",
+    "es": "un recipiente para la basura"
+  },
+  "breakdown": {
+    "de": [
+      {
+        "text": "Müll",
+        "gloss": "rubbish"
+      },
+      {
+        "text": "eimer",
+        "gloss": "bucket"
+      }
+    ]
+  },
+  "origin": "Old English binn (a basket, a manger)",
+  "root": null,
+  "image": {
+    "file": "2015 Madeira Samsung (48).jpg",
+    "wikidata": "Q216530"
+  },
+  "sentences": [
+    {
+      "en": "Throw the peel in the [bin].",
+      "tr": "Kabuğu çöpe at.",
+      "de": "Wirf die Schale in den Mülleimer.",
+      "fr": "Jette l'épluchure à la poubelle.",
+      "it": "Butta la buccia nella pattumiera.",
+      "es": "Tira la piel al cubo de la basura."
+    },
+    {
+      "en": "Can you take the [bin] out tonight?",
+      "tr": "Bu akşam çöpü dışarı çıkarabilir misin?",
+      "de": "Kannst du heute Abend den Müll rausbringen?",
+      "fr": "Tu peux sortir la poubelle ce soir ?",
+      "it": "Puoi portare fuori la spazzatura stasera?",
+      "es": "¿Puedes sacar la basura esta noche?"
+    },
+    {
+      "en": "Plastic goes in the yellow [bin].",
+      "tr": "Plastik sarı kovaya atılır.",
+      "de": "Plastik kommt in die gelbe Tonne.",
+      "fr": "Le plastique va dans la poubelle jaune.",
+      "it": "La plastica va nel bidone giallo.",
+      "es": "El plástico va al contenedor amarillo."
+    }
+  ]
+}

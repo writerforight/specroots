@@ -1,0 +1,63 @@
+{
+  "id": "vinegar",
+  "name": "vinegar",
+  "names": {
+    "tr": "sirke",
+    "de": "der Essig",
+    "fr": "le vinaigre",
+    "it": "l'aceto",
+    "es": "el vinagre"
+  },
+  "definition": {
+    "en": "a sour liquid made from wine or apples, used in salads",
+    "tr": "şarap ya da elmadan yapılan, salatada kullanılan ekşi sıvı",
+    "de": "eine saure Flüssigkeit aus Wein oder Äpfeln, für Salate",
+    "fr": "un liquide acide fait de vin ou de pommes, pour les salades",
+    "it": "un liquido acido fatto di vino o mele, usato nelle insalate",
+    "es": "un líquido ácido hecho de vino o manzana, para ensaladas"
+  },
+  "breakdown": {
+    "en": [
+      {
+        "text": "vin",
+        "gloss": "wine (French vin)"
+      },
+      {
+        "text": "egar",
+        "gloss": "sour (French aigre)"
+      }
+    ]
+  },
+  "origin": "Old French vin aigre (sour wine) ← Latin vinum + acer (sharp)",
+  "root": null,
+  "image": {
+    "file": "Vinegar infused with oregano.jpg",
+    "wikidata": "Q41354"
+  },
+  "sentences": [
+    {
+      "en": "Mix oil and [vinegar] for the salad.",
+      "tr": "Salata için yağ ve sirkeyi karıştır.",
+      "de": "Misch Öl und Essig für den Salat.",
+      "fr": "Mélange l'huile et le vinaigre pour la salade.",
+      "it": "Mescola olio e aceto per l'insalata.",
+      "es": "Mezcla aceite y vinagre para la ensalada."
+    },
+    {
+      "en": "[Vinegar] also cleans windows well.",
+      "tr": "Sirke camları da iyi temizler.",
+      "de": "Essig putzt auch gut Fenster.",
+      "fr": "Le vinaigre nettoie aussi bien les vitres.",
+      "it": "L'aceto pulisce bene anche i vetri.",
+      "es": "El vinagre también limpia bien los cristales."
+    },
+    {
+      "en": "These pickles are kept in [vinegar].",
+      "tr": "Bu turşular sirkede saklanıyor.",
+      "de": "Diese Gurken sind in Essig eingelegt.",
+      "fr": "Ces cornichons sont conservés dans le vinaigre.",
+      "it": "Questi sottaceti sono conservati nell'aceto.",
+      "es": "Estos encurtidos se conservan en vinagre."
+    }
+  ]
+}

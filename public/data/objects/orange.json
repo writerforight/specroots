@@ -1,0 +1,52 @@
+{
+  "id": "orange",
+  "name": "orange",
+  "names": {
+    "tr": "portakal",
+    "de": "die Orange",
+    "fr": "l'orange",
+    "it": "l'arancia",
+    "es": "la naranja"
+  },
+  "definition": {
+    "en": "a round, juicy fruit with a thick orange skin",
+    "tr": "kalın turuncu kabuklu, sulu, yuvarlak meyve",
+    "de": "eine runde, saftige Frucht mit dicker orangefarbener Schale",
+    "fr": "un fruit rond et juteux à la peau épaisse et orange",
+    "it": "un frutto rotondo e succoso con la buccia spessa e arancione",
+    "es": "una fruta redonda y jugosa de piel gruesa y naranja"
+  },
+  "breakdown": {},
+  "origin": "Old French orenge ← Arabic nāranj ← Persian ← Sanskrit nāraṅga (a norange became an orange)",
+  "root": null,
+  "image": {
+    "file": "Oranges - whole-halved-segment.jpg",
+    "wikidata": "Q13191"
+  },
+  "sentences": [
+    {
+      "en": "Peel an [orange] for the children.",
+      "tr": "Çocuklar için bir portakal soy.",
+      "de": "Schäl eine Orange für die Kinder.",
+      "fr": "Épluche une orange pour les enfants.",
+      "it": "Sbuccia un'arancia per i bambini.",
+      "es": "Pela una naranja para los niños."
+    },
+    {
+      "en": "I'd like a fresh [orange] juice.",
+      "tr": "Taze sıkılmış portakal suyu istiyorum.",
+      "de": "Ich hätte gern einen frisch gepressten Orangensaft.",
+      "fr": "Je voudrais un jus d'orange pressé.",
+      "it": "Vorrei una spremuta d'arancia.",
+      "es": "Quiero un zumo de naranja natural."
+    },
+    {
+      "en": "Spain grows a lot of [oranges].",
+      "tr": "İspanya'da çok portakal yetişir.",
+      "de": "In Spanien wachsen viele Orangen.",
+      "fr": "L'Espagne cultive beaucoup d'oranges.",
+      "it": "La Spagna coltiva molte arance.",
+      "es": "En España se cultivan muchas naranjas."
+    }
+  ]
+}

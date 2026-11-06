@@ -1,0 +1,52 @@
+{
+  "id": "mug",
+  "name": "mug",
+  "names": {
+    "tr": "kupa",
+    "de": "der Becher",
+    "fr": "la tasse (mug)",
+    "it": "la tazza grande",
+    "es": "la taza grande"
+  },
+  "definition": {
+    "en": "a big cup with straight sides and a handle",
+    "tr": "düz kenarlı, kulplu büyük fincan",
+    "de": "eine große Tasse mit geraden Seiten und Henkel",
+    "fr": "une grande tasse à bords droits avec une anse",
+    "it": "una tazza grande con i lati dritti e il manico",
+    "es": "una taza grande de lados rectos con asa"
+  },
+  "breakdown": {},
+  "origin": "probably Scandinavian (compare Swedish mugg)",
+  "root": null,
+  "image": {
+    "file": "Wikipedia mug.jpg",
+    "wikidata": "Q386215"
+  },
+  "sentences": [
+    {
+      "en": "I drink tea from a big [mug].",
+      "tr": "Çayı büyük bir kupadan içerim.",
+      "de": "Ich trinke Tee aus einem großen Becher.",
+      "fr": "Je bois mon thé dans une grande tasse.",
+      "it": "Bevo il tè in una tazza grande.",
+      "es": "Tomo el té en una taza grande."
+    },
+    {
+      "en": "She gave me a [mug] with my name on it.",
+      "tr": "Bana üstünde adım yazan bir kupa verdi.",
+      "de": "Sie schenkte mir einen Becher mit meinem Namen.",
+      "fr": "Elle m'a offert une tasse avec mon prénom.",
+      "it": "Mi ha regalato una tazza con il mio nome.",
+      "es": "Me regaló una taza con mi nombre."
+    },
+    {
+      "en": "Wash your [mug] after the meeting.",
+      "tr": "Toplantıdan sonra kupanı yıka.",
+      "de": "Spül deinen Becher nach der Besprechung.",
+      "fr": "Lave ta tasse après la réunion.",
+      "it": "Lava la tua tazza dopo la riunione.",
+      "es": "Lava tu taza después de la reunión."
+    }
+  ]
+}

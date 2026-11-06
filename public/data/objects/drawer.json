@@ -1,0 +1,74 @@
+{
+  "id": "drawer",
+  "name": "drawer",
+  "names": {
+    "tr": "çekmece",
+    "de": "die Schublade",
+    "fr": "le tiroir",
+    "it": "il cassetto",
+    "es": "el cajón"
+  },
+  "definition": {
+    "en": "a box in a piece of furniture that you pull out to open",
+    "tr": "açmak için dışarı çekilen, mobilyanın içindeki kutu",
+    "de": "ein Kasten in einem Möbel, den man zum Öffnen herauszieht",
+    "fr": "une boîte dans un meuble qu'on tire pour l'ouvrir",
+    "it": "una scatola in un mobile che si tira per aprirla",
+    "es": "una caja en un mueble que se saca tirando de ella"
+  },
+  "breakdown": {
+    "en": [
+      {
+        "text": "draw",
+        "gloss": "pull (draw)"
+      },
+      {
+        "text": "er",
+        "gloss": "thing that does",
+        "affix": "-er"
+      }
+    ],
+    "de": [
+      {
+        "text": "Schub",
+        "gloss": "push (schieben)"
+      },
+      {
+        "text": "lade",
+        "gloss": "box, chest"
+      }
+    ]
+  },
+  "origin": "draw (to pull, Old English dragan) + -er: the thing you pull out",
+  "root": null,
+  "image": {
+    "file": "Szuflada.jpg",
+    "wikidata": "Q223575"
+  },
+  "sentences": [
+    {
+      "en": "The spoons are in the top [drawer].",
+      "tr": "Kaşıklar üst çekmecede.",
+      "de": "Die Löffel sind in der obersten Schublade.",
+      "fr": "Les cuillères sont dans le tiroir du haut.",
+      "it": "I cucchiai sono nel primo cassetto.",
+      "es": "Las cucharas están en el cajón de arriba."
+    },
+    {
+      "en": "This [drawer] is stuck again.",
+      "tr": "Bu çekmece yine sıkıştı.",
+      "de": "Diese Schublade klemmt schon wieder.",
+      "fr": "Ce tiroir est encore coincé.",
+      "it": "Questo cassetto si è incastrato di nuovo.",
+      "es": "Este cajón se ha vuelto a atascar."
+    },
+    {
+      "en": "The plan went straight into the bottom [drawer].",
+      "tr": "Plan doğrudan rafa kaldırıldı.",
+      "de": "Der Plan verschwand gleich in der Schublade.",
+      "fr": "Le projet a fini directement au fond d'un tiroir.",
+      "it": "Il progetto è finito subito in un cassetto.",
+      "es": "El plan se quedó directamente en un cajón."
+    }
+  ]
+}

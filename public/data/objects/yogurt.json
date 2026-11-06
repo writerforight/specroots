@@ -1,0 +1,52 @@
+{
+  "id": "yogurt",
+  "name": "yogurt",
+  "names": {
+    "tr": "yoğurt",
+    "de": "der Joghurt",
+    "fr": "le yaourt",
+    "it": "lo yogurt",
+    "es": "el yogur"
+  },
+  "definition": {
+    "en": "a thick, slightly sour food made from milk",
+    "tr": "sütten yapılan, koyu ve hafif ekşi yiyecek",
+    "de": "ein dickes, leicht saures Lebensmittel aus Milch",
+    "fr": "un aliment épais et un peu acide fait de lait",
+    "it": "un alimento denso e un po' acido fatto di latte",
+    "es": "un alimento espeso y algo ácido hecho de leche"
+  },
+  "breakdown": {},
+  "origin": "Turkish yoğurt (from yoğurmak, to knead, to thicken)",
+  "root": null,
+  "image": {
+    "file": "Joghurt.jpg",
+    "wikidata": "Q13317"
+  },
+  "sentences": [
+    {
+      "en": "I eat [yogurt] with honey for breakfast.",
+      "tr": "Kahvaltıda ballı yoğurt yerim.",
+      "de": "Zum Frühstück esse ich Joghurt mit Honig.",
+      "fr": "Je mange du yaourt au miel au petit-déjeuner.",
+      "it": "A colazione mangio yogurt con il miele.",
+      "es": "Desayuno yogur con miel."
+    },
+    {
+      "en": "Add some [yogurt] to the sauce.",
+      "tr": "Sosa biraz yoğurt ekle.",
+      "de": "Gib etwas Joghurt in die Soße.",
+      "fr": "Ajoute un peu de yaourt dans la sauce.",
+      "it": "Aggiungi un po' di yogurt alla salsa.",
+      "es": "Añade un poco de yogur a la salsa."
+    },
+    {
+      "en": "The word [yogurt] comes from Turkish.",
+      "tr": "Yoğurt kelimesi Türkçeden gelir.",
+      "de": "Das Wort Joghurt kommt aus dem Türkischen.",
+      "fr": "Le mot yaourt vient du turc.",
+      "it": "La parola yogurt viene dal turco.",
+      "es": "La palabra yogur viene del turco."
+    }
+  ]
+}

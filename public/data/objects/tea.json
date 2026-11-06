@@ -1,0 +1,52 @@
+{
+  "id": "tea",
+  "name": "tea",
+  "names": {
+    "tr": "çay",
+    "de": "der Tee",
+    "fr": "le thé",
+    "it": "il tè",
+    "es": "el té"
+  },
+  "definition": {
+    "en": "a hot drink made by pouring boiling water on dried leaves",
+    "tr": "kurutulmuş yaprakların üzerine kaynar su dökülerek yapılan sıcak içecek",
+    "de": "ein heißes Getränk aus getrockneten Blättern und kochendem Wasser",
+    "fr": "une boisson chaude faite en versant de l'eau bouillante sur des feuilles séchées",
+    "it": "una bevanda calda fatta versando acqua bollente su foglie secche",
+    "es": "una bebida caliente hecha echando agua hirviendo sobre hojas secas"
+  },
+  "breakdown": {},
+  "origin": "Chinese (Min dialect) tê; Turkish çay comes from the Mandarin word chá",
+  "root": null,
+  "image": {
+    "file": "Longjing tea after steeping.jpg",
+    "wikidata": "Q6097"
+  },
+  "sentences": [
+    {
+      "en": "Would you like a cup of [tea]?",
+      "tr": "Bir bardak çay ister misin?",
+      "de": "Möchtest du eine Tasse Tee?",
+      "fr": "Tu veux une tasse de thé ?",
+      "it": "Vuoi una tazza di tè?",
+      "es": "¿Quieres una taza de té?"
+    },
+    {
+      "en": "In Turkey people drink [tea] all day.",
+      "tr": "Türkiye'de insanlar bütün gün çay içer.",
+      "de": "In der Türkei trinkt man den ganzen Tag Tee.",
+      "fr": "En Turquie, on boit du thé toute la journée.",
+      "it": "In Turchia si beve tè tutto il giorno.",
+      "es": "En Turquía se bebe té todo el día."
+    },
+    {
+      "en": "Let the [tea] brew for three minutes.",
+      "tr": "Çayı üç dakika demlendir.",
+      "de": "Lass den Tee drei Minuten ziehen.",
+      "fr": "Laisse infuser le thé trois minutes.",
+      "it": "Lascia in infusione il tè per tre minuti.",
+      "es": "Deja reposar el té tres minutos."
+    }
+  ]
+}

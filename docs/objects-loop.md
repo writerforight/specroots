@@ -38,7 +38,7 @@ bu dosyanın tamamını oku ve **tek bir tur** yap. Repo: `~/Desktop/projects/sp
 
 ## Kuyruk (listeler, hedef boyut)
 Yeni liste açarken `lists/<id>.json`'u 6 dilde başlıkla oluştur.
-- [ ] kitchen — Mutfak — 100 (eşyalar, aletler, beyaz eşya, yiyecekler, içecekler) — şimdi 61
+- [ ] kitchen — Mutfak — 100 (eşyalar, aletler, beyaz eşya, yiyecekler, içecekler) — şimdi 71
 - [ ] bathroom — Banyo — 50 — şimdi 10
 - [ ] classroom — Sınıf — 50 — şimdi 10
 - [ ] bedroom — Yatak odası — 50
@@ -53,4 +53,4 @@ Yeni liste açarken `lists/<id>.json`'u 6 dilde başlıkla oluştur.
 - [ ] supermarket — Market — 50
 
 ## Durum
-80 nesne; mutfak 61/100 (sünger mutfakta da), banyo 10/50, sınıf 10/50 (2026-11-06).
+90 nesne; mutfak 71/100 (sünger mutfakta da), banyo 10/50, sınıf 10/50 (2026-11-06).
