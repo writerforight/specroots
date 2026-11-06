@@ -1,0 +1,74 @@
+{
+  "id": "microwave",
+  "name": "microwave",
+  "names": {
+    "tr": "mikrodalga fırın",
+    "de": "die Mikrowelle",
+    "fr": "le micro-ondes",
+    "it": "il microonde",
+    "es": "el microondas"
+  },
+  "definition": {
+    "en": "a small oven that heats food very quickly with invisible waves",
+    "tr": "yiyeceği görünmez dalgalarla çok hızlı ısıtan küçük fırın",
+    "de": "ein kleiner Ofen, der Essen mit unsichtbaren Wellen sehr schnell erwärmt",
+    "fr": "un petit four qui chauffe très vite les aliments grâce à des ondes invisibles",
+    "it": "un piccolo forno che scalda il cibo molto in fretta con onde invisibili",
+    "es": "un horno pequeño que calienta la comida muy rápido con ondas invisibles"
+  },
+  "breakdown": {
+    "en": [
+      {
+        "text": "micro",
+        "gloss": "small (Greek mikrós)",
+        "affix": "micro-"
+      },
+      {
+        "text": "wave",
+        "gloss": "wave"
+      }
+    ],
+    "de": [
+      {
+        "text": "Mikro",
+        "gloss": "small (Greek mikrós)"
+      },
+      {
+        "text": "welle",
+        "gloss": "wave"
+      }
+    ]
+  },
+  "origin": "micro- (Greek mikrós, small) + wave",
+  "root": null,
+  "image": {
+    "file": "Panasonic NN-SD69LS 20220410.jpg",
+    "wikidata": "Q127956"
+  },
+  "sentences": [
+    {
+      "en": "Heat the soup in the [microwave] for two minutes.",
+      "tr": "Çorbayı mikrodalgada iki dakika ısıt.",
+      "de": "Wärm die Suppe zwei Minuten in der Mikrowelle auf.",
+      "fr": "Réchauffe la soupe deux minutes au micro-ondes.",
+      "it": "Scalda la minestra nel microonde per due minuti.",
+      "es": "Calienta la sopa en el microondas dos minutos."
+    },
+    {
+      "en": "Don't put metal in the [microwave].",
+      "tr": "Mikrodalgaya metal koyma.",
+      "de": "Leg kein Metall in die Mikrowelle.",
+      "fr": "Ne mets pas de métal dans le micro-ondes.",
+      "it": "Non mettere metallo nel microonde.",
+      "es": "No metas metal en el microondas."
+    },
+    {
+      "en": "The office [microwave] always has a queue at lunch.",
+      "tr": "Öğle arasında ofisteki mikrodalganın önünde hep kuyruk olur.",
+      "de": "Vor der Büro-Mikrowelle gibt es mittags immer eine Schlange.",
+      "fr": "Il y a toujours la queue devant le micro-ondes du bureau à midi.",
+      "it": "A pranzo c'è sempre la fila al microonde dell'ufficio.",
+      "es": "A la hora de comer siempre hay cola en el microondas de la oficina."
+    }
+  ]
+}

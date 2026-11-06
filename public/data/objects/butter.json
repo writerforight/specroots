@@ -1,0 +1,52 @@
+{
+  "id": "butter",
+  "name": "butter",
+  "names": {
+    "tr": "tereyağı",
+    "de": "die Butter",
+    "fr": "le beurre",
+    "it": "il burro",
+    "es": "la mantequilla"
+  },
+  "definition": {
+    "en": "a soft yellow fat made from cream, spread on bread or used in cooking",
+    "tr": "kremadan yapılan, ekmeğe sürülen ya da yemekte kullanılan yumuşak sarı yağ",
+    "de": "ein weiches gelbes Fett aus Sahne, aufs Brot gestrichen oder zum Kochen",
+    "fr": "une matière grasse jaune et tendre faite de crème, à tartiner ou pour cuisiner",
+    "it": "un grasso giallo e morbido fatto con la panna, da spalmare o per cucinare",
+    "es": "una grasa amarilla y blanda hecha de nata, para untar o cocinar"
+  },
+  "breakdown": {},
+  "origin": "Latin būtyrum ← Greek boútyron (literally: cow cheese)",
+  "root": null,
+  "image": {
+    "file": "Butter at the Borough Market.jpg",
+    "wikidata": "Q34172"
+  },
+  "sentences": [
+    {
+      "en": "Spread some [butter] on your toast.",
+      "tr": "Kızarmış ekmeğine biraz tereyağı sür.",
+      "de": "Streich etwas Butter auf deinen Toast.",
+      "fr": "Mets un peu de beurre sur ton toast.",
+      "it": "Spalma un po' di burro sul pane tostato.",
+      "es": "Unta un poco de mantequilla en la tostada."
+    },
+    {
+      "en": "Melt the [butter] in a pan.",
+      "tr": "Tereyağını tavada erit.",
+      "de": "Lass die Butter in der Pfanne schmelzen.",
+      "fr": "Fais fondre le beurre dans une poêle.",
+      "it": "Sciogli il burro in padella.",
+      "es": "Derrite la mantequilla en una sartén."
+    },
+    {
+      "en": "Keep the [butter] in the fridge.",
+      "tr": "Tereyağını buzdolabında sakla.",
+      "de": "Bewahr die Butter im Kühlschrank auf.",
+      "fr": "Garde le beurre au frigo.",
+      "it": "Conserva il burro in frigo.",
+      "es": "Guarda la mantequilla en la nevera."
+    }
+  ]
+}

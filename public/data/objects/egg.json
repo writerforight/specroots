@@ -1,0 +1,52 @@
+{
+  "id": "egg",
+  "name": "egg",
+  "names": {
+    "tr": "yumurta",
+    "de": "das Ei",
+    "fr": "l'œuf",
+    "it": "l'uovo",
+    "es": "el huevo"
+  },
+  "definition": {
+    "en": "an oval thing laid by a hen, eaten boiled, fried or in cakes",
+    "tr": "tavuğun yumurtladığı, haşlanmış, kızarmış ya da pastada yenen oval şey",
+    "de": "ein ovales Ding, das ein Huhn legt; man isst es gekocht, gebraten oder im Kuchen",
+    "fr": "une chose ovale pondue par une poule, mangée à la coque, au plat ou dans les gâteaux",
+    "it": "una cosa ovale deposta dalla gallina, mangiata sodo, fritto o nei dolci",
+    "es": "una cosa ovalada que pone la gallina, se come cocida, frita o en pasteles"
+  },
+  "breakdown": {},
+  "origin": "Old Norse egg (it replaced Old English ǣg)",
+  "root": null,
+  "image": {
+    "file": "Day 017 Photo365 Eggs (95960053).jpeg",
+    "wikidata": "Q15260613"
+  },
+  "sentences": [
+    {
+      "en": "I had a boiled [egg] for breakfast.",
+      "tr": "Kahvaltıda haşlanmış yumurta yedim.",
+      "de": "Ich habe zum Frühstück ein gekochtes Ei gegessen.",
+      "fr": "J'ai mangé un œuf à la coque au petit-déjeuner.",
+      "it": "A colazione ho mangiato un uovo sodo.",
+      "es": "Desayuné un huevo cocido."
+    },
+    {
+      "en": "We need six [eggs] for this cake.",
+      "tr": "Bu kek için altı yumurta lazım.",
+      "de": "Für diesen Kuchen brauchen wir sechs Eier.",
+      "fr": "Il faut six œufs pour ce gâteau.",
+      "it": "Per questa torta servono sei uova.",
+      "es": "Necesitamos seis huevos para este pastel."
+    },
+    {
+      "en": "Don't put all your [eggs] in one basket.",
+      "tr": "Bütün yumurtalarını aynı sepete koyma.",
+      "de": "Setz nicht alles auf eine Karte.",
+      "fr": "Ne mets pas tous tes œufs dans le même panier.",
+      "it": "Non mettere tutte le uova nello stesso paniere.",
+      "es": "No pongas todos los huevos en la misma cesta."
+    }
+  ]
+}

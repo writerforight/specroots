@@ -1,0 +1,73 @@
+{
+  "id": "saucepan",
+  "name": "saucepan",
+  "names": {
+    "tr": "tencere",
+    "de": "der Kochtopf",
+    "fr": "la casserole",
+    "it": "la pentola",
+    "es": "la cacerola"
+  },
+  "definition": {
+    "en": "a deep metal pot with a long handle, for cooking on the stove",
+    "tr": "ocakta pişirmek için uzun saplı, derin metal kap",
+    "de": "ein tiefer Metalltopf mit Stiel zum Kochen auf dem Herd",
+    "fr": "une casserole profonde en métal à long manche, pour cuire sur le feu",
+    "it": "una pentola fonda di metallo con manico lungo, per cucinare sul fornello",
+    "es": "un recipiente hondo de metal con mango largo, para cocinar al fuego"
+  },
+  "breakdown": {
+    "en": [
+      {
+        "text": "sauce",
+        "gloss": "sauce"
+      },
+      {
+        "text": "pan",
+        "gloss": "pan"
+      }
+    ],
+    "de": [
+      {
+        "text": "Koch",
+        "gloss": "cook (kochen)"
+      },
+      {
+        "text": "topf",
+        "gloss": "pot"
+      }
+    ]
+  },
+  "origin": "sauce (Latin salsa, salted; sal: salt) + pan",
+  "root": null,
+  "image": {
+    "file": "13-08-31-Kochtreffen-Wien-RalfR-N3S 7775-001.jpg",
+    "wikidata": "Q7724780"
+  },
+  "sentences": [
+    {
+      "en": "Boil the milk in a small [saucepan].",
+      "tr": "Sütü küçük bir tencerede kaynat.",
+      "de": "Koch die Milch in einem kleinen Topf.",
+      "fr": "Fais bouillir le lait dans une petite casserole.",
+      "it": "Fai bollire il latte in un pentolino.",
+      "es": "Hierve la leche en un cazo pequeño."
+    },
+    {
+      "en": "Cover the [saucepan] and turn down the heat.",
+      "tr": "Tencerenin kapağını kapat ve ateşi kıs.",
+      "de": "Deck den Topf ab und dreh die Hitze herunter.",
+      "fr": "Couvre la casserole et baisse le feu.",
+      "it": "Copri la pentola e abbassa la fiamma.",
+      "es": "Tapa la cacerola y baja el fuego."
+    },
+    {
+      "en": "We need a bigger [saucepan] for the soup.",
+      "tr": "Çorba için daha büyük bir tencereye ihtiyacımız var.",
+      "de": "Für die Suppe brauchen wir einen größeren Topf.",
+      "fr": "Il nous faut une plus grande casserole pour la soupe.",
+      "it": "Ci serve una pentola più grande per la minestra.",
+      "es": "Necesitamos una cacerola más grande para la sopa."
+    }
+  ]
+}

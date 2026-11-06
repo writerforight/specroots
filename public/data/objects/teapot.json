@@ -1,0 +1,73 @@
+{
+  "id": "teapot",
+  "name": "teapot",
+  "names": {
+    "tr": "demlik",
+    "de": "die Teekanne",
+    "fr": "la théière",
+    "it": "la teiera",
+    "es": "la tetera"
+  },
+  "definition": {
+    "en": "a pot with a spout and a lid, for making and pouring tea",
+    "tr": "çay demlemek ve doldurmak için emzikli, kapaklı kap",
+    "de": "eine Kanne mit Tülle und Deckel zum Zubereiten und Einschenken von Tee",
+    "fr": "un récipient à bec et à couvercle pour préparer et servir le thé",
+    "it": "un recipiente con beccuccio e coperchio per preparare e versare il tè",
+    "es": "un recipiente con pico y tapa para preparar y servir el té"
+  },
+  "breakdown": {
+    "en": [
+      {
+        "text": "tea",
+        "gloss": "tea"
+      },
+      {
+        "text": "pot",
+        "gloss": "pot"
+      }
+    ],
+    "de": [
+      {
+        "text": "Tee",
+        "gloss": "tea"
+      },
+      {
+        "text": "kanne",
+        "gloss": "jug, pot"
+      }
+    ]
+  },
+  "origin": "tea (Chinese, Min dialect tê) + pot",
+  "root": null,
+  "image": {
+    "file": "Teapot 2010 G1.jpg",
+    "wikidata": "Q245005"
+  },
+  "sentences": [
+    {
+      "en": "Warm the [teapot] with hot water first.",
+      "tr": "Önce demliği sıcak suyla ısıt.",
+      "de": "Wärm die Teekanne zuerst mit heißem Wasser an.",
+      "fr": "Réchauffe d'abord la théière avec de l'eau chaude.",
+      "it": "Scalda prima la teiera con acqua calda.",
+      "es": "Calienta primero la tetera con agua caliente."
+    },
+    {
+      "en": "My grandmother has a [teapot] from China.",
+      "tr": "Babaannemin Çin'den gelme bir demliği var.",
+      "de": "Meine Oma hat eine Teekanne aus China.",
+      "fr": "Ma grand-mère a une théière venue de Chine.",
+      "it": "Mia nonna ha una teiera cinese.",
+      "es": "Mi abuela tiene una tetera de China."
+    },
+    {
+      "en": "The waiter put a small [teapot] on our table.",
+      "tr": "Garson masamıza küçük bir demlik koydu.",
+      "de": "Der Kellner stellte eine kleine Teekanne auf unseren Tisch.",
+      "fr": "Le serveur a posé une petite théière sur notre table.",
+      "it": "Il cameriere ha messo una piccola teiera sul nostro tavolo.",
+      "es": "El camarero puso una tetera pequeña en nuestra mesa."
+    }
+  ]
+}

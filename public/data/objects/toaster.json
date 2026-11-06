@@ -1,0 +1,74 @@
+{
+  "id": "toaster",
+  "name": "toaster",
+  "names": {
+    "tr": "ekmek kızartma makinesi",
+    "de": "der Toaster",
+    "fr": "le grille-pain",
+    "it": "il tostapane",
+    "es": "la tostadora"
+  },
+  "definition": {
+    "en": "a small electric machine that makes bread brown and crisp",
+    "tr": "ekmeği kızartıp gevrekleştiren küçük elektrikli makine",
+    "de": "ein kleines Elektrogerät, das Brot bräunt und knusprig macht",
+    "fr": "un petit appareil électrique qui dore et rend le pain croustillant",
+    "it": "un piccolo apparecchio elettrico che rende il pane dorato e croccante",
+    "es": "un pequeño aparato eléctrico que dora el pan y lo deja crujiente"
+  },
+  "breakdown": {
+    "en": [
+      {
+        "text": "toast",
+        "gloss": "toast (Latin tostus, roasted)"
+      },
+      {
+        "text": "er",
+        "gloss": "thing that does",
+        "affix": "-er"
+      }
+    ],
+    "de": [
+      {
+        "text": "Toast",
+        "gloss": "toast"
+      },
+      {
+        "text": "er",
+        "gloss": "thing that does"
+      }
+    ]
+  },
+  "origin": "toast (Old French toster ← Latin tostus, roasted) + -er",
+  "root": null,
+  "image": {
+    "file": "Hoteltoaster 01 (sk).jpg",
+    "wikidata": "Q14890"
+  },
+  "sentences": [
+    {
+      "en": "Put two slices of bread in the [toaster].",
+      "tr": "Ekmek kızartma makinesine iki dilim ekmek koy.",
+      "de": "Steck zwei Scheiben Brot in den Toaster.",
+      "fr": "Mets deux tranches de pain dans le grille-pain.",
+      "it": "Metti due fette di pane nel tostapane.",
+      "es": "Pon dos rebanadas de pan en la tostadora."
+    },
+    {
+      "en": "The [toaster] burnt my bread again.",
+      "tr": "Makine ekmeğimi yine yaktı.",
+      "de": "Der Toaster hat mein Brot schon wieder verbrannt.",
+      "fr": "Le grille-pain a encore brûlé mon pain.",
+      "it": "Il tostapane mi ha bruciato di nuovo il pane.",
+      "es": "La tostadora me ha vuelto a quemar el pan."
+    },
+    {
+      "en": "The hotel had a [toaster] at the breakfast buffet.",
+      "tr": "Otelin kahvaltı büfesinde ekmek kızartma makinesi vardı.",
+      "de": "Im Hotel stand ein Toaster am Frühstücksbuffet.",
+      "fr": "L'hôtel avait un grille-pain au buffet du petit-déjeuner.",
+      "it": "L'albergo aveva un tostapane al buffet della colazione.",
+      "es": "El hotel tenía una tostadora en el bufé del desayuno."
+    }
+  ]
+}

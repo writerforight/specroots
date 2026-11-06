@@ -1,0 +1,52 @@
+{
+  "id": "rice",
+  "name": "rice",
+  "names": {
+    "tr": "pirinç",
+    "de": "der Reis",
+    "fr": "le riz",
+    "it": "il riso",
+    "es": "el arroz"
+  },
+  "definition": {
+    "en": "small white or brown grains, cooked in water; a main food in Asia",
+    "tr": "suda pişirilen küçük beyaz ya da kahverengi taneler; Asya'nın temel besini",
+    "de": "kleine weiße oder braune Körner, in Wasser gekocht; ein Grundnahrungsmittel in Asien",
+    "fr": "de petits grains blancs ou bruns cuits dans l'eau ; un aliment de base en Asie",
+    "it": "piccoli chicchi bianchi o integrali cotti in acqua; alimento base in Asia",
+    "es": "granos pequeños blancos o integrales cocidos en agua; alimento básico en Asia"
+  },
+  "breakdown": {},
+  "origin": "Old French ris ← Italian riso ← Greek óryza",
+  "root": null,
+  "image": {
+    "file": "White, Brown, Red & Wild rice.jpg",
+    "wikidata": "Q5090"
+  },
+  "sentences": [
+    {
+      "en": "Cook the [rice] for twenty minutes.",
+      "tr": "Pirinci yirmi dakika pişir.",
+      "de": "Koch den Reis zwanzig Minuten.",
+      "fr": "Fais cuire le riz vingt minutes.",
+      "it": "Cuoci il riso per venti minuti.",
+      "es": "Cuece el arroz veinte minutos."
+    },
+    {
+      "en": "We had chicken with [rice] for dinner.",
+      "tr": "Akşam yemeğinde tavuklu pilav yedik.",
+      "de": "Zum Abendessen gab es Hähnchen mit Reis.",
+      "fr": "Nous avons mangé du poulet avec du riz au dîner.",
+      "it": "A cena abbiamo mangiato pollo con riso.",
+      "es": "Cenamos pollo con arroz."
+    },
+    {
+      "en": "Most of the world's [rice] grows in Asia.",
+      "tr": "Dünyadaki pirincin çoğu Asya'da yetişir.",
+      "de": "Der meiste Reis der Welt wächst in Asien.",
+      "fr": "La plupart du riz du monde pousse en Asie.",
+      "it": "La maggior parte del riso del mondo cresce in Asia.",
+      "es": "La mayor parte del arroz del mundo crece en Asia."
+    }
+  ]
+}

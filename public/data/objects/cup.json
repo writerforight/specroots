@@ -1,0 +1,52 @@
+{
+  "id": "cup",
+  "name": "cup",
+  "names": {
+    "tr": "fincan",
+    "de": "die Tasse",
+    "fr": "la tasse",
+    "it": "la tazza",
+    "es": "la taza"
+  },
+  "definition": {
+    "en": "a small round container with a handle, for hot drinks",
+    "tr": "sıcak içecekler için kulplu küçük, yuvarlak kap",
+    "de": "ein kleines rundes Gefäß mit Henkel für heiße Getränke",
+    "fr": "un petit récipient rond à anse pour les boissons chaudes",
+    "it": "un piccolo recipiente rotondo con manico per bevande calde",
+    "es": "un recipiente pequeño y redondo con asa para bebidas calientes"
+  },
+  "breakdown": {},
+  "origin": "Old English cuppe ← Late Latin cuppa (a cup, a tub)",
+  "root": null,
+  "image": {
+    "file": "Kaffeetasse halbhoch Golddekor 05, KPM.jpg",
+    "wikidata": "Q81727"
+  },
+  "sentences": [
+    {
+      "en": "Would you like a [cup] of coffee?",
+      "tr": "Bir fincan kahve ister misin?",
+      "de": "Möchtest du eine Tasse Kaffee?",
+      "fr": "Tu veux une tasse de café ?",
+      "it": "Vuoi una tazza di caffè?",
+      "es": "¿Quieres una taza de café?"
+    },
+    {
+      "en": "I broke my favourite [cup] this morning.",
+      "tr": "Bu sabah en sevdiğim fincanı kırdım.",
+      "de": "Ich habe heute Morgen meine Lieblingstasse zerbrochen.",
+      "fr": "J'ai cassé ma tasse préférée ce matin.",
+      "it": "Stamattina ho rotto la mia tazza preferita.",
+      "es": "Esta mañana he roto mi taza favorita."
+    },
+    {
+      "en": "Football is not really my [cup] of tea.",
+      "tr": "Futbol pek bana göre değil.",
+      "de": "Fußball ist nicht so mein Ding.",
+      "fr": "Le foot, ce n'est pas trop ma tasse de thé.",
+      "it": "Il calcio non è proprio il mio genere.",
+      "es": "El fútbol no es lo mío."
+    }
+  ]
+}

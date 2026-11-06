@@ -1,0 +1,52 @@
+{
+  "id": "cheese",
+  "name": "cheese",
+  "names": {
+    "tr": "peynir",
+    "de": "der Käse",
+    "fr": "le fromage",
+    "it": "il formaggio",
+    "es": "el queso"
+  },
+  "definition": {
+    "en": "a food made from milk, soft or hard, white or yellow",
+    "tr": "sütten yapılan, yumuşak ya da sert, beyaz ya da sarı yiyecek",
+    "de": "ein Lebensmittel aus Milch, weich oder hart, weiß oder gelb",
+    "fr": "un aliment fait de lait, mou ou dur, blanc ou jaune",
+    "it": "un alimento fatto di latte, morbido o duro, bianco o giallo",
+    "es": "un alimento hecho de leche, blando o duro, blanco o amarillo"
+  },
+  "breakdown": {},
+  "origin": "Old English cēse ← Latin cāseus (also German Käse, Spanish queso)",
+  "root": null,
+  "image": {
+    "file": "Hartkaese HardCheeses.jpg",
+    "wikidata": "Q10943"
+  },
+  "sentences": [
+    {
+      "en": "I'd like a [cheese] sandwich, please.",
+      "tr": "Peynirli sandviç istiyorum lütfen.",
+      "de": "Ich hätte gern ein Käsebrot, bitte.",
+      "fr": "Je voudrais un sandwich au fromage, s'il vous plaît.",
+      "it": "Vorrei un panino al formaggio, per favore.",
+      "es": "Quiero un sándwich de queso, por favor."
+    },
+    {
+      "en": "France is famous for its [cheeses].",
+      "tr": "Fransa peynirleriyle ünlüdür.",
+      "de": "Frankreich ist für seine Käsesorten berühmt.",
+      "fr": "La France est célèbre pour ses fromages.",
+      "it": "La Francia è famosa per i suoi formaggi.",
+      "es": "Francia es famosa por sus quesos."
+    },
+    {
+      "en": "Smile and say \"[cheese]\"!",
+      "tr": "Gülümse ve \"peynir\" de!",
+      "de": "Lächeln und \"Cheese\" sagen!",
+      "fr": "Souris et dis « ouistiti » !",
+      "it": "Sorridi e di' \"cheese\"!",
+      "es": "¡Sonríe y di \"patata\"!"
+    }
+  ]
+}

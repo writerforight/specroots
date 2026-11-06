@@ -1,0 +1,52 @@
+{
+  "id": "salt",
+  "name": "salt",
+  "names": {
+    "tr": "tuz",
+    "de": "das Salz",
+    "fr": "le sel",
+    "it": "il sale",
+    "es": "la sal"
+  },
+  "definition": {
+    "en": "white crystals from the sea or the earth, used to flavour food",
+    "tr": "yemeğe tat vermek için kullanılan, denizden ya da topraktan gelen beyaz kristaller",
+    "de": "weiße Kristalle aus dem Meer oder der Erde zum Würzen von Speisen",
+    "fr": "des cristaux blancs venant de la mer ou de la terre, pour assaisonner",
+    "it": "cristalli bianchi del mare o della terra, usati per insaporire",
+    "es": "cristales blancos del mar o de la tierra para dar sabor a la comida"
+  },
+  "breakdown": {},
+  "origin": "Old English sealt (the same ancient word as Latin sal: salary, sauce)",
+  "root": null,
+  "image": {
+    "file": "Salt - close-up.jpg",
+    "wikidata": "Q11254"
+  },
+  "sentences": [
+    {
+      "en": "Add a little [salt] to the water.",
+      "tr": "Suya biraz tuz ekle.",
+      "de": "Gib etwas Salz ins Wasser.",
+      "fr": "Ajoute un peu de sel dans l'eau.",
+      "it": "Aggiungi un po' di sale all'acqua.",
+      "es": "Añade un poco de sal al agua."
+    },
+    {
+      "en": "Could you pass the [salt], please?",
+      "tr": "Tuzu uzatır mısın lütfen?",
+      "de": "Kannst du mir bitte das Salz geben?",
+      "fr": "Tu peux me passer le sel, s'il te plaît ?",
+      "it": "Mi passi il sale, per favore?",
+      "es": "¿Me pasas la sal, por favor?"
+    },
+    {
+      "en": "Take his stories with a pinch of [salt].",
+      "tr": "Onun hikâyelerine pek inanma.",
+      "de": "Nimm seine Geschichten nicht für bare Münze.",
+      "fr": "Prends ses histoires avec des pincettes.",
+      "it": "Prendi le sue storie con le pinze.",
+      "es": "Tómate sus historias con pinzas."
+    }
+  ]
+}
