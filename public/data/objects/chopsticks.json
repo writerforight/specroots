@@ -1,0 +1,77 @@
+{
+  "id": "chopsticks",
+  "name": "chopsticks",
+  "names": {
+    "tr": "yemek çubukları",
+    "de": "die Essstäbchen",
+    "fr": "les baguettes",
+    "it": "le bacchette",
+    "es": "los palillos"
+  },
+  "definition": {
+    "en": "a pair of thin sticks used for eating in East Asia",
+    "tr": "Doğu Asya'da yemek yemek için kullanılan bir çift ince çubuk",
+    "de": "ein Paar dünne Stäbchen zum Essen in Ostasien",
+    "fr": "une paire de baguettes fines pour manger en Asie de l'Est",
+    "it": "un paio di bastoncini sottili per mangiare in Asia orientale",
+    "es": "un par de palitos finos para comer en Asia oriental"
+  },
+  "breakdown": {
+    "en": [
+      {
+        "text": "chop",
+        "gloss": "quick (Pidgin chop-chop)"
+      },
+      {
+        "text": "sticks",
+        "gloss": "sticks"
+      }
+    ],
+    "de": [
+      {
+        "text": "Ess",
+        "gloss": "eat (essen)"
+      },
+      {
+        "text": "stäb",
+        "gloss": "stick (Stab)"
+      },
+      {
+        "text": "chen",
+        "gloss": "small"
+      }
+    ]
+  },
+  "origin": "Chinese Pidgin English chop (quick) + stick",
+  "root": null,
+  "image": {
+    "file": "Comment tenir des baguettes - Troisième étape.JPG",
+    "wikidata": "Q81980"
+  },
+  "sentences": [
+    {
+      "en": "Can you eat noodles with [chopsticks]?",
+      "tr": "Eriştesi yemek çubuklarıyla yiyebilir misin?",
+      "de": "Kannst du Nudeln mit Stäbchen essen?",
+      "fr": "Tu sais manger des nouilles avec des baguettes ?",
+      "it": "Sai mangiare i noodles con le bacchette?",
+      "es": "¿Sabes comer fideos con palillos?"
+    },
+    {
+      "en": "The restaurant gave us [chopsticks] and forks.",
+      "tr": "Restoran bize yemek çubukları ve çatallar verdi.",
+      "de": "Das Restaurant gab uns Stäbchen und Gabeln.",
+      "fr": "Le restaurant nous a donné des baguettes et des fourchettes.",
+      "it": "Il ristorante ci ha dato bacchette e forchette.",
+      "es": "El restaurante nos dio palillos y tenedores."
+    },
+    {
+      "en": "Hold the [chopsticks] near the top.",
+      "tr": "Yemek çubuklarını üst kısımlarından tut.",
+      "de": "Halte die Stäbchen weiter oben.",
+      "fr": "Tiens les baguettes vers le haut.",
+      "it": "Tieni le bacchette verso l'alto.",
+      "es": "Sujeta los palillos por la parte de arriba."
+    }
+  ]
+}

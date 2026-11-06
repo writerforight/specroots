@@ -1,0 +1,63 @@
+{
+  "id": "black-pepper",
+  "name": "black pepper",
+  "names": {
+    "tr": "karabiber",
+    "de": "der schwarze Pfeffer",
+    "fr": "le poivre noir",
+    "it": "il pepe nero",
+    "es": "la pimienta negra"
+  },
+  "definition": {
+    "en": "a hot spice made from small dried black berries",
+    "tr": "küçük, kurutulmuş siyah tanelerden yapılan acı baharat",
+    "de": "ein scharfes Gewürz aus kleinen getrockneten schwarzen Beeren",
+    "fr": "une épice piquante faite de petites baies noires séchées",
+    "it": "una spezia piccante fatta di piccole bacche nere essiccate",
+    "es": "una especia picante hecha de pequeñas bayas negras secas"
+  },
+  "breakdown": {
+    "en": [
+      {
+        "text": "black",
+        "gloss": "black"
+      },
+      {
+        "text": "pepper",
+        "gloss": "pepper"
+      }
+    ]
+  },
+  "origin": "pepper: Latin piper ← Greek péperi ← Sanskrit pippalī",
+  "root": null,
+  "image": {
+    "file": "Black peppercorns gn.jpg",
+    "wikidata": "Q3143131"
+  },
+  "sentences": [
+    {
+      "en": "Add salt and [black pepper] to taste.",
+      "tr": "Damak tadına göre tuz ve karabiber ekle.",
+      "de": "Mit Salz und schwarzem Pfeffer abschmecken.",
+      "fr": "Sale et poivre noir selon votre goût.",
+      "it": "Aggiungi sale e pepe nero a piacere.",
+      "es": "Añade sal y pimienta negra al gusto."
+    },
+    {
+      "en": "Freshly ground [black pepper] smells wonderful.",
+      "tr": "Taze çekilmiş karabiber harika kokar.",
+      "de": "Frisch gemahlener schwarzer Pfeffer riecht herrlich.",
+      "fr": "Le poivre noir fraîchement moulu sent délicieusement bon.",
+      "it": "Il pepe nero macinato fresco ha un profumo meraviglioso.",
+      "es": "La pimienta negra recién molida huele de maravilla."
+    },
+    {
+      "en": "[Black pepper] was once worth its weight in gold.",
+      "tr": "Karabiber bir zamanlar altın değerindeydi.",
+      "de": "Schwarzer Pfeffer war einst Gold wert.",
+      "fr": "Le poivre noir valait autrefois son pesant d'or.",
+      "it": "Un tempo il pepe nero valeva oro.",
+      "es": "La pimienta negra antes valía su peso en oro."
+    }
+  ]
+}

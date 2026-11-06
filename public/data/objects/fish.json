@@ -1,0 +1,52 @@
+{
+  "id": "fish",
+  "name": "fish",
+  "names": {
+    "tr": "balık",
+    "de": "der Fisch",
+    "fr": "le poisson",
+    "it": "il pesce",
+    "es": "el pescado"
+  },
+  "definition": {
+    "en": "an animal that lives in water; its flesh eaten as food",
+    "tr": "suda yaşayan hayvan; yiyecek olarak eti",
+    "de": "ein Tier, das im Wasser lebt; sein Fleisch als Speise",
+    "fr": "un animal qui vit dans l'eau ; sa chair comme aliment",
+    "it": "un animale che vive nell'acqua; la sua carne come cibo",
+    "es": "un animal que vive en el agua; su carne como alimento"
+  },
+  "breakdown": {},
+  "origin": "Old English fisc (compare German Fisch, Latin piscis)",
+  "root": null,
+  "image": {
+    "file": "Fish-coll002.jpg",
+    "wikidata": "Q152"
+  },
+  "sentences": [
+    {
+      "en": "We eat [fish] every Friday.",
+      "tr": "Her cuma balık yeriz.",
+      "de": "Wir essen jeden Freitag Fisch.",
+      "fr": "Nous mangeons du poisson tous les vendredis.",
+      "it": "Mangiamo pesce ogni venerdì.",
+      "es": "Comemos pescado todos los viernes."
+    },
+    {
+      "en": "Grill the [fish] with lemon.",
+      "tr": "Balığı limonla ızgara yap.",
+      "de": "Grill den Fisch mit Zitrone.",
+      "fr": "Fais griller le poisson avec du citron.",
+      "it": "Cuoci il pesce alla griglia con il limone.",
+      "es": "Haz el pescado a la plancha con limón."
+    },
+    {
+      "en": "At the new school he felt like a [fish] out of water.",
+      "tr": "Yeni okulda kendini suyun dışındaki balık gibi hissetti.",
+      "de": "In der neuen Schule fühlte er sich wie ein Fisch auf dem Trockenen.",
+      "fr": "Dans la nouvelle école, il se sentait comme un poisson hors de l'eau.",
+      "it": "Nella nuova scuola si sentiva un pesce fuor d'acqua.",
+      "es": "En el colegio nuevo se sentía como pez fuera del agua."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "cinnamon",
+  "name": "cinnamon",
+  "names": {
+    "tr": "tarçın",
+    "de": "der Zimt",
+    "fr": "la cannelle",
+    "it": "la cannella",
+    "es": "la canela"
+  },
+  "definition": {
+    "en": "a sweet brown spice made from the bark of a tree",
+    "tr": "bir ağacın kabuğundan yapılan tatlı kahverengi baharat",
+    "de": "ein süßes braunes Gewürz aus der Rinde eines Baumes",
+    "fr": "une épice brune et douce faite de l'écorce d'un arbre",
+    "it": "una spezia dolce e marrone fatta con la corteccia di un albero",
+    "es": "una especia dulce y marrón hecha de la corteza de un árbol"
+  },
+  "breakdown": {},
+  "origin": "Greek kinnámōmon ← a Semitic word (compare Hebrew qinnāmōn)",
+  "root": null,
+  "image": {
+    "file": "Canelle Cinnamomum burmanni Luc Viatour.jpg",
+    "wikidata": "Q28165"
+  },
+  "sentences": [
+    {
+      "en": "Sprinkle [cinnamon] on the rice pudding.",
+      "tr": "Sütlacın üstüne tarçın serp.",
+      "de": "Streu Zimt auf den Milchreis.",
+      "fr": "Saupoudre de la cannelle sur le riz au lait.",
+      "it": "Spolvera la cannella sul budino di riso.",
+      "es": "Espolvorea canela sobre el arroz con leche."
+    },
+    {
+      "en": "This apple cake smells of [cinnamon].",
+      "tr": "Bu elmalı kek tarçın kokuyor.",
+      "de": "Dieser Apfelkuchen duftet nach Zimt.",
+      "fr": "Ce gâteau aux pommes sent la cannelle.",
+      "it": "Questa torta di mele profuma di cannella.",
+      "es": "Este bizcocho de manzana huele a canela."
+    },
+    {
+      "en": "Add a [cinnamon] stick to the tea.",
+      "tr": "Çaya bir tarçın çubuğu ekle.",
+      "de": "Gib eine Zimtstange in den Tee.",
+      "fr": "Ajoute un bâton de cannelle dans le thé.",
+      "it": "Aggiungi un bastoncino di cannella al tè.",
+      "es": "Añade una rama de canela al té."
+    }
+  ]
+}

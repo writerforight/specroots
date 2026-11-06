@@ -1,0 +1,52 @@
+{
+  "id": "meat",
+  "name": "meat",
+  "names": {
+    "tr": "et",
+    "de": "das Fleisch",
+    "fr": "la viande",
+    "it": "la carne",
+    "es": "la carne"
+  },
+  "definition": {
+    "en": "the parts of animals eaten as food",
+    "tr": "yiyecek olarak yenen hayvan eti",
+    "de": "Teile von Tieren, die man isst",
+    "fr": "les parties des animaux que l'on mange",
+    "it": "le parti degli animali che si mangiano",
+    "es": "las partes de los animales que se comen"
+  },
+  "breakdown": {},
+  "origin": "Old English mete (food in general; compare sweetmeat)",
+  "root": null,
+  "image": {
+    "file": "FoodMeat.jpg",
+    "wikidata": "Q10990"
+  },
+  "sentences": [
+    {
+      "en": "I don't eat [meat], I'm vegetarian.",
+      "tr": "Et yemem, vejetaryenim.",
+      "de": "Ich esse kein Fleisch, ich bin Vegetarier.",
+      "fr": "Je ne mange pas de viande, je suis végétarien.",
+      "it": "Non mangio carne, sono vegetariano.",
+      "es": "No como carne, soy vegetariano."
+    },
+    {
+      "en": "Keep raw [meat] in the fridge.",
+      "tr": "Çiğ eti buzdolabında sakla.",
+      "de": "Bewahr rohes Fleisch im Kühlschrank auf.",
+      "fr": "Garde la viande crue au frigo.",
+      "it": "Conserva la carne cruda in frigo.",
+      "es": "Guarda la carne cruda en la nevera."
+    },
+    {
+      "en": "The butcher sells fresh [meat] every day.",
+      "tr": "Kasap her gün taze et satıyor.",
+      "de": "Der Metzger verkauft jeden Tag frisches Fleisch.",
+      "fr": "Le boucher vend de la viande fraîche tous les jours.",
+      "it": "Il macellaio vende carne fresca ogni giorno.",
+      "es": "El carnicero vende carne fresca cada día."
+    }
+  ]
+}

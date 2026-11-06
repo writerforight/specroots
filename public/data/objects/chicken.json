@@ -1,0 +1,63 @@
+{
+  "id": "chicken",
+  "name": "chicken",
+  "names": {
+    "tr": "tavuk",
+    "de": "das Hähnchen",
+    "fr": "le poulet",
+    "it": "il pollo",
+    "es": "el pollo"
+  },
+  "definition": {
+    "en": "a farm bird kept for eggs and meat; its meat as food",
+    "tr": "yumurtası ve eti için beslenen kümes hayvanı; yiyecek olarak eti",
+    "de": "ein Hofvogel, gehalten für Eier und Fleisch; sein Fleisch als Speise",
+    "fr": "un oiseau de ferme élevé pour ses œufs et sa viande ; sa viande",
+    "it": "un uccello da cortile allevato per uova e carne; la sua carne",
+    "es": "un ave de granja criada por sus huevos y su carne; su carne"
+  },
+  "breakdown": {
+    "de": [
+      {
+        "text": "Hähn",
+        "gloss": "rooster (Hahn)"
+      },
+      {
+        "text": "chen",
+        "gloss": "small"
+      }
+    ]
+  },
+  "origin": "Old English cicen (a young fowl)",
+  "root": null,
+  "image": {
+    "file": "Ayam kampung free range chicken meat Indonesia.JPG",
+    "wikidata": "Q864693"
+  },
+  "sentences": [
+    {
+      "en": "We had roast [chicken] on Sunday.",
+      "tr": "Pazar günü fırında tavuk yedik.",
+      "de": "Am Sonntag gab es Brathähnchen.",
+      "fr": "Nous avons mangé du poulet rôti dimanche.",
+      "it": "Domenica abbiamo mangiato pollo arrosto.",
+      "es": "El domingo comimos pollo asado."
+    },
+    {
+      "en": "Cut the [chicken] into small pieces.",
+      "tr": "Tavuğu küçük parçalara kes.",
+      "de": "Schneid das Hähnchen in kleine Stücke.",
+      "fr": "Coupe le poulet en petits morceaux.",
+      "it": "Taglia il pollo a pezzetti.",
+      "es": "Corta el pollo en trozos pequeños."
+    },
+    {
+      "en": "Don't count your [chickens] before they hatch.",
+      "tr": "Dereyi görmeden paçaları sıvama.",
+      "de": "Man soll den Tag nicht vor dem Abend loben.",
+      "fr": "Il ne faut pas vendre la peau de l'ours avant de l'avoir tué.",
+      "it": "Non dire gatto se non ce l'hai nel sacco.",
+      "es": "No vendas la piel del oso antes de cazarlo."
+    }
+  ]
+}

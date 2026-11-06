@@ -1,0 +1,73 @@
+{
+  "id": "teaspoon",
+  "name": "teaspoon",
+  "names": {
+    "tr": "çay kaşığı",
+    "de": "der Teelöffel",
+    "fr": "la cuillère à café",
+    "it": "il cucchiaino",
+    "es": "la cucharilla"
+  },
+  "definition": {
+    "en": "a small spoon for stirring tea or coffee; also a measure in recipes",
+    "tr": "çay ya da kahve karıştırmak için küçük kaşık; tariflerde ölçü",
+    "de": "ein kleiner Löffel zum Umrühren von Tee oder Kaffee; auch ein Maß in Rezepten",
+    "fr": "une petite cuillère pour remuer le thé ou le café ; aussi une mesure",
+    "it": "un cucchiaio piccolo per mescolare tè o caffè; anche una misura",
+    "es": "una cuchara pequeña para remover el té o el café; también una medida"
+  },
+  "breakdown": {
+    "en": [
+      {
+        "text": "tea",
+        "gloss": "tea"
+      },
+      {
+        "text": "spoon",
+        "gloss": "spoon"
+      }
+    ],
+    "de": [
+      {
+        "text": "Tee",
+        "gloss": "tea"
+      },
+      {
+        "text": "löffel",
+        "gloss": "spoon"
+      }
+    ]
+  },
+  "origin": "tea + spoon",
+  "root": null,
+  "image": {
+    "file": "Small spoon.jpg",
+    "wikidata": "Q216425"
+  },
+  "sentences": [
+    {
+      "en": "Add one [teaspoon] of salt.",
+      "tr": "Bir çay kaşığı tuz ekle.",
+      "de": "Gib einen Teelöffel Salz dazu.",
+      "fr": "Ajoute une cuillère à café de sel.",
+      "it": "Aggiungi un cucchiaino di sale.",
+      "es": "Añade una cucharadita de sal."
+    },
+    {
+      "en": "Stir your tea with a [teaspoon].",
+      "tr": "Çayını çay kaşığıyla karıştır.",
+      "de": "Rühr deinen Tee mit dem Teelöffel um.",
+      "fr": "Remue ton thé avec une petite cuillère.",
+      "it": "Mescola il tè con il cucchiaino.",
+      "es": "Remueve el té con la cucharilla."
+    },
+    {
+      "en": "The baby ate yogurt from a [teaspoon].",
+      "tr": "Bebek çay kaşığıyla yoğurt yedi.",
+      "de": "Das Baby aß Joghurt vom Teelöffel.",
+      "fr": "Le bébé a mangé du yaourt à la petite cuillère.",
+      "it": "Il bambino ha mangiato lo yogurt col cucchiaino.",
+      "es": "El bebé comió yogur con una cucharilla."
+    }
+  ]
+}

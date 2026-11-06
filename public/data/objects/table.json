@@ -1,0 +1,52 @@
+{
+  "id": "table",
+  "name": "table",
+  "names": {
+    "tr": "masa",
+    "de": "der Tisch",
+    "fr": "la table",
+    "it": "il tavolo",
+    "es": "la mesa"
+  },
+  "definition": {
+    "en": "a piece of furniture with a flat top on legs, for eating or working",
+    "tr": "yemek yemek ya da çalışmak için ayaklı, düz yüzeyli mobilya",
+    "de": "ein Möbelstück mit flacher Platte auf Beinen zum Essen oder Arbeiten",
+    "fr": "un meuble au plateau plat sur des pieds, pour manger ou travailler",
+    "it": "un mobile con un piano su gambe, per mangiare o lavorare",
+    "es": "un mueble con tablero plano sobre patas, para comer o trabajar"
+  },
+  "breakdown": {},
+  "origin": "Latin tabula (a board; German Tisch comes from Latin discus, a plate)",
+  "root": null,
+  "image": {
+    "file": "Parsons Table.jpg",
+    "wikidata": "Q14748"
+  },
+  "sentences": [
+    {
+      "en": "Dinner is on the [table]!",
+      "tr": "Yemek masada!",
+      "de": "Das Essen steht auf dem Tisch!",
+      "fr": "Le dîner est servi !",
+      "it": "La cena è in tavola!",
+      "es": "¡La cena está en la mesa!"
+    },
+    {
+      "en": "Please set the [table] for four.",
+      "tr": "Lütfen masayı dört kişilik kur.",
+      "de": "Deck bitte den Tisch für vier.",
+      "fr": "Mets la table pour quatre, s'il te plaît.",
+      "it": "Apparecchia la tavola per quattro, per favore.",
+      "es": "Pon la mesa para cuatro, por favor."
+    },
+    {
+      "en": "After the goal, the [tables] turned.",
+      "tr": "Golden sonra durum tersine döndü.",
+      "de": "Nach dem Tor wendete sich das Blatt.",
+      "fr": "Après le but, la situation s'est inversée.",
+      "it": "Dopo il gol, le sorti si sono ribaltate.",
+      "es": "Tras el gol, se dieron la vuelta las tornas."
+    }
+  ]
+}

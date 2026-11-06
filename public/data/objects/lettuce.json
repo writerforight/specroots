@@ -1,0 +1,63 @@
+{
+  "id": "lettuce",
+  "name": "lettuce",
+  "names": {
+    "tr": "marul",
+    "de": "der Kopfsalat",
+    "fr": "la laitue",
+    "it": "la lattuga",
+    "es": "la lechuga"
+  },
+  "definition": {
+    "en": "a green leaf vegetable eaten raw in salads",
+    "tr": "salatada çiğ yenen yeşil yapraklı sebze",
+    "de": "ein grünes Blattgemüse, das man roh im Salat isst",
+    "fr": "un légume à feuilles vertes mangé cru en salade",
+    "it": "un ortaggio a foglia verde mangiato crudo in insalata",
+    "es": "una verdura de hoja verde que se come cruda en ensalada"
+  },
+  "breakdown": {
+    "de": [
+      {
+        "text": "Kopf",
+        "gloss": "head"
+      },
+      {
+        "text": "salat",
+        "gloss": "salad, lettuce"
+      }
+    ]
+  },
+  "origin": "Old French laitues ← Latin lactuca (from lac, milk: the milky sap)",
+  "root": null,
+  "image": {
+    "file": "Iceberg2.jpg",
+    "wikidata": "Q11853965"
+  },
+  "sentences": [
+    {
+      "en": "Wash the [lettuce] leaves well.",
+      "tr": "Marul yapraklarını iyice yıka.",
+      "de": "Wasch die Salatblätter gut.",
+      "fr": "Lave bien les feuilles de laitue.",
+      "it": "Lava bene le foglie di lattuga.",
+      "es": "Lava bien las hojas de lechuga."
+    },
+    {
+      "en": "I'd like a sandwich with [lettuce] and tomato.",
+      "tr": "Marullu ve domatesli bir sandviç istiyorum.",
+      "de": "Ich hätte gern ein Sandwich mit Salat und Tomate.",
+      "fr": "Je voudrais un sandwich laitue-tomate.",
+      "it": "Vorrei un panino con lattuga e pomodoro.",
+      "es": "Quiero un sándwich con lechuga y tomate."
+    },
+    {
+      "en": "Our rabbit loves fresh [lettuce].",
+      "tr": "Tavşanımız taze marula bayılır.",
+      "de": "Unser Kaninchen liebt frischen Salat.",
+      "fr": "Notre lapin adore la laitue fraîche.",
+      "it": "Il nostro coniglio adora la lattuga fresca.",
+      "es": "A nuestro conejo le encanta la lechuga fresca."
+    }
+  ]
+}

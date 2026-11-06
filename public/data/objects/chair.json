@@ -1,0 +1,52 @@
+{
+  "id": "chair",
+  "name": "chair",
+  "names": {
+    "tr": "sandalye",
+    "de": "der Stuhl",
+    "fr": "la chaise",
+    "it": "la sedia",
+    "es": "la silla"
+  },
+  "definition": {
+    "en": "a seat for one person, with a back and usually four legs",
+    "tr": "bir kişilik, arkalıklı, genellikle dört ayaklı oturak",
+    "de": "ein Sitz für eine Person mit Lehne und meist vier Beinen",
+    "fr": "un siège pour une personne, avec un dossier et souvent quatre pieds",
+    "it": "un sedile per una persona, con schienale e di solito quattro gambe",
+    "es": "un asiento para una persona, con respaldo y normalmente cuatro patas"
+  },
+  "breakdown": {},
+  "origin": "Old French chaiere ← Latin cathedra ← Greek kathédra (a seat; compare cathedral)",
+  "root": null,
+  "image": {
+    "file": "Silla-Abuelo.jpg",
+    "wikidata": "Q15026"
+  },
+  "sentences": [
+    {
+      "en": "Pull up a [chair] and sit with us.",
+      "tr": "Bir sandalye çek ve bizimle otur.",
+      "de": "Hol dir einen Stuhl und setz dich zu uns.",
+      "fr": "Prends une chaise et assieds-toi avec nous.",
+      "it": "Prendi una sedia e siediti con noi.",
+      "es": "Coge una silla y siéntate con nosotros."
+    },
+    {
+      "en": "This kitchen [chair] wobbles.",
+      "tr": "Bu mutfak sandalyesi sallanıyor.",
+      "de": "Dieser Küchenstuhl wackelt.",
+      "fr": "Cette chaise de cuisine est bancale.",
+      "it": "Questa sedia della cucina traballa.",
+      "es": "Esta silla de la cocina cojea."
+    },
+    {
+      "en": "She stood on a [chair] to reach the shelf.",
+      "tr": "Rafa uzanmak için sandalyeye çıktı.",
+      "de": "Sie stieg auf einen Stuhl, um ans Regal zu kommen.",
+      "fr": "Elle est montée sur une chaise pour atteindre l'étagère.",
+      "it": "È salita su una sedia per arrivare allo scaffale.",
+      "es": "Se subió a una silla para llegar a la estantería."
+    }
+  ]
+}
