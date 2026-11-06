@@ -1644,6 +1644,46 @@
     ]
   },
   {
+    "id": "prehend",
+    "forms": [
+      "prehend",
+      "prehens",
+      "prise",
+      "pris",
+      "pren"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to seize, to grasp (French prendre, pris)",
+      "tr": "kavramak, yakalamak (Fransızca prendre, pris)",
+      "de": "ergreifen, fassen (französisch prendre, pris)",
+      "fr": "saisir, prendre (français prendre, pris)",
+      "it": "afferrare, prendere (francese prendre, pris)",
+      "es": "agarrar, asir (francés prendre, pris)"
+    },
+    "words": [
+      "comprehend",
+      "comprehension",
+      "comprehensive",
+      "comprehensively",
+      "comprehensible",
+      "incomprehensible",
+      "apprehend",
+      "apprehension",
+      "apprehensive",
+      "misapprehension",
+      "reprehensible",
+      "prehensile",
+      "comprise",
+      "enterprise",
+      "enterprising",
+      "entrepreneur",
+      "surprise",
+      "surprising",
+      "surprised"
+    ]
+  },
+  {
     "id": "press",
     "forms": [
       "press"

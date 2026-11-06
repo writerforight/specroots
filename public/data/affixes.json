@@ -1573,12 +1573,12 @@
   "enter-": {
     "kind": "prefix",
     "meaning": {
-      "en": "between (French entre, from inter-)",
-      "tr": "arasında (Fransızca entre, inter-'den)",
-      "de": "zwischen (französisch entre, von inter-)",
-      "fr": "entre (de inter-)",
-      "it": "tra (francese entre, da inter-)",
-      "es": "entre (francés entre, de inter-)"
+      "en": "between, in hand (French entre, from Latin inter-)",
+      "tr": "arasına, ele (Fransızca entre, Latince inter-)",
+      "de": "zwischen, in die Hand (französisch entre, von lateinisch inter-)",
+      "fr": "entre (du latin inter-)",
+      "it": "tra, in mano (francese entre, dal latino inter-)",
+      "es": "entre (francés entre, del latín inter-)"
     }
   },
   "lieu-": {
@@ -3020,6 +3020,39 @@
       "fr": "-isation (forme un nom)",
       "it": "-izzazione (forma un nome)",
       "es": "-ización (forma un sustantivo)"
+    }
+  },
+  "sur-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "over, above (French, from Latin super-)",
+      "tr": "üstüne, üzerine (Fransızca, Latince super-)",
+      "de": "über (französisch, von lateinisch super-)",
+      "fr": "sur, au-dessus (du latin super-)",
+      "it": "sopra (francese, dal latino super-)",
+      "es": "sobre, encima (francés, del latín super-)"
+    }
+  },
+  "entre-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "between, in hand (French spelling of enter-)",
+      "tr": "arasına, ele (enter- ekinin Fransızca yazımı)",
+      "de": "zwischen, in die Hand (französische Schreibung von enter-)",
+      "fr": "entre (graphie française de enter-)",
+      "it": "tra, in mano (grafia francese di enter-)",
+      "es": "entre (grafía francesa de enter-)"
+    }
+  },
+  "-eur": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "person who does (French spelling of -or)",
+      "tr": "yapan kişi (-or ekinin Fransızca yazımı)",
+      "de": "Person, die etwas tut (französische Schreibung von -or)",
+      "fr": "personne qui fait (-eur)",
+      "it": "persona che fa (grafia francese di -or)",
+      "es": "persona que hace (grafía francesa de -or)"
     }
   }
 }

@@ -1,0 +1,703 @@
+{
+  "id": "prehend",
+  "forms": [
+    "prehend",
+    "prehens",
+    "prise",
+    "pris",
+    "pren"
+  ],
+  "origin": "la",
+  "etymon": "prehendere",
+  "meaning": {
+    "en": "to seize, to grasp (French prendre, pris)",
+    "tr": "kavramak, yakalamak (Fransızca prendre, pris)",
+    "de": "ergreifen, fassen (französisch prendre, pris)",
+    "fr": "saisir, prendre (français prendre, pris)",
+    "it": "afferrare, prendere (francese prendre, pris)",
+    "es": "agarrar, asir (francés prendre, pris)"
+  },
+  "words": [
+    {
+      "id": "comprehend",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "com-",
+        "prehend"
+      ],
+      "gloss": {
+        "en": "to understand fully; literally: to grasp together",
+        "tr": "kavramak, tam anlamak",
+        "de": "begreifen, verstehen",
+        "fr": "comprendre",
+        "it": "comprendere",
+        "es": "comprender"
+      },
+      "sentences": [
+        {
+          "en": "Some children cannot [comprehend] long sentences yet.",
+          "tr": "Bazı çocuklar uzun cümleleri henüz kavrayamıyor.",
+          "de": "Manche Kinder können lange Sätze noch nicht begreifen.",
+          "fr": "Certains enfants ne comprennent pas encore les longues phrases.",
+          "it": "Alcuni bambini non comprendono ancora le frasi lunghe.",
+          "es": "Algunos niños aún no comprenden las frases largas."
+        },
+        {
+          "en": "I can't [comprehend] why he left.",
+          "tr": "Neden gittiğini kavrayamıyorum.",
+          "de": "Ich kann nicht begreifen, warum er gegangen ist.",
+          "fr": "Je ne comprends pas pourquoi il est parti.",
+          "it": "Non riesco a comprendere perché sia andato via.",
+          "es": "No logro comprender por qué se fue."
+        }
+      ]
+    },
+    {
+      "id": "comprehension",
+      "pos": "noun",
+      "parent": "comprehend",
+      "parts": [
+        "com-",
+        "prehens",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "understanding; the ability to understand",
+        "tr": "anlama, kavrayış",
+        "de": "das Verständnis",
+        "fr": "la compréhension",
+        "it": "la comprensione",
+        "es": "la comprensión"
+      },
+      "sentences": [
+        {
+          "en": "The test checks your reading [comprehension].",
+          "tr": "Test okuduğunu anlama becerini ölçüyor.",
+          "de": "Der Test prüft dein Leseverständnis.",
+          "fr": "Le test vérifie ta compréhension écrite.",
+          "it": "Il test verifica la tua comprensione del testo.",
+          "es": "El examen comprueba tu comprensión lectora."
+        },
+        {
+          "en": "The problem was beyond my [comprehension].",
+          "tr": "Sorun benim kavrayışımın ötesindeydi.",
+          "de": "Das Problem ging über mein Verständnis hinaus.",
+          "fr": "Le problème dépassait ma compréhension.",
+          "it": "Il problema andava oltre la mia comprensione.",
+          "es": "El problema superaba mi comprensión."
+        }
+      ]
+    },
+    {
+      "id": "comprehensive",
+      "pos": "adjective",
+      "parent": "comprehend",
+      "parts": [
+        "com-",
+        "prehens",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "including everything or almost everything; literally: grasping all together",
+        "tr": "kapsamlı, her şeyi içeren",
+        "de": "umfassend",
+        "fr": "complet, exhaustif",
+        "it": "completo, esauriente",
+        "es": "completo, exhaustivo"
+      },
+      "sentences": [
+        {
+          "en": "She wrote a [comprehensive] report on the project.",
+          "tr": "Proje hakkında kapsamlı bir rapor yazdı.",
+          "de": "Sie schrieb einen umfassenden Bericht über das Projekt.",
+          "fr": "Elle a écrit un rapport complet sur le projet.",
+          "it": "Ha scritto una relazione completa sul progetto.",
+          "es": "Escribió un informe completo sobre el proyecto."
+        },
+        {
+          "en": "The book gives a [comprehensive] view of the war.",
+          "tr": "Kitap savaşa kapsamlı bir bakış sunuyor.",
+          "de": "Das Buch bietet einen umfassenden Blick auf den Krieg.",
+          "fr": "Le livre donne une vue d'ensemble de la guerre.",
+          "it": "Il libro offre una visione completa della guerra.",
+          "es": "El libro ofrece una visión completa de la guerra."
+        }
+      ]
+    },
+    {
+      "id": "comprehensively",
+      "pos": "adverb",
+      "parent": "comprehensive",
+      "parts": [
+        "com-",
+        "prehens",
+        "-ive",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "in a way that covers everything",
+        "tr": "kapsamlı biçimde",
+        "de": "umfassend",
+        "fr": "de manière complète",
+        "it": "in modo esauriente",
+        "es": "de forma exhaustiva"
+      },
+      "sentences": [
+        {
+          "en": "The topic was [comprehensively] explained in class.",
+          "tr": "Konu derste kapsamlı biçimde anlatıldı.",
+          "de": "Das Thema wurde im Unterricht umfassend erklärt.",
+          "fr": "Le sujet a été expliqué de manière complète en classe.",
+          "it": "L'argomento è stato spiegato in modo esauriente in classe.",
+          "es": "El tema se explicó de forma exhaustiva en clase."
+        },
+        {
+          "en": "The team was [comprehensively] beaten.",
+          "tr": "Takım ezici biçimde yenildi.",
+          "de": "Die Mannschaft wurde klar geschlagen.",
+          "fr": "L'équipe a été battue à plate couture.",
+          "it": "La squadra è stata battuta nettamente.",
+          "es": "El equipo fue derrotado por completo."
+        }
+      ]
+    },
+    {
+      "id": "comprehensible",
+      "pos": "adjective",
+      "parent": "comprehend",
+      "parts": [
+        "com-",
+        "prehens",
+        "-ible"
+      ],
+      "gloss": {
+        "en": "able to be understood",
+        "tr": "anlaşılır",
+        "de": "verständlich",
+        "fr": "compréhensible",
+        "it": "comprensibile",
+        "es": "comprensible"
+      },
+      "sentences": [
+        {
+          "en": "Please make your notes [comprehensible] to others.",
+          "tr": "Lütfen notlarını başkaları için anlaşılır yap.",
+          "de": "Bitte mach deine Notizen für andere verständlich.",
+          "fr": "Rends tes notes compréhensibles pour les autres, s'il te plaît.",
+          "it": "Per favore, rendi i tuoi appunti comprensibili agli altri.",
+          "es": "Por favor, haz que tus apuntes sean comprensibles para otros."
+        },
+        {
+          "en": "His fear is [comprehensible] after the accident.",
+          "tr": "Kazadan sonra korkusu anlaşılır.",
+          "de": "Nach dem Unfall ist seine Angst verständlich.",
+          "fr": "Sa peur est compréhensible après l'accident.",
+          "it": "La sua paura è comprensibile dopo l'incidente.",
+          "es": "Su miedo es comprensible después del accidente."
+        }
+      ]
+    },
+    {
+      "id": "incomprehensible",
+      "pos": "adjective",
+      "parent": "comprehensible",
+      "parts": [
+        "in-not-",
+        "com-",
+        "prehens",
+        "-ible"
+      ],
+      "gloss": {
+        "en": "impossible to understand",
+        "tr": "anlaşılmaz",
+        "de": "unverständlich",
+        "fr": "incompréhensible",
+        "it": "incomprensibile",
+        "es": "incomprensible"
+      },
+      "sentences": [
+        {
+          "en": "The instructions were [incomprehensible] to me.",
+          "tr": "Talimatlar bana anlaşılmaz geldi.",
+          "de": "Die Anleitung war für mich unverständlich.",
+          "fr": "Les instructions étaient incompréhensibles pour moi.",
+          "it": "Le istruzioni per me erano incomprensibili.",
+          "es": "Las instrucciones me resultaron incomprensibles."
+        },
+        {
+          "en": "He muttered something [incomprehensible].",
+          "tr": "Anlaşılmaz bir şey mırıldandı.",
+          "de": "Er murmelte etwas Unverständliches.",
+          "fr": "Il a marmonné quelque chose d'incompréhensible.",
+          "it": "Ha borbottato qualcosa di incomprensibile.",
+          "es": "Murmuró algo incomprensible."
+        }
+      ]
+    },
+    {
+      "id": "apprehend",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ap-",
+        "prehend"
+      ],
+      "gloss": {
+        "en": "to arrest someone; also: to understand; literally: to seize toward oneself",
+        "tr": "yakalamak, tutuklamak; kavramak",
+        "de": "festnehmen; erfassen",
+        "fr": "appréhender, arrêter; saisir",
+        "it": "arrestare; cogliere",
+        "es": "detener, aprehender; captar"
+      },
+      "sentences": [
+        {
+          "en": "The police [apprehended] the driver near the border.",
+          "tr": "Polis sürücüyü sınıra yakın yakaladı.",
+          "de": "Die Polizei nahm den Fahrer nahe der Grenze fest.",
+          "fr": "La police a appréhendé le conducteur près de la frontière.",
+          "it": "La polizia ha arrestato l'autista vicino al confine.",
+          "es": "La policía detuvo al conductor cerca de la frontera."
+        },
+        {
+          "en": "Babies [apprehend] the world through their senses.",
+          "tr": "Bebekler dünyayı duyularıyla kavrar.",
+          "de": "Babys erfassen die Welt mit ihren Sinnen.",
+          "fr": "Les bébés saisissent le monde par leurs sens.",
+          "it": "I neonati colgono il mondo attraverso i sensi.",
+          "es": "Los bebés captan el mundo a través de los sentidos."
+        }
+      ]
+    },
+    {
+      "id": "apprehension",
+      "pos": "noun",
+      "parent": "apprehend",
+      "parts": [
+        "ap-",
+        "prehens",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "worry that something bad will happen; also: an arrest",
+        "tr": "kaygı, endişe; yakalama",
+        "de": "die Besorgnis; die Festnahme",
+        "fr": "l'appréhension, la crainte; l'arrestation",
+        "it": "l'apprensione, il timore; l'arresto",
+        "es": "la aprensión, el temor; la detención"
+      },
+      "sentences": [
+        {
+          "en": "She opened the letter with [apprehension].",
+          "tr": "Mektubu endişeyle açtı.",
+          "de": "Sie öffnete den Brief mit Besorgnis.",
+          "fr": "Elle a ouvert la lettre avec appréhension.",
+          "it": "Ha aperto la lettera con apprensione.",
+          "es": "Abrió la carta con aprensión."
+        },
+        {
+          "en": "The [apprehension] of the thief took two days.",
+          "tr": "Hırsızın yakalanması iki gün sürdü.",
+          "de": "Die Festnahme des Diebes dauerte zwei Tage.",
+          "fr": "L'arrestation du voleur a pris deux jours.",
+          "it": "L'arresto del ladro ha richiesto due giorni.",
+          "es": "La detención del ladrón tardó dos días."
+        }
+      ]
+    },
+    {
+      "id": "apprehensive",
+      "pos": "adjective",
+      "parent": "apprehend",
+      "parts": [
+        "ap-",
+        "prehens",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "worried or a little afraid about the future",
+        "tr": "kaygılı, tedirgin",
+        "de": "besorgt, ängstlich",
+        "fr": "inquiet, appréhensif",
+        "it": "apprensivo, preoccupato",
+        "es": "aprensivo, inquieto"
+      },
+      "sentences": [
+        {
+          "en": "I felt [apprehensive] before my first exam.",
+          "tr": "İlk sınavımdan önce tedirgin hissettim.",
+          "de": "Vor meiner ersten Prüfung war ich besorgt.",
+          "fr": "J'étais inquiet avant mon premier examen.",
+          "it": "Ero apprensivo prima del mio primo esame.",
+          "es": "Me sentía inquieto antes de mi primer examen."
+        },
+        {
+          "en": "Many people are [apprehensive] about the new rules.",
+          "tr": "Birçok kişi yeni kurallar konusunda kaygılı.",
+          "de": "Viele Menschen sind wegen der neuen Regeln besorgt.",
+          "fr": "Beaucoup de gens sont inquiets face aux nouvelles règles.",
+          "it": "Molte persone sono preoccupate per le nuove regole.",
+          "es": "Mucha gente está inquieta por las nuevas normas."
+        }
+      ]
+    },
+    {
+      "id": "misapprehension",
+      "pos": "noun",
+      "parent": "apprehension",
+      "parts": [
+        "mis-",
+        "ap-",
+        "prehens",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a wrong belief or understanding",
+        "tr": "yanlış anlama, yanılgı",
+        "de": "das Missverständnis, der Irrtum",
+        "fr": "le malentendu, l'idée fausse",
+        "it": "il malinteso, l'equivoco",
+        "es": "el malentendido, la idea equivocada"
+      },
+      "sentences": [
+        {
+          "en": "He was under the [misapprehension] that the shop was open.",
+          "tr": "Dükkânın açık olduğu yanılgısındaydı.",
+          "de": "Er war im Irrtum, dass der Laden geöffnet sei.",
+          "fr": "Il croyait à tort que le magasin était ouvert.",
+          "it": "Era nell'equivoco che il negozio fosse aperto.",
+          "es": "Tenía la idea equivocada de que la tienda estaba abierta."
+        },
+        {
+          "en": "Let me correct a common [misapprehension].",
+          "tr": "Yaygın bir yanılgıyı düzelteyim.",
+          "de": "Lass mich einen verbreiteten Irrtum korrigieren.",
+          "fr": "Laisse-moi corriger une idée fausse courante.",
+          "it": "Lasciami correggere un equivoco comune.",
+          "es": "Déjame corregir un malentendido frecuente."
+        }
+      ]
+    },
+    {
+      "id": "reprehensible",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "re-",
+        "prehens",
+        "-ible"
+      ],
+      "gloss": {
+        "en": "deserving strong blame; literally: that should be held back",
+        "tr": "kınanacak, ayıplanacak",
+        "de": "verwerflich, tadelnswert",
+        "fr": "répréhensible",
+        "it": "riprovevole",
+        "es": "reprensible, censurable"
+      },
+      "sentences": [
+        {
+          "en": "Lying to sick people is [reprehensible].",
+          "tr": "Hasta insanlara yalan söylemek ayıplanacak bir şey.",
+          "de": "Kranke Menschen anzulügen ist verwerflich.",
+          "fr": "Mentir aux malades est répréhensible.",
+          "it": "Mentire ai malati è riprovevole.",
+          "es": "Mentir a los enfermos es reprensible."
+        },
+        {
+          "en": "The judge called his actions [reprehensible].",
+          "tr": "Hâkim onun davranışlarını kınanacak diye niteledi.",
+          "de": "Der Richter nannte sein Verhalten verwerflich.",
+          "fr": "Le juge a qualifié ses actes de répréhensibles.",
+          "it": "Il giudice ha definito le sue azioni riprovevoli.",
+          "es": "El juez calificó sus actos de censurables."
+        }
+      ]
+    },
+    {
+      "id": "prehensile",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "prehens",
+        "-ile"
+      ],
+      "gloss": {
+        "en": "able to grab and hold things (of a tail, hand or foot)",
+        "tr": "kavrayıcı, tutabilen",
+        "de": "greiffähig, Greif-",
+        "fr": "préhensile",
+        "it": "prensile",
+        "es": "prensil"
+      },
+      "sentences": [
+        {
+          "en": "Some monkeys have a [prehensile] tail.",
+          "tr": "Bazı maymunların tutabilen bir kuyruğu vardır.",
+          "de": "Manche Affen haben einen Greifschwanz.",
+          "fr": "Certains singes ont une queue préhensile.",
+          "it": "Alcune scimmie hanno una coda prensile.",
+          "es": "Algunos monos tienen la cola prensil."
+        },
+        {
+          "en": "An elephant's trunk is [prehensile].",
+          "tr": "Filin hortumu kavrayıcıdır.",
+          "de": "Der Rüssel eines Elefanten ist greiffähig.",
+          "fr": "La trompe de l'éléphant est préhensile.",
+          "it": "La proboscide dell'elefante è prensile.",
+          "es": "La trompa del elefante es prensil."
+        }
+      ]
+    },
+    {
+      "id": "comprise",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "com-",
+        "prise"
+      ],
+      "gloss": {
+        "en": "to consist of; to be made up of; literally: to take together",
+        "tr": "oluşmak, kapsamak",
+        "de": "bestehen aus, umfassen",
+        "fr": "comprendre, se composer de",
+        "it": "comprendere, essere composto da",
+        "es": "comprender, constar de"
+      },
+      "sentences": [
+        {
+          "en": "The course [comprises] ten lessons.",
+          "tr": "Kurs on dersten oluşuyor.",
+          "de": "Der Kurs umfasst zehn Lektionen.",
+          "fr": "Le cours comprend dix leçons.",
+          "it": "Il corso comprende dieci lezioni.",
+          "es": "El curso consta de diez lecciones."
+        },
+        {
+          "en": "Women [comprise] half of the team.",
+          "tr": "Ekibin yarısını kadınlar oluşturuyor.",
+          "de": "Frauen machen die Hälfte des Teams aus.",
+          "fr": "Les femmes forment la moitié de l'équipe.",
+          "it": "Le donne costituiscono metà della squadra.",
+          "es": "Las mujeres forman la mitad del equipo."
+        }
+      ]
+    },
+    {
+      "id": "enterprise",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "enter-",
+        "prise"
+      ],
+      "gloss": {
+        "en": "a company; also: a new, bold project; literally: something taken in hand",
+        "tr": "girişim, işletme",
+        "de": "das Unternehmen",
+        "fr": "l'entreprise",
+        "it": "l'impresa",
+        "es": "la empresa"
+      },
+      "sentences": [
+        {
+          "en": "She runs a small [enterprise] in her village.",
+          "tr": "Köyünde küçük bir işletme yürütüyor.",
+          "de": "Sie führt ein kleines Unternehmen in ihrem Dorf.",
+          "fr": "Elle dirige une petite entreprise dans son village.",
+          "it": "Gestisce una piccola impresa nel suo paese.",
+          "es": "Dirige una pequeña empresa en su pueblo."
+        },
+        {
+          "en": "Climbing the mountain was a risky [enterprise].",
+          "tr": "Dağa tırmanmak riskli bir girişimdi.",
+          "de": "Den Berg zu besteigen war ein riskantes Unternehmen.",
+          "fr": "Gravir la montagne était une entreprise risquée.",
+          "it": "Scalare la montagna era un'impresa rischiosa.",
+          "es": "Escalar la montaña fue una empresa arriesgada."
+        }
+      ]
+    },
+    {
+      "id": "enterprising",
+      "pos": "adjective",
+      "parent": "enterprise",
+      "parts": [
+        "enter-",
+        "pris",
+        "-ing"
+      ],
+      "gloss": {
+        "en": "full of new ideas and ready to try them",
+        "tr": "girişken, atılgan",
+        "de": "unternehmungslustig",
+        "fr": "entreprenant",
+        "it": "intraprendente",
+        "es": "emprendedor"
+      },
+      "sentences": [
+        {
+          "en": "An [enterprising] student started a bike repair service.",
+          "tr": "Girişken bir öğrenci bisiklet tamir hizmeti başlattı.",
+          "de": "Ein unternehmungslustiger Student gründete einen Fahrradreparaturdienst.",
+          "fr": "Un étudiant entreprenant a lancé un service de réparation de vélos.",
+          "it": "Uno studente intraprendente ha avviato un servizio di riparazione bici.",
+          "es": "Un estudiante emprendedor creó un servicio de reparación de bicis."
+        },
+        {
+          "en": "She is clever and [enterprising].",
+          "tr": "Zeki ve atılgan biri.",
+          "de": "Sie ist klug und unternehmungslustig.",
+          "fr": "Elle est intelligente et entreprenante.",
+          "it": "È intelligente e intraprendente.",
+          "es": "Es lista y emprendedora."
+        }
+      ]
+    },
+    {
+      "id": "entrepreneur",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "entre-",
+        "pren",
+        "-eur"
+      ],
+      "gloss": {
+        "en": "a person who starts a business and takes the risk",
+        "tr": "girişimci",
+        "de": "der Unternehmer",
+        "fr": "l'entrepreneur",
+        "it": "l'imprenditore",
+        "es": "el emprendedor"
+      },
+      "sentences": [
+        {
+          "en": "The young [entrepreneur] opened three cafés.",
+          "tr": "Genç girişimci üç kafe açtı.",
+          "de": "Der junge Unternehmer eröffnete drei Cafés.",
+          "fr": "Le jeune entrepreneur a ouvert trois cafés.",
+          "it": "Il giovane imprenditore ha aperto tre caffè.",
+          "es": "El joven emprendedor abrió tres cafeterías."
+        },
+        {
+          "en": "Every [entrepreneur] fails sometimes.",
+          "tr": "Her girişimci bazen başarısız olur.",
+          "de": "Jeder Unternehmer scheitert manchmal.",
+          "fr": "Tout entrepreneur échoue parfois.",
+          "it": "Ogni imprenditore a volte fallisce.",
+          "es": "Todo emprendedor fracasa a veces."
+        }
+      ]
+    },
+    {
+      "id": "surprise",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "sur-",
+        "prise"
+      ],
+      "gloss": {
+        "en": "something unexpected; literally: a seizing from above (also a verb: to surprise someone)",
+        "tr": "sürpriz, şaşkınlık",
+        "de": "die Überraschung",
+        "fr": "la surprise",
+        "it": "la sorpresa",
+        "es": "la sorpresa"
+      },
+      "sentences": [
+        {
+          "en": "We planned a [surprise] for her birthday.",
+          "tr": "Doğum günü için ona bir sürpriz planladık.",
+          "de": "Wir haben eine Überraschung zu ihrem Geburtstag geplant.",
+          "fr": "Nous avons préparé une surprise pour son anniversaire.",
+          "it": "Abbiamo organizzato una sorpresa per il suo compleanno.",
+          "es": "Preparamos una sorpresa para su cumpleaños."
+        },
+        {
+          "en": "To my [surprise], the bus was on time.",
+          "tr": "Şaşırtıcı bir şekilde otobüs zamanında geldi.",
+          "de": "Zu meiner Überraschung war der Bus pünktlich.",
+          "fr": "À ma surprise, le bus était à l'heure.",
+          "it": "Con mia sorpresa, l'autobus era puntuale.",
+          "es": "Para mi sorpresa, el autobús llegó a tiempo."
+        }
+      ]
+    },
+    {
+      "id": "surprising",
+      "pos": "adjective",
+      "parent": "surprise",
+      "parts": [
+        "sur-",
+        "pris",
+        "-ing"
+      ],
+      "gloss": {
+        "en": "unexpected; causing surprise",
+        "tr": "şaşırtıcı",
+        "de": "überraschend",
+        "fr": "surprenant",
+        "it": "sorprendente",
+        "es": "sorprendente"
+      },
+      "sentences": [
+        {
+          "en": "The results were [surprising].",
+          "tr": "Sonuçlar şaşırtıcıydı.",
+          "de": "Die Ergebnisse waren überraschend.",
+          "fr": "Les résultats étaient surprenants.",
+          "it": "I risultati erano sorprendenti.",
+          "es": "Los resultados fueron sorprendentes."
+        },
+        {
+          "en": "It's not [surprising] that he is tired.",
+          "tr": "Yorgun olması şaşırtıcı değil.",
+          "de": "Es ist nicht überraschend, dass er müde ist.",
+          "fr": "Ce n'est pas surprenant qu'il soit fatigué.",
+          "it": "Non è sorprendente che sia stanco.",
+          "es": "No es sorprendente que esté cansado."
+        }
+      ]
+    },
+    {
+      "id": "surprised",
+      "pos": "adjective",
+      "parent": "surprise",
+      "parts": [
+        "sur-",
+        "pris",
+        "-ed"
+      ],
+      "gloss": {
+        "en": "feeling surprise",
+        "tr": "şaşırmış",
+        "de": "überrascht",
+        "fr": "surpris",
+        "it": "sorpreso",
+        "es": "sorprendido"
+      },
+      "sentences": [
+        {
+          "en": "I was [surprised] to see you here.",
+          "tr": "Seni burada gördüğüme şaşırdım.",
+          "de": "Ich war überrascht, dich hier zu sehen.",
+          "fr": "J'ai été surpris de te voir ici.",
+          "it": "Sono rimasto sorpreso di vederti qui.",
+          "es": "Me sorprendió verte aquí."
+        },
+        {
+          "en": "She looked [surprised] by the question.",
+          "tr": "Soru karşısında şaşırmış görünüyordu.",
+          "de": "Sie wirkte von der Frage überrascht.",
+          "fr": "Elle avait l'air surprise par la question.",
+          "it": "Sembrava sorpresa dalla domanda.",
+          "es": "Parecía sorprendida por la pregunta."
+        }
+      ]
+    }
+  ]
+}
