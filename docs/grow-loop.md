@@ -45,7 +45,7 @@ yanına `(az: N)` yaz. Toplam hedef ≈ 1000–2000 kelime.
 - Aynı test iki turdur düzelmiyorsa ya da push reddediliyorsa döngüyü durdur ve nedenini yaz.
 
 ## Durum
-Kök: 67 · Kelime: 1557 kayıt, 1550 ayrı kelime (5 birleşik kelime iki kökte). Kuyruk bitti; D2 kapandı (2026-10-19, 949 kelime). 2026-10-22: mevcut köklere +177 kelime, 51. kök nunci (+15), 52. kök cad (+20). 2026-10-29: mevcut 37 köke +177 kelime. 2026-10-30: 53. kök tempt (+10), 54. kök act (+25), 55. kök nect (+13). 2026-10-31: 56. kök trib (+14); pel'e appeal ailesi (+3). 2026-11-06: 57. kök prehend (+19); 58. kök sequ (+14), 59. kök solv (+11), 60. kök vinc (+12); 61. kök leg (+14), 62. kök sum (+10), 63. kök scend (+9).
+Kök: 69 · Kelime: 1578 kayıt, 1571 ayrı kelime (5 birleşik kelime iki kökte). Kuyruk bitti; D2 kapandı (2026-10-19, 949 kelime). 2026-10-22: mevcut köklere +177 kelime, 51. kök nunci (+15), 52. kök cad (+20). 2026-10-29: mevcut 37 köke +177 kelime. 2026-10-30: 53. kök tempt (+10), 54. kök act (+25), 55. kök nect (+13). 2026-10-31: 56. kök trib (+14); pel'e appeal ailesi (+3). 2026-11-06: 57. kök prehend (+19); 58. kök sequ (+14), 59. kök solv (+11), 60. kök vinc (+12); 61. kök leg (+14), 62. kök sum (+10), 63. kök scend (+9).
 
 ## Kuyruk
 
@@ -117,8 +117,8 @@ Latince (`"origin": "la"`):
 - [x] man / manu — 16 (az: 16) — el (manual, manufacture, manuscript, manage, manipulate)
 - [x] ped / pedi — 11 (az: 11) — ayak (pedal, pedestrian, expedition, impede) — Yunanca *paid-* (çocuk) ile karıştırma
 - [x] corp / corpor — 10 (az: 10) — beden (corpse, corporation, incorporate, corporal)
-- [ ] sci — bilmek (science, conscious, conscience, omniscient)
-- [ ] nov — yeni (novel, novice, innovate, renovate)
+- [x] sci — 11 (az: 11) — bilmek (science, conscious, conscience, omniscient)
+- [x] nov — 10 (az: 10) — yeni (novel, novice, innovate, renovate)
 - [ ] mort — ölüm (mortal, immortal, mortgage, mortify)
 - [ ] viv / vit — yaşamak (vivid, survive, revive, vital, vitamin)
 - [ ] terr — toprak (territory, terrain, terrace, Mediterranean, extraterrestrial)

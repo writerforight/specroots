@@ -1,0 +1,417 @@
+{
+  "id": "sci",
+  "forms": [
+    "sci"
+  ],
+  "origin": "la",
+  "etymon": "scire",
+  "meaning": {
+    "en": "to know",
+    "tr": "bilmek",
+    "de": "wissen",
+    "fr": "savoir",
+    "it": "sapere",
+    "es": "saber"
+  },
+  "words": [
+    {
+      "id": "science",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "sci",
+        "-ence"
+      ],
+      "gloss": {
+        "en": "knowledge about the world gained by study and experiment; literally: knowing",
+        "tr": "bilim",
+        "de": "die Wissenschaft",
+        "fr": "la science",
+        "it": "la scienza",
+        "es": "la ciencia"
+      },
+      "sentences": [
+        {
+          "en": "She loves [science], especially biology.",
+          "tr": "Bilimi, özellikle biyolojiyi seviyor.",
+          "de": "Sie liebt Naturwissenschaften, besonders Biologie.",
+          "fr": "Elle adore les sciences, surtout la biologie.",
+          "it": "Adora la scienza, soprattutto la biologia.",
+          "es": "Le encanta la ciencia, sobre todo la biología."
+        },
+        {
+          "en": "Computer [science] is a popular subject.",
+          "tr": "Bilgisayar bilimi popüler bir bölüm.",
+          "de": "Informatik ist ein beliebtes Fach.",
+          "fr": "L'informatique est une matière populaire.",
+          "it": "L'informatica è una materia popolare.",
+          "es": "La informática es una asignatura popular."
+        }
+      ]
+    },
+    {
+      "id": "scientist",
+      "pos": "noun",
+      "parent": "science",
+      "parts": [
+        "sci",
+        "-ent",
+        "-ist"
+      ],
+      "gloss": {
+        "en": "a person who works in science",
+        "tr": "bilim insanı",
+        "de": "der Wissenschaftler",
+        "fr": "le scientifique",
+        "it": "lo scienziato",
+        "es": "el científico"
+      },
+      "sentences": [
+        {
+          "en": "The [scientist] repeated the experiment.",
+          "tr": "Bilim insanı deneyi tekrarladı.",
+          "de": "Die Wissenschaftlerin wiederholte das Experiment.",
+          "fr": "La scientifique a répété l'expérience.",
+          "it": "La scienziata ha ripetuto l'esperimento.",
+          "es": "La científica repitió el experimento."
+        },
+        {
+          "en": "[Scientists] warn about climate change.",
+          "tr": "Bilim insanları iklim değişikliği konusunda uyarıyor.",
+          "de": "Wissenschaftler warnen vor dem Klimawandel.",
+          "fr": "Les scientifiques mettent en garde contre le changement climatique.",
+          "it": "Gli scienziati mettono in guardia sul cambiamento climatico.",
+          "es": "Los científicos advierten sobre el cambio climático."
+        }
+      ]
+    },
+    {
+      "id": "scientific",
+      "pos": "adjective",
+      "parent": "science",
+      "parts": [
+        "sci",
+        "-ent",
+        "-ific"
+      ],
+      "gloss": {
+        "en": "based on science and its methods",
+        "tr": "bilimsel",
+        "de": "wissenschaftlich",
+        "fr": "scientifique",
+        "it": "scientifico",
+        "es": "científico"
+      },
+      "sentences": [
+        {
+          "en": "There is no [scientific] proof for that.",
+          "tr": "Bunun bilimsel bir kanıtı yok.",
+          "de": "Dafür gibt es keinen wissenschaftlichen Beweis.",
+          "fr": "Il n'y a aucune preuve scientifique de cela.",
+          "it": "Non c'è nessuna prova scientifica di questo.",
+          "es": "No hay ninguna prueba científica de eso."
+        },
+        {
+          "en": "He reads [scientific] articles every week.",
+          "tr": "Her hafta bilimsel makaleler okuyor.",
+          "de": "Er liest jede Woche wissenschaftliche Artikel.",
+          "fr": "Il lit des articles scientifiques chaque semaine.",
+          "it": "Legge articoli scientifici ogni settimana.",
+          "es": "Lee artículos científicos cada semana."
+        }
+      ]
+    },
+    {
+      "id": "conscious",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "con-",
+        "sci",
+        "-ous"
+      ],
+      "gloss": {
+        "en": "awake and aware; knowing about something; literally: knowing together (with oneself)",
+        "tr": "bilinçli, farkında; ayık",
+        "de": "bewusst; bei Bewusstsein",
+        "fr": "conscient",
+        "it": "cosciente, consapevole",
+        "es": "consciente"
+      },
+      "sentences": [
+        {
+          "en": "The patient is [conscious] and talking.",
+          "tr": "Hasta bilinçli ve konuşuyor.",
+          "de": "Der Patient ist bei Bewusstsein und spricht.",
+          "fr": "Le patient est conscient et parle.",
+          "it": "Il paziente è cosciente e parla.",
+          "es": "El paciente está consciente y habla."
+        },
+        {
+          "en": "She is very [conscious] of her health.",
+          "tr": "Sağlığı konusunda çok bilinçli.",
+          "de": "Sie ist sehr gesundheitsbewusst.",
+          "fr": "Elle est très soucieuse de sa santé.",
+          "it": "È molto attenta alla sua salute.",
+          "es": "Es muy consciente de su salud."
+        }
+      ]
+    },
+    {
+      "id": "consciousness",
+      "pos": "noun",
+      "parent": "conscious",
+      "parts": [
+        "con-",
+        "sci",
+        "-ous",
+        "-ness"
+      ],
+      "gloss": {
+        "en": "the state of being awake and aware",
+        "tr": "bilinç",
+        "de": "das Bewusstsein",
+        "fr": "la conscience",
+        "it": "la coscienza",
+        "es": "la conciencia"
+      },
+      "sentences": [
+        {
+          "en": "He lost [consciousness] after the fall.",
+          "tr": "Düştükten sonra bilincini kaybetti.",
+          "de": "Er verlor nach dem Sturz das Bewusstsein.",
+          "fr": "Il a perdu connaissance après la chute.",
+          "it": "Ha perso conoscenza dopo la caduta.",
+          "es": "Perdió el conocimiento tras la caída."
+        },
+        {
+          "en": "Philosophers still argue about [consciousness].",
+          "tr": "Filozoflar hâlâ bilinç üzerine tartışıyor.",
+          "de": "Philosophen streiten immer noch über das Bewusstsein.",
+          "fr": "Les philosophes débattent encore de la conscience.",
+          "it": "I filosofi discutono ancora sulla coscienza.",
+          "es": "Los filósofos todavía discuten sobre la conciencia."
+        }
+      ]
+    },
+    {
+      "id": "unconscious",
+      "pos": "adjective",
+      "parent": "conscious",
+      "parts": [
+        "un-",
+        "con-",
+        "sci",
+        "-ous"
+      ],
+      "gloss": {
+        "en": "not awake, as after a hit or in deep sleep; also: not aware",
+        "tr": "bilinçsiz, baygın; farkında olmadan",
+        "de": "bewusstlos; unbewusst",
+        "fr": "inconscient",
+        "it": "privo di sensi; inconscio",
+        "es": "inconsciente"
+      },
+      "sentences": [
+        {
+          "en": "The boxer lay [unconscious] on the floor.",
+          "tr": "Boksör yerde baygın yatıyordu.",
+          "de": "Der Boxer lag bewusstlos am Boden.",
+          "fr": "Le boxeur gisait inconscient sur le sol.",
+          "it": "Il pugile giaceva privo di sensi a terra.",
+          "es": "El boxeador yacía inconsciente en el suelo."
+        },
+        {
+          "en": "We all have [unconscious] habits.",
+          "tr": "Hepimizin farkında olmadığı alışkanlıkları var.",
+          "de": "Wir alle haben unbewusste Gewohnheiten.",
+          "fr": "Nous avons tous des habitudes inconscientes.",
+          "it": "Tutti abbiamo abitudini inconsce.",
+          "es": "Todos tenemos hábitos inconscientes."
+        }
+      ]
+    },
+    {
+      "id": "subconscious",
+      "pos": "adjective",
+      "parent": "conscious",
+      "parts": [
+        "sub-",
+        "con-",
+        "sci",
+        "-ous"
+      ],
+      "gloss": {
+        "en": "in the mind but below our awareness",
+        "tr": "bilinçaltı",
+        "de": "unterbewusst",
+        "fr": "subconscient",
+        "it": "subconscio",
+        "es": "subconsciente"
+      },
+      "sentences": [
+        {
+          "en": "Dreams may show our [subconscious] fears.",
+          "tr": "Rüyalar bilinçaltı korkularımızı gösterebilir.",
+          "de": "Träume zeigen vielleicht unsere unterbewussten Ängste.",
+          "fr": "Les rêves montrent peut-être nos peurs subconscientes.",
+          "it": "I sogni forse mostrano le nostre paure subconsce.",
+          "es": "Los sueños quizá muestran nuestros miedos subconscientes."
+        },
+        {
+          "en": "Ads speak to the [subconscious] mind.",
+          "tr": "Reklamlar bilinçaltına seslenir.",
+          "de": "Werbung spricht das Unterbewusstsein an.",
+          "fr": "La publicité s'adresse au subconscient.",
+          "it": "La pubblicità parla al subconscio.",
+          "es": "La publicidad habla al subconsciente."
+        }
+      ]
+    },
+    {
+      "id": "conscience",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "con-",
+        "sci",
+        "-ence"
+      ],
+      "gloss": {
+        "en": "the inner sense of what is right and wrong",
+        "tr": "vicdan",
+        "de": "das Gewissen",
+        "fr": "la conscience (morale)",
+        "it": "la coscienza",
+        "es": "la conciencia"
+      },
+      "sentences": [
+        {
+          "en": "My [conscience] told me to say sorry.",
+          "tr": "Vicdanım özür dilememi söyledi.",
+          "de": "Mein Gewissen sagte mir, ich solle mich entschuldigen.",
+          "fr": "Ma conscience m'a dit de m'excuser.",
+          "it": "La coscienza mi ha detto di chiedere scusa.",
+          "es": "Mi conciencia me dijo que pidiera perdón."
+        },
+        {
+          "en": "He has a guilty [conscience].",
+          "tr": "Vicdanı rahat değil.",
+          "de": "Er hat ein schlechtes Gewissen.",
+          "fr": "Il a mauvaise conscience.",
+          "it": "Ha la coscienza sporca.",
+          "es": "Tiene mala conciencia."
+        }
+      ]
+    },
+    {
+      "id": "conscientious",
+      "pos": "adjective",
+      "parent": "conscience",
+      "parts": [
+        "con-",
+        "sci",
+        "-ent",
+        "-ious"
+      ],
+      "gloss": {
+        "en": "careful and doing one's work properly",
+        "tr": "özenli, vicdanlı, işini titizlikle yapan",
+        "de": "gewissenhaft",
+        "fr": "consciencieux",
+        "it": "coscienzioso",
+        "es": "concienzudo"
+      },
+      "sentences": [
+        {
+          "en": "She is a [conscientious] student.",
+          "tr": "Özenli bir öğrenci.",
+          "de": "Sie ist eine gewissenhafte Schülerin.",
+          "fr": "C'est une élève consciencieuse.",
+          "it": "È una studentessa coscienziosa.",
+          "es": "Es una estudiante concienzuda."
+        },
+        {
+          "en": "A [conscientious] doctor checks everything twice.",
+          "tr": "İşini titizlikle yapan bir doktor her şeyi iki kez kontrol eder.",
+          "de": "Ein gewissenhafter Arzt prüft alles zweimal.",
+          "fr": "Un médecin consciencieux vérifie tout deux fois.",
+          "it": "Un medico coscienzioso controlla tutto due volte.",
+          "es": "Un médico concienzudo lo revisa todo dos veces."
+        }
+      ]
+    },
+    {
+      "id": "omniscient",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "omni-",
+        "sci",
+        "-ent"
+      ],
+      "gloss": {
+        "en": "knowing everything",
+        "tr": "her şeyi bilen",
+        "de": "allwissend",
+        "fr": "omniscient",
+        "it": "onnisciente",
+        "es": "omnisciente"
+      },
+      "sentences": [
+        {
+          "en": "The story has an [omniscient] narrator.",
+          "tr": "Öykünün her şeyi bilen bir anlatıcısı var.",
+          "de": "Die Geschichte hat einen allwissenden Erzähler.",
+          "fr": "L'histoire a un narrateur omniscient.",
+          "it": "Il racconto ha un narratore onnisciente.",
+          "es": "El relato tiene un narrador omnisciente."
+        },
+        {
+          "en": "No teacher is [omniscient].",
+          "tr": "Hiçbir öğretmen her şeyi bilemez.",
+          "de": "Kein Lehrer ist allwissend.",
+          "fr": "Aucun professeur n'est omniscient.",
+          "it": "Nessun insegnante è onnisciente.",
+          "es": "Ningún profesor es omnisciente."
+        }
+      ]
+    },
+    {
+      "id": "prescient",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "pre-",
+        "sci",
+        "-ent"
+      ],
+      "gloss": {
+        "en": "knowing or guessing the future correctly; literally: knowing before",
+        "tr": "önceden sezen, ileri görüşlü",
+        "de": "vorausschauend",
+        "fr": "prémonitoire, clairvoyant",
+        "it": "lungimirante, preveggente",
+        "es": "clarividente, profético"
+      },
+      "sentences": [
+        {
+          "en": "Her warning proved [prescient].",
+          "tr": "Uyarısının ileri görüşlü olduğu ortaya çıktı.",
+          "de": "Ihre Warnung erwies sich als vorausschauend.",
+          "fr": "Son avertissement s'est révélé prémonitoire.",
+          "it": "Il suo avvertimento si è rivelato lungimirante.",
+          "es": "Su advertencia resultó profética."
+        },
+        {
+          "en": "The old book was strangely [prescient] about the internet.",
+          "tr": "Eski kitap internet konusunda tuhaf biçimde ileri görüşlüydü.",
+          "de": "Das alte Buch sah das Internet erstaunlich voraus.",
+          "fr": "Le vieux livre était étrangement prémonitoire sur Internet.",
+          "it": "Il vecchio libro era stranamente preveggente su internet.",
+          "es": "El viejo libro era extrañamente profético sobre internet."
+        }
+      ]
+    }
+  ]
+}

@@ -3227,5 +3227,39 @@
       "es": "cuatro (latín quattuor)"
     },
     "combining": true
+  },
+  "-ness": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "state or quality (Germanic; makes a noun)",
+      "tr": "durum, nitelik (Germen kökenli; isim yapar)",
+      "de": "Zustand, Eigenschaft (germanisch; bildet ein Nomen)",
+      "fr": "état, qualité (germanique ; forme un nom)",
+      "it": "stato, qualità (germanico; forma un nome)",
+      "es": "estado, cualidad (germánico; forma un sustantivo)"
+    }
+  },
+  "-ice": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "state, quality or person (makes a noun)",
+      "tr": "durum, nitelik ya da kişi (isim yapar)",
+      "de": "Zustand, Eigenschaft oder Person (bildet ein Nomen)",
+      "fr": "état, qualité ou personne (forme un nom)",
+      "it": "stato, qualità o persona (forma un nome)",
+      "es": "estado, cualidad o persona (forma un sustantivo)"
+    }
+  },
+  "omni-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "all (Latin omnis)",
+      "tr": "her şey, bütün (Latince omnis)",
+      "de": "all-, allumfassend (lateinisch omnis)",
+      "fr": "tout (latin omnis)",
+      "it": "tutto (latino omnis)",
+      "es": "todo (latín omnis)"
+    },
+    "combining": true
   }
 }

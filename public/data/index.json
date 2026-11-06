@@ -1397,6 +1397,33 @@
     ]
   },
   {
+    "id": "nov",
+    "forms": [
+      "nov"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "new",
+      "tr": "yeni",
+      "de": "neu",
+      "fr": "nouveau",
+      "it": "nuovo",
+      "es": "nuevo"
+    },
+    "words": [
+      "novel",
+      "novelist",
+      "novelty",
+      "novice",
+      "innovate",
+      "innovation",
+      "innovative",
+      "innovator",
+      "renovate",
+      "renovation"
+    ]
+  },
+  {
     "id": "nunci",
     "forms": [
       "nunci",
@@ -1961,6 +1988,34 @@
       "transcend",
       "condescend",
       "condescending"
+    ]
+  },
+  {
+    "id": "sci",
+    "forms": [
+      "sci"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to know",
+      "tr": "bilmek",
+      "de": "wissen",
+      "fr": "savoir",
+      "it": "sapere",
+      "es": "saber"
+    },
+    "words": [
+      "science",
+      "scientist",
+      "scientific",
+      "conscious",
+      "consciousness",
+      "unconscious",
+      "subconscious",
+      "conscience",
+      "conscientious",
+      "omniscient",
+      "prescient"
     ]
   },
   {

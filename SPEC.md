@@ -43,7 +43,8 @@ seçilen dillerdeki karşılığı ve öğretici örnek cümleleri bir arada gö
     (scandere, tırmanmak: ascend, descend, transcend, condescend). 2026-11-06 onaylı kuyruktan (`docs/grow-loop.md`): 64. kök `fin` (finis, son: finish, final, define, infinite,
     confine, refine, finance), 65. kök `manu` (manus, el: manual, manuscript, manufacture, manage, manipulate, manifest),
     66. kök `ped` (pes, ayak: pedal, pedestrian, expedition, impede, centipede), 67. kök `corp` (corpus, beden: corpse,
-    corporation, incorporate, corporal, corset).
+    corporation, incorporate, corporal, corset), 68. kök `sci` (scire, bilmek: science, conscious, conscience,
+    omniscient), 69. kök `nov` (novus, yeni: novel, novice, innovate, renovate).
     Yeni kök sınırsız açılmaz; her biri kullanıcı onayıyla eklenir.
 12. **Mimari:** nesne yönelimli, katmanlı (aşağıda). Görünüm ve tema veri ve mantıktan bağımsız
     değiştirilebilir olmalı.

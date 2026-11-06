@@ -1,0 +1,376 @@
+{
+  "id": "nov",
+  "forms": [
+    "nov"
+  ],
+  "origin": "la",
+  "etymon": "novus",
+  "meaning": {
+    "en": "new",
+    "tr": "yeni",
+    "de": "neu",
+    "fr": "nouveau",
+    "it": "nuovo",
+    "es": "nuevo"
+  },
+  "words": [
+    {
+      "id": "novel",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "nov",
+        "-el"
+      ],
+      "gloss": {
+        "en": "a long written story; literally: a little new thing (as an adjective: new and unusual)",
+        "tr": "roman; (sıfat) yeni, alışılmadık",
+        "de": "der Roman; (Adjektiv) neuartig",
+        "fr": "le roman; (adjectif) nouveau, original",
+        "it": "il romanzo; (aggettivo) nuovo, originale",
+        "es": "la novela; (adjetivo) novedoso"
+      },
+      "sentences": [
+        {
+          "en": "I'm reading a [novel] by Orhan Pamuk.",
+          "tr": "Orhan Pamuk'un bir romanını okuyorum.",
+          "de": "Ich lese einen Roman von Orhan Pamuk.",
+          "fr": "Je lis un roman d'Orhan Pamuk.",
+          "it": "Sto leggendo un romanzo di Orhan Pamuk.",
+          "es": "Estoy leyendo una novela de Orhan Pamuk."
+        },
+        {
+          "en": "That's a [novel] idea!",
+          "tr": "Bu yepyeni bir fikir!",
+          "de": "Das ist eine neuartige Idee!",
+          "fr": "C'est une idée originale !",
+          "it": "È un'idea originale!",
+          "es": "¡Es una idea novedosa!"
+        }
+      ]
+    },
+    {
+      "id": "novelist",
+      "pos": "noun",
+      "parent": "novel",
+      "parts": [
+        "nov",
+        "-el",
+        "-ist"
+      ],
+      "gloss": {
+        "en": "a person who writes novels",
+        "tr": "romancı, roman yazarı",
+        "de": "der Romanautor",
+        "fr": "le romancier",
+        "it": "il romanziere",
+        "es": "el novelista"
+      },
+      "sentences": [
+        {
+          "en": "She became a famous [novelist].",
+          "tr": "Ünlü bir romancı oldu.",
+          "de": "Sie wurde eine berühmte Romanautorin.",
+          "fr": "Elle est devenue une romancière célèbre.",
+          "it": "È diventata una romanziera famosa.",
+          "es": "Se convirtió en una novelista famosa."
+        },
+        {
+          "en": "The [novelist] spoke about her new book.",
+          "tr": "Romancı yeni kitabından söz etti.",
+          "de": "Die Autorin sprach über ihren neuen Roman.",
+          "fr": "La romancière a parlé de son nouveau livre.",
+          "it": "La romanziera ha parlato del suo nuovo libro.",
+          "es": "La novelista habló de su nuevo libro."
+        }
+      ]
+    },
+    {
+      "id": "novelty",
+      "pos": "noun",
+      "parent": "novel",
+      "parts": [
+        "nov",
+        "-el",
+        "-ty"
+      ],
+      "gloss": {
+        "en": "something new and unusual; the quality of being new",
+        "tr": "yenilik, alışılmadıklık",
+        "de": "die Neuheit",
+        "fr": "la nouveauté",
+        "it": "la novità",
+        "es": "la novedad"
+      },
+      "sentences": [
+        {
+          "en": "The [novelty] of the new phone soon wore off.",
+          "tr": "Yeni telefonun yeniliği çabuk geçti.",
+          "de": "Der Reiz des neuen Handys verflog schnell.",
+          "fr": "La nouveauté du téléphone s'est vite estompée.",
+          "it": "La novità del nuovo telefono è passata presto.",
+          "es": "La novedad del móvil nuevo pasó pronto."
+        },
+        {
+          "en": "Snow is a [novelty] for children here.",
+          "tr": "Kar buradaki çocuklar için bir yenilik.",
+          "de": "Schnee ist für die Kinder hier etwas Neues.",
+          "fr": "La neige est une nouveauté pour les enfants d'ici.",
+          "it": "La neve è una novità per i bambini di qui.",
+          "es": "La nieve es una novedad para los niños de aquí."
+        }
+      ]
+    },
+    {
+      "id": "novice",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "nov",
+        "-ice"
+      ],
+      "gloss": {
+        "en": "a beginner, a person new to an activity",
+        "tr": "acemi, yeni başlayan",
+        "de": "der Anfänger, der Neuling",
+        "fr": "le novice, le débutant",
+        "it": "il principiante, il novizio",
+        "es": "el novato, el principiante"
+      },
+      "sentences": [
+        {
+          "en": "I'm a complete [novice] at chess.",
+          "tr": "Satrançta tamamen acemiyim.",
+          "de": "Beim Schach bin ich ein absoluter Anfänger.",
+          "fr": "Je suis un parfait débutant aux échecs.",
+          "it": "Sono un principiante assoluto a scacchi.",
+          "es": "Soy un completo novato en ajedrez."
+        },
+        {
+          "en": "This course is for [novices].",
+          "tr": "Bu kurs yeni başlayanlar için.",
+          "de": "Dieser Kurs ist für Anfänger.",
+          "fr": "Ce cours est pour les débutants.",
+          "it": "Questo corso è per principianti.",
+          "es": "Este curso es para principiantes."
+        }
+      ]
+    },
+    {
+      "id": "innovate",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "in-",
+        "nov",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "to bring in new ideas or methods",
+        "tr": "yenilik yapmak",
+        "de": "innovieren, Neues einführen",
+        "fr": "innover",
+        "it": "innovare",
+        "es": "innovar"
+      },
+      "sentences": [
+        {
+          "en": "Companies must [innovate] to survive.",
+          "tr": "Şirketler ayakta kalmak için yenilik yapmalı.",
+          "de": "Firmen müssen innovieren, um zu überleben.",
+          "fr": "Les entreprises doivent innover pour survivre.",
+          "it": "Le aziende devono innovare per sopravvivere.",
+          "es": "Las empresas deben innovar para sobrevivir."
+        },
+        {
+          "en": "The team [innovated] in battery design.",
+          "tr": "Ekip pil tasarımında yenilik yaptı.",
+          "de": "Das Team brachte Neues im Batteriedesign.",
+          "fr": "L'équipe a innové dans la conception des batteries.",
+          "it": "Il team ha innovato nel design delle batterie.",
+          "es": "El equipo innovó en el diseño de baterías."
+        }
+      ]
+    },
+    {
+      "id": "innovation",
+      "pos": "noun",
+      "parent": "innovate",
+      "parts": [
+        "in-",
+        "nov",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "a new idea, method or invention",
+        "tr": "yenilik, inovasyon",
+        "de": "die Innovation, die Neuerung",
+        "fr": "l'innovation",
+        "it": "l'innovazione",
+        "es": "la innovación"
+      },
+      "sentences": [
+        {
+          "en": "The printing press was a great [innovation].",
+          "tr": "Matbaa büyük bir yenilikti.",
+          "de": "Der Buchdruck war eine große Innovation.",
+          "fr": "L'imprimerie a été une grande innovation.",
+          "it": "La stampa è stata una grande innovazione.",
+          "es": "La imprenta fue una gran innovación."
+        },
+        {
+          "en": "The city supports [innovation] in transport.",
+          "tr": "Şehir ulaşımda yeniliği destekliyor.",
+          "de": "Die Stadt fördert Innovation im Verkehr.",
+          "fr": "La ville soutient l'innovation dans les transports.",
+          "it": "La città sostiene l'innovazione nei trasporti.",
+          "es": "La ciudad apoya la innovación en el transporte."
+        }
+      ]
+    },
+    {
+      "id": "innovative",
+      "pos": "adjective",
+      "parent": "innovate",
+      "parts": [
+        "in-",
+        "nov",
+        "-ative"
+      ],
+      "gloss": {
+        "en": "using new ideas",
+        "tr": "yenilikçi",
+        "de": "innovativ",
+        "fr": "innovant",
+        "it": "innovativo",
+        "es": "innovador"
+      },
+      "sentences": [
+        {
+          "en": "They found an [innovative] way to save water.",
+          "tr": "Su tasarrufu için yenilikçi bir yol buldular.",
+          "de": "Sie fanden einen innovativen Weg, Wasser zu sparen.",
+          "fr": "Ils ont trouvé une façon innovante d'économiser l'eau.",
+          "it": "Hanno trovato un modo innovativo per risparmiare acqua.",
+          "es": "Encontraron una forma innovadora de ahorrar agua."
+        },
+        {
+          "en": "It's a small but [innovative] company.",
+          "tr": "Küçük ama yenilikçi bir şirket.",
+          "de": "Es ist eine kleine, aber innovative Firma.",
+          "fr": "C'est une petite entreprise mais innovante.",
+          "it": "È un'azienda piccola ma innovativa.",
+          "es": "Es una empresa pequeña pero innovadora."
+        }
+      ]
+    },
+    {
+      "id": "innovator",
+      "pos": "noun",
+      "parent": "innovate",
+      "parts": [
+        "in-",
+        "nov",
+        "-ator"
+      ],
+      "gloss": {
+        "en": "a person who introduces new ideas",
+        "tr": "yenilikçi kişi, öncü",
+        "de": "der Innovator, der Neuerer",
+        "fr": "l'innovateur",
+        "it": "l'innovatore",
+        "es": "el innovador"
+      },
+      "sentences": [
+        {
+          "en": "He was a great [innovator] in music.",
+          "tr": "Müzikte büyük bir öncüydü.",
+          "de": "Er war ein großer Neuerer in der Musik.",
+          "fr": "C'était un grand innovateur en musique.",
+          "it": "È stato un grande innovatore nella musica.",
+          "es": "Fue un gran innovador en la música."
+        },
+        {
+          "en": "The prize goes to young [innovators].",
+          "tr": "Ödül genç yenilikçilere veriliyor.",
+          "de": "Der Preis geht an junge Innovatoren.",
+          "fr": "Le prix récompense de jeunes innovateurs.",
+          "it": "Il premio va a giovani innovatori.",
+          "es": "El premio es para jóvenes innovadores."
+        }
+      ]
+    },
+    {
+      "id": "renovate",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "re-",
+        "nov",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "to repair and make like new again",
+        "tr": "yenilemek, tadilat yapmak",
+        "de": "renovieren",
+        "fr": "rénover",
+        "it": "ristrutturare, rinnovare",
+        "es": "renovar, reformar"
+      },
+      "sentences": [
+        {
+          "en": "We [renovated] the kitchen last summer.",
+          "tr": "Geçen yaz mutfağı yeniledik.",
+          "de": "Wir haben letzten Sommer die Küche renoviert.",
+          "fr": "Nous avons rénové la cuisine l'été dernier.",
+          "it": "Abbiamo ristrutturato la cucina l'estate scorsa.",
+          "es": "Reformamos la cocina el verano pasado."
+        },
+        {
+          "en": "The old station will be [renovated].",
+          "tr": "Eski istasyon yenilenecek.",
+          "de": "Der alte Bahnhof wird renoviert.",
+          "fr": "L'ancienne gare va être rénovée.",
+          "it": "La vecchia stazione sarà ristrutturata.",
+          "es": "La antigua estación será renovada."
+        }
+      ]
+    },
+    {
+      "id": "renovation",
+      "pos": "noun",
+      "parent": "renovate",
+      "parts": [
+        "re-",
+        "nov",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "the work of repairing a building to make it like new",
+        "tr": "tadilat, yenileme",
+        "de": "die Renovierung",
+        "fr": "la rénovation",
+        "it": "la ristrutturazione",
+        "es": "la renovación, la reforma"
+      },
+      "sentences": [
+        {
+          "en": "The museum is closed for [renovation].",
+          "tr": "Müze tadilat nedeniyle kapalı.",
+          "de": "Das Museum ist wegen Renovierung geschlossen.",
+          "fr": "Le musée est fermé pour rénovation.",
+          "it": "Il museo è chiuso per ristrutturazione.",
+          "es": "El museo está cerrado por reforma."
+        },
+        {
+          "en": "The [renovation] took longer than planned.",
+          "tr": "Tadilat planlanandan uzun sürdü.",
+          "de": "Die Renovierung dauerte länger als geplant.",
+          "fr": "La rénovation a duré plus longtemps que prévu.",
+          "it": "La ristrutturazione è durata più del previsto.",
+          "es": "La reforma duró más de lo previsto."
+        }
+      ]
+    }
+  ]
+}
