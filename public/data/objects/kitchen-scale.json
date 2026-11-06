@@ -1,0 +1,73 @@
+{
+  "id": "kitchen-scale",
+  "name": "kitchen scale",
+  "names": {
+    "tr": "mutfak tartısı",
+    "de": "die Küchenwaage",
+    "fr": "la balance de cuisine",
+    "it": "la bilancia da cucina",
+    "es": "la báscula de cocina"
+  },
+  "definition": {
+    "en": "a small device for weighing food when you cook",
+    "tr": "yemek yaparken yiyecekleri tartmak için küçük alet",
+    "de": "ein kleines Gerät zum Abwiegen von Zutaten beim Kochen",
+    "fr": "un petit appareil pour peser les aliments en cuisinant",
+    "it": "un piccolo apparecchio per pesare gli ingredienti in cucina",
+    "es": "un aparato pequeño para pesar los ingredientes al cocinar"
+  },
+  "breakdown": {
+    "en": [
+      {
+        "text": "kitchen",
+        "gloss": "kitchen"
+      },
+      {
+        "text": "scale",
+        "gloss": "scale, weighing bowl"
+      }
+    ],
+    "de": [
+      {
+        "text": "Küchen",
+        "gloss": "kitchen"
+      },
+      {
+        "text": "waage",
+        "gloss": "scale (wiegen = to weigh)"
+      }
+    ]
+  },
+  "origin": "kitchen (Latin coquina, from coquere, to cook) + scale (Old Norse skál, a bowl)",
+  "root": null,
+  "image": {
+    "file": "Ideenwelt EM2862-91594.jpg",
+    "wikidata": "Q1796864"
+  },
+  "sentences": [
+    {
+      "en": "Weigh the flour on the [kitchen scale].",
+      "tr": "Unu mutfak tartısında tart.",
+      "de": "Wieg das Mehl auf der Küchenwaage ab.",
+      "fr": "Pèse la farine sur la balance de cuisine.",
+      "it": "Pesa la farina sulla bilancia da cucina.",
+      "es": "Pesa la harina en la báscula de cocina."
+    },
+    {
+      "en": "My [kitchen scale] needs a new battery.",
+      "tr": "Mutfak tartımın yeni pile ihtiyacı var.",
+      "de": "Meine Küchenwaage braucht eine neue Batterie.",
+      "fr": "Ma balance de cuisine a besoin d'une nouvelle pile.",
+      "it": "La mia bilancia da cucina ha bisogno di una pila nuova.",
+      "es": "Mi báscula de cocina necesita una pila nueva."
+    },
+    {
+      "en": "Bakers often use a [kitchen scale] instead of cups.",
+      "tr": "Pastacılar ölçü kabı yerine çoğu zaman mutfak tartısı kullanır.",
+      "de": "Bäcker nehmen oft eine Küchenwaage statt Messbechern.",
+      "fr": "Les pâtissiers utilisent souvent une balance plutôt que des tasses.",
+      "it": "I pasticcieri usano spesso la bilancia invece delle tazze.",
+      "es": "Los reposteros suelen usar báscula en vez de tazas."
+    }
+  ]
+}

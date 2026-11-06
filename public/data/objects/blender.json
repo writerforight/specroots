@@ -1,0 +1,74 @@
+{
+  "id": "blender",
+  "name": "blender",
+  "names": {
+    "tr": "blender",
+    "de": "der Mixer",
+    "fr": "le mixeur",
+    "it": "il frullatore",
+    "es": "la batidora"
+  },
+  "definition": {
+    "en": "an electric machine that mixes food into a liquid",
+    "tr": "yiyecekleri karıştırıp sıvı hâline getiren elektrikli makine",
+    "de": "ein elektrisches Gerät, das Lebensmittel flüssig püriert",
+    "fr": "un appareil électrique qui mixe les aliments en liquide",
+    "it": "un apparecchio elettrico che frulla il cibo fino a renderlo liquido",
+    "es": "un aparato eléctrico que tritura la comida hasta hacerla líquida"
+  },
+  "breakdown": {
+    "en": [
+      {
+        "text": "blend",
+        "gloss": "mix (Old Norse blanda)"
+      },
+      {
+        "text": "er",
+        "gloss": "thing that does",
+        "affix": "-er"
+      }
+    ],
+    "de": [
+      {
+        "text": "Mix",
+        "gloss": "mix (mixen)"
+      },
+      {
+        "text": "er",
+        "gloss": "thing that does"
+      }
+    ]
+  },
+  "origin": "blend (Old Norse blanda, to mix) + -er",
+  "root": null,
+  "image": {
+    "file": "WMF Kult X Standmixer-4157.jpg",
+    "wikidata": "Q501862"
+  },
+  "sentences": [
+    {
+      "en": "Put the fruit in the [blender] with some milk.",
+      "tr": "Meyveleri biraz sütle blendere koy.",
+      "de": "Gib das Obst mit etwas Milch in den Mixer.",
+      "fr": "Mets les fruits dans le mixeur avec un peu de lait.",
+      "it": "Metti la frutta nel frullatore con un po' di latte.",
+      "es": "Pon la fruta en la batidora con un poco de leche."
+    },
+    {
+      "en": "The [blender] is very loud in the morning.",
+      "tr": "Blender sabahları çok gürültülü.",
+      "de": "Der Mixer ist morgens sehr laut.",
+      "fr": "Le mixeur est très bruyant le matin.",
+      "it": "Il frullatore è rumorosissimo la mattina.",
+      "es": "La batidora hace mucho ruido por la mañana."
+    },
+    {
+      "en": "I make soup smooth with a [blender].",
+      "tr": "Çorbayı blenderla pürüzsüz yaparım.",
+      "de": "Ich püriere die Suppe mit dem Mixer.",
+      "fr": "Je rends la soupe lisse avec un mixeur.",
+      "it": "Rendo la vellutata liscia col frullatore.",
+      "es": "Hago la crema con la batidora."
+    }
+  ]
+}

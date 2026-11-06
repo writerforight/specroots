@@ -1,0 +1,73 @@
+{
+  "id": "tea-towel",
+  "name": "tea towel",
+  "names": {
+    "tr": "kurulama bezi",
+    "de": "das Geschirrtuch",
+    "fr": "le torchon",
+    "it": "lo strofinaccio",
+    "es": "el paño de cocina"
+  },
+  "definition": {
+    "en": "a cloth for drying plates and glasses after washing",
+    "tr": "yıkadıktan sonra tabak ve bardakları kurulamak için bez",
+    "de": "ein Tuch zum Abtrocknen von Geschirr",
+    "fr": "un linge pour essuyer la vaisselle",
+    "it": "un panno per asciugare i piatti",
+    "es": "un paño para secar los platos"
+  },
+  "breakdown": {
+    "en": [
+      {
+        "text": "tea",
+        "gloss": "tea"
+      },
+      {
+        "text": "towel",
+        "gloss": "towel"
+      }
+    ],
+    "de": [
+      {
+        "text": "Geschirr",
+        "gloss": "dishes"
+      },
+      {
+        "text": "tuch",
+        "gloss": "cloth"
+      }
+    ]
+  },
+  "origin": "tea + towel (Old French toaille)",
+  "root": null,
+  "image": {
+    "file": "Geschirrtuch am Haken 2 (fcm).jpg",
+    "wikidata": "Q1403426"
+  },
+  "sentences": [
+    {
+      "en": "Dry the glasses with a clean [tea towel].",
+      "tr": "Bardakları temiz bir bezle kurula.",
+      "de": "Trockne die Gläser mit einem sauberen Geschirrtuch ab.",
+      "fr": "Essuie les verres avec un torchon propre.",
+      "it": "Asciuga i bicchieri con uno strofinaccio pulito.",
+      "es": "Seca los vasos con un paño limpio."
+    },
+    {
+      "en": "The [tea towel] is wet, get a new one.",
+      "tr": "Bez ıslak, yenisini al.",
+      "de": "Das Geschirrtuch ist nass, nimm ein neues.",
+      "fr": "Le torchon est mouillé, prends-en un autre.",
+      "it": "Lo strofinaccio è bagnato, prendine un altro.",
+      "es": "El paño está mojado, coge otro."
+    },
+    {
+      "en": "She hung the [tea towel] over the oven door.",
+      "tr": "Bezi fırın kapağına astı.",
+      "de": "Sie hängte das Geschirrtuch über die Ofentür.",
+      "fr": "Elle a suspendu le torchon à la porte du four.",
+      "it": "Ha appeso lo strofinaccio allo sportello del forno.",
+      "es": "Colgó el paño en la puerta del horno."
+    }
+  ]
+}

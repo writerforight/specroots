@@ -1,0 +1,52 @@
+{
+  "id": "cucumber",
+  "name": "cucumber",
+  "names": {
+    "tr": "salatalık",
+    "de": "die Gurke",
+    "fr": "le concombre",
+    "it": "il cetriolo",
+    "es": "el pepino"
+  },
+  "definition": {
+    "en": "a long green vegetable with a fresh taste, often eaten raw",
+    "tr": "genellikle çiğ yenen, ferah tatlı, uzun yeşil sebze",
+    "de": "ein langes grünes Gemüse mit frischem Geschmack, meist roh gegessen",
+    "fr": "un long légume vert au goût frais, souvent mangé cru",
+    "it": "un lungo ortaggio verde dal gusto fresco, spesso mangiato crudo",
+    "es": "una hortaliza larga y verde de sabor fresco, a menudo cruda"
+  },
+  "breakdown": {},
+  "origin": "Old French cocombre ← Latin cucumis",
+  "root": null,
+  "image": {
+    "file": "Kurkkuja.jpg",
+    "wikidata": "Q2735883"
+  },
+  "sentences": [
+    {
+      "en": "Slice the [cucumber] for the salad.",
+      "tr": "Salata için salatalığı dilimle.",
+      "de": "Schneid die Gurke für den Salat in Scheiben.",
+      "fr": "Coupe le concombre en rondelles pour la salade.",
+      "it": "Taglia il cetriolo a fette per l'insalata.",
+      "es": "Corta el pepino en rodajas para la ensalada."
+    },
+    {
+      "en": "Tzatziki is made with yogurt and [cucumber].",
+      "tr": "Cacık yoğurt ve salatalıkla yapılır.",
+      "de": "Tsatsiki macht man mit Joghurt und Gurke.",
+      "fr": "Le tzatzíki se fait avec du yaourt et du concombre.",
+      "it": "Lo tzatziki si fa con yogurt e cetriolo.",
+      "es": "El tzatziki se hace con yogur y pepino."
+    },
+    {
+      "en": "Even in the exam, she stayed cool as a [cucumber].",
+      "tr": "Sınavda bile buz gibi soğukkanlı kaldı.",
+      "de": "Selbst in der Prüfung blieb sie die Ruhe selbst.",
+      "fr": "Même à l'examen, elle est restée d'un calme olympien.",
+      "it": "Anche all'esame è rimasta calmissima.",
+      "es": "Incluso en el examen, se quedó tan pancha."
+    }
+  ]
+}

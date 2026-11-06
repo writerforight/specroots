@@ -1,0 +1,52 @@
+{
+  "id": "carrot",
+  "name": "carrot",
+  "names": {
+    "tr": "havuç",
+    "de": "die Karotte",
+    "fr": "la carotte",
+    "it": "la carota",
+    "es": "la zanahoria"
+  },
+  "definition": {
+    "en": "a long orange root vegetable",
+    "tr": "uzun, turuncu kök sebze",
+    "de": "ein langes, orangefarbenes Wurzelgemüse",
+    "fr": "un légume-racine long et orange",
+    "it": "un ortaggio a radice lungo e arancione",
+    "es": "una hortaliza de raíz larga y naranja"
+  },
+  "breakdown": {},
+  "origin": "French carotte ← Latin carōta ← Greek karōton",
+  "root": null,
+  "image": {
+    "file": "Carrots of many colors.jpg",
+    "wikidata": "Q81"
+  },
+  "sentences": [
+    {
+      "en": "Grate a [carrot] into the salad.",
+      "tr": "Salataya bir havuç rendele.",
+      "de": "Reib eine Karotte in den Salat.",
+      "fr": "Râpe une carotte dans la salade.",
+      "it": "Grattugia una carota nell'insalata.",
+      "es": "Ralla una zanahoria en la ensalada."
+    },
+    {
+      "en": "Rabbits love [carrots].",
+      "tr": "Tavşanlar havuca bayılır.",
+      "de": "Kaninchen lieben Karotten.",
+      "fr": "Les lapins adorent les carottes.",
+      "it": "I conigli adorano le carote.",
+      "es": "A los conejos les encantan las zanahorias."
+    },
+    {
+      "en": "The boss uses the [carrot] and the stick.",
+      "tr": "Patron hem ödül hem ceza kullanıyor.",
+      "de": "Der Chef arbeitet mit Zuckerbrot und Peitsche.",
+      "fr": "Le patron manie la carotte et le bâton.",
+      "it": "Il capo usa il bastone e la carota.",
+      "es": "El jefe usa el palo y la zanahoria."
+    }
+  ]
+}

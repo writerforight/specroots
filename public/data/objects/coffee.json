@@ -1,0 +1,52 @@
+{
+  "id": "coffee",
+  "name": "coffee",
+  "names": {
+    "tr": "kahve",
+    "de": "der Kaffee",
+    "fr": "le café",
+    "it": "il caffè",
+    "es": "el café"
+  },
+  "definition": {
+    "en": "a hot dark drink made from roasted beans",
+    "tr": "kavrulmuş çekirdeklerden yapılan sıcak, koyu içecek",
+    "de": "ein heißes dunkles Getränk aus gerösteten Bohnen",
+    "fr": "une boisson chaude et foncée faite de grains torréfiés",
+    "it": "una bevanda calda e scura fatta di chicchi tostati",
+    "es": "una bebida caliente y oscura hecha de granos tostados"
+  },
+  "breakdown": {},
+  "origin": "Italian caffè ← Turkish kahve ← Arabic qahwa",
+  "root": null,
+  "image": {
+    "file": "A small cup of coffee.JPG",
+    "wikidata": "Q8486"
+  },
+  "sentences": [
+    {
+      "en": "I can't wake up without [coffee].",
+      "tr": "Kahvesiz uyanamıyorum.",
+      "de": "Ohne Kaffee werde ich nicht wach.",
+      "fr": "Je ne peux pas me réveiller sans café.",
+      "it": "Senza caffè non riesco a svegliarmi.",
+      "es": "No puedo despertarme sin café."
+    },
+    {
+      "en": "Let's meet for a [coffee] after class.",
+      "tr": "Dersten sonra bir kahve içmek için buluşalım.",
+      "de": "Lass uns nach dem Unterricht auf einen Kaffee treffen.",
+      "fr": "Retrouvons-nous pour un café après le cours.",
+      "it": "Vediamoci per un caffè dopo la lezione.",
+      "es": "Quedemos para tomar un café después de clase."
+    },
+    {
+      "en": "Turkish [coffee] is served with a glass of water.",
+      "tr": "Türk kahvesi bir bardak suyla ikram edilir.",
+      "de": "Türkischer Kaffee wird mit einem Glas Wasser serviert.",
+      "fr": "Le café turc est servi avec un verre d'eau.",
+      "it": "Il caffè turco si serve con un bicchiere d'acqua.",
+      "es": "El café turco se sirve con un vaso de agua."
+    }
+  ]
+}

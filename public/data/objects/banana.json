@@ -1,0 +1,52 @@
+{
+  "id": "banana",
+  "name": "banana",
+  "names": {
+    "tr": "muz",
+    "de": "die Banane",
+    "fr": "la banane",
+    "it": "la banana",
+    "es": "el plátano"
+  },
+  "definition": {
+    "en": "a long curved fruit with a yellow skin",
+    "tr": "sarı kabuklu, uzun ve kıvrık meyve",
+    "de": "eine lange, gebogene Frucht mit gelber Schale",
+    "fr": "un fruit long et courbé à la peau jaune",
+    "it": "un frutto lungo e curvo dalla buccia gialla",
+    "es": "una fruta larga y curvada de piel amarilla"
+  },
+  "breakdown": {},
+  "origin": "Portuguese / Spanish banana ← a West African word (Wolof banaana)",
+  "root": null,
+  "image": {
+    "file": "Cavendish banana from Maracaibo.jpg",
+    "wikidata": "Q503"
+  },
+  "sentences": [
+    {
+      "en": "I eat a [banana] after sport.",
+      "tr": "Spordan sonra bir muz yerim.",
+      "de": "Nach dem Sport esse ich eine Banane.",
+      "fr": "Je mange une banane après le sport.",
+      "it": "Dopo lo sport mangio una banana.",
+      "es": "Me como un plátano después del deporte."
+    },
+    {
+      "en": "These [bananas] are still green.",
+      "tr": "Bu muzlar hâlâ yeşil.",
+      "de": "Diese Bananen sind noch grün.",
+      "fr": "Ces bananes sont encore vertes.",
+      "it": "Queste banane sono ancora verdi.",
+      "es": "Estos plátanos todavía están verdes."
+    },
+    {
+      "en": "The kids went [bananas] when the snow came.",
+      "tr": "Kar yağınca çocuklar çılgına döndü.",
+      "de": "Die Kinder flippten aus, als es schneite.",
+      "fr": "Les enfants sont devenus fous quand la neige est tombée.",
+      "it": "I bambini sono impazziti quando è arrivata la neve.",
+      "es": "Los niños se volvieron locos cuando nevó."
+    }
+  ]
+}

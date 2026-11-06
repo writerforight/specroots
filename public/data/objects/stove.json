@@ -1,0 +1,52 @@
+{
+  "id": "stove",
+  "name": "stove",
+  "names": {
+    "tr": "ocak",
+    "de": "der Herd",
+    "fr": "la cuisinière",
+    "it": "il fornello",
+    "es": "la cocina"
+  },
+  "definition": {
+    "en": "the kitchen appliance with burners on top for cooking in pots and pans",
+    "tr": "üstünde gözleri olan, tencere ve tavayla pişirme yapılan mutfak aleti",
+    "de": "das Küchengerät mit Kochstellen oben, auf dem man in Töpfen und Pfannen kocht",
+    "fr": "l'appareil de cuisine avec des feux dessus pour cuire en casserole",
+    "it": "l'apparecchio della cucina con i fuochi per cuocere in pentole e padelle",
+    "es": "el aparato de la cocina con fuegos encima para cocinar en ollas y sartenes"
+  },
+  "breakdown": {},
+  "origin": "Middle Dutch / Low German stove (a heated room; compare German Stube)",
+  "root": null,
+  "image": {
+    "file": "Gas stove in Italy.jpg",
+    "wikidata": "Q182995"
+  },
+  "sentences": [
+    {
+      "en": "The soup is on the [stove].",
+      "tr": "Çorba ocakta.",
+      "de": "Die Suppe steht auf dem Herd.",
+      "fr": "La soupe est sur la cuisinière.",
+      "it": "La minestra è sul fornello.",
+      "es": "La sopa está en la cocina."
+    },
+    {
+      "en": "Turn off the [stove] before you leave.",
+      "tr": "Çıkmadan önce ocağı kapat.",
+      "de": "Mach den Herd aus, bevor du gehst.",
+      "fr": "Éteins la cuisinière avant de partir.",
+      "it": "Spegni il fornello prima di uscire.",
+      "es": "Apaga la cocina antes de salir."
+    },
+    {
+      "en": "We have a gas [stove] in our flat.",
+      "tr": "Dairemizde gazlı ocak var.",
+      "de": "Wir haben einen Gasherd in der Wohnung.",
+      "fr": "Nous avons une cuisinière à gaz dans l'appartement.",
+      "it": "Abbiamo un fornello a gas in casa.",
+      "es": "Tenemos una cocina de gas en el piso."
+    }
+  ]
+}

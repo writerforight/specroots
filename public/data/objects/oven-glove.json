@@ -1,0 +1,77 @@
+{
+  "id": "oven-glove",
+  "name": "oven glove",
+  "names": {
+    "tr": "fırın eldiveni",
+    "de": "der Ofenhandschuh",
+    "fr": "le gant de cuisine",
+    "it": "il guanto da forno",
+    "es": "la manopla de cocina"
+  },
+  "definition": {
+    "en": "a thick glove for holding hot dishes from the oven",
+    "tr": "fırından sıcak kapları tutmak için kalın eldiven",
+    "de": "ein dicker Handschuh, um heiße Formen aus dem Ofen zu nehmen",
+    "fr": "un gant épais pour sortir les plats chauds du four",
+    "it": "un guanto spesso per prendere le teglie calde dal forno",
+    "es": "un guante grueso para sacar las fuentes calientes del horno"
+  },
+  "breakdown": {
+    "en": [
+      {
+        "text": "oven",
+        "gloss": "oven"
+      },
+      {
+        "text": "glove",
+        "gloss": "glove"
+      }
+    ],
+    "de": [
+      {
+        "text": "Ofen",
+        "gloss": "oven"
+      },
+      {
+        "text": "hand",
+        "gloss": "hand"
+      },
+      {
+        "text": "schuh",
+        "gloss": "shoe (a glove is a 'hand shoe')"
+      }
+    ]
+  },
+  "origin": "oven + glove (Old English glōf)",
+  "root": null,
+  "image": {
+    "file": "Baking glove.jpg",
+    "wikidata": "Q732054"
+  },
+  "sentences": [
+    {
+      "en": "Use an [oven glove], the tray is hot!",
+      "tr": "Fırın eldiveni kullan, tepsi sıcak!",
+      "de": "Nimm einen Ofenhandschuh, das Blech ist heiß!",
+      "fr": "Prends un gant de cuisine, la plaque est brûlante !",
+      "it": "Usa il guanto da forno, la teglia scotta!",
+      "es": "¡Usa la manopla, la bandeja quema!"
+    },
+    {
+      "en": "The [oven glove] hangs next to the cooker.",
+      "tr": "Fırın eldiveni ocağın yanında asılı.",
+      "de": "Der Ofenhandschuh hängt neben dem Herd.",
+      "fr": "Le gant de cuisine est accroché à côté de la cuisinière.",
+      "it": "Il guanto da forno è appeso vicino ai fornelli.",
+      "es": "La manopla cuelga junto a la cocina."
+    },
+    {
+      "en": "I burned my hand through an old [oven glove].",
+      "tr": "Eski bir fırın eldiveninin içinden elimi yaktım.",
+      "de": "Ich habe mir durch einen alten Ofenhandschuh die Hand verbrannt.",
+      "fr": "Je me suis brûlé la main à travers un vieux gant.",
+      "it": "Mi sono bruciato la mano con un vecchio guanto da forno.",
+      "es": "Me quemé la mano con una manopla vieja."
+    }
+  ]
+}

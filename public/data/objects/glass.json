@@ -1,0 +1,52 @@
+{
+  "id": "glass",
+  "name": "glass",
+  "names": {
+    "tr": "bardak",
+    "de": "das Glas",
+    "fr": "le verre",
+    "it": "il bicchiere",
+    "es": "el vaso"
+  },
+  "definition": {
+    "en": "a container made of glass for drinking water or juice",
+    "tr": "su ya da meyve suyu içmek için camdan kap",
+    "de": "ein Trinkgefäß aus Glas für Wasser oder Saft",
+    "fr": "un récipient en verre pour boire de l'eau ou du jus",
+    "it": "un recipiente di vetro per bere acqua o succo",
+    "es": "un recipiente de vidrio para beber agua o zumo"
+  },
+  "breakdown": {},
+  "origin": "Old English glæs (compare German Glas)",
+  "root": null,
+  "image": {
+    "file": "Copo brasielrio.jpg",
+    "wikidata": "Q21167379"
+  },
+  "sentences": [
+    {
+      "en": "Can I have a [glass] of water?",
+      "tr": "Bir bardak su alabilir miyim?",
+      "de": "Kann ich ein Glas Wasser haben?",
+      "fr": "Je peux avoir un verre d'eau ?",
+      "it": "Posso avere un bicchiere d'acqua?",
+      "es": "¿Me das un vaso de agua?"
+    },
+    {
+      "en": "Be careful, that [glass] is full.",
+      "tr": "Dikkat et, o bardak dolu.",
+      "de": "Vorsicht, das Glas ist voll.",
+      "fr": "Attention, ce verre est plein.",
+      "it": "Attento, quel bicchiere è pieno.",
+      "es": "Cuidado, ese vaso está lleno."
+    },
+    {
+      "en": "People in [glass] houses shouldn't throw stones.",
+      "tr": "Kendi kusuru olan başkasını eleştirmemeli.",
+      "de": "Wer im Glashaus sitzt, sollte nicht mit Steinen werfen.",
+      "fr": "Il ne faut pas jeter la pierre quand on vit dans une maison de verre.",
+      "it": "Chi ha la casa di vetro non tiri sassi al vicino.",
+      "es": "El que tiene tejado de vidrio no tira piedras al vecino."
+    }
+  ]
+}
