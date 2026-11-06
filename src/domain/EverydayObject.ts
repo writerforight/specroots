@@ -53,21 +53,3 @@ export class EverydayObject implements ObjectSummary {
     return this.image ? `https://commons.wikimedia.org/wiki/File:${encodeURIComponent(this.image.file.replace(/ /g, '_'))}` : null;
   }
 }
-
-/** The objects of one place, A–Z, as shown under that place's heading. */
-export interface PlaceGroup {
-  readonly place: Place;
-  readonly objects: readonly ObjectSummary[];
-}
-
-/**
- * Objects under the place where they are most used (kitchen → ladle, colander…). Places are sorted
- * by their name in the given language, objects A–Z inside; empty places are left out.
- */
-export function groupByPlace(objects: readonly ObjectSummary[], places: ReadonlyMap<string, Place>, lang: keyof Place['name']): PlaceGroup[] {
-  const name = (place: Place) => place.name[lang] ?? place.name.en ?? place.id;
-  return [...places.values()]
-    .map((place) => ({ place, objects: objects.filter((o) => o.place === place.id).sort((a, b) => a.name.localeCompare(b.name)) }))
-    .filter((group) => group.objects.length > 0)
-    .sort((a, b) => name(a.place).localeCompare(name(b.place), lang));
-}

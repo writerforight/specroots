@@ -104,10 +104,7 @@ src/styles/    tokens.css (renkler, yazı tipleri, ölçüler) + app.css (yalnı
 - **D5 Gündelik nesneler (kullanıcı isteği, 2026-11-06; ilk tur bitti):** öğrenme planının 2. parçası
   (1. kökler+ekler, 2. gündelik nesne adları, 3. dil bilgisi, 4. deyimler). Kökün tahmin ettiremediği adlar:
   tebeşir, kevgir, oklava. Sol listede dördüncü mod **Nesneler** (Kökler · Ön ekler · Son ekler · Nesneler,
-  2×2 düğme). Liste varsayılan olarak **yerlere göre** gruplu (kullanıcı isteği, 2026-11-06): her yer başlığı
-  (Mutfak, Banyo…, arayüz dilinde ve o dilde alfabetik) altında en çok kullanıldığı yerdeki nesneler A–Z;
-  liste başındaki düğmeyle tek bir A–Z listesine geçilir (seçim kalıcı, `objectGrouping`). Her satırda
-  İngilizce ad ve ilk seçili dildeki adı. Nesne sayfası `#/object/<id>`:
+  2×2 düğme); İngilizce adına göre A–Z, yanında ilk seçili dildeki adı. Nesne sayfası `#/object/<id>`:
   fotoğraf, İngilizce ad + kısa tanım (arayüz dilinde), seçili dillerde adı (artikelle), kalan diller
   soluk, her ad dinlenebilir, kelimenin geçmişi tek satır, ad bir specroots kökünden geliyorsa köke bağlantı
   (scissors → `cid`). Arama nesneleri **her dildeki adıyla, artikelsiz** bulur ("tebeşir", "kreide").
