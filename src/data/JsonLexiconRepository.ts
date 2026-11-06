@@ -1,5 +1,5 @@
 import type { Affix, AffixIndex } from '../domain/Affix';
-import type { EverydayObject, ObjectSummary, Place } from '../domain/EverydayObject';
+import type { EverydayObject, ListSummary, ObjectSummary, WordList } from '../domain/EverydayObject';
 import type { Root, RootSummary } from '../domain/Root';
 import { LexiconParser } from './LexiconParser';
 import type { LexiconRepository } from './LexiconRepository';
@@ -9,7 +9,7 @@ export type Fetcher = (path: string) => Promise<unknown>;
 /**
  * Reads public/data: index.json for the list, one file per root loaded when it is opened, and
  * affix-index.json only once the learner browses by prefix or suffix. Objects work the same way:
- * objects-index.json for the list and search, one file per object when it is opened.
+ * objects-index.json and lists-index.json for lists and search, one file per list or object when opened.
  */
 export class JsonLexiconRepository implements LexiconRepository {
   private readonly parser = new LexiconParser();
@@ -17,7 +17,8 @@ export class JsonLexiconRepository implements LexiconRepository {
   private affixes: Promise<ReadonlyMap<string, Affix>> | null = null;
   private affixIndex: Promise<AffixIndex> | null = null;
   private readonly roots = new Map<string, Promise<Root>>();
-  private places: Promise<ReadonlyMap<string, Place>> | null = null;
+  private listIndex: Promise<ListSummary[]> | null = null;
+  private readonly lists = new Map<string, Promise<WordList>>();
   private objectIndex: Promise<ObjectSummary[]> | null = null;
   private readonly objects = new Map<string, Promise<EverydayObject>>();
 
@@ -66,16 +67,8 @@ export class JsonLexiconRepository implements LexiconRepository {
     return root;
   }
 
-  getPlaces(): Promise<ReadonlyMap<string, Place>> {
-    this.places ??= this.fetchJson('data/places.json').then((raw) => this.parser.parsePlaces(raw));
-    this.places.catch(() => (this.places = null));
-    return this.places;
-  }
-
   listObjects(): Promise<ObjectSummary[]> {
-    this.objectIndex ??= Promise.all([this.fetchJson('data/objects-index.json'), this.getPlaces()]).then(([raw, places]) =>
-      this.parser.parseObjectIndex(raw, places).sort((a, b) => a.name.localeCompare(b.name)),
-    );
+    this.objectIndex ??= this.fetchJson('data/objects-index.json').then((raw) => this.parser.parseObjectIndex(raw).sort((a, b) => a.name.localeCompare(b.name)));
     this.objectIndex.catch(() => (this.objectIndex = null));
     return this.objectIndex;
   }
@@ -83,12 +76,28 @@ export class JsonLexiconRepository implements LexiconRepository {
   getObject(id: string): Promise<EverydayObject> {
     let object = this.objects.get(id);
     if (!object) {
-      object = Promise.all([this.fetchJson(`data/objects/${encodeURIComponent(id)}.json`), this.getPlaces()]).then(([raw, places]) =>
-        this.parser.parseObject(raw, places),
+      object = Promise.all([this.fetchJson(`data/objects/${encodeURIComponent(id)}.json`), this.getAffixes()]).then(([raw, affixes]) =>
+        this.parser.parseObject(raw, affixes),
       );
       object.catch(() => this.objects.delete(id));
       this.objects.set(id, object);
     }
     return object;
+  }
+
+  listLists(): Promise<ListSummary[]> {
+    this.listIndex ??= this.fetchJson('data/lists-index.json').then((raw) => this.parser.parseListIndex(raw));
+    this.listIndex.catch(() => (this.listIndex = null));
+    return this.listIndex;
+  }
+
+  getList(id: string): Promise<WordList> {
+    let list = this.lists.get(id);
+    if (!list) {
+      list = this.fetchJson(`data/lists/${encodeURIComponent(id)}.json`).then((raw) => this.parser.parseList(raw));
+      list.catch(() => this.lists.delete(id));
+      this.lists.set(id, list);
+    }
+    return list;
   }
 }

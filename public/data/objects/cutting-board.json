@@ -1,7 +1,6 @@
 {
   "id": "cutting-board",
   "name": "cutting board",
-  "place": "kitchen",
   "names": {
     "tr": "kesme tahtası",
     "de": "das Schneidebrett",
@@ -17,10 +16,58 @@
     "it": "un'asse robusta su cui si taglia il cibo",
     "es": "una tabla firme sobre la que se corta la comida"
   },
+  "breakdown": {
+    "en": [
+      {
+        "text": "cutting",
+        "gloss": "cutting"
+      },
+      {
+        "text": "board",
+        "gloss": "board"
+      }
+    ],
+    "de": [
+      {
+        "text": "Schneide",
+        "gloss": "cut (schneiden)"
+      },
+      {
+        "text": "brett",
+        "gloss": "board"
+      }
+    ]
+  },
   "origin": "cutting + board",
   "root": null,
   "image": {
     "file": "Chopping Board.jpg",
     "wikidata": "Q617239"
-  }
+  },
+  "sentences": [
+    {
+      "en": "Chop the onions on the [cutting board].",
+      "tr": "Soğanları kesme tahtasında doğra.",
+      "de": "Schneid die Zwiebeln auf dem Schneidebrett.",
+      "fr": "Coupe les oignons sur la planche à découper.",
+      "it": "Trita le cipolle sul tagliere.",
+      "es": "Pica las cebollas en la tabla de cortar."
+    },
+    {
+      "en": "Use a different [cutting board] for raw meat.",
+      "tr": "Çiğ et için ayrı bir kesme tahtası kullan.",
+      "de": "Nimm für rohes Fleisch ein anderes Schneidebrett.",
+      "fr": "Utilise une autre planche pour la viande crue.",
+      "it": "Usa un altro tagliere per la carne cruda.",
+      "es": "Usa otra tabla para la carne cruda."
+    },
+    {
+      "en": "The cheese was served on a wooden [cutting board].",
+      "tr": "Peynir tahta bir kesme tahtasında sunuldu.",
+      "de": "Der Käse wurde auf einem Holzbrett serviert.",
+      "fr": "Le fromage était servi sur une planche en bois.",
+      "it": "Il formaggio è stato servito su un tagliere di legno.",
+      "es": "El queso se sirvió en una tabla de madera."
+    }
+  ]
 }

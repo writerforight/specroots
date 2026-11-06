@@ -1,5 +1,6 @@
 import type { Affix } from '../domain/Affix';
-import type { ObjectSummary } from '../domain/EverydayObject';
+import { stripArticle, type ListSummary, type ObjectSummary } from '../domain/EverydayObject';
+import { LANGUAGES } from '../domain/Language';
 import type { RootSummary } from '../domain/Root';
 
 export interface SearchHit {
@@ -14,17 +15,19 @@ export interface SearchHit {
   readonly objectId?: string;
   /** For an object found by a translation: what was matched, e.g. "tebeşir". */
   readonly matched?: string;
+  /** Set when the hit is a word list, found by its title in any language ("mutfak"). */
+  readonly listId?: string;
 }
 
 interface Entry extends SearchHit {
   readonly key: string;
 }
 
-/** Finds roots, words, affixes and objects by what the learner types; prefix matches rank before inner matches. */
+/** Finds roots, words, affixes, objects and lists by what the learner types; prefix matches rank before inner matches. */
 export class SearchIndex {
   private readonly entries: Entry[];
 
-  constructor(roots: readonly RootSummary[], affixes: Iterable<Affix> = [], objects: readonly ObjectSummary[] = []) {
+  constructor(roots: readonly RootSummary[], affixes: Iterable<Affix> = [], objects: readonly ObjectSummary[] = [], lists: readonly ListSummary[] = []) {
     this.entries = [
       ...roots.flatMap((root) => [
         ...root.forms.map((form) => ({ key: SearchIndex.normalize(form), label: form, rootId: root.id, wordId: null, affix: null })),
@@ -35,9 +38,20 @@ export class SearchIndex {
       // Objects are found by every name, without the article: "kreide" and "tebeşir" both find chalk.
       ...objects.flatMap((object) => {
         const base = { label: object.name, rootId: null, wordId: null, affix: null, objectId: object.id };
-        const translations = [...new Set(Object.values(object.names))].map((name) => ({ ...base, key: SearchIndex.normalize(SearchIndex.stripArticle(name)), matched: name }));
+        const translations = [...new Set(Object.values(object.names))].map((name) => ({ ...base, key: SearchIndex.normalize(stripArticle(name)), matched: name }));
         return [{ ...base, key: SearchIndex.normalize(object.name) }, ...translations];
       }),
+      ...lists.flatMap((list) =>
+        [...new Set(LANGUAGES.map((l) => list.title[l]).filter((t): t is string => t !== undefined))].map((title) => ({
+          key: SearchIndex.normalize(title),
+          label: list.title.en ?? list.id,
+          rootId: null,
+          wordId: null,
+          affix: null,
+          listId: list.id,
+          matched: title,
+        })),
+      ),
     ];
   }
 
@@ -50,14 +64,17 @@ export class SearchIndex {
     // An object matched by several of its names shows up once, under its best match.
     const seen = new Set<string>();
     return [...starts.sort(byLength), ...contains.sort(byLength)]
-      .filter((e) => !e.objectId || (!seen.has(e.objectId) && seen.add(e.objectId)))
+      .filter((e) => {
+        const id = e.objectId ?? (e.listId ? `list:${e.listId}` : null);
+        return !id || (!seen.has(id) && Boolean(seen.add(id)));
+      })
       .slice(0, limit)
       .map(({ key: _key, ...hit }) => hit);
   }
 
-  /** "die Kreide" → "Kreide", "l'éponge" → "éponge", "el cucharón" → "cucharón". */
+  /** Kept for callers of the old name; see stripArticle in the domain. */
   static stripArticle(name: string): string {
-    return name.replace(/^(der|die|das|le|la|les|il|lo|gli|i|el|los|las|un|une|una|uno)\s+/i, '').replace(/^l['’]/i, '');
+    return stripArticle(name);
   }
 
   static normalize(text: string): string {

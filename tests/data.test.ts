@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest';
 import { LexiconParser } from '../src/data/LexiconParser';
 import { LANGUAGES, TRANSLATION_LANGUAGES } from '../src/domain/Language';
-import { diskRepository, objectFiles, readJson, rootFiles } from './helpers';
+import { diskRepository, listFiles, objectFiles, readJson, rootFiles } from './helpers';
 
 const parser = new LexiconParser();
 const affixes = parser.parseAffixes(readJson('affixes.json'));
@@ -67,41 +67,75 @@ describe('lexicon data', () => {
   });
 });
 
-describe('everyday objects', () => {
-  const places = parser.parsePlaces(readJson('places.json'));
+describe('everyday objects and word lists', () => {
   const rootIds = new Set(rootFiles().map((f) => f.replace(/\.json$/, '')));
+  const objects = objectFiles().map((f) => ({ file: f, object: parser.parseObject(readJson(`objects/${f}`), affixes) }));
+  const lists = listFiles().map((f) => ({ file: f, list: parser.parseList(readJson(`lists/${f}`)) }));
+  const objectIds = new Set(objects.map((o) => o.object.id));
 
-  it('every place is named in all six languages', () => {
-    for (const place of places.values()) expect(Object.keys(place.name).sort(), place.id).toEqual([...LANGUAGES].sort());
-  });
-
-  for (const file of objectFiles()) {
-    it(`${file}: valid, complete, named after its file, linked root exists`, () => {
-      const object = parser.parseObject(readJson(`objects/${file}`), places);
+  for (const { file, object } of objects) {
+    it(`${file}: complete, named after its file, links resolve, sentences mark the object`, () => {
       expect(`${object.id}.json`).toBe(file);
       expect(Object.keys(object.definition).sort(), object.id).toEqual([...LANGUAGES].sort());
       if (object.rootId) expect(rootIds.has(object.rootId), `root ${object.rootId}`).toBe(true);
+      for (const parts of Object.values(object.breakdown)) {
+        for (const part of parts ?? []) if (part.rootId) expect(rootIds.has(part.rootId), `${object.id}: root ${part.rootId}`).toBe(true);
+      }
+      expect(object.sentences.length, object.id).toBeGreaterThanOrEqual(3);
+      // "knife" may be marked as "knives": the first three letters must match.
+      const head = object.name.slice(0, 3).toLowerCase();
+      for (const sentence of object.sentences) {
+        expect(sentence.highlighted[0]?.toLowerCase().startsWith(head), `${object.id}: ${sentence.english}`).toBe(true);
+        for (const lang of TRANSLATION_LANGUAGES) expect(sentence.translation(lang), `${object.id} ${lang}: ${sentence.english}`).toBeTruthy();
+      }
     });
   }
 
-  it('objects-index.json is up to date and alphabetical (run npm run data)', () => {
-    const raw = readJson('objects-index.json') as { name: string }[];
-    const index = parser.parseObjectIndex(raw, places);
-    const files = objectFiles().map((f) => parser.parseObject(readJson(`objects/${f}`), places));
-    expect(index.map((o) => o.name)).toEqual([...index.map((o) => o.name)].sort((a, b) => a.localeCompare(b)));
-    expect(index.map((o) => o.id).sort()).toEqual(files.map((o) => o.id).sort());
-    for (const object of files) {
-      const entry = index.find((o) => o.id === object.id);
-      expect({ ...entry }, object.id).toEqual({ id: object.id, name: object.name, place: object.place, names: object.names });
-    }
+  for (const { file, list } of lists) {
+    it(`lists/${file}: named after its file, titled in six languages, every object exists`, () => {
+      expect(`${list.id}.json`).toBe(file);
+      expect(Object.keys(list.title).sort()).toEqual([...LANGUAGES].sort());
+      for (const id of list.objectIds) expect(objectIds.has(id), `${list.id}: ${id}`).toBe(true);
+    });
+  }
+
+  it('every object is in at least one list', () => {
+    const listed = new Set(lists.flatMap(({ list }) => list.objectIds));
+    expect([...objectIds].filter((id) => !listed.has(id))).toEqual([]);
   });
 
-  it('rejects an object whose id is not its name, an unknown place, or a missing translation', () => {
-    const base = readJson('objects/chalk.json') as Record<string, unknown>;
-    expect(() => parser.parseObject({ ...base, id: 'kreide' }, places)).toThrow(/id must be the name/);
-    expect(() => parser.parseObject({ ...base, place: 'moon' }, places)).toThrow(/place "moon"/);
-    expect(() => parser.parseObject({ ...base, names: { tr: 'tebeşir' } }, places)).toThrow(/names › de/);
-    expect(() => parser.parseObject({ ...base, image: { file: 'x.jpg', wikidata: '183670' } }, places)).toThrow(/Wikidata id/);
+  it('objects-index.json and lists-index.json are up to date (run npm run data)', () => {
+    const index = parser.parseObjectIndex(readJson('objects-index.json'));
+    expect(index.map((o) => o.name)).toEqual([...index.map((o) => o.name)].sort((a, b) => a.localeCompare(b)));
+    expect(index.map((o) => o.id).sort()).toEqual([...objectIds].sort());
+    for (const { object } of objects) {
+      const inLists = lists.filter(({ list }) => list.objectIds.includes(object.id)).map(({ list }) => list.id).sort();
+      const entry = index.find((o) => o.id === object.id);
+      expect({ ...entry, lists: [...(entry?.lists ?? [])].sort() }, object.id).toEqual({
+        id: object.id,
+        name: object.name,
+        names: object.names,
+        lists: inLists,
+        photo: object.image?.file ?? null,
+      });
+    }
+    const listIndex = parser.parseListIndex(readJson('lists-index.json'));
+    expect(listIndex.map((l) => [l.id, l.count]).sort()).toEqual(lists.map(({ list }) => [list.id, list.objectIds.length]).sort());
+  });
+
+  it('rejects a bad object: id not its name, missing translation, bad Wikidata id, parts that do not spell the name', () => {
+    const base = readJson('objects/kettle.json') as Record<string, unknown>;
+    expect(() => parser.parseObject({ ...base, id: 'kocher' }, affixes)).toThrow(/id must be the name/);
+    expect(() => parser.parseObject({ ...base, names: { tr: 'su ısıtıcısı' } }, affixes)).toThrow(/names › de/);
+    expect(() => parser.parseObject({ ...base, image: { file: 'x.jpg', wikidata: '107444' } }, affixes)).toThrow(/Wikidata id/);
+    const badParts = { de: [{ text: 'Wasser', gloss: 'water' }, { text: 'topf', gloss: 'pot' }] };
+    expect(() => parser.parseObject({ ...base, breakdown: badParts }, affixes)).toThrow(/parts spell "Wassertopf", not "Wasserkocher"/);
+    expect(() => parser.parseObject({ ...base, breakdown: { fr: [{ text: 'bouilloire', gloss: 'x' }] } }, affixes)).toThrow(/only en, de/);
+    expect(() => parser.parseObject({ ...base, sentences: [] }, affixes)).toThrow(/sentences: must not be empty/);
+  });
+
+  it('rejects a list that names an object twice', () => {
+    expect(() => parser.parseList({ id: 'x', title: { en: 'X' }, objects: ['jar', 'jar'] })).toThrow(/"jar" appears twice/);
   });
 });
 

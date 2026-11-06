@@ -1,7 +1,6 @@
 {
   "id": "comb",
   "name": "comb",
-  "place": "bathroom",
   "names": {
     "tr": "tarak",
     "de": "der Kamm",
@@ -17,10 +16,37 @@
     "it": "una striscia con una fila di denti sottili per pettinarsi",
     "es": "una tira con una fila de dientes finos para peinarse"
   },
+  "breakdown": {},
   "origin": "Old English camb ← Proto-Indo-European *ǵómbʰos (tooth)",
   "root": null,
   "image": {
     "file": "Plastic comb, 2015-06-07.jpg",
     "wikidata": "Q23834"
-  }
+  },
+  "sentences": [
+    {
+      "en": "He ran a [comb] through his wet hair.",
+      "tr": "Islak saçını tarakla taradı.",
+      "de": "Er fuhr sich mit dem Kamm durch die nassen Haare.",
+      "fr": "Il s'est passé un peigne dans les cheveux mouillés.",
+      "it": "Si è passato il pettine tra i capelli bagnati.",
+      "es": "Se pasó el peine por el pelo mojado."
+    },
+    {
+      "en": "This [comb] has very fine teeth.",
+      "tr": "Bu tarağın dişleri çok ince.",
+      "de": "Dieser Kamm hat sehr feine Zinken.",
+      "fr": "Ce peigne a des dents très fines.",
+      "it": "Questo pettine ha denti molto fitti.",
+      "es": "Este peine tiene las púas muy finas."
+    },
+    {
+      "en": "The police searched the area with a fine-tooth [comb].",
+      "tr": "Polis bölgeyi didik didik aradı.",
+      "de": "Die Polizei durchkämmte die Gegend.",
+      "fr": "La police a passé le quartier au peigne fin.",
+      "it": "La polizia ha setacciato la zona.",
+      "es": "La policía peinó la zona."
+    }
+  ]
 }

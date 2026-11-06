@@ -1,7 +1,6 @@
 {
   "id": "rolling-pin",
   "name": "rolling pin",
-  "place": "kitchen",
   "names": {
     "tr": "oklava",
     "de": "das Nudelholz",
@@ -17,10 +16,63 @@
     "it": "un lungo rullo di legno per stendere la pasta",
     "es": "un rodillo largo de madera para estirar la masa"
   },
+  "breakdown": {
+    "en": [
+      {
+        "text": "roll",
+        "gloss": "roll"
+      },
+      {
+        "text": "ing",
+        "gloss": "doing",
+        "affix": "-ing"
+      },
+      {
+        "text": "pin",
+        "gloss": "peg"
+      }
+    ],
+    "de": [
+      {
+        "text": "Nudel",
+        "gloss": "noodle, dough"
+      },
+      {
+        "text": "holz",
+        "gloss": "wood"
+      }
+    ]
+  },
   "origin": "rolling + pin (Old English pinn, a peg)",
   "root": null,
   "image": {
     "file": "Rollingpin.jpg",
     "wikidata": "Q207763"
-  }
+  },
+  "sentences": [
+    {
+      "en": "Roll out the dough with a [rolling pin].",
+      "tr": "Hamuru oklavayla aç.",
+      "de": "Roll den Teig mit dem Nudelholz aus.",
+      "fr": "Étale la pâte au rouleau à pâtisserie.",
+      "it": "Stendi la pasta con il mattarello.",
+      "es": "Estira la masa con el rodillo."
+    },
+    {
+      "en": "My grandmother makes thin pastry with a long [rolling pin].",
+      "tr": "Babaannem uzun bir oklavayla ince yufka açar.",
+      "de": "Meine Oma rollt mit einem langen Nudelholz dünnen Teig aus.",
+      "fr": "Ma grand-mère étale une pâte fine avec un long rouleau.",
+      "it": "Mia nonna tira la sfoglia sottile con un mattarello lungo.",
+      "es": "Mi abuela estira masa fina con un rodillo largo."
+    },
+    {
+      "en": "Put some flour on the [rolling pin].",
+      "tr": "Oklavaya biraz un serp.",
+      "de": "Streu etwas Mehl auf das Nudelholz.",
+      "fr": "Mets un peu de farine sur le rouleau.",
+      "it": "Metti un po' di farina sul mattarello.",
+      "es": "Echa un poco de harina en el rodillo."
+    }
+  ]
 }

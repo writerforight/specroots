@@ -1,7 +1,6 @@
 {
   "id": "toilet-paper",
   "name": "toilet paper",
-  "place": "bathroom",
   "names": {
     "tr": "tuvalet kâğıdı",
     "de": "das Toilettenpapier",
@@ -17,10 +16,58 @@
     "it": "carta sottile e morbida in rotolo, usata in bagno",
     "es": "papel fino y suave en rollo que se usa en el baño"
   },
+  "breakdown": {
+    "en": [
+      {
+        "text": "toilet",
+        "gloss": "toilet"
+      },
+      {
+        "text": "paper",
+        "gloss": "paper"
+      }
+    ],
+    "de": [
+      {
+        "text": "Toiletten",
+        "gloss": "toilet"
+      },
+      {
+        "text": "papier",
+        "gloss": "paper"
+      }
+    ]
+  },
   "origin": "toilet (French toilette, a small cloth) + paper (Latin papyrus ← Greek pápyros)",
   "root": null,
   "image": {
     "file": "Toiletpapier (Gobran111).jpg",
     "wikidata": "Q5840"
-  }
+  },
+  "sentences": [
+    {
+      "en": "We need to buy [toilet paper].",
+      "tr": "Tuvalet kâğıdı almamız lazım.",
+      "de": "Wir müssen Toilettenpapier kaufen.",
+      "fr": "Il faut acheter du papier toilette.",
+      "it": "Dobbiamo comprare la carta igienica.",
+      "es": "Tenemos que comprar papel higiénico."
+    },
+    {
+      "en": "There's no [toilet paper] left!",
+      "tr": "Tuvalet kâğıdı kalmamış!",
+      "de": "Das Klopapier ist alle!",
+      "fr": "Il n'y a plus de papier toilette !",
+      "it": "È finita la carta igienica!",
+      "es": "¡Se ha acabado el papel higiénico!"
+    },
+    {
+      "en": "One roll of [toilet paper] is on the shelf.",
+      "tr": "Rafta bir rulo tuvalet kâğıdı var.",
+      "de": "Auf dem Regal liegt eine Rolle Toilettenpapier.",
+      "fr": "Il y a un rouleau de papier toilette sur l'étagère.",
+      "it": "Sullo scaffale c'è un rotolo di carta igienica.",
+      "es": "Hay un rollo de papel higiénico en la estantería."
+    }
+  ]
 }

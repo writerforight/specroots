@@ -1,0 +1,23 @@
+{
+  "id": "bathroom",
+  "title": {
+    "en": "Bathroom",
+    "tr": "Banyo",
+    "de": "Badezimmer",
+    "fr": "Salle de bain",
+    "it": "Bagno",
+    "es": "Baño"
+  },
+  "objects": [
+    "bathtub",
+    "comb",
+    "mirror",
+    "razor",
+    "soap",
+    "sponge",
+    "tap",
+    "toilet-paper",
+    "toothbrush",
+    "towel"
+  ]
+}

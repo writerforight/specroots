@@ -1,5 +1,5 @@
 import type { Affix, AffixIndex } from '../domain/Affix';
-import type { EverydayObject, ObjectSummary, Place } from '../domain/EverydayObject';
+import type { EverydayObject, ListSummary, ObjectSummary, WordList } from '../domain/EverydayObject';
 import type { Root, RootSummary } from '../domain/Root';
 
 /**
@@ -16,5 +16,7 @@ export interface LexiconRepository {
   /** Every everyday object, sorted alphabetically by its English name. */
   listObjects(): Promise<ObjectSummary[]>;
   getObject(id: string): Promise<EverydayObject>;
-  getPlaces(): Promise<ReadonlyMap<string, Place>>;
+  /** Every word list (Kitchen, Bathroom…) with its size. */
+  listLists(): Promise<ListSummary[]>;
+  getList(id: string): Promise<WordList>;
 }

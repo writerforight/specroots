@@ -1,31 +1,36 @@
 import type { LexiconRepository } from '../data/LexiconRepository';
 import type { Affix, AffixIndex } from '../domain/Affix';
-import type { ObjectSummary, Place } from '../domain/EverydayObject';
+import type { ListSummary, ObjectSummary } from '../domain/EverydayObject';
 import type { RootSummary } from '../domain/Root';
 import { I18n } from '../i18n/I18n';
 import { SearchIndex } from '../services/SearchIndex';
-import type { SettingsStore } from '../services/SettingsStore';
+import type { Section, SettingsStore } from '../services/SettingsStore';
 import { SpeechService } from '../services/SpeechService';
 import { AffixListView } from '../ui/AffixListView';
 import { BrowseModeSwitch } from '../ui/BrowseModeSwitch';
-import { ObjectListView } from '../ui/ObjectListView';
 import { h } from '../ui/dom';
+import { ListsSidebarView } from '../ui/ListsSidebarView';
 import { RootDetailView } from '../ui/RootDetailView';
 import { RootListView } from '../ui/RootListView';
-import { parseRoute, type Route } from '../ui/routes';
+import { listHref, parseRoute, sectionOf, type Route } from '../ui/routes';
 import { SearchBox } from '../ui/SearchBox';
+import { SectionSwitch } from '../ui/SectionSwitch';
 import { SettingsDialog } from '../ui/SettingsDialog';
 import { ThemeController } from '../ui/ThemeController';
 import type { ViewContext } from '../ui/ViewContext';
 
-/** Wires data, settings and views together and reacts to route and setting changes. */
+/**
+ * Wires data, settings and views together and reacts to route and setting changes.
+ * Two sections share the layout: word roots (roots, prefixes, suffixes) and object lists.
+ */
 export class App {
   private readonly i18n: I18n;
   private readonly speech = new SpeechService();
   private readonly theme = new ThemeController();
   private readonly list: RootListView;
   private readonly affixList: AffixListView;
-  private readonly objectList: ObjectListView;
+  private readonly listsSidebar: ListsSidebarView;
+  private readonly sectionSwitch: SectionSwitch;
   private readonly modeSwitch: BrowseModeSwitch;
   private readonly sidebar = h('nav', { class: 'root-list' });
   private readonly detail: RootDetailView;
@@ -37,7 +42,7 @@ export class App {
   private roots: RootSummary[] = [];
   private affixes: ReadonlyMap<string, Affix> = new Map();
   private objects: ObjectSummary[] = [];
-  private places: ReadonlyMap<string, Place> = new Map();
+  private wordLists: ListSummary[] = [];
   /** Loaded the first time the learner browses by prefix or suffix. */
   private affixIndex: AffixIndex | null = null;
   private route: Route = { kind: 'home' };
@@ -52,7 +57,8 @@ export class App {
     this.i18n = new I18n(settings.value.uiLang);
     this.list = new RootListView(this.i18n);
     this.affixList = new AffixListView(this.i18n);
-    this.objectList = new ObjectListView(this.i18n, (objectGrouping) => this.settings.update({ objectGrouping }));
+    this.listsSidebar = new ListsSidebarView(this.i18n);
+    this.sectionSwitch = new SectionSwitch(this.i18n, (section) => this.switchSection(section));
     this.modeSwitch = new BrowseModeSwitch(this.i18n, (browseMode) => this.settings.update({ browseMode }));
     this.detail = new RootDetailView((kind) => this.settings.update({ derivationView: kind }));
     this.search = new SearchBox(this.i18n, (href) => (location.hash = href));
@@ -85,17 +91,17 @@ export class App {
     window.addEventListener('hashchange', () => this.navigate());
 
     try {
-      [this.roots, this.affixes, this.objects, this.places] = await Promise.all([
+      [this.roots, this.affixes, this.objects, this.wordLists] = await Promise.all([
         this.repository.listRoots(),
         this.repository.getAffixes(),
         this.repository.listObjects(),
-        this.repository.getPlaces(),
+        this.repository.listLists(),
       ]);
     } catch {
       this.detail.showError(this.context());
       return;
     }
-    this.search.setIndex(new SearchIndex(this.roots, this.affixes.values(), this.objects));
+    this.search.setIndex(new SearchIndex(this.roots, this.affixes.values(), this.objects, this.wordLists));
     await this.navigate();
     if (!this.settings.value.onboarded) this.dialog.open('welcome');
   }
@@ -113,15 +119,28 @@ export class App {
     return { i18n: this.i18n, settings: this.settings.value, speech: this.speech, affixes: this.affixes };
   }
 
+  /** The section switch: remember the choice and go to that section's start page. */
+  private switchSection(section: Section): void {
+    // The roots start page "#/" belongs to no section, so the setting must change, not only the address.
+    if (section !== this.settings.value.section) this.settings.update({ section });
+    const target = section === 'lists' ? '#/lists' : '#/';
+    if (location.hash !== target && !(target === '#/' && location.hash === '')) location.hash = target;
+  }
+
   /**
-   * Follows the address. Opening an affix page also shows its list ("-ion" from a word card switches
-   * to suffixes); that settings change renders by itself. Only on arrival, so the switch stays free.
+   * Follows the address. An address of one section also switches the side list to it, and an affix
+   * page shows its list ("-ion" from a word card switches to suffixes); those settings changes render
+   * by themselves. Only on arrival, so the switches stay free.
    */
   private navigate(): Promise<void> {
     this.route = parseRoute(location.hash);
-    const kind = this.route.kind === 'affix' ? this.affixes.get(this.route.affixId)?.kind : this.route.kind === 'object' ? 'object' : undefined;
-    if (kind && kind !== this.settings.value.browseMode) {
-      this.settings.update({ browseMode: kind });
+    const patch: { section?: Section; browseMode?: 'prefix' | 'suffix' } = {};
+    const section = sectionOf(this.route);
+    if (section && section !== this.settings.value.section) patch.section = section;
+    const kind = this.route.kind === 'affix' ? this.affixes.get(this.route.affixId)?.kind : undefined;
+    if (kind && kind !== this.settings.value.browseMode) patch.browseMode = kind;
+    if (patch.section || patch.browseMode) {
+      this.settings.update(patch);
       return Promise.resolve();
     }
     return this.render();
@@ -130,11 +149,12 @@ export class App {
   private async render(): Promise<void> {
     const token = ++this.renderToken;
     const route = this.route;
-    document.body.dataset.view = route.kind;
+    // Mobile shows either the side list or the page; the lists start page is a side-list page.
+    document.body.dataset.view = route.kind === 'lists' ? 'home' : route.kind;
     try {
       await this.renderSidebar(route);
       if (token !== this.renderToken) return;
-      if (route.kind === 'home') {
+      if (route.kind === 'home' || route.kind === 'lists') {
         this.detail.showEmpty(this.context());
         document.title = 'specroots';
       } else if (route.kind === 'root') {
@@ -142,12 +162,7 @@ export class App {
         if (token !== this.renderToken) return;
         this.detail.show(root, this.context(), route.wordId);
         document.title = `${root.forms[0] ?? root.id} · specroots`;
-      } else if (route.kind === 'object') {
-        const object = await this.repository.getObject(route.objectId);
-        if (token !== this.renderToken) return;
-        this.detail.showObject(object, this.places.get(object.place), this.context());
-        document.title = `${object.name} · specroots`;
-      } else {
+      } else if (route.kind === 'affix') {
         const affix = this.affixes.get(route.affixId);
         if (!affix) throw new Error(`unknown affix ${route.affixId}`);
         const occurrences = (await this.loadAffixIndex()).get(affix.id) ?? [];
@@ -159,31 +174,56 @@ export class App {
         }));
         this.detail.showAffix(affix, groups, this.context());
         document.title = `${affix.label} · specroots`;
+      } else if (route.kind === 'list' && route.objectId === null) {
+        const list = await this.repository.getList(route.listId);
+        if (token !== this.renderToken) return;
+        this.detail.showList(list, this.objectsOf(list.objectIds), this.context());
+        document.title = `${list.title[this.i18n.language] ?? list.title.en ?? list.id} · specroots`;
+      } else {
+        const object = await this.repository.getObject(route.objectId ?? '');
+        if (token !== this.renderToken) return;
+        const summary = this.objects.find((o) => o.id === object.id);
+        const lists = this.wordLists.filter((l) => summary?.lists.includes(l.id));
+        const back = route.kind === 'list' ? listHref(route.listId) : '#/lists';
+        this.detail.showObject(object, lists, back, this.context());
+        document.title = `${object.name} · specroots`;
       }
     } catch {
       if (token === this.renderToken) this.detail.showError(this.context());
     }
   }
 
-  /** The mode switch and the list it selects: roots, prefixes, suffixes or objects. */
+  /** Section switch on top; below it the roots section's mode switch and list, or the word lists. */
   private async renderSidebar(route: Route): Promise<void> {
-    const mode = this.settings.value.browseMode;
+    const { section, browseMode: mode, translationLangs } = this.settings.value;
+    this.sectionSwitch.render(section);
+    if (section === 'lists') {
+      this.sidebar.setAttribute('aria-label', this.i18n.t('section_lists'));
+      if (route.kind === 'list') {
+        const list = await this.repository.getList(route.listId);
+        this.listsSidebar.renderList(list, this.objectsOf(list.objectIds), translationLangs[0], route.objectId);
+      } else {
+        this.listsSidebar.renderLists(this.wordLists, null);
+      }
+      this.sidebar.replaceChildren(this.sectionSwitch.el, this.listsSidebar.el);
+      return;
+    }
     this.modeSwitch.render(mode);
     this.sidebar.setAttribute('aria-label', this.i18n.t(`browse_${mode}`));
     if (mode === 'root') {
       this.list.render(this.roots, route.kind === 'root' ? route.rootId : null);
-      this.sidebar.replaceChildren(this.modeSwitch.el, this.list.el);
-      return;
-    }
-    if (mode === 'object') {
-      const { objectGrouping, translationLangs } = this.settings.value;
-      this.objectList.render(this.objects, this.places, objectGrouping, translationLangs[0], route.kind === 'object' ? route.objectId : null);
-      this.sidebar.replaceChildren(this.modeSwitch.el, this.objectList.el);
+      this.sidebar.replaceChildren(this.sectionSwitch.el, this.modeSwitch.el, this.list.el);
       return;
     }
     const index = await this.loadAffixIndex();
     this.affixList.render(mode, this.affixes, index, route.kind === 'affix' ? route.affixId : null);
-    this.sidebar.replaceChildren(this.modeSwitch.el, this.affixList.el);
+    this.sidebar.replaceChildren(this.sectionSwitch.el, this.modeSwitch.el, this.affixList.el);
+  }
+
+  /** The summaries of the given objects, A–Z by English name. */
+  private objectsOf(ids: readonly string[]): ObjectSummary[] {
+    const wanted = new Set(ids);
+    return this.objects.filter((o) => wanted.has(o.id));
   }
 
   private async loadAffixIndex(): Promise<AffixIndex> {

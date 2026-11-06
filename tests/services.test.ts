@@ -3,10 +3,9 @@ import { LANGUAGES } from '../src/domain/Language';
 import { I18n } from '../src/i18n/I18n';
 import { MESSAGES } from '../src/i18n/messages';
 import { MemoryStore } from '../src/services/KeyValueStore';
-import { groupByPlace } from '../src/domain/EverydayObject';
 import { SearchIndex } from '../src/services/SearchIndex';
 import { SettingsStore } from '../src/services/SettingsStore';
-import { affixHref, objectHref, parseRoute, rootHref } from '../src/ui/routes';
+import { affixHref, listHref, objectHref, parseRoute, rootHref, sectionOf } from '../src/ui/routes';
 import { diskRepository } from './helpers';
 
 describe('SearchIndex', async () => {
@@ -36,7 +35,12 @@ describe('SearchIndex', async () => {
 
 describe('SearchIndex with objects', async () => {
   const repo = diskRepository();
-  const index = new SearchIndex(await repo.listRoots(), (await repo.getAffixes()).values(), await repo.listObjects());
+  const index = new SearchIndex(await repo.listRoots(), (await repo.getAffixes()).values(), await repo.listObjects(), await repo.listLists());
+
+  it('finds a word list by its title in any language', () => {
+    expect(index.search('mutfak')[0]).toMatchObject({ listId: 'kitchen', matched: 'Mutfak' });
+    expect(index.search('küche')[0]).toMatchObject({ listId: 'kitchen' });
+  });
 
   it('finds an object by its English name', () => {
     expect(index.search('chalk')[0]).toMatchObject({ label: 'chalk', objectId: 'chalk' });
@@ -63,24 +67,6 @@ describe('SearchIndex with objects', async () => {
   });
 });
 
-describe('groupByPlace', async () => {
-  const repo = diskRepository();
-  const [objects, places] = [await repo.listObjects(), await repo.getPlaces()];
-
-  it('puts every object under its place, A–Z inside, places sorted in the given language', () => {
-    const groups = groupByPlace(objects, places, 'tr');
-    expect(groups.map((g) => g.place.id)).toEqual(['bathroom', 'kitchen', 'classroom']); // banyo, mutfak, sınıf
-    expect(groups.reduce((n, g) => n + g.objects.length, 0)).toBe(objects.length);
-    const kitchen = groups.find((g) => g.place.id === 'kitchen')!.objects.map((o) => o.name);
-    expect(kitchen).toContain('colander');
-    expect(kitchen).toEqual([...kitchen].sort((a, b) => a.localeCompare(b)));
-  });
-  it('leaves out places without objects', () => {
-    const extra = new Map([...places, ['garden', { id: 'garden', name: { en: 'garden' } }]]);
-    expect(groupByPlace(objects, extra, 'en').some((g) => g.place.id === 'garden')).toBe(false);
-  });
-});
-
 describe('SettingsStore', () => {
   it('guesses the interface language from the browser', () => {
     const s = new SettingsStore(new MemoryStore(), ['de-AT', 'en']).value;
@@ -88,7 +74,7 @@ describe('SettingsStore', () => {
     expect(s.translationLangs).toEqual(['de']);
     expect(s.onboarded).toBe(false);
     expect(s.browseMode).toBe('root');
-    expect(s.objectGrouping).toBe('place');
+    expect(s.section).toBe('roots');
   });
   it('falls back to English and Turkish translations for unknown browsers', () => {
     const s = new SettingsStore(new MemoryStore(), ['ja']).value;
@@ -129,6 +115,10 @@ describe('routes', () => {
     expect(parseRoute(affixHref('-ion'))).toEqual({ kind: 'affix', affixId: '-ion' });
     expect(parseRoute('#/affix/')).toEqual({ kind: 'home' });
     expect(parseRoute(objectHref('paper-clip'))).toEqual({ kind: 'object', objectId: 'paper-clip' });
+    expect(parseRoute(listHref('kitchen'))).toEqual({ kind: 'list', listId: 'kitchen', objectId: null });
+    expect(parseRoute(listHref('kitchen', 'jar'))).toEqual({ kind: 'list', listId: 'kitchen', objectId: 'jar' });
+    expect(parseRoute('#/lists')).toEqual({ kind: 'lists' });
+    expect([parseRoute('#/'), parseRoute('#/root/spec'), parseRoute('#/lists'), parseRoute('#/object/jar')].map(sectionOf)).toEqual([null, 'roots', 'lists', 'lists']);
   });
 });
 

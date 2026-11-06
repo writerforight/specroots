@@ -1,7 +1,6 @@
 {
   "id": "globe",
   "name": "globe",
-  "place": "classroom",
   "names": {
     "tr": "dünya küresi",
     "de": "der Globus",
@@ -17,10 +16,37 @@
     "it": "una carta della Terra a forma di palla che gira su un supporto",
     "es": "un mapa de la Tierra en forma de bola que gira sobre un soporte"
   },
+  "breakdown": {},
   "origin": "Latin globus (ball, sphere)",
   "root": null,
   "image": {
     "file": "Globe terrestre - Dressé par J. Forest, Géographe - btv1b10061789v (01 of 14).jpg",
     "wikidata": "Q133792"
-  }
+  },
+  "sentences": [
+    {
+      "en": "He spun the [globe] and pointed at a country.",
+      "tr": "Dünya küresini çevirdi ve bir ülkeyi gösterdi.",
+      "de": "Er drehte den Globus und zeigte auf ein Land.",
+      "fr": "Il a fait tourner le globe et montré un pays.",
+      "it": "Ha fatto girare il mappamondo e ha indicato un paese.",
+      "es": "Hizo girar el globo terráqueo y señaló un país."
+    },
+    {
+      "en": "Find Turkey on the [globe].",
+      "tr": "Türkiye'yi dünya küresinde bul.",
+      "de": "Finde die Türkei auf dem Globus.",
+      "fr": "Trouve la Turquie sur le globe.",
+      "it": "Trova la Turchia sul mappamondo.",
+      "es": "Busca Turquía en el globo terráqueo."
+    },
+    {
+      "en": "A [globe] shows that the Earth is round.",
+      "tr": "Dünya küresi, Dünya'nın yuvarlak olduğunu gösterir.",
+      "de": "Ein Globus zeigt, dass die Erde rund ist.",
+      "fr": "Un globe montre que la Terre est ronde.",
+      "it": "Un mappamondo mostra che la Terra è rotonda.",
+      "es": "Un globo terráqueo muestra que la Tierra es redonda."
+    }
+  ]
 }

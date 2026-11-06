@@ -1,7 +1,6 @@
 {
   "id": "frying-pan",
   "name": "frying pan",
-  "place": "kitchen",
   "names": {
     "tr": "tava",
     "de": "die Bratpfanne",
@@ -17,10 +16,63 @@
     "it": "una padella bassa con manico lungo per friggere",
     "es": "un recipiente plano de mango largo para freír"
   },
+  "breakdown": {
+    "en": [
+      {
+        "text": "fry",
+        "gloss": "fry"
+      },
+      {
+        "text": "ing",
+        "gloss": "doing",
+        "affix": "-ing"
+      },
+      {
+        "text": "pan",
+        "gloss": "pan"
+      }
+    ],
+    "de": [
+      {
+        "text": "Brat",
+        "gloss": "fry, roast (braten)"
+      },
+      {
+        "text": "pfanne",
+        "gloss": "pan"
+      }
+    ]
+  },
   "origin": "frying + pan (Old English panne)",
   "root": null,
   "image": {
     "file": "Pfanne (Edelstahl).jpg",
     "wikidata": "Q127666"
-  }
+  },
+  "sentences": [
+    {
+      "en": "Heat some oil in the [frying pan].",
+      "tr": "Tavada biraz yağ ısıt.",
+      "de": "Erhitz etwas Öl in der Bratpfanne.",
+      "fr": "Fais chauffer un peu d'huile dans la poêle.",
+      "it": "Scalda un po' d'olio in padella.",
+      "es": "Calienta un poco de aceite en la sartén."
+    },
+    {
+      "en": "She fried two eggs in a small [frying pan].",
+      "tr": "Küçük bir tavada iki yumurta kızarttı.",
+      "de": "Sie briet zwei Eier in einer kleinen Pfanne.",
+      "fr": "Elle a fait cuire deux œufs dans une petite poêle.",
+      "it": "Ha fritto due uova in una padella piccola.",
+      "es": "Frió dos huevos en una sartén pequeña."
+    },
+    {
+      "en": "Don't touch the [frying pan], it's hot.",
+      "tr": "Tavaya dokunma, sıcak.",
+      "de": "Fass die Pfanne nicht an, sie ist heiß.",
+      "fr": "Ne touche pas la poêle, elle est chaude.",
+      "it": "Non toccare la padella, scotta.",
+      "es": "No toques la sartén, que quema."
+    }
+  ]
 }

@@ -1,7 +1,6 @@
 {
   "id": "soap",
   "name": "soap",
-  "place": "bathroom",
   "names": {
     "tr": "sabun",
     "de": "die Seife",
@@ -17,10 +16,37 @@
     "it": "una sostanza che si usa con l'acqua per lavarsi",
     "es": "una sustancia que se usa con agua para lavarse"
   },
+  "breakdown": {},
   "origin": "Old English sāpe ← Germanic *saipǭ",
   "root": null,
   "image": {
     "file": "Bars of pure Marseille and Aleppo soap, 2024.jpg",
     "wikidata": "Q34396"
-  }
+  },
+  "sentences": [
+    {
+      "en": "Wash your hands with [soap] and water.",
+      "tr": "Ellerini sabun ve suyla yıka.",
+      "de": "Wasch dir die Hände mit Wasser und Seife.",
+      "fr": "Lave-toi les mains à l'eau et au savon.",
+      "it": "Lavati le mani con acqua e sapone.",
+      "es": "Lávate las manos con agua y jabón."
+    },
+    {
+      "en": "This [soap] smells of lavender.",
+      "tr": "Bu sabun lavanta kokuyor.",
+      "de": "Diese Seife riecht nach Lavendel.",
+      "fr": "Ce savon sent la lavande.",
+      "it": "Questo sapone profuma di lavanda.",
+      "es": "Este jabón huele a lavanda."
+    },
+    {
+      "en": "There's no [soap] left in the bathroom.",
+      "tr": "Banyoda sabun kalmamış.",
+      "de": "Im Bad ist keine Seife mehr.",
+      "fr": "Il n'y a plus de savon dans la salle de bain.",
+      "it": "In bagno non c'è più sapone.",
+      "es": "No queda jabón en el baño."
+    }
+  ]
 }

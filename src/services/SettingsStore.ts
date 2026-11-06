@@ -3,17 +3,17 @@ import type { KeyValueStore } from './KeyValueStore';
 
 export type ThemeChoice = 'system' | 'light' | 'dark';
 export type DerivationViewKind = 'list' | 'tree';
-/** How the object list is ordered: grouped under the place where things are used, or one A–Z list. */
-export type ObjectGrouping = 'place' | 'alpha';
-/** What the side list shows: roots, the prefixes or suffixes words are built with, or everyday objects. */
-export type BrowseMode = 'root' | 'prefix' | 'suffix' | 'object';
+/** The two halves of the app: word roots (part one of the plan) and object lists (part two). */
+export type Section = 'roots' | 'lists';
+/** What the roots section's side list shows: roots, or the prefixes or suffixes words are built with. */
+export type BrowseMode = 'root' | 'prefix' | 'suffix';
 
 export interface Settings {
   readonly uiLang: Lang;
   readonly translationLangs: readonly TranslationLang[];
   readonly theme: ThemeChoice;
   readonly derivationView: DerivationViewKind;
-  readonly objectGrouping: ObjectGrouping;
+  readonly section: Section;
   readonly browseMode: BrowseMode;
   /** False until the learner has picked languages on the welcome screen. */
   readonly onboarded: boolean;
@@ -57,7 +57,7 @@ export class SettingsStore {
       translationLangs: isTranslationLang(uiLang) ? [uiLang] : ['tr'],
       theme: 'system',
       derivationView: 'list',
-      objectGrouping: 'place',
+      section: 'roots',
       browseMode: 'root',
       onboarded: false,
     };
@@ -87,8 +87,8 @@ export class SettingsStore {
       translationLangs: langs ?? defaults.translationLangs,
       theme: raw.theme === 'light' || raw.theme === 'dark' || raw.theme === 'system' ? raw.theme : defaults.theme,
       derivationView: raw.derivationView === 'tree' ? 'tree' : 'list',
-      objectGrouping: raw.objectGrouping === 'alpha' ? 'alpha' : 'place',
-      browseMode: raw.browseMode === 'prefix' || raw.browseMode === 'suffix' || raw.browseMode === 'object' ? raw.browseMode : 'root',
+      section: raw.section === 'lists' ? 'lists' : 'roots',
+      browseMode: raw.browseMode === 'prefix' || raw.browseMode === 'suffix' ? raw.browseMode : 'root',
       onboarded: raw.onboarded === true,
     };
   }

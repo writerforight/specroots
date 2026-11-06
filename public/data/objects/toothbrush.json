@@ -1,7 +1,6 @@
 {
   "id": "toothbrush",
   "name": "toothbrush",
-  "place": "bathroom",
   "names": {
     "tr": "diş fırçası",
     "de": "die Zahnbürste",
@@ -17,10 +16,58 @@
     "it": "una piccola spazzola con manico lungo per lavarsi i denti",
     "es": "un cepillo pequeño de mango largo para lavarse los dientes"
   },
+  "breakdown": {
+    "en": [
+      {
+        "text": "tooth",
+        "gloss": "tooth"
+      },
+      {
+        "text": "brush",
+        "gloss": "brush"
+      }
+    ],
+    "de": [
+      {
+        "text": "Zahn",
+        "gloss": "tooth"
+      },
+      {
+        "text": "bürste",
+        "gloss": "brush"
+      }
+    ]
+  },
   "origin": "tooth + brush (compare German Zahnbürste)",
   "root": null,
   "image": {
     "file": "Toothbrush x3 20050716 002.jpg",
     "wikidata": "Q134205"
-  }
+  },
+  "sentences": [
+    {
+      "en": "Change your [toothbrush] every three months.",
+      "tr": "Diş fırçanı üç ayda bir değiştir.",
+      "de": "Wechsle deine Zahnbürste alle drei Monate.",
+      "fr": "Change de brosse à dents tous les trois mois.",
+      "it": "Cambia lo spazzolino ogni tre mesi.",
+      "es": "Cambia el cepillo de dientes cada tres meses."
+    },
+    {
+      "en": "I forgot my [toothbrush] at the hotel.",
+      "tr": "Diş fırçamı otelde unuttum.",
+      "de": "Ich habe meine Zahnbürste im Hotel vergessen.",
+      "fr": "J'ai oublié ma brosse à dents à l'hôtel.",
+      "it": "Ho dimenticato lo spazzolino in albergo.",
+      "es": "Me dejé el cepillo de dientes en el hotel."
+    },
+    {
+      "en": "An electric [toothbrush] cleans well.",
+      "tr": "Elektrikli diş fırçası iyi temizler.",
+      "de": "Eine elektrische Zahnbürste putzt gut.",
+      "fr": "Une brosse à dents électrique nettoie bien.",
+      "it": "Lo spazzolino elettrico pulisce bene.",
+      "es": "Un cepillo eléctrico limpia bien."
+    }
+  ]
 }

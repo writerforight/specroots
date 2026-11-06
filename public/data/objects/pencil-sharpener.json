@@ -1,7 +1,6 @@
 {
   "id": "pencil-sharpener",
   "name": "pencil sharpener",
-  "place": "classroom",
   "names": {
     "tr": "kalemtıraş",
     "de": "der Spitzer",
@@ -17,10 +16,67 @@
     "it": "un piccolo attrezzo con lama che rifà la punta alla matita",
     "es": "una pequeña herramienta con cuchilla que le saca punta al lápiz"
   },
+  "breakdown": {
+    "en": [
+      {
+        "text": "pencil",
+        "gloss": "pencil"
+      },
+      {
+        "text": "sharp",
+        "gloss": "sharp"
+      },
+      {
+        "text": "en",
+        "gloss": "make (sharpen = make sharp)"
+      },
+      {
+        "text": "er",
+        "gloss": "thing that does",
+        "affix": "-er"
+      }
+    ],
+    "de": [
+      {
+        "text": "Spitz",
+        "gloss": "point (spitz = pointed)"
+      },
+      {
+        "text": "er",
+        "gloss": "thing that does"
+      }
+    ]
+  },
   "origin": "pencil + sharpen + -er",
   "root": null,
   "image": {
     "file": "Red pencil sharpener.jpg",
     "wikidata": "Q193811"
-  }
+  },
+  "sentences": [
+    {
+      "en": "My [pencil sharpener] is full of shavings.",
+      "tr": "Kalemtıraşım talaşla dolu.",
+      "de": "Mein Spitzer ist voller Späne.",
+      "fr": "Mon taille-crayon est plein de copeaux.",
+      "it": "Il mio temperamatite è pieno di trucioli.",
+      "es": "Mi sacapuntas está lleno de virutas."
+    },
+    {
+      "en": "Do you have a [pencil sharpener]? Mine is broken.",
+      "tr": "Kalemtıraşın var mı? Benimki bozuk.",
+      "de": "Hast du einen Spitzer? Meiner ist kaputt.",
+      "fr": "Tu as un taille-crayon ? Le mien est cassé.",
+      "it": "Hai un temperamatite? Il mio è rotto.",
+      "es": "¿Tienes sacapuntas? El mío está roto."
+    },
+    {
+      "en": "The office has an electric [pencil sharpener].",
+      "tr": "Ofiste elektrikli bir kalemtıraş var.",
+      "de": "Im Büro gibt es einen elektrischen Spitzer.",
+      "fr": "Le bureau a un taille-crayon électrique.",
+      "it": "In ufficio c'è un temperamatite elettrico.",
+      "es": "En la oficina hay un sacapuntas eléctrico."
+    }
+  ]
 }

@@ -1,6 +1,7 @@
 # specroots büyütme döngüsü
 
-Bu dosya `/loop` ile çalışan ajanın talimatıdır. Her tur bu dosyanın tamamını oku ve **tek bir tur** yap.
+Bu dosya kök turlarının talimatıdır; turları `docs/loop.md` sırayla çağırır (kök turu ↔ liste turu).
+Her tur bu dosyanın tamamını oku ve **tek bir tur** yap.
 Repo: `~/Desktop/projects/specroots`. Bağlayıcı kurallar: `SPEC.md`, veri biçimi: `CONTRIBUTING.md`.
 
 ## Hedef
@@ -9,7 +10,7 @@ Bir kökün 20 sağlam kelimesi yoksa uydurma; bulabildiğin kadarını koy ve a
 yanına `(az: N)` yaz. Toplam hedef ≈ 1000–2000 kelime.
 
 ## Bir tur
-1. `git pull`. Kuyruktaki ilk **3** işaretsiz kökü al (önce "Genişlet", sonra "Yeni").
+1. `git pull --rebase`. Kuyruktaki ilk **2** işaretsiz kökü al (en alttaki "Yeni (2026-11-06)" kuyruğu).
 2. Her kök için `public/data/roots/<id>.json` yaz ya da genişlet:
    - **Kelime seçimi:** önce en yaygın kelimeler (günlük dil, haber, okul), sonra akademik olanlar.
      Sadece etimolojisi gerçekten bu köke dayananlar. Emin olmadığını koyma. Nadir, eskimiş ya da
@@ -109,3 +110,36 @@ Kök: 63 · Kelime: 1497 kayıt, 1492 ayrı kelime (5 birleşik kelime iki kökt
 - [x] morph — biçim — 9 (az: 9)
 - [x] photo — ışık — 11 (az: 11)
 - [x] scop — bakmak — 11 (az: 11)
+
+### Yeni (2026-11-06, kullanıcı onayı: "kökler uygun")
+Latince (`"origin": "la"`):
+- [ ] fin — son, sınır (finish, final, define, infinite, confine)
+- [ ] man / manu — el (manual, manufacture, manuscript, manage, manipulate)
+- [ ] ped / pedi — ayak (pedal, pedestrian, expedition, impede) — Yunanca *paid-* (çocuk) ile karıştırma
+- [ ] corp / corpor — beden (corpse, corporation, incorporate, corporal)
+- [ ] sci — bilmek (science, conscious, conscience, omniscient)
+- [ ] nov — yeni (novel, novice, innovate, renovate)
+- [ ] mort — ölüm (mortal, immortal, mortgage, mortify)
+- [ ] viv / vit — yaşamak (vivid, survive, revive, vital, vitamin)
+- [ ] terr — toprak (territory, terrain, terrace, Mediterranean, extraterrestrial)
+- [ ] aqu — su (aquarium, aquatic, aqueduct)
+- [ ] ann / enn — yıl (annual, anniversary, annuity, perennial, millennium)
+- [ ] fort — güç (fort, fortress, effort, comfort, fortify)
+- [ ] grat — hoş, teşekkür (grateful, gratitude, congratulate, gratis)
+- [ ] magn — büyük (magnify, magnitude, magnificent, magnate)
+- [ ] ment — akıl (mental, mention, comment, demented)
+- [ ] nat — doğmak (native, nation, nature, prenatal, innate)
+- [ ] nomin / nom — ad (nominate, nominal, denomination, nominee)
+- [ ] sign — işaret (signal, signature, design, assign, resign, significant)
+- [ ] temp / tempor — zaman (temporary, contemporary, tempo) — `tempt` (denemek) ile karıştırma
+Yunanca (`"origin": "gr"`):
+- [ ] therm — ısı (thermal, thermometer, thermostat)
+- [ ] hydr — su (hydrogen, hydrate, dehydrate, hydraulic)
+- [ ] psych — ruh (psychology, psychic, psychiatrist)
+- [ ] dem — halk (democracy, epidemic, demographic)
+- [ ] crat / crac — güç, yönetim (democrat, bureaucracy, aristocrat)
+- [ ] phil — sevmek (philosophy, philanthropy, bibliophile)
+- [ ] soph — bilgelik (sophisticated, sophomore, philosophy)
+- [ ] techn — sanat, beceri (technical, technique, technology)
+Not: `hydro-`, `psycho-`, `therm-` gibi parçalar `affixes.json`'da birleşik parça olarak varsa kök dosyası
+yine açılır; kelimelerin `parts`'ında kök yazımı kullanılır.

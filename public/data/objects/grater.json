@@ -1,7 +1,6 @@
 {
   "id": "grater",
   "name": "grater",
-  "place": "kitchen",
   "names": {
     "tr": "rende",
     "de": "die Reibe",
@@ -17,10 +16,59 @@
     "it": "un attrezzo di metallo con fori taglienti per ridurre il cibo in pezzetti",
     "es": "un utensilio de metal con agujeros afilados para deshacer la comida en trocitos"
   },
+  "breakdown": {
+    "en": [
+      {
+        "text": "grat",
+        "gloss": "grate, scrape"
+      },
+      {
+        "text": "er",
+        "gloss": "thing that does",
+        "affix": "-er"
+      }
+    ],
+    "de": [
+      {
+        "text": "Reib",
+        "gloss": "rub, grate (reiben)"
+      },
+      {
+        "text": "e",
+        "gloss": "makes a noun"
+      }
+    ]
+  },
   "origin": "grate (Old French grater, to scrape) + -er",
   "root": null,
   "image": {
     "file": "746801 FlatCoarseGrater Lifestyle9x9.jpg",
     "wikidata": "Q192848"
-  }
+  },
+  "sentences": [
+    {
+      "en": "Grate the cheese with a [grater].",
+      "tr": "Peyniri rendeyle rendele.",
+      "de": "Reib den Käse mit der Reibe.",
+      "fr": "Râpe le fromage avec une râpe.",
+      "it": "Grattugia il formaggio con la grattugia.",
+      "es": "Ralla el queso con el rallador."
+    },
+    {
+      "en": "Be careful, the [grater] is sharp.",
+      "tr": "Dikkat et, rende keskin.",
+      "de": "Vorsicht, die Reibe ist scharf.",
+      "fr": "Attention, la râpe coupe.",
+      "it": "Attento, la grattugia è tagliente.",
+      "es": "Cuidado, el rallador corta."
+    },
+    {
+      "en": "I need a fine [grater] for lemon peel.",
+      "tr": "Limon kabuğu için ince bir rendeye ihtiyacım var.",
+      "de": "Für Zitronenschale brauche ich eine feine Reibe.",
+      "fr": "Il me faut une râpe fine pour le zeste de citron.",
+      "it": "Mi serve una grattugia fine per la buccia di limone.",
+      "es": "Necesito un rallador fino para la piel de limón."
+    }
+  ]
 }

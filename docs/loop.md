@@ -1,0 +1,25 @@
+# specroots döngüsü: kök turu ↔ liste turu
+
+`/loop` bu dosyayla çalışır. Her uyanışta bu dosyanın tamamını oku ve **tek bir tur** yap.
+Repo: `~/Desktop/projects/specroots`. Bağlayıcı kurallar: `SPEC.md`.
+
+## Bir tur
+1. `git pull --rebase`. Başka bir oturum (ör. bulutta çalışan Claude) da bu repoya yazıyor olabilir:
+   **onun commit'lerini asla geri alma (revert etme)**; çakışma olursa iki tarafın işini birleştir.
+2. Aşağıdaki "Sıradaki tur" satırına bak:
+   - **kök** ise: `docs/grow-loop.md`'deki talimatla bir tur (yeni kuyruktan 2 kök).
+   - **liste** ise: `docs/objects-loop.md`'deki talimatla bir tur (ilk dolmamış listeye 10 nesne).
+3. Tur bitince "Sıradaki tur"u öbürüne çevir, "Günlük"e bir satır yaz, bu dosyayı da aynı commit'e kat.
+   Push reddedilirse `git pull --rebase` ve bir kez daha dene.
+4. Kısa rapor (kullanıcı Türkçe okur): ne eklendi, toplamlar, şüpheli bıraktığın bir şey.
+
+## Sürdürme / durdurma
+- İki kuyruk da bitmediyse sonraki turu ~60 saniye sonraya planla. Biri bittiyse yalnız öbürünü çalıştır.
+- İkisi de bittiyse README'leri (3 dil) ve SPEC'i güncelle, push et, döngüyü durdur.
+- Aynı test iki turdur düzelmiyorsa ya da push iki kez reddedilirse döngüyü durdur ve nedenini yaz.
+
+## Sıradaki tur
+kök
+
+## Günlük
+- 2026-11-06: döngü kuruldu (D5 listeler iskeleti bitti: 30 nesne, 3 liste; 63 kök).

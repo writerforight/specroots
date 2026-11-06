@@ -1,10 +1,16 @@
 import { ENDONYMS, LANGUAGES, TRANSLATION_LANGUAGES, type Lang, type TranslationLang } from '../domain/Language';
 import type { I18n } from '../i18n/I18n';
-import type { BrowseMode, Settings, SettingsStore, ThemeChoice } from '../services/SettingsStore';
+import type { BrowseMode, Section, Settings, SettingsStore, ThemeChoice } from '../services/SettingsStore';
 import { BROWSE_MODES } from './BrowseModeSwitch';
 import { h } from './dom';
 
 export type DialogMode = 'welcome' | 'settings';
+
+/** True when the address shows a different section than the one just chosen. */
+function sectionChanged(section: Section): boolean {
+  const lists = /^#\/(lists|list|object)\b/.test(location.hash);
+  return lists !== (section === 'lists');
+}
 
 /** One form for both the first-visit welcome and the settings screen. */
 export class SettingsDialog {
@@ -54,8 +60,13 @@ export class SettingsDialog {
             return;
           }
           const theme = (form.querySelector<HTMLInputElement>('input[name="theme"]:checked')?.value ?? 'system') as ThemeChoice;
-          const browseMode = (form.querySelector<HTMLInputElement>('input[name="browse"]:checked')?.value ?? 'root') as BrowseMode;
-          this.store.update({ translationLangs: langs, theme, browseMode, onboarded: true });
+          // "Start with": a roots-section mode, or the object lists.
+          const start = form.querySelector<HTMLInputElement>('input[name="browse"]:checked')?.value ?? 'root';
+          const section: Section = start === 'lists' ? 'lists' : 'roots';
+          const browseMode = (start === 'lists' ? s.browseMode : start) as BrowseMode;
+          this.store.update({ translationLangs: langs, theme, browseMode, section, onboarded: true });
+          // Show the chosen section right away.
+          if (sectionChanged(section)) location.hash = section === 'lists' ? '#/lists' : '#/';
         },
       },
       h('h2', {}, mode === 'welcome' ? t('welcomeTitle') : t('settings')),
@@ -77,13 +88,14 @@ export class SettingsDialog {
       h(
         'fieldset',
         { class: 'field' },
-        h('legend', { class: 'field-label' }, t('browseBy')),
+        h('legend', { class: 'field-label' }, t('startWith')),
         h(
           'div',
           { class: 'chips' },
           ...BROWSE_MODES.map((mode) =>
-            h('label', { class: 'chip' }, h('input', { type: 'radio', name: 'browse', value: mode, checked: s.browseMode === mode }), t(`browse_${mode}`)),
+            h('label', { class: 'chip' }, h('input', { type: 'radio', name: 'browse', value: mode, checked: s.section === 'roots' && s.browseMode === mode }), t(`browse_${mode}`)),
           ),
+          h('label', { class: 'chip' }, h('input', { type: 'radio', name: 'browse', value: 'lists', checked: s.section === 'lists' }), t('section_lists')),
         ),
       ),
       h(

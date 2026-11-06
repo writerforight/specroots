@@ -1,7 +1,6 @@
 {
   "id": "spatula",
   "name": "spatula",
-  "place": "kitchen",
   "names": {
     "tr": "spatula",
     "de": "der Pfannenwender",
@@ -17,10 +16,48 @@
     "it": "un attrezzo con lama larga e piatta per girare o spalmare",
     "es": "un utensilio de hoja ancha y plana para dar la vuelta o extender"
   },
+  "breakdown": {
+    "de": [
+      {
+        "text": "Pfannen",
+        "gloss": "pan"
+      },
+      {
+        "text": "wender",
+        "gloss": "turner (wenden = to turn)"
+      }
+    ]
+  },
   "origin": "Latin spatula (small flat piece) ← Greek spáthē (broad blade)",
   "root": null,
   "image": {
     "file": "Degskrapor.png",
     "wikidata": "Q15148"
-  }
+  },
+  "sentences": [
+    {
+      "en": "Turn the pancake with a [spatula].",
+      "tr": "Krepi spatulayla çevir.",
+      "de": "Wende den Pfannkuchen mit dem Pfannenwender.",
+      "fr": "Retourne la crêpe avec une spatule.",
+      "it": "Gira la crêpe con la spatola.",
+      "es": "Dale la vuelta a la tortita con la espátula."
+    },
+    {
+      "en": "Use a wooden [spatula] in this pan.",
+      "tr": "Bu tavada tahta spatula kullan.",
+      "de": "Nimm für diese Pfanne einen Holzwender.",
+      "fr": "Utilise une spatule en bois dans cette poêle.",
+      "it": "Usa una spatola di legno in questa padella.",
+      "es": "Usa una espátula de madera en esta sartén."
+    },
+    {
+      "en": "She scraped the bowl clean with a [spatula].",
+      "tr": "Kâseyi spatulayla sıyırıp temizledi.",
+      "de": "Sie kratzte die Schüssel mit einem Teigschaber aus.",
+      "fr": "Elle a raclé le bol avec une spatule.",
+      "it": "Ha raschiato la ciotola con una spatola.",
+      "es": "Rebañó el bol con una espátula."
+    }
+  ]
 }

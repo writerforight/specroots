@@ -1,10 +1,11 @@
 import type { Affix } from '../domain/Affix';
-import type { EverydayObject, Place } from '../domain/EverydayObject';
+import type { EverydayObject, ListSummary, ObjectSummary, WordList } from '../domain/EverydayObject';
 import type { Root } from '../domain/Root';
 import { AffixFamilyView, type AffixGroup } from './AffixFamilyView';
 import type { DerivationViewKind } from '../services/SettingsStore';
 import { clear, h } from './dom';
 import { DERIVATION_VIEWS } from './derivations';
+import { ListPageView } from './ListPageView';
 import { ObjectCardView } from './ObjectCardView';
 import type { ViewContext } from './ViewContext';
 
@@ -16,8 +17,9 @@ export class RootDetailView {
 
   showEmpty(ctx: ViewContext): void {
     clear(this.el);
-    const mode = ctx.settings.browseMode;
-    this.el.append(h('p', { class: 'empty-state' }, ctx.i18n.t(mode === 'root' ? 'chooseRoot' : mode === 'object' ? 'chooseObject' : 'chooseAffix')));
+    const { section, browseMode } = ctx.settings;
+    const hint = section === 'lists' ? 'chooseList' : browseMode === 'root' ? 'chooseRoot' : 'chooseAffix';
+    this.el.append(h('p', { class: 'empty-state' }, ctx.i18n.t(hint)));
   }
 
   showAffix(affix: Affix, groups: readonly AffixGroup[], ctx: ViewContext): void {
@@ -27,9 +29,16 @@ export class RootDetailView {
     window.scrollTo?.({ top: 0 });
   }
 
-  showObject(object: EverydayObject, place: Place | undefined, ctx: ViewContext): void {
+  showList(list: WordList, objects: readonly ObjectSummary[], ctx: ViewContext): void {
     clear(this.el);
-    this.el.append(h('a', { class: 'back-link', href: '#/' }, `← ${ctx.i18n.t('back')}`), ...new ObjectCardView(ctx).render(object, place));
+    this.el.append(h('a', { class: 'back-link', href: '#/lists' }, `← ${ctx.i18n.t('allLists')}`), ...new ListPageView(ctx).render(list, objects));
+    window.scrollTo?.({ top: 0 });
+  }
+
+  /** backHref: the list the object was opened from, or all lists. */
+  showObject(object: EverydayObject, lists: readonly ListSummary[], backHref: string, ctx: ViewContext): void {
+    clear(this.el);
+    this.el.append(h('a', { class: 'back-link', href: backHref }, `← ${ctx.i18n.t('back')}`), ...new ObjectCardView(ctx).render(object, lists));
     window.scrollTo?.({ top: 0 });
   }
 

@@ -1,0 +1,23 @@
+{
+  "id": "kitchen",
+  "title": {
+    "en": "Kitchen",
+    "tr": "Mutfak",
+    "de": "Küche",
+    "fr": "Cuisine",
+    "it": "Cucina",
+    "es": "Cocina"
+  },
+  "objects": [
+    "colander",
+    "cutting-board",
+    "frying-pan",
+    "grater",
+    "jar",
+    "kettle",
+    "ladle",
+    "rolling-pin",
+    "spatula",
+    "whisk"
+  ]
+}

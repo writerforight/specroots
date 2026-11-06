@@ -1,7 +1,6 @@
 {
   "id": "kettle",
   "name": "kettle",
-  "place": "kitchen",
   "names": {
     "tr": "su ısıtıcısı",
     "de": "der Wasserkocher",
@@ -17,10 +16,48 @@
     "it": "un recipiente con beccuccio e manico per far bollire l'acqua",
     "es": "un recipiente con pico y asa para hervir agua"
   },
+  "breakdown": {
+    "de": [
+      {
+        "text": "Wasser",
+        "gloss": "water"
+      },
+      {
+        "text": "kocher",
+        "gloss": "cooker (kochen = to boil)"
+      }
+    ]
+  },
   "origin": "Old Norse ketill / Old English ċietel ← Latin catīllus (small bowl)",
   "root": null,
   "image": {
     "file": "Kettle (AM 1965.78.862-3).jpg",
     "wikidata": "Q107444"
-  }
+  },
+  "sentences": [
+    {
+      "en": "Put the [kettle] on, let's have tea.",
+      "tr": "Su ısıtıcısını aç, çay içelim.",
+      "de": "Mach den Wasserkocher an, wir trinken Tee.",
+      "fr": "Mets la bouilloire en route, on prend un thé.",
+      "it": "Accendi il bollitore, prendiamo un tè.",
+      "es": "Pon el hervidor, tomemos un té."
+    },
+    {
+      "en": "The [kettle] clicks off when the water boils.",
+      "tr": "Su kaynayınca ısıtıcı kendiliğinden kapanır.",
+      "de": "Der Wasserkocher schaltet sich ab, wenn das Wasser kocht.",
+      "fr": "La bouilloire s'arrête quand l'eau bout.",
+      "it": "Il bollitore si spegne quando l'acqua bolle.",
+      "es": "El hervidor se apaga cuando el agua hierve."
+    },
+    {
+      "en": "Don't fill the [kettle] above the line.",
+      "tr": "Su ısıtıcısını çizginin üstüne kadar doldurma.",
+      "de": "Füll den Wasserkocher nicht über die Markierung.",
+      "fr": "Ne remplis pas la bouilloire au-dessus du trait.",
+      "it": "Non riempire il bollitore oltre la tacca.",
+      "es": "No llenes el hervidor por encima de la marca."
+    }
+  ]
 }

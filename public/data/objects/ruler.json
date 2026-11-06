@@ -1,7 +1,6 @@
 {
   "id": "ruler",
   "name": "ruler",
-  "place": "classroom",
   "names": {
     "tr": "cetvel",
     "de": "das Lineal",
@@ -17,10 +16,49 @@
     "it": "una striscia piatta graduata per misurare e tracciare linee dritte",
     "es": "una tira plana graduada para medir y trazar líneas rectas"
   },
+  "breakdown": {
+    "en": [
+      {
+        "text": "rul",
+        "gloss": "rule, straight stick"
+      },
+      {
+        "text": "er",
+        "gloss": "thing that does",
+        "affix": "-er"
+      }
+    ]
+  },
   "origin": "rule + -er; rule ← Latin rēgula (straight stick)",
   "root": null,
   "image": {
     "file": "Measurement unit.jpg",
     "wikidata": "Q104555"
-  }
+  },
+  "sentences": [
+    {
+      "en": "Draw a straight line with a [ruler].",
+      "tr": "Cetvelle düz bir çizgi çiz.",
+      "de": "Zieh mit dem Lineal eine gerade Linie.",
+      "fr": "Trace une ligne droite avec une règle.",
+      "it": "Traccia una linea dritta con il righello.",
+      "es": "Traza una línea recta con la regla."
+    },
+    {
+      "en": "The [ruler] is thirty centimetres long.",
+      "tr": "Cetvel otuz santimetre uzunluğunda.",
+      "de": "Das Lineal ist dreißig Zentimeter lang.",
+      "fr": "La règle mesure trente centimètres.",
+      "it": "Il righello è lungo trenta centimetri.",
+      "es": "La regla mide treinta centímetros."
+    },
+    {
+      "en": "He measured the photo with a [ruler].",
+      "tr": "Fotoğrafı cetvelle ölçtü.",
+      "de": "Er hat das Foto mit einem Lineal gemessen.",
+      "fr": "Il a mesuré la photo avec une règle.",
+      "it": "Ha misurato la foto con un righello.",
+      "es": "Midió la foto con una regla."
+    }
+  ]
 }

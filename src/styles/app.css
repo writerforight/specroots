@@ -97,7 +97,7 @@ button, input, select { font: inherit; color: inherit; }
 @media (max-width: 760px) {
   .layout { grid-template-columns: minmax(0, 1fr); }
   .root-list { position: static; height: auto; border-right: 0; }
-  body[data-view='root'] .root-list, body[data-view='affix'] .root-list, body[data-view='object'] .root-list { display: none; }
+  body[data-view='root'] .root-list, body[data-view='affix'] .root-list, body[data-view='list'] .root-list, body[data-view='object'] .root-list { display: none; }
   body[data-view='home'] .root-detail { display: none; }
   .root-detail { padding: 16px 16px 48px; }
   .back-link { display: inline-block; margin-bottom: 12px; color: var(--accent); text-decoration: none; }
@@ -105,9 +105,10 @@ button, input, select { font: inherit; color: inherit; }
 }
 
 /* ---------- side list: roots, prefixes or suffixes ---------- */
-/* Four modes: a 2×2 grid, so long names (Ön ekler, Gegenstände…) never overflow the 300 px list. */
-.segmented.browse-switch { display: grid; grid-template-columns: 1fr 1fr; gap: 2px; margin: 0 4px 4px; border-radius: 14px; }
-.segmented.browse-switch button { min-width: 0; padding: 4px 6px; font-size: 0.88rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.segmented.section-switch { display: flex; margin: 0 4px 10px; }
+.segmented.section-switch button { flex: 1; min-width: 0; padding: 6px 8px; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.segmented.browse-switch { display: flex; margin: 0 4px 4px; }
+.segmented.browse-switch button { flex: 1; min-width: 0; padding: 4px 6px; font-size: 0.9rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .list-count { font-size: 0.8rem; color: var(--text-muted); }
 .list-section-title { margin: 28px 8px 0; padding-top: 16px; border-top: 1px solid var(--border); font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--text-muted); }
 .letter { margin: 16px 8px 4px; font-family: var(--font-text); font-size: 1.1rem; color: var(--accent); }
@@ -268,9 +269,19 @@ mark { background: var(--mark); color: inherit; padding: 0 2px; border-radius: 3
 .static-intro { max-width: 760px; margin: 0 auto; padding: 32px 16px; font-family: var(--font-text); }
 .static-intro a { color: var(--accent); }
 
-/* ---------- everyday objects ---------- */
+/* ---------- object lists and objects ---------- */
+.list-index { margin: 4px 0 0; padding: 0; list-style: none; }
+.list-back { display: inline-block; margin: 4px 10px 0; color: var(--accent); text-decoration: none; font-size: 0.9rem; }
+.list-heading { display: flex; justify-content: space-between; align-items: baseline; margin: 8px 10px 0; font-family: var(--font-text); font-size: 1.3rem; }
 .object-name { font-weight: 600; }
+.object-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 12px; margin: 0; padding: 0; list-style: none; }
+.object-tile { display: flex; flex-direction: column; gap: 2px; padding: 8px; border: 1px solid var(--border); border-radius: var(--radius); background: var(--surface); text-decoration: none; font-size: 0.85rem; color: var(--text-muted); }
+.object-tile:hover { border-color: var(--accent); }
+.object-tile img, .tile-blank { display: block; width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 6px; background: var(--surface-2); margin-bottom: 4px; }
+.object-tile b { font-family: var(--font-text); font-size: 1rem; color: var(--text); }
 .object-head .root-title { display: flex; align-items: center; gap: 8px; }
+.object-lists { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; }
+.list-chip { padding: 1px 10px; border-radius: 999px; background: var(--accent-soft); color: var(--accent); text-decoration: none; }
 .object-body { display: grid; grid-template-columns: minmax(0, 260px) minmax(0, 1fr); gap: 24px; align-items: start; }
 .object-photo { margin: 0; }
 .object-photo img { display: block; width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: var(--radius); background: var(--surface-2); }
@@ -278,15 +289,15 @@ mark { background: var(--mark); color: inherit; padding: 0 2px; border-radius: 3
 .object-glosses { margin-top: 0; font-family: var(--font-text); font-size: 1.25rem; align-items: center; }
 .object-glosses dd { display: flex; align-items: center; gap: 4px; }
 .object-others { padding-top: 8px; border-top: 1px dashed var(--border); font-size: 1rem; color: var(--text-muted); }
-.object-origin .group-title { margin-top: 20px; }
+.object-section .group-title { margin-top: 24px; }
+.name-breakdown { display: grid; grid-template-columns: 2.2em auto 1fr; align-items: center; gap: 4px 12px; margin: 6px 0; }
+.name-breakdown .parts { font-family: var(--font-text); font-size: 1.2rem; font-weight: 600; }
+.name-breakdown .breakdown { margin: 0; }
 .object-origin p { margin: 4px 0; }
 .object-root-link { color: var(--accent); }
 @media (max-width: 760px) {
   .object-body { grid-template-columns: minmax(0, 1fr); }
   .object-photo { max-width: 320px; }
+  .name-breakdown { grid-template-columns: 2.2em 1fr; }
+  .name-breakdown .breakdown { grid-column: 1 / -1; }
 }
-
-.object-list-head { display: flex; align-items: center; justify-content: space-between; gap: 8px; margin: 10px 6px 0 10px; }
-.object-grouping button { padding: 2px 10px; font-size: 0.8rem; }
-.place-title { display: flex; justify-content: space-between; align-items: baseline; padding-right: 10px; border-bottom: 1px solid var(--border); }
-.place-title::first-letter { text-transform: uppercase; }

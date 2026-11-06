@@ -1,7 +1,6 @@
 {
   "id": "paper-clip",
   "name": "paper clip",
-  "place": "classroom",
   "names": {
     "tr": "ataş",
     "de": "die Büroklammer",
@@ -17,10 +16,58 @@
     "it": "un filo metallico piegato che tiene insieme i fogli",
     "es": "un alambre doblado que sujeta hojas de papel"
   },
+  "breakdown": {
+    "en": [
+      {
+        "text": "paper",
+        "gloss": "paper"
+      },
+      {
+        "text": "clip",
+        "gloss": "clip"
+      }
+    ],
+    "de": [
+      {
+        "text": "Büro",
+        "gloss": "office"
+      },
+      {
+        "text": "klammer",
+        "gloss": "clip, clamp"
+      }
+    ]
+  },
   "origin": "paper + clip (Old English clyppan, to hold tight)",
   "root": null,
   "image": {
     "file": "Bueroklammern.jpg",
     "wikidata": "Q8353"
-  }
+  },
+  "sentences": [
+    {
+      "en": "Hold the pages together with a [paper clip].",
+      "tr": "Sayfaları ataşla bir arada tut.",
+      "de": "Halte die Seiten mit einer Büroklammer zusammen.",
+      "fr": "Tiens les pages ensemble avec un trombone.",
+      "it": "Tieni insieme i fogli con una graffetta.",
+      "es": "Sujeta las hojas con un clip."
+    },
+    {
+      "en": "He bent a [paper clip] while he was thinking.",
+      "tr": "Düşünürken bir ataşı büktü.",
+      "de": "Beim Nachdenken bog er eine Büroklammer auf.",
+      "fr": "Il tordait un trombone en réfléchissant.",
+      "it": "Piegava una graffetta mentre pensava.",
+      "es": "Doblaba un clip mientras pensaba."
+    },
+    {
+      "en": "There is a box of [paper clips] in the drawer.",
+      "tr": "Çekmecede bir kutu ataş var.",
+      "de": "In der Schublade ist eine Schachtel Büroklammern.",
+      "fr": "Il y a une boîte de trombones dans le tiroir.",
+      "it": "Nel cassetto c'è una scatola di graffette.",
+      "es": "Hay una caja de clips en el cajón."
+    }
+  ]
 }

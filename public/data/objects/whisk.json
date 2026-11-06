@@ -1,7 +1,6 @@
 {
   "id": "whisk",
   "name": "whisk",
-  "place": "kitchen",
   "names": {
     "tr": "çırpma teli",
     "de": "der Schneebesen",
@@ -17,10 +16,48 @@
     "it": "un attrezzo di fili metallici per sbattere uova o panna",
     "es": "un utensilio de alambres para batir huevos o nata"
   },
+  "breakdown": {
+    "de": [
+      {
+        "text": "Schnee",
+        "gloss": "snow (beaten egg white)"
+      },
+      {
+        "text": "besen",
+        "gloss": "broom"
+      }
+    ]
+  },
   "origin": "Old Norse visk (a bundle of straw)",
   "root": null,
   "image": {
     "file": "Balloon spiral ball whisks.jpg",
     "wikidata": "Q263057"
-  }
+  },
+  "sentences": [
+    {
+      "en": "Beat the eggs with a [whisk].",
+      "tr": "Yumurtaları çırpma teliyle çırp.",
+      "de": "Schlag die Eier mit dem Schneebesen.",
+      "fr": "Bats les œufs avec un fouet.",
+      "it": "Sbatti le uova con la frusta.",
+      "es": "Bate los huevos con el batidor."
+    },
+    {
+      "en": "The cream gets thick if you use a [whisk].",
+      "tr": "Çırpma teli kullanırsan krema koyulaşır.",
+      "de": "Mit dem Schneebesen wird die Sahne fest.",
+      "fr": "La crème épaissit si tu utilises un fouet.",
+      "it": "La panna si addensa se usi la frusta.",
+      "es": "La nata espesa si usas el batidor."
+    },
+    {
+      "en": "Wash the [whisk] right after baking.",
+      "tr": "Pişirdikten hemen sonra çırpma telini yıka.",
+      "de": "Spül den Schneebesen gleich nach dem Backen.",
+      "fr": "Lave le fouet juste après la pâtisserie.",
+      "it": "Lava la frusta subito dopo aver fatto il dolce.",
+      "es": "Lava el batidor justo después de hornear."
+    }
+  ]
 }

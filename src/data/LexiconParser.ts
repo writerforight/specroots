@@ -1,5 +1,5 @@
 import { Affix, type AffixIndex, type AffixKind, type AffixOccurrence } from '../domain/Affix';
-import { EverydayObject, type CommonsImage, type ObjectSummary, type Place } from '../domain/EverydayObject';
+import { BREAKDOWN_LANGS, EverydayObject, stripArticle, type CommonsImage, type ListSummary, type NamePart, type ObjectSummary, type WordList } from '../domain/EverydayObject';
 import { isLang, TRANSLATION_LANGUAGES, type Localized, type TranslationLang } from '../domain/Language';
 import { Morpheme } from '../domain/Morpheme';
 import { Root, type Origin, type RootSummary } from '../domain/Root';
@@ -100,18 +100,43 @@ export class LexiconParser {
     });
   }
 
-  parsePlaces(raw: unknown): Map<string, Place> {
-    const obj = this.object(raw, 'places.json');
-    return new Map(Object.entries(obj).map(([id, name]) => [id, { id, name: this.localized(name, `places.json › ${id}`) }]));
+  parseListIndex(raw: unknown): ListSummary[] {
+    return this.array(raw, 'lists-index.json').map((value, i) => {
+      const where = `lists-index.json[${i}]`;
+      const obj = this.object(value, where);
+      if (typeof obj.count !== 'number') throw new LexiconError(where, '"count" must be a number');
+      return { id: this.string(obj.id, `${where} › id`), title: this.localized(obj.title, `${where} › title`), count: obj.count };
+    });
   }
 
-  parseObjectIndex(raw: unknown, places: ReadonlyMap<string, Place>): ObjectSummary[] {
-    return this.array(raw, 'objects-index.json').map((value, i) => this.objectSummary(value, `objects-index.json[${i}]`, places));
+  parseList(raw: unknown): WordList {
+    const obj = this.object(raw, 'list');
+    const id = this.string(obj.id, 'list › id');
+    const where = `lists/${id}.json`;
+    const objectIds = this.strings(obj.objects, `${where} › objects`);
+    const seen = new Set<string>();
+    for (const objectId of objectIds) {
+      if (seen.has(objectId)) throw new LexiconError(where, `"${objectId}" appears twice`);
+      seen.add(objectId);
+    }
+    return { id, title: this.localized(obj.title, `${where} › title`), count: objectIds.length, objectIds };
   }
 
-  parseObject(raw: unknown, places: ReadonlyMap<string, Place>): EverydayObject {
-    const { id, name, place, names } = this.objectSummary(raw, 'object', places);
+  parseObjectIndex(raw: unknown): ObjectSummary[] {
+    return this.array(raw, 'objects-index.json').map((value, i) => {
+      const where = `objects-index.json[${i}]`;
+      const obj = this.object(value, where);
+      return {
+        ...this.objectNames(obj, where),
+        lists: this.array(obj.lists, `${where} › lists`).map((l, j) => this.string(l, `${where} › lists[${j}]`)),
+        photo: obj.photo === null || obj.photo === undefined ? null : this.string(obj.photo, `${where} › photo`),
+      };
+    });
+  }
+
+  parseObject(raw: unknown, affixes: ReadonlyMap<string, Affix>): EverydayObject {
     const obj = this.object(raw, 'object');
+    const { id, name, names } = this.objectNames(obj, 'object');
     const where = `objects/${id}.json`;
     const root = obj.root === null || obj.root === undefined ? null : this.string(obj.root, `${where} › root`);
     let image: CommonsImage | null = null;
@@ -121,25 +146,63 @@ export class LexiconParser {
       if (!/^Q\d+$/.test(wikidata)) throw new LexiconError(`${where} › image`, `"${wikidata}" is not a Wikidata id like "Q183670"`);
       image = { file: this.string(img.file, `${where} › image › file`), wikidata };
     }
-    return new EverydayObject(id, name, place, names, this.localized(obj.definition, `${where} › definition`), this.string(obj.origin, `${where} › origin`), root, image);
+    const rawBreakdown = obj.breakdown === undefined ? {} : this.object(obj.breakdown, `${where} › breakdown`);
+    const breakdown: Partial<Record<(typeof BREAKDOWN_LANGS)[number], NamePart[]>> = {};
+    for (const [lang, value] of Object.entries(rawBreakdown)) {
+      const bw = `${where} › breakdown › ${lang}`;
+      if (!(BREAKDOWN_LANGS as readonly string[]).includes(lang)) throw new LexiconError(bw, `only ${BREAKDOWN_LANGS.join(', ')} names are split`);
+      const parts = this.array(value, bw).map((p, i) => this.namePart(p, `${bw}[${i}]`, affixes));
+      if (parts.length === 0) throw new LexiconError(bw, 'must not be empty');
+      // The pieces must spell the name: "Wasser"+"kocher" = "der Wasserkocher" without its article.
+      const target = lang === 'en' ? name : stripArticle(names.de);
+      const squash = (t: string) => t.replace(/[\s-]/g, '').toLowerCase();
+      if (squash(parts.map((p) => p.text).join('')) !== squash(target)) {
+        throw new LexiconError(bw, `parts spell "${parts.map((p) => p.text).join('')}", not "${target}"`);
+      }
+      breakdown[lang as 'en' | 'de'] = parts;
+    }
+    const sentences = this.sentences(obj.sentences, where);
+    if (sentences.length === 0) throw new LexiconError(`${where} › sentences`, 'must not be empty');
+    return new EverydayObject(id, name, names, this.localized(obj.definition, `${where} › definition`), breakdown, this.string(obj.origin, `${where} › origin`), root, image, sentences);
+  }
+
+  private namePart(raw: unknown, where: string, affixes: ReadonlyMap<string, Affix>): NamePart {
+    const obj = this.object(raw, where);
+    const affixId = obj.affix === undefined ? null : this.string(obj.affix, `${where} › affix`);
+    if (affixId !== null && !affixes.has(affixId)) throw new LexiconError(where, `affix "${affixId}" is not in affixes.json`);
+    return {
+      text: this.string(obj.text, `${where} › text`),
+      gloss: this.string(obj.gloss, `${where} › gloss`),
+      rootId: obj.root === undefined ? null : this.string(obj.root, `${where} › root`),
+      affixId,
+    };
   }
 
   /** Fields shared by an object file and its index entry. */
-  private objectSummary(raw: unknown, where: string, places: ReadonlyMap<string, Place>): ObjectSummary {
-    const obj = this.object(raw, where);
+  private objectNames(obj: Json, where: string): Pick<ObjectSummary, 'id' | 'name' | 'names'> {
     const id = this.string(obj.id, `${where} › id`);
     const here = `${where} (${id})`;
     const name = this.string(obj.name, `${here} › name`);
     if (id !== name.replace(/ /g, '-')) throw new LexiconError(here, `id must be the name with dashes for spaces ("${name.replace(/ /g, '-')}")`);
-    const place = this.string(obj.place, `${here} › place`);
-    if (!places.has(place)) throw new LexiconError(here, `place "${place}" is not in places.json`);
     const rawNames = this.object(obj.names, `${here} › names`);
     const names = {} as Record<TranslationLang, string>;
     for (const lang of TRANSLATION_LANGUAGES) names[lang] = this.string(rawNames[lang], `${here} › names › ${lang}`);
     for (const lang of Object.keys(rawNames)) {
       if (!(TRANSLATION_LANGUAGES as readonly string[]).includes(lang)) throw new LexiconError(`${here} › names`, `unknown translation language "${lang}"`);
     }
-    return { id, name, place, names };
+    return { id, name, names };
+  }
+
+  /** Example sentences: English with exactly one [marked] word, plus translations. */
+  private sentences(raw: unknown, here: string): Sentence[] {
+    return this.array(raw, `${here} › sentences`).map((s, i) => {
+      const sw = `${here} › sentences[${i}]`;
+      const { en, ...rest } = this.localized(s, sw);
+      if (!en) throw new LexiconError(sw, 'an English sentence is required');
+      const sentence = new Sentence(en, rest);
+      if (sentence.highlighted.length !== 1) throw new LexiconError(sw, 'mark exactly one [word] in the English sentence');
+      return sentence;
+    });
   }
 
   private parseWord(raw: unknown, where: string, forms: readonly string[], affixes: ReadonlyMap<string, Affix>): Word {
@@ -159,14 +222,7 @@ export class LexiconParser {
     if (!parts.some((p) => p.kind === 'root')) throw new LexiconError(here, 'parts must contain the root');
 
     const parent = obj.parent === null ? null : this.string(obj.parent, `${here} › parent`);
-    const sentences = this.array(obj.sentences, `${here} › sentences`).map((s, i) => {
-      const sw = `${here} › sentences[${i}]`;
-      const { en, ...rest } = this.localized(s, sw);
-      if (!en) throw new LexiconError(sw, 'an English sentence is required');
-      const sentence = new Sentence(en, rest);
-      if (sentence.highlighted.length !== 1) throw new LexiconError(sw, 'mark exactly one [word] in the English sentence');
-      return sentence;
-    });
+    const sentences = this.sentences(obj.sentences, here);
 
     const word = new Word(id, this.oneOf(obj.pos, PARTS_OF_SPEECH, `${here} › pos`), parent, parts, this.localized(obj.gloss, `${here} › gloss`), sentences);
     if (word.text !== id) throw new LexiconError(here, `parts spell "${word.text}", not "${id}"`);

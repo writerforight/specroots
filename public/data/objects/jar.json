@@ -1,7 +1,6 @@
 {
   "id": "jar",
   "name": "jar",
-  "place": "kitchen",
   "names": {
     "tr": "kavanoz",
     "de": "das Einmachglas",
@@ -17,10 +16,48 @@
     "it": "un contenitore di vetro a bocca larga con coperchio",
     "es": "un recipiente de vidrio de boca ancha con tapa"
   },
+  "breakdown": {
+    "de": [
+      {
+        "text": "Einmach",
+        "gloss": "preserve (einmachen)"
+      },
+      {
+        "text": "glas",
+        "gloss": "glass"
+      }
+    ]
+  },
   "origin": "Medieval Latin jarra ← Arabic jarra (earthen water jar)",
   "root": null,
   "image": {
     "file": "PreservedFood1.jpg",
     "wikidata": "Q1207302"
-  }
+  },
+  "sentences": [
+    {
+      "en": "Keep the honey in a glass [jar].",
+      "tr": "Balı cam bir kavanozda sakla.",
+      "de": "Bewahr den Honig in einem Glas auf.",
+      "fr": "Garde le miel dans un bocal en verre.",
+      "it": "Conserva il miele in un barattolo di vetro.",
+      "es": "Guarda la miel en un tarro de cristal."
+    },
+    {
+      "en": "I can't open this [jar].",
+      "tr": "Bu kavanozu açamıyorum.",
+      "de": "Ich kriege dieses Glas nicht auf.",
+      "fr": "Je n'arrive pas à ouvrir ce bocal.",
+      "it": "Non riesco ad aprire questo barattolo.",
+      "es": "No puedo abrir este tarro."
+    },
+    {
+      "en": "She made six [jars] of jam.",
+      "tr": "Altı kavanoz reçel yaptı.",
+      "de": "Sie hat sechs Gläser Marmelade gekocht.",
+      "fr": "Elle a fait six pots de confiture.",
+      "it": "Ha fatto sei barattoli di marmellata.",
+      "es": "Hizo seis tarros de mermelada."
+    }
+  ]
 }

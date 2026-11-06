@@ -1,6 +1,6 @@
 // Builds public/data/index.json (the alphabetical root list) and public/data/affix-index.json
 // (which words of which roots carry each prefix and suffix) from public/data/roots/*.json, and
-// public/data/objects-index.json (the alphabetical object list) from public/data/objects/*.json.
+// public/data/objects-index.json + lists-index.json from public/data/objects/*.json and lists/*.json.
 // Run: npm run data. The build runs it too, so the indexes never drift from the root files.
 import { readdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
@@ -32,21 +32,33 @@ writeFileSync(join(dataDir, 'affix-index.json'), `{\n${lines.join(',\n')}\n}\n`)
 console.log(`index.json: ${index.length} roots, ${index.reduce((n, r) => n + r.words.length, 0)} words`);
 console.log(`affix-index.json: ${usage.size} affixes`);
 
-// Objects: every file is read again on each run, so a new object lands in alphabetical order and a
-// name that is already taken (in any language) is reported instead of silently added twice.
+// Objects and lists: every file is read again on each run, so a new object lands in alphabetical
+// order, a name that is already taken (in any language) is reported instead of silently added twice,
+// and a list that points to a missing object fails the build.
 const objectsDir = join(dataDir, 'objects');
-const objects = readdirSync(objectsDir)
-  .filter((f) => f.endsWith('.json'))
-  .map((f) => JSON.parse(readFileSync(join(objectsDir, f), 'utf8')))
-  .sort((a, b) => a.name.localeCompare(b.name));
+const listsDir = join(dataDir, 'lists');
+const readAll = (dir) => readdirSync(dir).filter((f) => f.endsWith('.json')).map((f) => JSON.parse(readFileSync(join(dir, f), 'utf8')));
+const objects = readAll(objectsDir).sort((a, b) => a.name.localeCompare(b.name));
+const lists = readAll(listsDir).sort((a, b) => a.title.en.localeCompare(b.title.en));
+const objectIds = new Set(objects.map((o) => o.id));
+const listsOf = new Map(objects.map((o) => [o.id, []]));
+for (const list of lists) {
+  for (const id of list.objects) {
+    if (!objectIds.has(id)) throw new Error(`lists/${list.id}.json: object "${id}" has no file in objects/`);
+    listsOf.get(id).push(list.id);
+  }
+}
 const seen = new Map();
 for (const { id, name, names } of objects) {
+  if (listsOf.get(id).length === 0) console.warn(`warning: ${id} is in no list`);
   for (const [lang, text] of [['en', name], ...Object.entries(names)]) {
     const key = `${lang}:${text.toLowerCase()}`;
     if (seen.has(key)) console.warn(`warning: ${lang} "${text}" is used by both ${seen.get(key)} and ${id}`);
     else seen.set(key, id);
   }
 }
-const objectLines = objects.map(({ id, name, place, names }) => `  ${JSON.stringify({ id, name, place, names })}`);
+const objectLines = objects.map(({ id, name, names, image }) => `  ${JSON.stringify({ id, name, names, lists: listsOf.get(id), photo: image?.file ?? null })}`);
 writeFileSync(join(dataDir, 'objects-index.json'), `[\n${objectLines.join(',\n')}\n]\n`);
-console.log(`objects-index.json: ${objects.length} objects`);
+const listLines = lists.map(({ id, title, objects: ids }) => `  ${JSON.stringify({ id, title, count: ids.length })}`);
+writeFileSync(join(dataDir, 'lists-index.json'), `[\n${listLines.join(',\n')}\n]\n`);
+console.log(`objects-index.json: ${objects.length} objects; lists-index.json: ${lists.map((l) => `${l.id} ${l.objects.length}`).join(', ')}`);

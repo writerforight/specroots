@@ -1,7 +1,6 @@
 {
   "id": "bathtub",
   "name": "bathtub",
-  "place": "bathroom",
   "names": {
     "tr": "küvet",
     "de": "die Badewanne",
@@ -17,10 +16,58 @@
     "it": "una lunga vasca che si riempie d'acqua per lavarsi",
     "es": "un recipiente largo que se llena de agua para bañarse"
   },
+  "breakdown": {
+    "en": [
+      {
+        "text": "bath",
+        "gloss": "bath"
+      },
+      {
+        "text": "tub",
+        "gloss": "tub"
+      }
+    ],
+    "de": [
+      {
+        "text": "Bade",
+        "gloss": "bathe (baden)"
+      },
+      {
+        "text": "wanne",
+        "gloss": "tub"
+      }
+    ]
+  },
   "origin": "bath + tub",
   "root": null,
   "image": {
     "file": "1rm60rt0t rtbcwh.jpg",
     "wikidata": "Q152095"
-  }
+  },
+  "sentences": [
+    {
+      "en": "The children played in the [bathtub].",
+      "tr": "Çocuklar küvette oynadı.",
+      "de": "Die Kinder spielten in der Badewanne.",
+      "fr": "Les enfants ont joué dans la baignoire.",
+      "it": "I bambini hanno giocato nella vasca.",
+      "es": "Los niños jugaron en la bañera."
+    },
+    {
+      "en": "I filled the [bathtub] with hot water.",
+      "tr": "Küveti sıcak suyla doldurdum.",
+      "de": "Ich habe die Badewanne mit heißem Wasser gefüllt.",
+      "fr": "J'ai rempli la baignoire d'eau chaude.",
+      "it": "Ho riempito la vasca d'acqua calda.",
+      "es": "Llené la bañera de agua caliente."
+    },
+    {
+      "en": "Our flat has a shower but no [bathtub].",
+      "tr": "Dairemizde duş var ama küvet yok.",
+      "de": "Unsere Wohnung hat eine Dusche, aber keine Badewanne.",
+      "fr": "Notre appartement a une douche mais pas de baignoire.",
+      "it": "Il nostro appartamento ha la doccia ma non la vasca.",
+      "es": "Nuestro piso tiene ducha pero no bañera."
+    }
+  ]
 }

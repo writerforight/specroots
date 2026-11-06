@@ -1,7 +1,6 @@
 {
   "id": "sponge",
   "name": "sponge",
-  "place": "bathroom",
   "names": {
     "tr": "sünger",
     "de": "der Schwamm",
@@ -17,10 +16,37 @@
     "it": "un materiale morbido pieno di buchi che assorbe l'acqua",
     "es": "un material blando lleno de agujeros que absorbe el agua"
   },
+  "breakdown": {},
   "origin": "Latin spongia ← Greek spongiá",
   "root": null,
   "image": {
     "file": "Sponge-viscose.jpg",
     "wikidata": "Q1210980"
-  }
+  },
+  "sentences": [
+    {
+      "en": "Wipe the table with a damp [sponge].",
+      "tr": "Masayı nemli bir süngerle sil.",
+      "de": "Wisch den Tisch mit einem feuchten Schwamm ab.",
+      "fr": "Essuie la table avec une éponge humide.",
+      "it": "Pulisci il tavolo con una spugna umida.",
+      "es": "Limpia la mesa con una esponja húmeda."
+    },
+    {
+      "en": "The [sponge] soaked up all the water.",
+      "tr": "Sünger bütün suyu emdi.",
+      "de": "Der Schwamm hat das ganze Wasser aufgesaugt.",
+      "fr": "L'éponge a absorbé toute l'eau.",
+      "it": "La spugna ha assorbito tutta l'acqua.",
+      "es": "La esponja absorbió toda el agua."
+    },
+    {
+      "en": "Children soak up languages like a [sponge].",
+      "tr": "Çocuklar dilleri sünger gibi emer.",
+      "de": "Kinder saugen Sprachen auf wie ein Schwamm.",
+      "fr": "Les enfants absorbent les langues comme une éponge.",
+      "it": "I bambini assorbono le lingue come una spugna.",
+      "es": "Los niños absorben idiomas como una esponja."
+    }
+  ]
 }

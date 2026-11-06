@@ -1,7 +1,6 @@
 {
   "id": "razor",
   "name": "razor",
-  "place": "bathroom",
   "names": {
     "tr": "tıraş bıçağı",
     "de": "der Rasierer",
@@ -17,10 +16,48 @@
     "it": "un attrezzo con lama molto affilata per radersi",
     "es": "un utensilio de hoja muy afilada para afeitarse"
   },
+  "breakdown": {
+    "de": [
+      {
+        "text": "Rasier",
+        "gloss": "shave (rasieren)"
+      },
+      {
+        "text": "er",
+        "gloss": "thing that does"
+      }
+    ]
+  },
   "origin": "Old French rasour, from raser (to shave) ← Latin rādere (to scrape)",
   "root": null,
   "image": {
     "file": "Maquinilla desarmada.JPG",
     "wikidata": "Q13422881"
-  }
+  },
+  "sentences": [
+    {
+      "en": "He shaves with a [razor] every morning.",
+      "tr": "Her sabah tıraş bıçağıyla tıraş oluyor.",
+      "de": "Er rasiert sich jeden Morgen mit dem Rasierer.",
+      "fr": "Il se rase chaque matin avec un rasoir.",
+      "it": "Si rade ogni mattina con il rasoio.",
+      "es": "Se afeita cada mañana con la cuchilla."
+    },
+    {
+      "en": "Be careful, the [razor] is very sharp.",
+      "tr": "Dikkat et, tıraş bıçağı çok keskin.",
+      "de": "Vorsicht, der Rasierer ist sehr scharf.",
+      "fr": "Attention, le rasoir est très tranchant.",
+      "it": "Attenzione, il rasoio è molto affilato.",
+      "es": "Cuidado, la cuchilla está muy afilada."
+    },
+    {
+      "en": "She bought a new [razor] at the pharmacy.",
+      "tr": "Eczaneden yeni bir tıraş bıçağı aldı.",
+      "de": "Sie hat in der Drogerie einen neuen Rasierer gekauft.",
+      "fr": "Elle a acheté un nouveau rasoir à la pharmacie.",
+      "it": "Ha comprato un rasoio nuovo in farmacia.",
+      "es": "Compró una cuchilla nueva en la farmacia."
+    }
+  ]
 }

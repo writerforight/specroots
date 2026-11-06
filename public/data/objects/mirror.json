@@ -1,7 +1,6 @@
 {
   "id": "mirror",
   "name": "mirror",
-  "place": "bathroom",
   "names": {
     "tr": "ayna",
     "de": "der Spiegel",
@@ -17,10 +16,45 @@
     "it": "un pezzo di vetro in cui ci si vede",
     "es": "un trozo de vidrio en el que te ves"
   },
+  "breakdown": {
+    "de": [
+      {
+        "text": "Spiegel",
+        "gloss": "mirror, from Latin speculum (spec: to look)",
+        "root": "spec"
+      }
+    ]
+  },
   "origin": "Old French mireor (a looker), from Latin mīrārī (to wonder at)",
   "root": null,
   "image": {
     "file": "Mirror-vase.jpg",
     "wikidata": "Q35197"
-  }
+  },
+  "sentences": [
+    {
+      "en": "She looked at herself in the [mirror].",
+      "tr": "Aynada kendine baktı.",
+      "de": "Sie sah sich im Spiegel an.",
+      "fr": "Elle s'est regardée dans le miroir.",
+      "it": "Si è guardata allo specchio.",
+      "es": "Se miró en el espejo."
+    },
+    {
+      "en": "The bathroom [mirror] is foggy after a shower.",
+      "tr": "Duştan sonra banyo aynası buğulanıyor.",
+      "de": "Nach dem Duschen ist der Badspiegel beschlagen.",
+      "fr": "Après la douche, le miroir de la salle de bain est embué.",
+      "it": "Dopo la doccia lo specchio del bagno è appannato.",
+      "es": "Después de la ducha, el espejo del baño se empaña."
+    },
+    {
+      "en": "Check the [mirror] before you change lanes.",
+      "tr": "Şerit değiştirmeden önce aynaya bak.",
+      "de": "Schau in den Spiegel, bevor du die Spur wechselst.",
+      "fr": "Regarde dans le rétroviseur avant de changer de voie.",
+      "it": "Guarda lo specchietto prima di cambiare corsia.",
+      "es": "Mira el retrovisor antes de cambiar de carril."
+    }
+  ]
 }

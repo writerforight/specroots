@@ -77,11 +77,14 @@ src/styles/    tokens.css (renkler, yazı tipleri, ölçüler) + app.css (yalnı
   Örnek cümlede hedef kelime `[köşeli parantez]` içinde yazılır (tam bir tane).
 - `public/data/index.json`: alfabetik liste ve arama için özet; `npm run data` üretir, elle düzenlenmez.
 - `public/data/objects/<id>.json`: bir gündelik nesne. `id` = İngilizce ad, boşluk yerine tire
-  (`paper-clip`); `name` İngilizce ad; `place` `places.json`'da olmalı; `names` beş çeviri dilinde
-  (isimler artikelle: `die Kreide`, `la craie`); `definition` 6 dilde kısa tanım; `origin` tek satır
-  köken (`Old English ċealc ← Latin calx (limestone)`); `root` bir kök kimliği ya da `null`;
-  `image` `{ "file": Commons dosya adı, "wikidata": "Q…" }` ya da `null`.
-- `public/data/objects-index.json`: nesne listesi ve arama için özet; `npm run data` üretir.
+  (`paper-clip`); `name` İngilizce ad; `names` beş çeviri dilinde (isimler artikelle: `die Kreide`,
+  `la craie`); `definition` 6 dilde kısa tanım; `breakdown` isteğe bağlı `{ "en": [...], "de": [...] }`,
+  her parça `{ "text", "gloss" (İngilizce), "root"?, "affix"? }`; parçalar birleşince adı (Almancada
+  artikelsiz) heceler; `origin` tek satır köken (`Old English ċealc ← Latin calx (limestone)`); `root` bir kök
+  kimliği ya da `null`; `image` `{ "file": Commons dosya adı, "wikidata": "Q…" }` ya da `null`;
+  `sentences` en az 3, köklerdeki gibi (hedef kelime `[köşeli parantez]`, 5 dile çeviri).
+- `public/data/lists/<id>.json`: `{ "id", "title": 6 dilde, "objects": [nesne kimlikleri] }`.
+- `public/data/objects-index.json`, `public/data/lists-index.json`: `npm run data` üretir, elle düzenlenmez.
 - `public/data/affix-index.json`: her ek → onu taşıyan kökler ve kelimeler (eklerle gezinme için).
   `npm run data` üretir, elle düzenlenmez; yalnızca ön ek / son ek modunda yüklenir.
 - Aynı yazılışlı farklı ekler ayrı kimlik alır ve yazılışlarını `form` ile söyler:
@@ -106,25 +109,32 @@ src/styles/    tokens.css (renkler, yazı tipleri, ölçüler) + app.css (yalnı
 - **D2 50 kök (bitti, 2026-10-19):** 50 kök (40 Latince, 10 Yunanca), 949 kelime. Veri hattı (D1)
   olmadan `docs/grow-loop.md` döngüsüyle elle yazıldı ve kontrol edildi. 20 kelimeye ulaşamayan
   kökler uydurma kelimeyle doldurulmadı; listesi `docs/notes.md`'de.
-- **D5 Gündelik nesneler (kullanıcı isteği, 2026-11-06; ilk tur bitti):** öğrenme planının 2. parçası
-  (1. kökler+ekler, 2. gündelik nesne adları, 3. dil bilgisi, 4. deyimler). Kökün tahmin ettiremediği adlar:
-  tebeşir, kevgir, oklava. Sol listede dördüncü mod **Nesneler** (Kökler · Ön ekler · Son ekler · Nesneler,
-  2×2 düğme). Liste varsayılan olarak **yerlere göre** gruplu (kullanıcı isteği, 2026-11-06): her yer başlığı
-  (Mutfak, Banyo…, arayüz dilinde ve o dilde alfabetik) altında en çok kullanıldığı yerdeki nesneler A–Z;
-  liste başındaki düğmeyle tek bir A–Z listesine geçilir (seçim kalıcı, `objectGrouping`). Her satırda
-  İngilizce ad ve ilk seçili dildeki adı. Nesne sayfası `#/object/<id>`:
-  fotoğraf, İngilizce ad + kısa tanım (arayüz dilinde), seçili dillerde adı (artikelle), kalan diller
-  soluk, her ad dinlenebilir, kelimenin geçmişi tek satır, ad bir specroots kökünden geliyorsa köke bağlantı
-  (scissors → `cid`). Arama nesneleri **her dildeki adıyla, artikelsiz** bulur ("tebeşir", "kreide").
-  Veri: `public/data/objects/<id>.json` + `places.json` (yer = büyüme turlarının konusu, kartta görünür);
-  `objects-index.json`'u `npm run data` üretir, her çalışmada bütün nesneleri yeniden okur, alfabetik sıralar
-  ve aynı adı (herhangi bir dilde) iki nesneye verilmişse uyarır. Kaynak: adlar, çeviriler ve köken
-  Wiktionary (kaikki.org, anlama göre ayrılmış çeviriler), fotoğraf Wikidata P18 → Wikimedia Commons
-  (sayfaya bağlantılı, yazar/lisans orada). Wikidata etiketleri çeviri için kullanılmaz (chalk → "tebeşir
-  taşı", "calcilutite" gibi yanlış anlamlar). Yardımcı: `node scripts/lookup-object.mjs "<ad>"` adayları
-  yazdırır, dosyayı insan/Claude seçip yazar. Büyüme: kullanıcının verdiği nesneler (herhangi bir dilde)
-  ya da `docs/objects-loop.md` ile yer yer turlar. İlk tur: 30 nesne (sınıf, mutfak, banyo).
-  Nesnelerde örnek cümle yok (sonra eklenebilir); siteden nesne ekleme yok (sunucu yok).
+- **D5 Nesne listeleri (kullanıcı isteği, 2026-11-06):** öğrenme planının 2. parçası (1. kökler+ekler,
+  2. gündelik nesne adları, 3. dil bilgisi, 4. deyimler). Kökün tahmin ettiremediği adlar: tebeşir, kevgir, oklava.
+  - **İki bölüm:** sol listenin en üstünde **Kelime kökleri · Nesne listeleri**. Kökler bölümü eskisi gibi
+    (Kökler · Ön ekler · Son ekler). Karşılama ekranındaki "Şununla başla" seçimi bölümü de belirler
+    (kökler / ön ekler / son ekler / nesne listeleri); Ayarlar'dan değişir.
+  - **Kelime bir kez yaşar, listeler onu gösterir:** bir nesne hiçbir sınıfa ait değildir; `lists/<liste>.json`
+    nesne kimliklerini sayar. Aynı nesne birçok listede olabilir (sünger: mutfak ve banyo). Listeler bir
+    kavram etrafında (Mutfak 100, Banyo, Sınıf…); yiyecekler de girer (kullanıcı kararı).
+  - **Adresler:** `#/lists` (bütün listeler), `#/list/<liste>` (karo ızgarası: fotoğraf + İngilizce + seçili
+    diller), `#/list/<liste>/<nesne>`, `#/object/<nesne>` (aramadan). Sol liste: listeler ya da açık listenin
+    nesneleri A–Z.
+  - **Nesne sayfası:** fotoğraf, İngilizce ad + kısa tanım (arayüz dilinde), seçili dillerde ad (artikelle),
+    kalan diller soluk, her ad dinlenebilir; içinde bulunduğu listeler; **adın parçaları** İngilizce ve
+    **Almanca** (Wasser·kocher: water + cooker; kullanıcı kararı: Almanca birleşik kelimeler de parçalanır),
+    parça bir kök ya da eke denk geliyorsa bağlantılı; **en az 3 örnek cümle**, her biri başka bir durumda
+    (ev, dükkân, mecaz/deyim), 5 dile çevrili; kelimenin geçmişi tek satır, ad bir specroots kökünden
+    geliyorsa köke bağlantı (scissors → `cid`).
+  - **Arama:** nesneleri her dildeki adıyla (artikelsiz: "kreide", "tebeşir"), listeleri her dildeki başlığıyla
+    ("mutfak") bulur.
+  - **Veri:** `objects/<id>.json`, `lists/<id>.json`; `objects-index.json` (ad, çeviriler, listeleri, fotoğraf)
+    ve `lists-index.json`'u `npm run data` üretir: her çalışmada bütün dosyaları okur, alfabetik sıralar, aynı
+    adı (herhangi bir dilde) iki nesne kullanıyorsa ya da bir nesne hiçbir listede değilse uyarır, listede
+    olup dosyası olmayan nesnede durur. Kaynak: adlar, çeviriler, köken Wiktionary (kaikki.org, anlama göre
+    ayrılmış çeviriler); fotoğraf Wikidata P18 → Wikimedia Commons (sayfaya bağlantılı). Wikidata etiketleri
+    çeviri sayılmaz. Yardımcı: `node scripts/lookup-object.mjs "<ad>"`. Büyüme: `docs/objects-loop.md`.
+  - İlk tur (2026-11-06): 30 nesne, 3 liste (mutfak, banyo, sınıf), nesne başına 3 cümle.
 - **D3 Çevrimdışı (PWA):** ana ekrana eklenebilir, internetsiz açılır.
 - **D4 Eklerle gezinme (kullanıcı isteği, 2026-10-18; bitti, 2026-10-19):** köklerin yanında ön ek ve son eklerden de
   gezinme: bir eke (ör. `re-`, `-tion`) tıklayınca o eki taşıyan bütün kelimeler, kökleriyle birlikte.

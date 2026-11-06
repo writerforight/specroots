@@ -1,7 +1,6 @@
 {
   "id": "blackboard",
   "name": "blackboard",
-  "place": "classroom",
   "names": {
     "tr": "kara tahta",
     "de": "die Tafel",
@@ -17,10 +16,48 @@
     "it": "una superficie scura sulla parete dell'aula su cui si scrive col gesso",
     "es": "una superficie oscura en la pared del aula en la que se escribe con tiza"
   },
+  "breakdown": {
+    "en": [
+      {
+        "text": "black",
+        "gloss": "black"
+      },
+      {
+        "text": "board",
+        "gloss": "board"
+      }
+    ]
+  },
   "origin": "black + board (boards were once made of black slate)",
   "root": null,
   "image": {
     "file": "Tafel (Lehrmittel).jpg",
     "wikidata": "Q235585"
-  }
+  },
+  "sentences": [
+    {
+      "en": "Please read the words on the [blackboard].",
+      "tr": "Lütfen kara tahtadaki kelimeleri okuyun.",
+      "de": "Bitte lest die Wörter an der Tafel.",
+      "fr": "Lisez les mots au tableau, s'il vous plaît.",
+      "it": "Leggete le parole sulla lavagna, per favore.",
+      "es": "Leed las palabras de la pizarra, por favor."
+    },
+    {
+      "en": "She cleaned the [blackboard] after the lesson.",
+      "tr": "Dersten sonra kara tahtayı sildi.",
+      "de": "Sie wischte nach der Stunde die Tafel ab.",
+      "fr": "Elle a effacé le tableau après le cours.",
+      "it": "Ha pulito la lavagna dopo la lezione.",
+      "es": "Limpió la pizarra después de la clase."
+    },
+    {
+      "en": "Old classrooms had a [blackboard], new ones have screens.",
+      "tr": "Eski sınıflarda kara tahta vardı, yenilerinde ekran var.",
+      "de": "Alte Klassenzimmer hatten eine Tafel, neue haben Bildschirme.",
+      "fr": "Les anciennes classes avaient un tableau noir, les nouvelles ont des écrans.",
+      "it": "Le aule vecchie avevano la lavagna, quelle nuove hanno schermi.",
+      "es": "Las aulas antiguas tenían pizarra; las nuevas tienen pantallas."
+    }
+  ]
 }

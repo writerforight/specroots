@@ -1,7 +1,6 @@
 {
   "id": "stapler",
   "name": "stapler",
-  "place": "classroom",
   "names": {
     "tr": "zımba",
     "de": "der Hefter",
@@ -17,10 +16,59 @@
     "it": "un attrezzo che unisce i fogli con piccoli punti metallici",
     "es": "un aparato que une hojas de papel con pequeñas grapas de metal"
   },
+  "breakdown": {
+    "en": [
+      {
+        "text": "stapl",
+        "gloss": "staple"
+      },
+      {
+        "text": "er",
+        "gloss": "thing that does",
+        "affix": "-er"
+      }
+    ],
+    "de": [
+      {
+        "text": "Heft",
+        "gloss": "fasten (heften)"
+      },
+      {
+        "text": "er",
+        "gloss": "thing that does"
+      }
+    ]
+  },
   "origin": "staple + -er; staple ← Old English stapol (post, pillar)",
   "root": null,
   "image": {
     "file": "2017 Zszywacz biurowy.jpg",
     "wikidata": "Q489157"
-  }
+  },
+  "sentences": [
+    {
+      "en": "The [stapler] is out of staples.",
+      "tr": "Zımbanın teli bitmiş.",
+      "de": "Im Hefter sind keine Klammern mehr.",
+      "fr": "L'agrafeuse n'a plus d'agrafes.",
+      "it": "La spillatrice è senza punti.",
+      "es": "La grapadora se ha quedado sin grapas."
+    },
+    {
+      "en": "Use the [stapler] to join these pages.",
+      "tr": "Bu sayfaları birleştirmek için zımbayı kullan.",
+      "de": "Heft diese Seiten mit dem Hefter zusammen.",
+      "fr": "Utilise l'agrafeuse pour attacher ces pages.",
+      "it": "Usa la spillatrice per unire queste pagine.",
+      "es": "Usa la grapadora para unir estas hojas."
+    },
+    {
+      "en": "Someone took the [stapler] from my desk again.",
+      "tr": "Biri yine masamdan zımbayı almış.",
+      "de": "Jemand hat schon wieder den Hefter von meinem Schreibtisch genommen.",
+      "fr": "Quelqu'un a encore pris l'agrafeuse sur mon bureau.",
+      "it": "Qualcuno ha preso di nuovo la spillatrice dalla mia scrivania.",
+      "es": "Alguien se ha llevado otra vez la grapadora de mi mesa."
+    }
+  ]
 }

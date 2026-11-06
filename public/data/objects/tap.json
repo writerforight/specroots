@@ -1,7 +1,6 @@
 {
   "id": "tap",
   "name": "tap",
-  "place": "bathroom",
   "names": {
     "tr": "musluk",
     "de": "der Wasserhahn",
@@ -17,10 +16,48 @@
     "it": "un dispositivo che si gira per far uscire l'acqua dal tubo",
     "es": "un dispositivo que se gira para que salga agua de la tubería"
   },
+  "breakdown": {
+    "de": [
+      {
+        "text": "Wasser",
+        "gloss": "water"
+      },
+      {
+        "text": "hahn",
+        "gloss": "tap; also: rooster"
+      }
+    ]
+  },
   "origin": "Old English tæppa (a peg, a stopper)",
   "root": null,
   "image": {
     "file": "Torneira no Museu Rui Barbosa.jpg",
     "wikidata": "Q656656"
-  }
+  },
+  "sentences": [
+    {
+      "en": "Turn off the [tap] while you brush your teeth.",
+      "tr": "Dişlerini fırçalarken musluğu kapat.",
+      "de": "Dreh beim Zähneputzen den Wasserhahn zu.",
+      "fr": "Ferme le robinet pendant que tu te brosses les dents.",
+      "it": "Chiudi il rubinetto mentre ti lavi i denti.",
+      "es": "Cierra el grifo mientras te lavas los dientes."
+    },
+    {
+      "en": "The [tap] in the kitchen is dripping.",
+      "tr": "Mutfaktaki musluk damlatıyor.",
+      "de": "Der Wasserhahn in der Küche tropft.",
+      "fr": "Le robinet de la cuisine fuit.",
+      "it": "Il rubinetto della cucina gocciola.",
+      "es": "El grifo de la cocina gotea."
+    },
+    {
+      "en": "In Germany you can drink water from the [tap].",
+      "tr": "Almanya'da musluk suyu içilebilir.",
+      "de": "In Deutschland kann man Leitungswasser trinken.",
+      "fr": "En Allemagne, on peut boire l'eau du robinet.",
+      "it": "In Germania si può bere l'acqua del rubinetto.",
+      "es": "En Alemania se puede beber agua del grifo."
+    }
+  ]
 }

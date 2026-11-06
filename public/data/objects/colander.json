@@ -1,7 +1,6 @@
 {
   "id": "colander",
   "name": "colander",
-  "place": "kitchen",
   "names": {
     "tr": "kevgir",
     "de": "das Sieb",
@@ -17,10 +16,37 @@
     "it": "una ciotola forata per scolare la pasta o la verdura",
     "es": "un recipiente con agujeros para escurrir la pasta o la verdura"
   },
+  "breakdown": {},
   "origin": "Latin cōlātōrium, from cōlāre (to strain)",
   "root": null,
   "image": {
     "file": "Blue colander.jpg",
     "wikidata": "Q1057060"
-  }
+  },
+  "sentences": [
+    {
+      "en": "Drain the pasta in a [colander].",
+      "tr": "Makarnayı kevgirde süz.",
+      "de": "Gieß die Nudeln im Sieb ab.",
+      "fr": "Égoutte les pâtes dans une passoire.",
+      "it": "Scola la pasta nello scolapasta.",
+      "es": "Escurre la pasta en el colador."
+    },
+    {
+      "en": "Wash the grapes in the [colander].",
+      "tr": "Üzümleri kevgirde yıka.",
+      "de": "Wasch die Trauben im Sieb.",
+      "fr": "Lave le raisin dans la passoire.",
+      "it": "Lava l'uva nello scolapasta.",
+      "es": "Lava las uvas en el colador."
+    },
+    {
+      "en": "Water ran out through the holes of the [colander].",
+      "tr": "Su kevgirin deliklerinden aktı.",
+      "de": "Das Wasser lief durch die Löcher des Siebs.",
+      "fr": "L'eau s'écoulait par les trous de la passoire.",
+      "it": "L'acqua usciva dai buchi dello scolapasta.",
+      "es": "El agua salía por los agujeros del colador."
+    }
+  ]
 }

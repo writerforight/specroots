@@ -1,7 +1,6 @@
 {
   "id": "towel",
   "name": "towel",
-  "place": "bathroom",
   "names": {
     "tr": "havlu",
     "de": "das Handtuch",
@@ -17,10 +16,48 @@
     "it": "un pezzo di stoffa spessa e morbida per asciugarsi",
     "es": "un trozo de tela gruesa y suave para secarse"
   },
+  "breakdown": {
+    "de": [
+      {
+        "text": "Hand",
+        "gloss": "hand"
+      },
+      {
+        "text": "tuch",
+        "gloss": "cloth"
+      }
+    ]
+  },
   "origin": "Old French toaille ← Frankish, from a Germanic verb meaning to wash",
   "root": null,
   "image": {
     "file": "Toballola de platja.jpg",
     "wikidata": "Q131696"
-  }
+  },
+  "sentences": [
+    {
+      "en": "Dry your hands on the [towel].",
+      "tr": "Ellerini havluyla kurula.",
+      "de": "Trockne dir die Hände am Handtuch ab.",
+      "fr": "Essuie-toi les mains avec la serviette.",
+      "it": "Asciugati le mani con l'asciugamano.",
+      "es": "Sécate las manos con la toalla."
+    },
+    {
+      "en": "Don't forget a [towel] for the beach.",
+      "tr": "Plaj için havlu almayı unutma.",
+      "de": "Vergiss kein Handtuch für den Strand.",
+      "fr": "N'oublie pas une serviette pour la plage.",
+      "it": "Non dimenticare un asciugamano per la spiaggia.",
+      "es": "No olvides una toalla para la playa."
+    },
+    {
+      "en": "After three tries, he threw in the [towel].",
+      "tr": "Üç denemeden sonra pes etti (havlu attı).",
+      "de": "Nach drei Versuchen warf er das Handtuch.",
+      "fr": "Après trois essais, il a jeté l'éponge.",
+      "it": "Dopo tre tentativi ha gettato la spugna.",
+      "es": "Tras tres intentos, tiró la toalla."
+    }
+  ]
 }

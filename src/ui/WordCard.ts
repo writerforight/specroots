@@ -73,7 +73,7 @@ export class WordCard {
     );
   }
 
-  private renderSentence(sentence: Sentence): HTMLElement {
+  renderSentence(sentence: Sentence): HTMLElement {
     const translations = this.ctx.settings.translationLangs
       .map((lang) => [lang, sentence.translation(lang)] as const)
       .filter((pair): pair is readonly [TranslationLang, string] => pair[1] !== undefined);

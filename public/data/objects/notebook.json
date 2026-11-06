@@ -1,7 +1,6 @@
 {
   "id": "notebook",
   "name": "notebook",
-  "place": "classroom",
   "names": {
     "tr": "defter",
     "de": "das Heft",
@@ -17,10 +16,48 @@
     "it": "un libro di pagine bianche per prendere appunti",
     "es": "un libro de páginas en blanco para tomar apuntes"
   },
+  "breakdown": {
+    "en": [
+      {
+        "text": "note",
+        "gloss": "note"
+      },
+      {
+        "text": "book",
+        "gloss": "book"
+      }
+    ]
+  },
   "origin": "note (Latin nota, a mark) + book",
   "root": null,
   "image": {
     "file": "Notebook writing.jpg",
     "wikidata": "Q43013"
-  }
+  },
+  "sentences": [
+    {
+      "en": "I write new words in a [notebook].",
+      "tr": "Yeni kelimeleri bir deftere yazıyorum.",
+      "de": "Ich schreibe neue Wörter in ein Heft.",
+      "fr": "J'écris les nouveaux mots dans un cahier.",
+      "it": "Scrivo le parole nuove in un quaderno.",
+      "es": "Escribo las palabras nuevas en un cuaderno."
+    },
+    {
+      "en": "Open your [notebook] at page ten.",
+      "tr": "Defterini onuncu sayfada aç.",
+      "de": "Schlag dein Heft auf Seite zehn auf.",
+      "fr": "Ouvre ton cahier à la page dix.",
+      "it": "Apri il quaderno a pagina dieci.",
+      "es": "Abre el cuaderno por la página diez."
+    },
+    {
+      "en": "Her [notebook] was full of drawings.",
+      "tr": "Defteri çizimlerle doluydu.",
+      "de": "Ihr Heft war voller Zeichnungen.",
+      "fr": "Son cahier était plein de dessins.",
+      "it": "Il suo quaderno era pieno di disegni.",
+      "es": "Su cuaderno estaba lleno de dibujos."
+    }
+  ]
 }

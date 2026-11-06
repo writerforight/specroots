@@ -1,7 +1,6 @@
 {
   "id": "chalk",
   "name": "chalk",
-  "place": "classroom",
   "names": {
     "tr": "tebeşir",
     "de": "die Kreide",
@@ -17,10 +16,37 @@
     "it": "un bastoncino di roccia bianca e tenera per scrivere alla lavagna",
     "es": "un palito de roca blanca y blanda para escribir en la pizarra"
   },
+  "breakdown": {},
   "origin": "Old English ċealc ← Latin calx (limestone)",
   "root": null,
   "image": {
     "file": "Chalk (25800474082).jpg",
     "wikidata": "Q183670"
-  }
+  },
+  "sentences": [
+    {
+      "en": "The teacher wrote the date with white [chalk].",
+      "tr": "Öğretmen tarihi beyaz tebeşirle yazdı.",
+      "de": "Die Lehrerin schrieb das Datum mit weißer Kreide.",
+      "fr": "La maîtresse a écrit la date à la craie blanche.",
+      "it": "La maestra ha scritto la data col gessetto bianco.",
+      "es": "La maestra escribió la fecha con tiza blanca."
+    },
+    {
+      "en": "Kids drew a big sun in [chalk] on the street.",
+      "tr": "Çocuklar sokağa tebeşirle kocaman bir güneş çizdi.",
+      "de": "Die Kinder malten mit Kreide eine große Sonne auf die Straße.",
+      "fr": "Les enfants ont dessiné un grand soleil à la craie dans la rue.",
+      "it": "I bambini hanno disegnato un grande sole col gesso sulla strada.",
+      "es": "Los niños dibujaron un gran sol con tiza en la calle."
+    },
+    {
+      "en": "My hands are white from the [chalk] dust.",
+      "tr": "Ellerim tebeşir tozundan bembeyaz.",
+      "de": "Meine Hände sind weiß vom Kreidestaub.",
+      "fr": "J'ai les mains blanches de poussière de craie.",
+      "it": "Ho le mani bianche per la polvere di gesso.",
+      "es": "Tengo las manos blancas del polvo de tiza."
+    }
+  ]
 }

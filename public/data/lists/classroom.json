@@ -1,0 +1,23 @@
+{
+  "id": "classroom",
+  "title": {
+    "en": "Classroom",
+    "tr": "Sınıf",
+    "de": "Klassenzimmer",
+    "fr": "Salle de classe",
+    "it": "Aula",
+    "es": "Aula"
+  },
+  "objects": [
+    "blackboard",
+    "chalk",
+    "eraser",
+    "globe",
+    "notebook",
+    "paper-clip",
+    "pencil-sharpener",
+    "ruler",
+    "scissors",
+    "stapler"
+  ]
+}

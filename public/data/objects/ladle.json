@@ -1,7 +1,6 @@
 {
   "id": "ladle",
   "name": "ladle",
-  "place": "kitchen",
   "names": {
     "tr": "kepçe",
     "de": "die Schöpfkelle",
@@ -17,10 +16,48 @@
     "it": "un grande cucchiaio profondo con manico lungo per servire la minestra",
     "es": "una cuchara grande y honda de mango largo para servir sopa"
   },
+  "breakdown": {
+    "de": [
+      {
+        "text": "Schöpf",
+        "gloss": "scoop (schöpfen)"
+      },
+      {
+        "text": "kelle",
+        "gloss": "ladle, trowel"
+      }
+    ]
+  },
   "origin": "Old English hlædel, from hladan (to load, to draw water)",
   "root": null,
   "image": {
     "file": "Ladel aluminium 18j07.JPG",
     "wikidata": "Q193358"
-  }
+  },
+  "sentences": [
+    {
+      "en": "She served the soup with a [ladle].",
+      "tr": "Çorbayı kepçeyle servis etti.",
+      "de": "Sie schöpfte die Suppe mit der Kelle.",
+      "fr": "Elle a servi la soupe avec une louche.",
+      "it": "Ha servito la minestra con il mestolo.",
+      "es": "Sirvió la sopa con el cucharón."
+    },
+    {
+      "en": "One [ladle] of sauce is enough.",
+      "tr": "Bir kepçe sos yeter.",
+      "de": "Eine Kelle Soße reicht.",
+      "fr": "Une louche de sauce suffit.",
+      "it": "Basta un mestolo di sugo.",
+      "es": "Basta un cucharón de salsa."
+    },
+    {
+      "en": "The [ladle] hangs next to the stove.",
+      "tr": "Kepçe ocağın yanında asılı.",
+      "de": "Die Kelle hängt neben dem Herd.",
+      "fr": "La louche est accrochée à côté de la cuisinière.",
+      "it": "Il mestolo è appeso vicino ai fornelli.",
+      "es": "El cucharón cuelga junto a la cocina."
+    }
+  ]
 }

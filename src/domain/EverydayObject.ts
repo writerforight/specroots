@@ -1,19 +1,17 @@
 import type { Localized, TranslationLang } from './Language';
+import type { Sentence } from './Sentence';
 
-/** Where an object is usually found (kitchen, classroom…); groups growth rounds, shown on the card. */
-export interface Place {
-  readonly id: string;
-  readonly name: Localized;
-}
-
-/** The lightweight entry for the alphabetical object list and search; the full object loads on demand. */
+/** The lightweight entry for lists and search; the full object loads on demand. */
 export interface ObjectSummary {
   readonly id: string;
   /** English name, the headword: "chalk", "paper clip". */
   readonly name: string;
-  readonly place: string;
   /** The name in each translation language; nouns carry their article where the language has one. */
   readonly names: Readonly<Record<TranslationLang, string>>;
+  /** Every word list the object appears in (an object can be in many: kitchen and wood). */
+  readonly lists: readonly string[];
+  /** Commons file name of its photo, for list tiles; null when there is none. */
+  readonly photo: string | null;
 }
 
 /** A photo on Wikimedia Commons, found through the object's Wikidata item. */
@@ -24,28 +22,47 @@ export interface CommonsImage {
   readonly wikidata: string;
 }
 
+/** One piece of a name: "Kühl" (cool) in Kühl·schrank, "er" (-er) in stapl·er. */
+export interface NamePart {
+  readonly text: string;
+  /** Short English meaning of the piece. */
+  readonly gloss: string;
+  /** A root of this lexicon the piece comes from, if any. */
+  readonly rootId: string | null;
+  /** An affix of this lexicon the piece is, if any. */
+  readonly affixId: string | null;
+}
+
+/** Languages whose names are split into parts: English (the headword) and German (compounds). */
+export const BREAKDOWN_LANGS = ['en', 'de'] as const;
+export type BreakdownLang = (typeof BREAKDOWN_LANGS)[number];
+
 /**
  * An everyday thing with its name in every language: chalk, die Kreide, tebeşir.
  * Part two of the learning plan (roots are part one): names that roots alone cannot predict.
+ * It belongs to no list itself; lists point to it, so one object can be in several.
  */
-export class EverydayObject implements ObjectSummary {
+export class EverydayObject {
   constructor(
     readonly id: string,
     readonly name: string,
-    readonly place: string,
     readonly names: Readonly<Record<TranslationLang, string>>,
     /** A short "what it is" in all six languages. */
     readonly definition: Localized,
+    /** How the English and German names are built, where they can be split. */
+    readonly breakdown: Readonly<Partial<Record<BreakdownLang, readonly NamePart[]>>>,
     /** One line of word history, e.g. "Old English ċealc ← Latin calx (limestone)". */
     readonly origin: string,
     /** A root of this lexicon the name comes from (scissors → cid), or null. */
     readonly rootId: string | null,
     readonly image: CommonsImage | null,
+    /** Example sentences in different situations, the object [marked], with translations. */
+    readonly sentences: readonly Sentence[],
   ) {}
 
   /** A scaled photo URL; Commons serves a thumbnail of the requested width. */
   imageUrl(width: number): string | null {
-    return this.image ? `https://commons.wikimedia.org/wiki/Special:FilePath/${encodeURIComponent(this.image.file)}?width=${width}` : null;
+    return this.image ? commonsThumb(this.image.file, width) : null;
   }
 
   /** The Commons page of the photo, where its author and licence are given. */
@@ -54,20 +71,23 @@ export class EverydayObject implements ObjectSummary {
   }
 }
 
-/** The objects of one place, A–Z, as shown under that place's heading. */
-export interface PlaceGroup {
-  readonly place: Place;
-  readonly objects: readonly ObjectSummary[];
+export function commonsThumb(file: string, width: number): string {
+  return `https://commons.wikimedia.org/wiki/Special:FilePath/${encodeURIComponent(file)}?width=${width}`;
 }
 
-/**
- * Objects under the place where they are most used (kitchen → ladle, colander…). Places are sorted
- * by their name in the given language, objects A–Z inside; empty places are left out.
- */
-export function groupByPlace(objects: readonly ObjectSummary[], places: ReadonlyMap<string, Place>, lang: keyof Place['name']): PlaceGroup[] {
-  const name = (place: Place) => place.name[lang] ?? place.name.en ?? place.id;
-  return [...places.values()]
-    .map((place) => ({ place, objects: objects.filter((o) => o.place === place.id).sort((a, b) => a.name.localeCompare(b.name)) }))
-    .filter((group) => group.objects.length > 0)
-    .sort((a, b) => name(a.place).localeCompare(name(b.place), lang));
+/** The entry in the list of lists. */
+export interface ListSummary {
+  readonly id: string;
+  readonly title: Localized;
+  readonly count: number;
+}
+
+/** A word list around one idea (Kitchen, Bathroom…): only object ids, in no particular order. */
+export interface WordList extends ListSummary {
+  readonly objectIds: readonly string[];
+}
+
+/** "die Kreide" → "Kreide", "l'éponge" → "éponge", "el cucharón" → "cucharón". */
+export function stripArticle(name: string): string {
+  return name.replace(/^(der|die|das|le|la|les|il|lo|gli|i|el|los|las|un|une|una|uno)\s+/i, '').replace(/^l['’]/i, '');
 }

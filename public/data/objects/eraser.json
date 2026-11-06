@@ -1,7 +1,6 @@
 {
   "id": "eraser",
   "name": "eraser",
-  "place": "classroom",
   "names": {
     "tr": "silgi",
     "de": "der Radiergummi",
@@ -17,10 +16,64 @@
     "it": "un pezzetto di gomma che cancella i segni della matita",
     "es": "un trozo pequeño de goma que borra el lápiz"
   },
+  "breakdown": {
+    "en": [
+      {
+        "text": "e",
+        "gloss": "out (short for ex-)",
+        "affix": "e-"
+      },
+      {
+        "text": "ras",
+        "gloss": "to scrape (Latin rādere)"
+      },
+      {
+        "text": "er",
+        "gloss": "thing that does",
+        "affix": "-er"
+      }
+    ],
+    "de": [
+      {
+        "text": "Radier",
+        "gloss": "erase (radieren)"
+      },
+      {
+        "text": "gummi",
+        "gloss": "rubber"
+      }
+    ]
+  },
   "origin": "erase + -er; erase ← Latin ērādere (to scrape out: ex- + rādere)",
   "root": null,
   "image": {
     "file": "Pelikan Radiergummi.jpg",
     "wikidata": "Q171888"
-  }
+  },
+  "sentences": [
+    {
+      "en": "Can I borrow your [eraser]?",
+      "tr": "Silgini ödünç alabilir miyim?",
+      "de": "Kann ich deinen Radiergummi ausleihen?",
+      "fr": "Je peux emprunter ta gomme ?",
+      "it": "Posso prendere in prestito la tua gomma?",
+      "es": "¿Me prestas tu goma de borrar?"
+    },
+    {
+      "en": "I fixed the mistake with an [eraser].",
+      "tr": "Hatayı silgiyle düzelttim.",
+      "de": "Ich habe den Fehler mit dem Radiergummi korrigiert.",
+      "fr": "J'ai corrigé l'erreur avec une gomme.",
+      "it": "Ho corretto l'errore con la gomma.",
+      "es": "Corregí el error con la goma."
+    },
+    {
+      "en": "This pencil has a small [eraser] on the end.",
+      "tr": "Bu kalemin ucunda küçük bir silgi var.",
+      "de": "Dieser Bleistift hat oben einen kleinen Radiergummi.",
+      "fr": "Ce crayon a une petite gomme au bout.",
+      "it": "Questa matita ha una piccola gomma in cima.",
+      "es": "Este lápiz tiene una gomita en la punta."
+    }
+  ]
 }

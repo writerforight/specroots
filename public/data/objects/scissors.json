@@ -1,7 +1,6 @@
 {
   "id": "scissors",
   "name": "scissors",
-  "place": "classroom",
   "names": {
     "tr": "makas",
     "de": "die Schere",
@@ -17,10 +16,37 @@
     "it": "un attrezzo da taglio con due lame unite al centro",
     "es": "una herramienta de corte con dos hojas unidas en el centro"
   },
+  "breakdown": {},
   "origin": "Old French cisoires ← Late Latin cīsōria (cutting tools), from caedere (to cut)",
   "root": "cid",
   "image": {
     "file": "Scissors collection.jpg",
     "wikidata": "Q40847"
-  }
+  },
+  "sentences": [
+    {
+      "en": "Cut the paper with [scissors].",
+      "tr": "Kâğıdı makasla kes.",
+      "de": "Schneide das Papier mit der Schere.",
+      "fr": "Coupe le papier avec des ciseaux.",
+      "it": "Taglia la carta con le forbici.",
+      "es": "Corta el papel con las tijeras."
+    },
+    {
+      "en": "Children should use round [scissors].",
+      "tr": "Çocuklar ucu yuvarlak makas kullanmalı.",
+      "de": "Kinder sollten eine Schere mit runden Spitzen benutzen.",
+      "fr": "Les enfants devraient utiliser des ciseaux à bouts ronds.",
+      "it": "I bambini dovrebbero usare forbici con la punta arrotondata.",
+      "es": "Los niños deberían usar tijeras de punta redonda."
+    },
+    {
+      "en": "The hairdresser picked up her [scissors].",
+      "tr": "Kuaför makasını eline aldı.",
+      "de": "Die Friseurin nahm ihre Schere in die Hand.",
+      "fr": "La coiffeuse a pris ses ciseaux.",
+      "it": "La parrucchiera ha preso le forbici.",
+      "es": "La peluquera cogió sus tijeras."
+    }
+  ]
 }
