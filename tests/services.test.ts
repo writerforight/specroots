@@ -5,7 +5,7 @@ import { MESSAGES } from '../src/i18n/messages';
 import { MemoryStore } from '../src/services/KeyValueStore';
 import { SearchIndex } from '../src/services/SearchIndex';
 import { SettingsStore } from '../src/services/SettingsStore';
-import { affixHref, parseRoute, rootHref } from '../src/ui/routes';
+import { parseRoute, rootHref, wordsHref } from '../src/ui/routes';
 import { diskRepository } from './helpers';
 
 describe('SearchIndex', async () => {
@@ -66,18 +66,27 @@ describe('SettingsStore', () => {
     expect(s.translationLangs).toEqual(['tr']);
     expect(s.theme).toBe('system');
     expect(s.browseMode).toBe('root');
+    memory.set('specroots.settings.v1', JSON.stringify({ browseMode: 'words' }));
+    expect(new SettingsStore(memory).value.browseMode).toBe('words');
+    // The old prefix and suffix modes are now "Learn words".
     memory.set('specroots.settings.v1', JSON.stringify({ browseMode: 'suffix' }));
-    expect(new SettingsStore(memory).value.browseMode).toBe('suffix');
+    expect(new SettingsStore(memory).value.browseMode).toBe('words');
     memory.set('specroots.settings.v1', '{broken');
     expect(new SettingsStore(memory).value.theme).toBe('system');
   });
 });
 
 describe('routes', () => {
-  it('round-trips root, word and affix links', () => {
+  it('round-trips root, word and words links', () => {
     expect(parseRoute(rootHref('spec', 'inspection'))).toEqual({ kind: 'root', rootId: 'spec', wordId: 'inspection' });
-    expect(parseRoute(affixHref('in-not-'))).toEqual({ kind: 'affix', affixId: 'in-not-' });
-    expect(parseRoute(affixHref('-ion'))).toEqual({ kind: 'affix', affixId: '-ion' });
+    expect(parseRoute(wordsHref(['in-not-']))).toEqual({ kind: 'words', titleIds: ['in-not-'] });
+    expect(parseRoute(wordsHref(['re-', '-ion']))).toEqual({ kind: 'words', titleIds: ['re-', '-ion'] });
+    expect(wordsHref([])).toBe('#/');
+    expect(parseRoute('#/words/')).toEqual({ kind: 'home' });
+    expect(parseRoute('#/words/re-,re-,,-ion')).toEqual({ kind: 'words', titleIds: ['re-', '-ion'] });
+  });
+  it('opens old one-affix links as a one-title selection', () => {
+    expect(parseRoute('#/affix/-ion')).toEqual({ kind: 'words', titleIds: ['-ion'] });
     expect(parseRoute('#/affix/')).toEqual({ kind: 'home' });
   });
 });

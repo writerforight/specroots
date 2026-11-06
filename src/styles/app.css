@@ -96,15 +96,20 @@ button, input, select { font: inherit; color: inherit; }
 
 @media (max-width: 760px) {
   .layout { grid-template-columns: minmax(0, 1fr); }
-  .root-list { position: static; height: auto; border-right: 0; }
-  body[data-view='root'] .root-list, body[data-view='affix'] .root-list { display: none; }
+  .root-list { position: static; height: auto; overflow: visible; border-right: 0; }
+  body[data-view='root'] .root-list { display: none; }
   body[data-view='home'] .root-detail { display: none; }
+  /* Learn words: titles on top, their words underneath; the bar's button jumps down, "Change titles" up. */
+  body[data-view='words'] .root-detail { border-top: 1px solid var(--border); }
+  body .picker-bar .picker-show, body .change-titles { display: inline-block; }
+  body .picker-bar { top: 61px; }
+  .root-detail, .root-list { scroll-margin-top: 61px; }
   .root-detail { padding: 16px 16px 48px; }
   .back-link { display: inline-block; margin-bottom: 12px; color: var(--accent); text-decoration: none; }
   .tagline { display: none; }
 }
 
-/* ---------- side list: roots, prefixes or suffixes ---------- */
+/* ---------- side list: the way-in switch, then roots or titles to tick ---------- */
 .browse-switch { display: flex; margin: 0 4px 4px; }
 .browse-switch button { flex: 1; padding: 4px 6px; font-size: 0.9rem; white-space: nowrap; }
 .list-section-title { margin: 28px 8px 0; padding-top: 16px; border-top: 1px solid var(--border); font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--text-muted); }
@@ -123,6 +128,31 @@ button, input, select { font: inherit; color: inherit; }
 .root-forms { font-family: var(--font-text); font-size: 1.05rem; font-weight: 600; }
 .root-meaning { grid-column: 1; font-size: 0.85rem; color: var(--text-muted); }
 .root-count { grid-row: 1 / span 2; grid-column: 2; align-self: center; font-size: 0.75rem; color: var(--text-muted); }
+
+/* Learn words: a box per title, a bar that says what is ticked */
+.picker-bar {
+  position: sticky;
+  top: -16px;
+  z-index: 1;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px 12px;
+  margin: 0 -12px;
+  padding: 10px 16px;
+  border-bottom: 1px solid var(--border);
+  background: var(--bg);
+  font-size: 0.9rem;
+}
+.picker-status { color: var(--text-muted); }
+.picker-bar .picker-show, .change-titles { display: none; }
+.link-button { padding: 0; border: 0; background: none; color: var(--accent); cursor: pointer; text-decoration: underline; }
+.title-picker .list-section-title:first-child { margin-top: 12px; border-top: 0; padding-top: 0; }
+.title-option { grid-template-columns: auto 1fr auto; cursor: pointer; }
+.title-option input { grid-row: 1 / span 2; align-self: center; margin: 0; width: 18px; height: 18px; accent-color: var(--accent); }
+.title-option .root-forms, .title-option .root-meaning { grid-column: 2; }
+.title-option .root-count { grid-column: 3; }
+.title-option:has(input:checked) { background: var(--accent-soft); }
 
 /* ---------- root detail ---------- */
 .empty-state, .error-state { margin-top: 20vh; text-align: center; color: var(--text-muted); }
@@ -216,9 +246,34 @@ mark { background: var(--mark); color: inherit; padding: 0 2px; border-radius: 3
 .tree-gloss { font-family: var(--font-ui); font-size: 0.85rem; font-weight: 400; color: var(--text-muted); }
 .tree-node > .word-card { margin: 6px 0 10px; }
 
-/* ---------- affix page: words built with one prefix or suffix ---------- */
-.root-title.part-prefix { color: var(--prefix); }
-.root-title.part-suffix { color: var(--suffix); }
+/* ---------- start page: the two ways in ---------- */
+.way-in { margin: 8vh auto 0; max-width: 620px; }
+.way-in-title { margin: 0 0 16px; font-family: var(--font-text); font-size: 1.6rem; text-align: center; }
+.way-in-cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px; }
+.way-in-card {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 16px 18px;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  background: var(--surface);
+  text-align: left;
+  cursor: pointer;
+}
+.way-in-card:hover { border-color: var(--accent); }
+.way-in-card[aria-pressed='true'] { border-color: var(--accent); background: var(--accent-soft); }
+.way-in-name { font-family: var(--font-text); font-size: 1.2rem; font-weight: 700; color: var(--accent); }
+.way-in-text { font-size: 0.9rem; color: var(--text-muted); }
+.way-in + .empty-state { margin-top: 24px; }
+
+/* ---------- learn words: the words that contain the ticked titles ---------- */
+.selection-title { display: flex; flex-wrap: wrap; column-gap: 0.5em; }
+.word-root { margin-left: auto; font-family: var(--font-ui); font-size: 0.8rem; font-weight: 400; color: var(--text-muted); }
+.change-titles { margin-top: 4px; }
+
+.group-root.part-prefix { color: var(--prefix); }
+.group-root.part-suffix { color: var(--suffix); }
 .group-root { color: var(--accent); text-decoration: none; text-transform: none; letter-spacing: 0; font-family: var(--font-text); font-size: 1.1rem; font-weight: 700; }
 .group-root:hover { text-decoration: underline; }
 .group-meaning { text-transform: none; letter-spacing: 0; font-size: 0.85rem; }
@@ -261,6 +316,14 @@ mark { background: var(--mark); color: inherit; padding: 0 2px; border-radius: 3
 .form-warning { margin: 8px 0 0; color: var(--suffix); font-size: 0.85rem; }
 .dialog-actions { display: flex; justify-content: flex-end; margin-top: 24px; }
 .primary { padding: 9px 22px; border: 0; border-radius: 999px; background: var(--accent); color: var(--on-accent); font-weight: 600; cursor: pointer; }
+
+/* Welcome and settings: the way-in choice as two described options */
+.way-in-options { display: grid; gap: 8px; }
+.way-in-option { display: flex; align-items: flex-start; gap: 10px; padding: 10px 12px; border: 1px solid var(--border); border-radius: 10px; cursor: pointer; }
+.way-in-option:has(input:checked) { border-color: var(--accent); background: var(--accent-soft); }
+.way-in-option input { margin: 3px 0 0; accent-color: var(--accent); }
+.way-in-option span { display: flex; flex-direction: column; gap: 2px; }
+.way-in-option small { color: var(--text-muted); font-size: 0.85rem; }
 
 /* Plain-HTML fallback in index.html, visible only until the app starts (or without JavaScript). */
 .static-intro { max-width: 760px; margin: 0 auto; padding: 32px 16px; font-family: var(--font-text); }

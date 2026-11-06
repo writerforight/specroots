@@ -1,7 +1,7 @@
 import type { I18n } from '../i18n/I18n';
 import type { SearchHit, SearchIndex } from '../services/SearchIndex';
 import { clear, h } from './dom';
-import { affixHref, rootHref } from './routes';
+import { rootHref, wordsHref } from './routes';
 
 /** Type a root, a word or an affix and jump to it. Enter opens the first hit. */
 export class SearchBox {
@@ -52,7 +52,7 @@ export class SearchBox {
   }
 
   private href(hit: SearchHit): string {
-    if (hit.affix) return affixHref(hit.affix.id);
+    if (hit.affix) return wordsHref([hit.affix.id]);
     return hit.rootId ? rootHref(hit.rootId, hit.wordId) : '#/';
   }
 

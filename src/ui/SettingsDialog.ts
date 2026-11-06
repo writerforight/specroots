@@ -60,6 +60,24 @@ export class SettingsDialog {
       },
       h('h2', {}, mode === 'welcome' ? t('welcomeTitle') : t('settings')),
       mode === 'welcome' ? h('p', { class: 'dialog-lead' }, t('welcomeText')) : null,
+      // The first choice: how to learn. Root route or words picked by their titles.
+      h(
+        'fieldset',
+        { class: 'field' },
+        h('legend', { class: 'field-label' }, t('wayInQuestion')),
+        h(
+          'div',
+          { class: 'way-in-options' },
+          ...BROWSE_MODES.map((way) =>
+            h(
+              'label',
+              { class: 'way-in-option' },
+              h('input', { type: 'radio', name: 'browse', value: way, checked: s.browseMode === way }),
+              h('span', {}, h('b', {}, t(`mode_${way}`)), h('small', {}, t(`mode_${way}_text`))),
+            ),
+          ),
+        ),
+      ),
       h('label', { class: 'field' }, h('span', { class: 'field-label' }, t('interfaceLanguage')), uiSelect),
       h(
         'fieldset',
@@ -73,18 +91,6 @@ export class SettingsDialog {
           ),
         ),
         warning,
-      ),
-      h(
-        'fieldset',
-        { class: 'field' },
-        h('legend', { class: 'field-label' }, t('browseBy')),
-        h(
-          'div',
-          { class: 'chips' },
-          ...BROWSE_MODES.map((mode) =>
-            h('label', { class: 'chip' }, h('input', { type: 'radio', name: 'browse', value: mode, checked: s.browseMode === mode }), t(`browse_${mode}`)),
-          ),
-        ),
       ),
       h(
         'fieldset',

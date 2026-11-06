@@ -45,6 +45,22 @@ seçilen dillerdeki karşılığı ve öğretici örnek cümleleri bir arada gö
 14. **Katkı (2026-10-18):** dışarıdan kök önerme ve düzeltme: issue formları (`new-root`, `mistake`),
     CONTRIBUTING.md (kök ekleme adımları, iyi örnek cümle ölçütü), her PR'da `npm run check`.
     README İngilizce (varsayılan) + Almanca + Türkçe.
+15. **İki giriş yolu (2026-11-06, kullanıcı isteği; D4'ün kök / ön ek / son ek modlarının yerine):**
+    Uygulamanın başında iki seçenek listelenir: **Kök yolu** (kök listesi → kökün kelime ailesi, liste ya
+    da ağaç; D0'dan beri olan akış) ve **Kelime öğren** (başlıkları işaretle → onları içeren kelimeleri gör).
+    Seçenekler üç yerde görünür: karşılama ekranında ilk soru olarak, sol sütunun en üstünde
+    (Kök yolu · Kelime öğren düğmesi, seçim kalıcı) ve hiçbir şey açık değilken sağdaki başlangıç
+    ekranında iki kart olarak. Ayarlar'dan da değiştirilir.
+    **Kelime öğren akışı:** sol sütunda kelime yok, yalnızca başlıklar var: Ön ekler, Son ekler, Başka
+    kelimelerden gelen parçalar; her başlıkta alfabetik, işaret kutulu ekler ve taşıdıkları kelime
+    sayısı. Kullanıcı istediği kadar başlık işaretler; sağda yalnızca o başlıkları içeren kelimeler
+    çıkar, her başlık kendi bölümünde (işaretlenme sırasıyla), kelimeler alfabetik, işaretli ek altı
+    çizili, yanında çeviri ve kökü. Bir kelimeye dokununca kökündeki tam kartı açılır. Birden çok
+    başlıkta, en az birini içeren kelimeler gösterilir (birleşim); iki başlığı taşıyan kelime iki
+    bölümde de görünür, toplamda bir kez sayılır. Seçim adreste durur (`#/words/re-,-ion`), paylaşılır
+    ve geri tuşuyla döner. Telefonda başlıklar üstte, kelimeler altta; üstte sabit çubuk "N kelimeyi
+    göster" ile aşağı, kelimelerin başındaki "Başlıkları değiştir" ile yukarı atlar.
+    Kök yolu ile Kelime öğren arasında geçince o yol baştan açılır (işaretler temizlenir).
 
 ## Mimari
 ```
@@ -52,10 +68,11 @@ src/domain/    saf sınıflar, DOM yok: Root, Word, Morpheme, Affix, Sentence, L
 src/data/      LexiconRepository (arayüz) ← JsonLexiconRepository; LexiconParser veriyi doğrular
 src/services/  SettingsStore (gözlemlenebilir, kalıcı), SearchIndex, SpeechService, KeyValueStore
 src/i18n/      I18n + 6 dilin arayüz metinleri (eksik anahtar derleyicide hata verir)
-src/ui/        görünüm sınıfları: RootListView, AffixListView, BrowseModeSwitch, RootDetailView,
-               AffixFamilyView, WordCard, SearchBox, SettingsDialog, ThemeController; türev
-               görünümleri DerivationView arayüzünü uygular (strateji)
-src/app/App.ts katmanları birbirine bağlar; yönlendirme: #/root/<kök>/<kelime>, #/affix/<ek>
+src/ui/        görünüm sınıfları: BrowseModeSwitch (iki giriş yolu), RootListView, TitlePickerView,
+               RootDetailView, SelectedWordsView, WordCard, SearchBox, SettingsDialog,
+               ThemeController; türev görünümleri DerivationView arayüzünü uygular (strateji)
+src/app/App.ts katmanları birbirine bağlar; yönlendirme: #/root/<kök>/<kelime>, #/words/<ek>,<ek>
+               (eski #/affix/<ek> adresi tek başlıkla #/words/<ek> olarak açılır)
 src/styles/    tokens.css (renkler, yazı tipleri, ölçüler) + app.css (yalnızca token kullanır)
 ```
 - Görünümler bağımlılıklarını `ViewContext` ile alır, hiçbir görünüm veri dosyası okumaz.
@@ -70,7 +87,7 @@ src/styles/    tokens.css (renkler, yazı tipleri, ölçüler) + app.css (yalnı
   Örnek cümlede hedef kelime `[köşeli parantez]` içinde yazılır (tam bir tane).
 - `public/data/index.json`: alfabetik liste ve arama için özet; `npm run data` üretir, elle düzenlenmez.
 - `public/data/affix-index.json`: her ek → onu taşıyan kökler ve kelimeler (eklerle gezinme için).
-  `npm run data` üretir, elle düzenlenmez; yalnızca ön ek / son ek modunda yüklenir.
+  `npm run data` üretir, elle düzenlenmez; yalnızca Kelime öğren yolunda yüklenir.
 - Aynı yazılışlı farklı ekler ayrı kimlik alır ve yazılışlarını `form` ile söyler:
   `"in-"` (içine, inspect) ve `"in-not-": { "form": "in", … }` (değil, incredible). Ek kimliği tireyle
   biter (ön ek) ya da başlar (son ek); `form` yalnızca küçük harftir.
@@ -78,7 +95,7 @@ src/styles/    tokens.css (renkler, yazı tipleri, ölçüler) + app.css (yalnı
   ön ek olarak kataloğa girer: `"photo-"`, `"manu-"`. Bir isim, sıfat ya da sayı gövdesi olan bu
   parçalar `"combining": true` taşır (`geo-`, `micro-`, `kilo-`, `-logy`, `-graphy`); edat, zarf ya
   da olumsuzluk bildiren gerçek ekler (`re-`, `con-`, `anti-`, `un-`, `-ion`) taşımaz. Ek listesinde
-  ikisi ayrı başlık altında görünür.
+  ikisi ayrı başlık altında görünür (Kelime öğren yolunun başlık listesinde).
 
 ## Kalite
 - `npm run check` (tip denetimi + testler) yeşil olmadan birleştirme yok.
@@ -94,7 +111,10 @@ src/styles/    tokens.css (renkler, yazı tipleri, ölçüler) + app.css (yalnı
   olmadan `docs/grow-loop.md` döngüsüyle elle yazıldı ve kontrol edildi. 20 kelimeye ulaşamayan
   kökler uydurma kelimeyle doldurulmadı; listesi `docs/notes.md`'de.
 - **D3 Çevrimdışı (PWA):** ana ekrana eklenebilir, internetsiz açılır.
-- **D4 Eklerle gezinme (kullanıcı isteği, 2026-10-18; bitti, 2026-10-19):** köklerin yanında ön ek ve son eklerden de
+- **D4 Eklerle gezinme (kullanıcı isteği, 2026-10-18; bitti, 2026-10-19; 2026-11-06'da karar 15 ile
+  değişti):** Kullanıcı 2026-11-06'da D4'ün yanlış kavrandığını söyledi: üç mod ve bir eke tıklayınca
+  çıkan uzun kelime listesi istenen akış değildi. Yerine karar 15 (iki giriş yolu, başlık seçerek
+  kelime görme) geldi. Aşağıdaki metin tarihçe olarak duruyor. köklerin yanında ön ek ve son eklerden de
   gezinme: bir eke (ör. `re-`, `-tion`) tıklayınca o eki taşıyan bütün kelimeler, kökleriyle birlikte.
   Veri hazır (her kelimenin parçaları ek kimliklerine bağlı); D2 bitince ayrıntıları konuşulacak.
   Ek (2026-10-19): kök / ön ek / son ek üç gezinme modu olur; karşılama ekranı ilk açılışta hangisiyle

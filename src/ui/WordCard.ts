@@ -4,7 +4,7 @@ import type { Root } from '../domain/Root';
 import type { Sentence } from '../domain/Sentence';
 import type { Word } from '../domain/Word';
 import { h } from './dom';
-import { affixHref } from './routes';
+import { wordsHref } from './routes';
 import type { ViewContext } from './ViewContext';
 
 /** Renders one word: its parts, meanings in the chosen languages, and example sentences. */
@@ -58,7 +58,7 @@ export class WordCard {
       return h(
         'li',
         { class: `breakdown-item part-${part.kind}` },
-        h('a', { class: 'breakdown-link', href: affixHref(affix.id) }, h('b', { lang: 'en' }, affix.label), ' ', affix.meaning[lang] ?? affix.meaning.en ?? ''),
+        h('a', { class: 'breakdown-link', href: wordsHref([affix.id]) }, h('b', { lang: 'en' }, affix.label), ' ', affix.meaning[lang] ?? affix.meaning.en ?? ''),
       );
     });
     return h('ul', { class: 'breakdown' }, ...items);

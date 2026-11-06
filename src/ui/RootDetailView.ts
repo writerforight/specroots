@@ -1,27 +1,32 @@
-import type { Affix } from '../domain/Affix';
 import type { Root } from '../domain/Root';
-import { AffixFamilyView, type AffixGroup } from './AffixFamilyView';
-import type { DerivationViewKind } from '../services/SettingsStore';
+import type { BrowseMode, DerivationViewKind } from '../services/SettingsStore';
+import { wayInCards } from './BrowseModeSwitch';
 import { clear, h } from './dom';
 import { DERIVATION_VIEWS } from './derivations';
+import { SelectedWordsView, type TitleGroup } from './SelectedWordsView';
 import type { ViewContext } from './ViewContext';
 
-/** The right-hand pane: one root with its word family, or one affix with the words built with it. */
+/** The right-hand pane: the start choice, one root with its word family, or the words of the ticked titles. */
 export class RootDetailView {
   readonly el = h('main', { class: 'root-detail', tabindex: '-1' });
 
-  constructor(private readonly onViewChange: (kind: DerivationViewKind) => void) {}
+  constructor(
+    private readonly onViewChange: (kind: DerivationViewKind) => void,
+    private readonly onModeChange: (mode: BrowseMode) => void,
+  ) {}
 
+  /** Nothing open yet: the two ways in, and what to do next in the chosen one. */
   showEmpty(ctx: ViewContext): void {
     clear(this.el);
-    this.el.append(h('p', { class: 'empty-state' }, ctx.i18n.t(ctx.settings.browseMode === 'root' ? 'chooseRoot' : 'chooseAffix')));
+    this.el.append(
+      wayInCards(ctx.i18n, ctx.settings.browseMode, this.onModeChange),
+      h('p', { class: 'empty-state' }, ctx.i18n.t(ctx.settings.browseMode === 'root' ? 'chooseRoot' : 'chooseTitles')),
+    );
   }
 
-  showAffix(affix: Affix, groups: readonly AffixGroup[], ctx: ViewContext): void {
+  showWords(groups: readonly TitleGroup[], ctx: ViewContext, onChangeTitles: () => void): void {
     clear(this.el);
-    this.el.append(h('a', { class: 'back-link', href: '#/' }, `← ${ctx.i18n.t('back')}`), ...new AffixFamilyView(ctx).render(affix, groups));
-    // Arriving from a word card deep in a root page: start the new page at its top.
-    window.scrollTo?.({ top: 0 });
+    this.el.append(...new SelectedWordsView(ctx).render(groups, onChangeTitles));
   }
 
   showError(ctx: ViewContext): void {

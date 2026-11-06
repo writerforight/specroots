@@ -3,8 +3,11 @@ import type { KeyValueStore } from './KeyValueStore';
 
 export type ThemeChoice = 'system' | 'light' | 'dark';
 export type DerivationViewKind = 'list' | 'tree';
-/** What the side list shows: roots, or the prefixes or suffixes that words are built with. */
-export type BrowseMode = 'root' | 'prefix' | 'suffix';
+/**
+ * The two ways in, chosen at the start: the root route (root list → word family as list or tree) or
+ * learning words (tick titles such as re- or -ion → the words built with them).
+ */
+export type BrowseMode = 'root' | 'words';
 
 export interface Settings {
   readonly uiLang: Lang;
@@ -83,7 +86,8 @@ export class SettingsStore {
       translationLangs: langs ?? defaults.translationLangs,
       theme: raw.theme === 'light' || raw.theme === 'dark' || raw.theme === 'system' ? raw.theme : defaults.theme,
       derivationView: raw.derivationView === 'tree' ? 'tree' : 'list',
-      browseMode: raw.browseMode === 'prefix' || raw.browseMode === 'suffix' ? raw.browseMode : 'root',
+      // 'prefix' and 'suffix' were the separate affix modes before the two ways in replaced them.
+      browseMode: raw.browseMode === 'words' || raw.browseMode === 'prefix' || raw.browseMode === 'suffix' ? 'words' : 'root',
       onboarded: raw.onboarded === true,
     };
   }

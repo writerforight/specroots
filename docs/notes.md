@@ -3,6 +3,25 @@
 Her turda güncellenir: optimizasyon, SPEC ile tutarsızlıklar, issue durumu, şüpheli veri, açık sorular.
 Bağlayıcı kararlar burada değil `SPEC.md`'dedir; buradaki bir not karar olunca SPEC'e taşınır.
 
+## 2026-11-06
+
+### D4 düzeltmesi: iki giriş yolu (SPEC karar 15)
+- Kullanıcı: son spec değişikliği (D4, kök / ön ek / son ek modları) yanlış kavranmış. İstenen: uygulamanın
+  başında seçenekler listelensin (kök yolu mu, yoksa sadece yeni kelime mi öğrenmek istiyor); kelimeler
+  liste olarak değil, önce başlıklar listelensin, kullanıcı istediklerini seçsin, sonra o başlıkları
+  içeren kelimeleri görsün.
+- Kullanıcı soru penceresini kapattığı için şu yorumlar uygulandı; değiştirmesi kolay:
+  - "Başlıklar" = ön ekler, son ekler ve başka kelimelerden gelen parçalar (kökler Kök yolu'nda kalıyor).
+    Kökler de başlık olarak istenirse TitlePickerView'a bir bölüm daha eklenir.
+  - Birden çok başlık: birleşim (en az birini içeren kelimeler), başlık başlık bölümlü. Kesişim
+    (re- VE -ion: reaction, reflection) istenirse SelectedWordsView'da tek bölüm olur.
+  - Kelimeler sağda kısa satır (parçalar, çeviri, kök); tam kart (anlam, cümleler) kelimeye dokununca
+    kökünde açılıyor.
+- Ayarlarda kayıtlı eski `prefix` / `suffix` modu `words`'e dönüşüyor; eski `#/affix/<ek>` bağlantıları
+  tek başlık seçili açılıyor.
+- Birden çok başlık seçilince her birinin kök dosyaları yükleniyor (2026-10-19'da `re-` 29, `-ion` 29 kök);
+  D4'teki yükleme notu geçerli, D3 (PWA) önbelleği çözecek.
+
 ## 2026-10-31
 
 ### Yeni kök: trib (kullanıcı isteği, 56. kök)

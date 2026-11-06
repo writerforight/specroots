@@ -33,7 +33,8 @@ spec / spect  "to look"
 - **Translations**: Turkish, German, French, Italian and Spanish; pick any of them on your first visit
 - **Example sentences**: two short sentences per word, the word highlighted, with translations
 - **Pronunciation**: words and sentences read aloud by your browser's own voices
-- **Browse by prefix or suffix**: pick *re-* or *-ion* and see every word built with it, root by root
+- **Two ways in**: follow the **root route** (root → word family), or **learn words**: tick titles such as
+  *re-*, *-ion* or *-able* and see only the words that contain them
 - **Search**: type a root or a word (`inspection`) and jump straight to it
 - **Six interface languages**, light and dark theme, works on phone and desktop
 
