@@ -1017,6 +1017,39 @@
     ]
   },
   {
+    "id": "grat",
+    "forms": [
+      "grat",
+      "grate",
+      "gratu",
+      "grace",
+      "grac"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "pleasing, thankful (gratia: favour, thanks)",
+      "tr": "hoş, minnettar (gratia: lütuf, teşekkür)",
+      "de": "angenehm, dankbar (gratia: Gunst, Dank)",
+      "fr": "agréable, reconnaissant (gratia : faveur, merci)",
+      "it": "gradito, grato (gratia: favore, grazie)",
+      "es": "grato, agradecido (gratia: favor, gracias)"
+    },
+    "words": [
+      "grateful",
+      "ungrateful",
+      "gratitude",
+      "gratify",
+      "gratification",
+      "congratulate",
+      "gratuity",
+      "gratuitous",
+      "grace",
+      "graceful",
+      "disgrace",
+      "gracious"
+    ]
+  },
+  {
     "id": "ject",
     "forms": [
       "ject"
@@ -1204,6 +1237,32 @@
       "neurology",
       "anthropology",
       "eulogy"
+    ]
+  },
+  {
+    "id": "magn",
+    "forms": [
+      "magn",
+      "major"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "great, big",
+      "tr": "büyük",
+      "de": "groß",
+      "fr": "grand",
+      "it": "grande",
+      "es": "grande"
+    },
+    "words": [
+      "magnify",
+      "magnificent",
+      "magnificence",
+      "magnitude",
+      "magnate",
+      "magnanimous",
+      "major",
+      "majority"
     ]
   },
   {

@@ -3421,5 +3421,28 @@
       "it": "stato, qualità (latino -itudo; forma un nome)",
       "es": "estado, cualidad (latín -itudo; forma un sustantivo)"
     }
+  },
+  "-ul": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "verb-forming (Latin -ulari)",
+      "tr": "fiil yapan (Latince -ulari)",
+      "de": "verbbildend (lateinisch -ulari)",
+      "fr": "formant de verbe (latin -ulari)",
+      "it": "formante verbale (latino -ulari)",
+      "es": "formante verbal (latín -ulari)"
+    }
+  },
+  "-anim": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "mind, soul (Latin animus)",
+      "tr": "akıl, ruh (Latince animus)",
+      "de": "Geist, Seele (lateinisch animus)",
+      "fr": "esprit, âme (latin animus)",
+      "it": "animo (latino animus)",
+      "es": "ánimo, alma (latín animus)"
+    },
+    "combining": true
   }
 }

@@ -1,0 +1,301 @@
+{
+  "id": "magn",
+  "forms": [
+    "magn",
+    "major"
+  ],
+  "origin": "la",
+  "etymon": "magnus (maior: greater)",
+  "meaning": {
+    "en": "great, big",
+    "tr": "büyük",
+    "de": "groß",
+    "fr": "grand",
+    "it": "grande",
+    "es": "grande"
+  },
+  "words": [
+    {
+      "id": "magnify",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "magn",
+        "-ify"
+      ],
+      "gloss": {
+        "en": "to make something look bigger",
+        "tr": "büyütmek",
+        "de": "vergrößern",
+        "fr": "grossir, agrandir",
+        "it": "ingrandire",
+        "es": "ampliar, aumentar"
+      },
+      "sentences": [
+        {
+          "en": "This lens [magnifies] ten times.",
+          "tr": "Bu mercek on kat büyütüyor.",
+          "de": "Diese Linse vergrößert zehnfach.",
+          "fr": "Cette lentille grossit dix fois.",
+          "it": "Questa lente ingrandisce dieci volte.",
+          "es": "Esta lente aumenta diez veces."
+        },
+        {
+          "en": "Don't [magnify] small problems.",
+          "tr": "Küçük sorunları büyütme.",
+          "de": "Bausch kleine Probleme nicht auf.",
+          "fr": "N'exagère pas les petits problèmes.",
+          "it": "Non ingrandire i piccoli problemi.",
+          "es": "No exageres los pequeños problemas."
+        }
+      ]
+    },
+    {
+      "id": "magnificent",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "magn",
+        "-ific",
+        "-ent"
+      ],
+      "gloss": {
+        "en": "very beautiful and impressive; literally: doing great things",
+        "tr": "muhteşem, görkemli",
+        "de": "großartig, prächtig",
+        "fr": "magnifique",
+        "it": "magnifico",
+        "es": "magnífico"
+      },
+      "sentences": [
+        {
+          "en": "The view from the tower is [magnificent].",
+          "tr": "Kuleden manzara muhteşem.",
+          "de": "Die Aussicht vom Turm ist großartig.",
+          "fr": "La vue depuis la tour est magnifique.",
+          "it": "La vista dalla torre è magnifica.",
+          "es": "La vista desde la torre es magnífica."
+        },
+        {
+          "en": "Suleiman the [Magnificent] ruled for 46 years.",
+          "tr": "Muhteşem Süleyman 46 yıl hüküm sürdü.",
+          "de": "Süleyman der Prächtige regierte 46 Jahre.",
+          "fr": "Soliman le Magnifique a régné 46 ans.",
+          "it": "Solimano il Magnifico regnò per 46 anni.",
+          "es": "Solimán el Magnífico reinó 46 años."
+        }
+      ]
+    },
+    {
+      "id": "magnificence",
+      "pos": "noun",
+      "parent": "magnificent",
+      "parts": [
+        "magn",
+        "-ific",
+        "-ence"
+      ],
+      "gloss": {
+        "en": "great beauty and grandness",
+        "tr": "ihtişam, görkem",
+        "de": "die Pracht",
+        "fr": "la magnificence, la splendeur",
+        "it": "la magnificenza",
+        "es": "la magnificencia"
+      },
+      "sentences": [
+        {
+          "en": "We admired the [magnificence] of the palace.",
+          "tr": "Sarayın ihtişamına hayran kaldık.",
+          "de": "Wir bewunderten die Pracht des Palastes.",
+          "fr": "Nous avons admiré la splendeur du palais.",
+          "it": "Abbiamo ammirato la magnificenza del palazzo.",
+          "es": "Admiramos la magnificencia del palacio."
+        },
+        {
+          "en": "The [magnificence] of the mountains silenced us.",
+          "tr": "Dağların görkemi bizi susturdu.",
+          "de": "Die Pracht der Berge ließ uns verstummen.",
+          "fr": "La splendeur des montagnes nous a fait taire.",
+          "it": "La magnificenza delle montagne ci ha zittiti.",
+          "es": "La magnificencia de las montañas nos dejó sin palabras."
+        }
+      ]
+    },
+    {
+      "id": "magnitude",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "magn",
+        "-itude"
+      ],
+      "gloss": {
+        "en": "great size or importance; the strength of an earthquake",
+        "tr": "büyüklük, önem; (deprem) şiddet",
+        "de": "das Ausmaß; die Stärke (Erdbeben)",
+        "fr": "l'ampleur; la magnitude",
+        "it": "la portata; la magnitudo",
+        "es": "la magnitud"
+      },
+      "sentences": [
+        {
+          "en": "Nobody understood the [magnitude] of the problem.",
+          "tr": "Kimse sorunun büyüklüğünü anlamadı.",
+          "de": "Niemand verstand das Ausmaß des Problems.",
+          "fr": "Personne n'a compris l'ampleur du problème.",
+          "it": "Nessuno ha capito la portata del problema.",
+          "es": "Nadie entendió la magnitud del problema."
+        },
+        {
+          "en": "The earthquake had a [magnitude] of 7.2.",
+          "tr": "Deprem 7,2 büyüklüğündeydi.",
+          "de": "Das Erdbeben hatte eine Stärke von 7,2.",
+          "fr": "Le séisme avait une magnitude de 7,2.",
+          "it": "Il terremoto aveva una magnitudo di 7,2.",
+          "es": "El terremoto tuvo una magnitud de 7,2."
+        }
+      ]
+    },
+    {
+      "id": "magnate",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "magn",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "a rich and powerful business person",
+        "tr": "patron, iş adamı (büyük, nüfuzlu)",
+        "de": "der Magnat",
+        "fr": "le magnat",
+        "it": "il magnate",
+        "es": "el magnate"
+      },
+      "sentences": [
+        {
+          "en": "He became a shipping [magnate].",
+          "tr": "Bir denizcilik patronu oldu.",
+          "de": "Er wurde ein Reedereimagnat.",
+          "fr": "Il est devenu un magnat du transport maritime.",
+          "it": "È diventato un magnate delle spedizioni.",
+          "es": "Se convirtió en un magnate naviero."
+        },
+        {
+          "en": "The media [magnate] bought another newspaper.",
+          "tr": "Medya patronu bir gazete daha satın aldı.",
+          "de": "Der Medienmagnat kaufte noch eine Zeitung.",
+          "fr": "Le magnat des médias a racheté un autre journal.",
+          "it": "Il magnate dei media ha comprato un altro giornale.",
+          "es": "El magnate de los medios compró otro periódico."
+        }
+      ]
+    },
+    {
+      "id": "magnanimous",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "magn",
+        "-anim",
+        "-ous"
+      ],
+      "gloss": {
+        "en": "generous and forgiving; literally: great-souled",
+        "tr": "yüce gönüllü, cömert",
+        "de": "großmütig",
+        "fr": "magnanime",
+        "it": "magnanimo",
+        "es": "magnánimo"
+      },
+      "sentences": [
+        {
+          "en": "She was [magnanimous] in victory.",
+          "tr": "Zaferde yüce gönüllüydü.",
+          "de": "Sie war großmütig im Sieg.",
+          "fr": "Elle a été magnanime dans la victoire.",
+          "it": "È stata magnanima nella vittoria.",
+          "es": "Fue magnánima en la victoria."
+        },
+        {
+          "en": "It was a [magnanimous] gesture to forgive him.",
+          "tr": "Onu affetmek yüce gönüllü bir davranıştı.",
+          "de": "Ihm zu verzeihen war eine großmütige Geste.",
+          "fr": "Lui pardonner était un geste magnanime.",
+          "it": "Perdonarlo è stato un gesto magnanimo.",
+          "es": "Perdonarlo fue un gesto magnánimo."
+        }
+      ]
+    },
+    {
+      "id": "major",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "major"
+      ],
+      "gloss": {
+        "en": "bigger or more important; from Latin maior, 'greater', the comparative of magnus",
+        "tr": "büyük, önemli, başlıca",
+        "de": "wichtig, Haupt-",
+        "fr": "majeur, important",
+        "it": "maggiore, importante",
+        "es": "mayor, importante"
+      },
+      "sentences": [
+        {
+          "en": "Traffic is a [major] problem here.",
+          "tr": "Trafik burada büyük bir sorun.",
+          "de": "Verkehr ist hier ein großes Problem.",
+          "fr": "La circulation est un problème majeur ici.",
+          "it": "Il traffico qui è un problema importante.",
+          "es": "El tráfico es un problema importante aquí."
+        },
+        {
+          "en": "She plays a [major] role in the team.",
+          "tr": "Takımda önemli bir rol oynuyor.",
+          "de": "Sie spielt eine wichtige Rolle im Team.",
+          "fr": "Elle joue un rôle majeur dans l'équipe.",
+          "it": "Ha un ruolo importante nella squadra.",
+          "es": "Tiene un papel importante en el equipo."
+        }
+      ]
+    },
+    {
+      "id": "majority",
+      "pos": "noun",
+      "parent": "major",
+      "parts": [
+        "major",
+        "-ity"
+      ],
+      "gloss": {
+        "en": "the larger part; more than half",
+        "tr": "çoğunluk",
+        "de": "die Mehrheit",
+        "fr": "la majorité",
+        "it": "la maggioranza",
+        "es": "la mayoría"
+      },
+      "sentences": [
+        {
+          "en": "The [majority] of students passed the exam.",
+          "tr": "Öğrencilerin çoğunluğu sınavı geçti.",
+          "de": "Die Mehrheit der Studenten hat die Prüfung bestanden.",
+          "fr": "La majorité des étudiants a réussi l'examen.",
+          "it": "La maggioranza degli studenti ha superato l'esame.",
+          "es": "La mayoría de los estudiantes aprobó el examen."
+        },
+        {
+          "en": "The party won a clear [majority].",
+          "tr": "Parti açık bir çoğunluk kazandı.",
+          "de": "Die Partei gewann eine klare Mehrheit.",
+          "fr": "Le parti a remporté une nette majorité.",
+          "it": "Il partito ha ottenuto una chiara maggioranza.",
+          "es": "El partido obtuvo una clara mayoría."
+        }
+      ]
+    }
+  ]
+}

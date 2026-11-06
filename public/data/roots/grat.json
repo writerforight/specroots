@@ -1,0 +1,446 @@
+{
+  "id": "grat",
+  "forms": [
+    "grat",
+    "grate",
+    "gratu",
+    "grace",
+    "grac"
+  ],
+  "origin": "la",
+  "etymon": "gratus / gratia",
+  "meaning": {
+    "en": "pleasing, thankful (gratia: favour, thanks)",
+    "tr": "hoş, minnettar (gratia: lütuf, teşekkür)",
+    "de": "angenehm, dankbar (gratia: Gunst, Dank)",
+    "fr": "agréable, reconnaissant (gratia : faveur, merci)",
+    "it": "gradito, grato (gratia: favore, grazie)",
+    "es": "grato, agradecido (gratia: favor, gracias)"
+  },
+  "words": [
+    {
+      "id": "grateful",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "grate",
+        "-ful"
+      ],
+      "gloss": {
+        "en": "feeling or showing thanks",
+        "tr": "minnettar, müteşekkir",
+        "de": "dankbar",
+        "fr": "reconnaissant",
+        "it": "grato, riconoscente",
+        "es": "agradecido"
+      },
+      "sentences": [
+        {
+          "en": "I'm very [grateful] for your help.",
+          "tr": "Yardımın için çok minnettarım.",
+          "de": "Ich bin dir sehr dankbar für deine Hilfe.",
+          "fr": "Je te suis très reconnaissant de ton aide.",
+          "it": "Ti sono molto grato per il tuo aiuto.",
+          "es": "Te estoy muy agradecido por tu ayuda."
+        },
+        {
+          "en": "She was [grateful] to be home again.",
+          "tr": "Yeniden evde olduğuna şükrediyordu.",
+          "de": "Sie war dankbar, wieder zu Hause zu sein.",
+          "fr": "Elle était reconnaissante d'être de retour chez elle.",
+          "it": "Era grata di essere di nuovo a casa.",
+          "es": "Estaba agradecida de volver a casa."
+        }
+      ]
+    },
+    {
+      "id": "ungrateful",
+      "pos": "adjective",
+      "parent": "grateful",
+      "parts": [
+        "un-",
+        "grate",
+        "-ful"
+      ],
+      "gloss": {
+        "en": "not showing thanks",
+        "tr": "nankör",
+        "de": "undankbar",
+        "fr": "ingrat",
+        "it": "ingrato",
+        "es": "desagradecido"
+      },
+      "sentences": [
+        {
+          "en": "Don't be [ungrateful], he tried his best.",
+          "tr": "Nankörlük etme, elinden geleni yaptı.",
+          "de": "Sei nicht undankbar, er hat sein Bestes gegeben.",
+          "fr": "Ne sois pas ingrat, il a fait de son mieux.",
+          "it": "Non essere ingrato, ha fatto del suo meglio.",
+          "es": "No seas desagradecido, hizo lo que pudo."
+        },
+        {
+          "en": "It was an [ungrateful] thing to say.",
+          "tr": "Söylenecek nankörce bir şeydi.",
+          "de": "Das war eine undankbare Bemerkung.",
+          "fr": "C'était une remarque ingrate.",
+          "it": "È stata una frase ingrata.",
+          "es": "Fue un comentario desagradecido."
+        }
+      ]
+    },
+    {
+      "id": "gratitude",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "grat",
+        "-itude"
+      ],
+      "gloss": {
+        "en": "the feeling of being thankful",
+        "tr": "minnettarlık, şükran",
+        "de": "die Dankbarkeit",
+        "fr": "la gratitude, la reconnaissance",
+        "it": "la gratitudine",
+        "es": "la gratitud"
+      },
+      "sentences": [
+        {
+          "en": "We sent flowers to show our [gratitude].",
+          "tr": "Minnettarlığımızı göstermek için çiçek gönderdik.",
+          "de": "Wir schickten Blumen als Zeichen unserer Dankbarkeit.",
+          "fr": "Nous avons envoyé des fleurs pour montrer notre gratitude.",
+          "it": "Abbiamo mandato fiori per mostrare la nostra gratitudine.",
+          "es": "Enviamos flores para mostrar nuestra gratitud."
+        },
+        {
+          "en": "She smiled with [gratitude].",
+          "tr": "Minnetle gülümsedi.",
+          "de": "Sie lächelte dankbar.",
+          "fr": "Elle a souri avec reconnaissance.",
+          "it": "Ha sorriso con gratitudine.",
+          "es": "Sonrió con gratitud."
+        }
+      ]
+    },
+    {
+      "id": "gratify",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "grat",
+        "-ify"
+      ],
+      "gloss": {
+        "en": "to please; to satisfy a wish",
+        "tr": "memnun etmek, tatmin etmek",
+        "de": "erfreuen, befriedigen",
+        "fr": "faire plaisir à, satisfaire",
+        "it": "gratificare, soddisfare",
+        "es": "complacer, satisfacer"
+      },
+      "sentences": [
+        {
+          "en": "It [gratifies] me to see you so happy.",
+          "tr": "Seni bu kadar mutlu görmek beni memnun ediyor.",
+          "de": "Es freut mich, dich so glücklich zu sehen.",
+          "fr": "Cela me fait plaisir de te voir si heureux.",
+          "it": "Mi gratifica vederti così felice.",
+          "es": "Me complace verte tan feliz."
+        },
+        {
+          "en": "He was [gratified] by the good reviews.",
+          "tr": "İyi eleştirilerden memnun oldu.",
+          "de": "Er freute sich über die guten Kritiken.",
+          "fr": "Il a été satisfait des bonnes critiques.",
+          "it": "È stato gratificato dalle buone recensioni.",
+          "es": "Se sintió satisfecho con las buenas críticas."
+        }
+      ]
+    },
+    {
+      "id": "gratification",
+      "pos": "noun",
+      "parent": "gratify",
+      "parts": [
+        "grat",
+        "-ific",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "pleasure from getting what you want",
+        "tr": "haz, tatmin",
+        "de": "die Befriedigung",
+        "fr": "la satisfaction",
+        "it": "la gratificazione",
+        "es": "la gratificación"
+      },
+      "sentences": [
+        {
+          "en": "Social media gives instant [gratification].",
+          "tr": "Sosyal medya anlık haz veriyor.",
+          "de": "Soziale Medien bieten sofortige Befriedigung.",
+          "fr": "Les réseaux sociaux offrent une satisfaction immédiate.",
+          "it": "I social danno gratificazione immediata.",
+          "es": "Las redes sociales dan gratificación inmediata."
+        },
+        {
+          "en": "Learning a language needs patience, not quick [gratification].",
+          "tr": "Dil öğrenmek hızlı haz değil sabır ister.",
+          "de": "Sprachenlernen braucht Geduld, keine schnelle Belohnung.",
+          "fr": "Apprendre une langue demande de la patience, pas une satisfaction rapide.",
+          "it": "Imparare una lingua richiede pazienza, non gratificazione rapida.",
+          "es": "Aprender un idioma exige paciencia, no gratificación rápida."
+        }
+      ]
+    },
+    {
+      "id": "congratulate",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "con-",
+        "grat",
+        "-ul",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "to tell someone you are happy about their success",
+        "tr": "tebrik etmek, kutlamak",
+        "de": "gratulieren",
+        "fr": "féliciter",
+        "it": "congratularsi con, fare i complimenti",
+        "es": "felicitar"
+      },
+      "sentences": [
+        {
+          "en": "I [congratulated] her on her new job.",
+          "tr": "Yeni işi için onu tebrik ettim.",
+          "de": "Ich habe ihr zur neuen Stelle gratuliert.",
+          "fr": "Je l'ai félicitée pour son nouveau travail.",
+          "it": "Le ho fatto i complimenti per il nuovo lavoro.",
+          "es": "La felicité por su nuevo trabajo."
+        },
+        {
+          "en": "The coach [congratulated] the whole team.",
+          "tr": "Antrenör bütün takımı kutladı.",
+          "de": "Der Trainer gratulierte der ganzen Mannschaft.",
+          "fr": "L'entraîneur a félicité toute l'équipe.",
+          "it": "L'allenatore si è congratulato con tutta la squadra.",
+          "es": "El entrenador felicitó a todo el equipo."
+        }
+      ]
+    },
+    {
+      "id": "gratuity",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "gratu",
+        "-ity"
+      ],
+      "gloss": {
+        "en": "a tip, money given for good service (formal)",
+        "tr": "bahşiş",
+        "de": "das Trinkgeld",
+        "fr": "le pourboire",
+        "it": "la mancia",
+        "es": "la propina"
+      },
+      "sentences": [
+        {
+          "en": "A [gratuity] is included in the bill.",
+          "tr": "Hesaba bahşiş dahil.",
+          "de": "Das Trinkgeld ist in der Rechnung enthalten.",
+          "fr": "Le pourboire est compris dans l'addition.",
+          "it": "La mancia è inclusa nel conto.",
+          "es": "La propina está incluida en la cuenta."
+        },
+        {
+          "en": "Staff may not accept a [gratuity].",
+          "tr": "Personel bahşiş kabul edemez.",
+          "de": "Das Personal darf kein Trinkgeld annehmen.",
+          "fr": "Le personnel ne peut pas accepter de pourboire.",
+          "it": "Il personale non può accettare mance.",
+          "es": "El personal no puede aceptar propinas."
+        }
+      ]
+    },
+    {
+      "id": "gratuitous",
+      "pos": "adjective",
+      "parent": "gratuity",
+      "parts": [
+        "gratu",
+        "-it",
+        "-ous"
+      ],
+      "gloss": {
+        "en": "done for no good reason; unnecessary",
+        "tr": "gereksiz, sebepsiz",
+        "de": "unnötig, grundlos",
+        "fr": "gratuit, injustifié",
+        "it": "gratuito, ingiustificato",
+        "es": "gratuito, innecesario"
+      },
+      "sentences": [
+        {
+          "en": "The film has a lot of [gratuitous] violence.",
+          "tr": "Filmde çok fazla gereksiz şiddet var.",
+          "de": "Der Film hat viel unnötige Gewalt.",
+          "fr": "Le film contient beaucoup de violence gratuite.",
+          "it": "Il film ha molta violenza gratuita.",
+          "es": "La película tiene mucha violencia gratuita."
+        },
+        {
+          "en": "That was a [gratuitous] insult.",
+          "tr": "Bu sebepsiz bir hakaretti.",
+          "de": "Das war eine grundlose Beleidigung.",
+          "fr": "C'était une insulte gratuite.",
+          "it": "È stato un insulto gratuito.",
+          "es": "Fue un insulto gratuito."
+        }
+      ]
+    },
+    {
+      "id": "grace",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "grace"
+      ],
+      "gloss": {
+        "en": "beauty and ease of movement; kindness; from Latin gratia",
+        "tr": "zarafet; lütuf",
+        "de": "die Anmut; die Gnade",
+        "fr": "la grâce",
+        "it": "la grazia",
+        "es": "la gracia"
+      },
+      "sentences": [
+        {
+          "en": "She danced with great [grace].",
+          "tr": "Büyük bir zarafetle dans etti.",
+          "de": "Sie tanzte mit großer Anmut.",
+          "fr": "Elle a dansé avec beaucoup de grâce.",
+          "it": "Ha ballato con grande grazia.",
+          "es": "Bailó con mucha gracia."
+        },
+        {
+          "en": "We have a week's [grace] to pay.",
+          "tr": "Ödemek için bir haftalık süremiz var.",
+          "de": "Wir haben eine Woche Aufschub zum Zahlen.",
+          "fr": "Nous avons un délai de grâce d'une semaine pour payer.",
+          "it": "Abbiamo una settimana di tolleranza per pagare.",
+          "es": "Tenemos una semana de gracia para pagar."
+        }
+      ]
+    },
+    {
+      "id": "graceful",
+      "pos": "adjective",
+      "parent": "grace",
+      "parts": [
+        "grace",
+        "-ful"
+      ],
+      "gloss": {
+        "en": "moving in a smooth, beautiful way",
+        "tr": "zarif",
+        "de": "anmutig",
+        "fr": "gracieux",
+        "it": "aggraziato",
+        "es": "elegante, grácil"
+      },
+      "sentences": [
+        {
+          "en": "Swans are [graceful] birds.",
+          "tr": "Kuğular zarif kuşlardır.",
+          "de": "Schwäne sind anmutige Vögel.",
+          "fr": "Les cygnes sont des oiseaux gracieux.",
+          "it": "I cigni sono uccelli aggraziati.",
+          "es": "Los cisnes son aves elegantes."
+        },
+        {
+          "en": "He made a [graceful] exit from politics.",
+          "tr": "Siyasetten zarif bir şekilde çekildi.",
+          "de": "Er zog sich elegant aus der Politik zurück.",
+          "fr": "Il a quitté la politique avec élégance.",
+          "it": "È uscito dalla politica con eleganza.",
+          "es": "Se retiró de la política con elegancia."
+        }
+      ]
+    },
+    {
+      "id": "disgrace",
+      "pos": "noun",
+      "parent": "grace",
+      "parts": [
+        "dis-",
+        "grace"
+      ],
+      "gloss": {
+        "en": "loss of respect; shame",
+        "tr": "rezalet, yüz karası",
+        "de": "die Schande",
+        "fr": "la honte, la disgrâce",
+        "it": "la vergogna, il disonore",
+        "es": "la vergüenza, la deshonra"
+      },
+      "sentences": [
+        {
+          "en": "The state of this road is a [disgrace].",
+          "tr": "Bu yolun hali tam bir rezalet.",
+          "de": "Der Zustand dieser Straße ist eine Schande.",
+          "fr": "L'état de cette route est une honte.",
+          "it": "Lo stato di questa strada è una vergogna.",
+          "es": "El estado de esta carretera es una vergüenza."
+        },
+        {
+          "en": "He left the club in [disgrace].",
+          "tr": "Kulüpten rezil olarak ayrıldı.",
+          "de": "Er verließ den Verein in Schande.",
+          "fr": "Il a quitté le club en disgrâce.",
+          "it": "Ha lasciato il club in disgrazia.",
+          "es": "Dejó el club deshonrado."
+        }
+      ]
+    },
+    {
+      "id": "gracious",
+      "pos": "adjective",
+      "parent": "grace",
+      "parts": [
+        "grac",
+        "-ious"
+      ],
+      "gloss": {
+        "en": "kind, polite and generous",
+        "tr": "nazik, cömert, lütufkâr",
+        "de": "liebenswürdig, gnädig",
+        "fr": "aimable, courtois",
+        "it": "cortese, gentile",
+        "es": "amable, cortés"
+      },
+      "sentences": [
+        {
+          "en": "She was [gracious] even in defeat.",
+          "tr": "Yenilgide bile nazikti.",
+          "de": "Sie war sogar in der Niederlage liebenswürdig.",
+          "fr": "Elle est restée courtoise même dans la défaite.",
+          "it": "È stata cortese anche nella sconfitta.",
+          "es": "Fue cortés incluso en la derrota."
+        },
+        {
+          "en": "Thank you for your [gracious] invitation.",
+          "tr": "Nazik davetiniz için teşekkür ederim.",
+          "de": "Danke für Ihre freundliche Einladung.",
+          "fr": "Merci pour votre aimable invitation.",
+          "it": "Grazie per il vostro gentile invito.",
+          "es": "Gracias por su amable invitación."
+        }
+      ]
+    }
+  ]
+}
