@@ -1,0 +1,52 @@
+{
+  "id": "tomato",
+  "name": "tomato",
+  "names": {
+    "tr": "domates",
+    "de": "die Tomate",
+    "fr": "la tomate",
+    "it": "il pomodoro",
+    "es": "el tomate"
+  },
+  "definition": {
+    "en": "a soft red fruit eaten as a vegetable, raw or cooked",
+    "tr": "çiğ ya da pişmiş yenen, sebze gibi kullanılan yumuşak kırmızı meyve",
+    "de": "eine weiche rote Frucht, die man roh oder gekocht als Gemüse isst",
+    "fr": "un fruit rouge et tendre mangé comme légume, cru ou cuit",
+    "it": "un frutto rosso e morbido mangiato come verdura, crudo o cotto",
+    "es": "un fruto rojo y blando que se come como verdura, crudo o cocinado"
+  },
+  "breakdown": {},
+  "origin": "Spanish tomate ← Nahuatl (Aztec) tomatl",
+  "root": null,
+  "image": {
+    "file": "Bright red tomato and cross section02.jpg",
+    "wikidata": "Q20638126"
+  },
+  "sentences": [
+    {
+      "en": "Cut the [tomatoes] for the salad.",
+      "tr": "Salata için domatesleri doğra.",
+      "de": "Schneid die Tomaten für den Salat.",
+      "fr": "Coupe les tomates pour la salade.",
+      "it": "Taglia i pomodori per l'insalata.",
+      "es": "Corta los tomates para la ensalada."
+    },
+    {
+      "en": "This sauce is made from fresh [tomatoes].",
+      "tr": "Bu sos taze domatesten yapılıyor.",
+      "de": "Diese Soße ist aus frischen Tomaten.",
+      "fr": "Cette sauce est faite de tomates fraîches.",
+      "it": "Questo sugo è fatto con pomodori freschi.",
+      "es": "Esta salsa está hecha con tomates frescos."
+    },
+    {
+      "en": "He went as red as a [tomato].",
+      "tr": "Domates gibi kıpkırmızı oldu.",
+      "de": "Er wurde rot wie eine Tomate.",
+      "fr": "Il est devenu rouge comme une tomate.",
+      "it": "È diventato rosso come un pomodoro.",
+      "es": "Se puso rojo como un tomate."
+    }
+  ]
+}

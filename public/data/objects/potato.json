@@ -1,0 +1,52 @@
+{
+  "id": "potato",
+  "name": "potato",
+  "names": {
+    "tr": "patates",
+    "de": "die Kartoffel",
+    "fr": "la pomme de terre",
+    "it": "la patata",
+    "es": "la patata"
+  },
+  "definition": {
+    "en": "a round vegetable that grows under the ground, boiled, fried or baked",
+    "tr": "toprak altında yetişen, haşlanan, kızartılan ya da fırında pişirilen yuvarlak sebze",
+    "de": "eine runde Knolle, die unter der Erde wächst, gekocht, gebraten oder gebacken",
+    "fr": "un légume rond qui pousse sous la terre, bouilli, frit ou au four",
+    "it": "un tubero rotondo che cresce sotto terra, lesso, fritto o al forno",
+    "es": "un tubérculo redondo que crece bajo tierra, cocido, frito o al horno"
+  },
+  "breakdown": {},
+  "origin": "Spanish patata ← Taíno batata (German Kartoffel ← Italian tartufolo, truffle)",
+  "root": null,
+  "image": {
+    "file": "Patates.jpg",
+    "wikidata": "Q16587531"
+  },
+  "sentences": [
+    {
+      "en": "Peel the [potatoes] and boil them.",
+      "tr": "Patatesleri soy ve haşla.",
+      "de": "Schäl die Kartoffeln und koch sie.",
+      "fr": "Épluche les pommes de terre et fais-les bouillir.",
+      "it": "Sbuccia le patate e lessale.",
+      "es": "Pela las patatas y cuécelas."
+    },
+    {
+      "en": "I'd like fish with fried [potatoes].",
+      "tr": "Yanında kızarmış patatesle balık istiyorum.",
+      "de": "Ich hätte gern Fisch mit Bratkartoffeln.",
+      "fr": "Je voudrais du poisson avec des pommes de terre sautées.",
+      "it": "Vorrei del pesce con patate fritte.",
+      "es": "Quiero pescado con patatas fritas."
+    },
+    {
+      "en": "The new rule is a political hot [potato].",
+      "tr": "Yeni kural siyasi açıdan sıcak bir patates (herkesin kaçtığı bir konu).",
+      "de": "Die neue Regel ist ein politisch heißes Eisen.",
+      "fr": "La nouvelle règle est une patate chaude politique.",
+      "it": "La nuova regola è una patata bollente politica.",
+      "es": "La nueva norma es una patata caliente política."
+    }
+  ]
+}

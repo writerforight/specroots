@@ -1,0 +1,63 @@
+{
+  "id": "napkin",
+  "name": "napkin",
+  "names": {
+    "tr": "peçete",
+    "de": "die Serviette",
+    "fr": "la serviette (de table)",
+    "it": "il tovagliolo",
+    "es": "la servilleta"
+  },
+  "definition": {
+    "en": "a piece of cloth or paper for wiping your mouth and hands at meals",
+    "tr": "yemekte ağzını ve ellerini silmek için kumaş ya da kâğıt parçası",
+    "de": "ein Stück Stoff oder Papier, um sich beim Essen Mund und Hände abzuwischen",
+    "fr": "un morceau de tissu ou de papier pour s'essuyer la bouche et les mains à table",
+    "it": "un pezzo di stoffa o carta per pulirsi bocca e mani a tavola",
+    "es": "un trozo de tela o papel para limpiarse la boca y las manos al comer"
+  },
+  "breakdown": {
+    "en": [
+      {
+        "text": "nap",
+        "gloss": "cloth (French nappe ← Latin mappa)"
+      },
+      {
+        "text": "kin",
+        "gloss": "small"
+      }
+    ]
+  },
+  "origin": "Old French nappe (tablecloth) ← Latin mappa (cloth, also: map) + -kin (small)",
+  "root": null,
+  "image": {
+    "file": "Brede-LilleBrede-napkin.jpg",
+    "wikidata": "Q848532"
+  },
+  "sentences": [
+    {
+      "en": "Put a [napkin] next to each plate.",
+      "tr": "Her tabağın yanına bir peçete koy.",
+      "de": "Leg neben jeden Teller eine Serviette.",
+      "fr": "Mets une serviette à côté de chaque assiette.",
+      "it": "Metti un tovagliolo accanto a ogni piatto.",
+      "es": "Pon una servilleta junto a cada plato."
+    },
+    {
+      "en": "He wiped his mouth with a [napkin].",
+      "tr": "Ağzını peçeteyle sildi.",
+      "de": "Er wischte sich den Mund mit der Serviette ab.",
+      "fr": "Il s'est essuyé la bouche avec sa serviette.",
+      "it": "Si è pulito la bocca con il tovagliolo.",
+      "es": "Se limpió la boca con la servilleta."
+    },
+    {
+      "en": "She drew the plan on a paper [napkin].",
+      "tr": "Planı kâğıt bir peçeteye çizdi.",
+      "de": "Sie zeichnete den Plan auf eine Papierserviette.",
+      "fr": "Elle a dessiné le plan sur une serviette en papier.",
+      "it": "Ha disegnato il piano su un tovagliolo di carta.",
+      "es": "Dibujó el plan en una servilleta de papel."
+    }
+  ]
+}

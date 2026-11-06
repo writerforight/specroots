@@ -1,0 +1,74 @@
+{
+  "id": "freezer",
+  "name": "freezer",
+  "names": {
+    "tr": "derin dondurucu",
+    "de": "der Gefrierschrank",
+    "fr": "le congélateur",
+    "it": "il congelatore",
+    "es": "el congelador"
+  },
+  "definition": {
+    "en": "a very cold cupboard or drawer that keeps food frozen",
+    "tr": "yiyecekleri donmuş halde tutan çok soğuk dolap ya da çekmece",
+    "de": "ein sehr kalter Schrank oder ein Fach, in dem Essen gefroren bleibt",
+    "fr": "une armoire ou un tiroir très froid qui garde les aliments congelés",
+    "it": "un armadio o cassetto molto freddo che tiene il cibo congelato",
+    "es": "un armario o cajón muy frío que mantiene congelados los alimentos"
+  },
+  "breakdown": {
+    "en": [
+      {
+        "text": "freez",
+        "gloss": "freeze"
+      },
+      {
+        "text": "er",
+        "gloss": "thing that does",
+        "affix": "-er"
+      }
+    ],
+    "de": [
+      {
+        "text": "Gefrier",
+        "gloss": "freeze (gefrieren)"
+      },
+      {
+        "text": "schrank",
+        "gloss": "cupboard"
+      }
+    ]
+  },
+  "origin": "freeze (Old English frēosan) + -er",
+  "root": null,
+  "image": {
+    "file": "Congelatore.JPG",
+    "wikidata": "Q2487743"
+  },
+  "sentences": [
+    {
+      "en": "Put the ice cream in the [freezer].",
+      "tr": "Dondurmayı derin dondurucuya koy.",
+      "de": "Leg das Eis in den Gefrierschrank.",
+      "fr": "Mets la glace au congélateur.",
+      "it": "Metti il gelato nel congelatore.",
+      "es": "Mete el helado en el congelador."
+    },
+    {
+      "en": "Our [freezer] is full of frozen vegetables.",
+      "tr": "Dondurucumuz donmuş sebzeyle dolu.",
+      "de": "Unser Gefrierschrank ist voller Tiefkühlgemüse.",
+      "fr": "Notre congélateur est plein de légumes surgelés.",
+      "it": "Il nostro congelatore è pieno di verdure surgelate.",
+      "es": "Nuestro congelador está lleno de verduras congeladas."
+    },
+    {
+      "en": "It's like a [freezer] outside today!",
+      "tr": "Bugün dışarısı buz gibi!",
+      "de": "Draußen ist es heute eiskalt wie im Gefrierschrank!",
+      "fr": "Il fait un froid de canard dehors aujourd'hui !",
+      "it": "Fuori oggi sembra un congelatore!",
+      "es": "¡Hoy fuera parece un congelador!"
+    }
+  ]
+}

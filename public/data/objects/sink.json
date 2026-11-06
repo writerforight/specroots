@@ -1,0 +1,63 @@
+{
+  "id": "sink",
+  "name": "sink",
+  "names": {
+    "tr": "eviye",
+    "de": "das Spülbecken",
+    "fr": "l'évier",
+    "it": "il lavello",
+    "es": "el fregadero"
+  },
+  "definition": {
+    "en": "a basin with a tap in the kitchen, for washing dishes",
+    "tr": "bulaşık yıkamak için mutfaktaki musluklu tekne",
+    "de": "ein Becken mit Wasserhahn in der Küche zum Abwaschen",
+    "fr": "un bac avec un robinet dans la cuisine pour faire la vaisselle",
+    "it": "una vasca con rubinetto in cucina per lavare i piatti",
+    "es": "una pila con grifo en la cocina para fregar los platos"
+  },
+  "breakdown": {
+    "de": [
+      {
+        "text": "Spül",
+        "gloss": "rinse (spülen)"
+      },
+      {
+        "text": "becken",
+        "gloss": "basin"
+      }
+    ]
+  },
+  "origin": "Old English sincan (to sink, go down): the place where water goes down",
+  "root": null,
+  "image": {
+    "file": "Kitchen, Tableware, Rostov-on-Don, Russia.jpg",
+    "wikidata": "Q2425869"
+  },
+  "sentences": [
+    {
+      "en": "The dirty dishes are in the [sink].",
+      "tr": "Kirli bulaşıklar eviyede.",
+      "de": "Das schmutzige Geschirr steht im Spülbecken.",
+      "fr": "La vaisselle sale est dans l'évier.",
+      "it": "I piatti sporchi sono nel lavello.",
+      "es": "Los platos sucios están en el fregadero."
+    },
+    {
+      "en": "Wash your hands at the kitchen [sink].",
+      "tr": "Ellerini mutfak eviyesinde yıka.",
+      "de": "Wasch dir die Hände an der Spüle.",
+      "fr": "Lave-toi les mains à l'évier.",
+      "it": "Lavati le mani al lavello della cucina.",
+      "es": "Lávate las manos en el fregadero."
+    },
+    {
+      "en": "They packed everything but the kitchen [sink].",
+      "tr": "Yanlarına almadıkları şey kalmadı.",
+      "de": "Sie haben den halben Hausstand eingepackt.",
+      "fr": "Ils ont emporté toute la maison.",
+      "it": "Si sono portati dietro mezza casa.",
+      "es": "Se llevaron la casa a cuestas."
+    }
+  ]
+}

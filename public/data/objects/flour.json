@@ -1,0 +1,52 @@
+{
+  "id": "flour",
+  "name": "flour",
+  "names": {
+    "tr": "un",
+    "de": "das Mehl",
+    "fr": "la farine",
+    "it": "la farina",
+    "es": "la harina"
+  },
+  "definition": {
+    "en": "a white powder made by grinding grain, used for bread and cakes",
+    "tr": "tahıl öğütülerek yapılan, ekmek ve pastada kullanılan beyaz toz",
+    "de": "ein weißes Pulver aus gemahlenem Getreide für Brot und Kuchen",
+    "fr": "une poudre blanche obtenue en moulant le grain, pour le pain et les gâteaux",
+    "it": "una polvere bianca ottenuta macinando i cereali, per pane e dolci",
+    "es": "un polvo blanco hecho moliendo grano, para el pan y los pasteles"
+  },
+  "breakdown": {},
+  "origin": "the same word as flower: the finest part (of ground grain)",
+  "root": null,
+  "image": {
+    "file": "Flours.jpg",
+    "wikidata": "Q36465"
+  },
+  "sentences": [
+    {
+      "en": "Pancakes need [flour], eggs and milk.",
+      "tr": "Krep için un, yumurta ve süt gerekir.",
+      "de": "Für Pfannkuchen braucht man Mehl, Eier und Milch.",
+      "fr": "Pour les crêpes, il faut de la farine, des œufs et du lait.",
+      "it": "Per le crêpe servono farina, uova e latte.",
+      "es": "Para las tortitas hace falta harina, huevos y leche."
+    },
+    {
+      "en": "Her hands were white with [flour].",
+      "tr": "Elleri undan bembeyazdı.",
+      "de": "Ihre Hände waren weiß vom Mehl.",
+      "fr": "Ses mains étaient blanches de farine.",
+      "it": "Aveva le mani bianche di farina.",
+      "es": "Tenía las manos blancas de harina."
+    },
+    {
+      "en": "Mix the [flour] with a little water.",
+      "tr": "Unu biraz suyla karıştır.",
+      "de": "Misch das Mehl mit etwas Wasser.",
+      "fr": "Mélange la farine avec un peu d'eau.",
+      "it": "Mescola la farina con un po' d'acqua.",
+      "es": "Mezcla la harina con un poco de agua."
+    }
+  ]
+}

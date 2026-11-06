@@ -1,0 +1,52 @@
+{
+  "id": "bottle",
+  "name": "bottle",
+  "names": {
+    "tr": "şişe",
+    "de": "die Flasche",
+    "fr": "la bouteille",
+    "it": "la bottiglia",
+    "es": "la botella"
+  },
+  "definition": {
+    "en": "a container with a narrow neck for drinks and other liquids",
+    "tr": "içecekler ve başka sıvılar için dar boyunlu kap",
+    "de": "ein Behälter mit engem Hals für Getränke und andere Flüssigkeiten",
+    "fr": "un récipient à col étroit pour les boissons et autres liquides",
+    "it": "un contenitore dal collo stretto per bevande e altri liquidi",
+    "es": "un recipiente de cuello estrecho para bebidas y otros líquidos"
+  },
+  "breakdown": {},
+  "origin": "Old French bouteille ← Late Latin butticula (a small cask)",
+  "root": null,
+  "image": {
+    "file": "Bouteille nb.jpg",
+    "wikidata": "Q80228"
+  },
+  "sentences": [
+    {
+      "en": "Can you open this [bottle] of water?",
+      "tr": "Bu su şişesini açabilir misin?",
+      "de": "Kannst du diese Flasche Wasser aufmachen?",
+      "fr": "Tu peux ouvrir cette bouteille d'eau ?",
+      "it": "Puoi aprire questa bottiglia d'acqua?",
+      "es": "¿Puedes abrir esta botella de agua?"
+    },
+    {
+      "en": "Recycle the glass [bottles], please.",
+      "tr": "Cam şişeleri lütfen geri dönüşüme at.",
+      "de": "Bitte bring die Glasflaschen zum Recycling.",
+      "fr": "Recycle les bouteilles en verre, s'il te plaît.",
+      "it": "Ricicla le bottiglie di vetro, per favore.",
+      "es": "Recicla las botellas de vidrio, por favor."
+    },
+    {
+      "en": "The baby drinks milk from a [bottle].",
+      "tr": "Bebek biberonla süt içiyor.",
+      "de": "Das Baby trinkt Milch aus der Flasche.",
+      "fr": "Le bébé boit du lait au biberon.",
+      "it": "Il bambino beve il latte dal biberon.",
+      "es": "El bebé toma leche en biberón."
+    }
+  ]
+}

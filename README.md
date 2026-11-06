@@ -41,7 +41,7 @@ spec / spect  "to look"
 
 ## Roots so far
 
-69 roots and 1571 words, each with two example sentences. Plus **50 everyday objects** in word lists (chalk, colander, rolling pin…) with photos and their names in all six languages.
+69 roots and 1571 words, each with two example sentences. Plus **60 everyday objects** in word lists (chalk, colander, rolling pin…) with photos and their names in all six languages.
 
 - **Latin (59):** `act` · `aud` · `cad` · `cap` · `ced` · `cid` · `clud` · `corp` · `cred` · `cur` · `dict` · `duc` · `fac` · `fer` · `fin` · `flect` · `form` · `grad` · `ject` · `junct` · `leg` · `loc` · `mand` · `manu` · `mit` · `mov` · `nect` · `nov` · `nunci` · `ped` · `pel` · `pend` · `plic` · `port` · `pos` · `prehend` · `press` · `rupt` · `scend` · `sci` · `scrib` · `sent` · `sequ` · `sist` · `solv` · `spec` · `spir` · `struct` · `sum` · `tempt` · `ten` · `tend` · `tract` · `trib` · `ven` · `vert` · `vid` · `vinc` · `voc`
 - **Greek (10):** `bio` · `chron` · `graph` · `log` · `metr` · `morph` · `path` · `phon` · `photo` · `scop`

@@ -1,0 +1,52 @@
+{
+  "id": "tray",
+  "name": "tray",
+  "names": {
+    "tr": "tepsi",
+    "de": "das Tablett",
+    "fr": "le plateau",
+    "it": "il vassoio",
+    "es": "la bandeja"
+  },
+  "definition": {
+    "en": "a flat board with low edges for carrying plates and cups",
+    "tr": "tabak ve bardak taşımak için kenarları alçak düz levha",
+    "de": "eine flache Platte mit niedrigem Rand zum Tragen von Tellern und Tassen",
+    "fr": "une planche plate à rebords bas pour porter assiettes et tasses",
+    "it": "un piano piatto con bordi bassi per portare piatti e tazze",
+    "es": "una superficie plana con bordes bajos para llevar platos y tazas"
+  },
+  "breakdown": {},
+  "origin": "Old English trīg (a wooden board)",
+  "root": null,
+  "image": {
+    "file": "Tray.agr.jpg",
+    "wikidata": "Q613972"
+  },
+  "sentences": [
+    {
+      "en": "She brought the tea on a [tray].",
+      "tr": "Çayı tepsiyle getirdi.",
+      "de": "Sie brachte den Tee auf einem Tablett.",
+      "fr": "Elle a apporté le thé sur un plateau.",
+      "it": "Ha portato il tè su un vassoio.",
+      "es": "Trajo el té en una bandeja."
+    },
+    {
+      "en": "Put the cookies on a baking [tray].",
+      "tr": "Kurabiyeleri fırın tepsisine diz.",
+      "de": "Leg die Kekse auf ein Backblech.",
+      "fr": "Mets les biscuits sur une plaque de cuisson.",
+      "it": "Metti i biscotti su una teglia.",
+      "es": "Pon las galletas en una bandeja de horno."
+    },
+    {
+      "en": "Return your [tray] after eating, please.",
+      "tr": "Yemekten sonra tepsini lütfen geri bırak.",
+      "de": "Bitte bring dein Tablett nach dem Essen zurück.",
+      "fr": "Rapporte ton plateau après le repas, s'il te plaît.",
+      "it": "Riporta il vassoio dopo aver mangiato, per favore.",
+      "es": "Devuelve la bandeja después de comer, por favor."
+    }
+  ]
+}

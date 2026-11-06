@@ -1,5 +1,5 @@
 [
   {"id":"bathroom","title":{"en":"Bathroom","tr":"Banyo","de":"Badezimmer","fr":"Salle de bain","it":"Bagno","es":"Baño"},"count":10},
   {"id":"classroom","title":{"en":"Classroom","tr":"Sınıf","de":"Klassenzimmer","fr":"Salle de classe","it":"Aula","es":"Aula"},"count":10},
-  {"id":"kitchen","title":{"en":"Kitchen","tr":"Mutfak","de":"Küche","fr":"Cuisine","it":"Cucina","es":"Cocina"},"count":31}
+  {"id":"kitchen","title":{"en":"Kitchen","tr":"Mutfak","de":"Küche","fr":"Cuisine","it":"Cucina","es":"Cocina"},"count":41}
 ]

@@ -1,0 +1,52 @@
+{
+  "id": "milk",
+  "name": "milk",
+  "names": {
+    "tr": "süt",
+    "de": "die Milch",
+    "fr": "le lait",
+    "it": "il latte",
+    "es": "la leche"
+  },
+  "definition": {
+    "en": "the white liquid that cows and other animals make for their young",
+    "tr": "ineklerin ve başka hayvanların yavruları için ürettiği beyaz sıvı",
+    "de": "die weiße Flüssigkeit, die Kühe und andere Tiere für ihre Jungen bilden",
+    "fr": "le liquide blanc que les vaches et d'autres animaux produisent pour leurs petits",
+    "it": "il liquido bianco che le mucche e altri animali producono per i piccoli",
+    "es": "el líquido blanco que las vacas y otros animales producen para sus crías"
+  },
+  "breakdown": {},
+  "origin": "Old English meolc (compare German Milch)",
+  "root": null,
+  "image": {
+    "file": "Glass of Milk (33657535532).jpg",
+    "wikidata": "Q8495"
+  },
+  "sentences": [
+    {
+      "en": "Do you take [milk] in your coffee?",
+      "tr": "Kahvene süt koyar mısın?",
+      "de": "Trinkst du deinen Kaffee mit Milch?",
+      "fr": "Tu prends du lait dans ton café ?",
+      "it": "Prendi il latte nel caffè?",
+      "es": "¿Tomas el café con leche?"
+    },
+    {
+      "en": "We've run out of [milk].",
+      "tr": "Sütümüz bitti.",
+      "de": "Wir haben keine Milch mehr.",
+      "fr": "Nous n'avons plus de lait.",
+      "it": "Abbiamo finito il latte.",
+      "es": "Se nos ha acabado la leche."
+    },
+    {
+      "en": "It's no use crying over spilt [milk].",
+      "tr": "Olan oldu, artık üzülmenin faydası yok.",
+      "de": "Was passiert ist, ist passiert.",
+      "fr": "Inutile de pleurer sur le lait renversé.",
+      "it": "È inutile piangere sul latte versato.",
+      "es": "A lo hecho, pecho."
+    }
+  ]
+}

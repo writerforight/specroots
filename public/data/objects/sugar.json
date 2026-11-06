@@ -1,0 +1,52 @@
+{
+  "id": "sugar",
+  "name": "sugar",
+  "names": {
+    "tr": "şeker",
+    "de": "der Zucker",
+    "fr": "le sucre",
+    "it": "lo zucchero",
+    "es": "el azúcar"
+  },
+  "definition": {
+    "en": "a sweet white or brown powder used in food and drinks",
+    "tr": "yiyecek ve içeceklerde kullanılan tatlı beyaz ya da kahverengi toz",
+    "de": "ein süßes weißes oder braunes Pulver für Essen und Getränke",
+    "fr": "une poudre sucrée blanche ou brune pour les aliments et les boissons",
+    "it": "una polvere dolce bianca o scura usata in cibi e bevande",
+    "es": "un polvo dulce blanco o moreno que se usa en comidas y bebidas"
+  },
+  "breakdown": {},
+  "origin": "Old French sucre ← Arabic sukkar ← Persian ← Sanskrit śarkarā (grit)",
+  "root": null,
+  "image": {
+    "file": "Sugar 2xmacro.jpg",
+    "wikidata": "Q11002"
+  },
+  "sentences": [
+    {
+      "en": "Do you want [sugar] in your tea?",
+      "tr": "Çayına şeker ister misin?",
+      "de": "Möchtest du Zucker in den Tee?",
+      "fr": "Tu veux du sucre dans ton thé ?",
+      "it": "Vuoi lo zucchero nel tè?",
+      "es": "¿Quieres azúcar en el té?"
+    },
+    {
+      "en": "This cake has too much [sugar].",
+      "tr": "Bu pastada çok fazla şeker var.",
+      "de": "In diesem Kuchen ist zu viel Zucker.",
+      "fr": "Ce gâteau contient trop de sucre.",
+      "it": "Questa torta ha troppo zucchero.",
+      "es": "Este pastel tiene demasiado azúcar."
+    },
+    {
+      "en": "Mix the butter and [sugar] first.",
+      "tr": "Önce tereyağıyla şekeri karıştır.",
+      "de": "Verrühre zuerst Butter und Zucker.",
+      "fr": "Mélange d'abord le beurre et le sucre.",
+      "it": "Prima mescola il burro e lo zucchero.",
+      "es": "Mezcla primero la mantequilla y el azúcar."
+    }
+  ]
+}
