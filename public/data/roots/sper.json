@@ -1,0 +1,306 @@
+{
+  "id": "sper",
+  "forms": [
+    "sper",
+    "spair"
+  ],
+  "origin": "la",
+  "etymon": "sperare",
+  "meaning": {
+    "en": "to hope (spes: hope)",
+    "tr": "umut etmek, ummak (spes: umut)",
+    "de": "hoffen (spes: die Hoffnung)",
+    "fr": "espérer (spes : l'espoir)",
+    "it": "sperare (spes: la speranza)",
+    "es": "esperar, tener esperanza (spes: la esperanza)"
+  },
+  "words": [
+    {
+      "id": "desperate",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "de-",
+        "sper",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "having lost hope, so ready to try anything; needing something very much (literally: away from hope)",
+        "tr": "çaresiz, umutsuz; bir şeye çok muhtaç",
+        "de": "verzweifelt",
+        "fr": "désespéré",
+        "it": "disperato",
+        "es": "desesperado"
+      },
+      "sentences": [
+        {
+          "en": "The lost hikers were [desperate] for water.",
+          "tr": "Kaybolan yürüyüşçüler suya çok muhtaçtı.",
+          "de": "Die verirrten Wanderer brauchten dringend Wasser.",
+          "fr": "Les randonneurs perdus avaient désespérément besoin d'eau.",
+          "it": "Gli escursionisti dispersi avevano un disperato bisogno d'acqua.",
+          "es": "Los excursionistas perdidos necesitaban agua desesperadamente."
+        },
+        {
+          "en": "He made a [desperate] attempt to save the game.",
+          "tr": "Maçı kurtarmak için çaresiz bir girişimde bulundu.",
+          "de": "Er machte einen verzweifelten Versuch, das Spiel zu retten.",
+          "fr": "Il a fait une tentative désespérée pour sauver le match.",
+          "it": "Ha fatto un tentativo disperato di salvare la partita.",
+          "es": "Hizo un intento desesperado de salvar el partido."
+        }
+      ]
+    },
+    {
+      "id": "desperately",
+      "pos": "adverb",
+      "parent": "desperate",
+      "parts": [
+        "de-",
+        "sper",
+        "-ate",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "in a way that shows you have lost hope; very much",
+        "tr": "çaresizce; çok, son derece",
+        "de": "verzweifelt; dringend",
+        "fr": "désespérément",
+        "it": "disperatamente",
+        "es": "desesperadamente"
+      },
+      "sentences": [
+        {
+          "en": "She [desperately] wanted to go home.",
+          "tr": "Eve gitmeyi çok istiyordu.",
+          "de": "Sie wollte unbedingt nach Hause.",
+          "fr": "Elle voulait désespérément rentrer chez elle.",
+          "it": "Voleva disperatamente tornare a casa.",
+          "es": "Quería volver a casa desesperadamente."
+        },
+        {
+          "en": "The town [desperately] needs a new hospital.",
+          "tr": "Kasabanın yeni bir hastaneye çok ihtiyacı var.",
+          "de": "Die Stadt braucht dringend ein neues Krankenhaus.",
+          "fr": "La ville a désespérément besoin d'un nouvel hôpital.",
+          "it": "La città ha disperatamente bisogno di un nuovo ospedale.",
+          "es": "El pueblo necesita desesperadamente un hospital nuevo."
+        }
+      ]
+    },
+    {
+      "id": "desperation",
+      "pos": "noun",
+      "parent": "desperate",
+      "parts": [
+        "de-",
+        "sper",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "the feeling of having no hope, which makes you do anything",
+        "tr": "çaresizlik, umutsuzluk",
+        "de": "die Verzweiflung",
+        "fr": "le désespoir",
+        "it": "la disperazione",
+        "es": "la desesperación"
+      },
+      "sentences": [
+        {
+          "en": "In [desperation], he called his old boss.",
+          "tr": "Çaresizlik içinde eski patronunu aradı.",
+          "de": "In seiner Verzweiflung rief er seinen alten Chef an.",
+          "fr": "En désespoir de cause, il a appelé son ancien patron.",
+          "it": "Per disperazione ha chiamato il suo vecchio capo.",
+          "es": "Desesperado, llamó a su antiguo jefe."
+        },
+        {
+          "en": "I could hear the [desperation] in her voice.",
+          "tr": "Sesindeki çaresizliği duyabiliyordum.",
+          "de": "Ich konnte die Verzweiflung in ihrer Stimme hören.",
+          "fr": "J'entendais le désespoir dans sa voix.",
+          "it": "Sentivo la disperazione nella sua voce.",
+          "es": "Podía oír la desesperación en su voz."
+        }
+      ]
+    },
+    {
+      "id": "despair",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "de-",
+        "spair"
+      ],
+      "gloss": {
+        "en": "the feeling that there is no hope; as a verb, to lose all hope (from Old French desperer)",
+        "tr": "umutsuzluk, ümitsizlik; (fiil) umudunu yitirmek",
+        "de": "die Verzweiflung; (Verb) verzweifeln",
+        "fr": "le désespoir ; (verbe) désespérer",
+        "it": "la disperazione; (verbo) disperare",
+        "es": "la desesperación; (verbo) desesperar"
+      },
+      "sentences": [
+        {
+          "en": "He looked at the broken car in [despair].",
+          "tr": "Bozuk arabaya umutsuzca baktı.",
+          "de": "Er sah das kaputte Auto verzweifelt an.",
+          "fr": "Il a regardé la voiture en panne avec désespoir.",
+          "it": "Guardò l'auto rotta con disperazione.",
+          "es": "Miró el coche averiado con desesperación."
+        },
+        {
+          "en": "Do not [despair]; we will find a way.",
+          "tr": "Umudunu yitirme, bir yolunu bulacağız.",
+          "de": "Verzweifle nicht, wir finden einen Weg.",
+          "fr": "Ne désespère pas, nous trouverons un moyen.",
+          "it": "Non disperare, troveremo un modo.",
+          "es": "No desesperes, encontraremos una manera."
+        }
+      ]
+    },
+    {
+      "id": "despairing",
+      "pos": "adjective",
+      "parent": "despair",
+      "parts": [
+        "de-",
+        "spair",
+        "-ing"
+      ],
+      "gloss": {
+        "en": "showing that you have lost hope",
+        "tr": "umutsuz, çaresiz",
+        "de": "verzweifelt",
+        "fr": "désespéré",
+        "it": "disperato",
+        "es": "desesperado"
+      },
+      "sentences": [
+        {
+          "en": "She gave me a [despairing] look.",
+          "tr": "Bana umutsuz bir bakış attı.",
+          "de": "Sie warf mir einen verzweifelten Blick zu.",
+          "fr": "Elle m'a lancé un regard désespéré.",
+          "it": "Mi ha lanciato uno sguardo disperato.",
+          "es": "Me lanzó una mirada desesperada."
+        },
+        {
+          "en": "We heard a [despairing] cry from the river.",
+          "tr": "Nehirden çaresiz bir çığlık duyduk.",
+          "de": "Wir hörten einen verzweifelten Schrei vom Fluss.",
+          "fr": "Nous avons entendu un cri désespéré venant de la rivière.",
+          "it": "Abbiamo sentito un grido disperato dal fiume.",
+          "es": "Oímos un grito desesperado desde el río."
+        }
+      ]
+    },
+    {
+      "id": "prosper",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "pro-",
+        "sper"
+      ],
+      "gloss": {
+        "en": "to be successful, especially with money (probably from Latin pro spere: as one hopes)",
+        "tr": "gelişmek, refaha ermek, başarılı olmak",
+        "de": "gedeihen, florieren",
+        "fr": "prospérer",
+        "it": "prosperare",
+        "es": "prosperar"
+      },
+      "sentences": [
+        {
+          "en": "The town [prospered] after the railway came.",
+          "tr": "Demiryolu geldikten sonra kasaba gelişti.",
+          "de": "Die Stadt blühte auf, nachdem die Eisenbahn kam.",
+          "fr": "La ville a prospéré après l'arrivée du chemin de fer.",
+          "it": "La città prosperò dopo l'arrivo della ferrovia.",
+          "es": "El pueblo prosperó tras la llegada del tren."
+        },
+        {
+          "en": "Small shops cannot [prosper] with such high rents.",
+          "tr": "Bu kadar yüksek kiralarla küçük dükkânlar gelişemez.",
+          "de": "Kleine Läden können bei so hohen Mieten nicht florieren.",
+          "fr": "Les petits commerces ne peuvent pas prospérer avec des loyers si élevés.",
+          "it": "I piccoli negozi non possono prosperare con affitti così alti.",
+          "es": "Las tiendas pequeñas no pueden prosperar con alquileres tan altos."
+        }
+      ]
+    },
+    {
+      "id": "prosperity",
+      "pos": "noun",
+      "parent": "prosper",
+      "parts": [
+        "pro-",
+        "sper",
+        "-ity"
+      ],
+      "gloss": {
+        "en": "the state of being successful and having money",
+        "tr": "refah, bolluk",
+        "de": "der Wohlstand",
+        "fr": "la prospérité",
+        "it": "la prosperità",
+        "es": "la prosperidad"
+      },
+      "sentences": [
+        {
+          "en": "The country enjoyed years of peace and [prosperity].",
+          "tr": "Ülke yıllarca barış ve refah içinde yaşadı.",
+          "de": "Das Land erlebte Jahre des Friedens und Wohlstands.",
+          "fr": "Le pays a connu des années de paix et de prospérité.",
+          "it": "Il paese ha vissuto anni di pace e prosperità.",
+          "es": "El país vivió años de paz y prosperidad."
+        },
+        {
+          "en": "Education brings [prosperity] to a region.",
+          "tr": "Eğitim bir bölgeye refah getirir.",
+          "de": "Bildung bringt einer Region Wohlstand.",
+          "fr": "L'éducation apporte la prospérité à une région.",
+          "it": "L'istruzione porta prosperità a una regione.",
+          "es": "La educación trae prosperidad a una región."
+        }
+      ]
+    },
+    {
+      "id": "prosperous",
+      "pos": "adjective",
+      "parent": "prosper",
+      "parts": [
+        "pro-",
+        "sper",
+        "-ous"
+      ],
+      "gloss": {
+        "en": "rich and successful",
+        "tr": "varlıklı, müreffeh, başarılı",
+        "de": "wohlhabend, erfolgreich",
+        "fr": "prospère",
+        "it": "prospero, benestante",
+        "es": "próspero"
+      },
+      "sentences": [
+        {
+          "en": "They live in a [prosperous] part of the city.",
+          "tr": "Şehrin varlıklı bir semtinde yaşıyorlar.",
+          "de": "Sie wohnen in einem wohlhabenden Teil der Stadt.",
+          "fr": "Ils vivent dans un quartier prospère de la ville.",
+          "it": "Vivono in una zona benestante della città.",
+          "es": "Viven en una zona próspera de la ciudad."
+        },
+        {
+          "en": "We wish you a happy and [prosperous] new year.",
+          "tr": "Size mutlu ve bereketli bir yeni yıl dileriz.",
+          "de": "Wir wünschen euch ein glückliches und erfolgreiches neues Jahr.",
+          "fr": "Nous vous souhaitons une heureuse et prospère nouvelle année.",
+          "it": "Vi auguriamo un felice e prospero anno nuovo.",
+          "es": "Os deseamos un feliz y próspero año nuevo."
+        }
+      ]
+    }
+  ]
+}

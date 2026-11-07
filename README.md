@@ -41,9 +41,9 @@ spec / spect  "to look"
 
 ## Roots so far
 
-85 roots and 1714 words, each with two example sentences. Plus **129 everyday objects** in word lists (chalk, colander, rolling pin…) with photos and their names in all six languages.
+86 roots and 1722 words, each with two example sentences. Plus **129 everyday objects** in word lists (chalk, colander, rolling pin…) with photos and their names in all six languages.
 
-- **Latin (72):** `act` · `ann` · `aqu` · `aud` · `cad` · `cap` · `ced` · `cid` · `clud` · `corp` · `cred` · `cur` · `dict` · `duc` · `fac` · `fer` · `fin` · `flect` · `form` · `fort` · `grad` · `grat` · `ject` · `junct` · `leg` · `loc` · `magn` · `mand` · `manu` · `ment` · `mit` · `mort` · `mov` · `nat` · `nect` · `nomin` · `nov` · `nunci` · `ped` · `pel` · `pend` · `plic` · `port` · `pos` · `prehend` · `press` · `rupt` · `scend` · `sci` · `scrib` · `sent` · `sequ` · `sign` · `sist` · `solv` · `spec` · `spir` · `struct` · `sum` · `temp` · `tempt` · `ten` · `tend` · `terr` · `tract` · `trib` · `ven` · `vert` · `vid` · `vinc` · `viv` · `voc`
+- **Latin (73):** `act` · `ann` · `aqu` · `aud` · `cad` · `cap` · `ced` · `cid` · `clud` · `corp` · `cred` · `cur` · `dict` · `duc` · `fac` · `fer` · `fin` · `flect` · `form` · `fort` · `grad` · `grat` · `ject` · `junct` · `leg` · `loc` · `magn` · `mand` · `manu` · `ment` · `mit` · `mort` · `mov` · `nat` · `nect` · `nomin` · `nov` · `nunci` · `ped` · `pel` · `pend` · `plic` · `port` · `pos` · `prehend` · `press` · `rupt` · `scend` · `sci` · `scrib` · `sent` · `sequ` · `sign` · `sist` · `solv` · `spec` · `sper` · `spir` · `struct` · `sum` · `temp` · `tempt` · `ten` · `tend` · `terr` · `tract` · `trib` · `ven` · `vert` · `vid` · `vinc` · `viv` · `voc`
 - **Greek (13):** `bio` · `chron` · `graph` · `hydr` · `log` · `metr` · `morph` · `path` · `phon` · `photo` · `psych` · `scop` · `therm`
 
 Next on the roadmap ([SPEC.md](SPEC.md)): offline use.

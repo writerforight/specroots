@@ -45,7 +45,7 @@ yanına `(az: N)` yaz. Toplam hedef ≈ 1000–2000 kelime.
 - Aynı test iki turdur düzelmiyorsa ya da push reddediliyorsa döngüyü durdur ve nedenini yaz.
 
 ## Durum
-Kök: 85 · Kelime: 1728 kayıt, 1714 ayrı kelime (5 birleşik kelime iki kökte). Kuyruk bitti; D2 kapandı (2026-10-19, 949 kelime). 2026-10-22: mevcut köklere +177 kelime, 51. kök nunci (+15), 52. kök cad (+20). 2026-10-29: mevcut 37 köke +177 kelime. 2026-10-30: 53. kök tempt (+10), 54. kök act (+25), 55. kök nect (+13). 2026-10-31: 56. kök trib (+14); pel'e appeal ailesi (+3). 2026-11-06: 57. kök prehend (+19); 58. kök sequ (+14), 59. kök solv (+11), 60. kök vinc (+12); 61. kök leg (+14), 62. kök sum (+10), 63. kök scend (+9).
+Kök: 86 · Kelime: 1736 kayıt, 1722 ayrı kelime (5 birleşik kelime iki kökte). Kuyruk bitti; D2 kapandı (2026-10-19, 949 kelime). 2026-10-22: mevcut köklere +177 kelime, 51. kök nunci (+15), 52. kök cad (+20). 2026-10-29: mevcut 37 köke +177 kelime. 2026-10-30: 53. kök tempt (+10), 54. kök act (+25), 55. kök nect (+13). 2026-10-31: 56. kök trib (+14); pel'e appeal ailesi (+3). 2026-11-06: 57. kök prehend (+19); 58. kök sequ (+14), 59. kök solv (+11), 60. kök vinc (+12); 61. kök leg (+14), 62. kök sum (+10), 63. kök scend (+9). 2026-11-07: 86. kök sper (+8, kullanıcı isteği).
 
 ## Kuyruk
 
@@ -136,6 +136,7 @@ Yunanca (`"origin": "gr"`):
 - [x] therm — 9 (az: 9) — ısı (thermal, thermometer, thermostat)
 - [x] hydr — 8 (az: 8) — su (hydrogen, hydrate, dehydrate, hydraulic)
 - [x] psych — 11 (az: 11) — ruh (psychology, psychic, psychiatrist)
+- [x] sper — 8 (az: 8) — umut etmek (desperate, despair, prosper); 2026-11-07 kullanıcı isteği
 - [ ] dem — halk (democracy, epidemic, demographic)
 - [ ] crat / crac — güç, yönetim (democrat, bureaucracy, aristocrat)
 - [ ] phil — sevmek (philosophy, philanthropy, bibliophile)

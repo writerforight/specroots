@@ -53,7 +53,8 @@ seçilen dillerdeki karşılığı ve öğretici örnek cümleleri bir arada gö
     comment), 79. kök `nat` (nasci, doğmak: native, nation, nature, innate), 80. kök `nomin` (nomen, ad: nominate, noun,
     pronoun, renowned), 81. kök `sign` (signum, işaret: signal, signature, design, assign, resign), 82. kök `temp` (tempus, zaman: temporary,
     contemporary, tempo), 83. kök `therm` (Yunanca thermós, ısı: thermal, thermometer, thermostat, hypothermia), 84. kök `hydr` (hýdōr, su: hydrogen,
-    dehydrate, hydraulic, carbohydrate), 85. kök `psych` (psykhḗ, ruh: psychology, psychiatrist, psychic, psychosis).
+    dehydrate, hydraulic, carbohydrate), 85. kök `psych` (psykhḗ, ruh: psychology, psychiatrist, psychic, psychosis); 2026-11-07 kullanıcı isteği "desperate":
+    86. kök `sper` (sperare, umut etmek: desperate, desperation, despair, prosper, prosperity).
     Yeni kök sınırsız açılmaz; her biri kullanıcı onayıyla eklenir.
 12. **Mimari:** nesne yönelimli, katmanlı (aşağıda). Görünüm ve tema veri ve mantıktan bağımsız
     değiştirilebilir olmalı.

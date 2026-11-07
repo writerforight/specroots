@@ -2667,6 +2667,32 @@
     ]
   },
   {
+    "id": "sper",
+    "forms": [
+      "sper",
+      "spair"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to hope (spes: hope)",
+      "tr": "umut etmek, ummak (spes: umut)",
+      "de": "hoffen (spes: die Hoffnung)",
+      "fr": "espérer (spes : l'espoir)",
+      "it": "sperare (spes: la speranza)",
+      "es": "esperar, tener esperanza (spes: la esperanza)"
+    },
+    "words": [
+      "desperate",
+      "desperately",
+      "desperation",
+      "despair",
+      "despairing",
+      "prosper",
+      "prosperity",
+      "prosperous"
+    ]
+  },
+  {
     "id": "spir",
     "forms": [
       "spir",
