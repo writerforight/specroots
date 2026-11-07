@@ -77,7 +77,10 @@ seçilen dillerdeki karşılığı ve öğretici örnek cümleleri bir arada gö
     `steh`, `fahr`, `sprech`, `geb`; aynı gün ikinci tur (kullanıcı onayı) +4 kök, 43 kelime: `komm`,
     `nehm`, `halt`, `setz` (sitzen/setzen, Satz); üçüncü tur (kullanıcı: "daha fazla kelime yok mu")
     her köke 6–9 yaygın kelime daha (+62; yeni yazımlar `führ`: führen/Führerschein, `sprich`: Sprichwort,
-    `künft`: zukünftig). Toplam 8 kök, 147 kelime, kök başına 17–20. Almanca ek sayfası (ek → kelimeler) şimdilik yok; ekler kartta
+    `künft`: zukünftig). Toplam 8 kök, 147 kelime, kök başına 17–20. Dördüncü tur (kullanıcı: "daha fazla
+    kök"): `geh` (gehen, Gang), `seh` (sehen, Sicht), `schreib` (schreiben, Schrift; Latince scribere'den
+    erken alıntı, İngilizce scrib ile aynı kaynak, kök açıklamasında yazılı), `zieh` (ziehen, Zug); +59.
+    Toplam 12 kök, 206 kelime. Almanca ek sayfası (ek → kelimeler) şimdilik yok; ekler kartta
     anlamlarıyla düz metin. Büyütme: her kök kullanıcı onayıyla (karar 11 gibi).
 
 ## Mimari

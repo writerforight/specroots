@@ -1,0 +1,551 @@
+{
+  "id": "zieh",
+  "forms": [
+    "zieh",
+    "zug"
+  ],
+  "origin": "de",
+  "etymon": "ziehen",
+  "meaning": {
+    "en": "to pull, to draw; to move",
+    "tr": "çekmek; taşınmak",
+    "de": "etwas zu sich bewegen; umziehen (zog, gezogen; Zug: das Ziehen)",
+    "fr": "tirer ; déménager",
+    "it": "tirare; trasferirsi",
+    "es": "tirar; mudarse"
+  },
+  "words": [
+    {
+      "id": "ziehen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "zieh",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to pull; to move (somewhere)",
+        "tr": "çekmek; (bir yere) taşınmak, göçmek",
+        "de": "etwas zu sich bewegen; an einen anderen Ort gehen",
+        "fr": "tirer ; aller s'installer",
+        "it": "tirare; trasferirsi",
+        "es": "tirar; trasladarse"
+      },
+      "sentences": [
+        {
+          "de": "Du musst [ziehen], nicht drücken.",
+          "tr": "Çekmen lazım, itmen değil.",
+          "en": "You have to pull, not push.",
+          "fr": "Il faut tirer, pas pousser.",
+          "it": "Devi tirare, non spingere.",
+          "es": "Tienes que tirar, no empujar."
+        },
+        {
+          "de": "Im Herbst [ziehen] die Vögel nach Süden.",
+          "tr": "Sonbaharda kuşlar güneye göç eder.",
+          "en": "In autumn the birds move south.",
+          "fr": "En automne, les oiseaux partent vers le sud.",
+          "it": "In autunno gli uccelli migrano verso sud.",
+          "es": "En otoño los pájaros se van al sur."
+        }
+      ]
+    },
+    {
+      "id": "Zug",
+      "pos": "noun",
+      "parent": "ziehen",
+      "parts": [
+        "zug"
+      ],
+      "gloss": {
+        "en": "train; move (in a game); pull, draught",
+        "tr": "tren; (oyunda) hamle; çekiş",
+        "de": "eine Bahn mit vielen Wagen; ein Spielzug; das Ziehen",
+        "fr": "le train ; le coup ; le courant d'air",
+        "it": "il treno; la mossa; la corrente",
+        "es": "el tren; la jugada; la corriente"
+      },
+      "sentences": [
+        {
+          "de": "Der [Zug] hat Verspätung.",
+          "tr": "Tren rötarlı.",
+          "en": "The train is late.",
+          "fr": "Le train est en retard.",
+          "it": "Il treno è in ritardo.",
+          "es": "El tren lleva retraso."
+        },
+        {
+          "de": "Du bist am [Zug].",
+          "tr": "Sıra sende.",
+          "en": "It's your move.",
+          "fr": "C'est ton tour.",
+          "it": "Tocca a te.",
+          "es": "Te toca."
+        }
+      ]
+    },
+    {
+      "id": "Aufzug",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "auf-",
+        "zug"
+      ],
+      "gloss": {
+        "en": "lift, elevator",
+        "tr": "asansör",
+        "de": "ein Fahrstuhl",
+        "fr": "l'ascenseur",
+        "it": "l'ascensore",
+        "es": "el ascensor"
+      },
+      "sentences": [
+        {
+          "de": "Der [Aufzug] ist kaputt.",
+          "tr": "Asansör bozuk.",
+          "en": "The lift is broken.",
+          "fr": "L'ascenseur est en panne.",
+          "it": "L'ascensore è rotto.",
+          "es": "El ascensor está estropeado."
+        },
+        {
+          "de": "Wir nehmen den [Aufzug] in den fünften Stock.",
+          "tr": "Beşinci kata asansörle çıkıyoruz.",
+          "en": "We take the lift to the fifth floor.",
+          "fr": "Nous prenons l'ascenseur jusqu'au cinquième étage.",
+          "it": "Prendiamo l'ascensore fino al quinto piano.",
+          "es": "Cogemos el ascensor hasta el quinto piso."
+        }
+      ]
+    },
+    {
+      "id": "anziehen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "an-",
+        "zieh",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to put on (clothes); to attract",
+        "tr": "giymek; çekmek",
+        "de": "Kleidung an den Körper bringen; zu sich ziehen",
+        "fr": "mettre (un vêtement) ; attirer",
+        "it": "indossare; attirare",
+        "es": "ponerse (ropa); atraer"
+      },
+      "sentences": [
+        {
+          "de": "Ich muss mir noch eine Jacke [anziehen].",
+          "tr": "Daha bir ceket giymem lazım.",
+          "en": "I still have to put on a jacket.",
+          "fr": "Je dois encore mettre une veste.",
+          "it": "Devo ancora mettermi una giacca.",
+          "es": "Todavía tengo que ponerme una chaqueta."
+        },
+        {
+          "de": "Gute Musik kann viele Besucher [anziehen].",
+          "tr": "İyi müzik birçok ziyaretçi çekebilir.",
+          "en": "Good music can attract many visitors.",
+          "fr": "La bonne musique peut attirer beaucoup de visiteurs.",
+          "it": "La buona musica può attirare molti visitatori.",
+          "es": "La buena música puede atraer a muchos visitantes."
+        }
+      ]
+    },
+    {
+      "id": "Anzug",
+      "pos": "noun",
+      "parent": "anziehen",
+      "parts": [
+        "an-",
+        "zug"
+      ],
+      "gloss": {
+        "en": "suit",
+        "tr": "takım elbise",
+        "de": "Hose und Jacke aus dem gleichen Stoff",
+        "fr": "le costume",
+        "it": "l'abito, il completo",
+        "es": "el traje"
+      },
+      "sentences": [
+        {
+          "de": "Er trägt heute einen [Anzug].",
+          "tr": "Bugün takım elbise giymiş.",
+          "en": "He is wearing a suit today.",
+          "fr": "Il porte un costume aujourd'hui.",
+          "it": "Oggi indossa un completo.",
+          "es": "Hoy lleva traje."
+        },
+        {
+          "de": "Für die Hochzeit kaufe ich einen neuen [Anzug].",
+          "tr": "Düğün için yeni bir takım elbise alacağım.",
+          "en": "I'm buying a new suit for the wedding.",
+          "fr": "J'achète un nouveau costume pour le mariage.",
+          "it": "Compro un abito nuovo per il matrimonio.",
+          "es": "Me compro un traje nuevo para la boda."
+        }
+      ]
+    },
+    {
+      "id": "ausziehen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "aus-",
+        "zieh",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to take off (clothes); to move out",
+        "tr": "çıkarmak (giysi); (evden) taşınmak",
+        "de": "Kleidung ablegen; eine Wohnung verlassen",
+        "fr": "enlever ; déménager (quitter)",
+        "it": "togliersi; traslocare (lasciare casa)",
+        "es": "quitarse; mudarse (dejar la casa)"
+      },
+      "sentences": [
+        {
+          "de": "Bitte die Schuhe [ausziehen].",
+          "tr": "Lütfen ayakkabılarınızı çıkarın.",
+          "en": "Please take off your shoes.",
+          "fr": "Merci d'enlever vos chaussures.",
+          "it": "Per favore, toglietevi le scarpe.",
+          "es": "Por favor, quítense los zapatos."
+        },
+        {
+          "de": "Mit 19 will ich bei meinen Eltern [ausziehen].",
+          "tr": "19 yaşında ailemin evinden taşınmak istiyorum.",
+          "en": "At 19 I want to move out of my parents' place.",
+          "fr": "À 19 ans, je veux quitter la maison de mes parents.",
+          "it": "A 19 anni voglio andare via da casa dei miei.",
+          "es": "A los 19 quiero irme de casa de mis padres."
+        }
+      ]
+    },
+    {
+      "id": "Auszug",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "aus-",
+        "zug"
+      ],
+      "gloss": {
+        "en": "moving out; excerpt; (bank) statement",
+        "tr": "taşınma; alıntı; hesap özeti",
+        "de": "das Ausziehen aus einer Wohnung; ein Teil eines Textes; Kontoauszug",
+        "fr": "le déménagement ; l'extrait ; le relevé",
+        "it": "il trasloco; l'estratto",
+        "es": "la mudanza; el extracto"
+      },
+      "sentences": [
+        {
+          "de": "Hier ist ein [Auszug] aus dem Roman.",
+          "tr": "İşte romandan bir alıntı.",
+          "en": "Here is an excerpt from the novel.",
+          "fr": "Voici un extrait du roman.",
+          "it": "Ecco un estratto del romanzo.",
+          "es": "Aquí tienes un extracto de la novela."
+        },
+        {
+          "de": "Nach dem [Auszug] war die Wohnung leer.",
+          "tr": "Taşındıktan sonra daire boştu.",
+          "en": "After moving out, the flat was empty.",
+          "fr": "Après le déménagement, l'appartement était vide.",
+          "it": "Dopo il trasloco l'appartamento era vuoto.",
+          "es": "Tras la mudanza, el piso quedó vacío."
+        }
+      ]
+    },
+    {
+      "id": "umziehen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "um-",
+        "zieh",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to move (house); to get changed",
+        "tr": "taşınmak; üstünü değiştirmek",
+        "de": "in eine neue Wohnung gehen; sich umziehen: andere Kleidung anziehen",
+        "fr": "déménager ; se changer",
+        "it": "traslocare; cambiarsi",
+        "es": "mudarse; cambiarse de ropa"
+      },
+      "sentences": [
+        {
+          "de": "Nächsten Monat wollen wir nach Köln [umziehen].",
+          "tr": "Gelecek ay Köln'e taşınmak istiyoruz.",
+          "en": "Next month we want to move to Cologne.",
+          "fr": "Le mois prochain, nous voulons déménager à Cologne.",
+          "it": "Il mese prossimo vogliamo trasferirci a Colonia.",
+          "es": "El mes que viene queremos mudarnos a Colonia."
+        },
+        {
+          "de": "Ich muss mich noch [umziehen].",
+          "tr": "Daha üstümü değiştirmem lazım.",
+          "en": "I still have to get changed.",
+          "fr": "Je dois encore me changer.",
+          "it": "Devo ancora cambiarmi.",
+          "es": "Todavía tengo que cambiarme."
+        }
+      ]
+    },
+    {
+      "id": "Umzug",
+      "pos": "noun",
+      "parent": "umziehen",
+      "parts": [
+        "um-",
+        "zug"
+      ],
+      "gloss": {
+        "en": "move (house); parade",
+        "tr": "taşınma; geçit töreni",
+        "de": "das Umziehen in eine neue Wohnung; eine Parade",
+        "fr": "le déménagement ; le défilé",
+        "it": "il trasloco; la sfilata",
+        "es": "la mudanza; el desfile"
+      },
+      "sentences": [
+        {
+          "de": "Kannst du mir beim [Umzug] helfen?",
+          "tr": "Taşınırken bana yardım edebilir misin?",
+          "en": "Can you help me with the move?",
+          "fr": "Tu peux m'aider pour le déménagement ?",
+          "it": "Puoi aiutarmi con il trasloco?",
+          "es": "¿Me ayudas con la mudanza?"
+        },
+        {
+          "de": "Im Karneval gibt es einen großen [Umzug].",
+          "tr": "Karnavalda büyük bir geçit töreni var.",
+          "en": "There is a big parade at carnival.",
+          "fr": "Au carnaval, il y a un grand défilé.",
+          "it": "A carnevale c'è una grande sfilata.",
+          "es": "En carnaval hay un gran desfile."
+        }
+      ]
+    },
+    {
+      "id": "beziehen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "be-",
+        "zieh",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to cover (a bed); to receive (money); sich beziehen auf: to refer to",
+        "tr": "(yatağı) çarşaflamak; (para) almak; sich beziehen auf: -e atıfta bulunmak",
+        "de": "ein Bett frisch machen; Geld bekommen; sich beziehen auf: von etwas sprechen",
+        "fr": "faire (un lit) ; percevoir ; se référer à",
+        "it": "rifare (il letto); percepire; riferirsi a",
+        "es": "poner (sábanas); percibir; referirse a"
+      },
+      "sentences": [
+        {
+          "de": "Ich muss noch das Bett [beziehen].",
+          "tr": "Daha yatağı çarşaflamam lazım.",
+          "en": "I still have to make up the bed.",
+          "fr": "Je dois encore faire le lit.",
+          "it": "Devo ancora rifare il letto.",
+          "es": "Todavía tengo que poner las sábanas."
+        },
+        {
+          "de": "Worauf [beziehst] du dich?",
+          "tr": "Neye atıfta bulunuyorsun?",
+          "en": "What are you referring to?",
+          "fr": "À quoi fais-tu référence ?",
+          "it": "A cosa ti riferisci?",
+          "es": "¿A qué te refieres?"
+        }
+      ]
+    },
+    {
+      "id": "Beziehung",
+      "pos": "noun",
+      "parent": "beziehen",
+      "parts": [
+        "be-",
+        "zieh",
+        "-ung"
+      ],
+      "gloss": {
+        "en": "relationship; connection",
+        "tr": "ilişki",
+        "de": "eine Verbindung zwischen Menschen oder Dingen; eine Liebesbeziehung",
+        "fr": "la relation",
+        "it": "la relazione, il rapporto",
+        "es": "la relación"
+      },
+      "sentences": [
+        {
+          "de": "Sie haben eine gute [Beziehung].",
+          "tr": "İyi bir ilişkileri var.",
+          "en": "They have a good relationship.",
+          "fr": "Ils ont une bonne relation.",
+          "it": "Hanno un buon rapporto.",
+          "es": "Tienen una buena relación."
+        },
+        {
+          "de": "Er ist seit zwei Jahren in einer [Beziehung].",
+          "tr": "İki yıldır bir ilişkisi var.",
+          "en": "He has been in a relationship for two years.",
+          "fr": "Il est en couple depuis deux ans.",
+          "it": "È in una relazione da due anni.",
+          "es": "Lleva dos años en una relación."
+        }
+      ]
+    },
+    {
+      "id": "erziehen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "er-",
+        "zieh",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to bring up, to raise, to educate",
+        "tr": "yetiştirmek, eğitmek",
+        "de": "ein Kind großziehen und ihm Werte beibringen",
+        "fr": "élever, éduquer",
+        "it": "educare, crescere",
+        "es": "educar, criar"
+      },
+      "sentences": [
+        {
+          "de": "Sie [erziehen] ihre Kinder zweisprachig.",
+          "tr": "Çocuklarını iki dilli yetiştiriyorlar.",
+          "en": "They are bringing up their children bilingually.",
+          "fr": "Ils élèvent leurs enfants en deux langues.",
+          "it": "Crescono i figli in due lingue.",
+          "es": "Crían a sus hijos en dos idiomas."
+        },
+        {
+          "de": "Es ist nicht leicht, Kinder zu [erziehen].",
+          "tr": "Çocuk yetiştirmek kolay değil.",
+          "en": "Raising children is not easy.",
+          "fr": "Ce n'est pas facile d'élever des enfants.",
+          "it": "Non è facile educare i figli.",
+          "es": "No es fácil educar a los hijos."
+        }
+      ]
+    },
+    {
+      "id": "Erziehung",
+      "pos": "noun",
+      "parent": "erziehen",
+      "parts": [
+        "er-",
+        "zieh",
+        "-ung"
+      ],
+      "gloss": {
+        "en": "upbringing, education",
+        "tr": "terbiye, yetiştirme",
+        "de": "das Erziehen von Kindern",
+        "fr": "l'éducation",
+        "it": "l'educazione",
+        "es": "la educación, la crianza"
+      },
+      "sentences": [
+        {
+          "de": "Die [Erziehung] beginnt in der Familie.",
+          "tr": "Terbiye ailede başlar.",
+          "en": "Upbringing begins in the family.",
+          "fr": "L'éducation commence dans la famille.",
+          "it": "L'educazione comincia in famiglia.",
+          "es": "La educación empieza en la familia."
+        },
+        {
+          "de": "Sie hatte eine strenge [Erziehung].",
+          "tr": "Sıkı bir terbiye almış.",
+          "en": "She had a strict upbringing.",
+          "fr": "Elle a reçu une éducation stricte.",
+          "it": "Ha avuto un'educazione severa.",
+          "es": "Tuvo una educación estricta."
+        }
+      ]
+    },
+    {
+      "id": "vorziehen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "vor-",
+        "zieh",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to prefer; to bring forward",
+        "tr": "tercih etmek; öne almak",
+        "de": "etwas lieber mögen als etwas anderes; früher machen",
+        "fr": "préférer ; avancer",
+        "it": "preferire; anticipare",
+        "es": "preferir; adelantar"
+      },
+      "sentences": [
+        {
+          "de": "Ich würde Tee [vorziehen].",
+          "tr": "Ben çayı tercih ederim.",
+          "en": "I would prefer tea.",
+          "fr": "Je préférerais du thé.",
+          "it": "Preferirei del tè.",
+          "es": "Preferiría té."
+        },
+        {
+          "de": "Können wir den Termin [vorziehen]?",
+          "tr": "Randevuyu öne alabilir miyiz?",
+          "en": "Can we bring the appointment forward?",
+          "fr": "Pouvons-nous avancer le rendez-vous ?",
+          "it": "Possiamo anticipare l'appuntamento?",
+          "es": "¿Podemos adelantar la cita?"
+        }
+      ]
+    },
+    {
+      "id": "Vorzug",
+      "pos": "noun",
+      "parent": "vorziehen",
+      "parts": [
+        "vor-",
+        "zug"
+      ],
+      "gloss": {
+        "en": "advantage, merit; preference",
+        "tr": "avantaj, üstünlük; tercih",
+        "de": "ein Vorteil; etwas Gutes an jemandem",
+        "fr": "l'avantage, la qualité ; la préférence",
+        "it": "il pregio, il vantaggio; la preferenza",
+        "es": "la ventaja, la virtud; la preferencia"
+      },
+      "sentences": [
+        {
+          "de": "Ein großer [Vorzug] der Wohnung ist der Balkon.",
+          "tr": "Dairenin büyük bir avantajı balkonu.",
+          "en": "A big advantage of the flat is the balcony.",
+          "fr": "Un grand avantage de l'appartement, c'est le balcon.",
+          "it": "Un grande pregio dell'appartamento è il balcone.",
+          "es": "Una gran ventaja del piso es el balcón."
+        },
+        {
+          "de": "Ich gebe dem Zug den [Vorzug].",
+          "tr": "Treni tercih ederim.",
+          "en": "I prefer the train.",
+          "fr": "Je donne la préférence au train.",
+          "it": "Preferisco il treno.",
+          "es": "Prefiero el tren."
+        }
+      ]
+    }
+  ]
+}

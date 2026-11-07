@@ -1,0 +1,550 @@
+{
+  "id": "schreib",
+  "forms": [
+    "schreib",
+    "schrift"
+  ],
+  "origin": "de",
+  "etymon": "schreiben",
+  "meaning": {
+    "en": "to write (borrowed early from Latin scribere, like English scribe)",
+    "tr": "yazmak (erken dönemde Latince scribere'den alınmış; İngilizce scribe ile aynı kaynak)",
+    "de": "Buchstaben aufs Papier bringen (schrieb, geschrieben; Schrift); früh aus lateinisch scribere entlehnt, wie englisch scribe",
+    "fr": "écrire (emprunté tôt au latin scribere, comme l'anglais scribe)",
+    "it": "scrivere (preso presto dal latino scribere, come l'inglese scribe)",
+    "es": "escribir (tomado pronto del latín scribere, como el inglés scribe)"
+  },
+  "words": [
+    {
+      "id": "schreiben",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "schreib",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to write",
+        "tr": "yazmak",
+        "de": "Wörter mit Buchstaben festhalten",
+        "fr": "écrire",
+        "it": "scrivere",
+        "es": "escribir"
+      },
+      "sentences": [
+        {
+          "de": "Ich [schreibe] dir eine Nachricht.",
+          "tr": "Sana bir mesaj yazıyorum.",
+          "en": "I'm writing you a message.",
+          "fr": "Je t'écris un message.",
+          "it": "Ti scrivo un messaggio.",
+          "es": "Te escribo un mensaje."
+        },
+        {
+          "de": "Wie [schreibt] man das?",
+          "tr": "Bu nasıl yazılıyor?",
+          "en": "How do you spell that?",
+          "fr": "Comment ça s'écrit ?",
+          "it": "Come si scrive?",
+          "es": "¿Cómo se escribe eso?"
+        }
+      ]
+    },
+    {
+      "id": "Schrift",
+      "pos": "noun",
+      "parent": "schreiben",
+      "parts": [
+        "schrift"
+      ],
+      "gloss": {
+        "en": "handwriting; script, font",
+        "tr": "yazı, el yazısı; alfabe, yazı tipi",
+        "de": "die Art, wie jemand schreibt; die Buchstaben einer Sprache",
+        "fr": "l'écriture ; la police",
+        "it": "la scrittura, la calligrafia; il carattere",
+        "es": "la letra, la escritura; la fuente"
+      },
+      "sentences": [
+        {
+          "de": "Deine [Schrift] ist schön.",
+          "tr": "El yazın güzel.",
+          "en": "Your handwriting is nice.",
+          "fr": "Ton écriture est belle.",
+          "it": "La tua calligrafia è bella.",
+          "es": "Tienes una letra bonita."
+        },
+        {
+          "de": "Die arabische [Schrift] liest man von rechts.",
+          "tr": "Arap yazısı sağdan okunur.",
+          "en": "Arabic script is read from the right.",
+          "fr": "L'écriture arabe se lit de droite à gauche.",
+          "it": "La scrittura araba si legge da destra.",
+          "es": "La escritura árabe se lee de derecha a izquierda."
+        }
+      ]
+    },
+    {
+      "id": "schriftlich",
+      "pos": "adjective",
+      "parent": "Schrift",
+      "parts": [
+        "schrift",
+        "-lich"
+      ],
+      "gloss": {
+        "en": "written, in writing",
+        "tr": "yazılı",
+        "de": "in geschriebener Form",
+        "fr": "écrit, par écrit",
+        "it": "scritto, per iscritto",
+        "es": "escrito, por escrito"
+      },
+      "sentences": [
+        {
+          "de": "Morgen haben wir eine [schriftliche] Prüfung.",
+          "tr": "Yarın yazılı sınavımız var.",
+          "en": "Tomorrow we have a written exam.",
+          "fr": "Demain, nous avons un examen écrit.",
+          "it": "Domani abbiamo un esame scritto.",
+          "es": "Mañana tenemos un examen escrito."
+        },
+        {
+          "de": "Bitte bestätigen Sie das [schriftlich].",
+          "tr": "Lütfen bunu yazılı olarak onaylayın.",
+          "en": "Please confirm this in writing.",
+          "fr": "Veuillez le confirmer par écrit.",
+          "it": "Lo confermi per iscritto, per favore.",
+          "es": "Confírmelo por escrito, por favor."
+        }
+      ]
+    },
+    {
+      "id": "beschreiben",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "be-",
+        "schreib",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to describe",
+        "tr": "tarif etmek, betimlemek",
+        "de": "mit Worten sagen, wie etwas ist",
+        "fr": "décrire",
+        "it": "descrivere",
+        "es": "describir"
+      },
+      "sentences": [
+        {
+          "de": "Kannst du den Mann [beschreiben]?",
+          "tr": "Adamı tarif edebilir misin?",
+          "en": "Can you describe the man?",
+          "fr": "Peux-tu décrire l'homme ?",
+          "it": "Puoi descrivere l'uomo?",
+          "es": "¿Puedes describir al hombre?"
+        },
+        {
+          "de": "Das ist schwer zu [beschreiben].",
+          "tr": "Bunu anlatmak zor.",
+          "en": "That is hard to describe.",
+          "fr": "C'est difficile à décrire.",
+          "it": "È difficile da descrivere.",
+          "es": "Es difícil de describir."
+        }
+      ]
+    },
+    {
+      "id": "Beschreibung",
+      "pos": "noun",
+      "parent": "beschreiben",
+      "parts": [
+        "be-",
+        "schreib",
+        "-ung"
+      ],
+      "gloss": {
+        "en": "description",
+        "tr": "tarif, betimleme, açıklama",
+        "de": "ein Text, der beschreibt, wie etwas ist",
+        "fr": "la description",
+        "it": "la descrizione",
+        "es": "la descripción"
+      },
+      "sentences": [
+        {
+          "de": "Die [Beschreibung] passt genau.",
+          "tr": "Tarif tam uyuyor.",
+          "en": "The description fits exactly.",
+          "fr": "La description correspond exactement.",
+          "it": "La descrizione corrisponde esattamente.",
+          "es": "La descripción encaja perfectamente."
+        },
+        {
+          "de": "Lies zuerst die [Beschreibung] des Produkts.",
+          "tr": "Önce ürünün açıklamasını oku.",
+          "en": "Read the product description first.",
+          "fr": "Lis d'abord la description du produit.",
+          "it": "Leggi prima la descrizione del prodotto.",
+          "es": "Lee primero la descripción del producto."
+        }
+      ]
+    },
+    {
+      "id": "unterschreiben",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "unter-",
+        "schreib",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to sign",
+        "tr": "imzalamak",
+        "de": "seinen Namen unter einen Text schreiben",
+        "fr": "signer",
+        "it": "firmare",
+        "es": "firmar"
+      },
+      "sentences": [
+        {
+          "de": "Bitte hier [unterschreiben].",
+          "tr": "Lütfen buraya imza atın.",
+          "en": "Please sign here.",
+          "fr": "Signez ici, s'il vous plaît.",
+          "it": "Firmi qui, per favore.",
+          "es": "Firme aquí, por favor."
+        },
+        {
+          "de": "Ich will den Vertrag noch nicht [unterschreiben].",
+          "tr": "Sözleşmeyi henüz imzalamak istemiyorum.",
+          "en": "I don't want to sign the contract yet.",
+          "fr": "Je ne veux pas encore signer le contrat.",
+          "it": "Non voglio ancora firmare il contratto.",
+          "es": "Todavía no quiero firmar el contrato."
+        }
+      ]
+    },
+    {
+      "id": "Unterschrift",
+      "pos": "noun",
+      "parent": "unterschreiben",
+      "parts": [
+        "unter-",
+        "schrift"
+      ],
+      "gloss": {
+        "en": "signature",
+        "tr": "imza",
+        "de": "der eigene Name, mit der Hand geschrieben",
+        "fr": "la signature",
+        "it": "la firma",
+        "es": "la firma"
+      },
+      "sentences": [
+        {
+          "de": "Hier fehlt noch Ihre [Unterschrift].",
+          "tr": "Burada imzanız eksik.",
+          "en": "Your signature is still missing here.",
+          "fr": "Il manque encore votre signature ici.",
+          "it": "Qui manca ancora la sua firma.",
+          "es": "Aquí falta su firma."
+        },
+        {
+          "de": "Seine [Unterschrift] kann niemand lesen.",
+          "tr": "İmzasını kimse okuyamıyor.",
+          "en": "Nobody can read his signature.",
+          "fr": "Personne ne peut lire sa signature.",
+          "it": "Nessuno riesce a leggere la sua firma.",
+          "es": "Nadie puede leer su firma."
+        }
+      ]
+    },
+    {
+      "id": "aufschreiben",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "auf-",
+        "schreib",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to write down, to note",
+        "tr": "not etmek, yazmak",
+        "de": "etwas notieren, damit man es nicht vergisst",
+        "fr": "noter",
+        "it": "annotare, scrivere",
+        "es": "apuntar, anotar"
+      },
+      "sentences": [
+        {
+          "de": "Kannst du mir die Adresse [aufschreiben]?",
+          "tr": "Adresi bana yazabilir misin?",
+          "en": "Can you write down the address for me?",
+          "fr": "Tu peux me noter l'adresse ?",
+          "it": "Mi scrivi l'indirizzo?",
+          "es": "¿Me apuntas la dirección?"
+        },
+        {
+          "de": "Ich muss mir das [aufschreiben].",
+          "tr": "Bunu bir yere not etmem lazım.",
+          "en": "I need to write that down.",
+          "fr": "Il faut que je le note.",
+          "it": "Devo annotarmelo.",
+          "es": "Tengo que apuntarlo."
+        }
+      ]
+    },
+    {
+      "id": "abschreiben",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ab-",
+        "schreib",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to copy; to cheat (in an exam)",
+        "tr": "kopya etmek; (sınavda) kopya çekmek",
+        "de": "einen Text kopieren; in der Prüfung vom Nachbarn kopieren",
+        "fr": "recopier ; copier (tricher)",
+        "it": "copiare",
+        "es": "copiar"
+      },
+      "sentences": [
+        {
+          "de": "Er wollte die Hausaufgaben von mir [abschreiben].",
+          "tr": "Ev ödevlerini benden kopyalamak istedi.",
+          "en": "He wanted to copy my homework.",
+          "fr": "Il voulait copier mes devoirs.",
+          "it": "Voleva copiare i miei compiti.",
+          "es": "Quería copiarme los deberes."
+        },
+        {
+          "de": "In der Prüfung darf man nicht [abschreiben].",
+          "tr": "Sınavda kopya çekmek yasak.",
+          "en": "You mustn't cheat in the exam.",
+          "fr": "On n'a pas le droit de copier pendant l'examen.",
+          "it": "All'esame non si può copiare.",
+          "es": "En el examen no se puede copiar."
+        }
+      ]
+    },
+    {
+      "id": "vorschreiben",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "vor-",
+        "schreib",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to prescribe, to dictate",
+        "tr": "dayatmak, şart koşmak",
+        "de": "genau sagen, was jemand tun muss",
+        "fr": "prescrire, imposer",
+        "it": "prescrivere, imporre",
+        "es": "prescribir, imponer"
+      },
+      "sentences": [
+        {
+          "de": "Du kannst mir nicht [vorschreiben], was ich anziehe.",
+          "tr": "Ne giyeceğimi bana dikte edemezsin.",
+          "en": "You can't tell me what to wear.",
+          "fr": "Tu ne peux pas m'imposer ce que je porte.",
+          "it": "Non puoi impormi cosa indossare.",
+          "es": "No puedes imponerme qué ponerme."
+        },
+        {
+          "de": "Das Gesetz kann eine Pause [vorschreiben].",
+          "tr": "Yasa bir mola şart koşabilir.",
+          "en": "The law can prescribe a break.",
+          "fr": "La loi peut imposer une pause.",
+          "it": "La legge può prescrivere una pausa.",
+          "es": "La ley puede prescribir una pausa."
+        }
+      ]
+    },
+    {
+      "id": "Vorschrift",
+      "pos": "noun",
+      "parent": "vorschreiben",
+      "parts": [
+        "vor-",
+        "schrift"
+      ],
+      "gloss": {
+        "en": "rule, regulation",
+        "tr": "kural, yönetmelik",
+        "de": "eine Regel, die man befolgen muss",
+        "fr": "la règle, le règlement",
+        "it": "la norma, il regolamento",
+        "es": "la norma, el reglamento"
+      },
+      "sentences": [
+        {
+          "de": "Das ist gegen die [Vorschriften].",
+          "tr": "Bu kurallara aykırı.",
+          "en": "That is against the rules.",
+          "fr": "C'est contraire au règlement.",
+          "it": "È contro le norme.",
+          "es": "Eso va contra las normas."
+        },
+        {
+          "de": "Ich mache nur Dienst nach [Vorschrift].",
+          "tr": "Sadece kurallara göre çalışıyorum.",
+          "en": "I'm just going by the book.",
+          "fr": "Je ne fais que suivre le règlement.",
+          "it": "Faccio solo quello che dice il regolamento.",
+          "es": "Solo cumplo el reglamento."
+        }
+      ]
+    },
+    {
+      "id": "Zeitschrift",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "zeit-",
+        "schrift"
+      ],
+      "gloss": {
+        "en": "magazine, journal",
+        "tr": "dergi",
+        "de": "ein Heft, das regelmäßig erscheint",
+        "fr": "le magazine, la revue",
+        "it": "la rivista",
+        "es": "la revista"
+      },
+      "sentences": [
+        {
+          "de": "Sie liest eine [Zeitschrift] über Mode.",
+          "tr": "Moda hakkında bir dergi okuyor.",
+          "en": "She is reading a fashion magazine.",
+          "fr": "Elle lit un magazine de mode.",
+          "it": "Legge una rivista di moda.",
+          "es": "Lee una revista de moda."
+        },
+        {
+          "de": "Der Artikel erschien in einer [Zeitschrift].",
+          "tr": "Makale bir dergide yayımlandı.",
+          "en": "The article appeared in a journal.",
+          "fr": "L'article est paru dans une revue.",
+          "it": "L'articolo è uscito su una rivista.",
+          "es": "El artículo salió en una revista."
+        }
+      ]
+    },
+    {
+      "id": "Anschrift",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "an-",
+        "schrift"
+      ],
+      "gloss": {
+        "en": "address",
+        "tr": "adres",
+        "de": "die Adresse, an die man schreibt",
+        "fr": "l'adresse",
+        "it": "l'indirizzo",
+        "es": "la dirección"
+      },
+      "sentences": [
+        {
+          "de": "Bitte geben Sie Ihre [Anschrift] an.",
+          "tr": "Lütfen adresinizi yazın.",
+          "en": "Please give your address.",
+          "fr": "Veuillez indiquer votre adresse.",
+          "it": "Indichi il suo indirizzo, per favore.",
+          "es": "Indique su dirección, por favor."
+        },
+        {
+          "de": "Meine neue [Anschrift] steht unten.",
+          "tr": "Yeni adresim aşağıda yazıyor.",
+          "en": "My new address is below.",
+          "fr": "Ma nouvelle adresse figure en bas.",
+          "it": "Il mio nuovo indirizzo è qui sotto.",
+          "es": "Mi nueva dirección está abajo."
+        }
+      ]
+    },
+    {
+      "id": "Überschrift",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "über-",
+        "schrift"
+      ],
+      "gloss": {
+        "en": "heading, headline",
+        "tr": "başlık",
+        "de": "der Titel über einem Text",
+        "fr": "le titre",
+        "it": "il titolo",
+        "es": "el titular, el título"
+      },
+      "sentences": [
+        {
+          "de": "Die [Überschrift] ist zu lang.",
+          "tr": "Başlık çok uzun.",
+          "en": "The headline is too long.",
+          "fr": "Le titre est trop long.",
+          "it": "Il titolo è troppo lungo.",
+          "es": "El titular es demasiado largo."
+        },
+        {
+          "de": "Lies zuerst nur die [Überschriften].",
+          "tr": "Önce sadece başlıkları oku.",
+          "en": "Read just the headings first.",
+          "fr": "Lis d'abord seulement les titres.",
+          "it": "Leggi prima solo i titoli.",
+          "es": "Lee primero solo los títulos."
+        }
+      ]
+    },
+    {
+      "id": "Rechtschreibung",
+      "pos": "noun",
+      "parent": "schreiben",
+      "parts": [
+        "recht-",
+        "schreib",
+        "-ung"
+      ],
+      "gloss": {
+        "en": "spelling, orthography",
+        "tr": "yazım, imla",
+        "de": "die richtige Art, Wörter zu schreiben",
+        "fr": "l'orthographe",
+        "it": "l'ortografia",
+        "es": "la ortografía"
+      },
+      "sentences": [
+        {
+          "de": "Die deutsche [Rechtschreibung] ist nicht leicht.",
+          "tr": "Almanca imla kolay değil.",
+          "en": "German spelling is not easy.",
+          "fr": "L'orthographe allemande n'est pas facile.",
+          "it": "L'ortografia tedesca non è facile.",
+          "es": "La ortografía alemana no es fácil."
+        },
+        {
+          "de": "Achte auf die [Rechtschreibung]!",
+          "tr": "Yazım kurallarına dikkat et!",
+          "en": "Watch your spelling!",
+          "fr": "Fais attention à l'orthographe !",
+          "it": "Fai attenzione all'ortografia!",
+          "es": "¡Cuida la ortografía!"
+        }
+      ]
+    }
+  ]
+}

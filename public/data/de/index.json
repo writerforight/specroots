@@ -72,6 +72,39 @@
     ]
   },
   {
+    "id": "geh",
+    "forms": [
+      "geh",
+      "gang",
+      "gäng"
+    ],
+    "origin": "de",
+    "meaning": {
+      "en": "to go, to walk",
+      "tr": "gitmek, yürümek",
+      "de": "zu Fuß gehen, sich bewegen (ging, gegangen; Gang)",
+      "fr": "aller, marcher",
+      "it": "andare, camminare",
+      "es": "ir, andar"
+    },
+    "words": [
+      "gehen",
+      "Gang",
+      "Eingang",
+      "Ausgang",
+      "Übergang",
+      "Untergang",
+      "Vorgang",
+      "Zugang",
+      "ausgehen",
+      "umgehen",
+      "Umgang",
+      "vergehen",
+      "Vergangenheit",
+      "Fußgänger"
+    ]
+  },
+  {
     "id": "halt",
     "forms": [
       "halt",
@@ -178,6 +211,72 @@
       "übernehmen",
       "Maßnahme",
       "Benehmen"
+    ]
+  },
+  {
+    "id": "schreib",
+    "forms": [
+      "schreib",
+      "schrift"
+    ],
+    "origin": "de",
+    "meaning": {
+      "en": "to write (borrowed early from Latin scribere, like English scribe)",
+      "tr": "yazmak (erken dönemde Latince scribere'den alınmış; İngilizce scribe ile aynı kaynak)",
+      "de": "Buchstaben aufs Papier bringen (schrieb, geschrieben; Schrift); früh aus lateinisch scribere entlehnt, wie englisch scribe",
+      "fr": "écrire (emprunté tôt au latin scribere, comme l'anglais scribe)",
+      "it": "scrivere (preso presto dal latino scribere, come l'inglese scribe)",
+      "es": "escribir (tomado pronto del latín scribere, como el inglés scribe)"
+    },
+    "words": [
+      "schreiben",
+      "Schrift",
+      "schriftlich",
+      "beschreiben",
+      "Beschreibung",
+      "unterschreiben",
+      "Unterschrift",
+      "aufschreiben",
+      "abschreiben",
+      "vorschreiben",
+      "Vorschrift",
+      "Zeitschrift",
+      "Anschrift",
+      "Überschrift",
+      "Rechtschreibung"
+    ]
+  },
+  {
+    "id": "seh",
+    "forms": [
+      "seh",
+      "sicht"
+    ],
+    "origin": "de",
+    "meaning": {
+      "en": "to see",
+      "tr": "görmek",
+      "de": "mit den Augen wahrnehmen (sah, gesehen; Sicht: das Sehen)",
+      "fr": "voir",
+      "it": "vedere",
+      "es": "ver"
+    },
+    "words": [
+      "sehen",
+      "Sicht",
+      "ansehen",
+      "Ansicht",
+      "aussehen",
+      "Aussicht",
+      "übersehen",
+      "Versehen",
+      "fernsehen",
+      "Fernseher",
+      "Vorsicht",
+      "vorsichtig",
+      "Rücksicht",
+      "Absicht",
+      "Übersicht"
     ]
   },
   {
@@ -295,6 +394,39 @@
       "Geständnis",
       "selbstständig",
       "Umstand"
+    ]
+  },
+  {
+    "id": "zieh",
+    "forms": [
+      "zieh",
+      "zug"
+    ],
+    "origin": "de",
+    "meaning": {
+      "en": "to pull, to draw; to move",
+      "tr": "çekmek; taşınmak",
+      "de": "etwas zu sich bewegen; umziehen (zog, gezogen; Zug: das Ziehen)",
+      "fr": "tirer ; déménager",
+      "it": "tirare; trasferirsi",
+      "es": "tirar; mudarse"
+    },
+    "words": [
+      "ziehen",
+      "Zug",
+      "Aufzug",
+      "anziehen",
+      "Anzug",
+      "ausziehen",
+      "Auszug",
+      "umziehen",
+      "Umzug",
+      "beziehen",
+      "Beziehung",
+      "erziehen",
+      "Erziehung",
+      "vorziehen",
+      "Vorzug"
     ]
   }
 ]

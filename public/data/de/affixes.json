@@ -529,5 +529,64 @@
       "it": "parola (Wort)",
       "es": "palabra (Wort)"
     }
+  },
+  "-heit": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "state or quality (makes a feminine noun)",
+      "tr": "durum, nitelik (dişil isim yapar; -lık)",
+      "de": "Zustand, Eigenschaft (macht ein weibliches Nomen)",
+      "fr": "état, qualité (nom féminin)",
+      "it": "stato, qualità (nome femminile)",
+      "es": "estado, cualidad (sustantivo femenino)"
+    }
+  },
+  "fuß-": {
+    "kind": "prefix",
+    "combining": true,
+    "meaning": {
+      "en": "foot (Fuß)",
+      "tr": "ayak (Fuß)",
+      "de": "Fuß",
+      "fr": "pied (Fuß)",
+      "it": "piede (Fuß)",
+      "es": "pie (Fuß)"
+    }
+  },
+  "fern-": {
+    "kind": "prefix",
+    "combining": true,
+    "meaning": {
+      "en": "far (fern)",
+      "tr": "uzak (fern)",
+      "de": "fern",
+      "fr": "loin (fern)",
+      "it": "lontano (fern)",
+      "es": "lejos (fern)"
+    }
+  },
+  "zeit-": {
+    "kind": "prefix",
+    "combining": true,
+    "meaning": {
+      "en": "time (Zeit)",
+      "tr": "zaman (Zeit)",
+      "de": "Zeit",
+      "fr": "temps (Zeit)",
+      "it": "tempo (Zeit)",
+      "es": "tiempo (Zeit)"
+    }
+  },
+  "recht-": {
+    "kind": "prefix",
+    "combining": true,
+    "meaning": {
+      "en": "right, correct (recht)",
+      "tr": "doğru (recht)",
+      "de": "recht, richtig",
+      "fr": "juste, correct (recht)",
+      "it": "giusto, corretto (recht)",
+      "es": "correcto (recht)"
+    }
   }
 }

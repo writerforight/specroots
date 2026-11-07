@@ -1,0 +1,550 @@
+{
+  "id": "seh",
+  "forms": [
+    "seh",
+    "sicht"
+  ],
+  "origin": "de",
+  "etymon": "sehen",
+  "meaning": {
+    "en": "to see",
+    "tr": "görmek",
+    "de": "mit den Augen wahrnehmen (sah, gesehen; Sicht: das Sehen)",
+    "fr": "voir",
+    "it": "vedere",
+    "es": "ver"
+  },
+  "words": [
+    {
+      "id": "sehen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "seh",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to see",
+        "tr": "görmek",
+        "de": "mit den Augen wahrnehmen",
+        "fr": "voir",
+        "it": "vedere",
+        "es": "ver"
+      },
+      "sentences": [
+        {
+          "de": "Ich [sehe] dich morgen.",
+          "tr": "Yarın görüşürüz.",
+          "en": "I'll see you tomorrow.",
+          "fr": "Je te vois demain.",
+          "it": "Ci vediamo domani.",
+          "es": "Te veo mañana."
+        },
+        {
+          "de": "Hast du den Film schon [gesehen]?",
+          "tr": "Filmi gördün mü?",
+          "en": "Have you seen the film yet?",
+          "fr": "Tu as déjà vu le film ?",
+          "it": "Hai già visto il film?",
+          "es": "¿Ya has visto la película?"
+        }
+      ]
+    },
+    {
+      "id": "Sicht",
+      "pos": "noun",
+      "parent": "sehen",
+      "parts": [
+        "sicht"
+      ],
+      "gloss": {
+        "en": "visibility, view; point of view",
+        "tr": "görüş, görüş mesafesi; bakış açısı",
+        "de": "wie weit man sehen kann; eine Meinung",
+        "fr": "la visibilité, la vue ; le point de vue",
+        "it": "la visibilità, la vista; il punto di vista",
+        "es": "la visibilidad, la vista; el punto de vista"
+      },
+      "sentences": [
+        {
+          "de": "Bei Nebel ist die [Sicht] schlecht.",
+          "tr": "Siste görüş kötü.",
+          "en": "Visibility is poor in fog.",
+          "fr": "Par temps de brouillard, la visibilité est mauvaise.",
+          "it": "Con la nebbia la visibilità è scarsa.",
+          "es": "Con niebla la visibilidad es mala."
+        },
+        {
+          "de": "Aus meiner [Sicht] ist das richtig.",
+          "tr": "Bana göre bu doğru.",
+          "en": "From my point of view, that's right.",
+          "fr": "De mon point de vue, c'est juste.",
+          "it": "Dal mio punto di vista è giusto.",
+          "es": "Desde mi punto de vista, es correcto."
+        }
+      ]
+    },
+    {
+      "id": "ansehen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "an-",
+        "seh",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to look at; to watch",
+        "tr": "bakmak; izlemek, incelemek",
+        "de": "auf etwas schauen; sich etwas ansehen: betrachten",
+        "fr": "regarder",
+        "it": "guardare",
+        "es": "mirar; ver"
+      },
+      "sentences": [
+        {
+          "de": "Wollen wir uns die Wohnung [ansehen]?",
+          "tr": "Daireye bir bakalım mı?",
+          "en": "Shall we have a look at the flat?",
+          "fr": "On va voir l'appartement ?",
+          "it": "Andiamo a vedere l'appartamento?",
+          "es": "¿Vamos a ver el piso?"
+        },
+        {
+          "de": "Er hat mich lange [angesehen].",
+          "tr": "Bana uzun süre baktı.",
+          "en": "He looked at me for a long time.",
+          "fr": "Il m'a regardé longtemps.",
+          "it": "Mi ha guardato a lungo.",
+          "es": "Me miró durante mucho tiempo."
+        }
+      ]
+    },
+    {
+      "id": "Ansicht",
+      "pos": "noun",
+      "parent": "ansehen",
+      "parts": [
+        "an-",
+        "sicht"
+      ],
+      "gloss": {
+        "en": "opinion, view",
+        "tr": "görüş, fikir; manzara",
+        "de": "eine Meinung; ein Bild von etwas",
+        "fr": "l'avis, l'opinion ; la vue",
+        "it": "l'opinione; la veduta",
+        "es": "la opinión; la vista"
+      },
+      "sentences": [
+        {
+          "de": "Ich bin anderer [Ansicht].",
+          "tr": "Ben farklı düşünüyorum.",
+          "en": "I am of a different opinion.",
+          "fr": "Je suis d'un autre avis.",
+          "it": "Sono di un altro parere.",
+          "es": "Soy de otra opinión."
+        },
+        {
+          "de": "Die Postkarte zeigt eine [Ansicht] von Aachen.",
+          "tr": "Kartpostal Aachen'dan bir manzara gösteriyor.",
+          "en": "The postcard shows a view of Aachen.",
+          "fr": "La carte postale montre une vue d'Aix-la-Chapelle.",
+          "it": "La cartolina mostra una veduta di Aquisgrana.",
+          "es": "La postal muestra una vista de Aquisgrán."
+        }
+      ]
+    },
+    {
+      "id": "aussehen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "aus-",
+        "seh",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to look (like), to appear",
+        "tr": "görünmek, benzemek",
+        "de": "einen bestimmten Eindruck machen",
+        "fr": "avoir l'air, ressembler",
+        "it": "sembrare, avere l'aspetto",
+        "es": "parecer, tener aspecto"
+      },
+      "sentences": [
+        {
+          "de": "Nach dem Urlaub wirst du erholt [aussehen].",
+          "tr": "Tatilden sonra dinlenmiş görüneceksin.",
+          "en": "After the holiday you'll look rested.",
+          "fr": "Après les vacances, tu auras l'air reposé.",
+          "it": "Dopo le vacanze sembrerai riposato.",
+          "es": "Después de las vacaciones parecerás descansado."
+        },
+        {
+          "de": "Wie soll das Logo [aussehen]?",
+          "tr": "Logo nasıl görünmeli?",
+          "en": "What should the logo look like?",
+          "fr": "À quoi doit ressembler le logo ?",
+          "it": "Come deve essere il logo?",
+          "es": "¿Cómo debe ser el logotipo?"
+        }
+      ]
+    },
+    {
+      "id": "Aussicht",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "aus-",
+        "sicht"
+      ],
+      "gloss": {
+        "en": "view; prospect",
+        "tr": "manzara; ihtimal, umut",
+        "de": "was man von einem Ort aus sieht; eine Chance für die Zukunft",
+        "fr": "la vue ; la perspective",
+        "it": "il panorama; la prospettiva",
+        "es": "las vistas; la perspectiva"
+      },
+      "sentences": [
+        {
+          "de": "Von hier hat man eine tolle [Aussicht].",
+          "tr": "Buradan harika bir manzara var.",
+          "en": "There is a great view from here.",
+          "fr": "D'ici, on a une vue superbe.",
+          "it": "Da qui c'è un panorama fantastico.",
+          "es": "Desde aquí hay unas vistas increíbles."
+        },
+        {
+          "de": "Er hat gute [Aussichten] auf den Job.",
+          "tr": "İşi alma ihtimali yüksek.",
+          "en": "He has good prospects for the job.",
+          "fr": "Il a de bonnes chances d'avoir le poste.",
+          "it": "Ha buone prospettive per il lavoro.",
+          "es": "Tiene buenas perspectivas para el trabajo."
+        }
+      ]
+    },
+    {
+      "id": "übersehen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "über-",
+        "seh",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to overlook, to miss",
+        "tr": "gözden kaçırmak",
+        "de": "etwas nicht bemerken",
+        "fr": "ne pas voir, oublier",
+        "it": "non vedere, trascurare",
+        "es": "pasar por alto"
+      },
+      "sentences": [
+        {
+          "de": "Ich habe den Fehler [übersehen].",
+          "tr": "Hatayı gözden kaçırdım.",
+          "en": "I overlooked the mistake.",
+          "fr": "Je n'ai pas vu l'erreur.",
+          "it": "Non ho visto l'errore.",
+          "es": "Pasé por alto el error."
+        },
+        {
+          "de": "Das Schild kann man leicht [übersehen].",
+          "tr": "Tabela kolayca gözden kaçabilir.",
+          "en": "The sign is easy to miss.",
+          "fr": "On peut facilement manquer le panneau.",
+          "it": "Il cartello si può facilmente non vedere.",
+          "es": "El letrero es fácil de pasar por alto."
+        }
+      ]
+    },
+    {
+      "id": "Versehen",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "ver-",
+        "seh",
+        "-en"
+      ],
+      "gloss": {
+        "en": "oversight, mistake; aus Versehen: by accident",
+        "tr": "dikkatsizlik, hata; aus Versehen: yanlışlıkla",
+        "de": "ein kleiner Fehler; aus Versehen: ohne Absicht",
+        "fr": "l'erreur, la méprise ; par mégarde",
+        "it": "la svista; per sbaglio",
+        "es": "el descuido; sin querer"
+      },
+      "sentences": [
+        {
+          "de": "Das war ein [Versehen], tut mir leid.",
+          "tr": "Dikkatsizlikti, özür dilerim.",
+          "en": "That was a mistake, sorry.",
+          "fr": "C'était une erreur, désolé.",
+          "it": "È stata una svista, scusa.",
+          "es": "Fue un descuido, lo siento."
+        },
+        {
+          "de": "Ich habe dein Glas aus [Versehen] genommen.",
+          "tr": "Yanlışlıkla senin bardağını aldım.",
+          "en": "I took your glass by accident.",
+          "fr": "J'ai pris ton verre par mégarde.",
+          "it": "Ho preso il tuo bicchiere per sbaglio.",
+          "es": "Cogí tu vaso sin querer."
+        }
+      ]
+    },
+    {
+      "id": "fernsehen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "fern-",
+        "seh",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to watch TV",
+        "tr": "televizyon izlemek",
+        "de": "Sendungen im Fernsehen anschauen",
+        "fr": "regarder la télé",
+        "it": "guardare la TV",
+        "es": "ver la tele"
+      },
+      "sentences": [
+        {
+          "de": "Kinder sollten nicht zu viel [fernsehen].",
+          "tr": "Çocuklar çok fazla televizyon izlememeli.",
+          "en": "Children shouldn't watch too much TV.",
+          "fr": "Les enfants ne devraient pas trop regarder la télé.",
+          "it": "I bambini non dovrebbero guardare troppa TV.",
+          "es": "Los niños no deberían ver demasiada tele."
+        },
+        {
+          "de": "Wir haben gestern Abend [ferngesehen].",
+          "tr": "Dün akşam televizyon izledik.",
+          "en": "We watched TV last night.",
+          "fr": "Nous avons regardé la télé hier soir.",
+          "it": "Ieri sera abbiamo guardato la TV.",
+          "es": "Anoche vimos la tele."
+        }
+      ]
+    },
+    {
+      "id": "Fernseher",
+      "pos": "noun",
+      "parent": "fernsehen",
+      "parts": [
+        "fern-",
+        "seh",
+        "-er"
+      ],
+      "gloss": {
+        "en": "TV set, television",
+        "tr": "televizyon (cihaz)",
+        "de": "das Gerät, mit dem man fernsieht",
+        "fr": "le téléviseur",
+        "it": "il televisore",
+        "es": "el televisor"
+      },
+      "sentences": [
+        {
+          "de": "Mach bitte den [Fernseher] aus.",
+          "tr": "Televizyonu kapat lütfen.",
+          "en": "Please turn off the TV.",
+          "fr": "Éteins la télé, s'il te plaît.",
+          "it": "Spegni il televisore, per favore.",
+          "es": "Apaga la tele, por favor."
+        },
+        {
+          "de": "Wir haben einen neuen [Fernseher].",
+          "tr": "Yeni bir televizyonumuz var.",
+          "en": "We have a new TV.",
+          "fr": "Nous avons une nouvelle télé.",
+          "it": "Abbiamo un televisore nuovo.",
+          "es": "Tenemos un televisor nuevo."
+        }
+      ]
+    },
+    {
+      "id": "Vorsicht",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "vor-",
+        "sicht"
+      ],
+      "gloss": {
+        "en": "caution, care",
+        "tr": "dikkat, ihtiyat",
+        "de": "Achtung, damit nichts Schlimmes passiert",
+        "fr": "la prudence ; attention !",
+        "it": "la prudenza; attenzione!",
+        "es": "la precaución; ¡cuidado!"
+      },
+      "sentences": [
+        {
+          "de": "[Vorsicht], die Treppe ist nass!",
+          "tr": "Dikkat, merdiven ıslak!",
+          "en": "Careful, the stairs are wet!",
+          "fr": "Attention, l'escalier est mouillé !",
+          "it": "Attenzione, le scale sono bagnate!",
+          "es": "¡Cuidado, la escalera está mojada!"
+        },
+        {
+          "de": "Mit [Vorsicht] zu genießen.",
+          "tr": "Temkinli yaklaşmak lazım.",
+          "en": "To be taken with a pinch of salt.",
+          "fr": "À prendre avec des pincettes.",
+          "it": "Da prendere con le pinze.",
+          "es": "Hay que tomarlo con cautela."
+        }
+      ]
+    },
+    {
+      "id": "vorsichtig",
+      "pos": "adjective",
+      "parent": "Vorsicht",
+      "parts": [
+        "vor-",
+        "sicht",
+        "-ig"
+      ],
+      "gloss": {
+        "en": "careful, cautious",
+        "tr": "dikkatli, temkinli",
+        "de": "mit viel Vorsicht",
+        "fr": "prudent",
+        "it": "prudente, attento",
+        "es": "cuidadoso, prudente"
+      },
+      "sentences": [
+        {
+          "de": "Fahr bitte [vorsichtig]!",
+          "tr": "Lütfen dikkatli sür!",
+          "en": "Please drive carefully!",
+          "fr": "Conduis prudemment, s'il te plaît !",
+          "it": "Guida con prudenza, per favore!",
+          "es": "¡Conduce con cuidado, por favor!"
+        },
+        {
+          "de": "Sie ist eine [vorsichtige] Fahrerin.",
+          "tr": "O dikkatli bir sürücü.",
+          "en": "She is a careful driver.",
+          "fr": "C'est une conductrice prudente.",
+          "it": "È una guidatrice prudente.",
+          "es": "Es una conductora prudente."
+        }
+      ]
+    },
+    {
+      "id": "Rücksicht",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "rück-",
+        "sicht"
+      ],
+      "gloss": {
+        "en": "consideration, regard",
+        "tr": "saygı, düşünceli olma",
+        "de": "wenn man an die Gefühle und Wünsche anderer denkt",
+        "fr": "les égards, la considération",
+        "it": "il riguardo, la considerazione",
+        "es": "la consideración"
+      },
+      "sentences": [
+        {
+          "de": "Nimm bitte [Rücksicht] auf die Nachbarn.",
+          "tr": "Lütfen komşuları düşün.",
+          "en": "Please show consideration for the neighbours.",
+          "fr": "Aie des égards pour les voisins.",
+          "it": "Abbi riguardo per i vicini.",
+          "es": "Ten consideración con los vecinos."
+        },
+        {
+          "de": "Er zeigt keine [Rücksicht].",
+          "tr": "Hiç düşünceli davranmıyor.",
+          "en": "He shows no consideration.",
+          "fr": "Il n'a aucun égard.",
+          "it": "Non ha alcun riguardo.",
+          "es": "No muestra ninguna consideración."
+        }
+      ]
+    },
+    {
+      "id": "Absicht",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "ab-",
+        "sicht"
+      ],
+      "gloss": {
+        "en": "intention",
+        "tr": "niyet, kasıt",
+        "de": "was man tun will; ein Plan",
+        "fr": "l'intention",
+        "it": "l'intenzione",
+        "es": "la intención"
+      },
+      "sentences": [
+        {
+          "de": "Das war keine [Absicht].",
+          "tr": "Bilerek yapmadım.",
+          "en": "That wasn't intentional.",
+          "fr": "Ce n'était pas exprès.",
+          "it": "Non l'ho fatto apposta.",
+          "es": "No fue a propósito."
+        },
+        {
+          "de": "Was ist deine [Absicht]?",
+          "tr": "Niyetin ne?",
+          "en": "What is your intention?",
+          "fr": "Quelle est ton intention ?",
+          "it": "Qual è la tua intenzione?",
+          "es": "¿Cuál es tu intención?"
+        }
+      ]
+    },
+    {
+      "id": "Übersicht",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "über-",
+        "sicht"
+      ],
+      "gloss": {
+        "en": "overview",
+        "tr": "genel bakış, özet",
+        "de": "ein Bild vom Ganzen; eine kurze Zusammenfassung",
+        "fr": "la vue d'ensemble, l'aperçu",
+        "it": "la panoramica, il quadro generale",
+        "es": "la visión general, el resumen"
+      },
+      "sentences": [
+        {
+          "de": "Hier ist eine [Übersicht] über alle Kurse.",
+          "tr": "İşte bütün kursların bir özeti.",
+          "en": "Here is an overview of all courses.",
+          "fr": "Voici un aperçu de tous les cours.",
+          "it": "Ecco una panoramica di tutti i corsi.",
+          "es": "Aquí tienes un resumen de todos los cursos."
+        },
+        {
+          "de": "Ich habe die [Übersicht] verloren.",
+          "tr": "İşin içinden çıkamaz oldum.",
+          "en": "I've lost track.",
+          "fr": "J'ai perdu le fil.",
+          "it": "Ho perso il quadro generale.",
+          "es": "He perdido la visión de conjunto."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,515 @@
+{
+  "id": "geh",
+  "forms": [
+    "geh",
+    "gang",
+    "gäng"
+  ],
+  "origin": "de",
+  "etymon": "gehen",
+  "meaning": {
+    "en": "to go, to walk",
+    "tr": "gitmek, yürümek",
+    "de": "zu Fuß gehen, sich bewegen (ging, gegangen; Gang)",
+    "fr": "aller, marcher",
+    "it": "andare, camminare",
+    "es": "ir, andar"
+  },
+  "words": [
+    {
+      "id": "gehen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "geh",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to go, to walk; to work",
+        "tr": "gitmek, yürümek; olmak, işlemek",
+        "de": "sich zu Fuß bewegen; irgendwohin gehen; funktionieren",
+        "fr": "aller, marcher ; marcher (fonctionner)",
+        "it": "andare, camminare; funzionare",
+        "es": "ir, andar; funcionar"
+      },
+      "sentences": [
+        {
+          "de": "Ich [gehe] jeden Tag zu Fuß zur Arbeit.",
+          "tr": "Her gün işe yürüyerek gidiyorum.",
+          "en": "I walk to work every day.",
+          "fr": "Je vais au travail à pied tous les jours.",
+          "it": "Vado al lavoro a piedi ogni giorno.",
+          "es": "Voy andando al trabajo todos los días."
+        },
+        {
+          "de": "Wie [geht] es dir?",
+          "tr": "Nasılsın?",
+          "en": "How are you?",
+          "fr": "Comment vas-tu ?",
+          "it": "Come stai?",
+          "es": "¿Cómo estás?"
+        }
+      ]
+    },
+    {
+      "id": "Gang",
+      "pos": "noun",
+      "parent": "gehen",
+      "parts": [
+        "gang"
+      ],
+      "gloss": {
+        "en": "corridor; gait; course (of a meal); gear",
+        "tr": "koridor; yürüyüş; (yemek) servis; vites",
+        "de": "ein Flur; die Art zu gehen; ein Teil eines Menüs; beim Auto: der Gang",
+        "fr": "le couloir ; la démarche ; le plat ; la vitesse",
+        "it": "il corridoio; l'andatura; la portata; la marcia",
+        "es": "el pasillo; el andar; el plato; la marcha"
+      },
+      "sentences": [
+        {
+          "de": "Das Büro ist am Ende des [Gangs].",
+          "tr": "Ofis koridorun sonunda.",
+          "en": "The office is at the end of the corridor.",
+          "fr": "Le bureau est au bout du couloir.",
+          "it": "L'ufficio è in fondo al corridoio.",
+          "es": "La oficina está al final del pasillo."
+        },
+        {
+          "de": "Leg den zweiten [Gang] ein.",
+          "tr": "İkinci vitese tak.",
+          "en": "Shift into second gear.",
+          "fr": "Passe la deuxième vitesse.",
+          "it": "Metti la seconda marcia.",
+          "es": "Mete la segunda marcha."
+        }
+      ]
+    },
+    {
+      "id": "Eingang",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "ein-",
+        "gang"
+      ],
+      "gloss": {
+        "en": "entrance",
+        "tr": "giriş",
+        "de": "die Tür oder der Weg, durch den man hineingeht",
+        "fr": "l'entrée",
+        "it": "l'ingresso",
+        "es": "la entrada"
+      },
+      "sentences": [
+        {
+          "de": "Wir treffen uns am [Eingang].",
+          "tr": "Girişte buluşalım.",
+          "en": "Let's meet at the entrance.",
+          "fr": "On se retrouve à l'entrée.",
+          "it": "Ci vediamo all'ingresso.",
+          "es": "Nos vemos en la entrada."
+        },
+        {
+          "de": "Der [Eingang] ist hinter dem Haus.",
+          "tr": "Giriş evin arkasında.",
+          "en": "The entrance is behind the house.",
+          "fr": "L'entrée est derrière la maison.",
+          "it": "L'ingresso è dietro la casa.",
+          "es": "La entrada está detrás de la casa."
+        }
+      ]
+    },
+    {
+      "id": "Ausgang",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "aus-",
+        "gang"
+      ],
+      "gloss": {
+        "en": "exit, way out; outcome",
+        "tr": "çıkış; sonuç",
+        "de": "die Tür oder der Weg, durch den man hinausgeht; das Ende",
+        "fr": "la sortie ; l'issue",
+        "it": "l'uscita; l'esito",
+        "es": "la salida; el desenlace"
+      },
+      "sentences": [
+        {
+          "de": "Wo ist der [Ausgang]?",
+          "tr": "Çıkış nerede?",
+          "en": "Where is the exit?",
+          "fr": "Où est la sortie ?",
+          "it": "Dov'è l'uscita?",
+          "es": "¿Dónde está la salida?"
+        },
+        {
+          "de": "Der [Ausgang] des Spiels war offen.",
+          "tr": "Maçın sonucu belli değildi.",
+          "en": "The outcome of the game was open.",
+          "fr": "L'issue du match était incertaine.",
+          "it": "L'esito della partita era aperto.",
+          "es": "El resultado del partido estaba abierto."
+        }
+      ]
+    },
+    {
+      "id": "Übergang",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "über-",
+        "gang"
+      ],
+      "gloss": {
+        "en": "crossing; transition",
+        "tr": "geçit, geçiş",
+        "de": "eine Stelle zum Überqueren; der Wechsel von einem Zustand zum anderen",
+        "fr": "le passage ; la transition",
+        "it": "il passaggio; la transizione",
+        "es": "el paso; la transición"
+      },
+      "sentences": [
+        {
+          "de": "Geh über den [Übergang] dort.",
+          "tr": "Şuradaki geçitten karşıya geç.",
+          "en": "Cross at that crossing over there.",
+          "fr": "Traverse au passage là-bas.",
+          "it": "Attraversa al passaggio là.",
+          "es": "Cruza por aquel paso."
+        },
+        {
+          "de": "Der [Übergang] zur Uni war nicht leicht.",
+          "tr": "Üniversiteye geçiş kolay olmadı.",
+          "en": "The transition to university was not easy.",
+          "fr": "La transition vers l'université n'a pas été facile.",
+          "it": "Il passaggio all'università non è stato facile.",
+          "es": "La transición a la universidad no fue fácil."
+        }
+      ]
+    },
+    {
+      "id": "Untergang",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "unter-",
+        "gang"
+      ],
+      "gloss": {
+        "en": "setting (of the sun); downfall, sinking",
+        "tr": "(güneşin) batışı; çöküş, batma",
+        "de": "das Verschwinden der Sonne am Abend; das Ende, der Zusammenbruch",
+        "fr": "le coucher ; la chute, le naufrage",
+        "it": "il tramonto; il declino, l'affondamento",
+        "es": "la puesta; la caída, el hundimiento"
+      },
+      "sentences": [
+        {
+          "de": "Wir sahen den [Untergang] der Sonne am Meer.",
+          "tr": "Denizde gün batımını izledik.",
+          "en": "We watched the sun set over the sea.",
+          "fr": "Nous avons regardé le coucher du soleil sur la mer.",
+          "it": "Abbiamo guardato il tramonto sul mare.",
+          "es": "Vimos la puesta de sol en el mar."
+        },
+        {
+          "de": "Der Film zeigt den [Untergang] der Titanic.",
+          "tr": "Film Titanik'in batışını anlatıyor.",
+          "en": "The film shows the sinking of the Titanic.",
+          "fr": "Le film montre le naufrage du Titanic.",
+          "it": "Il film mostra l'affondamento del Titanic.",
+          "es": "La película muestra el hundimiento del Titanic."
+        }
+      ]
+    },
+    {
+      "id": "Vorgang",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "vor-",
+        "gang"
+      ],
+      "gloss": {
+        "en": "process, event",
+        "tr": "süreç, olay",
+        "de": "etwas, das passiert; ein Prozess",
+        "fr": "le processus, l'opération",
+        "it": "il processo, l'operazione",
+        "es": "el proceso"
+      },
+      "sentences": [
+        {
+          "de": "Erkläre mir den [Vorgang] genau.",
+          "tr": "Süreci bana tam olarak açıkla.",
+          "en": "Explain the process to me exactly.",
+          "fr": "Explique-moi exactement le processus.",
+          "it": "Spiegami esattamente il processo.",
+          "es": "Explícame el proceso con detalle."
+        },
+        {
+          "de": "Der ganze [Vorgang] dauert zehn Minuten.",
+          "tr": "Bütün süreç on dakika sürüyor.",
+          "en": "The whole process takes ten minutes.",
+          "fr": "L'opération entière dure dix minutes.",
+          "it": "L'intero processo dura dieci minuti.",
+          "es": "Todo el proceso dura diez minutos."
+        }
+      ]
+    },
+    {
+      "id": "Zugang",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "zu-",
+        "gang"
+      ],
+      "gloss": {
+        "en": "access",
+        "tr": "erişim, giriş",
+        "de": "der Weg hinein; das Recht, etwas zu benutzen",
+        "fr": "l'accès",
+        "it": "l'accesso",
+        "es": "el acceso"
+      },
+      "sentences": [
+        {
+          "de": "Hast du [Zugang] zum Internet?",
+          "tr": "İnternete erişimin var mı?",
+          "en": "Do you have access to the internet?",
+          "fr": "As-tu accès à Internet ?",
+          "it": "Hai accesso a internet?",
+          "es": "¿Tienes acceso a internet?"
+        },
+        {
+          "de": "Der [Zugang] zum Strand ist kostenlos.",
+          "tr": "Plaja giriş ücretsiz.",
+          "en": "Access to the beach is free.",
+          "fr": "L'accès à la plage est gratuit.",
+          "it": "L'accesso alla spiaggia è gratuito.",
+          "es": "El acceso a la playa es gratuito."
+        }
+      ]
+    },
+    {
+      "id": "ausgehen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "aus-",
+        "geh",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to go out; to run out; davon ausgehen: to assume",
+        "tr": "dışarı çıkmak (eğlenmeye); tükenmek; davon ausgehen: varsaymak",
+        "de": "abends weggehen, um Spaß zu haben; zu Ende gehen; davon ausgehen: annehmen",
+        "fr": "sortir ; s'épuiser ; partir du principe",
+        "it": "uscire; finire; dare per scontato",
+        "es": "salir; acabarse; dar por hecho"
+      },
+      "sentences": [
+        {
+          "de": "Wollen wir heute Abend [ausgehen]?",
+          "tr": "Bu akşam dışarı çıkalım mı?",
+          "en": "Shall we go out tonight?",
+          "fr": "On sort ce soir ?",
+          "it": "Usciamo stasera?",
+          "es": "¿Salimos esta noche?"
+        },
+        {
+          "de": "Uns ist das Benzin [ausgegangen].",
+          "tr": "Benzinimiz bitti.",
+          "en": "We ran out of petrol.",
+          "fr": "Nous sommes tombés en panne d'essence.",
+          "it": "Siamo rimasti senza benzina.",
+          "es": "Nos quedamos sin gasolina."
+        }
+      ]
+    },
+    {
+      "id": "umgehen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "um-",
+        "geh",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to deal with, to handle",
+        "tr": "(biriyle, bir şeyle) başa çıkmak, davranmak",
+        "de": "mit etwas oder jemandem umgehen: behandeln, damit klarkommen",
+        "fr": "gérer, s'y prendre avec",
+        "it": "gestire, trattare",
+        "es": "manejar, tratar con"
+      },
+      "sentences": [
+        {
+          "de": "Sie kann gut mit Kindern [umgehen].",
+          "tr": "Çocuklarla iyi geçinir.",
+          "en": "She is good with children.",
+          "fr": "Elle sait bien s'y prendre avec les enfants.",
+          "it": "Ci sa fare con i bambini.",
+          "es": "Se le dan bien los niños."
+        },
+        {
+          "de": "Wie soll ich mit dem Stress [umgehen]?",
+          "tr": "Stresle nasıl başa çıkmalıyım?",
+          "en": "How should I deal with the stress?",
+          "fr": "Comment dois-je gérer le stress ?",
+          "it": "Come devo gestire lo stress?",
+          "es": "¿Cómo debo manejar el estrés?"
+        }
+      ]
+    },
+    {
+      "id": "Umgang",
+      "pos": "noun",
+      "parent": "umgehen",
+      "parts": [
+        "um-",
+        "gang"
+      ],
+      "gloss": {
+        "en": "handling, dealing with; contact",
+        "tr": "davranış biçimi, kullanım; ilişki",
+        "de": "wie man mit etwas oder jemandem umgeht; Kontakt",
+        "fr": "la manière de traiter ; la fréquentation",
+        "it": "il modo di trattare; le frequentazioni",
+        "es": "el trato, el manejo"
+      },
+      "sentences": [
+        {
+          "de": "Der [Umgang] mit Geld will gelernt sein.",
+          "tr": "Parayı kullanmayı öğrenmek gerekir.",
+          "en": "Handling money has to be learned.",
+          "fr": "La gestion de l'argent, ça s'apprend.",
+          "it": "La gestione del denaro va imparata.",
+          "es": "Manejar el dinero hay que aprenderlo."
+        },
+        {
+          "de": "Er hat einen freundlichen [Umgang] mit Kunden.",
+          "tr": "Müşterilere karşı nazik davranır.",
+          "en": "He treats customers in a friendly way.",
+          "fr": "Il est aimable avec les clients.",
+          "it": "Tratta i clienti con gentilezza.",
+          "es": "Tiene un trato amable con los clientes."
+        }
+      ]
+    },
+    {
+      "id": "vergehen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ver-",
+        "geh",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to pass (time); to fade, to go away",
+        "tr": "geçmek (zaman); geçip gitmek",
+        "de": "vorbeigehen (Zeit); aufhören",
+        "fr": "passer ; disparaître",
+        "it": "passare; svanire",
+        "es": "pasar; desaparecer"
+      },
+      "sentences": [
+        {
+          "de": "Die Zeit [vergeht] so schnell!",
+          "tr": "Zaman ne kadar hızlı geçiyor!",
+          "en": "Time goes by so fast!",
+          "fr": "Le temps passe si vite !",
+          "it": "Il tempo passa così in fretta!",
+          "es": "¡El tiempo pasa muy rápido!"
+        },
+        {
+          "de": "Die Schmerzen werden bald [vergehen].",
+          "tr": "Ağrılar yakında geçecek.",
+          "en": "The pain will soon go away.",
+          "fr": "La douleur va bientôt passer.",
+          "it": "Il dolore passerà presto.",
+          "es": "El dolor pasará pronto."
+        }
+      ]
+    },
+    {
+      "id": "Vergangenheit",
+      "pos": "noun",
+      "parent": "vergehen",
+      "parts": [
+        "ver-",
+        "gang",
+        "-en",
+        "-heit"
+      ],
+      "gloss": {
+        "en": "the past",
+        "tr": "geçmiş",
+        "de": "die Zeit, die schon vorbei ist",
+        "fr": "le passé",
+        "it": "il passato",
+        "es": "el pasado"
+      },
+      "sentences": [
+        {
+          "de": "Lass die [Vergangenheit] ruhen.",
+          "tr": "Geçmişi geçmişte bırak.",
+          "en": "Let the past rest.",
+          "fr": "Laisse le passé derrière toi.",
+          "it": "Lascia stare il passato.",
+          "es": "Deja el pasado atrás."
+        },
+        {
+          "de": "In der [Vergangenheit] war hier ein See.",
+          "tr": "Geçmişte burada bir göl vardı.",
+          "en": "In the past there was a lake here.",
+          "fr": "Autrefois, il y avait un lac ici.",
+          "it": "In passato qui c'era un lago.",
+          "es": "En el pasado aquí había un lago."
+        }
+      ]
+    },
+    {
+      "id": "Fußgänger",
+      "pos": "noun",
+      "parent": "gehen",
+      "parts": [
+        "fuß-",
+        "gäng",
+        "-er"
+      ],
+      "gloss": {
+        "en": "pedestrian",
+        "tr": "yaya",
+        "de": "jemand, der zu Fuß geht",
+        "fr": "le piéton",
+        "it": "il pedone",
+        "es": "el peatón"
+      },
+      "sentences": [
+        {
+          "de": "[Fußgänger] haben hier Vorrang.",
+          "tr": "Burada yayaların önceliği var.",
+          "en": "Pedestrians have priority here.",
+          "fr": "Les piétons sont prioritaires ici.",
+          "it": "Qui i pedoni hanno la precedenza.",
+          "es": "Aquí los peatones tienen prioridad."
+        },
+        {
+          "de": "Die Innenstadt ist nur für [Fußgänger].",
+          "tr": "Şehir merkezi yalnızca yayalara açık.",
+          "en": "The town centre is for pedestrians only.",
+          "fr": "Le centre-ville est réservé aux piétons.",
+          "it": "Il centro è solo per i pedoni.",
+          "es": "El centro es solo para peatones."
+        }
+      ]
+    }
+  ]
+}
