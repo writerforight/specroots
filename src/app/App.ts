@@ -39,6 +39,12 @@ export class App {
   private readonly tagline = h('span', { class: 'tagline' });
   private readonly settingsButton = h('button', { class: 'icon-button settings-button', type: 'button', onclick: () => this.dialog.open('settings') });
 
+  private readonly themeButton = h('button', {
+    class: 'icon-button theme-button',
+    type: 'button',
+    onclick: () => this.settings.update({ theme: ThemeController.flip(this.settings.value.theme, window.matchMedia('(prefers-color-scheme: dark)').matches) }),
+  });
+
   private roots: RootSummary[] = [];
   private affixes: ReadonlyMap<string, Affix> = new Map();
   private objects: ObjectSummary[] = [];
@@ -73,11 +79,14 @@ export class App {
         { class: 'topbar' },
         h('a', { class: 'brand', href: '#/' }, h('span', { class: 'brand-name' }, 'spec', h('b', {}, 'roots')), this.tagline),
         this.search.el,
+        this.themeButton,
         this.settingsButton,
       ),
       h('div', { class: 'layout' }, this.sidebar, this.detail.el),
       this.dialog.el,
     );
+    this.themeButton.innerHTML =
+      '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8" stroke="currentColor" stroke-width="1.8" fill="none"/><path d="M12 4a8 8 0 0 1 0 16z" fill="currentColor"/></svg>';
     this.settingsButton.innerHTML =
       '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h10M18 7h2M4 17h4M12 17h8" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" fill="none"/><circle cx="16" cy="7" r="2" stroke="currentColor" stroke-width="1.8" fill="none"/><circle cx="10" cy="17" r="2" stroke="currentColor" stroke-width="1.8" fill="none"/></svg>';
 
@@ -112,6 +121,8 @@ export class App {
     this.tagline.textContent = this.i18n.t('tagline');
     this.settingsButton.title = this.i18n.t('settings');
     this.settingsButton.setAttribute('aria-label', this.i18n.t('settings'));
+    this.themeButton.title = this.i18n.t('theme');
+    this.themeButton.setAttribute('aria-label', this.i18n.t('theme'));
     this.search.relabel();
   }
 

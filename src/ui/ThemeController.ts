@@ -8,4 +8,15 @@ export class ThemeController {
     if (choice === 'system') this.root.removeAttribute('data-theme');
     else this.root.setAttribute('data-theme', choice);
   }
+
+  /** The choice a one-tap button should switch to: flips light/dark, and black-on-white/white-on-black. */
+  static flip(choice: ThemeChoice, systemDark: boolean): ThemeChoice {
+    switch (choice) {
+      case 'light': return 'dark';
+      case 'dark': return 'light';
+      case 'mono': return 'mono-dark';
+      case 'mono-dark': return 'mono';
+      case 'system': return systemDark ? 'light' : 'dark';
+    }
+  }
 }

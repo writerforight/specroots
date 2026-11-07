@@ -72,3 +72,20 @@
   --suffix: #000000;
   --shadow: none;
 }
+
+/* Same black & white look, inverted: white on black. */
+:root[data-theme='mono-dark'] {
+  --bg: #000000;
+  --surface: #000000;
+  --surface-2: #1a1a1a;
+  --text: #ffffff;
+  --text-muted: #b3b3b3;
+  --border: #ffffff;
+  --accent: #ffffff;
+  --accent-soft: #262626;
+  --on-accent: #000000;
+  --mark: #4d4d4d;
+  --prefix: #ffffff;
+  --suffix: #ffffff;
+  --shadow: none;
+}

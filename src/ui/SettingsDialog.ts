@@ -59,7 +59,8 @@ export class SettingsDialog {
             warning.hidden = false;
             return;
           }
-          const theme = (form.querySelector<HTMLInputElement>('input[name="theme"]:checked')?.value ?? 'system') as ThemeChoice;
+          const picked = (form.querySelector<HTMLInputElement>('input[name="theme"]:checked')?.value ?? 'system') as ThemeChoice;
+          const theme = picked === 'mono' && this.store.value.theme === 'mono-dark' ? 'mono-dark' : picked;
           // "Start with": a roots-section mode, or the object lists.
           const start = form.querySelector<HTMLInputElement>('input[name="browse"]:checked')?.value ?? 'root';
           const section: Section = start === 'lists' ? 'lists' : 'roots';
@@ -106,7 +107,7 @@ export class SettingsDialog {
           'div',
           { class: 'chips' },
           ...(['system', 'light', 'dark', 'mono'] as const).map((theme) =>
-            h('label', { class: 'chip' }, h('input', { type: 'radio', name: 'theme', value: theme, checked: s.theme === theme }), t(`theme_${theme}`)),
+            h('label', { class: 'chip' }, h('input', { type: 'radio', name: 'theme', value: theme, checked: s.theme === theme || (theme === 'mono' && s.theme === 'mono-dark') }), t(`theme_${theme}`)),
           ),
         ),
       ),

@@ -1,7 +1,7 @@
 import { isLang, isTranslationLang, type Lang, type TranslationLang } from '../domain/Language';
 import type { KeyValueStore } from './KeyValueStore';
 
-export type ThemeChoice = 'system' | 'light' | 'dark' | 'mono';
+export type ThemeChoice = 'system' | 'light' | 'dark' | 'mono' | 'mono-dark';
 export type DerivationViewKind = 'list' | 'tree';
 /** The two halves of the app: word roots (part one of the plan) and object lists (part two). */
 export type Section = 'roots' | 'lists';
@@ -85,7 +85,7 @@ export class SettingsStore {
     return {
       uiLang: isLang(raw.uiLang) ? raw.uiLang : defaults.uiLang,
       translationLangs: langs ?? defaults.translationLangs,
-      theme: raw.theme === 'light' || raw.theme === 'dark' || raw.theme === 'mono' || raw.theme === 'system' ? raw.theme : defaults.theme,
+      theme: raw.theme === 'light' || raw.theme === 'dark' || raw.theme === 'mono' || raw.theme === 'mono-dark' || raw.theme === 'system' ? raw.theme : defaults.theme,
       derivationView: raw.derivationView === 'tree' ? 'tree' : 'list',
       section: raw.section === 'lists' ? 'lists' : 'roots',
       browseMode: raw.browseMode === 'prefix' || raw.browseMode === 'suffix' ? raw.browseMode : 'root',
