@@ -1,0 +1,414 @@
+{
+  "id": "nehm",
+  "forms": [
+    "nehm",
+    "nahm"
+  ],
+  "origin": "de",
+  "etymon": "nehmen",
+  "meaning": {
+    "en": "to take",
+    "tr": "almak",
+    "de": "etwas greifen und zu sich holen (nahm, genommen)",
+    "fr": "prendre",
+    "it": "prendere",
+    "es": "tomar, coger"
+  },
+  "words": [
+    {
+      "id": "nehmen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "nehm",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to take",
+        "tr": "almak",
+        "de": "etwas mit der Hand greifen; etwas wählen oder benutzen",
+        "fr": "prendre",
+        "it": "prendere",
+        "es": "tomar, coger"
+      },
+      "sentences": [
+        {
+          "de": "Ich [nehme] den Bus.",
+          "tr": "Otobüse bineceğim.",
+          "en": "I'll take the bus.",
+          "fr": "Je prends le bus.",
+          "it": "Prendo l'autobus.",
+          "es": "Cojo el autobús."
+        },
+        {
+          "de": "[Nehmen] Sie bitte Platz.",
+          "tr": "Lütfen oturun.",
+          "en": "Please take a seat.",
+          "fr": "Asseyez-vous, je vous prie.",
+          "it": "Si accomodi, prego.",
+          "es": "Tome asiento, por favor."
+        }
+      ]
+    },
+    {
+      "id": "annehmen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "an-",
+        "nehm",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to accept; to assume",
+        "tr": "kabul etmek; varsaymak",
+        "de": "etwas akzeptieren; vermuten",
+        "fr": "accepter ; supposer",
+        "it": "accettare; supporre",
+        "es": "aceptar; suponer"
+      },
+      "sentences": [
+        {
+          "de": "Willst du das Angebot [annehmen]?",
+          "tr": "Teklifi kabul etmek istiyor musun?",
+          "en": "Do you want to accept the offer?",
+          "fr": "Tu veux accepter l'offre ?",
+          "it": "Vuoi accettare l'offerta?",
+          "es": "¿Quieres aceptar la oferta?"
+        },
+        {
+          "de": "Man kann [annehmen], dass er recht hat.",
+          "tr": "Haklı olduğu varsayılabilir.",
+          "en": "One can assume that he is right.",
+          "fr": "On peut supposer qu'il a raison.",
+          "it": "Si può supporre che abbia ragione.",
+          "es": "Se puede suponer que tiene razón."
+        }
+      ]
+    },
+    {
+      "id": "Annahme",
+      "pos": "noun",
+      "parent": "annehmen",
+      "parts": [
+        "an-",
+        "nahm",
+        "-e"
+      ],
+      "gloss": {
+        "en": "assumption; acceptance",
+        "tr": "varsayım; kabul",
+        "de": "eine Vermutung; das Akzeptieren",
+        "fr": "la supposition ; l'acceptation",
+        "it": "la supposizione; l'accettazione",
+        "es": "la suposición; la aceptación"
+      },
+      "sentences": [
+        {
+          "de": "Das ist nur eine [Annahme].",
+          "tr": "Bu sadece bir varsayım.",
+          "en": "That is only an assumption.",
+          "fr": "Ce n'est qu'une supposition.",
+          "it": "È solo una supposizione.",
+          "es": "Es solo una suposición."
+        },
+        {
+          "de": "Die [Annahme] des Pakets wurde verweigert.",
+          "tr": "Paketin teslim alınması reddedildi.",
+          "en": "Acceptance of the parcel was refused.",
+          "fr": "La réception du colis a été refusée.",
+          "it": "L'accettazione del pacco è stata rifiutata.",
+          "es": "Se rechazó la aceptación del paquete."
+        }
+      ]
+    },
+    {
+      "id": "unternehmen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "unter-",
+        "nehm",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to undertake, to do",
+        "tr": "(bir şey) yapmak, girişmek",
+        "de": "etwas tun, z. B. einen Ausflug machen",
+        "fr": "entreprendre, faire",
+        "it": "intraprendere, fare",
+        "es": "emprender, hacer"
+      },
+      "sentences": [
+        {
+          "de": "Was wollen wir am Wochenende [unternehmen]?",
+          "tr": "Hafta sonu ne yapalım?",
+          "en": "What shall we do at the weekend?",
+          "fr": "Qu'est-ce qu'on fait ce week-end ?",
+          "it": "Cosa facciamo nel fine settimana?",
+          "es": "¿Qué hacemos el fin de semana?"
+        },
+        {
+          "de": "Die Polizei muss etwas [unternehmen].",
+          "tr": "Polisin bir şey yapması lazım.",
+          "en": "The police must do something.",
+          "fr": "La police doit faire quelque chose.",
+          "it": "La polizia deve fare qualcosa.",
+          "es": "La policía tiene que hacer algo."
+        }
+      ]
+    },
+    {
+      "id": "Unternehmer",
+      "pos": "noun",
+      "parent": "unternehmen",
+      "parts": [
+        "unter-",
+        "nehm",
+        "-er"
+      ],
+      "gloss": {
+        "en": "entrepreneur, business owner",
+        "tr": "girişimci, işletme sahibi",
+        "de": "jemand, der eine Firma führt",
+        "fr": "l'entrepreneur",
+        "it": "l'imprenditore",
+        "es": "el empresario"
+      },
+      "sentences": [
+        {
+          "de": "Sein Vater ist [Unternehmer].",
+          "tr": "Babası girişimci.",
+          "en": "His father is an entrepreneur.",
+          "fr": "Son père est entrepreneur.",
+          "it": "Suo padre è imprenditore.",
+          "es": "Su padre es empresario."
+        },
+        {
+          "de": "Junge [Unternehmer] brauchen gute Ideen.",
+          "tr": "Genç girişimcilerin iyi fikirlere ihtiyacı var.",
+          "en": "Young entrepreneurs need good ideas.",
+          "fr": "Les jeunes entrepreneurs ont besoin de bonnes idées.",
+          "it": "I giovani imprenditori hanno bisogno di buone idee.",
+          "es": "Los jóvenes empresarios necesitan buenas ideas."
+        }
+      ]
+    },
+    {
+      "id": "teilnehmen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "teil-",
+        "nehm",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to take part, to participate",
+        "tr": "katılmak",
+        "de": "bei etwas mitmachen",
+        "fr": "participer",
+        "it": "partecipare",
+        "es": "participar"
+      },
+      "sentences": [
+        {
+          "de": "Möchtest du am Kurs [teilnehmen]?",
+          "tr": "Kursa katılmak ister misin?",
+          "en": "Would you like to take part in the course?",
+          "fr": "Tu veux participer au cours ?",
+          "it": "Vuoi partecipare al corso?",
+          "es": "¿Quieres participar en el curso?"
+        },
+        {
+          "de": "Ich kann leider nicht [teilnehmen].",
+          "tr": "Maalesef katılamıyorum.",
+          "en": "Unfortunately I can't take part.",
+          "fr": "Malheureusement, je ne peux pas participer.",
+          "it": "Purtroppo non posso partecipare.",
+          "es": "Lamentablemente no puedo participar."
+        }
+      ]
+    },
+    {
+      "id": "Teilnehmer",
+      "pos": "noun",
+      "parent": "teilnehmen",
+      "parts": [
+        "teil-",
+        "nehm",
+        "-er"
+      ],
+      "gloss": {
+        "en": "participant",
+        "tr": "katılımcı",
+        "de": "jemand, der bei etwas mitmacht",
+        "fr": "le participant",
+        "it": "il partecipante",
+        "es": "el participante"
+      },
+      "sentences": [
+        {
+          "de": "Der Kurs hat zwölf [Teilnehmer].",
+          "tr": "Kursun on iki katılımcısı var.",
+          "en": "The course has twelve participants.",
+          "fr": "Le cours compte douze participants.",
+          "it": "Il corso ha dodici partecipanti.",
+          "es": "El curso tiene doce participantes."
+        },
+        {
+          "de": "Alle [Teilnehmer] bekommen ein Zertifikat.",
+          "tr": "Bütün katılımcılar sertifika alıyor.",
+          "en": "All participants get a certificate.",
+          "fr": "Tous les participants reçoivent un certificat.",
+          "it": "Tutti i partecipanti ricevono un certificato.",
+          "es": "Todos los participantes reciben un certificado."
+        }
+      ]
+    },
+    {
+      "id": "Ausnahme",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "aus-",
+        "nahm",
+        "-e"
+      ],
+      "gloss": {
+        "en": "exception",
+        "tr": "istisna",
+        "de": "etwas, das nicht der Regel folgt",
+        "fr": "l'exception",
+        "it": "l'eccezione",
+        "es": "la excepción"
+      },
+      "sentences": [
+        {
+          "de": "Keine Regel ohne [Ausnahme].",
+          "tr": "İstisnasız kural olmaz.",
+          "en": "There is no rule without an exception.",
+          "fr": "Il n'y a pas de règle sans exception.",
+          "it": "Non c'è regola senza eccezione.",
+          "es": "No hay regla sin excepción."
+        },
+        {
+          "de": "Heute machen wir eine [Ausnahme].",
+          "tr": "Bugün bir istisna yapıyoruz.",
+          "en": "Today we'll make an exception.",
+          "fr": "Aujourd'hui, on fait une exception.",
+          "it": "Oggi facciamo un'eccezione.",
+          "es": "Hoy hacemos una excepción."
+        }
+      ]
+    },
+    {
+      "id": "angenehm",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "an-",
+        "ge-",
+        "nehm"
+      ],
+      "gloss": {
+        "en": "pleasant, nice",
+        "tr": "hoş, rahat",
+        "de": "so, dass man sich gut fühlt",
+        "fr": "agréable",
+        "it": "piacevole",
+        "es": "agradable"
+      },
+      "sentences": [
+        {
+          "de": "Das Wetter ist heute sehr [angenehm].",
+          "tr": "Bugün hava çok güzel.",
+          "en": "The weather is very pleasant today.",
+          "fr": "Le temps est très agréable aujourd'hui.",
+          "it": "Oggi il tempo è molto piacevole.",
+          "es": "Hoy hace un tiempo muy agradable."
+        },
+        {
+          "de": "[Angenehm], Sie kennenzulernen.",
+          "tr": "Tanıştığımıza memnun oldum.",
+          "en": "Pleased to meet you.",
+          "fr": "Enchanté de faire votre connaissance.",
+          "it": "Piacere di conoscerla.",
+          "es": "Encantado de conocerle."
+        }
+      ]
+    },
+    {
+      "id": "zunehmen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "zu-",
+        "nehm",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to increase; to put on weight",
+        "tr": "artmak; kilo almak",
+        "de": "mehr werden; schwerer werden",
+        "fr": "augmenter ; grossir",
+        "it": "aumentare; ingrassare",
+        "es": "aumentar; engordar"
+      },
+      "sentences": [
+        {
+          "de": "Im Urlaub will ich nicht [zunehmen].",
+          "tr": "Tatilde kilo almak istemiyorum.",
+          "en": "I don't want to put on weight on holiday.",
+          "fr": "Je ne veux pas grossir pendant les vacances.",
+          "it": "In vacanza non voglio ingrassare.",
+          "es": "No quiero engordar en vacaciones."
+        },
+        {
+          "de": "Der Verkehr wird weiter [zunehmen].",
+          "tr": "Trafik artmaya devam edecek.",
+          "en": "Traffic will keep increasing.",
+          "fr": "La circulation va continuer d'augmenter.",
+          "it": "Il traffico continuerà ad aumentare.",
+          "es": "El tráfico seguirá aumentando."
+        }
+      ]
+    },
+    {
+      "id": "abnehmen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ab-",
+        "nehm",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to decrease; to lose weight; to take off",
+        "tr": "azalmak; kilo vermek; (bir şeyi) indirmek",
+        "de": "weniger werden; leichter werden; etwas herunternehmen",
+        "fr": "diminuer ; maigrir ; enlever",
+        "it": "diminuire; dimagrire; togliere",
+        "es": "disminuir; adelgazar; quitar"
+      },
+      "sentences": [
+        {
+          "de": "Ich möchte fünf Kilo [abnehmen].",
+          "tr": "Beş kilo vermek istiyorum.",
+          "en": "I would like to lose five kilos.",
+          "fr": "Je voudrais perdre cinq kilos.",
+          "it": "Vorrei perdere cinque chili.",
+          "es": "Quiero adelgazar cinco kilos."
+        },
+        {
+          "de": "Kannst du bitte das Telefon [abnehmen]?",
+          "tr": "Telefonu açabilir misin lütfen?",
+          "en": "Can you answer the phone, please?",
+          "fr": "Tu peux décrocher le téléphone, s'il te plaît ?",
+          "it": "Puoi rispondere al telefono, per favore?",
+          "es": "¿Puedes coger el teléfono, por favor?"
+        }
+      ]
+    }
+  ]
+}

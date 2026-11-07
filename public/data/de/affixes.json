@@ -231,5 +231,106 @@
       "it": "ruota (Rad)",
       "es": "rueda (Rad)"
     }
+  },
+  "an-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "at, on, toward; beginning; separable",
+      "tr": "-e, üzerine, -e doğru; başlama; ayrılabilir",
+      "de": "an, heran; Beginn; trennbar",
+      "fr": "à, sur, vers ; début ; séparable",
+      "it": "a, su, verso; inizio; separabile",
+      "es": "a, sobre, hacia; comienzo; separable"
+    }
+  },
+  "her-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "here, toward the speaker; from",
+      "tr": "buraya, konuşana doğru; -den",
+      "de": "her, zum Sprecher hin; von",
+      "fr": "ici, vers celui qui parle ; de",
+      "it": "qui, verso chi parla; da",
+      "es": "aquí, hacia el hablante; de"
+    }
+  },
+  "vor-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "before, in front; separable",
+      "tr": "önce, önde; ayrılabilir",
+      "de": "vor, vorn; trennbar",
+      "fr": "avant, devant ; séparable",
+      "it": "prima, davanti; separabile",
+      "es": "antes, delante; separable"
+    }
+  },
+  "ein-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "in, into; separable",
+      "tr": "içeri; ayrılabilir",
+      "de": "hinein; trennbar",
+      "fr": "dedans ; séparable",
+      "it": "dentro; separabile",
+      "es": "dentro; separable"
+    }
+  },
+  "unter-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "under, among, between",
+      "tr": "altında, arasında",
+      "de": "unter, zwischen",
+      "fr": "sous, entre",
+      "it": "sotto, tra",
+      "es": "debajo, entre"
+    }
+  },
+  "in-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "in, inside",
+      "tr": "içinde",
+      "de": "in, drinnen",
+      "fr": "dans, dedans",
+      "it": "dentro",
+      "es": "dentro"
+    }
+  },
+  "über-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "over, across; too much",
+      "tr": "üstünde, karşıya; fazla",
+      "de": "über, hinüber; zu viel",
+      "fr": "au-dessus, de l'autre côté ; trop",
+      "it": "sopra, dall'altra parte; troppo",
+      "es": "sobre, al otro lado; demasiado"
+    }
+  },
+  "will-": {
+    "kind": "prefix",
+    "combining": true,
+    "meaning": {
+      "en": "as wished (Wille: will)",
+      "tr": "istenildiği gibi (Wille: istek)",
+      "de": "nach Wunsch (Wille)",
+      "fr": "selon le souhait (Wille : volonté)",
+      "it": "come desiderato (Wille: volontà)",
+      "es": "como se desea (Wille: voluntad)"
+    }
+  },
+  "teil-": {
+    "kind": "prefix",
+    "combining": true,
+    "meaning": {
+      "en": "part (Teil)",
+      "tr": "parça, pay (Teil)",
+      "de": "Teil",
+      "fr": "partie (Teil)",
+      "it": "parte (Teil)",
+      "es": "parte (Teil)"
+    }
   }
 }

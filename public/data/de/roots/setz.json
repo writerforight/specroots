@@ -1,0 +1,410 @@
+{
+  "id": "setz",
+  "forms": [
+    "setz",
+    "sitz",
+    "satz"
+  ],
+  "origin": "de",
+  "etymon": "sitzen / setzen",
+  "meaning": {
+    "en": "to sit; to set, to place",
+    "tr": "oturmak; oturtmak, koymak",
+    "de": "sitzen; setzen = sitzen lassen, hinstellen (Satz: das Gesetzte)",
+    "fr": "être assis ; poser, placer",
+    "it": "sedere; porre, mettere",
+    "es": "estar sentado; poner, colocar"
+  },
+  "words": [
+    {
+      "id": "sitzen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "sitz",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to sit, to be sitting",
+        "tr": "oturmak, oturuyor olmak",
+        "de": "auf einem Stuhl oder auf dem Boden sein",
+        "fr": "être assis",
+        "it": "essere seduto, sedere",
+        "es": "estar sentado"
+      },
+      "sentences": [
+        {
+          "de": "Sie [sitzt] am Fenster.",
+          "tr": "Pencerenin yanında oturuyor.",
+          "en": "She is sitting by the window.",
+          "fr": "Elle est assise près de la fenêtre.",
+          "it": "È seduta vicino alla finestra.",
+          "es": "Está sentada junto a la ventana."
+        },
+        {
+          "de": "Wir [sitzen] schon seit einer Stunde hier.",
+          "tr": "Bir saattir burada oturuyoruz.",
+          "en": "We have been sitting here for an hour.",
+          "fr": "Nous sommes assis ici depuis une heure.",
+          "it": "Siamo seduti qui da un'ora.",
+          "es": "Llevamos una hora sentados aquí."
+        }
+      ]
+    },
+    {
+      "id": "setzen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "setz",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to put, to place; sich setzen: to sit down",
+        "tr": "koymak, yerleştirmek; sich setzen: oturmak",
+        "de": "etwas oder jemanden an einen Ort bringen; sich setzen: Platz nehmen",
+        "fr": "poser, mettre ; s'asseoir",
+        "it": "mettere, porre; sedersi",
+        "es": "poner, colocar; sentarse"
+      },
+      "sentences": [
+        {
+          "de": "[Setz] dich bitte!",
+          "tr": "Otur lütfen!",
+          "en": "Please sit down!",
+          "fr": "Assieds-toi, s'il te plaît !",
+          "it": "Siediti, per favore!",
+          "es": "¡Siéntate, por favor!"
+        },
+        {
+          "de": "Sie hat die Tasse auf den Tisch [gesetzt].",
+          "tr": "Fincanı masaya koydu.",
+          "en": "She put the cup on the table.",
+          "fr": "Elle a posé la tasse sur la table.",
+          "it": "Ha messo la tazza sul tavolo.",
+          "es": "Puso la taza en la mesa."
+        }
+      ]
+    },
+    {
+      "id": "besitzen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "be-",
+        "sitz",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to own, to possess",
+        "tr": "sahip olmak",
+        "de": "etwas als Eigentum haben",
+        "fr": "posséder",
+        "it": "possedere",
+        "es": "poseer, tener"
+      },
+      "sentences": [
+        {
+          "de": "Er [besitzt] zwei Autos.",
+          "tr": "İki arabası var.",
+          "en": "He owns two cars.",
+          "fr": "Il possède deux voitures.",
+          "it": "Possiede due auto.",
+          "es": "Tiene dos coches."
+        },
+        {
+          "de": "Wir [besitzen] kein Haus, wir mieten.",
+          "tr": "Evimiz yok, kirada oturuyoruz.",
+          "en": "We don't own a house, we rent.",
+          "fr": "Nous ne possédons pas de maison, nous louons.",
+          "it": "Non possediamo una casa, siamo in affitto.",
+          "es": "No tenemos casa propia, alquilamos."
+        }
+      ]
+    },
+    {
+      "id": "Besitzer",
+      "pos": "noun",
+      "parent": "besitzen",
+      "parts": [
+        "be-",
+        "sitz",
+        "-er"
+      ],
+      "gloss": {
+        "en": "owner",
+        "tr": "sahip, mal sahibi",
+        "de": "jemand, dem etwas gehört",
+        "fr": "le propriétaire",
+        "it": "il proprietario",
+        "es": "el dueño, el propietario"
+      },
+      "sentences": [
+        {
+          "de": "Wer ist der [Besitzer] dieses Hundes?",
+          "tr": "Bu köpeğin sahibi kim?",
+          "en": "Who is the owner of this dog?",
+          "fr": "Qui est le propriétaire de ce chien ?",
+          "it": "Chi è il proprietario di questo cane?",
+          "es": "¿Quién es el dueño de este perro?"
+        },
+        {
+          "de": "Der Laden hat einen neuen [Besitzer].",
+          "tr": "Dükkânın yeni bir sahibi var.",
+          "en": "The shop has a new owner.",
+          "fr": "La boutique a un nouveau propriétaire.",
+          "it": "Il negozio ha un nuovo proprietario.",
+          "es": "La tienda tiene un nuevo dueño."
+        }
+      ]
+    },
+    {
+      "id": "Gesetz",
+      "pos": "noun",
+      "parent": "setzen",
+      "parts": [
+        "ge-",
+        "setz"
+      ],
+      "gloss": {
+        "en": "law",
+        "tr": "yasa, kanun",
+        "de": "eine Regel, die der Staat festsetzt",
+        "fr": "la loi",
+        "it": "la legge",
+        "es": "la ley"
+      },
+      "sentences": [
+        {
+          "de": "Das ist gegen das [Gesetz].",
+          "tr": "Bu yasaya aykırı.",
+          "en": "That is against the law.",
+          "fr": "C'est contraire à la loi.",
+          "it": "È contro la legge.",
+          "es": "Eso va contra la ley."
+        },
+        {
+          "de": "Das Parlament hat ein neues [Gesetz] beschlossen.",
+          "tr": "Meclis yeni bir yasa çıkardı.",
+          "en": "Parliament has passed a new law.",
+          "fr": "Le Parlement a voté une nouvelle loi.",
+          "it": "Il Parlamento ha approvato una nuova legge.",
+          "es": "El Parlamento ha aprobado una nueva ley."
+        }
+      ]
+    },
+    {
+      "id": "Satz",
+      "pos": "noun",
+      "parent": "setzen",
+      "parts": [
+        "satz"
+      ],
+      "gloss": {
+        "en": "sentence; leap",
+        "tr": "cümle; sıçrayış",
+        "de": "eine Reihe von Wörtern mit einem Gedanken; ein Sprung",
+        "fr": "la phrase ; le bond",
+        "it": "la frase; il salto",
+        "es": "la frase, la oración; el salto"
+      },
+      "sentences": [
+        {
+          "de": "Schreib einen [Satz] mit diesem Wort.",
+          "tr": "Bu kelimeyle bir cümle yaz.",
+          "en": "Write a sentence with this word.",
+          "fr": "Écris une phrase avec ce mot.",
+          "it": "Scrivi una frase con questa parola.",
+          "es": "Escribe una frase con esta palabra."
+        },
+        {
+          "de": "Der Hund machte einen großen [Satz].",
+          "tr": "Köpek büyük bir sıçrayış yaptı.",
+          "en": "The dog made a big leap.",
+          "fr": "Le chien a fait un grand bond.",
+          "it": "Il cane ha fatto un grande salto.",
+          "es": "El perro dio un gran salto."
+        }
+      ]
+    },
+    {
+      "id": "Gegensatz",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "gegen-",
+        "satz"
+      ],
+      "gloss": {
+        "en": "opposite, contrast",
+        "tr": "zıtlık, karşıtlık",
+        "de": "etwas, das ganz anders ist; das Gegenteil",
+        "fr": "le contraste, l'opposé",
+        "it": "il contrasto, l'opposto",
+        "es": "el contraste, lo contrario"
+      },
+      "sentences": [
+        {
+          "de": "Im [Gegensatz] zu dir mag ich Regen.",
+          "tr": "Senin aksine ben yağmuru severim.",
+          "en": "Unlike you, I like rain.",
+          "fr": "Contrairement à toi, j'aime la pluie.",
+          "it": "A differenza di te, mi piace la pioggia.",
+          "es": "A diferencia de ti, me gusta la lluvia."
+        },
+        {
+          "de": "Die beiden Brüder sind ein großer [Gegensatz].",
+          "tr": "İki kardeş birbirinin tam zıttı.",
+          "en": "The two brothers are complete opposites.",
+          "fr": "Les deux frères sont très opposés.",
+          "it": "I due fratelli sono molto diversi.",
+          "es": "Los dos hermanos son muy opuestos."
+        }
+      ]
+    },
+    {
+      "id": "Ersatz",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "er-",
+        "satz"
+      ],
+      "gloss": {
+        "en": "replacement, substitute",
+        "tr": "yedek, ikame",
+        "de": "etwas, das man statt einer anderen Sache nimmt",
+        "fr": "le remplacement, le substitut",
+        "it": "il sostituto, il ricambio",
+        "es": "el sustituto, el repuesto"
+      },
+      "sentences": [
+        {
+          "de": "Ich brauche [Ersatz] für meinen Schlüssel.",
+          "tr": "Anahtarım için yedek lazım.",
+          "en": "I need a replacement for my key.",
+          "fr": "J'ai besoin d'un double de ma clé.",
+          "it": "Mi serve un sostituto per la mia chiave.",
+          "es": "Necesito un repuesto para mi llave."
+        },
+        {
+          "de": "Gibt es einen [Ersatz] für Zucker?",
+          "tr": "Şekerin yerine geçecek bir şey var mı?",
+          "en": "Is there a substitute for sugar?",
+          "fr": "Existe-t-il un substitut au sucre ?",
+          "it": "Esiste un sostituto dello zucchero?",
+          "es": "¿Hay algún sustituto del azúcar?"
+        }
+      ]
+    },
+    {
+      "id": "übersetzen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "über-",
+        "setz",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to translate",
+        "tr": "çevirmek, tercüme etmek",
+        "de": "einen Text in eine andere Sprache bringen",
+        "fr": "traduire",
+        "it": "tradurre",
+        "es": "traducir"
+      },
+      "sentences": [
+        {
+          "de": "Kannst du diesen Brief [übersetzen]?",
+          "tr": "Bu mektubu çevirebilir misin?",
+          "en": "Can you translate this letter?",
+          "fr": "Peux-tu traduire cette lettre ?",
+          "it": "Puoi tradurre questa lettera?",
+          "es": "¿Puedes traducir esta carta?"
+        },
+        {
+          "de": "Das Buch wurde in 30 Sprachen [übersetzt].",
+          "tr": "Kitap 30 dile çevrildi.",
+          "en": "The book has been translated into 30 languages.",
+          "fr": "Le livre a été traduit en 30 langues.",
+          "it": "Il libro è stato tradotto in 30 lingue.",
+          "es": "El libro se ha traducido a 30 idiomas."
+        }
+      ]
+    },
+    {
+      "id": "Übersetzung",
+      "pos": "noun",
+      "parent": "übersetzen",
+      "parts": [
+        "über-",
+        "setz",
+        "-ung"
+      ],
+      "gloss": {
+        "en": "translation",
+        "tr": "çeviri",
+        "de": "ein Text in einer anderen Sprache; das Übersetzen",
+        "fr": "la traduction",
+        "it": "la traduzione",
+        "es": "la traducción"
+      },
+      "sentences": [
+        {
+          "de": "Die [Übersetzung] ist sehr gut.",
+          "tr": "Çeviri çok iyi.",
+          "en": "The translation is very good.",
+          "fr": "La traduction est très bonne.",
+          "it": "La traduzione è molto buona.",
+          "es": "La traducción es muy buena."
+        },
+        {
+          "de": "Ich lese das Buch in der [Übersetzung].",
+          "tr": "Kitabı çevirisinden okuyorum.",
+          "en": "I am reading the book in translation.",
+          "fr": "Je lis le livre en traduction.",
+          "it": "Leggo il libro in traduzione.",
+          "es": "Leo el libro traducido."
+        }
+      ]
+    },
+    {
+      "id": "Voraussetzung",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "vor-",
+        "aus-",
+        "setz",
+        "-ung"
+      ],
+      "gloss": {
+        "en": "precondition, requirement",
+        "tr": "önkoşul, şart",
+        "de": "etwas, das vorher da sein muss",
+        "fr": "la condition préalable",
+        "it": "il presupposto, il requisito",
+        "es": "el requisito"
+      },
+      "sentences": [
+        {
+          "de": "Deutschkenntnisse sind eine [Voraussetzung].",
+          "tr": "Almanca bilgisi bir önkoşul.",
+          "en": "Knowledge of German is a requirement.",
+          "fr": "La connaissance de l'allemand est une condition préalable.",
+          "it": "La conoscenza del tedesco è un requisito.",
+          "es": "Saber alemán es un requisito."
+        },
+        {
+          "de": "Unter dieser [Voraussetzung] mache ich mit.",
+          "tr": "Bu şartla katılırım.",
+          "en": "On that condition, I'll join in.",
+          "fr": "À cette condition, je participe.",
+          "it": "A questa condizione partecipo.",
+          "es": "Con esa condición, participo."
+        }
+      ]
+    }
+  ]
+}

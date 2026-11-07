@@ -1,0 +1,411 @@
+{
+  "id": "halt",
+  "forms": [
+    "halt",
+    "hält"
+  ],
+  "origin": "de",
+  "etymon": "halten",
+  "meaning": {
+    "en": "to hold; to stop",
+    "tr": "tutmak; durmak",
+    "de": "festhalten, nicht loslassen; stoppen (hielt, gehalten)",
+    "fr": "tenir ; s'arrêter",
+    "it": "tenere; fermarsi",
+    "es": "sostener; parar"
+  },
+  "words": [
+    {
+      "id": "halten",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "halt",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to hold; to stop; halten für: to consider",
+        "tr": "tutmak; durmak; halten für: saymak, sanmak",
+        "de": "in der Hand haben, nicht fallen lassen; stoppen; halten für: meinen",
+        "fr": "tenir ; s'arrêter ; considérer",
+        "it": "tenere; fermarsi; ritenere",
+        "es": "sostener; parar; considerar"
+      },
+      "sentences": [
+        {
+          "de": "Der Bus [hält] vor der Schule.",
+          "tr": "Otobüs okulun önünde duruyor.",
+          "en": "The bus stops in front of the school.",
+          "fr": "Le bus s'arrête devant l'école.",
+          "it": "L'autobus si ferma davanti alla scuola.",
+          "es": "El autobús para delante del colegio."
+        },
+        {
+          "de": "Kannst du kurz meine Tasche [halten]?",
+          "tr": "Çantamı bir saniye tutabilir misin?",
+          "en": "Can you hold my bag for a moment?",
+          "fr": "Tu peux tenir mon sac un instant ?",
+          "it": "Puoi tenermi la borsa un attimo?",
+          "es": "¿Me sujetas el bolso un momento?"
+        }
+      ]
+    },
+    {
+      "id": "Haltung",
+      "pos": "noun",
+      "parent": "halten",
+      "parts": [
+        "halt",
+        "-ung"
+      ],
+      "gloss": {
+        "en": "posture; attitude",
+        "tr": "duruş; tutum",
+        "de": "wie man den Körper hält; was man über etwas denkt",
+        "fr": "la posture ; l'attitude",
+        "it": "la postura; l'atteggiamento",
+        "es": "la postura; la actitud"
+      },
+      "sentences": [
+        {
+          "de": "Achte auf deine [Haltung] beim Sitzen.",
+          "tr": "Otururken duruşuna dikkat et.",
+          "en": "Watch your posture when you sit.",
+          "fr": "Fais attention à ta posture quand tu es assis.",
+          "it": "Fai attenzione alla postura quando sei seduto.",
+          "es": "Cuida tu postura al sentarte."
+        },
+        {
+          "de": "Wie ist deine [Haltung] zu diesem Thema?",
+          "tr": "Bu konudaki tutumun nedir?",
+          "en": "What is your attitude to this topic?",
+          "fr": "Quelle est ta position sur ce sujet ?",
+          "it": "Qual è la tua posizione su questo tema?",
+          "es": "¿Cuál es tu postura sobre este tema?"
+        }
+      ]
+    },
+    {
+      "id": "erhalten",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "er-",
+        "halt",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to receive; to preserve",
+        "tr": "almak; korumak",
+        "de": "bekommen; etwas so lassen, wie es ist",
+        "fr": "recevoir ; conserver",
+        "it": "ricevere; conservare",
+        "es": "recibir; conservar"
+      },
+      "sentences": [
+        {
+          "de": "Wir haben Ihren Brief [erhalten].",
+          "tr": "Mektubunuzu aldık.",
+          "en": "We have received your letter.",
+          "fr": "Nous avons reçu votre lettre.",
+          "it": "Abbiamo ricevuto la sua lettera.",
+          "es": "Hemos recibido su carta."
+        },
+        {
+          "de": "Das alte Haus soll [erhalten] bleiben.",
+          "tr": "Eski evin korunması gerekiyor.",
+          "en": "The old house is to be preserved.",
+          "fr": "La vieille maison doit être conservée.",
+          "it": "La vecchia casa deve essere conservata.",
+          "es": "La casa antigua debe conservarse."
+        }
+      ]
+    },
+    {
+      "id": "enthalten",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ent-",
+        "halt",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to contain",
+        "tr": "içermek",
+        "de": "etwas in sich haben",
+        "fr": "contenir",
+        "it": "contenere",
+        "es": "contener"
+      },
+      "sentences": [
+        {
+          "de": "Der Saft [enthält] viel Zucker.",
+          "tr": "Meyve suyu çok şeker içeriyor.",
+          "en": "The juice contains a lot of sugar.",
+          "fr": "Le jus contient beaucoup de sucre.",
+          "it": "Il succo contiene molto zucchero.",
+          "es": "El zumo contiene mucho azúcar."
+        },
+        {
+          "de": "Ist die Mehrwertsteuer im Preis [enthalten]?",
+          "tr": "KDV fiyata dahil mi?",
+          "en": "Is VAT included in the price?",
+          "fr": "La TVA est-elle comprise dans le prix ?",
+          "it": "L'IVA è inclusa nel prezzo?",
+          "es": "¿El IVA está incluido en el precio?"
+        }
+      ]
+    },
+    {
+      "id": "behalten",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "be-",
+        "halt",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to keep; to remember",
+        "tr": "saklamak, elinde tutmak; aklında tutmak",
+        "de": "etwas nicht weggeben; sich etwas merken",
+        "fr": "garder ; retenir",
+        "it": "tenere, conservare; ricordare",
+        "es": "quedarse con; recordar"
+      },
+      "sentences": [
+        {
+          "de": "Du kannst das Buch [behalten].",
+          "tr": "Kitabı sende kalabilir.",
+          "en": "You can keep the book.",
+          "fr": "Tu peux garder le livre.",
+          "it": "Puoi tenere il libro.",
+          "es": "Puedes quedarte con el libro."
+        },
+        {
+          "de": "Ich kann mir keine Namen [behalten].",
+          "tr": "İsimleri aklımda tutamıyorum.",
+          "en": "I can't remember names.",
+          "fr": "Je n'arrive pas à retenir les noms.",
+          "it": "Non riesco a ricordare i nomi.",
+          "es": "No consigo recordar los nombres."
+        }
+      ]
+    },
+    {
+      "id": "Verhalten",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "ver-",
+        "halt",
+        "-en"
+      ],
+      "gloss": {
+        "en": "behaviour",
+        "tr": "davranış",
+        "de": "wie sich jemand benimmt",
+        "fr": "le comportement",
+        "it": "il comportamento",
+        "es": "el comportamiento"
+      },
+      "sentences": [
+        {
+          "de": "Sein [Verhalten] war unhöflich.",
+          "tr": "Davranışı kabaydı.",
+          "en": "His behaviour was rude.",
+          "fr": "Son comportement était impoli.",
+          "it": "Il suo comportamento era scortese.",
+          "es": "Su comportamiento fue grosero."
+        },
+        {
+          "de": "Forscher beobachten das [Verhalten] der Tiere.",
+          "tr": "Araştırmacılar hayvanların davranışlarını gözlemliyor.",
+          "en": "Researchers observe the animals' behaviour.",
+          "fr": "Les chercheurs observent le comportement des animaux.",
+          "it": "I ricercatori osservano il comportamento degli animali.",
+          "es": "Los investigadores observan el comportamiento de los animales."
+        }
+      ]
+    },
+    {
+      "id": "Verhältnis",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "ver-",
+        "hält",
+        "-nis"
+      ],
+      "gloss": {
+        "en": "relationship; ratio",
+        "tr": "ilişki; oran",
+        "de": "wie zwei Menschen oder Dinge zueinander stehen",
+        "fr": "la relation ; la proportion",
+        "it": "il rapporto; la proporzione",
+        "es": "la relación; la proporción"
+      },
+      "sentences": [
+        {
+          "de": "Ich habe ein gutes [Verhältnis] zu meinen Eltern.",
+          "tr": "Ailemle iyi bir ilişkim var.",
+          "en": "I have a good relationship with my parents.",
+          "fr": "J'ai une bonne relation avec mes parents.",
+          "it": "Ho un buon rapporto con i miei genitori.",
+          "es": "Tengo una buena relación con mis padres."
+        },
+        {
+          "de": "Mische Wasser und Mehl im [Verhältnis] zwei zu eins.",
+          "tr": "Suyu ve unu ikiye bir oranında karıştır.",
+          "en": "Mix water and flour in a ratio of two to one.",
+          "fr": "Mélange l'eau et la farine dans une proportion de deux pour un.",
+          "it": "Mescola acqua e farina in proporzione di due a uno.",
+          "es": "Mezcla agua y harina en proporción de dos a uno."
+        }
+      ]
+    },
+    {
+      "id": "Unterhaltung",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "unter-",
+        "halt",
+        "-ung"
+      ],
+      "gloss": {
+        "en": "conversation; entertainment",
+        "tr": "sohbet; eğlence",
+        "de": "ein Gespräch; etwas, das Spaß macht",
+        "fr": "la conversation ; le divertissement",
+        "it": "la conversazione; l'intrattenimento",
+        "es": "la conversación; el entretenimiento"
+      },
+      "sentences": [
+        {
+          "de": "Wir hatten eine nette [Unterhaltung].",
+          "tr": "Hoş bir sohbet ettik.",
+          "en": "We had a nice conversation.",
+          "fr": "Nous avons eu une conversation agréable.",
+          "it": "Abbiamo fatto una piacevole conversazione.",
+          "es": "Tuvimos una conversación agradable."
+        },
+        {
+          "de": "Das Programm bietet gute [Unterhaltung].",
+          "tr": "Program iyi bir eğlence sunuyor.",
+          "en": "The show offers good entertainment.",
+          "fr": "Le programme offre un bon divertissement.",
+          "it": "Il programma offre un buon intrattenimento.",
+          "es": "El programa ofrece buen entretenimiento."
+        }
+      ]
+    },
+    {
+      "id": "Inhalt",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "in-",
+        "halt"
+      ],
+      "gloss": {
+        "en": "content, contents",
+        "tr": "içerik, içindekiler",
+        "de": "was in etwas ist; worum es in einem Text geht",
+        "fr": "le contenu",
+        "it": "il contenuto",
+        "es": "el contenido"
+      },
+      "sentences": [
+        {
+          "de": "Der [Inhalt] des Pakets war kaputt.",
+          "tr": "Paketin içindekiler kırılmıştı.",
+          "en": "The contents of the parcel were broken.",
+          "fr": "Le contenu du colis était cassé.",
+          "it": "Il contenuto del pacco era rotto.",
+          "es": "El contenido del paquete estaba roto."
+        },
+        {
+          "de": "Fass den [Inhalt] des Textes zusammen.",
+          "tr": "Metnin içeriğini özetle.",
+          "en": "Summarise the content of the text.",
+          "fr": "Résume le contenu du texte.",
+          "it": "Riassumi il contenuto del testo.",
+          "es": "Resume el contenido del texto."
+        }
+      ]
+    },
+    {
+      "id": "Aufenthalt",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "auf-",
+        "ent-",
+        "halt"
+      ],
+      "gloss": {
+        "en": "stay",
+        "tr": "kalış, konaklama",
+        "de": "die Zeit, die man an einem Ort bleibt",
+        "fr": "le séjour",
+        "it": "il soggiorno",
+        "es": "la estancia"
+      },
+      "sentences": [
+        {
+          "de": "Wir wünschen Ihnen einen schönen [Aufenthalt].",
+          "tr": "Size iyi bir konaklama dileriz.",
+          "en": "We wish you a pleasant stay.",
+          "fr": "Nous vous souhaitons un agréable séjour.",
+          "it": "Le auguriamo un piacevole soggiorno.",
+          "es": "Le deseamos una agradable estancia."
+        },
+        {
+          "de": "Mein [Aufenthalt] in Berlin dauert drei Monate.",
+          "tr": "Berlin'de üç ay kalacağım.",
+          "en": "My stay in Berlin lasts three months.",
+          "fr": "Mon séjour à Berlin dure trois mois.",
+          "it": "Il mio soggiorno a Berlino dura tre mesi.",
+          "es": "Mi estancia en Berlín dura tres meses."
+        }
+      ]
+    },
+    {
+      "id": "Gehalt",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "ge-",
+        "halt"
+      ],
+      "gloss": {
+        "en": "salary",
+        "tr": "maaş",
+        "de": "das Geld, das man jeden Monat für die Arbeit bekommt",
+        "fr": "le salaire",
+        "it": "lo stipendio",
+        "es": "el sueldo"
+      },
+      "sentences": [
+        {
+          "de": "Ihr [Gehalt] kommt am Monatsende.",
+          "tr": "Maaşı ay sonunda yatıyor.",
+          "en": "Her salary comes at the end of the month.",
+          "fr": "Son salaire arrive à la fin du mois.",
+          "it": "Il suo stipendio arriva a fine mese.",
+          "es": "Su sueldo llega a final de mes."
+        },
+        {
+          "de": "Er verdient ein gutes [Gehalt].",
+          "tr": "İyi bir maaş alıyor.",
+          "en": "He earns a good salary.",
+          "fr": "Il gagne un bon salaire.",
+          "it": "Guadagna un buono stipendio.",
+          "es": "Gana un buen sueldo."
+        }
+      ]
+    }
+  ]
+}

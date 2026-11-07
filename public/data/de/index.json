@@ -56,6 +56,122 @@
     ]
   },
   {
+    "id": "halt",
+    "forms": [
+      "halt",
+      "hält"
+    ],
+    "origin": "de",
+    "meaning": {
+      "en": "to hold; to stop",
+      "tr": "tutmak; durmak",
+      "de": "festhalten, nicht loslassen; stoppen (hielt, gehalten)",
+      "fr": "tenir ; s'arrêter",
+      "it": "tenere; fermarsi",
+      "es": "sostener; parar"
+    },
+    "words": [
+      "halten",
+      "Haltung",
+      "erhalten",
+      "enthalten",
+      "behalten",
+      "Verhalten",
+      "Verhältnis",
+      "Unterhaltung",
+      "Inhalt",
+      "Aufenthalt",
+      "Gehalt"
+    ]
+  },
+  {
+    "id": "komm",
+    "forms": [
+      "komm",
+      "kunft"
+    ],
+    "origin": "de",
+    "meaning": {
+      "en": "to come",
+      "tr": "gelmek",
+      "de": "sich hierher bewegen, ankommen (kam, gekommen; Kunft: das Kommen)",
+      "fr": "venir",
+      "it": "venire",
+      "es": "venir"
+    },
+    "words": [
+      "kommen",
+      "bekommen",
+      "ankommen",
+      "Ankunft",
+      "Zukunft",
+      "Herkunft",
+      "Auskunft",
+      "vorkommen",
+      "Einkommen",
+      "willkommen"
+    ]
+  },
+  {
+    "id": "nehm",
+    "forms": [
+      "nehm",
+      "nahm"
+    ],
+    "origin": "de",
+    "meaning": {
+      "en": "to take",
+      "tr": "almak",
+      "de": "etwas greifen und zu sich holen (nahm, genommen)",
+      "fr": "prendre",
+      "it": "prendere",
+      "es": "tomar, coger"
+    },
+    "words": [
+      "nehmen",
+      "annehmen",
+      "Annahme",
+      "unternehmen",
+      "Unternehmer",
+      "teilnehmen",
+      "Teilnehmer",
+      "Ausnahme",
+      "angenehm",
+      "zunehmen",
+      "abnehmen"
+    ]
+  },
+  {
+    "id": "setz",
+    "forms": [
+      "setz",
+      "sitz",
+      "satz"
+    ],
+    "origin": "de",
+    "meaning": {
+      "en": "to sit; to set, to place",
+      "tr": "oturmak; oturtmak, koymak",
+      "de": "sitzen; setzen = sitzen lassen, hinstellen (Satz: das Gesetzte)",
+      "fr": "être assis ; poser, placer",
+      "it": "sedere; porre, mettere",
+      "es": "estar sentado; poner, colocar"
+    },
+    "words": [
+      "sitzen",
+      "setzen",
+      "besitzen",
+      "Besitzer",
+      "Gesetz",
+      "Satz",
+      "Gegensatz",
+      "Ersatz",
+      "übersetzen",
+      "Übersetzung",
+      "Voraussetzung"
+    ]
+  },
+  {
     "id": "sprech",
     "forms": [
       "sprech",

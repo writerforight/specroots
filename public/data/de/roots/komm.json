@@ -1,0 +1,374 @@
+{
+  "id": "komm",
+  "forms": [
+    "komm",
+    "kunft"
+  ],
+  "origin": "de",
+  "etymon": "kommen",
+  "meaning": {
+    "en": "to come",
+    "tr": "gelmek",
+    "de": "sich hierher bewegen, ankommen (kam, gekommen; Kunft: das Kommen)",
+    "fr": "venir",
+    "it": "venire",
+    "es": "venir"
+  },
+  "words": [
+    {
+      "id": "kommen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "komm",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to come",
+        "tr": "gelmek",
+        "de": "sich zu einem Ort hin bewegen",
+        "fr": "venir",
+        "it": "venire",
+        "es": "venir"
+      },
+      "sentences": [
+        {
+          "de": "[Kommst] du heute Abend?",
+          "tr": "Bu akşam geliyor musun?",
+          "en": "Are you coming tonight?",
+          "fr": "Tu viens ce soir ?",
+          "it": "Vieni stasera?",
+          "es": "¿Vienes esta noche?"
+        },
+        {
+          "de": "Woher [kommen] Sie?",
+          "tr": "Nerelisiniz?",
+          "en": "Where are you from?",
+          "fr": "D'où venez-vous ?",
+          "it": "Da dove viene?",
+          "es": "¿De dónde es usted?"
+        }
+      ]
+    },
+    {
+      "id": "bekommen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "be-",
+        "komm",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to get, to receive",
+        "tr": "almak, elde etmek",
+        "de": "etwas erhalten",
+        "fr": "recevoir, obtenir",
+        "it": "ricevere, ottenere",
+        "es": "recibir, conseguir"
+      },
+      "sentences": [
+        {
+          "de": "Ich habe eine E-Mail [bekommen].",
+          "tr": "Bir e-posta aldım.",
+          "en": "I got an email.",
+          "fr": "J'ai reçu un e-mail.",
+          "it": "Ho ricevuto un'e-mail.",
+          "es": "He recibido un correo."
+        },
+        {
+          "de": "Was [bekommen] Sie?",
+          "tr": "Ne alırsınız?",
+          "en": "What would you like?",
+          "fr": "Qu'est-ce que je vous sers ?",
+          "it": "Cosa le porto?",
+          "es": "¿Qué desea?"
+        }
+      ]
+    },
+    {
+      "id": "ankommen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "an-",
+        "komm",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to arrive; es kommt darauf an: it depends",
+        "tr": "varmak, ulaşmak; es kommt darauf an: duruma bağlı",
+        "de": "an einem Ziel sein; es kommt darauf an: es hängt davon ab",
+        "fr": "arriver ; ça dépend",
+        "it": "arrivare; dipende",
+        "es": "llegar; depende"
+      },
+      "sentences": [
+        {
+          "de": "Wir sind gut [angekommen].",
+          "tr": "Sağ salim vardık.",
+          "en": "We arrived safely.",
+          "fr": "Nous sommes bien arrivés.",
+          "it": "Siamo arrivati bene.",
+          "es": "Hemos llegado bien."
+        },
+        {
+          "de": "Wann wird der Zug [ankommen]?",
+          "tr": "Tren ne zaman varacak?",
+          "en": "When will the train arrive?",
+          "fr": "Quand le train arrivera-t-il ?",
+          "it": "Quando arriverà il treno?",
+          "es": "¿Cuándo llegará el tren?"
+        }
+      ]
+    },
+    {
+      "id": "Ankunft",
+      "pos": "noun",
+      "parent": "ankommen",
+      "parts": [
+        "an-",
+        "kunft"
+      ],
+      "gloss": {
+        "en": "arrival",
+        "tr": "varış",
+        "de": "das Ankommen an einem Ort",
+        "fr": "l'arrivée",
+        "it": "l'arrivo",
+        "es": "la llegada"
+      },
+      "sentences": [
+        {
+          "de": "Die [Ankunft] ist um 14 Uhr.",
+          "tr": "Varış saat 14'te.",
+          "en": "Arrival is at 2 pm.",
+          "fr": "L'arrivée est à 14 heures.",
+          "it": "L'arrivo è alle 14.",
+          "es": "La llegada es a las 14."
+        },
+        {
+          "de": "Ruf mich nach deiner [Ankunft] an.",
+          "tr": "Varınca beni ara.",
+          "en": "Call me when you arrive.",
+          "fr": "Appelle-moi à ton arrivée.",
+          "it": "Chiamami al tuo arrivo.",
+          "es": "Llámame cuando llegues."
+        }
+      ]
+    },
+    {
+      "id": "Zukunft",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "zu-",
+        "kunft"
+      ],
+      "gloss": {
+        "en": "future",
+        "tr": "gelecek",
+        "de": "die Zeit, die noch kommt",
+        "fr": "l'avenir, le futur",
+        "it": "il futuro",
+        "es": "el futuro"
+      },
+      "sentences": [
+        {
+          "de": "Was machst du in der [Zukunft]?",
+          "tr": "Gelecekte ne yapacaksın?",
+          "en": "What will you do in the future?",
+          "fr": "Que feras-tu à l'avenir ?",
+          "it": "Cosa farai in futuro?",
+          "es": "¿Qué harás en el futuro?"
+        },
+        {
+          "de": "Niemand kennt die [Zukunft].",
+          "tr": "Kimse geleceği bilemez.",
+          "en": "Nobody knows the future.",
+          "fr": "Personne ne connaît l'avenir.",
+          "it": "Nessuno conosce il futuro.",
+          "es": "Nadie conoce el futuro."
+        }
+      ]
+    },
+    {
+      "id": "Herkunft",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "her-",
+        "kunft"
+      ],
+      "gloss": {
+        "en": "origin, background",
+        "tr": "köken, memleket",
+        "de": "woher jemand oder etwas kommt",
+        "fr": "l'origine",
+        "it": "l'origine, la provenienza",
+        "es": "el origen, la procedencia"
+      },
+      "sentences": [
+        {
+          "de": "Seine [Herkunft] ist ihm wichtig.",
+          "tr": "Kökeni onun için önemli.",
+          "en": "His background is important to him.",
+          "fr": "Ses origines sont importantes pour lui.",
+          "it": "Le sue origini sono importanti per lui.",
+          "es": "Su origen es importante para él."
+        },
+        {
+          "de": "Die [Herkunft] des Wortes ist unklar.",
+          "tr": "Kelimenin kökeni belirsiz.",
+          "en": "The origin of the word is unclear.",
+          "fr": "L'origine du mot est incertaine.",
+          "it": "L'origine della parola non è chiara.",
+          "es": "El origen de la palabra no está claro."
+        }
+      ]
+    },
+    {
+      "id": "Auskunft",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "aus-",
+        "kunft"
+      ],
+      "gloss": {
+        "en": "information",
+        "tr": "bilgi, danışma",
+        "de": "eine Information, die man auf eine Frage bekommt",
+        "fr": "le renseignement",
+        "it": "l'informazione",
+        "es": "la información"
+      },
+      "sentences": [
+        {
+          "de": "Können Sie mir eine [Auskunft] geben?",
+          "tr": "Bana bir bilgi verebilir misiniz?",
+          "en": "Can you give me some information?",
+          "fr": "Pouvez-vous me donner un renseignement ?",
+          "it": "Può darmi un'informazione?",
+          "es": "¿Me puede dar una información?"
+        },
+        {
+          "de": "Fragen Sie bitte bei der [Auskunft].",
+          "tr": "Lütfen danışmaya sorun.",
+          "en": "Please ask at the information desk.",
+          "fr": "Demandez à l'accueil, s'il vous plaît.",
+          "it": "Chieda all'ufficio informazioni, per favore.",
+          "es": "Pregunte en información, por favor."
+        }
+      ]
+    },
+    {
+      "id": "vorkommen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "vor-",
+        "komm",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to happen, to occur",
+        "tr": "olmak, meydana gelmek; bulunmak",
+        "de": "passieren; irgendwo zu finden sein",
+        "fr": "arriver, se produire ; se trouver",
+        "it": "succedere; trovarsi",
+        "es": "ocurrir, pasar; encontrarse"
+      },
+      "sentences": [
+        {
+          "de": "So ein Fehler kann [vorkommen].",
+          "tr": "Böyle bir hata olabilir.",
+          "en": "A mistake like that can happen.",
+          "fr": "Une telle erreur peut arriver.",
+          "it": "Un errore così può capitare.",
+          "es": "Un error así puede pasar."
+        },
+        {
+          "de": "Das ist mir noch nie [vorgekommen].",
+          "tr": "Bu daha önce hiç başıma gelmedi.",
+          "en": "That has never happened to me.",
+          "fr": "Ça ne m'est jamais arrivé.",
+          "it": "Non mi è mai successo.",
+          "es": "Nunca me ha pasado."
+        }
+      ]
+    },
+    {
+      "id": "Einkommen",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "ein-",
+        "komm",
+        "-en"
+      ],
+      "gloss": {
+        "en": "income",
+        "tr": "gelir",
+        "de": "das Geld, das man verdient",
+        "fr": "le revenu",
+        "it": "il reddito",
+        "es": "los ingresos"
+      },
+      "sentences": [
+        {
+          "de": "Ihr [Einkommen] ist gestiegen.",
+          "tr": "Geliri arttı.",
+          "en": "Her income has risen.",
+          "fr": "Son revenu a augmenté.",
+          "it": "Il suo reddito è aumentato.",
+          "es": "Sus ingresos han aumentado."
+        },
+        {
+          "de": "Viele Studenten haben ein kleines [Einkommen].",
+          "tr": "Birçok öğrencinin geliri az.",
+          "en": "Many students have a small income.",
+          "fr": "Beaucoup d'étudiants ont un petit revenu.",
+          "it": "Molti studenti hanno un reddito basso.",
+          "es": "Muchos estudiantes tienen pocos ingresos."
+        }
+      ]
+    },
+    {
+      "id": "willkommen",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "will-",
+        "komm",
+        "-en"
+      ],
+      "gloss": {
+        "en": "welcome",
+        "tr": "hoş geldin; hoş karşılanan",
+        "de": "gern gesehen; so begrüßt man Gäste",
+        "fr": "bienvenu",
+        "it": "benvenuto",
+        "es": "bienvenido"
+      },
+      "sentences": [
+        {
+          "de": "Herzlich [willkommen] in Aachen!",
+          "tr": "Aachen'a hoş geldiniz!",
+          "en": "Welcome to Aachen!",
+          "fr": "Bienvenue à Aix-la-Chapelle !",
+          "it": "Benvenuti ad Aquisgrana!",
+          "es": "¡Bienvenidos a Aquisgrán!"
+        },
+        {
+          "de": "Du bist hier immer [willkommen].",
+          "tr": "Burada her zaman başımızın üstünde yerin var.",
+          "en": "You are always welcome here.",
+          "fr": "Tu es toujours le bienvenu ici.",
+          "it": "Qui sei sempre il benvenuto.",
+          "es": "Aquí siempre eres bienvenido."
+        }
+      ]
+    }
+  ]
+}

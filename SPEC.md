@@ -74,7 +74,8 @@ seçilen dillerdeki karşılığı ve öğretici örnek cümleleri bir arada gö
     `#/de/<kök>/<kelime>`. Kelime kartında önce Almanca kısa tanım (DE), sonra İngilizce, sonra seçili
     diller (Almanca seçiliyse tekrar etmez); cümle Almanca, altında aynı sırayla çeviriler; telaffuz
     Almanca sesle. Arama bu bölümde yalnız Almanca kök ve kelimeleri bulur. İlk tur 4 kök, 42 kelime:
-    `steh`, `fahr`, `sprech`, `geb`. Almanca ek sayfası (ek → kelimeler) şimdilik yok; ekler kartta
+    `steh`, `fahr`, `sprech`, `geb`; aynı gün ikinci tur (kullanıcı onayı) +4 kök, 43 kelime: `komm`,
+    `nehm`, `halt`, `setz` (sitzen/setzen, Satz). Toplam 8 kök, 85 kelime. Almanca ek sayfası (ek → kelimeler) şimdilik yok; ekler kartta
     anlamlarıyla düz metin. Büyütme: her kök kullanıcı onayıyla (karar 11 gibi).
 
 ## Mimari
