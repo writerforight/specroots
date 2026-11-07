@@ -2364,6 +2364,32 @@
     ]
   },
   {
+    "id": "put",
+    "forms": [
+      "put",
+      "pute"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to think, to reckon (originally: to prune, to clear up)",
+      "tr": "düşünmek, hesaplamak (aslen: budamak, ayıklamak)",
+      "de": "denken, rechnen (ursprünglich: beschneiden)",
+      "fr": "penser, compter (à l'origine : tailler)",
+      "it": "pensare, calcolare (in origine: potare)",
+      "es": "pensar, calcular (originalmente: podar)"
+    },
+    "words": [
+      "dispute",
+      "indisputable",
+      "compute",
+      "computer",
+      "computation",
+      "reputation",
+      "reputable",
+      "deputy"
+    ]
+  },
+  {
     "id": "rat",
     "forms": [
       "rat",

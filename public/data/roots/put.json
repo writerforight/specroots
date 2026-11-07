@@ -1,0 +1,306 @@
+{
+  "id": "put",
+  "forms": [
+    "put",
+    "pute"
+  ],
+  "origin": "la",
+  "etymon": "putare",
+  "meaning": {
+    "en": "to think, to reckon (originally: to prune, to clear up)",
+    "tr": "düşünmek, hesaplamak (aslen: budamak, ayıklamak)",
+    "de": "denken, rechnen (ursprünglich: beschneiden)",
+    "fr": "penser, compter (à l'origine : tailler)",
+    "it": "pensare, calcolare (in origine: potare)",
+    "es": "pensar, calcular (originalmente: podar)"
+  },
+  "words": [
+    {
+      "id": "dispute",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "dis-",
+        "pute"
+      ],
+      "gloss": {
+        "en": "to argue about whether something is true or right; literally: to reckon apart",
+        "tr": "tartışmak, itiraz etmek",
+        "de": "bestreiten, streiten",
+        "fr": "contester, se disputer",
+        "it": "contestare, disputare",
+        "es": "disputar, cuestionar"
+      },
+      "sentences": [
+        {
+          "en": "Nobody can [dispute] the facts.",
+          "tr": "Kimse gerçeklere itiraz edemez.",
+          "de": "Niemand kann die Tatsachen bestreiten.",
+          "fr": "Personne ne peut contester les faits.",
+          "it": "Nessuno può contestare i fatti.",
+          "es": "Nadie puede cuestionar los hechos."
+        },
+        {
+          "en": "The neighbors [dispute] who owns the fence.",
+          "tr": "Komşular çitin kime ait olduğunu tartışıyor.",
+          "de": "Die Nachbarn streiten darüber, wem der Zaun gehört.",
+          "fr": "Les voisins se disputent la propriété de la clôture.",
+          "it": "I vicini si contendono la proprietà della recinzione.",
+          "es": "Los vecinos discuten de quién es la valla."
+        }
+      ]
+    },
+    {
+      "id": "indisputable",
+      "pos": "adjective",
+      "parent": "dispute",
+      "parts": [
+        "in-not-",
+        "dis-",
+        "put",
+        "-able"
+      ],
+      "gloss": {
+        "en": "so clearly true that no one can argue against it",
+        "tr": "su götürmez, tartışılmaz",
+        "de": "unbestreitbar",
+        "fr": "incontestable",
+        "it": "indiscutibile",
+        "es": "indiscutible"
+      },
+      "sentences": [
+        {
+          "en": "The champion's skill is [indisputable].",
+          "tr": "Şampiyonun yeteneği su götürmez.",
+          "de": "Das Können des Meisters ist unbestreitbar.",
+          "fr": "Le talent du champion est incontestable.",
+          "it": "L'abilità del campione è indiscutibile.",
+          "es": "La habilidad del campeón es indiscutible."
+        },
+        {
+          "en": "She gave [indisputable] proof of her claim.",
+          "tr": "İddiasına dair su götürmez bir kanıt sundu.",
+          "de": "Sie lieferte einen unbestreitbaren Beweis für ihre Behauptung.",
+          "fr": "Elle a apporté une preuve incontestable de ce qu'elle affirmait.",
+          "it": "Ha fornito una prova indiscutibile della sua tesi.",
+          "es": "Presentó una prueba indiscutible de su afirmación."
+        }
+      ]
+    },
+    {
+      "id": "compute",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "com-",
+        "pute"
+      ],
+      "gloss": {
+        "en": "to find a number by calculating; literally: to reckon together",
+        "tr": "hesaplamak",
+        "de": "berechnen",
+        "fr": "calculer",
+        "it": "calcolare",
+        "es": "calcular"
+      },
+      "sentences": [
+        {
+          "en": "Can you [compute] the total cost for me?",
+          "tr": "Toplam maliyeti benim için hesaplayabilir misin?",
+          "de": "Kannst du die Gesamtkosten für mich berechnen?",
+          "fr": "Peux-tu calculer le coût total pour moi ?",
+          "it": "Puoi calcolare il costo totale per me?",
+          "es": "¿Puedes calcular el costo total por mí?"
+        },
+        {
+          "en": "The program will [compute] the answer in seconds.",
+          "tr": "Program cevabı saniyeler içinde hesaplayacak.",
+          "de": "Das Programm berechnet die Antwort in Sekunden.",
+          "fr": "Le programme calculera la réponse en quelques secondes.",
+          "it": "Il programma calcolerà la risposta in pochi secondi.",
+          "es": "El programa calculará la respuesta en segundos."
+        }
+      ]
+    },
+    {
+      "id": "computer",
+      "pos": "noun",
+      "parent": "compute",
+      "parts": [
+        "com-",
+        "put",
+        "-er"
+      ],
+      "gloss": {
+        "en": "a machine that calculates and stores information",
+        "tr": "bilgisayar",
+        "de": "der Computer, der Rechner",
+        "fr": "l'ordinateur",
+        "it": "il computer, l'elaboratore",
+        "es": "el ordenador, la computadora"
+      },
+      "sentences": [
+        {
+          "en": "My [computer] starts slowly in the morning.",
+          "tr": "Bilgisayarım sabahları yavaş açılıyor.",
+          "de": "Mein Computer startet morgens langsam.",
+          "fr": "Mon ordinateur démarre lentement le matin.",
+          "it": "Il mio computer si avvia lentamente la mattina.",
+          "es": "Mi computadora arranca despacio por la mañana."
+        },
+        {
+          "en": "Please save the file on the [computer].",
+          "tr": "Lütfen dosyayı bilgisayara kaydet.",
+          "de": "Bitte speichere die Datei auf dem Computer.",
+          "fr": "Enregistre le fichier sur l'ordinateur, s'il te plaît.",
+          "it": "Per favore, salva il file sul computer.",
+          "es": "Por favor, guarda el archivo en la computadora."
+        }
+      ]
+    },
+    {
+      "id": "computation",
+      "pos": "noun",
+      "parent": "compute",
+      "parts": [
+        "com-",
+        "put",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "the act or result of calculating",
+        "tr": "hesaplama",
+        "de": "die Berechnung",
+        "fr": "le calcul",
+        "it": "il calcolo",
+        "es": "el cálculo"
+      },
+      "sentences": [
+        {
+          "en": "The [computation] took only a few seconds.",
+          "tr": "Hesaplama yalnızca birkaç saniye sürdü.",
+          "de": "Die Berechnung dauerte nur wenige Sekunden.",
+          "fr": "Le calcul n'a pris que quelques secondes.",
+          "it": "Il calcolo ha richiesto solo pochi secondi.",
+          "es": "El cálculo tardó solo unos segundos."
+        },
+        {
+          "en": "A fast [computation] needs a good algorithm.",
+          "tr": "Hızlı bir hesaplama iyi bir algoritma ister.",
+          "de": "Eine schnelle Berechnung braucht einen guten Algorithmus.",
+          "fr": "Un calcul rapide demande un bon algorithme.",
+          "it": "Un calcolo veloce richiede un buon algoritmo.",
+          "es": "Un cálculo rápido necesita un buen algoritmo."
+        }
+      ]
+    },
+    {
+      "id": "reputation",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "re-",
+        "put",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "the general opinion people have about someone or something; literally: a reckoning again",
+        "tr": "ün, itibar",
+        "de": "der Ruf, der gute Name",
+        "fr": "la réputation",
+        "it": "la reputazione",
+        "es": "la reputación"
+      },
+      "sentences": [
+        {
+          "en": "The restaurant has a good [reputation].",
+          "tr": "Restoranın iyi bir ünü var.",
+          "de": "Das Restaurant hat einen guten Ruf.",
+          "fr": "Le restaurant a une bonne réputation.",
+          "it": "Il ristorante ha una buona reputazione.",
+          "es": "El restaurante tiene buena reputación."
+        },
+        {
+          "en": "One lie can ruin your [reputation].",
+          "tr": "Tek bir yalan itibarını yıkabilir.",
+          "de": "Eine einzige Lüge kann deinen Ruf ruinieren.",
+          "fr": "Un seul mensonge peut ruiner ta réputation.",
+          "it": "Una sola bugia può rovinare la tua reputazione.",
+          "es": "Una sola mentira puede arruinar tu reputación."
+        }
+      ]
+    },
+    {
+      "id": "reputable",
+      "pos": "adjective",
+      "parent": "reputation",
+      "parts": [
+        "re-",
+        "put",
+        "-able"
+      ],
+      "gloss": {
+        "en": "having a good reputation; trusted",
+        "tr": "itibarlı, güvenilir",
+        "de": "angesehen, seriös",
+        "fr": "réputé, de bonne réputation",
+        "it": "rispettabile, affidabile",
+        "es": "respetable, de confianza"
+      },
+      "sentences": [
+        {
+          "en": "Buy your car from a [reputable] dealer.",
+          "tr": "Arabanı itibarlı bir bayiden al.",
+          "de": "Kaufe dein Auto bei einem seriösen Händler.",
+          "fr": "Achète ta voiture chez un concessionnaire réputé.",
+          "it": "Compra la tua auto da un concessionario affidabile.",
+          "es": "Compra tu coche en un concesionario de confianza."
+        },
+        {
+          "en": "Only cite [reputable] sources in your essay.",
+          "tr": "Kompozisyonunda yalnızca güvenilir kaynaklara atıf yap.",
+          "de": "Zitiere in deinem Aufsatz nur seriöse Quellen.",
+          "fr": "Ne cite que des sources fiables dans ta rédaction.",
+          "it": "Cita nel tuo tema solo fonti attendibili.",
+          "es": "Cita solo fuentes confiables en tu redacción."
+        }
+      ]
+    },
+    {
+      "id": "deputy",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "de-",
+        "put",
+        "-y"
+      ],
+      "gloss": {
+        "en": "a person chosen to act for a boss or leader; literally: one who is assigned",
+        "tr": "yardımcı, vekil",
+        "de": "der Stellvertreter",
+        "fr": "l'adjoint, le suppléant",
+        "it": "il vice, il sostituto",
+        "es": "el adjunto, el suplente"
+      },
+      "sentences": [
+        {
+          "en": "The [deputy] mayor opened the meeting.",
+          "tr": "Belediye başkan yardımcısı toplantıyı açtı.",
+          "de": "Der stellvertretende Bürgermeister eröffnete die Sitzung.",
+          "fr": "L'adjoint au maire a ouvert la réunion.",
+          "it": "Il vicesindaco ha aperto la riunione.",
+          "es": "El teniente de alcalde abrió la reunión."
+        },
+        {
+          "en": "I will send my [deputy] to the meeting.",
+          "tr": "Toplantıya vekilimi göndereceğim.",
+          "de": "Ich schicke meinen Stellvertreter zur Besprechung.",
+          "fr": "J'enverrai mon adjoint à la réunion.",
+          "it": "Manderò il mio vice alla riunione.",
+          "es": "Enviaré a mi adjunto a la reunión."
+        }
+      ]
+    }
+  ]
+}
