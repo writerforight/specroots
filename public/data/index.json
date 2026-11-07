@@ -2307,6 +2307,27 @@
     ]
   },
   {
+    "id": "interpret",
+    "forms": [
+      "pret"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "go-between, explainer",
+      "tr": "aracı, açıklayıcı",
+      "de": "Vermittler, Ausleger",
+      "fr": "intermédiaire, interprète",
+      "it": "intermediario, interprete",
+      "es": "intermediario, intérprete"
+    },
+    "words": [
+      "interpret",
+      "interpreter",
+      "interpretation",
+      "misinterpret"
+    ]
+  },
+  {
     "id": "pret",
     "forms": [
       "price",

@@ -1,0 +1,161 @@
+{
+  "id": "interpret",
+  "forms": [
+    "pret"
+  ],
+  "origin": "la",
+  "etymon": "interpres",
+  "meaning": {
+    "en": "go-between, explainer",
+    "tr": "aracı, açıklayıcı",
+    "de": "Vermittler, Ausleger",
+    "fr": "intermédiaire, interprète",
+    "it": "intermediario, interprete",
+    "es": "intermediario, intérprete"
+  },
+  "words": [
+    {
+      "id": "interpret",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "inter-",
+        "pret"
+      ],
+      "gloss": {
+        "en": "to explain the meaning of something, or to translate speech aloud; literally: to act as a go-between",
+        "tr": "yorumlamak, anlamlandırmak; sözlü çevirmek",
+        "de": "deuten, interpretieren; dolmetschen",
+        "fr": "interpréter; traduire oralement",
+        "it": "interpretare; tradurre oralmente",
+        "es": "interpretar"
+      },
+      "sentences": [
+        {
+          "en": "How do you [interpret] this graph?",
+          "tr": "Bu grafiği nasıl yorumluyorsun?",
+          "de": "Wie interpretierst du dieses Diagramm?",
+          "fr": "Comment interprètes-tu ce graphique ?",
+          "it": "Come interpreti questo grafico?",
+          "es": "¿Cómo interpretas este gráfico?"
+        },
+        {
+          "en": "She will [interpret] for the guests at the meeting.",
+          "tr": "Toplantıda misafirler için sözlü çeviri yapacak.",
+          "de": "Sie wird bei der Besprechung für die Gäste dolmetschen.",
+          "fr": "Elle fera l'interprète pour les invités pendant la réunion.",
+          "it": "Farà da interprete per gli ospiti alla riunione.",
+          "es": "Hará de intérprete para los invitados en la reunión."
+        }
+      ]
+    },
+    {
+      "id": "interpreter",
+      "pos": "noun",
+      "parent": "interpret",
+      "parts": [
+        "inter-",
+        "pret",
+        "-er"
+      ],
+      "gloss": {
+        "en": "a person who translates spoken words; a program that runs code line by line",
+        "tr": "tercüman; yorumlayıcı (program)",
+        "de": "der Dolmetscher; der Interpreter",
+        "fr": "l'interprète",
+        "it": "l'interprete",
+        "es": "el intérprete"
+      },
+      "sentences": [
+        {
+          "en": "The [interpreter] translated the speech into Turkish.",
+          "tr": "Tercüman konuşmayı Türkçeye çevirdi.",
+          "de": "Der Dolmetscher übersetzte die Rede ins Türkische.",
+          "fr": "L'interprète a traduit le discours en turc.",
+          "it": "L'interprete ha tradotto il discorso in turco.",
+          "es": "El intérprete tradujo el discurso al turco."
+        },
+        {
+          "en": "Python code runs through an [interpreter].",
+          "tr": "Python kodu bir yorumlayıcı üzerinden çalışır.",
+          "de": "Python-Code läuft über einen Interpreter.",
+          "fr": "Le code Python s'exécute via un interpréteur.",
+          "it": "Il codice Python viene eseguito tramite un interprete.",
+          "es": "El código Python se ejecuta mediante un intérprete."
+        }
+      ]
+    },
+    {
+      "id": "interpretation",
+      "pos": "noun",
+      "parent": "interpret",
+      "parts": [
+        "inter-",
+        "pret",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "an explanation of what something means",
+        "tr": "yorum, yorumlama",
+        "de": "die Deutung, die Interpretation",
+        "fr": "l'interprétation",
+        "it": "l'interpretazione",
+        "es": "la interpretación"
+      },
+      "sentences": [
+        {
+          "en": "Each reader has a different [interpretation] of the poem.",
+          "tr": "Her okuyucunun şiire farklı bir yorumu var.",
+          "de": "Jeder Leser hat eine andere Deutung des Gedichts.",
+          "fr": "Chaque lecteur a une interprétation différente du poème.",
+          "it": "Ogni lettore ha un'interpretazione diversa della poesia.",
+          "es": "Cada lector tiene una interpretación distinta del poema."
+        },
+        {
+          "en": "The pianist's [interpretation] of the piece was moving.",
+          "tr": "Piyanistin eseri yorumlayışı çok etkileyiciydi.",
+          "de": "Die Interpretation des Stücks durch den Pianisten war bewegend.",
+          "fr": "L'interprétation du morceau par le pianiste était émouvante.",
+          "it": "L'interpretazione del brano da parte del pianista era emozionante.",
+          "es": "La interpretación de la pieza por el pianista fue emotiva."
+        }
+      ]
+    },
+    {
+      "id": "misinterpret",
+      "pos": "verb",
+      "parent": "interpret",
+      "parts": [
+        "mis-",
+        "inter-",
+        "pret"
+      ],
+      "gloss": {
+        "en": "to understand the meaning of something wrongly",
+        "tr": "yanlış yorumlamak, yanlış anlamak",
+        "de": "falsch deuten, missverstehen",
+        "fr": "mal interpréter",
+        "it": "interpretare male, fraintendere",
+        "es": "malinterpretar"
+      },
+      "sentences": [
+        {
+          "en": "Please don't [misinterpret] my silence as anger.",
+          "tr": "Lütfen sessizliğimi öfke diye yanlış yorumlama.",
+          "de": "Bitte deute mein Schweigen nicht als Wut falsch.",
+          "fr": "Ne confonds pas mon silence avec de la colère, s'il te plaît.",
+          "it": "Per favore, non fraintendere il mio silenzio come rabbia.",
+          "es": "Por favor, no malinterpretes mi silencio como enojo."
+        },
+        {
+          "en": "The map was easy to [misinterpret].",
+          "tr": "Haritayı yanlış yorumlamak kolaydı.",
+          "de": "Die Karte war leicht misszuverstehen.",
+          "fr": "La carte était facile à mal interpréter.",
+          "it": "La mappa era facile da fraintendere.",
+          "es": "El mapa era fácil de malinterpretar."
+        }
+      ]
+    }
+  ]
+}
