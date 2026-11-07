@@ -1,0 +1,446 @@
+{
+  "id": "bind",
+  "forms": [
+    "bind",
+    "band",
+    "bund",
+    "bünd"
+  ],
+  "origin": "de",
+  "etymon": "binden",
+  "meaning": {
+    "en": "to bind, to tie",
+    "tr": "bağlamak",
+    "de": "mit einem Band zusammenhalten (band, gebunden; Band, Bund)",
+    "fr": "lier, attacher",
+    "it": "legare",
+    "es": "atar, unir"
+  },
+  "words": [
+    {
+      "id": "binden",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "bind",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to tie, to bind",
+        "tr": "bağlamak",
+        "de": "mit einer Schnur fest zusammenmachen",
+        "fr": "lier, attacher",
+        "it": "legare",
+        "es": "atar"
+      },
+      "sentences": [
+        {
+          "de": "Sie [bindet] ihre Haare zusammen.",
+          "tr": "Saçlarını topluyor.",
+          "en": "She ties her hair back.",
+          "fr": "Elle s'attache les cheveux.",
+          "it": "Si lega i capelli.",
+          "es": "Se recoge el pelo."
+        },
+        {
+          "de": "Ich bin an den Vertrag [gebunden].",
+          "tr": "Sözleşmeye bağlıyım.",
+          "en": "I am bound by the contract.",
+          "fr": "Je suis lié par le contrat.",
+          "it": "Sono vincolato dal contratto.",
+          "es": "Estoy obligado por el contrato."
+        }
+      ]
+    },
+    {
+      "id": "Bindung",
+      "pos": "noun",
+      "parent": "binden",
+      "parts": [
+        "bind",
+        "-ung"
+      ],
+      "gloss": {
+        "en": "bond, attachment; (ski) binding",
+        "tr": "bağ, bağlılık; (kayak) bağlama",
+        "de": "eine enge Beziehung; beim Ski: die Halterung für den Schuh",
+        "fr": "le lien, l'attachement ; la fixation",
+        "it": "il legame; l'attacco (sci)",
+        "es": "el vínculo; la fijación (esquí)"
+      },
+      "sentences": [
+        {
+          "de": "Sie hat eine enge [Bindung] zu ihrer Oma.",
+          "tr": "Büyükannesiyle güçlü bir bağı var.",
+          "en": "She has a close bond with her grandma.",
+          "fr": "Elle a un lien fort avec sa grand-mère.",
+          "it": "Ha un legame stretto con la nonna.",
+          "es": "Tiene un vínculo estrecho con su abuela."
+        },
+        {
+          "de": "Die [Bindung] am Ski ist locker.",
+          "tr": "Kayağın bağlaması gevşek.",
+          "en": "The binding on the ski is loose.",
+          "fr": "La fixation du ski est desserrée.",
+          "it": "L'attacco dello sci è allentato.",
+          "es": "La fijación del esquí está floja."
+        }
+      ]
+    },
+    {
+      "id": "Band",
+      "pos": "noun",
+      "parent": "binden",
+      "parts": [
+        "band"
+      ],
+      "gloss": {
+        "en": "ribbon; volume; band",
+        "tr": "şerit, kurdele; cilt; müzik grubu",
+        "de": "ein schmaler Streifen Stoff; ein Buch einer Reihe; eine Musikgruppe",
+        "fr": "le ruban ; le tome ; le groupe",
+        "it": "il nastro; il volume; la band",
+        "es": "la cinta; el tomo; la banda"
+      },
+      "sentences": [
+        {
+          "de": "Das Geschenk hat ein rotes [Band].",
+          "tr": "Hediyenin kırmızı bir kurdelesi var.",
+          "en": "The present has a red ribbon.",
+          "fr": "Le cadeau a un ruban rouge.",
+          "it": "Il regalo ha un nastro rosso.",
+          "es": "El regalo tiene una cinta roja."
+        },
+        {
+          "de": "Ich habe den ersten [Band] schon gelesen.",
+          "tr": "İlk cildi okudum bile.",
+          "en": "I have already read the first volume.",
+          "fr": "J'ai déjà lu le premier tome.",
+          "it": "Ho già letto il primo volume.",
+          "es": "Ya he leído el primer tomo."
+        }
+      ]
+    },
+    {
+      "id": "Bund",
+      "pos": "noun",
+      "parent": "binden",
+      "parts": [
+        "bund"
+      ],
+      "gloss": {
+        "en": "federation, alliance; federal government; bunch",
+        "tr": "birlik, federasyon; federal devlet; demet",
+        "de": "eine Verbindung von Ländern oder Gruppen; in Deutschland: der Staat; ein Bündel",
+        "fr": "la fédération, l'alliance ; l'État fédéral ; la botte",
+        "it": "la federazione; lo Stato federale; il mazzo",
+        "es": "la federación; el Estado federal; el manojo"
+      },
+      "sentences": [
+        {
+          "de": "Der [Bund] zahlt einen Teil der Kosten.",
+          "tr": "Federal devlet masrafların bir kısmını ödüyor.",
+          "en": "The federal government pays part of the costs.",
+          "fr": "L'État fédéral prend en charge une partie des coûts.",
+          "it": "Lo Stato federale paga una parte dei costi.",
+          "es": "El Estado federal paga parte de los costes."
+        },
+        {
+          "de": "Kaufst du einen [Bund] Petersilie?",
+          "tr": "Bir demet maydanoz alır mısın?",
+          "en": "Will you buy a bunch of parsley?",
+          "fr": "Tu achètes une botte de persil ?",
+          "it": "Compri un mazzo di prezzemolo?",
+          "es": "¿Compras un manojo de perejil?"
+        }
+      ]
+    },
+    {
+      "id": "Bündnis",
+      "pos": "noun",
+      "parent": "Bund",
+      "parts": [
+        "bünd",
+        "-nis"
+      ],
+      "gloss": {
+        "en": "alliance",
+        "tr": "ittifak",
+        "de": "ein Vertrag zwischen Partnern, die zusammenhalten",
+        "fr": "l'alliance",
+        "it": "l'alleanza",
+        "es": "la alianza"
+      },
+      "sentences": [
+        {
+          "de": "Die Parteien schließen ein [Bündnis].",
+          "tr": "Partiler bir ittifak kuruyor.",
+          "en": "The parties form an alliance.",
+          "fr": "Les partis concluent une alliance.",
+          "it": "I partiti stringono un'alleanza.",
+          "es": "Los partidos forman una alianza."
+        },
+        {
+          "de": "Die NATO ist ein militärisches [Bündnis].",
+          "tr": "NATO askerî bir ittifaktır.",
+          "en": "NATO is a military alliance.",
+          "fr": "L'OTAN est une alliance militaire.",
+          "it": "La NATO è un'alleanza militare.",
+          "es": "La OTAN es una alianza militar."
+        }
+      ]
+    },
+    {
+      "id": "verbinden",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ver-",
+        "bind",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to connect, to link; to bandage",
+        "tr": "bağlamak, birleştirmek; sarmak (yara)",
+        "de": "zwei Dinge zusammenbringen; eine Wunde mit Stoff schützen",
+        "fr": "relier ; panser",
+        "it": "collegare; fasciare",
+        "es": "conectar, unir; vendar"
+      },
+      "sentences": [
+        {
+          "de": "Die Brücke [verbindet] die beiden Ufer.",
+          "tr": "Köprü iki kıyıyı birbirine bağlıyor.",
+          "en": "The bridge connects the two banks.",
+          "fr": "Le pont relie les deux rives.",
+          "it": "Il ponte collega le due rive.",
+          "es": "El puente une las dos orillas."
+        },
+        {
+          "de": "Der Arzt muss die Wunde [verbinden].",
+          "tr": "Doktorun yarayı sarması gerekiyor.",
+          "en": "The doctor has to bandage the wound.",
+          "fr": "Le médecin doit panser la plaie.",
+          "it": "Il medico deve fasciare la ferita.",
+          "es": "El médico tiene que vendar la herida."
+        }
+      ]
+    },
+    {
+      "id": "Verbindung",
+      "pos": "noun",
+      "parent": "verbinden",
+      "parts": [
+        "ver-",
+        "bind",
+        "-ung"
+      ],
+      "gloss": {
+        "en": "connection, link",
+        "tr": "bağlantı",
+        "de": "etwas, das zwei Dinge zusammenbringt; Kontakt",
+        "fr": "la liaison, la connexion",
+        "it": "il collegamento, la connessione",
+        "es": "la conexión, el enlace"
+      },
+      "sentences": [
+        {
+          "de": "Die [Verbindung] ist schlecht, ich höre dich nicht.",
+          "tr": "Bağlantı kötü, seni duyamıyorum.",
+          "en": "The connection is bad, I can't hear you.",
+          "fr": "La liaison est mauvaise, je ne t'entends pas.",
+          "it": "La linea è disturbata, non ti sento.",
+          "es": "La conexión es mala, no te oigo."
+        },
+        {
+          "de": "Es gibt eine direkte [Verbindung] nach Berlin.",
+          "tr": "Berlin'e doğrudan bağlantı var.",
+          "en": "There is a direct connection to Berlin.",
+          "fr": "Il y a une liaison directe pour Berlin.",
+          "it": "C'è un collegamento diretto per Berlino.",
+          "es": "Hay una conexión directa a Berlín."
+        }
+      ]
+    },
+    {
+      "id": "Verband",
+      "pos": "noun",
+      "parent": "verbinden",
+      "parts": [
+        "ver-",
+        "band"
+      ],
+      "gloss": {
+        "en": "bandage, dressing; association",
+        "tr": "sargı, bandaj; dernek, birlik",
+        "de": "ein Stoff um eine Wunde; eine Organisation",
+        "fr": "le pansement ; l'association, la fédération",
+        "it": "la fasciatura; l'associazione",
+        "es": "el vendaje; la asociación"
+      },
+      "sentences": [
+        {
+          "de": "Er trägt einen [Verband] am Arm.",
+          "tr": "Kolunda bir bandaj var.",
+          "en": "He has a bandage on his arm.",
+          "fr": "Il a un pansement au bras.",
+          "it": "Ha una fasciatura al braccio.",
+          "es": "Lleva un vendaje en el brazo."
+        },
+        {
+          "de": "Der [Verband] vertritt die Lehrer.",
+          "tr": "Dernek öğretmenleri temsil ediyor.",
+          "en": "The association represents teachers.",
+          "fr": "L'association représente les enseignants.",
+          "it": "L'associazione rappresenta gli insegnanti.",
+          "es": "La asociación representa a los profesores."
+        }
+      ]
+    },
+    {
+      "id": "verbindlich",
+      "pos": "adjective",
+      "parent": "verbinden",
+      "parts": [
+        "ver-",
+        "bind",
+        "-lich"
+      ],
+      "gloss": {
+        "en": "binding; obliging, courteous",
+        "tr": "bağlayıcı; nazik",
+        "de": "so, dass man sich daran halten muss; freundlich",
+        "fr": "obligatoire, ferme ; aimable",
+        "it": "vincolante; cortese",
+        "es": "vinculante; amable"
+      },
+      "sentences": [
+        {
+          "de": "Die Anmeldung ist [verbindlich].",
+          "tr": "Kayıt bağlayıcıdır.",
+          "en": "Registration is binding.",
+          "fr": "L'inscription est ferme.",
+          "it": "L'iscrizione è vincolante.",
+          "es": "La inscripción es vinculante."
+        },
+        {
+          "de": "Sie hat eine sehr [verbindliche] Art.",
+          "tr": "Çok nazik bir tavrı var.",
+          "en": "She has a very courteous manner.",
+          "fr": "Elle a des manières très aimables.",
+          "it": "Ha un modo di fare molto cortese.",
+          "es": "Tiene un trato muy amable."
+        }
+      ]
+    },
+    {
+      "id": "unverbindlich",
+      "pos": "adjective",
+      "parent": "verbindlich",
+      "parts": [
+        "un-",
+        "ver-",
+        "bind",
+        "-lich"
+      ],
+      "gloss": {
+        "en": "without obligation, non-binding",
+        "tr": "bağlayıcı olmayan, yükümlülüksüz",
+        "de": "ohne Pflicht; nicht sehr freundlich",
+        "fr": "sans engagement",
+        "it": "senza impegno",
+        "es": "sin compromiso"
+      },
+      "sentences": [
+        {
+          "de": "Das Angebot ist [unverbindlich].",
+          "tr": "Teklif bağlayıcı değil.",
+          "en": "The offer is without obligation.",
+          "fr": "L'offre est sans engagement.",
+          "it": "L'offerta è senza impegno.",
+          "es": "La oferta es sin compromiso."
+        },
+        {
+          "de": "Fragen Sie ruhig [unverbindlich] nach.",
+          "tr": "Hiçbir yükümlülük olmadan sorabilirsiniz.",
+          "en": "Feel free to ask without obligation.",
+          "fr": "N'hésitez pas à demander sans engagement.",
+          "it": "Chieda pure senza impegno.",
+          "es": "Pregunte sin compromiso."
+        }
+      ]
+    },
+    {
+      "id": "entbinden",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ent-",
+        "bind",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to give birth; to release (from a duty)",
+        "tr": "doğum yapmak; (görevden) muaf tutmak",
+        "de": "ein Kind zur Welt bringen; von einer Pflicht befreien",
+        "fr": "accoucher ; dégager (d'une obligation)",
+        "it": "partorire; esonerare",
+        "es": "dar a luz; eximir"
+      },
+      "sentences": [
+        {
+          "de": "Sie hat gestern [entbunden].",
+          "tr": "Dün doğum yaptı.",
+          "en": "She gave birth yesterday.",
+          "fr": "Elle a accouché hier.",
+          "it": "Ha partorito ieri.",
+          "es": "Dio a luz ayer."
+        },
+        {
+          "de": "Er wurde von seinen Pflichten [entbunden].",
+          "tr": "Görevlerinden muaf tutuldu.",
+          "en": "He was released from his duties.",
+          "fr": "Il a été dégagé de ses obligations.",
+          "it": "È stato esonerato dai suoi doveri.",
+          "es": "Fue eximido de sus obligaciones."
+        }
+      ]
+    },
+    {
+      "id": "Entbindung",
+      "pos": "noun",
+      "parent": "entbinden",
+      "parts": [
+        "ent-",
+        "bind",
+        "-ung"
+      ],
+      "gloss": {
+        "en": "birth, delivery",
+        "tr": "doğum",
+        "de": "die Geburt eines Kindes",
+        "fr": "l'accouchement",
+        "it": "il parto",
+        "es": "el parto"
+      },
+      "sentences": [
+        {
+          "de": "Die [Entbindung] verlief ohne Probleme.",
+          "tr": "Doğum sorunsuz geçti.",
+          "en": "The birth went without problems.",
+          "fr": "L'accouchement s'est bien passé.",
+          "it": "Il parto è andato senza problemi.",
+          "es": "El parto fue sin problemas."
+        },
+        {
+          "de": "Der Vater war bei der [Entbindung] dabei.",
+          "tr": "Baba doğumda oradaydı.",
+          "en": "The father was present at the birth.",
+          "fr": "Le père a assisté à l'accouchement.",
+          "it": "Il padre era presente al parto.",
+          "es": "El padre estuvo en el parto."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,377 @@
+{
+  "id": "bring",
+  "forms": [
+    "bring"
+  ],
+  "origin": "de",
+  "etymon": "bringen",
+  "meaning": {
+    "en": "to bring, to take",
+    "tr": "getirmek, götürmek",
+    "de": "etwas an einen Ort tragen (brachte, gebracht)",
+    "fr": "apporter, amener",
+    "it": "portare",
+    "es": "traer, llevar"
+  },
+  "words": [
+    {
+      "id": "bringen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "bring",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to bring, to take",
+        "tr": "getirmek, götürmek",
+        "de": "etwas zu jemandem tragen; jemanden begleiten",
+        "fr": "apporter ; amener, raccompagner",
+        "it": "portare; accompagnare",
+        "es": "traer, llevar"
+      },
+      "sentences": [
+        {
+          "de": "Kannst du mir ein Glas Wasser [bringen]?",
+          "tr": "Bana bir bardak su getirebilir misin?",
+          "en": "Can you bring me a glass of water?",
+          "fr": "Tu peux m'apporter un verre d'eau ?",
+          "it": "Mi porti un bicchiere d'acqua?",
+          "es": "¿Me traes un vaso de agua?"
+        },
+        {
+          "de": "Ich [bringe] dich zum Bahnhof.",
+          "tr": "Seni istasyona götürürüm.",
+          "en": "I'll take you to the station.",
+          "fr": "Je t'amène à la gare.",
+          "it": "Ti accompagno alla stazione.",
+          "es": "Te llevo a la estación."
+        }
+      ]
+    },
+    {
+      "id": "mitbringen",
+      "pos": "verb",
+      "parent": "bringen",
+      "parts": [
+        "mit-",
+        "bring",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to bring along",
+        "tr": "yanında getirmek",
+        "de": "etwas mit sich zu jemandem bringen",
+        "fr": "apporter (avec soi)",
+        "it": "portare con sé",
+        "es": "traer, llevar consigo"
+      },
+      "sentences": [
+        {
+          "de": "Soll ich etwas zum Essen [mitbringen]?",
+          "tr": "Yemek için bir şey getireyim mi?",
+          "en": "Shall I bring something to eat?",
+          "fr": "Je dois apporter quelque chose à manger ?",
+          "it": "Devo portare qualcosa da mangiare?",
+          "es": "¿Llevo algo de comer?"
+        },
+        {
+          "de": "Du darfst gern einen Freund [mitbringen].",
+          "tr": "Bir arkadaşını da getirebilirsin.",
+          "en": "You're welcome to bring a friend.",
+          "fr": "Tu peux amener un ami si tu veux.",
+          "it": "Puoi portare un amico, se vuoi.",
+          "es": "Puedes traer a un amigo."
+        }
+      ]
+    },
+    {
+      "id": "Mitbringsel",
+      "pos": "noun",
+      "parent": "mitbringen",
+      "parts": [
+        "mit-",
+        "bring",
+        "-sel"
+      ],
+      "gloss": {
+        "en": "small gift, souvenir",
+        "tr": "küçük hediye, hatıra",
+        "de": "ein kleines Geschenk, das man mitbringt",
+        "fr": "le petit cadeau, le souvenir",
+        "it": "il pensierino, il souvenir",
+        "es": "el detalle, el recuerdo"
+      },
+      "sentences": [
+        {
+          "de": "Ich habe dir ein [Mitbringsel] aus Wien.",
+          "tr": "Sana Viyana'dan küçük bir hediyem var.",
+          "en": "I have a little souvenir for you from Vienna.",
+          "fr": "J'ai un petit souvenir de Vienne pour toi.",
+          "it": "Ho un pensierino per te da Vienna.",
+          "es": "Tengo un recuerdito de Viena para ti."
+        },
+        {
+          "de": "Ein [Mitbringsel] ist nicht nötig.",
+          "tr": "Hediye getirmene gerek yok.",
+          "en": "There's no need to bring a gift.",
+          "fr": "Ce n'est pas la peine d'apporter un cadeau.",
+          "it": "Non serve portare niente.",
+          "es": "No hace falta traer nada."
+        }
+      ]
+    },
+    {
+      "id": "verbringen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ver-",
+        "bring",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to spend (time)",
+        "tr": "(zaman) geçirmek",
+        "de": "Zeit an einem Ort oder mit etwas verbringen",
+        "fr": "passer (du temps)",
+        "it": "trascorrere, passare",
+        "es": "pasar (tiempo)"
+      },
+      "sentences": [
+        {
+          "de": "Wo willst du den Urlaub [verbringen]?",
+          "tr": "Tatili nerede geçirmek istiyorsun?",
+          "en": "Where do you want to spend the holiday?",
+          "fr": "Où veux-tu passer les vacances ?",
+          "it": "Dove vuoi trascorrere le vacanze?",
+          "es": "¿Dónde quieres pasar las vacaciones?"
+        },
+        {
+          "de": "Sie [verbringt] viel Zeit mit Lesen.",
+          "tr": "Okuyarak çok zaman geçiriyor.",
+          "en": "She spends a lot of time reading.",
+          "fr": "Elle passe beaucoup de temps à lire.",
+          "it": "Passa molto tempo a leggere.",
+          "es": "Pasa mucho tiempo leyendo."
+        }
+      ]
+    },
+    {
+      "id": "beibringen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "bei-",
+        "bring",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to teach",
+        "tr": "öğretmek",
+        "de": "jemandem etwas lehren",
+        "fr": "apprendre (à quelqu'un)",
+        "it": "insegnare",
+        "es": "enseñar"
+      },
+      "sentences": [
+        {
+          "de": "Kannst du mir Schach [beibringen]?",
+          "tr": "Bana satranç öğretebilir misin?",
+          "en": "Can you teach me chess?",
+          "fr": "Tu peux m'apprendre les échecs ?",
+          "it": "Mi insegni gli scacchi?",
+          "es": "¿Me enseñas a jugar al ajedrez?"
+        },
+        {
+          "de": "Meine Oma wollte mir Stricken [beibringen].",
+          "tr": "Büyükannem bana örgü öğretmek istedi.",
+          "en": "My grandma wanted to teach me knitting.",
+          "fr": "Ma grand-mère voulait m'apprendre à tricoter.",
+          "it": "Mia nonna voleva insegnarmi a lavorare a maglia.",
+          "es": "Mi abuela quería enseñarme a tejer."
+        }
+      ]
+    },
+    {
+      "id": "umbringen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "um-",
+        "bring",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to kill",
+        "tr": "öldürmek",
+        "de": "töten",
+        "fr": "tuer",
+        "it": "uccidere",
+        "es": "matar"
+      },
+      "sentences": [
+        {
+          "de": "Im Krimi will jemand den Chef [umbringen].",
+          "tr": "Polisiyede biri patronu öldürmek istiyor.",
+          "en": "In the crime novel someone wants to kill the boss.",
+          "fr": "Dans le polar, quelqu'un veut tuer le patron.",
+          "it": "Nel giallo qualcuno vuole uccidere il capo.",
+          "es": "En la novela policiaca alguien quiere matar al jefe."
+        },
+        {
+          "de": "Er würde nie jemanden [umbringen].",
+          "tr": "Asla birini öldürmezdi.",
+          "en": "He would never kill anyone.",
+          "fr": "Il ne tuerait jamais personne.",
+          "it": "Non ucciderebbe mai nessuno.",
+          "es": "Nunca mataría a nadie."
+        }
+      ]
+    },
+    {
+      "id": "unterbringen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "unter-",
+        "bring",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to accommodate, to put up; to fit in",
+        "tr": "barındırmak, yerleştirmek",
+        "de": "jemandem einen Platz zum Wohnen geben; etwas irgendwo verstauen",
+        "fr": "loger, héberger ; caser",
+        "it": "alloggiare, sistemare",
+        "es": "alojar; colocar"
+      },
+      "sentences": [
+        {
+          "de": "Wir können zehn Gäste [unterbringen].",
+          "tr": "On misafir ağırlayabiliriz.",
+          "en": "We can put up ten guests.",
+          "fr": "Nous pouvons héberger dix invités.",
+          "it": "Possiamo ospitare dieci ospiti.",
+          "es": "Podemos alojar a diez invitados."
+        },
+        {
+          "de": "Wo soll ich die Bücher [unterbringen]?",
+          "tr": "Kitapları nereye koyayım?",
+          "en": "Where should I put the books?",
+          "fr": "Où est-ce que je range les livres ?",
+          "it": "Dove metto i libri?",
+          "es": "¿Dónde coloco los libros?"
+        }
+      ]
+    },
+    {
+      "id": "Unterbringung",
+      "pos": "noun",
+      "parent": "unterbringen",
+      "parts": [
+        "unter-",
+        "bring",
+        "-ung"
+      ],
+      "gloss": {
+        "en": "accommodation",
+        "tr": "barınma, konaklama",
+        "de": "ein Platz zum Wohnen oder Schlafen",
+        "fr": "l'hébergement",
+        "it": "l'alloggio, la sistemazione",
+        "es": "el alojamiento"
+      },
+      "sentences": [
+        {
+          "de": "Die [Unterbringung] ist im Preis enthalten.",
+          "tr": "Konaklama fiyata dahil.",
+          "en": "Accommodation is included in the price.",
+          "fr": "L'hébergement est compris dans le prix.",
+          "it": "L'alloggio è incluso nel prezzo.",
+          "es": "El alojamiento está incluido en el precio."
+        },
+        {
+          "de": "Die Stadt sucht eine [Unterbringung] für die Familien.",
+          "tr": "Şehir aileler için kalacak yer arıyor.",
+          "en": "The city is looking for accommodation for the families.",
+          "fr": "La ville cherche un hébergement pour les familles.",
+          "it": "La città cerca una sistemazione per le famiglie.",
+          "es": "La ciudad busca alojamiento para las familias."
+        }
+      ]
+    },
+    {
+      "id": "anbringen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "an-",
+        "bring",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to attach, to put up, to fix",
+        "tr": "takmak, asmak, monte etmek",
+        "de": "etwas an einer Wand oder Stelle befestigen",
+        "fr": "fixer, installer",
+        "it": "fissare, applicare",
+        "es": "colocar, fijar"
+      },
+      "sentences": [
+        {
+          "de": "Kannst du das Regal an der Wand [anbringen]?",
+          "tr": "Rafı duvara takabilir misin?",
+          "en": "Can you put the shelf up on the wall?",
+          "fr": "Tu peux fixer l'étagère au mur ?",
+          "it": "Puoi fissare la mensola al muro?",
+          "es": "¿Puedes colgar la estantería en la pared?"
+        },
+        {
+          "de": "Hier müssen wir ein Schild [anbringen].",
+          "tr": "Buraya bir tabela asmamız lazım.",
+          "en": "We need to put up a sign here.",
+          "fr": "Nous devons installer un panneau ici.",
+          "it": "Qui dobbiamo mettere un cartello.",
+          "es": "Aquí tenemos que poner un letrero."
+        }
+      ]
+    },
+    {
+      "id": "zurückbringen",
+      "pos": "verb",
+      "parent": "bringen",
+      "parts": [
+        "zurück-",
+        "bring",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to bring back, to return",
+        "tr": "geri getirmek, iade etmek",
+        "de": "etwas an den alten Ort oder zum Besitzer bringen",
+        "fr": "rapporter, rendre",
+        "it": "riportare, restituire",
+        "es": "devolver"
+      },
+      "sentences": [
+        {
+          "de": "Ich muss die Bücher in die Bibliothek [zurückbringen].",
+          "tr": "Kitapları kütüphaneye geri götürmem lazım.",
+          "en": "I have to take the books back to the library.",
+          "fr": "Je dois rapporter les livres à la bibliothèque.",
+          "it": "Devo riportare i libri in biblioteca.",
+          "es": "Tengo que devolver los libros a la biblioteca."
+        },
+        {
+          "de": "Kannst du mir den Schlüssel morgen [zurückbringen]?",
+          "tr": "Anahtarı yarın bana geri getirebilir misin?",
+          "en": "Can you bring the key back tomorrow?",
+          "fr": "Tu peux me rendre la clé demain ?",
+          "it": "Mi riporti la chiave domani?",
+          "es": "¿Me devuelves la llave mañana?"
+        }
+      ]
+    }
+  ]
+}

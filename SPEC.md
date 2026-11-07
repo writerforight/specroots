@@ -80,7 +80,9 @@ seçilen dillerdeki karşılığı ve öğretici örnek cümleleri bir arada gö
     `künft`: zukünftig). Toplam 8 kök, 147 kelime, kök başına 17–20. Dördüncü tur (kullanıcı: "daha fazla
     kök"): `geh` (gehen, Gang), `seh` (sehen, Sicht), `schreib` (schreiben, Schrift; Latince scribere'den
     erken alıntı, İngilizce scrib ile aynı kaynak, kök açıklamasında yazılı), `zieh` (ziehen, Zug); +59.
-    Toplam 12 kök, 206 kelime. Almanca ek sayfası (ek → kelimeler) şimdilik yok; ekler kartta
+    Toplam 12 kök, 206 kelime. Beşinci tur ("bir tur daha"): `bind` (binden, Band, Bund, Bündnis), `bring`
+    (bringen, beibringen), `fall` (fallen, Unfall, Zufall, gefallen), `lieg` (liegen/legen, Lage, Gelegenheit),
+    `stell` (stellen, Stelle, Vorstellung, bestellen); +63. Toplam 17 kök, 269 kelime. Almanca ek sayfası (ek → kelimeler) şimdilik yok; ekler kartta
     anlamlarıyla düz metin. Büyütme: her kök kullanıcı onayıyla (karar 11 gibi).
 
 ## Mimari

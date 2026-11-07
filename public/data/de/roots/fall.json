@@ -1,0 +1,549 @@
+{
+  "id": "fall",
+  "forms": [
+    "fall",
+    "fäll"
+  ],
+  "origin": "de",
+  "etymon": "fallen",
+  "meaning": {
+    "en": "to fall",
+    "tr": "düşmek",
+    "de": "nach unten stürzen (fiel, gefallen; Fall)",
+    "fr": "tomber",
+    "it": "cadere",
+    "es": "caer"
+  },
+  "words": [
+    {
+      "id": "fallen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "fall",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to fall, to drop",
+        "tr": "düşmek; azalmak",
+        "de": "nach unten stürzen; weniger werden",
+        "fr": "tomber ; baisser",
+        "it": "cadere; calare",
+        "es": "caer; bajar"
+      },
+      "sentences": [
+        {
+          "de": "Pass auf, dass du nicht [fällst]!",
+          "tr": "Dikkat et, düşme!",
+          "en": "Be careful not to fall!",
+          "fr": "Fais attention à ne pas tomber !",
+          "it": "Attento a non cadere!",
+          "es": "¡Cuidado, no te caigas!"
+        },
+        {
+          "de": "Die Preise sind [gefallen].",
+          "tr": "Fiyatlar düştü.",
+          "en": "Prices have fallen.",
+          "fr": "Les prix ont baissé.",
+          "it": "I prezzi sono calati.",
+          "es": "Los precios han bajado."
+        }
+      ]
+    },
+    {
+      "id": "Fall",
+      "pos": "noun",
+      "parent": "fallen",
+      "parts": [
+        "fall"
+      ],
+      "gloss": {
+        "en": "fall; case",
+        "tr": "düşüş; durum, olay; dava; (dilbilgisi) hâl",
+        "de": "das Fallen; eine Situation; ein Fall für die Polizei; in der Grammatik: der Kasus",
+        "fr": "la chute ; le cas ; l'affaire",
+        "it": "la caduta; il caso",
+        "es": "la caída; el caso"
+      },
+      "sentences": [
+        {
+          "de": "Auf jeden [Fall] komme ich mit.",
+          "tr": "Her hâlükârda geliyorum.",
+          "en": "I'm coming along in any case.",
+          "fr": "Je viens dans tous les cas.",
+          "it": "Vengo in ogni caso.",
+          "es": "Voy en cualquier caso."
+        },
+        {
+          "de": "Die Polizei untersucht den [Fall].",
+          "tr": "Polis olayı araştırıyor.",
+          "en": "The police are investigating the case.",
+          "fr": "La police enquête sur l'affaire.",
+          "it": "La polizia indaga sul caso.",
+          "es": "La policía investiga el caso."
+        }
+      ]
+    },
+    {
+      "id": "Unfall",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "un-",
+        "fall"
+      ],
+      "gloss": {
+        "en": "accident",
+        "tr": "kaza",
+        "de": "ein plötzliches Unglück, z. B. im Verkehr",
+        "fr": "l'accident",
+        "it": "l'incidente",
+        "es": "el accidente"
+      },
+      "sentences": [
+        {
+          "de": "Auf der Autobahn gab es einen [Unfall].",
+          "tr": "Otoyolda bir kaza oldu.",
+          "en": "There was an accident on the motorway.",
+          "fr": "Il y a eu un accident sur l'autoroute.",
+          "it": "C'è stato un incidente in autostrada.",
+          "es": "Hubo un accidente en la autopista."
+        },
+        {
+          "de": "Zum Glück wurde bei dem [Unfall] niemand verletzt.",
+          "tr": "Neyse ki kazada kimse yaralanmadı.",
+          "en": "Luckily nobody was hurt in the accident.",
+          "fr": "Heureusement, personne n'a été blessé dans l'accident.",
+          "it": "Per fortuna nessuno si è fatto male nell'incidente.",
+          "es": "Por suerte nadie resultó herido en el accidente."
+        }
+      ]
+    },
+    {
+      "id": "einfallen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ein-",
+        "fall",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to occur to, to come to mind",
+        "tr": "aklına gelmek",
+        "de": "plötzlich in den Sinn kommen",
+        "fr": "venir à l'esprit",
+        "it": "venire in mente",
+        "es": "ocurrirse, venir a la mente"
+      },
+      "sentences": [
+        {
+          "de": "Mir ist sein Name nicht [eingefallen].",
+          "tr": "Adı aklıma gelmedi.",
+          "en": "His name didn't come to me.",
+          "fr": "Son nom ne m'est pas revenu.",
+          "it": "Non mi è venuto in mente il suo nome.",
+          "es": "No me vino a la mente su nombre."
+        },
+        {
+          "de": "Was soll ich ihm nur schenken? Mir will nichts [einfallen].",
+          "tr": "Ona ne hediye edeyim? Aklıma hiçbir şey gelmiyor.",
+          "en": "What should I give him? Nothing comes to mind.",
+          "fr": "Que lui offrir ? Rien ne me vient à l'esprit.",
+          "it": "Cosa gli regalo? Non mi viene in mente niente.",
+          "es": "¿Qué le regalo? No se me ocurre nada."
+        }
+      ]
+    },
+    {
+      "id": "Einfall",
+      "pos": "noun",
+      "parent": "einfallen",
+      "parts": [
+        "ein-",
+        "fall"
+      ],
+      "gloss": {
+        "en": "idea",
+        "tr": "fikir, aklına gelen şey",
+        "de": "eine plötzliche Idee",
+        "fr": "l'idée",
+        "it": "l'idea",
+        "es": "la idea, la ocurrencia"
+      },
+      "sentences": [
+        {
+          "de": "Das war ein guter [Einfall]!",
+          "tr": "İyi bir fikirdi!",
+          "en": "That was a good idea!",
+          "fr": "C'était une bonne idée !",
+          "it": "È stata una buona idea!",
+          "es": "¡Fue una buena idea!"
+        },
+        {
+          "de": "Er hat immer verrückte [Einfälle].",
+          "tr": "Hep çılgın fikirleri olur.",
+          "en": "He always has crazy ideas.",
+          "fr": "Il a toujours des idées folles.",
+          "it": "Ha sempre idee pazze.",
+          "es": "Siempre tiene ocurrencias locas."
+        }
+      ]
+    },
+    {
+      "id": "Zufall",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "zu-",
+        "fall"
+      ],
+      "gloss": {
+        "en": "coincidence, chance",
+        "tr": "tesadüf, rastlantı",
+        "de": "etwas, das ohne Plan passiert",
+        "fr": "le hasard",
+        "it": "il caso, la coincidenza",
+        "es": "la casualidad"
+      },
+      "sentences": [
+        {
+          "de": "Was für ein [Zufall], dich hier zu sehen!",
+          "tr": "Seni burada görmek ne tesadüf!",
+          "en": "What a coincidence to see you here!",
+          "fr": "Quel hasard de te voir ici !",
+          "it": "Che coincidenza vederti qui!",
+          "es": "¡Qué casualidad verte aquí!"
+        },
+        {
+          "de": "Das war kein [Zufall].",
+          "tr": "Bu tesadüf değildi.",
+          "en": "That was no coincidence.",
+          "fr": "Ce n'était pas un hasard.",
+          "it": "Non è stato un caso.",
+          "es": "No fue casualidad."
+        }
+      ]
+    },
+    {
+      "id": "zufällig",
+      "pos": "adjective",
+      "parent": "Zufall",
+      "parts": [
+        "zu-",
+        "fäll",
+        "-ig"
+      ],
+      "gloss": {
+        "en": "by chance, random",
+        "tr": "tesadüfen, rastgele",
+        "de": "durch Zufall; ohne Plan",
+        "fr": "par hasard, aléatoire",
+        "it": "per caso, casuale",
+        "es": "por casualidad, aleatorio"
+      },
+      "sentences": [
+        {
+          "de": "Ich habe ihn [zufällig] im Supermarkt getroffen.",
+          "tr": "Onunla tesadüfen markette karşılaştım.",
+          "en": "I met him by chance in the supermarket.",
+          "fr": "Je l'ai croisé par hasard au supermarché.",
+          "it": "L'ho incontrato per caso al supermercato.",
+          "es": "Me lo encontré por casualidad en el súper."
+        },
+        {
+          "de": "Hast du [zufällig] einen Stift?",
+          "tr": "Sende tesadüfen bir kalem var mı?",
+          "en": "Do you happen to have a pen?",
+          "fr": "Tu n'aurais pas un stylo, par hasard ?",
+          "it": "Hai per caso una penna?",
+          "es": "¿Tienes un boli, por casualidad?"
+        }
+      ]
+    },
+    {
+      "id": "auffallen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "auf-",
+        "fall",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to stand out, to be noticed",
+        "tr": "göze çarpmak, dikkat çekmek",
+        "de": "bemerkt werden, weil man anders ist",
+        "fr": "se faire remarquer, frapper",
+        "it": "dare nell'occhio, notare",
+        "es": "llamar la atención"
+      },
+      "sentences": [
+        {
+          "de": "Ist dir nichts [aufgefallen]?",
+          "tr": "Hiçbir şey dikkatini çekmedi mi?",
+          "en": "Didn't you notice anything?",
+          "fr": "Tu n'as rien remarqué ?",
+          "it": "Non hai notato niente?",
+          "es": "¿No te has dado cuenta de nada?"
+        },
+        {
+          "de": "Mit roten Haaren wirst du überall [auffallen].",
+          "tr": "Kızıl saçla her yerde dikkat çekersin.",
+          "en": "With red hair you'll stand out everywhere.",
+          "fr": "Avec des cheveux roux, tu te feras remarquer partout.",
+          "it": "Con i capelli rossi darai nell'occhio ovunque.",
+          "es": "Con el pelo rojo llamarás la atención en todas partes."
+        }
+      ]
+    },
+    {
+      "id": "auffällig",
+      "pos": "adjective",
+      "parent": "auffallen",
+      "parts": [
+        "auf-",
+        "fäll",
+        "-ig"
+      ],
+      "gloss": {
+        "en": "conspicuous, striking, flashy",
+        "tr": "göze çarpan, dikkat çekici",
+        "de": "so, dass man es leicht bemerkt",
+        "fr": "voyant, frappant",
+        "it": "vistoso, appariscente",
+        "es": "llamativo"
+      },
+      "sentences": [
+        {
+          "de": "Sie trägt immer [auffällige] Kleider.",
+          "tr": "Hep dikkat çekici elbiseler giyer.",
+          "en": "She always wears flashy dresses.",
+          "fr": "Elle porte toujours des robes voyantes.",
+          "it": "Indossa sempre vestiti vistosi.",
+          "es": "Siempre lleva vestidos llamativos."
+        },
+        {
+          "de": "Sein Verhalten war sehr [auffällig].",
+          "tr": "Davranışı çok dikkat çekiciydi.",
+          "en": "His behaviour was very conspicuous.",
+          "fr": "Son comportement était très frappant.",
+          "it": "Il suo comportamento era molto strano.",
+          "es": "Su comportamiento fue muy llamativo."
+        }
+      ]
+    },
+    {
+      "id": "Abfall",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "ab-",
+        "fall"
+      ],
+      "gloss": {
+        "en": "waste, rubbish",
+        "tr": "çöp, atık",
+        "de": "Dinge, die man wegwirft; Müll",
+        "fr": "les déchets, les ordures",
+        "it": "i rifiuti",
+        "es": "la basura, los residuos"
+      },
+      "sentences": [
+        {
+          "de": "Wirf den [Abfall] bitte in den Mülleimer.",
+          "tr": "Lütfen çöpü çöp kutusuna at.",
+          "en": "Please put the rubbish in the bin.",
+          "fr": "Jette les déchets à la poubelle, s'il te plaît.",
+          "it": "Butta i rifiuti nel cestino, per favore.",
+          "es": "Tira la basura al cubo, por favor."
+        },
+        {
+          "de": "Wir trennen den [Abfall].",
+          "tr": "Atıkları ayrıştırıyoruz.",
+          "en": "We separate our waste.",
+          "fr": "Nous trions les déchets.",
+          "it": "Facciamo la raccolta differenziata.",
+          "es": "Separamos la basura."
+        }
+      ]
+    },
+    {
+      "id": "ausfallen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "aus-",
+        "fall",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to be cancelled; to fail, to break down; to fall out (hair)",
+        "tr": "iptal olmak; arıza yapmak, kesilmek; dökülmek (saç)",
+        "de": "nicht stattfinden; nicht funktionieren; herausfallen (Haare)",
+        "fr": "être annulé ; tomber en panne ; tomber (cheveux)",
+        "it": "essere annullato; guastarsi; cadere (capelli)",
+        "es": "suspenderse; averiarse; caerse (pelo)"
+      },
+      "sentences": [
+        {
+          "de": "Heute ist der Unterricht [ausgefallen].",
+          "tr": "Bugün ders yapılmadı.",
+          "en": "Today the lesson was cancelled.",
+          "fr": "Aujourd'hui, le cours a été annulé.",
+          "it": "Oggi la lezione è saltata.",
+          "es": "Hoy se ha suspendido la clase."
+        },
+        {
+          "de": "Im Sturm kann der Strom [ausfallen].",
+          "tr": "Fırtınada elektrik kesilebilir.",
+          "en": "The power can fail in the storm.",
+          "fr": "Pendant la tempête, le courant peut être coupé.",
+          "it": "Durante la tempesta può mancare la corrente.",
+          "es": "Con la tormenta se puede ir la luz."
+        }
+      ]
+    },
+    {
+      "id": "Ausfall",
+      "pos": "noun",
+      "parent": "ausfallen",
+      "parts": [
+        "aus-",
+        "fall"
+      ],
+      "gloss": {
+        "en": "failure, outage; cancellation",
+        "tr": "arıza, kesinti; iptal",
+        "de": "wenn etwas ausfällt oder nicht funktioniert",
+        "fr": "la panne ; l'annulation",
+        "it": "il guasto; la cancellazione",
+        "es": "el fallo, el corte; la cancelación"
+      },
+      "sentences": [
+        {
+          "de": "Ein [Ausfall] der Heizung im Winter ist schlimm.",
+          "tr": "Kışın kaloriferin arızalanması çok kötü.",
+          "en": "A heating failure in winter is bad.",
+          "fr": "Une panne de chauffage en hiver, c'est terrible.",
+          "it": "Un guasto al riscaldamento d'inverno è grave.",
+          "es": "Que falle la calefacción en invierno es grave."
+        },
+        {
+          "de": "Es gibt einen [Ausfall] auf der Linie 5.",
+          "tr": "5 numaralı hatta bir iptal var.",
+          "en": "There is a cancellation on line 5.",
+          "fr": "Il y a une suppression sur la ligne 5.",
+          "it": "C'è una soppressione sulla linea 5.",
+          "es": "Hay una cancelación en la línea 5."
+        }
+      ]
+    },
+    {
+      "id": "Überfall",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "über-",
+        "fall"
+      ],
+      "gloss": {
+        "en": "robbery, raid, mugging",
+        "tr": "soygun, baskın, saldırı",
+        "de": "ein plötzlicher Angriff, um etwas zu rauben",
+        "fr": "l'attaque, le hold-up",
+        "it": "la rapina, l'aggressione",
+        "es": "el atraco, el asalto"
+      },
+      "sentences": [
+        {
+          "de": "Gestern gab es einen [Überfall] auf die Bank.",
+          "tr": "Dün bankaya bir soygun yapıldı.",
+          "en": "There was a bank robbery yesterday.",
+          "fr": "Hier, il y a eu un hold-up à la banque.",
+          "it": "Ieri c'è stata una rapina in banca.",
+          "es": "Ayer hubo un atraco al banco."
+        },
+        {
+          "de": "Nach dem [Überfall] hatte sie Angst.",
+          "tr": "Saldırıdan sonra korkuyordu.",
+          "en": "After the mugging she was afraid.",
+          "fr": "Après l'agression, elle avait peur.",
+          "it": "Dopo l'aggressione aveva paura.",
+          "es": "Después del asalto tenía miedo."
+        }
+      ]
+    },
+    {
+      "id": "Beifall",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "bei-",
+        "fall"
+      ],
+      "gloss": {
+        "en": "applause",
+        "tr": "alkış",
+        "de": "Klatschen, um zu zeigen, dass etwas gefallen hat",
+        "fr": "les applaudissements",
+        "it": "l'applauso",
+        "es": "el aplauso"
+      },
+      "sentences": [
+        {
+          "de": "Nach dem Konzert gab es viel [Beifall].",
+          "tr": "Konserden sonra çok alkış vardı.",
+          "en": "There was a lot of applause after the concert.",
+          "fr": "Après le concert, il y a eu beaucoup d'applaudissements.",
+          "it": "Dopo il concerto ci sono stati molti applausi.",
+          "es": "Tras el concierto hubo muchos aplausos."
+        },
+        {
+          "de": "Die Tänzerin bekam großen [Beifall].",
+          "tr": "Dansçı büyük alkış aldı.",
+          "en": "The dancer received loud applause.",
+          "fr": "La danseuse a été très applaudie.",
+          "it": "La ballerina ha ricevuto un grande applauso.",
+          "es": "La bailarina recibió un gran aplauso."
+        }
+      ]
+    },
+    {
+      "id": "gefallen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ge-",
+        "fall",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to please; es gefällt mir: I like it",
+        "tr": "hoşa gitmek, beğenilmek",
+        "de": "etwas gefällt mir: ich finde es schön oder gut",
+        "fr": "plaire",
+        "it": "piacere",
+        "es": "gustar"
+      },
+      "sentences": [
+        {
+          "de": "Wie [gefällt] dir Aachen?",
+          "tr": "Aachen'ı nasıl buldun?",
+          "en": "How do you like Aachen?",
+          "fr": "Comment trouves-tu Aix-la-Chapelle ?",
+          "it": "Ti piace Aquisgrana?",
+          "es": "¿Qué te parece Aquisgrán?"
+        },
+        {
+          "de": "Der Film hat mir sehr [gefallen].",
+          "tr": "Film çok hoşuma gitti.",
+          "en": "I really liked the film.",
+          "fr": "Le film m'a beaucoup plu.",
+          "it": "Il film mi è piaciuto molto.",
+          "es": "La película me gustó mucho."
+        }
+      ]
+    }
+  ]
+}

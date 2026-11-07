@@ -588,5 +588,50 @@
       "it": "giusto, corretto (recht)",
       "es": "correcto (recht)"
     }
+  },
+  "bei-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "by, beside, along with; separable",
+      "tr": "yanında, beraber; ayrılabilir",
+      "de": "bei, dazu; trennbar",
+      "fr": "à côté, auprès ; séparable",
+      "it": "presso, accanto; separabile",
+      "es": "junto a, al lado; separable"
+    }
+  },
+  "zurück-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "back; separable",
+      "tr": "geri; ayrılabilir",
+      "de": "zurück; trennbar",
+      "fr": "en retour, en arrière ; séparable",
+      "it": "indietro; separabile",
+      "es": "de vuelta, atrás; separable"
+    }
+  },
+  "grund-": {
+    "kind": "prefix",
+    "combining": true,
+    "meaning": {
+      "en": "ground, base (Grund)",
+      "tr": "temel, zemin (Grund)",
+      "de": "Grund",
+      "fr": "fond, base (Grund)",
+      "it": "fondo, base (Grund)",
+      "es": "fondo, base (Grund)"
+    }
+  },
+  "-sel": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "makes a noun for a thing (often small)",
+      "tr": "(çoğu zaman küçük) bir şey ismi yapar",
+      "de": "macht ein Nomen für eine (oft kleine) Sache",
+      "fr": "forme un nom de chose (souvent petite)",
+      "it": "forma un nome di cosa (spesso piccola)",
+      "es": "forma un sustantivo de cosa (a menudo pequeña)"
+    }
   }
 }

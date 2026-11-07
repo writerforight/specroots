@@ -1,0 +1,485 @@
+{
+  "id": "lieg",
+  "forms": [
+    "lieg",
+    "lag",
+    "leg"
+  ],
+  "origin": "de",
+  "etymon": "liegen / legen",
+  "meaning": {
+    "en": "to lie; to lay, to put",
+    "tr": "yatmak, durmak; yatırmak, koymak",
+    "de": "liegen: flach auf etwas sein (lag, gelegen; Lage); legen = liegen lassen, hinlegen",
+    "fr": "être couché ; poser, coucher",
+    "it": "giacere, stare; posare",
+    "es": "estar tumbado; poner, colocar"
+  },
+  "words": [
+    {
+      "id": "liegen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "lieg",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to lie; to be (situated)",
+        "tr": "yatmak; bulunmak",
+        "de": "flach auf etwas sein; sich an einem Ort befinden",
+        "fr": "être couché ; se trouver",
+        "it": "essere sdraiato; trovarsi",
+        "es": "estar tumbado; estar situado"
+      },
+      "sentences": [
+        {
+          "de": "Die Katze [liegt] auf dem Sofa.",
+          "tr": "Kedi kanepede yatıyor.",
+          "en": "The cat is lying on the sofa.",
+          "fr": "Le chat est couché sur le canapé.",
+          "it": "Il gatto è sdraiato sul divano.",
+          "es": "El gato está tumbado en el sofá."
+        },
+        {
+          "de": "Aachen [liegt] an der Grenze zu Belgien.",
+          "tr": "Aachen Belçika sınırında.",
+          "en": "Aachen lies on the border with Belgium.",
+          "fr": "Aix-la-Chapelle se trouve à la frontière belge.",
+          "it": "Aquisgrana si trova al confine con il Belgio.",
+          "es": "Aquisgrán está en la frontera con Bélgica."
+        }
+      ]
+    },
+    {
+      "id": "Lage",
+      "pos": "noun",
+      "parent": "liegen",
+      "parts": [
+        "lag",
+        "-e"
+      ],
+      "gloss": {
+        "en": "location; situation",
+        "tr": "konum; durum",
+        "de": "wo etwas liegt; die Situation",
+        "fr": "la situation, l'emplacement",
+        "it": "la posizione; la situazione",
+        "es": "la ubicación; la situación"
+      },
+      "sentences": [
+        {
+          "de": "Die Wohnung hat eine gute [Lage].",
+          "tr": "Dairenin konumu iyi.",
+          "en": "The flat is in a good location.",
+          "fr": "L'appartement est bien situé.",
+          "it": "L'appartamento ha una buona posizione.",
+          "es": "El piso tiene buena ubicación."
+        },
+        {
+          "de": "Die [Lage] ist ernst.",
+          "tr": "Durum ciddi.",
+          "en": "The situation is serious.",
+          "fr": "La situation est grave.",
+          "it": "La situazione è seria.",
+          "es": "La situación es grave."
+        }
+      ]
+    },
+    {
+      "id": "legen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "leg",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to lay, to put (down)",
+        "tr": "yatırmak, koymak",
+        "de": "etwas flach hinlegen; machen, dass etwas liegt",
+        "fr": "poser, mettre (à plat)",
+        "it": "posare, mettere",
+        "es": "poner, colocar"
+      },
+      "sentences": [
+        {
+          "de": "[Leg] das Buch auf den Tisch.",
+          "tr": "Kitabı masaya koy.",
+          "en": "Put the book on the table.",
+          "fr": "Pose le livre sur la table.",
+          "it": "Metti il libro sul tavolo.",
+          "es": "Pon el libro en la mesa."
+        },
+        {
+          "de": "Die Henne hat ein Ei [gelegt].",
+          "tr": "Tavuk bir yumurta yumurtladı.",
+          "en": "The hen has laid an egg.",
+          "fr": "La poule a pondu un œuf.",
+          "it": "La gallina ha fatto un uovo.",
+          "es": "La gallina ha puesto un huevo."
+        }
+      ]
+    },
+    {
+      "id": "überlegen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "über-",
+        "leg",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to think about, to consider",
+        "tr": "düşünmek, kafa yormak",
+        "de": "über etwas nachdenken",
+        "fr": "réfléchir",
+        "it": "riflettere, pensarci",
+        "es": "pensar, considerar"
+      },
+      "sentences": [
+        {
+          "de": "Ich muss mir das noch [überlegen].",
+          "tr": "Bunu daha bir düşünmem lazım.",
+          "en": "I still need to think about it.",
+          "fr": "Je dois encore y réfléchir.",
+          "it": "Devo ancora pensarci.",
+          "es": "Todavía tengo que pensármelo."
+        },
+        {
+          "de": "Hast du es dir anders [überlegt]?",
+          "tr": "Fikrini mi değiştirdin?",
+          "en": "Have you changed your mind?",
+          "fr": "Tu as changé d'avis ?",
+          "it": "Hai cambiato idea?",
+          "es": "¿Has cambiado de opinión?"
+        }
+      ]
+    },
+    {
+      "id": "Überlegung",
+      "pos": "noun",
+      "parent": "überlegen",
+      "parts": [
+        "über-",
+        "leg",
+        "-ung"
+      ],
+      "gloss": {
+        "en": "consideration, thought",
+        "tr": "düşünce, değerlendirme",
+        "de": "das Nachdenken; ein Gedanke",
+        "fr": "la réflexion",
+        "it": "la riflessione, la considerazione",
+        "es": "la reflexión, la consideración"
+      },
+      "sentences": [
+        {
+          "de": "Nach langer [Überlegung] hat sie Ja gesagt.",
+          "tr": "Uzun bir düşünmeden sonra evet dedi.",
+          "en": "After long consideration she said yes.",
+          "fr": "Après mûre réflexion, elle a dit oui.",
+          "it": "Dopo lunga riflessione ha detto di sì.",
+          "es": "Tras mucho pensarlo, dijo que sí."
+        },
+        {
+          "de": "Das ist eine gute [Überlegung].",
+          "tr": "Bu iyi bir düşünce.",
+          "en": "That is a good thought.",
+          "fr": "C'est une bonne réflexion.",
+          "it": "È una buona considerazione.",
+          "es": "Es una buena reflexión."
+        }
+      ]
+    },
+    {
+      "id": "Gelegenheit",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "ge-",
+        "leg",
+        "-en",
+        "-heit"
+      ],
+      "gloss": {
+        "en": "opportunity, chance, occasion",
+        "tr": "fırsat",
+        "de": "ein günstiger Moment, etwas zu tun",
+        "fr": "l'occasion",
+        "it": "l'occasione",
+        "es": "la oportunidad, la ocasión"
+      },
+      "sentences": [
+        {
+          "de": "Das ist eine gute [Gelegenheit], Deutsch zu üben.",
+          "tr": "Bu Almanca pratik yapmak için iyi bir fırsat.",
+          "en": "This is a good opportunity to practise German.",
+          "fr": "C'est une bonne occasion de pratiquer l'allemand.",
+          "it": "È una buona occasione per esercitare il tedesco.",
+          "es": "Es una buena oportunidad para practicar alemán."
+        },
+        {
+          "de": "Bei [Gelegenheit] rufe ich dich an.",
+          "tr": "Fırsat bulunca seni ararım.",
+          "en": "I'll call you when I get the chance.",
+          "fr": "Je t'appellerai à l'occasion.",
+          "it": "Ti chiamo appena posso.",
+          "es": "Te llamo cuando tenga ocasión."
+        }
+      ]
+    },
+    {
+      "id": "verlegen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ver-",
+        "leg",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to move, to postpone; to misplace",
+        "tr": "ertelemek, taşımak; bir yere koyup unutmak",
+        "de": "an einen anderen Ort oder Termin bringen; etwas so hinlegen, dass man es nicht mehr findet",
+        "fr": "déplacer, reporter ; égarer",
+        "it": "spostare, rinviare; smarrire",
+        "es": "trasladar, aplazar; extraviar"
+      },
+      "sentences": [
+        {
+          "de": "Das Treffen wurde auf Freitag [verlegt].",
+          "tr": "Toplantı cumaya ertelendi.",
+          "en": "The meeting was moved to Friday.",
+          "fr": "La réunion a été reportée à vendredi.",
+          "it": "La riunione è stata spostata a venerdì.",
+          "es": "La reunión se trasladó al viernes."
+        },
+        {
+          "de": "Ich habe meine Brille [verlegt].",
+          "tr": "Gözlüğümü bir yere koyup unuttum.",
+          "en": "I've mislaid my glasses.",
+          "fr": "J'ai égaré mes lunettes.",
+          "it": "Ho smarrito gli occhiali.",
+          "es": "He extraviado mis gafas."
+        }
+      ]
+    },
+    {
+      "id": "belegen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "be-",
+        "leg",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to prove; to enrol in; to top (bread)",
+        "tr": "kanıtlamak; (ders) seçmek, almak; (ekmeğin üstüne) koymak",
+        "de": "mit Beweisen zeigen; einen Kurs wählen; etwas auf ein Brot legen",
+        "fr": "prouver ; s'inscrire à ; garnir",
+        "it": "dimostrare; frequentare (un corso); farcire",
+        "es": "demostrar; matricularse; cubrir"
+      },
+      "sentences": [
+        {
+          "de": "Kannst du das [belegen]?",
+          "tr": "Bunu kanıtlayabilir misin?",
+          "en": "Can you prove that?",
+          "fr": "Tu peux le prouver ?",
+          "it": "Puoi dimostrarlo?",
+          "es": "¿Puedes demostrarlo?"
+        },
+        {
+          "de": "Dieses Semester will ich einen Spanischkurs [belegen].",
+          "tr": "Bu dönem bir İspanyolca dersi almak istiyorum.",
+          "en": "This semester I want to take a Spanish course.",
+          "fr": "Ce semestre, je veux suivre un cours d'espagnol.",
+          "it": "Questo semestre voglio frequentare un corso di spagnolo.",
+          "es": "Este semestre quiero matricularme en un curso de español."
+        }
+      ]
+    },
+    {
+      "id": "Beleg",
+      "pos": "noun",
+      "parent": "belegen",
+      "parts": [
+        "be-",
+        "leg"
+      ],
+      "gloss": {
+        "en": "receipt; proof",
+        "tr": "fiş, makbuz; kanıt",
+        "de": "ein Papier, das etwas beweist, z. B. eine Quittung",
+        "fr": "le justificatif, le reçu",
+        "it": "la ricevuta; la prova",
+        "es": "el comprobante, el recibo"
+      },
+      "sentences": [
+        {
+          "de": "Bitte heben Sie den [Beleg] auf.",
+          "tr": "Lütfen fişi saklayın.",
+          "en": "Please keep the receipt.",
+          "fr": "Gardez le justificatif, s'il vous plaît.",
+          "it": "Conservi la ricevuta, per favore.",
+          "es": "Guarde el comprobante, por favor."
+        },
+        {
+          "de": "Gibt es dafür einen [Beleg]?",
+          "tr": "Bunun bir kanıtı var mı?",
+          "en": "Is there any proof of that?",
+          "fr": "Y a-t-il une preuve ?",
+          "it": "C'è una prova?",
+          "es": "¿Hay alguna prueba de eso?"
+        }
+      ]
+    },
+    {
+      "id": "Anlage",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "an-",
+        "lag",
+        "-e"
+      ],
+      "gloss": {
+        "en": "attachment, enclosure; system, facility; grounds",
+        "tr": "ek (belge); tesis, sistem; park alanı",
+        "de": "ein Dokument, das zu einem Brief gehört; eine technische Einrichtung; ein Park",
+        "fr": "la pièce jointe ; l'installation ; le parc",
+        "it": "l'allegato; l'impianto; il parco",
+        "es": "el anexo; la instalación; el parque"
+      },
+      "sentences": [
+        {
+          "de": "In der [Anlage] finden Sie meinen Lebenslauf.",
+          "tr": "Ekte özgeçmişimi bulabilirsiniz.",
+          "en": "Please find my CV attached.",
+          "fr": "Vous trouverez mon CV en pièce jointe.",
+          "it": "In allegato trova il mio curriculum.",
+          "es": "Adjunto le envío mi currículum."
+        },
+        {
+          "de": "Die [Anlage] produziert Strom aus Wind.",
+          "tr": "Tesis rüzgârdan elektrik üretiyor.",
+          "en": "The facility produces electricity from wind.",
+          "fr": "L'installation produit de l'électricité à partir du vent.",
+          "it": "L'impianto produce elettricità dal vento.",
+          "es": "La instalación produce electricidad a partir del viento."
+        }
+      ]
+    },
+    {
+      "id": "Beilage",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "bei-",
+        "lag",
+        "-e"
+      ],
+      "gloss": {
+        "en": "side dish",
+        "tr": "garnitür, yan yemek",
+        "de": "das, was man zum Hauptgericht isst, z. B. Reis",
+        "fr": "l'accompagnement",
+        "it": "il contorno",
+        "es": "la guarnición"
+      },
+      "sentences": [
+        {
+          "de": "Als [Beilage] gibt es Kartoffeln.",
+          "tr": "Yanında patates var.",
+          "en": "There are potatoes as a side dish.",
+          "fr": "Il y a des pommes de terre en accompagnement.",
+          "it": "Come contorno ci sono patate.",
+          "es": "De guarnición hay patatas."
+        },
+        {
+          "de": "Welche [Beilage] möchten Sie?",
+          "tr": "Yanında ne istersiniz?",
+          "en": "Which side dish would you like?",
+          "fr": "Quel accompagnement désirez-vous ?",
+          "it": "Che contorno desidera?",
+          "es": "¿Qué guarnición desea?"
+        }
+      ]
+    },
+    {
+      "id": "Grundlage",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "grund-",
+        "lag",
+        "-e"
+      ],
+      "gloss": {
+        "en": "basis, foundation",
+        "tr": "temel, esas",
+        "de": "das, worauf etwas aufbaut",
+        "fr": "la base, le fondement",
+        "it": "la base, il fondamento",
+        "es": "la base, el fundamento"
+      },
+      "sentences": [
+        {
+          "de": "Vertrauen ist die [Grundlage] jeder Freundschaft.",
+          "tr": "Güven her dostluğun temelidir.",
+          "en": "Trust is the basis of every friendship.",
+          "fr": "La confiance est la base de toute amitié.",
+          "it": "La fiducia è la base di ogni amicizia.",
+          "es": "La confianza es la base de toda amistad."
+        },
+        {
+          "de": "Im ersten Semester lernt man die [Grundlagen].",
+          "tr": "İlk dönemde temeller öğreniliyor.",
+          "en": "In the first semester you learn the basics.",
+          "fr": "Au premier semestre, on apprend les bases.",
+          "it": "Nel primo semestre si imparano le basi.",
+          "es": "En el primer semestre se aprenden las bases."
+        }
+      ]
+    },
+    {
+      "id": "Auflage",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "auf-",
+        "lag",
+        "-e"
+      ],
+      "gloss": {
+        "en": "edition, print run; condition, requirement",
+        "tr": "baskı (kitap); koşul, şart",
+        "de": "alle Exemplare eines Buches, die zusammen gedruckt werden; eine Bedingung",
+        "fr": "l'édition, le tirage ; la condition",
+        "it": "l'edizione, la tiratura; la condizione",
+        "es": "la edición, la tirada; la condición"
+      },
+      "sentences": [
+        {
+          "de": "Das Buch ist schon in der dritten [Auflage].",
+          "tr": "Kitap şimdiden üçüncü baskısında.",
+          "en": "The book is already in its third edition.",
+          "fr": "Le livre en est déjà à sa troisième édition.",
+          "it": "Il libro è già alla terza edizione.",
+          "es": "El libro ya va por la tercera edición."
+        },
+        {
+          "de": "Er bekam die [Auflage], sich jede Woche zu melden.",
+          "tr": "Her hafta bildirimde bulunma şartı aldı.",
+          "en": "He was required to report every week.",
+          "fr": "Il a reçu l'obligation de se présenter chaque semaine.",
+          "it": "Ha ricevuto l'obbligo di presentarsi ogni settimana.",
+          "es": "Le impusieron presentarse cada semana."
+        }
+      ]
+    }
+  ]
+}

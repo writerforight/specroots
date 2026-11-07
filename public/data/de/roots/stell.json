@@ -1,0 +1,484 @@
+{
+  "id": "stell",
+  "forms": [
+    "stell"
+  ],
+  "origin": "de",
+  "etymon": "stellen",
+  "meaning": {
+    "en": "to put (upright), to place",
+    "tr": "(dik olarak) koymak, yerleştirmek",
+    "de": "etwas aufrecht an einen Ort bringen (stellte, gestellt; Stelle)",
+    "fr": "mettre (debout), placer",
+    "it": "mettere (in piedi), porre",
+    "es": "poner (de pie), colocar"
+  },
+  "words": [
+    {
+      "id": "stellen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "stell",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to put, to place; to ask (a question)",
+        "tr": "koymak, yerleştirmek; (soru) sormak",
+        "de": "etwas aufrecht an einen Ort bringen; eine Frage stellen",
+        "fr": "mettre, poser ; poser (une question)",
+        "it": "mettere; fare (una domanda)",
+        "es": "poner; hacer (una pregunta)"
+      },
+      "sentences": [
+        {
+          "de": "[Stell] die Flasche in den Kühlschrank.",
+          "tr": "Şişeyi buzdolabına koy.",
+          "en": "Put the bottle in the fridge.",
+          "fr": "Mets la bouteille au frigo.",
+          "it": "Metti la bottiglia in frigo.",
+          "es": "Pon la botella en la nevera."
+        },
+        {
+          "de": "Darf ich eine Frage [stellen]?",
+          "tr": "Bir soru sorabilir miyim?",
+          "en": "May I ask a question?",
+          "fr": "Je peux poser une question ?",
+          "it": "Posso fare una domanda?",
+          "es": "¿Puedo hacer una pregunta?"
+        }
+      ]
+    },
+    {
+      "id": "Stelle",
+      "pos": "noun",
+      "parent": "stellen",
+      "parts": [
+        "stell",
+        "-e"
+      ],
+      "gloss": {
+        "en": "place, spot; job, position",
+        "tr": "yer, nokta; iş, kadro",
+        "de": "ein Ort, ein Platz; ein Arbeitsplatz",
+        "fr": "l'endroit ; le poste, l'emploi",
+        "it": "il punto, il posto; il posto di lavoro",
+        "es": "el sitio; el puesto de trabajo"
+      },
+      "sentences": [
+        {
+          "de": "An deiner [Stelle] würde ich das nicht tun.",
+          "tr": "Senin yerinde olsam bunu yapmazdım.",
+          "en": "If I were you, I wouldn't do that.",
+          "fr": "À ta place, je ne ferais pas ça.",
+          "it": "Al posto tuo non lo farei.",
+          "es": "Yo en tu lugar no lo haría."
+        },
+        {
+          "de": "Sie hat eine neue [Stelle] in Köln.",
+          "tr": "Köln'de yeni bir işe girdi.",
+          "en": "She has a new job in Cologne.",
+          "fr": "Elle a un nouveau poste à Cologne.",
+          "it": "Ha un nuovo lavoro a Colonia.",
+          "es": "Tiene un nuevo puesto en Colonia."
+        }
+      ]
+    },
+    {
+      "id": "vorstellen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "vor-",
+        "stell",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to introduce; sich vorstellen: to imagine",
+        "tr": "tanıştırmak, tanıtmak; hayal etmek",
+        "de": "jemanden bekannt machen; sich etwas vorstellen: es sich denken",
+        "fr": "présenter ; s'imaginer",
+        "it": "presentare; immaginarsi",
+        "es": "presentar; imaginarse"
+      },
+      "sentences": [
+        {
+          "de": "Darf ich mich kurz [vorstellen]?",
+          "tr": "Kendimi kısaca tanıtabilir miyim?",
+          "en": "May I briefly introduce myself?",
+          "fr": "Puis-je me présenter brièvement ?",
+          "it": "Posso presentarmi brevemente?",
+          "es": "¿Puedo presentarme brevemente?"
+        },
+        {
+          "de": "Das kann ich mir gut [vorstellen].",
+          "tr": "Bunu iyi hayal edebiliyorum.",
+          "en": "I can easily imagine that.",
+          "fr": "Je peux bien me l'imaginer.",
+          "it": "Me lo posso immaginare bene.",
+          "es": "Me lo puedo imaginar bien."
+        }
+      ]
+    },
+    {
+      "id": "Vorstellung",
+      "pos": "noun",
+      "parent": "vorstellen",
+      "parts": [
+        "vor-",
+        "stell",
+        "-ung"
+      ],
+      "gloss": {
+        "en": "idea, notion; performance, show; introduction",
+        "tr": "fikir, tasavvur; gösteri; tanıtma",
+        "de": "ein Bild im Kopf; eine Aufführung im Theater; das Vorstellen einer Person",
+        "fr": "l'idée ; la représentation ; la présentation",
+        "it": "l'idea; lo spettacolo; la presentazione",
+        "es": "la idea; la función; la presentación"
+      },
+      "sentences": [
+        {
+          "de": "Ich habe keine [Vorstellung], wie das geht.",
+          "tr": "Bunun nasıl olduğuna dair hiçbir fikrim yok.",
+          "en": "I have no idea how that works.",
+          "fr": "Je n'ai aucune idée de comment ça marche.",
+          "it": "Non ho idea di come funzioni.",
+          "es": "No tengo ni idea de cómo funciona."
+        },
+        {
+          "de": "Die [Vorstellung] beginnt um acht.",
+          "tr": "Gösteri sekizde başlıyor.",
+          "en": "The performance starts at eight.",
+          "fr": "La représentation commence à huit heures.",
+          "it": "Lo spettacolo inizia alle otto.",
+          "es": "La función empieza a las ocho."
+        }
+      ]
+    },
+    {
+      "id": "bestellen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "be-",
+        "stell",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to order; to book",
+        "tr": "sipariş etmek, ısmarlamak",
+        "de": "sagen, dass man etwas haben möchte, z. B. im Restaurant",
+        "fr": "commander",
+        "it": "ordinare",
+        "es": "pedir, encargar"
+      },
+      "sentences": [
+        {
+          "de": "Wollen wir eine Pizza [bestellen]?",
+          "tr": "Pizza ısmarlayalım mı?",
+          "en": "Shall we order a pizza?",
+          "fr": "On commande une pizza ?",
+          "it": "Ordiniamo una pizza?",
+          "es": "¿Pedimos una pizza?"
+        },
+        {
+          "de": "Ich habe das Buch online [bestellt].",
+          "tr": "Kitabı internetten sipariş ettim.",
+          "en": "I ordered the book online.",
+          "fr": "J'ai commandé le livre en ligne.",
+          "it": "Ho ordinato il libro online.",
+          "es": "He pedido el libro por internet."
+        }
+      ]
+    },
+    {
+      "id": "Bestellung",
+      "pos": "noun",
+      "parent": "bestellen",
+      "parts": [
+        "be-",
+        "stell",
+        "-ung"
+      ],
+      "gloss": {
+        "en": "order",
+        "tr": "sipariş",
+        "de": "das Bestellen; die Ware, die man bestellt hat",
+        "fr": "la commande",
+        "it": "l'ordine, l'ordinazione",
+        "es": "el pedido"
+      },
+      "sentences": [
+        {
+          "de": "Ihre [Bestellung] kommt morgen.",
+          "tr": "Siparişiniz yarın geliyor.",
+          "en": "Your order arrives tomorrow.",
+          "fr": "Votre commande arrive demain.",
+          "it": "Il suo ordine arriva domani.",
+          "es": "Su pedido llega mañana."
+        },
+        {
+          "de": "Kann ich Ihre [Bestellung] aufnehmen?",
+          "tr": "Siparişinizi alabilir miyim?",
+          "en": "Can I take your order?",
+          "fr": "Je peux prendre votre commande ?",
+          "it": "Posso prendere la sua ordinazione?",
+          "es": "¿Puedo tomarle nota?"
+        }
+      ]
+    },
+    {
+      "id": "herstellen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "her-",
+        "stell",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to produce, to manufacture",
+        "tr": "üretmek, imal etmek",
+        "de": "etwas produzieren, machen",
+        "fr": "fabriquer, produire",
+        "it": "produrre, fabbricare",
+        "es": "fabricar, producir"
+      },
+      "sentences": [
+        {
+          "de": "Die Firma will hier Autos [herstellen].",
+          "tr": "Şirket burada araba üretmek istiyor.",
+          "en": "The company wants to manufacture cars here.",
+          "fr": "L'entreprise veut fabriquer des voitures ici.",
+          "it": "L'azienda vuole produrre auto qui.",
+          "es": "La empresa quiere fabricar coches aquí."
+        },
+        {
+          "de": "Dieser Käse wird in Holland [hergestellt].",
+          "tr": "Bu peynir Hollanda'da üretiliyor.",
+          "en": "This cheese is made in Holland.",
+          "fr": "Ce fromage est fabriqué en Hollande.",
+          "it": "Questo formaggio è prodotto in Olanda.",
+          "es": "Este queso se fabrica en Holanda."
+        }
+      ]
+    },
+    {
+      "id": "Hersteller",
+      "pos": "noun",
+      "parent": "herstellen",
+      "parts": [
+        "her-",
+        "stell",
+        "-er"
+      ],
+      "gloss": {
+        "en": "manufacturer, producer",
+        "tr": "üretici, imalatçı",
+        "de": "eine Firma, die etwas produziert",
+        "fr": "le fabricant",
+        "it": "il produttore",
+        "es": "el fabricante"
+      },
+      "sentences": [
+        {
+          "de": "Der [Hersteller] gibt zwei Jahre Garantie.",
+          "tr": "Üretici iki yıl garanti veriyor.",
+          "en": "The manufacturer gives a two-year warranty.",
+          "fr": "Le fabricant offre deux ans de garantie.",
+          "it": "Il produttore dà due anni di garanzia.",
+          "es": "El fabricante da dos años de garantía."
+        },
+        {
+          "de": "Welcher [Hersteller] baut dieses Handy?",
+          "tr": "Bu telefonu hangi üretici yapıyor?",
+          "en": "Which manufacturer makes this phone?",
+          "fr": "Quel fabricant produit ce téléphone ?",
+          "it": "Quale produttore fa questo telefono?",
+          "es": "¿Qué fabricante hace este móvil?"
+        }
+      ]
+    },
+    {
+      "id": "feststellen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "fest-",
+        "stell",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to find out, to notice, to establish",
+        "tr": "fark etmek, tespit etmek",
+        "de": "etwas bemerken oder herausfinden",
+        "fr": "constater",
+        "it": "constatare, accertare",
+        "es": "constatar, comprobar"
+      },
+      "sentences": [
+        {
+          "de": "Ich habe [festgestellt], dass mein Fahrrad weg ist.",
+          "tr": "Bisikletimin kaybolduğunu fark ettim.",
+          "en": "I noticed that my bike was gone.",
+          "fr": "J'ai constaté que mon vélo avait disparu.",
+          "it": "Ho constatato che la mia bici non c'era più.",
+          "es": "Me di cuenta de que mi bici había desaparecido."
+        },
+        {
+          "de": "Der Arzt konnte nichts [feststellen].",
+          "tr": "Doktor hiçbir şey tespit edemedi.",
+          "en": "The doctor couldn't find anything.",
+          "fr": "Le médecin n'a rien pu constater.",
+          "it": "Il medico non ha potuto accertare niente.",
+          "es": "El médico no pudo encontrar nada."
+        }
+      ]
+    },
+    {
+      "id": "einstellen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ein-",
+        "stell",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to hire; to adjust, to set; to stop",
+        "tr": "işe almak; ayarlamak; durdurmak",
+        "de": "jemandem eine Arbeit geben; ein Gerät richtig machen; aufhören",
+        "fr": "embaucher ; régler ; arrêter",
+        "it": "assumere; regolare; sospendere",
+        "es": "contratar; ajustar; suspender"
+      },
+      "sentences": [
+        {
+          "de": "Die Firma will drei neue Leute [einstellen].",
+          "tr": "Şirket üç yeni kişi işe almak istiyor.",
+          "en": "The company wants to hire three new people.",
+          "fr": "L'entreprise veut embaucher trois personnes.",
+          "it": "L'azienda vuole assumere tre persone nuove.",
+          "es": "La empresa quiere contratar a tres personas nuevas."
+        },
+        {
+          "de": "Kannst du die Uhr richtig [einstellen]?",
+          "tr": "Saati doğru ayarlayabilir misin?",
+          "en": "Can you set the clock correctly?",
+          "fr": "Tu peux régler l'horloge ?",
+          "it": "Puoi regolare l'orologio?",
+          "es": "¿Puedes poner bien el reloj?"
+        }
+      ]
+    },
+    {
+      "id": "Einstellung",
+      "pos": "noun",
+      "parent": "einstellen",
+      "parts": [
+        "ein-",
+        "stell",
+        "-ung"
+      ],
+      "gloss": {
+        "en": "attitude; setting; hiring",
+        "tr": "tutum, bakış açısı; ayar; işe alım",
+        "de": "was man über etwas denkt; die Einstellungen eines Geräts; das Einstellen von Personal",
+        "fr": "l'attitude ; le réglage ; l'embauche",
+        "it": "l'atteggiamento; l'impostazione; l'assunzione",
+        "es": "la actitud; el ajuste; la contratación"
+      },
+      "sentences": [
+        {
+          "de": "Er hat eine positive [Einstellung].",
+          "tr": "Olumlu bir tutumu var.",
+          "en": "He has a positive attitude.",
+          "fr": "Il a une attitude positive.",
+          "it": "Ha un atteggiamento positivo.",
+          "es": "Tiene una actitud positiva."
+        },
+        {
+          "de": "Ändere die Sprache in den [Einstellungen].",
+          "tr": "Dili ayarlardan değiştir.",
+          "en": "Change the language in the settings.",
+          "fr": "Change la langue dans les réglages.",
+          "it": "Cambia la lingua nelle impostazioni.",
+          "es": "Cambia el idioma en los ajustes."
+        }
+      ]
+    },
+    {
+      "id": "ausstellen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "aus-",
+        "stell",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to exhibit, to display; to issue (a document)",
+        "tr": "sergilemek; (belge) düzenlemek",
+        "de": "Dinge zeigen, z. B. im Museum; ein Dokument machen",
+        "fr": "exposer ; délivrer",
+        "it": "esporre; rilasciare",
+        "es": "exponer; expedir"
+      },
+      "sentences": [
+        {
+          "de": "Das Museum will ihre Bilder [ausstellen].",
+          "tr": "Müze onun resimlerini sergilemek istiyor.",
+          "en": "The museum wants to exhibit her paintings.",
+          "fr": "Le musée veut exposer ses tableaux.",
+          "it": "Il museo vuole esporre i suoi quadri.",
+          "es": "El museo quiere exponer sus cuadros."
+        },
+        {
+          "de": "Der Pass wurde in Berlin [ausgestellt].",
+          "tr": "Pasaport Berlin'de düzenlendi.",
+          "en": "The passport was issued in Berlin.",
+          "fr": "Le passeport a été délivré à Berlin.",
+          "it": "Il passaporto è stato rilasciato a Berlino.",
+          "es": "El pasaporte fue expedido en Berlín."
+        }
+      ]
+    },
+    {
+      "id": "Ausstellung",
+      "pos": "noun",
+      "parent": "ausstellen",
+      "parts": [
+        "aus-",
+        "stell",
+        "-ung"
+      ],
+      "gloss": {
+        "en": "exhibition",
+        "tr": "sergi",
+        "de": "eine Veranstaltung, bei der man Kunst oder Produkte zeigt",
+        "fr": "l'exposition",
+        "it": "la mostra, l'esposizione",
+        "es": "la exposición"
+      },
+      "sentences": [
+        {
+          "de": "Wir gehen am Sonntag in eine [Ausstellung].",
+          "tr": "Pazar günü bir sergiye gidiyoruz.",
+          "en": "We're going to an exhibition on Sunday.",
+          "fr": "Dimanche, nous allons voir une exposition.",
+          "it": "Domenica andiamo a una mostra.",
+          "es": "El domingo vamos a una exposición."
+        },
+        {
+          "de": "Die [Ausstellung] ist bis Mai geöffnet.",
+          "tr": "Sergi mayısa kadar açık.",
+          "en": "The exhibition is open until May.",
+          "fr": "L'exposition est ouverte jusqu'en mai.",
+          "it": "La mostra è aperta fino a maggio.",
+          "es": "La exposición está abierta hasta mayo."
+        }
+      ]
+    }
+  ]
+}

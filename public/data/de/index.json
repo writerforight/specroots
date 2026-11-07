@@ -1,5 +1,64 @@
 [
   {
+    "id": "bind",
+    "forms": [
+      "bind",
+      "band",
+      "bund",
+      "bünd"
+    ],
+    "origin": "de",
+    "meaning": {
+      "en": "to bind, to tie",
+      "tr": "bağlamak",
+      "de": "mit einem Band zusammenhalten (band, gebunden; Band, Bund)",
+      "fr": "lier, attacher",
+      "it": "legare",
+      "es": "atar, unir"
+    },
+    "words": [
+      "binden",
+      "Bindung",
+      "Band",
+      "Bund",
+      "Bündnis",
+      "verbinden",
+      "Verbindung",
+      "Verband",
+      "verbindlich",
+      "unverbindlich",
+      "entbinden",
+      "Entbindung"
+    ]
+  },
+  {
+    "id": "bring",
+    "forms": [
+      "bring"
+    ],
+    "origin": "de",
+    "meaning": {
+      "en": "to bring, to take",
+      "tr": "getirmek, götürmek",
+      "de": "etwas an einen Ort tragen (brachte, gebracht)",
+      "fr": "apporter, amener",
+      "it": "portare",
+      "es": "traer, llevar"
+    },
+    "words": [
+      "bringen",
+      "mitbringen",
+      "Mitbringsel",
+      "verbringen",
+      "beibringen",
+      "umbringen",
+      "unterbringen",
+      "Unterbringung",
+      "anbringen",
+      "zurückbringen"
+    ]
+  },
+  {
     "id": "fahr",
     "forms": [
       "fahr",
@@ -33,6 +92,39 @@
       "Rückfahrt",
       "führen",
       "Führerschein"
+    ]
+  },
+  {
+    "id": "fall",
+    "forms": [
+      "fall",
+      "fäll"
+    ],
+    "origin": "de",
+    "meaning": {
+      "en": "to fall",
+      "tr": "düşmek",
+      "de": "nach unten stürzen (fiel, gefallen; Fall)",
+      "fr": "tomber",
+      "it": "cadere",
+      "es": "caer"
+    },
+    "words": [
+      "fallen",
+      "Fall",
+      "Unfall",
+      "einfallen",
+      "Einfall",
+      "Zufall",
+      "zufällig",
+      "auffallen",
+      "auffällig",
+      "Abfall",
+      "ausfallen",
+      "Ausfall",
+      "Überfall",
+      "Beifall",
+      "gefallen"
     ]
   },
   {
@@ -174,6 +266,38 @@
       "vollkommen",
       "Nachkomme",
       "Unterkunft"
+    ]
+  },
+  {
+    "id": "lieg",
+    "forms": [
+      "lieg",
+      "lag",
+      "leg"
+    ],
+    "origin": "de",
+    "meaning": {
+      "en": "to lie; to lay, to put",
+      "tr": "yatmak, durmak; yatırmak, koymak",
+      "de": "liegen: flach auf etwas sein (lag, gelegen; Lage); legen = liegen lassen, hinlegen",
+      "fr": "être couché ; poser, coucher",
+      "it": "giacere, stare; posare",
+      "es": "estar tumbado; poner, colocar"
+    },
+    "words": [
+      "liegen",
+      "Lage",
+      "legen",
+      "überlegen",
+      "Überlegung",
+      "Gelegenheit",
+      "verlegen",
+      "belegen",
+      "Beleg",
+      "Anlage",
+      "Beilage",
+      "Grundlage",
+      "Auflage"
     ]
   },
   {
@@ -394,6 +518,36 @@
       "Geständnis",
       "selbstständig",
       "Umstand"
+    ]
+  },
+  {
+    "id": "stell",
+    "forms": [
+      "stell"
+    ],
+    "origin": "de",
+    "meaning": {
+      "en": "to put (upright), to place",
+      "tr": "(dik olarak) koymak, yerleştirmek",
+      "de": "etwas aufrecht an einen Ort bringen (stellte, gestellt; Stelle)",
+      "fr": "mettre (debout), placer",
+      "it": "mettere (in piedi), porre",
+      "es": "poner (de pie), colocar"
+    },
+    "words": [
+      "stellen",
+      "Stelle",
+      "vorstellen",
+      "Vorstellung",
+      "bestellen",
+      "Bestellung",
+      "herstellen",
+      "Hersteller",
+      "feststellen",
+      "einstellen",
+      "Einstellung",
+      "ausstellen",
+      "Ausstellung"
     ]
   },
   {
