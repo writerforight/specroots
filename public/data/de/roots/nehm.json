@@ -51,6 +51,42 @@
       ]
     },
     {
+      "id": "mitnehmen",
+      "pos": "verb",
+      "parent": "nehmen",
+      "parts": [
+        "mit-",
+        "nehm",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to take along; to give a lift",
+        "tr": "yanında götürmek; arabayla bırakmak",
+        "de": "etwas oder jemanden mit sich nehmen",
+        "fr": "emporter ; emmener",
+        "it": "portare con sé; dare un passaggio",
+        "es": "llevarse; llevar (en coche)"
+      },
+      "sentences": [
+        {
+          "de": "Darf ich das Buch [mitnehmen]?",
+          "tr": "Kitabı yanımda götürebilir miyim?",
+          "en": "May I take the book with me?",
+          "fr": "Je peux emporter le livre ?",
+          "it": "Posso portare via il libro?",
+          "es": "¿Puedo llevarme el libro?"
+        },
+        {
+          "de": "Kannst du mich zum Bahnhof [mitnehmen]?",
+          "tr": "Beni istasyona bırakabilir misin?",
+          "en": "Can you give me a lift to the station?",
+          "fr": "Tu peux m'emmener à la gare ?",
+          "it": "Mi dai un passaggio alla stazione?",
+          "es": "¿Me llevas a la estación?"
+        }
+      ]
+    },
+    {
       "id": "annehmen",
       "pos": "verb",
       "parent": null,
@@ -267,6 +303,42 @@
       ]
     },
     {
+      "id": "Teilnahme",
+      "pos": "noun",
+      "parent": "teilnehmen",
+      "parts": [
+        "teil-",
+        "nahm",
+        "-e"
+      ],
+      "gloss": {
+        "en": "participation",
+        "tr": "katılım",
+        "de": "das Mitmachen bei etwas",
+        "fr": "la participation",
+        "it": "la partecipazione",
+        "es": "la participación"
+      },
+      "sentences": [
+        {
+          "de": "Die [Teilnahme] ist kostenlos.",
+          "tr": "Katılım ücretsiz.",
+          "en": "Participation is free.",
+          "fr": "La participation est gratuite.",
+          "it": "La partecipazione è gratuita.",
+          "es": "La participación es gratuita."
+        },
+        {
+          "de": "Vielen Dank für Ihre [Teilnahme].",
+          "tr": "Katılımınız için çok teşekkürler.",
+          "en": "Thank you very much for taking part.",
+          "fr": "Merci beaucoup pour votre participation.",
+          "it": "Grazie mille per la sua partecipazione.",
+          "es": "Muchas gracias por su participación."
+        }
+      ]
+    },
+    {
       "id": "Ausnahme",
       "pos": "noun",
       "parent": null,
@@ -339,6 +411,43 @@
       ]
     },
     {
+      "id": "unangenehm",
+      "pos": "adjective",
+      "parent": "angenehm",
+      "parts": [
+        "un-",
+        "an-",
+        "ge-",
+        "nehm"
+      ],
+      "gloss": {
+        "en": "unpleasant; embarrassing",
+        "tr": "hoş olmayan; utandırıcı",
+        "de": "nicht angenehm; peinlich",
+        "fr": "désagréable ; gênant",
+        "it": "sgradevole; imbarazzante",
+        "es": "desagradable; incómodo"
+      },
+      "sentences": [
+        {
+          "de": "Das ist mir sehr [unangenehm].",
+          "tr": "Bu beni çok utandırıyor.",
+          "en": "That is very embarrassing for me.",
+          "fr": "C'est très gênant pour moi.",
+          "it": "La cosa mi mette molto in imbarazzo.",
+          "es": "Esto me resulta muy incómodo."
+        },
+        {
+          "de": "Ein [unangenehmer] Geruch kam aus der Küche.",
+          "tr": "Mutfaktan hoş olmayan bir koku geldi.",
+          "en": "An unpleasant smell came from the kitchen.",
+          "fr": "Une odeur désagréable venait de la cuisine.",
+          "it": "Dalla cucina veniva un odore sgradevole.",
+          "es": "De la cocina salía un olor desagradable."
+        }
+      ]
+    },
+    {
       "id": "zunehmen",
       "pos": "verb",
       "parent": null,
@@ -407,6 +516,186 @@
           "fr": "Tu peux décrocher le téléphone, s'il te plaît ?",
           "it": "Puoi rispondere al telefono, per favore?",
           "es": "¿Puedes coger el teléfono, por favor?"
+        }
+      ]
+    },
+    {
+      "id": "aufnehmen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "auf-",
+        "nehm",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to admit, to take in; to record",
+        "tr": "kabul etmek, almak; kaydetmek",
+        "de": "in eine Gruppe lassen; Ton oder Bild speichern",
+        "fr": "admettre, accueillir ; enregistrer",
+        "it": "accogliere, ammettere; registrare",
+        "es": "admitir, acoger; grabar"
+      },
+      "sentences": [
+        {
+          "de": "Die Uni will mehr Studenten [aufnehmen].",
+          "tr": "Üniversite daha çok öğrenci almak istiyor.",
+          "en": "The university wants to admit more students.",
+          "fr": "L'université veut admettre plus d'étudiants.",
+          "it": "L'università vuole ammettere più studenti.",
+          "es": "La universidad quiere admitir a más estudiantes."
+        },
+        {
+          "de": "Kannst du das Konzert [aufnehmen]?",
+          "tr": "Konseri kaydedebilir misin?",
+          "en": "Can you record the concert?",
+          "fr": "Tu peux enregistrer le concert ?",
+          "it": "Puoi registrare il concerto?",
+          "es": "¿Puedes grabar el concierto?"
+        }
+      ]
+    },
+    {
+      "id": "Aufnahme",
+      "pos": "noun",
+      "parent": "aufnehmen",
+      "parts": [
+        "auf-",
+        "nahm",
+        "-e"
+      ],
+      "gloss": {
+        "en": "recording, photo; admission, reception",
+        "tr": "kayıt, çekim; kabul",
+        "de": "ein gespeicherter Ton oder ein Foto; das Aufnehmen in eine Gruppe",
+        "fr": "l'enregistrement, la photo ; l'admission, l'accueil",
+        "it": "la registrazione, la foto; l'ammissione, l'accoglienza",
+        "es": "la grabación, la foto; la admisión, la acogida"
+      },
+      "sentences": [
+        {
+          "de": "Die [Aufnahme] ist sehr gut geworden.",
+          "tr": "Kayıt çok iyi oldu.",
+          "en": "The recording turned out very well.",
+          "fr": "L'enregistrement est très réussi.",
+          "it": "La registrazione è venuta molto bene.",
+          "es": "La grabación ha quedado muy bien."
+        },
+        {
+          "de": "Danke für die freundliche [Aufnahme].",
+          "tr": "Sıcak karşılamanız için teşekkürler.",
+          "en": "Thank you for the warm welcome.",
+          "fr": "Merci pour l'accueil chaleureux.",
+          "it": "Grazie per la calorosa accoglienza.",
+          "es": "Gracias por la cálida acogida."
+        }
+      ]
+    },
+    {
+      "id": "übernehmen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "über-",
+        "nehm",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to take over, to take on",
+        "tr": "devralmak, üstlenmek",
+        "de": "eine Aufgabe oder Firma von jemandem nehmen",
+        "fr": "reprendre, prendre en charge",
+        "it": "assumere, rilevare",
+        "es": "asumir, hacerse cargo"
+      },
+      "sentences": [
+        {
+          "de": "Wer wird die Firma [übernehmen]?",
+          "tr": "Şirketi kim devralacak?",
+          "en": "Who will take over the company?",
+          "fr": "Qui va reprendre l'entreprise ?",
+          "it": "Chi rileverà l'azienda?",
+          "es": "¿Quién se hará cargo de la empresa?"
+        },
+        {
+          "de": "Ich kann die Kosten nicht [übernehmen].",
+          "tr": "Masrafları üstlenemem.",
+          "en": "I can't cover the costs.",
+          "fr": "Je ne peux pas prendre en charge les frais.",
+          "it": "Non posso assumermi le spese.",
+          "es": "No puedo asumir los gastos."
+        }
+      ]
+    },
+    {
+      "id": "Maßnahme",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "maß-",
+        "nahm",
+        "-e"
+      ],
+      "gloss": {
+        "en": "measure, step",
+        "tr": "önlem, tedbir",
+        "de": "etwas, das man tut, um ein Ziel zu erreichen",
+        "fr": "la mesure",
+        "it": "la misura, il provvedimento",
+        "es": "la medida"
+      },
+      "sentences": [
+        {
+          "de": "Die Regierung plant neue [Maßnahmen].",
+          "tr": "Hükümet yeni önlemler planlıyor.",
+          "en": "The government is planning new measures.",
+          "fr": "Le gouvernement prévoit de nouvelles mesures.",
+          "it": "Il governo prevede nuove misure.",
+          "es": "El gobierno planea nuevas medidas."
+        },
+        {
+          "de": "Das ist nur eine [Maßnahme] von vielen.",
+          "tr": "Bu birçok önlemden sadece biri.",
+          "en": "That is just one measure among many.",
+          "fr": "Ce n'est qu'une mesure parmi d'autres.",
+          "it": "È solo una misura tra tante.",
+          "es": "Es solo una medida entre muchas."
+        }
+      ]
+    },
+    {
+      "id": "Benehmen",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "be-",
+        "nehm",
+        "-en"
+      ],
+      "gloss": {
+        "en": "manners, behaviour",
+        "tr": "davranış, terbiye",
+        "de": "wie man sich anderen gegenüber verhält",
+        "fr": "les manières, la conduite",
+        "it": "le buone maniere, il comportamento",
+        "es": "los modales, el comportamiento"
+      },
+      "sentences": [
+        {
+          "de": "Sein [Benehmen] war unmöglich.",
+          "tr": "Davranışı rezaletti.",
+          "en": "His behaviour was impossible.",
+          "fr": "Sa conduite était inadmissible.",
+          "it": "Il suo comportamento era inaccettabile.",
+          "es": "Su comportamiento fue inaceptable."
+        },
+        {
+          "de": "Gutes [Benehmen] ist wichtig.",
+          "tr": "İyi terbiye önemlidir.",
+          "en": "Good manners are important.",
+          "fr": "Les bonnes manières sont importantes.",
+          "it": "Le buone maniere sono importanti.",
+          "es": "Los buenos modales son importantes."
         }
       ]
     }

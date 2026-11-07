@@ -332,5 +332,202 @@
       "it": "parte (Teil)",
       "es": "parte (Teil)"
     }
+  },
+  "un-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "not, the opposite of",
+      "tr": "değil, -sız",
+      "de": "nicht, Gegenteil",
+      "fr": "non, contraire de",
+      "it": "non, contrario di",
+      "es": "no, contrario de"
+    }
+  },
+  "miss-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "wrongly, badly",
+      "tr": "yanlış, kötü",
+      "de": "falsch, schlecht",
+      "fr": "mal, de travers",
+      "it": "male, in modo sbagliato",
+      "es": "mal, equivocadamente"
+    }
+  },
+  "nach-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "after, behind; separable",
+      "tr": "sonra, arkasından; ayrılabilir",
+      "de": "nach, hinterher; trennbar",
+      "fr": "après, derrière ; séparable",
+      "it": "dopo, dietro; separabile",
+      "es": "después, detrás; separable"
+    }
+  },
+  "mit-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "with, along; separable",
+      "tr": "birlikte, beraber; ayrılabilir",
+      "de": "mit, zusammen; trennbar",
+      "fr": "avec ; séparable",
+      "it": "con, insieme; separabile",
+      "es": "con, junto; separable"
+    }
+  },
+  "fort-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "away; onward, continuing; separable",
+      "tr": "uzağa; devam; ayrılabilir",
+      "de": "weg; weiter; trennbar",
+      "fr": "loin ; en continuant ; séparable",
+      "it": "via; avanti, continuando; separabile",
+      "es": "lejos; adelante, continuando; separable"
+    }
+  },
+  "rück-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "back (zurück)",
+      "tr": "geri (zurück)",
+      "de": "zurück",
+      "fr": "en arrière, retour",
+      "it": "indietro, ritorno",
+      "es": "atrás, vuelta"
+    }
+  },
+  "selbst-": {
+    "kind": "prefix",
+    "combining": true,
+    "meaning": {
+      "en": "self (selbst)",
+      "tr": "kendi (selbst)",
+      "de": "selbst",
+      "fr": "soi-même (selbst)",
+      "it": "sé (selbst)",
+      "es": "uno mismo (selbst)"
+    }
+  },
+  "fremd-": {
+    "kind": "prefix",
+    "combining": true,
+    "meaning": {
+      "en": "foreign (fremd)",
+      "tr": "yabancı (fremd)",
+      "de": "fremd",
+      "fr": "étranger (fremd)",
+      "it": "straniero (fremd)",
+      "es": "extranjero (fremd)"
+    }
+  },
+  "mutter-": {
+    "kind": "prefix",
+    "combining": true,
+    "meaning": {
+      "en": "mother (Mutter)",
+      "tr": "anne (Mutter)",
+      "de": "Mutter",
+      "fr": "mère (Mutter)",
+      "it": "madre (Mutter)",
+      "es": "madre (Mutter)"
+    }
+  },
+  "voll-": {
+    "kind": "prefix",
+    "combining": true,
+    "meaning": {
+      "en": "full, complete (voll)",
+      "tr": "dolu, tam (voll)",
+      "de": "voll",
+      "fr": "plein, complet (voll)",
+      "it": "pieno, completo (voll)",
+      "es": "lleno, completo (voll)"
+    }
+  },
+  "maß-": {
+    "kind": "prefix",
+    "combining": true,
+    "meaning": {
+      "en": "measure (Maß)",
+      "tr": "ölçü (Maß)",
+      "de": "Maß",
+      "fr": "mesure (Maß)",
+      "it": "misura (Maß)",
+      "es": "medida (Maß)"
+    }
+  },
+  "fest-": {
+    "kind": "prefix",
+    "combining": true,
+    "meaning": {
+      "en": "firm, fixed (fest)",
+      "tr": "sıkı, sabit (fest)",
+      "de": "fest",
+      "fr": "ferme, fixe (fest)",
+      "it": "fermo, saldo (fest)",
+      "es": "firme, fijo (fest)"
+    }
+  },
+  "haus-": {
+    "kind": "prefix",
+    "combining": true,
+    "meaning": {
+      "en": "house (Haus)",
+      "tr": "ev (Haus)",
+      "de": "Haus",
+      "fr": "maison (Haus)",
+      "it": "casa (Haus)",
+      "es": "casa (Haus)"
+    }
+  },
+  "-ig": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "having, full of (makes an adjective)",
+      "tr": "-li, -lı (sıfat yapar)",
+      "de": "macht ein Adjektiv: mit, voller",
+      "fr": "qui a (adjectif)",
+      "it": "che ha (aggettivo)",
+      "es": "que tiene (adjetivo)"
+    }
+  },
+  "-karte": {
+    "kind": "suffix",
+    "combining": true,
+    "meaning": {
+      "en": "card, ticket (Karte)",
+      "tr": "kart, bilet (Karte)",
+      "de": "Karte",
+      "fr": "carte, billet (Karte)",
+      "it": "biglietto, carta (Karte)",
+      "es": "tarjeta, billete (Karte)"
+    }
+  },
+  "-schein": {
+    "kind": "suffix",
+    "combining": true,
+    "meaning": {
+      "en": "certificate, document (Schein)",
+      "tr": "belge (Schein)",
+      "de": "Schein, Bescheinigung",
+      "fr": "certificat (Schein)",
+      "it": "certificato (Schein)",
+      "es": "certificado (Schein)"
+    }
+  },
+  "-wort": {
+    "kind": "suffix",
+    "combining": true,
+    "meaning": {
+      "en": "word (Wort)",
+      "tr": "kelime, söz (Wort)",
+      "de": "Wort",
+      "fr": "mot (Wort)",
+      "it": "parola (Wort)",
+      "es": "palabra (Wort)"
+    }
   }
 }

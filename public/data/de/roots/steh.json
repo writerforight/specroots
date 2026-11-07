@@ -52,6 +52,40 @@
       ]
     },
     {
+      "id": "Stand",
+      "pos": "noun",
+      "parent": "stehen",
+      "parts": [
+        "stand"
+      ],
+      "gloss": {
+        "en": "stall, stand; level, state",
+        "tr": "tezgâh, stant; durum, seviye",
+        "de": "ein kleiner Verkaufstisch; wie weit etwas ist",
+        "fr": "le stand ; l'état, le niveau",
+        "it": "la bancarella; lo stato, il livello",
+        "es": "el puesto; el estado, el nivel"
+      },
+      "sentences": [
+        {
+          "de": "Am [Stand] gibt es frische Erdbeeren.",
+          "tr": "Tezgâhta taze çilek var.",
+          "en": "There are fresh strawberries at the stall.",
+          "fr": "Il y a des fraises fraîches au stand.",
+          "it": "Alla bancarella ci sono fragole fresche.",
+          "es": "En el puesto hay fresas frescas."
+        },
+        {
+          "de": "Wie ist der [Stand] des Projekts?",
+          "tr": "Projenin durumu ne?",
+          "en": "What is the status of the project?",
+          "fr": "Où en est le projet ?",
+          "it": "A che punto è il progetto?",
+          "es": "¿En qué estado está el proyecto?"
+        }
+      ]
+    },
+    {
       "id": "verstehen",
       "pos": "verb",
       "parent": null,
@@ -195,6 +229,80 @@
       ]
     },
     {
+      "id": "Missverständnis",
+      "pos": "noun",
+      "parent": "verstehen",
+      "parts": [
+        "miss-",
+        "ver-",
+        "ständ",
+        "-nis"
+      ],
+      "gloss": {
+        "en": "misunderstanding",
+        "tr": "yanlış anlama, yanlış anlaşılma",
+        "de": "wenn man etwas falsch versteht",
+        "fr": "le malentendu",
+        "it": "il malinteso",
+        "es": "el malentendido"
+      },
+      "sentences": [
+        {
+          "de": "Das war ein [Missverständnis].",
+          "tr": "Bu bir yanlış anlaşılmaydı.",
+          "en": "That was a misunderstanding.",
+          "fr": "C'était un malentendu.",
+          "it": "È stato un malinteso.",
+          "es": "Fue un malentendido."
+        },
+        {
+          "de": "Lass uns das [Missverständnis] klären.",
+          "tr": "Bu yanlış anlaşılmayı düzeltelim.",
+          "en": "Let's clear up the misunderstanding.",
+          "fr": "Dissipons ce malentendu.",
+          "it": "Chiariamo il malinteso.",
+          "es": "Aclaremos el malentendido."
+        }
+      ]
+    },
+    {
+      "id": "unverständlich",
+      "pos": "adjective",
+      "parent": "verständlich",
+      "parts": [
+        "un-",
+        "ver-",
+        "ständ",
+        "-lich"
+      ],
+      "gloss": {
+        "en": "incomprehensible",
+        "tr": "anlaşılmaz",
+        "de": "so, dass man es nicht verstehen kann",
+        "fr": "incompréhensible",
+        "it": "incomprensibile",
+        "es": "incomprensible"
+      },
+      "sentences": [
+        {
+          "de": "Seine Schrift ist völlig [unverständlich].",
+          "tr": "El yazısı tamamen anlaşılmaz.",
+          "en": "His handwriting is completely illegible.",
+          "fr": "Son écriture est complètement incompréhensible.",
+          "it": "La sua scrittura è del tutto incomprensibile.",
+          "es": "Su letra es totalmente incomprensible."
+        },
+        {
+          "de": "Es ist mir [unverständlich], warum er ging.",
+          "tr": "Neden gittiğini anlayamıyorum.",
+          "en": "I cannot understand why he left.",
+          "fr": "Je ne comprends pas pourquoi il est parti.",
+          "it": "Non capisco perché se ne sia andato.",
+          "es": "No entiendo por qué se fue."
+        }
+      ]
+    },
+    {
       "id": "bestehen",
       "pos": "verb",
       "parent": null,
@@ -299,6 +407,41 @@
           "fr": "Tu peux te lever pour la vieille dame ?",
           "it": "Puoi alzarti per la signora anziana?",
           "es": "¿Puedes levantarte para la señora mayor?"
+        }
+      ]
+    },
+    {
+      "id": "Aufstand",
+      "pos": "noun",
+      "parent": "aufstehen",
+      "parts": [
+        "auf-",
+        "stand"
+      ],
+      "gloss": {
+        "en": "uprising, revolt",
+        "tr": "ayaklanma, isyan",
+        "de": "wenn viele Menschen gegen die Regierung kämpfen",
+        "fr": "le soulèvement, la révolte",
+        "it": "la rivolta, l'insurrezione",
+        "es": "el levantamiento, la revuelta"
+      },
+      "sentences": [
+        {
+          "de": "Der [Aufstand] begann in der Hauptstadt.",
+          "tr": "Ayaklanma başkentte başladı.",
+          "en": "The uprising began in the capital.",
+          "fr": "Le soulèvement a commencé dans la capitale.",
+          "it": "La rivolta è iniziata nella capitale.",
+          "es": "El levantamiento empezó en la capital."
+        },
+        {
+          "de": "Die Armee schlug den [Aufstand] nieder.",
+          "tr": "Ordu isyanı bastırdı.",
+          "en": "The army crushed the revolt.",
+          "fr": "L'armée a écrasé la révolte.",
+          "it": "L'esercito ha represso la rivolta.",
+          "es": "El ejército aplastó la revuelta."
         }
       ]
     },
@@ -439,6 +582,149 @@
           "fr": "La résistance se mesure en ohms.",
           "it": "La resistenza si misura in ohm.",
           "es": "La resistencia se mide en ohmios."
+        }
+      ]
+    },
+    {
+      "id": "gestehen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ge-",
+        "steh",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to confess, to admit",
+        "tr": "itiraf etmek",
+        "de": "zugeben, dass man etwas getan hat",
+        "fr": "avouer",
+        "it": "confessare",
+        "es": "confesar"
+      },
+      "sentences": [
+        {
+          "de": "Der Dieb hat alles [gestanden].",
+          "tr": "Hırsız her şeyi itiraf etti.",
+          "en": "The thief confessed everything.",
+          "fr": "Le voleur a tout avoué.",
+          "it": "Il ladro ha confessato tutto.",
+          "es": "El ladrón lo confesó todo."
+        },
+        {
+          "de": "Ich muss dir etwas [gestehen].",
+          "tr": "Sana bir şey itiraf etmem lazım.",
+          "en": "I have to confess something to you.",
+          "fr": "Je dois t'avouer quelque chose.",
+          "it": "Devo confessarti una cosa.",
+          "es": "Tengo que confesarte algo."
+        }
+      ]
+    },
+    {
+      "id": "Geständnis",
+      "pos": "noun",
+      "parent": "gestehen",
+      "parts": [
+        "ge-",
+        "ständ",
+        "-nis"
+      ],
+      "gloss": {
+        "en": "confession",
+        "tr": "itiraf",
+        "de": "wenn jemand zugibt, etwas getan zu haben",
+        "fr": "l'aveu",
+        "it": "la confessione",
+        "es": "la confesión"
+      },
+      "sentences": [
+        {
+          "de": "Er legte ein [Geständnis] ab.",
+          "tr": "İtirafta bulundu.",
+          "en": "He made a confession.",
+          "fr": "Il a fait des aveux.",
+          "it": "Ha fatto una confessione.",
+          "es": "Hizo una confesión."
+        },
+        {
+          "de": "Ihr [Geständnis] überraschte alle.",
+          "tr": "İtirafı herkesi şaşırttı.",
+          "en": "Her confession surprised everyone.",
+          "fr": "Son aveu a surpris tout le monde.",
+          "it": "La sua confessione ha sorpreso tutti.",
+          "es": "Su confesión sorprendió a todos."
+        }
+      ]
+    },
+    {
+      "id": "selbstständig",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "selbst-",
+        "ständ",
+        "-ig"
+      ],
+      "gloss": {
+        "en": "independent; self-employed",
+        "tr": "bağımsız, kendi başına; serbest çalışan",
+        "de": "ohne Hilfe von anderen; mit eigener Firma",
+        "fr": "autonome, indépendant ; à son compte",
+        "it": "autonomo, indipendente; lavoratore autonomo",
+        "es": "independiente, autónomo"
+      },
+      "sentences": [
+        {
+          "de": "Die Kinder arbeiten schon sehr [selbstständig].",
+          "tr": "Çocuklar artık çok bağımsız çalışıyor.",
+          "en": "The children already work very independently.",
+          "fr": "Les enfants travaillent déjà de façon très autonome.",
+          "it": "I bambini lavorano già in modo molto autonomo.",
+          "es": "Los niños ya trabajan de forma muy autónoma."
+        },
+        {
+          "de": "Meine Mutter ist [selbstständig].",
+          "tr": "Annem kendi işini yapıyor.",
+          "en": "My mother is self-employed.",
+          "fr": "Ma mère est à son compte.",
+          "it": "Mia madre è una lavoratrice autonoma.",
+          "es": "Mi madre es autónoma."
+        }
+      ]
+    },
+    {
+      "id": "Umstand",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "um-",
+        "stand"
+      ],
+      "gloss": {
+        "en": "circumstance; Umstände: trouble, fuss",
+        "tr": "koşul, durum; Umstände: zahmet",
+        "de": "eine Bedingung, eine Situation; Umstände: Mühe",
+        "fr": "la circonstance ; Umstände : la peine",
+        "it": "la circostanza; Umstände: il disturbo",
+        "es": "la circunstancia; Umstände: la molestia"
+      },
+      "sentences": [
+        {
+          "de": "Unter diesen [Umständen] bleibe ich zu Hause.",
+          "tr": "Bu koşullarda evde kalırım.",
+          "en": "Under these circumstances I'll stay at home.",
+          "fr": "Dans ces circonstances, je reste à la maison.",
+          "it": "In queste circostanze resto a casa.",
+          "es": "En estas circunstancias me quedo en casa."
+        },
+        {
+          "de": "Mach dir bitte keine [Umstände].",
+          "tr": "Lütfen zahmet etme.",
+          "en": "Please don't go to any trouble.",
+          "fr": "Ne te donne pas cette peine.",
+          "it": "Non disturbarti, per favore.",
+          "es": "No te molestes, por favor."
         }
       ]
     }

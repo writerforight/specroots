@@ -4,7 +4,8 @@
     "sprech",
     "sprach",
     "spräch",
-    "spruch"
+    "spruch",
+    "sprich"
   ],
   "origin": "de",
   "etymon": "sprechen",
@@ -84,6 +85,78 @@
           "fr": "L'allemand n'est pas une langue facile.",
           "it": "Il tedesco non è una lingua facile.",
           "es": "El alemán no es un idioma fácil."
+        }
+      ]
+    },
+    {
+      "id": "Fremdsprache",
+      "pos": "noun",
+      "parent": "Sprache",
+      "parts": [
+        "fremd-",
+        "sprach",
+        "-e"
+      ],
+      "gloss": {
+        "en": "foreign language",
+        "tr": "yabancı dil",
+        "de": "eine Sprache, die nicht die eigene ist",
+        "fr": "la langue étrangère",
+        "it": "la lingua straniera",
+        "es": "la lengua extranjera"
+      },
+      "sentences": [
+        {
+          "de": "Deutsch ist meine erste [Fremdsprache].",
+          "tr": "Almanca benim ilk yabancı dilim.",
+          "en": "German is my first foreign language.",
+          "fr": "L'allemand est ma première langue étrangère.",
+          "it": "Il tedesco è la mia prima lingua straniera.",
+          "es": "El alemán es mi primera lengua extranjera."
+        },
+        {
+          "de": "Wie lernt man am besten eine [Fremdsprache]?",
+          "tr": "Yabancı dil en iyi nasıl öğrenilir?",
+          "en": "What is the best way to learn a foreign language?",
+          "fr": "Quelle est la meilleure façon d'apprendre une langue étrangère ?",
+          "it": "Qual è il modo migliore per imparare una lingua straniera?",
+          "es": "¿Cuál es la mejor manera de aprender una lengua extranjera?"
+        }
+      ]
+    },
+    {
+      "id": "Muttersprache",
+      "pos": "noun",
+      "parent": "Sprache",
+      "parts": [
+        "mutter-",
+        "sprach",
+        "-e"
+      ],
+      "gloss": {
+        "en": "mother tongue, native language",
+        "tr": "ana dil",
+        "de": "die erste Sprache, die man als Kind lernt",
+        "fr": "la langue maternelle",
+        "it": "la lingua madre",
+        "es": "la lengua materna"
+      },
+      "sentences": [
+        {
+          "de": "Meine [Muttersprache] ist Türkisch.",
+          "tr": "Ana dilim Türkçe.",
+          "en": "My native language is Turkish.",
+          "fr": "Ma langue maternelle est le turc.",
+          "it": "La mia lingua madre è il turco.",
+          "es": "Mi lengua materna es el turco."
+        },
+        {
+          "de": "Sie spricht Deutsch wie ihre [Muttersprache].",
+          "tr": "Almancayı ana dili gibi konuşuyor.",
+          "en": "She speaks German like her mother tongue.",
+          "fr": "Elle parle allemand comme sa langue maternelle.",
+          "it": "Parla tedesco come la sua lingua madre.",
+          "es": "Habla alemán como su lengua materna."
         }
       ]
     },
@@ -190,6 +263,42 @@
           "fr": "Nous devons encore discuter du plan.",
           "it": "Dobbiamo ancora discutere il piano.",
           "es": "Todavía tenemos que discutir el plan."
+        }
+      ]
+    },
+    {
+      "id": "Besprechung",
+      "pos": "noun",
+      "parent": "besprechen",
+      "parts": [
+        "be-",
+        "sprech",
+        "-ung"
+      ],
+      "gloss": {
+        "en": "meeting",
+        "tr": "toplantı",
+        "de": "ein Treffen, bei dem man etwas bespricht",
+        "fr": "la réunion",
+        "it": "la riunione",
+        "es": "la reunión"
+      },
+      "sentences": [
+        {
+          "de": "Die [Besprechung] beginnt um zehn.",
+          "tr": "Toplantı onda başlıyor.",
+          "en": "The meeting starts at ten.",
+          "fr": "La réunion commence à dix heures.",
+          "it": "La riunione inizia alle dieci.",
+          "es": "La reunión empieza a las diez."
+        },
+        {
+          "de": "Er ist gerade in einer [Besprechung].",
+          "tr": "Şu an toplantıda.",
+          "en": "He is in a meeting right now.",
+          "fr": "Il est en réunion en ce moment.",
+          "it": "È in riunione in questo momento.",
+          "es": "Ahora está en una reunión."
         }
       ]
     },
@@ -369,6 +478,184 @@
           "fr": "La prononciation de « ch » est difficile.",
           "it": "La pronuncia di \"ch\" è difficile.",
           "es": "La pronunciación de \"ch\" es difícil."
+        }
+      ]
+    },
+    {
+      "id": "ansprechen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "an-",
+        "sprech",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to address, to speak to; to raise (a topic)",
+        "tr": "(birine) seslenmek, laf atmak; (konuyu) açmak",
+        "de": "mit jemandem zu sprechen beginnen; ein Thema nennen",
+        "fr": "aborder ; évoquer",
+        "it": "rivolgersi a; affrontare (un tema)",
+        "es": "dirigirse a; plantear"
+      },
+      "sentences": [
+        {
+          "de": "Du kannst mich jederzeit [ansprechen].",
+          "tr": "Bana istediğin zaman seslenebilirsin.",
+          "en": "You can talk to me any time.",
+          "fr": "Tu peux m'aborder à tout moment.",
+          "it": "Puoi rivolgerti a me in qualsiasi momento.",
+          "es": "Puedes hablarme cuando quieras."
+        },
+        {
+          "de": "Wir sollten das Problem offen [ansprechen].",
+          "tr": "Sorunu açıkça konuşmalıyız.",
+          "en": "We should raise the problem openly.",
+          "fr": "Nous devrions aborder le problème franchement.",
+          "it": "Dovremmo affrontare apertamente il problema.",
+          "es": "Deberíamos plantear el problema abiertamente."
+        }
+      ]
+    },
+    {
+      "id": "Anspruch",
+      "pos": "noun",
+      "parent": "ansprechen",
+      "parts": [
+        "an-",
+        "spruch"
+      ],
+      "gloss": {
+        "en": "claim, right; demand",
+        "tr": "hak, talep; beklenti",
+        "de": "ein Recht auf etwas; was man erwartet",
+        "fr": "le droit ; l'exigence",
+        "it": "il diritto; la pretesa",
+        "es": "el derecho; la exigencia"
+      },
+      "sentences": [
+        {
+          "de": "Sie haben [Anspruch] auf Urlaub.",
+          "tr": "İzin hakkınız var.",
+          "en": "You are entitled to holidays.",
+          "fr": "Vous avez droit à des congés.",
+          "it": "Ha diritto alle ferie.",
+          "es": "Tiene derecho a vacaciones."
+        },
+        {
+          "de": "Das ist ein berechtigter [Anspruch].",
+          "tr": "Bu haklı bir talep.",
+          "en": "That is a justified claim.",
+          "fr": "C'est une revendication légitime.",
+          "it": "È una pretesa legittima.",
+          "es": "Es una reclamación justificada."
+        }
+      ]
+    },
+    {
+      "id": "entsprechen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ent-",
+        "sprech",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to correspond to, to match",
+        "tr": "uymak, karşılık gelmek",
+        "de": "gleich sein oder passen",
+        "fr": "correspondre à",
+        "it": "corrispondere a",
+        "es": "corresponder a"
+      },
+      "sentences": [
+        {
+          "de": "Das [entspricht] nicht der Wahrheit.",
+          "tr": "Bu gerçeğe uymuyor.",
+          "en": "That does not correspond to the truth.",
+          "fr": "Cela ne correspond pas à la vérité.",
+          "it": "Questo non corrisponde alla verità.",
+          "es": "Eso no corresponde a la verdad."
+        },
+        {
+          "de": "Ein Euro [entsprach] damals fast zwei Mark.",
+          "tr": "O zamanlar bir avro neredeyse iki marka denk geliyordu.",
+          "en": "Back then one euro was worth almost two marks.",
+          "fr": "À l'époque, un euro valait presque deux marks.",
+          "it": "Allora un euro corrispondeva a quasi due marchi.",
+          "es": "Entonces un euro equivalía a casi dos marcos."
+        }
+      ]
+    },
+    {
+      "id": "Absprache",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "ab-",
+        "sprach",
+        "-e"
+      ],
+      "gloss": {
+        "en": "agreement, arrangement",
+        "tr": "anlaşma, mutabakat",
+        "de": "eine Vereinbarung nach einem Gespräch",
+        "fr": "l'accord, l'arrangement",
+        "it": "l'accordo",
+        "es": "el acuerdo"
+      },
+      "sentences": [
+        {
+          "de": "Nach [Absprache] kann ich auch später kommen.",
+          "tr": "Konuşursak daha geç de gelebilirim.",
+          "en": "By arrangement I can also come later.",
+          "fr": "Après accord, je peux aussi venir plus tard.",
+          "it": "Previo accordo posso venire anche più tardi.",
+          "es": "Previo acuerdo, también puedo venir más tarde."
+        },
+        {
+          "de": "Wir haben eine klare [Absprache].",
+          "tr": "Net bir anlaşmamız var.",
+          "en": "We have a clear agreement.",
+          "fr": "Nous avons un accord clair.",
+          "it": "Abbiamo un accordo chiaro.",
+          "es": "Tenemos un acuerdo claro."
+        }
+      ]
+    },
+    {
+      "id": "Sprichwort",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "sprich",
+        "-wort"
+      ],
+      "gloss": {
+        "en": "proverb, saying",
+        "tr": "atasözü",
+        "de": "ein bekannter kurzer Satz mit einer Lebensweisheit",
+        "fr": "le proverbe",
+        "it": "il proverbio",
+        "es": "el refrán"
+      },
+      "sentences": [
+        {
+          "de": "Kennst du dieses [Sprichwort]?",
+          "tr": "Bu atasözünü biliyor musun?",
+          "en": "Do you know this proverb?",
+          "fr": "Tu connais ce proverbe ?",
+          "it": "Conosci questo proverbio?",
+          "es": "¿Conoces este refrán?"
+        },
+        {
+          "de": "Ein [Sprichwort] sagt: Übung macht den Meister.",
+          "tr": "Bir atasözü der ki: işleyen demir pas tutmaz.",
+          "en": "A proverb says: practice makes perfect.",
+          "fr": "Un proverbe dit : c'est en forgeant qu'on devient forgeron.",
+          "it": "Un proverbio dice: la pratica rende perfetti.",
+          "es": "Un refrán dice: la práctica hace al maestro."
         }
       ]
     }

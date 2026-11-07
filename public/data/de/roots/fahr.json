@@ -2,17 +2,18 @@
   "id": "fahr",
   "forms": [
     "fahr",
-    "fähr"
+    "fähr",
+    "führ"
   ],
   "origin": "de",
   "etymon": "fahren",
   "meaning": {
-    "en": "to go, to travel (by vehicle), to drive",
-    "tr": "(taşıtla) gitmek, sürmek",
-    "de": "sich mit einem Fahrzeug fortbewegen (fuhr, gefahren)",
-    "fr": "aller (en véhicule), conduire",
-    "it": "andare (con un veicolo), guidare",
-    "es": "ir (en vehículo), conducir"
+    "en": "to go, to travel (by vehicle), to drive; führen = to make go, to lead",
+    "tr": "(taşıtla) gitmek, sürmek; führen = götürmek, yol göstermek",
+    "de": "sich mit einem Fahrzeug fortbewegen (fuhr, gefahren); führen = fahren lassen",
+    "fr": "aller (en véhicule), conduire; führen = faire aller, conduire",
+    "it": "andare (con un veicolo), guidare; führen = far andare, guidare",
+    "es": "ir (en vehículo), conducir; führen = hacer ir, llevar"
   },
   "words": [
     {
@@ -226,6 +227,41 @@
       ]
     },
     {
+      "id": "Fahrkarte",
+      "pos": "noun",
+      "parent": "fahren",
+      "parts": [
+        "fahr",
+        "-karte"
+      ],
+      "gloss": {
+        "en": "ticket (for bus or train)",
+        "tr": "bilet (otobüs, tren)",
+        "de": "ein Ticket für Bus oder Bahn",
+        "fr": "le billet, le ticket",
+        "it": "il biglietto",
+        "es": "el billete"
+      },
+      "sentences": [
+        {
+          "de": "Hast du schon eine [Fahrkarte]?",
+          "tr": "Biletin var mı?",
+          "en": "Have you got a ticket yet?",
+          "fr": "Tu as déjà un billet ?",
+          "it": "Hai già il biglietto?",
+          "es": "¿Ya tienes billete?"
+        },
+        {
+          "de": "Die [Fahrkarte] kostet drei Euro.",
+          "tr": "Bilet üç avro.",
+          "en": "The ticket costs three euros.",
+          "fr": "Le billet coûte trois euros.",
+          "it": "Il biglietto costa tre euro.",
+          "es": "El billete cuesta tres euros."
+        }
+      ]
+    },
+    {
       "id": "abfahren",
       "pos": "verb",
       "parent": null,
@@ -366,6 +402,221 @@
           "fr": "C'était une super expérience.",
           "it": "È stata un'esperienza fantastica.",
           "es": "Fue una experiencia genial."
+        }
+      ]
+    },
+    {
+      "id": "Ausfahrt",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "aus-",
+        "fahr",
+        "-t"
+      ],
+      "gloss": {
+        "en": "exit (for vehicles)",
+        "tr": "çıkış (taşıt yolu)",
+        "de": "der Weg, auf dem man hinausfährt; Autobahnausfahrt",
+        "fr": "la sortie",
+        "it": "l'uscita",
+        "es": "la salida"
+      },
+      "sentences": [
+        {
+          "de": "Nimm die nächste [Ausfahrt].",
+          "tr": "Bir sonraki çıkıştan çık.",
+          "en": "Take the next exit.",
+          "fr": "Prends la prochaine sortie.",
+          "it": "Prendi la prossima uscita.",
+          "es": "Toma la próxima salida."
+        },
+        {
+          "de": "Bitte die [Ausfahrt] freihalten!",
+          "tr": "Lütfen çıkışı kapatmayın!",
+          "en": "Please keep the exit clear!",
+          "fr": "Prière de ne pas bloquer la sortie !",
+          "it": "Si prega di lasciare libera l'uscita!",
+          "es": "¡Por favor, no bloquee la salida!"
+        }
+      ]
+    },
+    {
+      "id": "Einfahrt",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "ein-",
+        "fahr",
+        "-t"
+      ],
+      "gloss": {
+        "en": "entrance, driveway (for vehicles)",
+        "tr": "giriş (taşıt yolu)",
+        "de": "der Weg, auf dem man hineinfährt",
+        "fr": "l'entrée",
+        "it": "l'ingresso, il passo carrabile",
+        "es": "la entrada"
+      },
+      "sentences": [
+        {
+          "de": "Das Auto steht in der [Einfahrt].",
+          "tr": "Araba giriş yolunda duruyor.",
+          "en": "The car is in the driveway.",
+          "fr": "La voiture est dans l'allée.",
+          "it": "L'auto è nel vialetto.",
+          "es": "El coche está en la entrada."
+        },
+        {
+          "de": "Der Zug hat [Einfahrt] auf Gleis 3.",
+          "tr": "Tren 3. perona giriyor.",
+          "en": "The train is arriving on platform 3.",
+          "fr": "Le train entre en gare voie 3.",
+          "it": "Il treno è in arrivo al binario 3.",
+          "es": "El tren entra por la vía 3."
+        }
+      ]
+    },
+    {
+      "id": "Vorfahrt",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "vor-",
+        "fahr",
+        "-t"
+      ],
+      "gloss": {
+        "en": "right of way",
+        "tr": "geçiş üstünlüğü",
+        "de": "das Recht, zuerst zu fahren",
+        "fr": "la priorité",
+        "it": "la precedenza",
+        "es": "la preferencia de paso"
+      },
+      "sentences": [
+        {
+          "de": "Hier hat das Auto von rechts [Vorfahrt].",
+          "tr": "Burada sağdan gelen aracın geçiş hakkı var.",
+          "en": "Here the car from the right has right of way.",
+          "fr": "Ici, la voiture venant de droite a la priorité.",
+          "it": "Qui ha la precedenza l'auto da destra.",
+          "es": "Aquí tiene preferencia el coche de la derecha."
+        },
+        {
+          "de": "Er hat mir die [Vorfahrt] genommen.",
+          "tr": "Geçiş hakkıma uymadı.",
+          "en": "He didn't give me right of way.",
+          "fr": "Il m'a refusé la priorité.",
+          "it": "Non mi ha dato la precedenza.",
+          "es": "No me cedió el paso."
+        }
+      ]
+    },
+    {
+      "id": "Rückfahrt",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "rück-",
+        "fahr",
+        "-t"
+      ],
+      "gloss": {
+        "en": "return journey",
+        "tr": "dönüş yolculuğu",
+        "de": "die Fahrt zurück nach Hause",
+        "fr": "le retour",
+        "it": "il viaggio di ritorno",
+        "es": "el viaje de vuelta"
+      },
+      "sentences": [
+        {
+          "de": "Die [Rückfahrt] war sehr lang.",
+          "tr": "Dönüş yolculuğu çok uzundu.",
+          "en": "The return journey was very long.",
+          "fr": "Le retour a été très long.",
+          "it": "Il viaggio di ritorno è stato molto lungo.",
+          "es": "El viaje de vuelta fue muy largo."
+        },
+        {
+          "de": "Auf der [Rückfahrt] haben wir geschlafen.",
+          "tr": "Dönüş yolunda uyuduk.",
+          "en": "We slept on the way back.",
+          "fr": "Nous avons dormi pendant le retour.",
+          "it": "Abbiamo dormito durante il ritorno.",
+          "es": "Dormimos en el viaje de vuelta."
+        }
+      ]
+    },
+    {
+      "id": "führen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "führ",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to lead, to guide; to run (a business)",
+        "tr": "götürmek, yol göstermek; yönetmek",
+        "de": "jemanden irgendwohin bringen; leiten (ursprünglich: fahren lassen)",
+        "fr": "conduire, guider ; diriger",
+        "it": "guidare, condurre; dirigere",
+        "es": "llevar, guiar; dirigir"
+      },
+      "sentences": [
+        {
+          "de": "Der Weg [führt] zum See.",
+          "tr": "Yol göle çıkıyor.",
+          "en": "The path leads to the lake.",
+          "fr": "Le chemin mène au lac.",
+          "it": "Il sentiero porta al lago.",
+          "es": "El camino lleva al lago."
+        },
+        {
+          "de": "Sie [führt] ein kleines Hotel.",
+          "tr": "Küçük bir otel işletiyor.",
+          "en": "She runs a small hotel.",
+          "fr": "Elle dirige un petit hôtel.",
+          "it": "Gestisce un piccolo albergo.",
+          "es": "Dirige un pequeño hotel."
+        }
+      ]
+    },
+    {
+      "id": "Führerschein",
+      "pos": "noun",
+      "parent": "führen",
+      "parts": [
+        "führ",
+        "-er",
+        "-schein"
+      ],
+      "gloss": {
+        "en": "driving licence",
+        "tr": "ehliyet, sürücü belgesi",
+        "de": "ein Dokument, mit dem man Auto fahren darf",
+        "fr": "le permis de conduire",
+        "it": "la patente",
+        "es": "el carné de conducir"
+      },
+      "sentences": [
+        {
+          "de": "Ich mache gerade den [Führerschein].",
+          "tr": "Şu an ehliyet alıyorum.",
+          "en": "I'm learning to drive right now.",
+          "fr": "Je passe mon permis en ce moment.",
+          "it": "Sto prendendo la patente.",
+          "es": "Me estoy sacando el carné."
+        },
+        {
+          "de": "Zeigen Sie bitte Ihren [Führerschein].",
+          "tr": "Ehliyetinizi gösterin lütfen.",
+          "en": "Please show your driving licence.",
+          "fr": "Montrez votre permis, s'il vous plaît.",
+          "it": "Mi mostri la patente, per favore.",
+          "es": "Enséñeme el carné de conducir, por favor."
         }
       ]
     }

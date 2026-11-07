@@ -2,7 +2,8 @@
   "id": "komm",
   "forms": [
     "komm",
-    "kunft"
+    "kunft",
+    "künft"
   ],
   "origin": "de",
   "etymon": "kommen",
@@ -47,6 +48,42 @@
           "fr": "D'où venez-vous ?",
           "it": "Da dove viene?",
           "es": "¿De dónde es usted?"
+        }
+      ]
+    },
+    {
+      "id": "mitkommen",
+      "pos": "verb",
+      "parent": "kommen",
+      "parts": [
+        "mit-",
+        "komm",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to come along",
+        "tr": "birlikte gelmek",
+        "de": "zusammen mit anderen kommen",
+        "fr": "venir aussi, accompagner",
+        "it": "venire anche, accompagnare",
+        "es": "venir también, acompañar"
+      },
+      "sentences": [
+        {
+          "de": "Willst du ins Kino [mitkommen]?",
+          "tr": "Sinemaya bizimle gelmek ister misin?",
+          "en": "Do you want to come to the cinema with us?",
+          "fr": "Tu veux venir au cinéma avec nous ?",
+          "it": "Vuoi venire al cinema con noi?",
+          "es": "¿Quieres venir al cine con nosotros?"
+        },
+        {
+          "de": "Sie ist leider nicht [mitgekommen].",
+          "tr": "Maalesef bizimle gelmedi.",
+          "en": "Unfortunately she didn't come along.",
+          "fr": "Malheureusement, elle n'est pas venue.",
+          "it": "Purtroppo non è venuta.",
+          "es": "Lamentablemente no vino."
         }
       ]
     },
@@ -189,6 +226,42 @@
           "fr": "Personne ne connaît l'avenir.",
           "it": "Nessuno conosce il futuro.",
           "es": "Nadie conoce el futuro."
+        }
+      ]
+    },
+    {
+      "id": "zukünftig",
+      "pos": "adjective",
+      "parent": "Zukunft",
+      "parts": [
+        "zu-",
+        "künft",
+        "-ig"
+      ],
+      "gloss": {
+        "en": "future; in future",
+        "tr": "gelecekteki, müstakbel; ileride",
+        "de": "in der Zukunft; später",
+        "fr": "futur ; à l'avenir",
+        "it": "futuro; in futuro",
+        "es": "futuro; en el futuro"
+      },
+      "sentences": [
+        {
+          "de": "Das ist meine [zukünftige] Frau.",
+          "tr": "Bu benim müstakbel eşim.",
+          "en": "This is my future wife.",
+          "fr": "Voici ma future femme.",
+          "it": "Questa è la mia futura moglie.",
+          "es": "Esta es mi futura esposa."
+        },
+        {
+          "de": "[Zukünftig] beginnt der Kurs um neun.",
+          "tr": "Bundan sonra kurs dokuzda başlıyor.",
+          "en": "From now on the course starts at nine.",
+          "fr": "À l'avenir, le cours commencera à neuf heures.",
+          "it": "D'ora in poi il corso inizia alle nove.",
+          "es": "En adelante, el curso empieza a las nueve."
         }
       ]
     },
@@ -367,6 +440,185 @@
           "fr": "Tu es toujours le bienvenu ici.",
           "it": "Qui sei sempre il benvenuto.",
           "es": "Aquí siempre eres bienvenido."
+        }
+      ]
+    },
+    {
+      "id": "auskommen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "aus-",
+        "komm",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to get by, to manage; to get along",
+        "tr": "geçinmek, idare etmek; iyi anlaşmak",
+        "de": "mit wenig Geld leben können; sich mit jemandem verstehen",
+        "fr": "s'en sortir ; s'entendre",
+        "it": "cavarsela; andare d'accordo",
+        "es": "arreglárselas; llevarse bien"
+      },
+      "sentences": [
+        {
+          "de": "Mit 900 Euro im Monat kann ich [auskommen].",
+          "tr": "Ayda 900 avroyla geçinebilirim.",
+          "en": "I can get by on 900 euros a month.",
+          "fr": "Je peux m'en sortir avec 900 euros par mois.",
+          "it": "Riesco a cavarmela con 900 euro al mese.",
+          "es": "Me las arreglo con 900 euros al mes."
+        },
+        {
+          "de": "Ich bin mit ihr immer gut [ausgekommen].",
+          "tr": "Onunla hep iyi anlaştım.",
+          "en": "I always got on well with her.",
+          "fr": "Je me suis toujours bien entendu avec elle.",
+          "it": "Sono sempre andato d'accordo con lei.",
+          "es": "Siempre me he llevado bien con ella."
+        }
+      ]
+    },
+    {
+      "id": "entkommen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ent-",
+        "komm",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to escape",
+        "tr": "kaçmak, kurtulmak",
+        "de": "fliehen, weglaufen können",
+        "fr": "s'échapper",
+        "it": "scappare, sfuggire",
+        "es": "escapar"
+      },
+      "sentences": [
+        {
+          "de": "Der Dieb ist [entkommen].",
+          "tr": "Hırsız kaçtı.",
+          "en": "The thief escaped.",
+          "fr": "Le voleur s'est échappé.",
+          "it": "Il ladro è scappato.",
+          "es": "El ladrón escapó."
+        },
+        {
+          "de": "Niemand kann seinem Schicksal [entkommen].",
+          "tr": "Kimse kaderinden kaçamaz.",
+          "en": "No one can escape their fate.",
+          "fr": "Personne ne peut échapper à son destin.",
+          "it": "Nessuno può sfuggire al proprio destino.",
+          "es": "Nadie puede escapar de su destino."
+        }
+      ]
+    },
+    {
+      "id": "vollkommen",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "voll-",
+        "komm",
+        "-en"
+      ],
+      "gloss": {
+        "en": "perfect; completely",
+        "tr": "kusursuz; tamamen",
+        "de": "ohne Fehler; ganz und gar",
+        "fr": "parfait ; complètement",
+        "it": "perfetto; completamente",
+        "es": "perfecto; completamente"
+      },
+      "sentences": [
+        {
+          "de": "Du hast [vollkommen] recht.",
+          "tr": "Tamamen haklısın.",
+          "en": "You are completely right.",
+          "fr": "Tu as complètement raison.",
+          "it": "Hai perfettamente ragione.",
+          "es": "Tienes toda la razón."
+        },
+        {
+          "de": "Niemand ist [vollkommen].",
+          "tr": "Kimse kusursuz değildir.",
+          "en": "Nobody is perfect.",
+          "fr": "Personne n'est parfait.",
+          "it": "Nessuno è perfetto.",
+          "es": "Nadie es perfecto."
+        }
+      ]
+    },
+    {
+      "id": "Nachkomme",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "nach-",
+        "komm",
+        "-e"
+      ],
+      "gloss": {
+        "en": "descendant",
+        "tr": "torun, soyundan gelen",
+        "de": "ein Kind, Enkel usw. von jemandem",
+        "fr": "le descendant",
+        "it": "il discendente",
+        "es": "el descendiente"
+      },
+      "sentences": [
+        {
+          "de": "Er ist ein [Nachkomme] eines alten Königs.",
+          "tr": "Eski bir kralın soyundan geliyor.",
+          "en": "He is a descendant of an old king.",
+          "fr": "Il est le descendant d'un ancien roi.",
+          "it": "È un discendente di un antico re.",
+          "es": "Es descendiente de un antiguo rey."
+        },
+        {
+          "de": "Ihre [Nachkommen] leben heute in Amerika.",
+          "tr": "Onun soyundan gelenler bugün Amerika'da yaşıyor.",
+          "en": "Her descendants live in America today.",
+          "fr": "Ses descendants vivent aujourd'hui en Amérique.",
+          "it": "I suoi discendenti oggi vivono in America.",
+          "es": "Sus descendientes viven hoy en América."
+        }
+      ]
+    },
+    {
+      "id": "Unterkunft",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "unter-",
+        "kunft"
+      ],
+      "gloss": {
+        "en": "accommodation, lodging",
+        "tr": "konaklama yeri, kalacak yer",
+        "de": "ein Ort, an dem man schlafen und wohnen kann",
+        "fr": "l'hébergement, le logement",
+        "it": "l'alloggio",
+        "es": "el alojamiento"
+      },
+      "sentences": [
+        {
+          "de": "Wir suchen eine günstige [Unterkunft].",
+          "tr": "Ucuz bir kalacak yer arıyoruz.",
+          "en": "We are looking for cheap accommodation.",
+          "fr": "Nous cherchons un hébergement bon marché.",
+          "it": "Cerchiamo un alloggio economico.",
+          "es": "Buscamos un alojamiento barato."
+        },
+        {
+          "de": "Die [Unterkunft] war sauber und ruhig.",
+          "tr": "Kaldığımız yer temiz ve sessizdi.",
+          "en": "The accommodation was clean and quiet.",
+          "fr": "Le logement était propre et calme.",
+          "it": "L'alloggio era pulito e tranquillo.",
+          "es": "El alojamiento era limpio y tranquilo."
         }
       ]
     }

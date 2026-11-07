@@ -3,16 +3,17 @@
     "id": "fahr",
     "forms": [
       "fahr",
-      "fähr"
+      "fähr",
+      "führ"
     ],
     "origin": "de",
     "meaning": {
-      "en": "to go, to travel (by vehicle), to drive",
-      "tr": "(taşıtla) gitmek, sürmek",
-      "de": "sich mit einem Fahrzeug fortbewegen (fuhr, gefahren)",
-      "fr": "aller (en véhicule), conduire",
-      "it": "andare (con un veicolo), guidare",
-      "es": "ir (en vehículo), conducir"
+      "en": "to go, to travel (by vehicle), to drive; führen = to make go, to lead",
+      "tr": "(taşıtla) gitmek, sürmek; führen = götürmek, yol göstermek",
+      "de": "sich mit einem Fahrzeug fortbewegen (fuhr, gefahren); führen = fahren lassen",
+      "fr": "aller (en véhicule), conduire; führen = faire aller, conduire",
+      "it": "andare (con un veicolo), guidare; führen = far andare, guidare",
+      "es": "ir (en vehículo), conducir; führen = hacer ir, llevar"
     },
     "words": [
       "fahren",
@@ -21,10 +22,17 @@
       "Fahrzeug",
       "Fahrrad",
       "Fähre",
+      "Fahrkarte",
       "abfahren",
       "Abfahrt",
       "erfahren",
-      "Erfahrung"
+      "Erfahrung",
+      "Ausfahrt",
+      "Einfahrt",
+      "Vorfahrt",
+      "Rückfahrt",
+      "führen",
+      "Führerschein"
     ]
   },
   {
@@ -50,9 +58,17 @@
       "ausgeben",
       "Ausgabe",
       "abgeben",
+      "Abgabe",
       "vergeben",
+      "vergeblich",
       "Ergebnis",
-      "Umgebung"
+      "Umgebung",
+      "angeben",
+      "Angabe",
+      "zugeben",
+      "nachgeben",
+      "ergeben",
+      "umgeben"
     ]
   },
   {
@@ -76,19 +92,27 @@
       "erhalten",
       "enthalten",
       "behalten",
+      "Behälter",
       "Verhalten",
       "Verhältnis",
       "Unterhaltung",
       "Inhalt",
       "Aufenthalt",
-      "Gehalt"
+      "Gehalt",
+      "unterhalten",
+      "aufhalten",
+      "festhalten",
+      "anhalten",
+      "Haushalt",
+      "Vorbehalt"
     ]
   },
   {
     "id": "komm",
     "forms": [
       "komm",
-      "kunft"
+      "kunft",
+      "künft"
     ],
     "origin": "de",
     "meaning": {
@@ -101,15 +125,22 @@
     },
     "words": [
       "kommen",
+      "mitkommen",
       "bekommen",
       "ankommen",
       "Ankunft",
       "Zukunft",
+      "zukünftig",
       "Herkunft",
       "Auskunft",
       "vorkommen",
       "Einkommen",
-      "willkommen"
+      "willkommen",
+      "auskommen",
+      "entkommen",
+      "vollkommen",
+      "Nachkomme",
+      "Unterkunft"
     ]
   },
   {
@@ -129,16 +160,24 @@
     },
     "words": [
       "nehmen",
+      "mitnehmen",
       "annehmen",
       "Annahme",
       "unternehmen",
       "Unternehmer",
       "teilnehmen",
       "Teilnehmer",
+      "Teilnahme",
       "Ausnahme",
       "angenehm",
+      "unangenehm",
       "zunehmen",
-      "abnehmen"
+      "abnehmen",
+      "aufnehmen",
+      "Aufnahme",
+      "übernehmen",
+      "Maßnahme",
+      "Benehmen"
     ]
   },
   {
@@ -159,16 +198,25 @@
     },
     "words": [
       "sitzen",
+      "Sitz",
+      "Sitzung",
       "setzen",
       "besitzen",
       "Besitzer",
+      "Besitz",
       "Gesetz",
       "Satz",
       "Gegensatz",
       "Ersatz",
       "übersetzen",
       "Übersetzung",
-      "Voraussetzung"
+      "Voraussetzung",
+      "Aufsatz",
+      "Einsatz",
+      "Absatz",
+      "ersetzen",
+      "fortsetzen",
+      "Fortsetzung"
     ]
   },
   {
@@ -177,7 +225,8 @@
       "sprech",
       "sprach",
       "spräch",
-      "spruch"
+      "spruch",
+      "sprich"
     ],
     "origin": "de",
     "meaning": {
@@ -191,14 +240,22 @@
     "words": [
       "sprechen",
       "Sprache",
+      "Fremdsprache",
+      "Muttersprache",
       "Sprecher",
       "Gespräch",
       "besprechen",
+      "Besprechung",
       "versprechen",
       "widersprechen",
       "Widerspruch",
       "aussprechen",
-      "Aussprache"
+      "Aussprache",
+      "ansprechen",
+      "Anspruch",
+      "entsprechen",
+      "Absprache",
+      "Sprichwort"
     ]
   },
   {
@@ -219,17 +276,25 @@
     },
     "words": [
       "stehen",
+      "Stand",
       "verstehen",
       "Verstand",
       "Verständnis",
       "verständlich",
+      "Missverständnis",
+      "unverständlich",
       "bestehen",
       "entstehen",
       "aufstehen",
+      "Aufstand",
       "Zustand",
       "Gegenstand",
       "Abstand",
-      "Widerstand"
+      "Widerstand",
+      "gestehen",
+      "Geständnis",
+      "selbstständig",
+      "Umstand"
     ]
   }
 ]

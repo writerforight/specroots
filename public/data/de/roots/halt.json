@@ -194,6 +194,42 @@
       ]
     },
     {
+      "id": "Behälter",
+      "pos": "noun",
+      "parent": "behalten",
+      "parts": [
+        "be-",
+        "hält",
+        "-er"
+      ],
+      "gloss": {
+        "en": "container",
+        "tr": "kap, kutu",
+        "de": "ein Gefäß, in dem man etwas aufbewahrt",
+        "fr": "le récipient, le conteneur",
+        "it": "il contenitore",
+        "es": "el recipiente"
+      },
+      "sentences": [
+        {
+          "de": "Leg die Reste in einen [Behälter].",
+          "tr": "Artıkları bir kaba koy.",
+          "en": "Put the leftovers in a container.",
+          "fr": "Mets les restes dans un récipient.",
+          "it": "Metti gli avanzi in un contenitore.",
+          "es": "Pon las sobras en un recipiente."
+        },
+        {
+          "de": "Die [Behälter] sind aus Glas.",
+          "tr": "Kaplar camdan.",
+          "en": "The containers are made of glass.",
+          "fr": "Les récipients sont en verre.",
+          "it": "I contenitori sono di vetro.",
+          "es": "Los recipientes son de vidrio."
+        }
+      ]
+    },
+    {
       "id": "Verhalten",
       "pos": "noun",
       "parent": null,
@@ -268,7 +304,7 @@
     {
       "id": "Unterhaltung",
       "pos": "noun",
-      "parent": null,
+      "parent": "unterhalten",
       "parts": [
         "unter-",
         "halt",
@@ -404,6 +440,221 @@
           "fr": "Il gagne un bon salaire.",
           "it": "Guadagna un buono stipendio.",
           "es": "Gana un buen sueldo."
+        }
+      ]
+    },
+    {
+      "id": "unterhalten",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "unter-",
+        "halt",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to talk, to chat; to entertain",
+        "tr": "sohbet etmek; eğlendirmek",
+        "de": "sich unterhalten: miteinander sprechen; Spaß bieten",
+        "fr": "discuter ; divertir",
+        "it": "chiacchierare; intrattenere",
+        "es": "conversar, charlar; entretener"
+      },
+      "sentences": [
+        {
+          "de": "Wir haben uns lange [unterhalten].",
+          "tr": "Uzun uzun sohbet ettik.",
+          "en": "We talked for a long time.",
+          "fr": "Nous avons longuement discuté.",
+          "it": "Abbiamo chiacchierato a lungo.",
+          "es": "Estuvimos charlando mucho tiempo."
+        },
+        {
+          "de": "Der Clown soll die Kinder [unterhalten].",
+          "tr": "Palyaço çocukları eğlendirecek.",
+          "en": "The clown is supposed to entertain the children.",
+          "fr": "Le clown doit divertir les enfants.",
+          "it": "Il clown deve intrattenere i bambini.",
+          "es": "El payaso tiene que entretener a los niños."
+        }
+      ]
+    },
+    {
+      "id": "aufhalten",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "auf-",
+        "halt",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to hold up, to delay; sich aufhalten: to stay",
+        "tr": "alıkoymak, oyalamak; sich aufhalten: bulunmak, kalmak",
+        "de": "jemanden stoppen oder warten lassen; sich aufhalten: irgendwo sein",
+        "fr": "retenir ; séjourner",
+        "it": "trattenere; trattenersi, soggiornare",
+        "es": "entretener, retrasar; estar, permanecer"
+      },
+      "sentences": [
+        {
+          "de": "Ich will dich nicht [aufhalten].",
+          "tr": "Seni oyalamak istemem.",
+          "en": "I don't want to hold you up.",
+          "fr": "Je ne veux pas te retenir.",
+          "it": "Non voglio trattenerti.",
+          "es": "No quiero entretenerte."
+        },
+        {
+          "de": "Wo hast du dich so lange [aufgehalten]?",
+          "tr": "Bu kadar zaman neredeydin?",
+          "en": "Where have you been all this time?",
+          "fr": "Où étais-tu tout ce temps ?",
+          "it": "Dove sei stato tutto questo tempo?",
+          "es": "¿Dónde has estado tanto tiempo?"
+        }
+      ]
+    },
+    {
+      "id": "festhalten",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "fest-",
+        "halt",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to hold on (to), to hold tight",
+        "tr": "sıkıca tutmak, tutunmak",
+        "de": "etwas fest in der Hand halten; nicht loslassen",
+        "fr": "tenir fermement, se tenir",
+        "it": "tenere stretto, reggersi",
+        "es": "sujetar fuerte, agarrarse"
+      },
+      "sentences": [
+        {
+          "de": "Bitte gut [festhalten]!",
+          "tr": "Lütfen sıkıca tutunun!",
+          "en": "Please hold on tight!",
+          "fr": "Tenez-vous bien !",
+          "it": "Reggetevi forte!",
+          "es": "¡Agárrense bien, por favor!"
+        },
+        {
+          "de": "Er hat das Kind am Arm [festgehalten].",
+          "tr": "Çocuğu kolundan sıkıca tuttu.",
+          "en": "He held the child by the arm.",
+          "fr": "Il a tenu l'enfant par le bras.",
+          "it": "Ha tenuto stretto il bambino per il braccio.",
+          "es": "Sujetó al niño por el brazo."
+        }
+      ]
+    },
+    {
+      "id": "anhalten",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "an-",
+        "halt",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to stop; to last, to continue",
+        "tr": "durmak, durdurmak; sürmek",
+        "de": "stoppen; weitergehen, dauern",
+        "fr": "s'arrêter, arrêter ; durer",
+        "it": "fermarsi, fermare; durare",
+        "es": "parar, detener; durar"
+      },
+      "sentences": [
+        {
+          "de": "Bitte hier [anhalten]!",
+          "tr": "Lütfen burada durun!",
+          "en": "Please stop here!",
+          "fr": "Arrêtez-vous ici, s'il vous plaît !",
+          "it": "Si fermi qui, per favore!",
+          "es": "¡Pare aquí, por favor!"
+        },
+        {
+          "de": "Die Polizei hat uns [angehalten].",
+          "tr": "Polis bizi durdurdu.",
+          "en": "The police stopped us.",
+          "fr": "La police nous a arrêtés.",
+          "it": "La polizia ci ha fermati.",
+          "es": "La policía nos paró."
+        }
+      ]
+    },
+    {
+      "id": "Haushalt",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "haus-",
+        "halt"
+      ],
+      "gloss": {
+        "en": "household, housework; budget",
+        "tr": "ev işleri, hane; bütçe",
+        "de": "die Arbeit im Haus; die Menschen in einer Wohnung; das Budget eines Staates",
+        "fr": "le ménage, le foyer ; le budget",
+        "it": "le faccende di casa, la famiglia; il bilancio",
+        "es": "las tareas de casa, el hogar; el presupuesto"
+      },
+      "sentences": [
+        {
+          "de": "Wer macht bei euch den [Haushalt]?",
+          "tr": "Sizde ev işlerini kim yapıyor?",
+          "en": "Who does the housework in your home?",
+          "fr": "Qui fait le ménage chez vous ?",
+          "it": "Chi fa le faccende di casa da voi?",
+          "es": "¿Quién hace las tareas de casa en vuestra casa?"
+        },
+        {
+          "de": "Der [Haushalt] der Stadt ist knapp.",
+          "tr": "Şehrin bütçesi kısıtlı.",
+          "en": "The city's budget is tight.",
+          "fr": "Le budget de la ville est serré.",
+          "it": "Il bilancio della città è scarso.",
+          "es": "El presupuesto de la ciudad es ajustado."
+        }
+      ]
+    },
+    {
+      "id": "Vorbehalt",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "vor-",
+        "be-",
+        "halt"
+      ],
+      "gloss": {
+        "en": "reservation, condition",
+        "tr": "çekince, kuşku; şart",
+        "de": "ein Zweifel; eine Bedingung",
+        "fr": "la réserve",
+        "it": "la riserva",
+        "es": "la reserva, la condición"
+      },
+      "sentences": [
+        {
+          "de": "Ich habe [Vorbehalte] gegen den Plan.",
+          "tr": "Plana karşı çekincelerim var.",
+          "en": "I have reservations about the plan.",
+          "fr": "J'ai des réserves sur ce plan.",
+          "it": "Ho delle riserve sul piano.",
+          "es": "Tengo reservas sobre el plan."
+        },
+        {
+          "de": "Die Zusage gilt unter [Vorbehalt].",
+          "tr": "Onay şarta bağlı.",
+          "en": "The promise is subject to conditions.",
+          "fr": "L'accord est donné sous réserve.",
+          "it": "Il consenso vale con riserva.",
+          "es": "La aceptación es con reservas."
         }
       ]
     }

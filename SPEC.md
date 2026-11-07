@@ -75,7 +75,9 @@ seçilen dillerdeki karşılığı ve öğretici örnek cümleleri bir arada gö
     diller (Almanca seçiliyse tekrar etmez); cümle Almanca, altında aynı sırayla çeviriler; telaffuz
     Almanca sesle. Arama bu bölümde yalnız Almanca kök ve kelimeleri bulur. İlk tur 4 kök, 42 kelime:
     `steh`, `fahr`, `sprech`, `geb`; aynı gün ikinci tur (kullanıcı onayı) +4 kök, 43 kelime: `komm`,
-    `nehm`, `halt`, `setz` (sitzen/setzen, Satz). Toplam 8 kök, 85 kelime. Almanca ek sayfası (ek → kelimeler) şimdilik yok; ekler kartta
+    `nehm`, `halt`, `setz` (sitzen/setzen, Satz); üçüncü tur (kullanıcı: "daha fazla kelime yok mu")
+    her köke 6–9 yaygın kelime daha (+62; yeni yazımlar `führ`: führen/Führerschein, `sprich`: Sprichwort,
+    `künft`: zukünftig). Toplam 8 kök, 147 kelime, kök başına 17–20. Almanca ek sayfası (ek → kelimeler) şimdilik yok; ekler kartta
     anlamlarıyla düz metin. Büyütme: her kök kullanıcı onayıyla (karar 11 gibi).
 
 ## Mimari

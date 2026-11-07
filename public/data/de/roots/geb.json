@@ -266,6 +266,42 @@
       ]
     },
     {
+      "id": "Abgabe",
+      "pos": "noun",
+      "parent": "abgeben",
+      "parts": [
+        "ab-",
+        "gab",
+        "-e"
+      ],
+      "gloss": {
+        "en": "submission, handing in; tax, levy",
+        "tr": "teslim; vergi, harç",
+        "de": "das Abgeben; eine Steuer oder Gebühr",
+        "fr": "la remise ; la taxe",
+        "it": "la consegna; l'imposta",
+        "es": "la entrega; el impuesto"
+      },
+      "sentences": [
+        {
+          "de": "Die [Abgabe] der Arbeit ist am Freitag.",
+          "tr": "Ödevin teslimi cuma günü.",
+          "en": "The work is due on Friday.",
+          "fr": "La remise du travail est vendredi.",
+          "it": "La consegna del lavoro è venerdì.",
+          "es": "La entrega del trabajo es el viernes."
+        },
+        {
+          "de": "Auf Zigaretten gibt es hohe [Abgaben].",
+          "tr": "Sigaraya yüksek vergiler var.",
+          "en": "There are high taxes on cigarettes.",
+          "fr": "Les cigarettes sont lourdement taxées.",
+          "it": "Sulle sigarette ci sono imposte alte.",
+          "es": "Los cigarrillos tienen impuestos altos."
+        }
+      ]
+    },
+    {
       "id": "vergeben",
       "pos": "verb",
       "parent": null,
@@ -298,6 +334,42 @@
           "fr": "Toutes les places sont déjà attribuées.",
           "it": "Tutti i posti sono già assegnati.",
           "es": "Todas las plazas ya están adjudicadas."
+        }
+      ]
+    },
+    {
+      "id": "vergeblich",
+      "pos": "adjective",
+      "parent": "vergeben",
+      "parts": [
+        "ver-",
+        "geb",
+        "-lich"
+      ],
+      "gloss": {
+        "en": "in vain, futile",
+        "tr": "boşuna, sonuçsuz",
+        "de": "ohne Erfolg, umsonst",
+        "fr": "vain, en vain",
+        "it": "vano, inutile",
+        "es": "en vano, inútil"
+      },
+      "sentences": [
+        {
+          "de": "Alle Versuche waren [vergeblich].",
+          "tr": "Bütün denemeler boşunaydı.",
+          "en": "All attempts were in vain.",
+          "fr": "Toutes les tentatives ont été vaines.",
+          "it": "Tutti i tentativi sono stati vani.",
+          "es": "Todos los intentos fueron en vano."
+        },
+        {
+          "de": "Wir haben [vergeblich] auf den Bus gewartet.",
+          "tr": "Otobüsü boşuna bekledik.",
+          "en": "We waited for the bus in vain.",
+          "fr": "Nous avons attendu le bus en vain.",
+          "it": "Abbiamo aspettato l'autobus invano.",
+          "es": "Esperamos el autobús en vano."
         }
       ]
     },
@@ -340,7 +412,7 @@
     {
       "id": "Umgebung",
       "pos": "noun",
-      "parent": null,
+      "parent": "umgeben",
       "parts": [
         "um-",
         "geb",
@@ -370,6 +442,222 @@
           "fr": "Y a-t-il un café dans les environs ?",
           "it": "C'è un bar nei dintorni?",
           "es": "¿Hay una cafetería por aquí cerca?"
+        }
+      ]
+    },
+    {
+      "id": "angeben",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "an-",
+        "geb",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to state, to give (details); to show off",
+        "tr": "belirtmek; hava atmak",
+        "de": "eine Information nennen; prahlen",
+        "fr": "indiquer ; frimer",
+        "it": "indicare; vantarsi",
+        "es": "indicar; presumir"
+      },
+      "sentences": [
+        {
+          "de": "Hier müssen Sie Ihren Namen [angeben].",
+          "tr": "Adınızı buraya yazmanız gerekiyor.",
+          "en": "You have to give your name here.",
+          "fr": "Vous devez indiquer votre nom ici.",
+          "it": "Qui deve indicare il suo nome.",
+          "es": "Aquí tiene que indicar su nombre."
+        },
+        {
+          "de": "Hör auf [anzugeben]!",
+          "tr": "Hava atmayı bırak!",
+          "en": "Stop showing off!",
+          "fr": "Arrête de frimer !",
+          "it": "Smettila di vantarti!",
+          "es": "¡Deja de presumir!"
+        }
+      ]
+    },
+    {
+      "id": "Angabe",
+      "pos": "noun",
+      "parent": "angeben",
+      "parts": [
+        "an-",
+        "gab",
+        "-e"
+      ],
+      "gloss": {
+        "en": "piece of information, detail",
+        "tr": "bilgi, beyan",
+        "de": "eine Information; Angeber: jemand, der prahlt",
+        "fr": "l'indication, le renseignement",
+        "it": "l'indicazione, il dato",
+        "es": "el dato, la indicación"
+      },
+      "sentences": [
+        {
+          "de": "Die [Angaben] im Formular sind falsch.",
+          "tr": "Formdaki bilgiler yanlış.",
+          "en": "The details on the form are wrong.",
+          "fr": "Les indications du formulaire sont fausses.",
+          "it": "I dati nel modulo sono sbagliati.",
+          "es": "Los datos del formulario son incorrectos."
+        },
+        {
+          "de": "Nach [Angaben] der Polizei gab es keine Verletzten.",
+          "tr": "Polisin açıklamasına göre yaralı yok.",
+          "en": "According to the police there were no injuries.",
+          "fr": "Selon la police, il n'y a pas eu de blessés.",
+          "it": "Secondo la polizia non ci sono stati feriti.",
+          "es": "Según la policía, no hubo heridos."
+        }
+      ]
+    },
+    {
+      "id": "zugeben",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "zu-",
+        "geb",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to admit",
+        "tr": "kabul etmek, itiraf etmek",
+        "de": "sagen, dass etwas wahr ist, auch wenn es unangenehm ist",
+        "fr": "admettre, avouer",
+        "it": "ammettere",
+        "es": "admitir, reconocer"
+      },
+      "sentences": [
+        {
+          "de": "Er will seinen Fehler nicht [zugeben].",
+          "tr": "Hatasını kabul etmek istemiyor.",
+          "en": "He doesn't want to admit his mistake.",
+          "fr": "Il ne veut pas admettre son erreur.",
+          "it": "Non vuole ammettere il suo errore.",
+          "es": "No quiere admitir su error."
+        },
+        {
+          "de": "Ich muss [zugeben], das war lustig.",
+          "tr": "Kabul etmeliyim, komikti.",
+          "en": "I must admit, that was funny.",
+          "fr": "Je dois avouer que c'était drôle.",
+          "it": "Devo ammettere che è stato divertente.",
+          "es": "Tengo que admitir que fue gracioso."
+        }
+      ]
+    },
+    {
+      "id": "nachgeben",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "nach-",
+        "geb",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to give in, to give way",
+        "tr": "boyun eğmek, pes etmek; çökmek",
+        "de": "aufhören, sich zu wehren; nicht mehr fest sein",
+        "fr": "céder",
+        "it": "cedere",
+        "es": "ceder"
+      },
+      "sentences": [
+        {
+          "de": "Am Ende hat sie [nachgegeben].",
+          "tr": "Sonunda boyun eğdi.",
+          "en": "In the end she gave in.",
+          "fr": "À la fin, elle a cédé.",
+          "it": "Alla fine ha ceduto.",
+          "es": "Al final cedió."
+        },
+        {
+          "de": "Der Boden kann unter dem Gewicht [nachgeben].",
+          "tr": "Zemin ağırlığın altında çökebilir.",
+          "en": "The floor may give way under the weight.",
+          "fr": "Le sol peut céder sous le poids.",
+          "it": "Il pavimento può cedere sotto il peso.",
+          "es": "El suelo puede ceder bajo el peso."
+        }
+      ]
+    },
+    {
+      "id": "ergeben",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "er-",
+        "geb",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to result in, to come to; sich ergeben: to surrender",
+        "tr": "sonuç vermek, etmek; sich ergeben: teslim olmak",
+        "de": "als Ergebnis haben; sich ergeben: aufgeben (im Kampf)",
+        "fr": "donner (comme résultat) ; se rendre",
+        "it": "dare come risultato; arrendersi",
+        "es": "dar como resultado; rendirse"
+      },
+      "sentences": [
+        {
+          "de": "Zwei plus drei [ergeben] fünf.",
+          "tr": "İki artı üç beş eder.",
+          "en": "Two plus three makes five.",
+          "fr": "Deux plus trois font cinq.",
+          "it": "Due più tre fa cinque.",
+          "es": "Dos más tres son cinco."
+        },
+        {
+          "de": "Die Soldaten haben sich [ergeben].",
+          "tr": "Askerler teslim oldu.",
+          "en": "The soldiers surrendered.",
+          "fr": "Les soldats se sont rendus.",
+          "it": "I soldati si sono arresi.",
+          "es": "Los soldados se rindieron."
+        }
+      ]
+    },
+    {
+      "id": "umgeben",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "um-",
+        "geb",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to surround",
+        "tr": "çevrelemek, kuşatmak",
+        "de": "rund um etwas sein",
+        "fr": "entourer",
+        "it": "circondare",
+        "es": "rodear"
+      },
+      "sentences": [
+        {
+          "de": "Das Dorf ist von Wald [umgeben].",
+          "tr": "Köy ormanla çevrili.",
+          "en": "The village is surrounded by forest.",
+          "fr": "Le village est entouré de forêt.",
+          "it": "Il villaggio è circondato dal bosco.",
+          "es": "El pueblo está rodeado de bosque."
+        },
+        {
+          "de": "Sie [umgeben] sich gern mit Freunden.",
+          "tr": "Çevrelerinde arkadaş olmasını severler.",
+          "en": "They like to surround themselves with friends.",
+          "fr": "Ils aiment s'entourer d'amis.",
+          "it": "Amano circondarsi di amici.",
+          "es": "Les gusta rodearse de amigos."
         }
       ]
     }

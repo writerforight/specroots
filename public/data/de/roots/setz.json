@@ -52,6 +52,75 @@
       ]
     },
     {
+      "id": "Sitz",
+      "pos": "noun",
+      "parent": "sitzen",
+      "parts": [
+        "sitz"
+      ],
+      "gloss": {
+        "en": "seat; headquarters",
+        "tr": "koltuk, oturacak yer; merkez",
+        "de": "ein Platz zum Sitzen; der Ort, wo eine Firma ihre Zentrale hat",
+        "fr": "le siège",
+        "it": "il posto a sedere; la sede",
+        "es": "el asiento; la sede"
+      },
+      "sentences": [
+        {
+          "de": "Ist dieser [Sitz] noch frei?",
+          "tr": "Bu koltuk boş mu?",
+          "en": "Is this seat free?",
+          "fr": "Ce siège est-il libre ?",
+          "it": "È libero questo posto?",
+          "es": "¿Está libre este asiento?"
+        },
+        {
+          "de": "Die Firma hat ihren [Sitz] in Aachen.",
+          "tr": "Şirketin merkezi Aachen'da.",
+          "en": "The company has its headquarters in Aachen.",
+          "fr": "L'entreprise a son siège à Aix-la-Chapelle.",
+          "it": "L'azienda ha sede ad Aquisgrana.",
+          "es": "La empresa tiene su sede en Aquisgrán."
+        }
+      ]
+    },
+    {
+      "id": "Sitzung",
+      "pos": "noun",
+      "parent": "sitzen",
+      "parts": [
+        "sitz",
+        "-ung"
+      ],
+      "gloss": {
+        "en": "meeting, session",
+        "tr": "oturum, toplantı",
+        "de": "ein offizielles Treffen, bei dem man zusammensitzt",
+        "fr": "la séance, la réunion",
+        "it": "la seduta, la riunione",
+        "es": "la sesión, la reunión"
+      },
+      "sentences": [
+        {
+          "de": "Die [Sitzung] dauert zwei Stunden.",
+          "tr": "Oturum iki saat sürüyor.",
+          "en": "The meeting lasts two hours.",
+          "fr": "La séance dure deux heures.",
+          "it": "La seduta dura due ore.",
+          "es": "La sesión dura dos horas."
+        },
+        {
+          "de": "In der letzten [Sitzung] haben wir abgestimmt.",
+          "tr": "Son toplantıda oylama yaptık.",
+          "en": "We voted at the last meeting.",
+          "fr": "Nous avons voté lors de la dernière séance.",
+          "it": "Nell'ultima seduta abbiamo votato.",
+          "es": "En la última sesión votamos."
+        }
+      ]
+    },
+    {
       "id": "setzen",
       "pos": "verb",
       "parent": null,
@@ -155,6 +224,41 @@
           "fr": "La boutique a un nouveau propriétaire.",
           "it": "Il negozio ha un nuovo proprietario.",
           "es": "La tienda tiene un nuevo dueño."
+        }
+      ]
+    },
+    {
+      "id": "Besitz",
+      "pos": "noun",
+      "parent": "besitzen",
+      "parts": [
+        "be-",
+        "sitz"
+      ],
+      "gloss": {
+        "en": "possession, property",
+        "tr": "mülk, sahiplik",
+        "de": "alles, was jemandem gehört",
+        "fr": "la possession, la propriété",
+        "it": "il possesso, la proprietà",
+        "es": "la posesión, la propiedad"
+      },
+      "sentences": [
+        {
+          "de": "Das Haus ist in privatem [Besitz].",
+          "tr": "Ev özel mülkiyette.",
+          "en": "The house is privately owned.",
+          "fr": "La maison est une propriété privée.",
+          "it": "La casa è di proprietà privata.",
+          "es": "La casa es de propiedad privada."
+        },
+        {
+          "de": "Er war im [Besitz] einer Waffe.",
+          "tr": "Elinde bir silah vardı.",
+          "en": "He was in possession of a weapon.",
+          "fr": "Il était en possession d'une arme.",
+          "it": "Era in possesso di un'arma.",
+          "es": "Estaba en posesión de un arma."
         }
       ]
     },
@@ -265,7 +369,7 @@
     {
       "id": "Ersatz",
       "pos": "noun",
-      "parent": null,
+      "parent": "ersetzen",
       "parts": [
         "er-",
         "satz"
@@ -403,6 +507,219 @@
           "fr": "À cette condition, je participe.",
           "it": "A questa condizione partecipo.",
           "es": "Con esa condición, participo."
+        }
+      ]
+    },
+    {
+      "id": "Aufsatz",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "auf-",
+        "satz"
+      ],
+      "gloss": {
+        "en": "essay, composition",
+        "tr": "kompozisyon, deneme",
+        "de": "ein Text, den man in der Schule schreibt",
+        "fr": "la rédaction, la dissertation",
+        "it": "il tema",
+        "es": "la redacción"
+      },
+      "sentences": [
+        {
+          "de": "Wir schreiben morgen einen [Aufsatz].",
+          "tr": "Yarın kompozisyon yazıyoruz.",
+          "en": "We are writing an essay tomorrow.",
+          "fr": "Demain, nous écrivons une rédaction.",
+          "it": "Domani scriviamo un tema.",
+          "es": "Mañana escribimos una redacción."
+        },
+        {
+          "de": "Ihr [Aufsatz] war der beste der Klasse.",
+          "tr": "Onun kompozisyonu sınıfın en iyisiydi.",
+          "en": "Her essay was the best in the class.",
+          "fr": "Sa rédaction était la meilleure de la classe.",
+          "it": "Il suo tema era il migliore della classe.",
+          "es": "Su redacción fue la mejor de la clase."
+        }
+      ]
+    },
+    {
+      "id": "Einsatz",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "ein-",
+        "satz"
+      ],
+      "gloss": {
+        "en": "effort, commitment; deployment, operation",
+        "tr": "çaba, gayret; görev, müdahale",
+        "de": "großes Engagement; das Arbeiten bei einem Notfall",
+        "fr": "l'engagement ; l'intervention",
+        "it": "l'impegno; l'intervento",
+        "es": "el esfuerzo; la intervención"
+      },
+      "sentences": [
+        {
+          "de": "Danke für deinen [Einsatz]!",
+          "tr": "Gayretin için teşekkürler!",
+          "en": "Thanks for your effort!",
+          "fr": "Merci pour ton engagement !",
+          "it": "Grazie per il tuo impegno!",
+          "es": "¡Gracias por tu esfuerzo!"
+        },
+        {
+          "de": "Die Feuerwehr war die ganze Nacht im [Einsatz].",
+          "tr": "İtfaiye bütün gece görevdeydi.",
+          "en": "The fire brigade was out all night.",
+          "fr": "Les pompiers sont intervenus toute la nuit.",
+          "it": "I vigili del fuoco sono stati in azione tutta la notte.",
+          "es": "Los bomberos estuvieron interviniendo toda la noche."
+        }
+      ]
+    },
+    {
+      "id": "Absatz",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "ab-",
+        "satz"
+      ],
+      "gloss": {
+        "en": "paragraph; heel",
+        "tr": "paragraf; topuk",
+        "de": "ein Teil eines Textes; der hintere Teil eines Schuhs",
+        "fr": "le paragraphe ; le talon",
+        "it": "il paragrafo, il capoverso; il tacco",
+        "es": "el párrafo; el tacón"
+      },
+      "sentences": [
+        {
+          "de": "Lies bitte den zweiten [Absatz].",
+          "tr": "Lütfen ikinci paragrafı oku.",
+          "en": "Please read the second paragraph.",
+          "fr": "Lis le deuxième paragraphe, s'il te plaît.",
+          "it": "Leggi il secondo paragrafo, per favore.",
+          "es": "Lee el segundo párrafo, por favor."
+        },
+        {
+          "de": "Der [Absatz] meines Schuhs ist kaputt.",
+          "tr": "Ayakkabımın topuğu kırıldı.",
+          "en": "The heel of my shoe is broken.",
+          "fr": "Le talon de ma chaussure est cassé.",
+          "it": "Il tacco della mia scarpa è rotto.",
+          "es": "El tacón de mi zapato está roto."
+        }
+      ]
+    },
+    {
+      "id": "ersetzen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "er-",
+        "setz",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to replace",
+        "tr": "yerine koymak, değiştirmek",
+        "de": "etwas Neues an die Stelle von etwas anderem setzen",
+        "fr": "remplacer",
+        "it": "sostituire",
+        "es": "sustituir, reemplazar"
+      },
+      "sentences": [
+        {
+          "de": "Kann man Zucker durch Honig [ersetzen]?",
+          "tr": "Şekerin yerine bal kullanılabilir mi?",
+          "en": "Can you replace sugar with honey?",
+          "fr": "Peut-on remplacer le sucre par du miel ?",
+          "it": "Si può sostituire lo zucchero con il miele?",
+          "es": "¿Se puede sustituir el azúcar por miel?"
+        },
+        {
+          "de": "Niemand kann dich [ersetzen].",
+          "tr": "Kimse senin yerini tutamaz.",
+          "en": "Nobody can replace you.",
+          "fr": "Personne ne peut te remplacer.",
+          "it": "Nessuno può sostituirti.",
+          "es": "Nadie puede reemplazarte."
+        }
+      ]
+    },
+    {
+      "id": "fortsetzen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "fort-",
+        "setz",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to continue",
+        "tr": "devam etmek, sürdürmek",
+        "de": "weitermachen, nachdem man aufgehört hat",
+        "fr": "poursuivre, continuer",
+        "it": "continuare, proseguire",
+        "es": "continuar, proseguir"
+      },
+      "sentences": [
+        {
+          "de": "Morgen wollen wir das Gespräch [fortsetzen].",
+          "tr": "Yarın konuşmaya devam etmek istiyoruz.",
+          "en": "We want to continue the conversation tomorrow.",
+          "fr": "Demain, nous voulons poursuivre la conversation.",
+          "it": "Domani vogliamo proseguire la conversazione.",
+          "es": "Mañana queremos continuar la conversación."
+        },
+        {
+          "de": "Nach der Pause wurde das Spiel [fortgesetzt].",
+          "tr": "Aradan sonra maça devam edildi.",
+          "en": "After the break the game continued.",
+          "fr": "Après la pause, le match a repris.",
+          "it": "Dopo la pausa la partita è ripresa.",
+          "es": "Tras el descanso, el partido continuó."
+        }
+      ]
+    },
+    {
+      "id": "Fortsetzung",
+      "pos": "noun",
+      "parent": "fortsetzen",
+      "parts": [
+        "fort-",
+        "setz",
+        "-ung"
+      ],
+      "gloss": {
+        "en": "continuation, sequel",
+        "tr": "devam, devamı",
+        "de": "der nächste Teil einer Geschichte oder eines Films",
+        "fr": "la suite",
+        "it": "il seguito",
+        "es": "la continuación, la secuela"
+      },
+      "sentences": [
+        {
+          "de": "[Fortsetzung] folgt.",
+          "tr": "Devamı gelecek.",
+          "en": "To be continued.",
+          "fr": "À suivre.",
+          "it": "Continua.",
+          "es": "Continuará."
+        },
+        {
+          "de": "Gibt es eine [Fortsetzung] des Films?",
+          "tr": "Filmin devamı var mı?",
+          "en": "Is there a sequel to the film?",
+          "fr": "Le film a-t-il une suite ?",
+          "it": "C'è un seguito del film?",
+          "es": "¿Tiene secuela la película?"
         }
       ]
     }
