@@ -55,3 +55,20 @@
   --suffix: #e6a27e;
   --shadow: none;
 }
+
+/* Pure black on white, no hues. Prefix/suffix stay distinguishable by underline style (see app.css). */
+:root[data-theme='mono'] {
+  --bg: #ffffff;
+  --surface: #ffffff;
+  --surface-2: #f2f2f2;
+  --text: #000000;
+  --text-muted: #4d4d4d;
+  --border: #000000;
+  --accent: #000000;
+  --accent-soft: #e6e6e6;
+  --on-accent: #ffffff;
+  --mark: #d9d9d9;
+  --prefix: #000000;
+  --suffix: #000000;
+  --shadow: none;
+}

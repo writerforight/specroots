@@ -87,10 +87,10 @@ describe('SettingsStore', () => {
     const store = new SettingsStore(memory);
     const seen: string[] = [];
     store.subscribe((now, before) => seen.push(`${before.theme}->${now.theme}`));
-    store.update({ theme: 'dark', translationLangs: ['fr', 'es'], onboarded: true });
-    expect(seen).toEqual(['system->dark']);
+    store.update({ theme: 'mono', translationLangs: ['fr', 'es'], onboarded: true });
+    expect(seen).toEqual(['system->mono']);
     const reloaded = new SettingsStore(memory).value;
-    expect(reloaded.theme).toBe('dark');
+    expect(reloaded.theme).toBe('mono');
     expect(reloaded.translationLangs).toEqual(['fr', 'es']);
     expect(reloaded.onboarded).toBe(true);
   });

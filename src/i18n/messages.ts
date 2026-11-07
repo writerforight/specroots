@@ -61,6 +61,7 @@ const en = {
   theme_system: 'System',
   theme_light: 'Light',
   theme_dark: 'Dark',
+  theme_mono: 'Black & white',
   loadError: 'Could not load this page. Check your connection and try again.',
 };
 
@@ -127,6 +128,7 @@ const tr: Messages = {
   theme_system: 'Sistem',
   theme_light: 'Açık',
   theme_dark: 'Koyu',
+  theme_mono: 'Siyah-beyaz',
   loadError: 'Bu sayfa yüklenemedi. Bağlantını kontrol edip tekrar dene.',
 };
 
@@ -190,6 +192,7 @@ const de: Messages = {
   theme_system: 'System',
   theme_light: 'Hell',
   theme_dark: 'Dunkel',
+  theme_mono: 'Schwarz-Weiß',
   loadError: 'Die Seite konnte nicht geladen werden. Prüfe deine Verbindung und versuche es erneut.',
 };
 
@@ -253,6 +256,7 @@ const fr: Messages = {
   theme_system: 'Système',
   theme_light: 'Clair',
   theme_dark: 'Sombre',
+  theme_mono: 'Noir et blanc',
   loadError: 'Impossible de charger cette page. Vérifie ta connexion et réessaie.',
 };
 
@@ -316,6 +320,7 @@ const it: Messages = {
   theme_system: 'Sistema',
   theme_light: 'Chiaro',
   theme_dark: 'Scuro',
+  theme_mono: 'Bianco e nero',
   loadError: 'Impossibile caricare la pagina. Controlla la connessione e riprova.',
 };
 
@@ -379,6 +384,7 @@ const es: Messages = {
   theme_system: 'Sistema',
   theme_light: 'Claro',
   theme_dark: 'Oscuro',
+  theme_mono: 'Blanco y negro',
   loadError: 'No se pudo cargar esta página. Revisa tu conexión e inténtalo de nuevo.',
 };
 

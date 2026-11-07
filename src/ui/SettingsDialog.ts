@@ -105,7 +105,7 @@ export class SettingsDialog {
         h(
           'div',
           { class: 'chips' },
-          ...(['system', 'light', 'dark'] as const).map((theme) =>
+          ...(['system', 'light', 'dark', 'mono'] as const).map((theme) =>
             h('label', { class: 'chip' }, h('input', { type: 'radio', name: 'theme', value: theme, checked: s.theme === theme }), t(`theme_${theme}`)),
           ),
         ),

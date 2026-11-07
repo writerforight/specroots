@@ -301,3 +301,7 @@ mark { background: var(--mark); color: inherit; padding: 0 2px; border-radius: 3
   .name-breakdown { grid-template-columns: 2.2em 1fr; }
   .name-breakdown .breakdown { grid-column: 1 / -1; }
 }
+
+/* Black & white theme: no colour, so prefix and suffix are told apart by underline style. */
+:root[data-theme='mono'] .part-prefix { text-decoration: underline solid; text-underline-offset: 3px; }
+:root[data-theme='mono'] .part-suffix { text-decoration: underline dashed; text-underline-offset: 3px; }
