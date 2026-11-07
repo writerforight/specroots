@@ -1,5 +1,6 @@
 export type Route =
   | { kind: 'home' }
+  | { kind: 'roots' }
   | { kind: 'root'; rootId: string; wordId: string | null }
   | { kind: 'affix'; affixId: string }
   | { kind: 'lists' }
@@ -7,7 +8,7 @@ export type Route =
   | { kind: 'object'; objectId: string };
 
 /**
- * Hash routes: #/ , #/root/spec , #/root/spec/inspection , #/affix/re- (roots section);
+ * Hash routes: #/ (start screen: roots or objects), #/roots , #/root/spec , #/root/spec/inspection , #/affix/re- (roots section);
  * #/lists , #/list/kitchen , #/list/kitchen/colander , #/object/colander (lists section).
  */
 export function parseRoute(hash: string): Route {
@@ -15,6 +16,7 @@ export function parseRoute(hash: string): Route {
   const dec = (s: string | undefined) => (s ? decodeURIComponent(s) : null);
   if (kind === 'root' && id) return { kind: 'root', rootId: decodeURIComponent(id), wordId: dec(sub) };
   if (kind === 'affix' && id) return { kind: 'affix', affixId: decodeURIComponent(id) };
+  if (kind === 'roots') return { kind: 'roots' };
   if (kind === 'lists') return { kind: 'lists' };
   if (kind === 'list' && id) return { kind: 'list', listId: decodeURIComponent(id), objectId: dec(sub) };
   if (kind === 'object' && id) return { kind: 'object', objectId: decodeURIComponent(id) };
@@ -24,7 +26,7 @@ export function parseRoute(hash: string): Route {
 /** Which half of the app a route belongs to; null for the neutral home address. */
 export function sectionOf(route: Route): 'roots' | 'lists' | null {
   if (route.kind === 'home') return null;
-  return route.kind === 'root' || route.kind === 'affix' ? 'roots' : 'lists';
+  return route.kind === 'roots' || route.kind === 'root' || route.kind === 'affix' ? 'roots' : 'lists';
 }
 
 export function rootHref(rootId: string, wordId: string | null = null): string {

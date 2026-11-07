@@ -305,3 +305,17 @@ mark { background: var(--mark); color: inherit; padding: 0 2px; border-radius: 3
 /* Black & white theme: no colour, so prefix and suffix are told apart by underline style. */
 :root[data-theme^='mono'] .part-prefix { text-decoration: underline solid; text-underline-offset: 3px; }
 :root[data-theme^='mono'] .part-suffix { text-decoration: underline dashed; text-underline-offset: 3px; }
+
+/* Start screen: choose roots or objects before anything else. */
+.start-screen { display: grid; gap: 24px; justify-items: center; padding-top: 12vh; text-align: center; }
+.start-title { margin: 0; font-family: var(--font-text); font-weight: 600; font-size: clamp(1.4rem, 4vw, 2rem); }
+.start-choices { display: flex; flex-wrap: wrap; gap: var(--gap); justify-content: center; width: 100%; }
+.start-choice {
+  flex: 1 1 200px; max-width: 280px; padding: 36px 20px;
+  border: 1px solid var(--border); border-radius: var(--radius); background: var(--surface); box-shadow: var(--shadow);
+  color: var(--text); text-decoration: none; font-family: var(--font-text); font-size: 1.25rem;
+}
+.start-choice:hover, .start-choice:focus-visible { border-color: var(--accent); background: var(--accent-soft); }
+body[data-view='start'] .root-list, body[data-view='start'] .search { display: none; }
+body[data-view='start'] .layout { grid-template-columns: minmax(0, 1fr); }
+body[data-view='start'] .root-detail { display: block; max-width: none; }

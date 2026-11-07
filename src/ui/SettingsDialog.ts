@@ -67,7 +67,7 @@ export class SettingsDialog {
           const browseMode = (start === 'lists' ? s.browseMode : start) as BrowseMode;
           this.store.update({ translationLangs: langs, theme, browseMode, section, onboarded: true });
           // Show the chosen section right away.
-          if (sectionChanged(section)) location.hash = section === 'lists' ? '#/lists' : '#/';
+          if (sectionChanged(section)) location.hash = section === 'lists' ? '#/lists' : '#/roots';
         },
       },
       h('h2', {}, mode === 'welcome' ? t('welcomeTitle') : t('settings')),

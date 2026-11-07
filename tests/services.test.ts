@@ -36,6 +36,16 @@ describe('SearchIndex', async () => {
 describe('SearchIndex with objects', async () => {
   const repo = diskRepository();
   const index = new SearchIndex(await repo.listRoots(), (await repo.getAffixes()).values(), await repo.listObjects(), await repo.listLists());
+  it('scopes hits to the roots or the lists section', () => {
+    const all = index.search('a', 50);
+    const roots = index.search('a', 50, 'roots');
+    const lists = index.search('a', 50, 'lists');
+    expect(roots.length).toBeGreaterThan(0);
+    expect(lists.length).toBeGreaterThan(0);
+    expect(roots.every((h) => !h.objectId && !h.listId)).toBe(true);
+    expect(lists.every((h) => Boolean(h.objectId || h.listId))).toBe(true);
+    expect(all.length).toBeGreaterThanOrEqual(Math.max(roots.length, lists.length));
+  });
 
   it('finds a word list by its title in any language', () => {
     expect(index.search('mutfak')[0]).toMatchObject({ listId: 'kitchen', matched: 'Mutfak' });
@@ -119,6 +129,8 @@ describe('routes', () => {
     expect(parseRoute(listHref('kitchen'))).toEqual({ kind: 'list', listId: 'kitchen', objectId: null });
     expect(parseRoute(listHref('kitchen', 'jar'))).toEqual({ kind: 'list', listId: 'kitchen', objectId: 'jar' });
     expect(parseRoute('#/lists')).toEqual({ kind: 'lists' });
+    expect(parseRoute('#/roots')).toEqual({ kind: 'roots' });
+    expect(sectionOf({ kind: 'roots' })).toBe('roots');
     expect([parseRoute('#/'), parseRoute('#/root/spec'), parseRoute('#/lists'), parseRoute('#/object/jar')].map(sectionOf)).toEqual([null, 'roots', 'lists', 'lists']);
   });
 });

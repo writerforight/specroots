@@ -1,5 +1,6 @@
 import type { I18n } from '../i18n/I18n';
 import type { SearchHit, SearchIndex } from '../services/SearchIndex';
+import type { Section } from '../services/SettingsStore';
 import { clear, h } from './dom';
 import { affixHref, listHref, objectHref, rootHref } from './routes';
 
@@ -9,6 +10,7 @@ export class SearchBox {
   private readonly input: HTMLInputElement;
   private readonly results = h('ul', { class: 'search-results', role: 'listbox', hidden: true });
   private index: SearchIndex | null = null;
+  private scope: Section | undefined;
 
   constructor(
     private readonly i18n: I18n,
@@ -32,6 +34,11 @@ export class SearchBox {
     this.index = index;
   }
 
+  /** Roots section: only roots, words and affixes. Lists section: only objects and lists. */
+  setScope(scope: Section): void {
+    this.scope = scope;
+  }
+
   relabel(): void {
     const label = this.i18n.t('searchPlaceholder');
     this.input.placeholder = label;
@@ -39,7 +46,7 @@ export class SearchBox {
   }
 
   private update(): void {
-    const hits = this.index?.search(this.input.value) ?? [];
+    const hits = this.index?.search(this.input.value, 8, this.scope) ?? [];
     clear(this.results);
     if (this.input.value.trim() === '') return this.hide();
     if (hits.length === 0) this.results.append(h('li', { class: 'search-empty' }, this.i18n.t('noResults')));
@@ -55,7 +62,7 @@ export class SearchBox {
     if (hit.affix) return affixHref(hit.affix.id);
     if (hit.objectId) return objectHref(hit.objectId);
     if (hit.listId) return listHref(hit.listId);
-    return hit.rootId ? rootHref(hit.rootId, hit.wordId) : '#/';
+    return hit.rootId ? rootHref(hit.rootId, hit.wordId) : '#/roots';
   }
 
   /** Roots say "root"; affixes show their meaning, which also tells homographs (in- into, in- not) apart. */
@@ -71,7 +78,7 @@ export class SearchBox {
     if (event.key !== 'Enter') return;
     const first = this.results.querySelector('a');
     if (first) {
-      this.navigate(first.getAttribute('href') ?? '#/');
+      this.navigate(first.getAttribute('href') ?? '#/roots');
       this.reset();
     }
   }

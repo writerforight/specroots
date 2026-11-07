@@ -132,10 +132,9 @@ export class App {
 
   /** The section switch: remember the choice and go to that section's start page. */
   private switchSection(section: Section): void {
-    // The roots start page "#/" belongs to no section, so the setting must change, not only the address.
     if (section !== this.settings.value.section) this.settings.update({ section });
-    const target = section === 'lists' ? '#/lists' : '#/';
-    if (location.hash !== target && !(target === '#/' && location.hash === '')) location.hash = target;
+    const target = section === 'lists' ? '#/lists' : '#/roots';
+    if (location.hash !== target) location.hash = target;
   }
 
   /**
@@ -161,11 +160,15 @@ export class App {
     const token = ++this.renderToken;
     const route = this.route;
     // Mobile shows either the side list or the page; the lists start page is a side-list page.
-    document.body.dataset.view = route.kind === 'lists' ? 'home' : route.kind;
+    // "#/" is the start screen (roots or objects); mobile shows the side list on a section's start page.
+    document.body.dataset.view = route.kind === 'home' ? 'start' : route.kind === 'lists' || route.kind === 'roots' ? 'home' : route.kind;
     try {
       await this.renderSidebar(route);
       if (token !== this.renderToken) return;
-      if (route.kind === 'home' || route.kind === 'lists') {
+      if (route.kind === 'home') {
+        this.detail.showStart(this.context());
+        document.title = 'specroots';
+      } else if (route.kind === 'roots' || route.kind === 'lists') {
         this.detail.showEmpty(this.context());
         document.title = 'specroots';
       } else if (route.kind === 'root') {
@@ -208,6 +211,7 @@ export class App {
   private async renderSidebar(route: Route): Promise<void> {
     const { section, browseMode: mode, translationLangs } = this.settings.value;
     this.sectionSwitch.render(section);
+    this.search.setScope(section);
     if (section === 'lists') {
       this.sidebar.setAttribute('aria-label', this.i18n.t('section_lists'));
       if (route.kind === 'list') {

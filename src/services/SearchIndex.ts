@@ -55,11 +55,13 @@ export class SearchIndex {
     ];
   }
 
-  search(query: string, limit = 8): SearchHit[] {
+  /** scope "roots" finds only roots, words and affixes; "lists" only objects and lists; omitted finds everything. */
+  search(query: string, limit = 8, scope?: 'roots' | 'lists'): SearchHit[] {
     const q = SearchIndex.normalize(query);
     if (q.length === 0) return [];
-    const starts = this.entries.filter((e) => e.key.startsWith(q));
-    const contains = this.entries.filter((e) => !e.key.startsWith(q) && e.key.includes(q));
+    const pool = scope ? this.entries.filter((e) => Boolean(e.objectId || e.listId) === (scope === 'lists')) : this.entries;
+    const starts = pool.filter((e) => e.key.startsWith(q));
+    const contains = pool.filter((e) => !e.key.startsWith(q) && e.key.includes(q));
     const byLength = (a: Entry, b: Entry) => a.key.length - b.key.length || a.key.localeCompare(b.key);
     // An object matched by several of its names shows up once, under its best match.
     const seen = new Set<string>();

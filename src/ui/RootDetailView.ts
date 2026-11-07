@@ -15,6 +15,24 @@ export class RootDetailView {
 
   constructor(private readonly onViewChange: (kind: DerivationViewKind) => void) {}
 
+  /** The first screen: roots or objects. */
+  showStart(ctx: ViewContext): void {
+    clear(this.el);
+    this.el.append(
+      h(
+        'div',
+        { class: 'start-screen' },
+        h('h1', { class: 'start-title' }, ctx.i18n.t('startPrompt')),
+        h(
+          'div',
+          { class: 'start-choices' },
+          h('a', { class: 'start-choice', href: '#/roots' }, ctx.i18n.t('section_roots')),
+          h('a', { class: 'start-choice', href: '#/lists' }, ctx.i18n.t('section_lists')),
+        ),
+      ),
+    );
+  }
+
   showEmpty(ctx: ViewContext): void {
     clear(this.el);
     const { section, browseMode } = ctx.settings;
@@ -24,7 +42,7 @@ export class RootDetailView {
 
   showAffix(affix: Affix, groups: readonly AffixGroup[], ctx: ViewContext): void {
     clear(this.el);
-    this.el.append(h('a', { class: 'back-link', href: '#/' }, `← ${ctx.i18n.t('back')}`), ...new AffixFamilyView(ctx).render(affix, groups));
+    this.el.append(h('a', { class: 'back-link', href: '#/roots' }, `← ${ctx.i18n.t('back')}`), ...new AffixFamilyView(ctx).render(affix, groups));
     // Arriving from a word card deep in a root page: start the new page at its top.
     window.scrollTo?.({ top: 0 });
   }
@@ -56,7 +74,7 @@ export class RootDetailView {
 
     clear(this.el);
     this.el.append(
-      h('a', { class: 'back-link', href: '#/' }, `← ${i18n.t('back')}`),
+      h('a', { class: 'back-link', href: '#/roots' }, `← ${i18n.t('back')}`),
       h(
         'header',
         { class: 'root-head' },
