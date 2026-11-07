@@ -28,7 +28,7 @@ describe('lexicon data', () => {
           expect(Object.keys(word.gloss).sort(), word.id).toEqual([...LANGUAGES].sort());
           expect(word.sentences.length, word.id).toBeGreaterThanOrEqual(2);
           for (const sentence of word.sentences) {
-            for (const lang of TRANSLATION_LANGUAGES) expect(sentence.translation(lang), `${word.id} ${lang}: ${sentence.english}`).toBeTruthy();
+            for (const lang of TRANSLATION_LANGUAGES) expect(sentence.translation(lang), `${word.id} ${lang}: ${sentence.text}`).toBeTruthy();
           }
         }
       });
@@ -36,7 +36,7 @@ describe('lexicon data', () => {
       it('the marked word in each sentence is a form of the word', () => {
         for (const word of root.words) {
           const stem = word.text.replace(/[ey]$/, '').toLowerCase();
-          for (const sentence of word.sentences) expect(sentence.highlighted[0]?.toLowerCase(), sentence.english).toContain(stem);
+          for (const sentence of word.sentences) expect(sentence.highlighted[0]?.toLowerCase(), sentence.text).toContain(stem);
         }
       });
     });
@@ -85,8 +85,8 @@ describe('everyday objects and word lists', () => {
       // "knife" may be marked as "knives": the first three letters must match.
       const head = object.name.slice(0, 3).toLowerCase();
       for (const sentence of object.sentences) {
-        expect(sentence.highlighted[0]?.toLowerCase().startsWith(head), `${object.id}: ${sentence.english}`).toBe(true);
-        for (const lang of TRANSLATION_LANGUAGES) expect(sentence.translation(lang), `${object.id} ${lang}: ${sentence.english}`).toBeTruthy();
+        expect(sentence.highlighted[0]?.toLowerCase().startsWith(head), `${object.id}: ${sentence.text}`).toBe(true);
+        for (const lang of TRANSLATION_LANGUAGES) expect(sentence.translation(lang), `${object.id} ${lang}: ${sentence.text}`).toBeTruthy();
       }
     });
   }

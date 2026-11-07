@@ -6,7 +6,7 @@ import { readJson } from './helpers';
 describe('Sentence', () => {
   it('splits the marked word out and drops the brackets', () => {
     const s = new Sentence('The [inspector] came.', { tr: 'Müfettiş geldi.' });
-    expect(s.english).toBe('The inspector came.');
+    expect(s.text).toBe('The inspector came.');
     expect(s.highlighted).toEqual(['inspector']);
     expect(s.segments).toEqual([
       { text: 'The ', highlight: false },

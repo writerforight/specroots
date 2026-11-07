@@ -24,6 +24,8 @@ Bir kökü öğrenen onlarca kelimeyi okuyabilir. *spec / spect* "bakmak" demek,
 - **Çeviriler**: Türkçe, Almanca, Fransızca, İtalyanca ve İspanyolca; ilk açılışta istediklerini seç
 - **Örnek cümleler**: kelime başına iki kısa cümle, kelime vurgulu, çevirisiyle
 - **Ön ek ve son eklerle gezinme**: *re-* ya da *-ion* seç, onunla kurulan bütün kelimeleri kök kök gör
+- **Almanca kökler**: aynı fikir Almanca için. *steh-* (durmak) kökünü seç, *verstehen*, *Verstand*,
+  *Gegenstand* gibi kelimeleri parçalarına ayrılmış, Almanca, İngilizce ve seçtiğin dillerde açıklamalı gör
 - **Telaffuz** tarayıcının kendi sesleriyle, kök ya da kelimeyle **arama**
 - **Altı dilde arayüz**, açık ve koyu tema, telefonda ve bilgisayarda çalışır
 

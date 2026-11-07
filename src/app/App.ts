@@ -12,7 +12,7 @@ import { h } from '../ui/dom';
 import { ListsSidebarView } from '../ui/ListsSidebarView';
 import { RootDetailView } from '../ui/RootDetailView';
 import { RootListView } from '../ui/RootListView';
-import { listHref, parseRoute, sectionOf, type Route } from '../ui/routes';
+import { deRootHref, listHref, parseRoute, SECTION_HOME, sectionOf, type Route } from '../ui/routes';
 import { SearchBox } from '../ui/SearchBox';
 import { SectionSwitch } from '../ui/SectionSwitch';
 import { SettingsDialog } from '../ui/SettingsDialog';
@@ -21,7 +21,8 @@ import type { ViewContext } from '../ui/ViewContext';
 
 /**
  * Wires data, settings and views together and reacts to route and setting changes.
- * Two sections share the layout: word roots (roots, prefixes, suffixes) and object lists.
+ * Three sections share the layout: English word roots (roots, prefixes, suffixes), German word roots
+ * (stehen → verstehen, from their own data folder) and object lists.
  */
 export class App {
   private readonly i18n: I18n;
@@ -49,6 +50,7 @@ export class App {
   private affixes: ReadonlyMap<string, Affix> = new Map();
   private objects: ObjectSummary[] = [];
   private wordLists: ListSummary[] = [];
+  private germanRoots: RootSummary[] = [];
   /** Loaded the first time the learner browses by prefix or suffix. */
   private affixIndex: AffixIndex | null = null;
   private route: Route = { kind: 'home' };
@@ -59,6 +61,8 @@ export class App {
     private readonly host: HTMLElement,
     private readonly repository: LexiconRepository,
     private readonly settings: SettingsStore,
+    /** The German lexicon (data/de/); without it the German section stays empty. */
+    private readonly german: LexiconRepository | null = null,
   ) {
     this.i18n = new I18n(settings.value.uiLang);
     this.list = new RootListView(this.i18n);
@@ -110,7 +114,9 @@ export class App {
       this.detail.showError(this.context());
       return;
     }
-    this.search.setIndex(new SearchIndex(this.roots, this.affixes.values(), this.objects, this.wordLists));
+    // German roots are small and found by search from the start; if they fail, the rest still works.
+    this.germanRoots = (await this.german?.listRoots().catch(() => [])) ?? [];
+    this.search.setIndex(new SearchIndex(this.roots, this.affixes.values(), this.objects, this.wordLists, this.germanRoots));
     await this.navigate();
     if (!this.settings.value.onboarded) this.dialog.open('welcome');
   }
@@ -133,7 +139,7 @@ export class App {
   /** The section switch: remember the choice and go to that section's start page. */
   private switchSection(section: Section): void {
     if (section !== this.settings.value.section) this.settings.update({ section });
-    const target = section === 'lists' ? '#/lists' : '#/roots';
+    const target = SECTION_HOME[section];
     if (location.hash !== target) location.hash = target;
   }
 
@@ -161,18 +167,25 @@ export class App {
     const route = this.route;
     // Mobile shows either the side list or the page; the lists start page is a side-list page.
     // "#/" is the start screen (roots or objects); mobile shows the side list on a section's start page.
-    document.body.dataset.view = route.kind === 'home' ? 'start' : route.kind === 'lists' || route.kind === 'roots' ? 'home' : route.kind;
+    const view = route.kind === 'deRoot' ? 'root' : route.kind;
+    document.body.dataset.view = route.kind === 'home' ? 'start' : route.kind === 'lists' || route.kind === 'roots' || route.kind === 'german' ? 'home' : view;
     try {
       await this.renderSidebar(route);
       if (token !== this.renderToken) return;
       if (route.kind === 'home') {
         this.detail.showStart(this.context());
         document.title = 'specroots';
-      } else if (route.kind === 'roots' || route.kind === 'lists') {
+      } else if (route.kind === 'roots' || route.kind === 'lists' || route.kind === 'german') {
         this.detail.showEmpty(this.context());
         document.title = 'specroots';
       } else if (route.kind === 'root') {
         const root = await this.repository.getRoot(route.rootId);
+        if (token !== this.renderToken) return;
+        this.detail.show(root, this.context(), route.wordId);
+        document.title = `${root.forms[0] ?? root.id} · specroots`;
+      } else if (route.kind === 'deRoot') {
+        if (!this.german) throw new Error('no German lexicon');
+        const root = await this.german.getRoot(route.rootId);
         if (token !== this.renderToken) return;
         this.detail.show(root, this.context(), route.wordId);
         document.title = `${root.forms[0] ?? root.id} · specroots`;
@@ -221,6 +234,12 @@ export class App {
         this.listsSidebar.renderLists(this.wordLists, null);
       }
       this.sidebar.replaceChildren(this.sectionSwitch.el, this.listsSidebar.el);
+      return;
+    }
+    if (section === 'german') {
+      this.sidebar.setAttribute('aria-label', this.i18n.t('section_german'));
+      this.list.render(this.germanRoots, route.kind === 'deRoot' ? route.rootId : null, (id) => deRootHref(id));
+      this.sidebar.replaceChildren(this.sectionSwitch.el, this.list.el);
       return;
     }
     this.modeSwitch.render(mode);

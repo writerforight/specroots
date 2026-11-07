@@ -1,0 +1,446 @@
+{
+  "id": "steh",
+  "forms": [
+    "steh",
+    "stand",
+    "ständ"
+  ],
+  "origin": "de",
+  "etymon": "stehen",
+  "meaning": {
+    "en": "to stand",
+    "tr": "ayakta durmak, durmak",
+    "de": "stehen, aufrecht sein (stand, gestanden)",
+    "fr": "être debout, se tenir",
+    "it": "stare in piedi",
+    "es": "estar de pie"
+  },
+  "words": [
+    {
+      "id": "stehen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "steh",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to stand; to be (in a place)",
+        "tr": "ayakta durmak; (bir yerde) durmak, bulunmak",
+        "de": "aufrecht auf den Füßen sein; sich an einem Ort befinden",
+        "fr": "être debout ; se trouver",
+        "it": "stare in piedi; trovarsi",
+        "es": "estar de pie; estar (en un lugar)"
+      },
+      "sentences": [
+        {
+          "de": "Er [steht] an der Tür.",
+          "tr": "Kapıda duruyor.",
+          "en": "He is standing at the door.",
+          "fr": "Il est debout à la porte.",
+          "it": "È in piedi alla porta.",
+          "es": "Está de pie en la puerta."
+        },
+        {
+          "de": "Was [steht] in dem Brief?",
+          "tr": "Mektupta ne yazıyor?",
+          "en": "What does the letter say?",
+          "fr": "Qu'est-ce qui est écrit dans la lettre ?",
+          "it": "Cosa c'è scritto nella lettera?",
+          "es": "¿Qué pone en la carta?"
+        }
+      ]
+    },
+    {
+      "id": "verstehen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ver-",
+        "steh",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to understand",
+        "tr": "anlamak",
+        "de": "den Sinn von etwas erkennen",
+        "fr": "comprendre",
+        "it": "capire",
+        "es": "entender, comprender"
+      },
+      "sentences": [
+        {
+          "de": "Ich [verstehe] die Frage nicht.",
+          "tr": "Soruyu anlamıyorum.",
+          "en": "I don't understand the question.",
+          "fr": "Je ne comprends pas la question.",
+          "it": "Non capisco la domanda.",
+          "es": "No entiendo la pregunta."
+        },
+        {
+          "de": "Hast du alles [verstanden]?",
+          "tr": "Her şeyi anladın mı?",
+          "en": "Did you understand everything?",
+          "fr": "Tu as tout compris ?",
+          "it": "Hai capito tutto?",
+          "es": "¿Lo has entendido todo?"
+        }
+      ]
+    },
+    {
+      "id": "Verstand",
+      "pos": "noun",
+      "parent": "verstehen",
+      "parts": [
+        "ver-",
+        "stand"
+      ],
+      "gloss": {
+        "en": "mind, reason, intellect",
+        "tr": "akıl, us",
+        "de": "die Fähigkeit, zu denken und zu verstehen",
+        "fr": "la raison, l'intelligence",
+        "it": "l'intelletto, la ragione",
+        "es": "la razón, el entendimiento"
+      },
+      "sentences": [
+        {
+          "de": "Benutz doch deinen [Verstand]!",
+          "tr": "Biraz aklını kullan!",
+          "en": "Use your head!",
+          "fr": "Sers-toi de ta tête !",
+          "it": "Usa il cervello!",
+          "es": "¡Usa la cabeza!"
+        },
+        {
+          "de": "Er hat einen klaren [Verstand].",
+          "tr": "Aklı başında biri.",
+          "en": "He has a clear mind.",
+          "fr": "Il a l'esprit clair.",
+          "it": "Ha una mente lucida.",
+          "es": "Tiene la mente clara."
+        }
+      ]
+    },
+    {
+      "id": "Verständnis",
+      "pos": "noun",
+      "parent": "verstehen",
+      "parts": [
+        "ver-",
+        "ständ",
+        "-nis"
+      ],
+      "gloss": {
+        "en": "understanding; sympathy",
+        "tr": "anlayış",
+        "de": "das Verstehen; Geduld mit anderen",
+        "fr": "la compréhension",
+        "it": "la comprensione",
+        "es": "la comprensión"
+      },
+      "sentences": [
+        {
+          "de": "Danke für dein [Verständnis].",
+          "tr": "Anlayışın için teşekkürler.",
+          "en": "Thank you for your understanding.",
+          "fr": "Merci de ta compréhension.",
+          "it": "Grazie per la comprensione.",
+          "es": "Gracias por tu comprensión."
+        },
+        {
+          "de": "Ihm fehlt das [Verständnis] für Mathe.",
+          "tr": "Matematiğe kafası pek çalışmıyor.",
+          "en": "He lacks an understanding of maths.",
+          "fr": "Il ne comprend pas bien les maths.",
+          "it": "Gli manca la comprensione della matematica.",
+          "es": "Le falta comprensión de las matemáticas."
+        }
+      ]
+    },
+    {
+      "id": "verständlich",
+      "pos": "adjective",
+      "parent": "verstehen",
+      "parts": [
+        "ver-",
+        "ständ",
+        "-lich"
+      ],
+      "gloss": {
+        "en": "understandable, clear",
+        "tr": "anlaşılır; anlaşılabilir",
+        "de": "so, dass man es verstehen kann; nachvollziehbar",
+        "fr": "compréhensible",
+        "it": "comprensibile",
+        "es": "comprensible"
+      },
+      "sentences": [
+        {
+          "de": "Erkläre es bitte [verständlich].",
+          "tr": "Lütfen anlaşılır bir şekilde açıkla.",
+          "en": "Please explain it clearly.",
+          "fr": "Explique-le clairement, s'il te plaît.",
+          "it": "Spiegalo in modo comprensibile, per favore.",
+          "es": "Explícalo de forma comprensible, por favor."
+        },
+        {
+          "de": "Deine Wut ist [verständlich].",
+          "tr": "Öfken anlaşılır bir şey.",
+          "en": "Your anger is understandable.",
+          "fr": "Ta colère est compréhensible.",
+          "it": "La tua rabbia è comprensibile.",
+          "es": "Tu enfado es comprensible."
+        }
+      ]
+    },
+    {
+      "id": "bestehen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "be-",
+        "steh",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to pass (an exam); to exist; to consist of",
+        "tr": "(sınavı) geçmek; var olmak; -den oluşmak",
+        "de": "eine Prüfung schaffen; existieren; bestehen aus: zusammengesetzt sein aus",
+        "fr": "réussir (un examen) ; exister ; se composer de",
+        "it": "superare (un esame); esistere; consistere in",
+        "es": "aprobar (un examen); existir; consistir en"
+      },
+      "sentences": [
+        {
+          "de": "Sie hat die Prüfung [bestanden].",
+          "tr": "Sınavı geçti.",
+          "en": "She passed the exam.",
+          "fr": "Elle a réussi l'examen.",
+          "it": "Ha superato l'esame.",
+          "es": "Aprobó el examen."
+        },
+        {
+          "de": "Wasser [besteht] aus Wasserstoff und Sauerstoff.",
+          "tr": "Su, hidrojen ve oksijenden oluşur.",
+          "en": "Water consists of hydrogen and oxygen.",
+          "fr": "L'eau se compose d'hydrogène et d'oxygène.",
+          "it": "L'acqua è composta da idrogeno e ossigeno.",
+          "es": "El agua se compone de hidrógeno y oxígeno."
+        }
+      ]
+    },
+    {
+      "id": "entstehen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ent-",
+        "steh",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to arise, to come into being",
+        "tr": "oluşmak, ortaya çıkmak",
+        "de": "neu da sein; sich bilden",
+        "fr": "naître, se former",
+        "it": "nascere, formarsi",
+        "es": "surgir, formarse"
+      },
+      "sentences": [
+        {
+          "de": "Hier [entsteht] ein neues Krankenhaus.",
+          "tr": "Burada yeni bir hastane yapılıyor.",
+          "en": "A new hospital is being built here.",
+          "fr": "Un nouvel hôpital est en construction ici.",
+          "it": "Qui sta nascendo un nuovo ospedale.",
+          "es": "Aquí se está construyendo un hospital nuevo."
+        },
+        {
+          "de": "Wie [entstehen] Wolken?",
+          "tr": "Bulutlar nasıl oluşur?",
+          "en": "How do clouds form?",
+          "fr": "Comment se forment les nuages ?",
+          "it": "Come si formano le nuvole?",
+          "es": "¿Cómo se forman las nubes?"
+        }
+      ]
+    },
+    {
+      "id": "aufstehen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "auf-",
+        "steh",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to get up, to stand up",
+        "tr": "kalkmak, ayağa kalkmak",
+        "de": "sich aus dem Liegen oder Sitzen erheben; morgens das Bett verlassen",
+        "fr": "se lever",
+        "it": "alzarsi",
+        "es": "levantarse"
+      },
+      "sentences": [
+        {
+          "de": "Morgen muss ich früh [aufstehen].",
+          "tr": "Yarın erken kalkmam lazım.",
+          "en": "I have to get up early tomorrow.",
+          "fr": "Demain, je dois me lever tôt.",
+          "it": "Domani devo alzarmi presto.",
+          "es": "Mañana tengo que levantarme temprano."
+        },
+        {
+          "de": "Kannst du für die alte Dame [aufstehen]?",
+          "tr": "Yaşlı hanım için ayağa kalkabilir misin?",
+          "en": "Can you stand up for the old lady?",
+          "fr": "Tu peux te lever pour la vieille dame ?",
+          "it": "Puoi alzarti per la signora anziana?",
+          "es": "¿Puedes levantarte para la señora mayor?"
+        }
+      ]
+    },
+    {
+      "id": "Zustand",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "zu-",
+        "stand"
+      ],
+      "gloss": {
+        "en": "state, condition",
+        "tr": "durum, hâl",
+        "de": "wie etwas oder jemand gerade ist",
+        "fr": "l'état",
+        "it": "lo stato, la condizione",
+        "es": "el estado"
+      },
+      "sentences": [
+        {
+          "de": "Das Auto ist in gutem [Zustand].",
+          "tr": "Araba iyi durumda.",
+          "en": "The car is in good condition.",
+          "fr": "La voiture est en bon état.",
+          "it": "L'auto è in buone condizioni.",
+          "es": "El coche está en buen estado."
+        },
+        {
+          "de": "Sein [Zustand] hat sich verbessert.",
+          "tr": "Durumu iyileşti.",
+          "en": "His condition has improved.",
+          "fr": "Son état s'est amélioré.",
+          "it": "Le sue condizioni sono migliorate.",
+          "es": "Su estado ha mejorado."
+        }
+      ]
+    },
+    {
+      "id": "Gegenstand",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "gegen-",
+        "stand"
+      ],
+      "gloss": {
+        "en": "object, thing; subject (of a talk)",
+        "tr": "nesne, eşya; konu",
+        "de": "ein Ding, das man anfassen kann; das Thema von etwas",
+        "fr": "l'objet ; le sujet",
+        "it": "l'oggetto; l'argomento",
+        "es": "el objeto; el tema"
+      },
+      "sentences": [
+        {
+          "de": "Auf dem Tisch liegt ein seltsamer [Gegenstand].",
+          "tr": "Masanın üstünde tuhaf bir nesne duruyor.",
+          "en": "There is a strange object on the table.",
+          "fr": "Il y a un objet étrange sur la table.",
+          "it": "Sul tavolo c'è uno strano oggetto.",
+          "es": "Hay un objeto extraño sobre la mesa."
+        },
+        {
+          "de": "Der [Gegenstand] des Gesprächs war die Schule.",
+          "tr": "Konuşmanın konusu okuldu.",
+          "en": "The subject of the conversation was school.",
+          "fr": "Le sujet de la conversation était l'école.",
+          "it": "L'argomento della conversazione era la scuola.",
+          "es": "El tema de la conversación era el colegio."
+        }
+      ]
+    },
+    {
+      "id": "Abstand",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "ab-",
+        "stand"
+      ],
+      "gloss": {
+        "en": "distance, gap",
+        "tr": "mesafe, aralık",
+        "de": "die Entfernung zwischen zwei Dingen",
+        "fr": "la distance, l'écart",
+        "it": "la distanza",
+        "es": "la distancia"
+      },
+      "sentences": [
+        {
+          "de": "Bitte halten Sie [Abstand].",
+          "tr": "Lütfen mesafeyi koruyun.",
+          "en": "Please keep your distance.",
+          "fr": "Veuillez garder vos distances.",
+          "it": "Per favore mantenete la distanza.",
+          "es": "Por favor, mantengan la distancia."
+        },
+        {
+          "de": "Der [Abstand] zwischen den Bäumen ist groß.",
+          "tr": "Ağaçların arasındaki mesafe büyük.",
+          "en": "The gap between the trees is wide.",
+          "fr": "L'écart entre les arbres est grand.",
+          "it": "La distanza tra gli alberi è grande.",
+          "es": "La distancia entre los árboles es grande."
+        }
+      ]
+    },
+    {
+      "id": "Widerstand",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "wider-",
+        "stand"
+      ],
+      "gloss": {
+        "en": "resistance",
+        "tr": "direnç, direniş",
+        "de": "das Sich-Wehren gegen etwas; in der Physik: was den Strom bremst",
+        "fr": "la résistance",
+        "it": "la resistenza",
+        "es": "la resistencia"
+      },
+      "sentences": [
+        {
+          "de": "Der Plan stieß auf großen [Widerstand].",
+          "tr": "Plan büyük bir dirençle karşılaştı.",
+          "en": "The plan met strong resistance.",
+          "fr": "Le plan s'est heurté à une forte résistance.",
+          "it": "Il piano ha incontrato una forte resistenza.",
+          "es": "El plan encontró una fuerte resistencia."
+        },
+        {
+          "de": "Der [Widerstand] wird in Ohm gemessen.",
+          "tr": "Direnç ohm ile ölçülür.",
+          "en": "Resistance is measured in ohms.",
+          "fr": "La résistance se mesure en ohms.",
+          "it": "La resistenza si misura in ohm.",
+          "es": "La resistencia se mide en ohmios."
+        }
+      ]
+    }
+  ]
+}

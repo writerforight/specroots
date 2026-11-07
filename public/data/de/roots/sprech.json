@@ -1,0 +1,376 @@
+{
+  "id": "sprech",
+  "forms": [
+    "sprech",
+    "sprach",
+    "spräch",
+    "spruch"
+  ],
+  "origin": "de",
+  "etymon": "sprechen",
+  "meaning": {
+    "en": "to speak",
+    "tr": "konuşmak",
+    "de": "Wörter sagen, reden (sprach, gesprochen; Spruch)",
+    "fr": "parler",
+    "it": "parlare",
+    "es": "hablar"
+  },
+  "words": [
+    {
+      "id": "sprechen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "sprech",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to speak, to talk",
+        "tr": "konuşmak",
+        "de": "Wörter sagen; sich mit jemandem unterhalten",
+        "fr": "parler",
+        "it": "parlare",
+        "es": "hablar"
+      },
+      "sentences": [
+        {
+          "de": "Wir [sprechen] Deutsch und Türkisch.",
+          "tr": "Almanca ve Türkçe konuşuyoruz.",
+          "en": "We speak German and Turkish.",
+          "fr": "Nous parlons allemand et turc.",
+          "it": "Parliamo tedesco e turco.",
+          "es": "Hablamos alemán y turco."
+        },
+        {
+          "de": "Kann ich kurz mit dir [sprechen]?",
+          "tr": "Seninle kısaca konuşabilir miyim?",
+          "en": "Can I talk to you for a moment?",
+          "fr": "Je peux te parler un instant ?",
+          "it": "Posso parlarti un attimo?",
+          "es": "¿Puedo hablar contigo un momento?"
+        }
+      ]
+    },
+    {
+      "id": "Sprache",
+      "pos": "noun",
+      "parent": "sprechen",
+      "parts": [
+        "sprach",
+        "-e"
+      ],
+      "gloss": {
+        "en": "language",
+        "tr": "dil",
+        "de": "ein System von Wörtern, mit dem Menschen sprechen",
+        "fr": "la langue",
+        "it": "la lingua",
+        "es": "el idioma, la lengua"
+      },
+      "sentences": [
+        {
+          "de": "Wie viele [Sprachen] sprichst du?",
+          "tr": "Kaç dil konuşuyorsun?",
+          "en": "How many languages do you speak?",
+          "fr": "Combien de langues parles-tu ?",
+          "it": "Quante lingue parli?",
+          "es": "¿Cuántos idiomas hablas?"
+        },
+        {
+          "de": "Deutsch ist keine leichte [Sprache].",
+          "tr": "Almanca kolay bir dil değil.",
+          "en": "German is not an easy language.",
+          "fr": "L'allemand n'est pas une langue facile.",
+          "it": "Il tedesco non è una lingua facile.",
+          "es": "El alemán no es un idioma fácil."
+        }
+      ]
+    },
+    {
+      "id": "Sprecher",
+      "pos": "noun",
+      "parent": "sprechen",
+      "parts": [
+        "sprech",
+        "-er"
+      ],
+      "gloss": {
+        "en": "speaker; spokesperson",
+        "tr": "konuşmacı; sözcü",
+        "de": "jemand, der spricht oder für andere spricht",
+        "fr": "le locuteur ; le porte-parole",
+        "it": "il parlante; il portavoce",
+        "es": "el hablante; el portavoz"
+      },
+      "sentences": [
+        {
+          "de": "Der [Sprecher] der Regierung gab eine Erklärung ab.",
+          "tr": "Hükümet sözcüsü bir açıklama yaptı.",
+          "en": "The government spokesman made a statement.",
+          "fr": "Le porte-parole du gouvernement a fait une déclaration.",
+          "it": "Il portavoce del governo ha rilasciato una dichiarazione.",
+          "es": "El portavoz del gobierno hizo una declaración."
+        },
+        {
+          "de": "Sie ist eine gute [Sprecherin].",
+          "tr": "O iyi bir konuşmacı.",
+          "en": "She is a good speaker.",
+          "fr": "C'est une bonne oratrice.",
+          "it": "È una brava oratrice.",
+          "es": "Es una buena oradora."
+        }
+      ]
+    },
+    {
+      "id": "Gespräch",
+      "pos": "noun",
+      "parent": "sprechen",
+      "parts": [
+        "ge-",
+        "spräch"
+      ],
+      "gloss": {
+        "en": "conversation, talk",
+        "tr": "sohbet, konuşma, görüşme",
+        "de": "wenn zwei oder mehr Menschen miteinander sprechen",
+        "fr": "la conversation, l'entretien",
+        "it": "la conversazione, il colloquio",
+        "es": "la conversación, la charla"
+      },
+      "sentences": [
+        {
+          "de": "Wir hatten ein langes [Gespräch].",
+          "tr": "Uzun bir sohbet ettik.",
+          "en": "We had a long conversation.",
+          "fr": "Nous avons eu une longue conversation.",
+          "it": "Abbiamo fatto una lunga chiacchierata.",
+          "es": "Tuvimos una larga conversación."
+        },
+        {
+          "de": "Morgen habe ich ein [Gespräch] mit dem Chef.",
+          "tr": "Yarın patronla bir görüşmem var.",
+          "en": "Tomorrow I have a meeting with the boss.",
+          "fr": "Demain j'ai un entretien avec le chef.",
+          "it": "Domani ho un colloquio con il capo.",
+          "es": "Mañana tengo una reunión con el jefe."
+        }
+      ]
+    },
+    {
+      "id": "besprechen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "be-",
+        "sprech",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to discuss",
+        "tr": "görüşmek, (bir konuyu) konuşmak",
+        "de": "über etwas gemeinsam reden, um es zu klären",
+        "fr": "discuter de",
+        "it": "discutere di",
+        "es": "hablar de, discutir"
+      },
+      "sentences": [
+        {
+          "de": "Das [besprechen] wir morgen.",
+          "tr": "Bunu yarın konuşuruz.",
+          "en": "We will discuss that tomorrow.",
+          "fr": "Nous en discuterons demain.",
+          "it": "Ne discutiamo domani.",
+          "es": "Lo hablamos mañana."
+        },
+        {
+          "de": "Wir müssen den Plan noch [besprechen].",
+          "tr": "Planı daha görüşmemiz lazım.",
+          "en": "We still need to discuss the plan.",
+          "fr": "Nous devons encore discuter du plan.",
+          "it": "Dobbiamo ancora discutere il piano.",
+          "es": "Todavía tenemos que discutir el plan."
+        }
+      ]
+    },
+    {
+      "id": "versprechen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ver-",
+        "sprech",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to promise",
+        "tr": "söz vermek",
+        "de": "sagen, dass man etwas sicher tun wird",
+        "fr": "promettre",
+        "it": "promettere",
+        "es": "prometer"
+      },
+      "sentences": [
+        {
+          "de": "Ich [verspreche] dir, ich komme pünktlich.",
+          "tr": "Sana söz veriyorum, zamanında geleceğim.",
+          "en": "I promise you I'll be on time.",
+          "fr": "Je te promets que je serai à l'heure.",
+          "it": "Ti prometto che arriverò puntuale.",
+          "es": "Te prometo que llegaré puntual."
+        },
+        {
+          "de": "Das kann ich dir nicht [versprechen].",
+          "tr": "Bunun sözünü sana veremem.",
+          "en": "I can't promise you that.",
+          "fr": "Je ne peux pas te le promettre.",
+          "it": "Non te lo posso promettere.",
+          "es": "No te lo puedo prometer."
+        }
+      ]
+    },
+    {
+      "id": "widersprechen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "wider-",
+        "sprech",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to contradict, to disagree",
+        "tr": "itiraz etmek, karşı çıkmak",
+        "de": "sagen, dass man anderer Meinung ist",
+        "fr": "contredire",
+        "it": "contraddire",
+        "es": "contradecir, llevar la contraria"
+      },
+      "sentences": [
+        {
+          "de": "Da muss ich dir [widersprechen].",
+          "tr": "Burada sana itiraz etmem lazım.",
+          "en": "I have to disagree with you there.",
+          "fr": "Là, je dois te contredire.",
+          "it": "Su questo devo contraddirti.",
+          "es": "Ahí tengo que contradecirte."
+        },
+        {
+          "de": "Die Zahlen [widersprechen] seiner Aussage.",
+          "tr": "Rakamlar onun söylediğiyle çelişiyor.",
+          "en": "The figures contradict his statement.",
+          "fr": "Les chiffres contredisent sa déclaration.",
+          "it": "I numeri contraddicono la sua affermazione.",
+          "es": "Las cifras contradicen su declaración."
+        }
+      ]
+    },
+    {
+      "id": "Widerspruch",
+      "pos": "noun",
+      "parent": "widersprechen",
+      "parts": [
+        "wider-",
+        "spruch"
+      ],
+      "gloss": {
+        "en": "contradiction; objection",
+        "tr": "çelişki; itiraz",
+        "de": "eine andere Meinung; zwei Dinge, die nicht zusammenpassen",
+        "fr": "la contradiction ; l'objection",
+        "it": "la contraddizione; l'obiezione",
+        "es": "la contradicción; la objeción"
+      },
+      "sentences": [
+        {
+          "de": "Das ist ein [Widerspruch].",
+          "tr": "Bu bir çelişki.",
+          "en": "That is a contradiction.",
+          "fr": "C'est une contradiction.",
+          "it": "È una contraddizione.",
+          "es": "Es una contradicción."
+        },
+        {
+          "de": "Er duldet keinen [Widerspruch].",
+          "tr": "İtiraz kabul etmez.",
+          "en": "He tolerates no objection.",
+          "fr": "Il ne tolère aucune objection.",
+          "it": "Non tollera obiezioni.",
+          "es": "No tolera ninguna objeción."
+        }
+      ]
+    },
+    {
+      "id": "aussprechen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "aus-",
+        "sprech",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to pronounce; to express",
+        "tr": "telaffuz etmek; dile getirmek",
+        "de": "Laute oder Wörter auf eine bestimmte Weise sagen; offen sagen",
+        "fr": "prononcer ; exprimer",
+        "it": "pronunciare; esprimere",
+        "es": "pronunciar; expresar"
+      },
+      "sentences": [
+        {
+          "de": "Wie kann man dieses Wort [aussprechen]?",
+          "tr": "Bu kelime nasıl telaffuz edilir?",
+          "en": "How do you pronounce this word?",
+          "fr": "Comment prononce-t-on ce mot ?",
+          "it": "Come si pronuncia questa parola?",
+          "es": "¿Cómo se pronuncia esta palabra?"
+        },
+        {
+          "de": "Sie konnte nicht [aussprechen], was sie fühlte.",
+          "tr": "Hissettiklerini dile getiremedi.",
+          "en": "She couldn't put into words what she felt.",
+          "fr": "Elle n'arrivait pas à exprimer ce qu'elle ressentait.",
+          "it": "Non riusciva a esprimere ciò che provava.",
+          "es": "No podía expresar lo que sentía."
+        }
+      ]
+    },
+    {
+      "id": "Aussprache",
+      "pos": "noun",
+      "parent": "aussprechen",
+      "parts": [
+        "aus-",
+        "sprach",
+        "-e"
+      ],
+      "gloss": {
+        "en": "pronunciation",
+        "tr": "telaffuz, söyleniş",
+        "de": "wie man Laute und Wörter spricht",
+        "fr": "la prononciation",
+        "it": "la pronuncia",
+        "es": "la pronunciación"
+      },
+      "sentences": [
+        {
+          "de": "Deine [Aussprache] ist sehr gut.",
+          "tr": "Telaffuzun çok iyi.",
+          "en": "Your pronunciation is very good.",
+          "fr": "Ta prononciation est très bonne.",
+          "it": "La tua pronuncia è molto buona.",
+          "es": "Tu pronunciación es muy buena."
+        },
+        {
+          "de": "Die [Aussprache] von „ch\" ist schwer.",
+          "tr": "\"ch\" sesinin telaffuzu zor.",
+          "en": "The pronunciation of \"ch\" is hard.",
+          "fr": "La prononciation de « ch » est difficile.",
+          "it": "La pronuncia di \"ch\" è difficile.",
+          "es": "La pronunciación de \"ch\" es difícil."
+        }
+      ]
+    }
+  ]
+}

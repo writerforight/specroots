@@ -1,0 +1,377 @@
+{
+  "id": "geb",
+  "forms": [
+    "geb",
+    "gab"
+  ],
+  "origin": "de",
+  "etymon": "geben",
+  "meaning": {
+    "en": "to give",
+    "tr": "vermek",
+    "de": "jemandem etwas reichen (gab, gegeben)",
+    "fr": "donner",
+    "it": "dare",
+    "es": "dar"
+  },
+  "words": [
+    {
+      "id": "geben",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "geb",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to give; es gibt: there is, there are",
+        "tr": "vermek; es gibt: var",
+        "de": "jemandem etwas reichen oder schenken; es gibt: etwas ist vorhanden",
+        "fr": "donner ; es gibt : il y a",
+        "it": "dare; es gibt: c'è, ci sono",
+        "es": "dar; es gibt: hay"
+      },
+      "sentences": [
+        {
+          "de": "Kannst du mir bitte das Salz [geben]?",
+          "tr": "Tuzu bana verebilir misin lütfen?",
+          "en": "Can you give me the salt, please?",
+          "fr": "Tu peux me passer le sel, s'il te plaît ?",
+          "it": "Mi puoi dare il sale, per favore?",
+          "es": "¿Me puedes dar la sal, por favor?"
+        },
+        {
+          "de": "Sie [gab] ihm einen Kuss.",
+          "tr": "Ona bir öpücük verdi.",
+          "en": "She gave him a kiss.",
+          "fr": "Elle lui a donné un baiser.",
+          "it": "Gli ha dato un bacio.",
+          "es": "Le dio un beso."
+        }
+      ]
+    },
+    {
+      "id": "Gabe",
+      "pos": "noun",
+      "parent": "geben",
+      "parts": [
+        "gab",
+        "-e"
+      ],
+      "gloss": {
+        "en": "gift; talent",
+        "tr": "armağan; yetenek",
+        "de": "ein Geschenk; eine besondere Fähigkeit",
+        "fr": "le don ; le talent",
+        "it": "il dono; il talento",
+        "es": "el don; el talento"
+      },
+      "sentences": [
+        {
+          "de": "Sie hat eine [Gabe] für Musik.",
+          "tr": "Müziğe karşı bir yeteneği var.",
+          "en": "She has a gift for music.",
+          "fr": "Elle a un don pour la musique.",
+          "it": "Ha un dono per la musica.",
+          "es": "Tiene un don para la música."
+        },
+        {
+          "de": "Das Bild war eine [Gabe] an die Kirche.",
+          "tr": "Tablo kiliseye bir armağandı.",
+          "en": "The painting was a gift to the church.",
+          "fr": "Le tableau était un don à l'église.",
+          "it": "Il quadro era un dono alla chiesa.",
+          "es": "El cuadro era un regalo a la iglesia."
+        }
+      ]
+    },
+    {
+      "id": "aufgeben",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "auf-",
+        "geb",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to give up; to post (a parcel)",
+        "tr": "vazgeçmek, pes etmek; (kargoya) vermek",
+        "de": "mit etwas aufhören, weil man nicht mehr will oder kann; ein Paket zur Post bringen",
+        "fr": "abandonner ; poster (un colis)",
+        "it": "arrendersi, rinunciare; spedire (un pacco)",
+        "es": "rendirse, renunciar; enviar (un paquete)"
+      },
+      "sentences": [
+        {
+          "de": "Du darfst jetzt nicht [aufgeben]!",
+          "tr": "Şimdi pes etmemelisin!",
+          "en": "You mustn't give up now!",
+          "fr": "Tu ne dois pas abandonner maintenant !",
+          "it": "Non devi arrenderti adesso!",
+          "es": "¡No puedes rendirte ahora!"
+        },
+        {
+          "de": "Er hat das Rauchen [aufgegeben].",
+          "tr": "Sigarayı bıraktı.",
+          "en": "He has given up smoking.",
+          "fr": "Il a arrêté de fumer.",
+          "it": "Ha smesso di fumare.",
+          "es": "Ha dejado de fumar."
+        }
+      ]
+    },
+    {
+      "id": "Aufgabe",
+      "pos": "noun",
+      "parent": "aufgeben",
+      "parts": [
+        "auf-",
+        "gab",
+        "-e"
+      ],
+      "gloss": {
+        "en": "task, exercise; duty",
+        "tr": "görev, ödev; alıştırma",
+        "de": "etwas, das man tun soll; eine Übung",
+        "fr": "la tâche, l'exercice",
+        "it": "il compito, l'esercizio",
+        "es": "la tarea, el ejercicio"
+      },
+      "sentences": [
+        {
+          "de": "Hast du die [Aufgaben] schon gemacht?",
+          "tr": "Ödevleri yaptın mı?",
+          "en": "Have you done the exercises yet?",
+          "fr": "Tu as déjà fait les exercices ?",
+          "it": "Hai già fatto i compiti?",
+          "es": "¿Ya has hecho los ejercicios?"
+        },
+        {
+          "de": "Das ist keine leichte [Aufgabe].",
+          "tr": "Bu kolay bir görev değil.",
+          "en": "That is not an easy task.",
+          "fr": "Ce n'est pas une tâche facile.",
+          "it": "Non è un compito facile.",
+          "es": "No es una tarea fácil."
+        }
+      ]
+    },
+    {
+      "id": "ausgeben",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "aus-",
+        "geb",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to spend (money); to hand out",
+        "tr": "(para) harcamak; dağıtmak",
+        "de": "Geld für etwas bezahlen; verteilen",
+        "fr": "dépenser ; distribuer",
+        "it": "spendere; distribuire",
+        "es": "gastar; repartir"
+      },
+      "sentences": [
+        {
+          "de": "Wie viel hast du [ausgegeben]?",
+          "tr": "Ne kadar harcadın?",
+          "en": "How much did you spend?",
+          "fr": "Combien as-tu dépensé ?",
+          "it": "Quanto hai speso?",
+          "es": "¿Cuánto has gastado?"
+        },
+        {
+          "de": "Ich will nicht so viel Geld [ausgeben].",
+          "tr": "Bu kadar para harcamak istemiyorum.",
+          "en": "I don't want to spend so much money.",
+          "fr": "Je ne veux pas dépenser autant d'argent.",
+          "it": "Non voglio spendere così tanti soldi.",
+          "es": "No quiero gastar tanto dinero."
+        }
+      ]
+    },
+    {
+      "id": "Ausgabe",
+      "pos": "noun",
+      "parent": "ausgeben",
+      "parts": [
+        "aus-",
+        "gab",
+        "-e"
+      ],
+      "gloss": {
+        "en": "expense; edition, issue",
+        "tr": "harcama, gider; baskı, sayı",
+        "de": "Geld, das man bezahlt; eine Version eines Buches oder einer Zeitung",
+        "fr": "la dépense ; l'édition, le numéro",
+        "it": "la spesa; l'edizione, il numero",
+        "es": "el gasto; la edición, el número"
+      },
+      "sentences": [
+        {
+          "de": "Die [Ausgaben] sind dieses Jahr gestiegen.",
+          "tr": "Harcamalar bu yıl arttı.",
+          "en": "Expenses have risen this year.",
+          "fr": "Les dépenses ont augmenté cette année.",
+          "it": "Le spese sono aumentate quest'anno.",
+          "es": "Los gastos han subido este año."
+        },
+        {
+          "de": "Hast du die neue [Ausgabe] der Zeitschrift?",
+          "tr": "Derginin yeni sayısı sende var mı?",
+          "en": "Do you have the new issue of the magazine?",
+          "fr": "Tu as le nouveau numéro du magazine ?",
+          "it": "Hai il nuovo numero della rivista?",
+          "es": "¿Tienes el nuevo número de la revista?"
+        }
+      ]
+    },
+    {
+      "id": "abgeben",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ab-",
+        "geb",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to hand in, to hand over",
+        "tr": "teslim etmek, vermek",
+        "de": "etwas jemandem übergeben, z. B. eine Arbeit",
+        "fr": "rendre, remettre",
+        "it": "consegnare",
+        "es": "entregar"
+      },
+      "sentences": [
+        {
+          "de": "Ich habe die Hausarbeit heute [abgegeben].",
+          "tr": "Ödevi bugün teslim ettim.",
+          "en": "I handed in the essay today.",
+          "fr": "J'ai rendu le devoir aujourd'hui.",
+          "it": "Ho consegnato la tesina oggi.",
+          "es": "Hoy he entregado el trabajo."
+        },
+        {
+          "de": "Bitte die Schlüssel an der Rezeption [abgeben].",
+          "tr": "Lütfen anahtarları resepsiyona teslim edin.",
+          "en": "Please hand in the keys at reception.",
+          "fr": "Merci de rendre les clés à la réception.",
+          "it": "Si prega di consegnare le chiavi alla reception.",
+          "es": "Por favor, entreguen las llaves en recepción."
+        }
+      ]
+    },
+    {
+      "id": "vergeben",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ver-",
+        "geb",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to forgive; to award, to give away",
+        "tr": "affetmek; (ödül, yer) vermek",
+        "de": "jemandem einen Fehler nicht mehr übel nehmen; etwas an jemanden verteilen",
+        "fr": "pardonner ; attribuer",
+        "it": "perdonare; assegnare",
+        "es": "perdonar; adjudicar"
+      },
+      "sentences": [
+        {
+          "de": "Kannst du mir [vergeben]?",
+          "tr": "Beni affedebilir misin?",
+          "en": "Can you forgive me?",
+          "fr": "Peux-tu me pardonner ?",
+          "it": "Puoi perdonarmi?",
+          "es": "¿Puedes perdonarme?"
+        },
+        {
+          "de": "Alle Plätze sind schon [vergeben].",
+          "tr": "Bütün yerler dolmuş.",
+          "en": "All the places have already been taken.",
+          "fr": "Toutes les places sont déjà attribuées.",
+          "it": "Tutti i posti sono già assegnati.",
+          "es": "Todas las plazas ya están adjudicadas."
+        }
+      ]
+    },
+    {
+      "id": "Ergebnis",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "er-",
+        "geb",
+        "-nis"
+      ],
+      "gloss": {
+        "en": "result, outcome",
+        "tr": "sonuç",
+        "de": "was am Ende herauskommt",
+        "fr": "le résultat",
+        "it": "il risultato",
+        "es": "el resultado"
+      },
+      "sentences": [
+        {
+          "de": "Das [Ergebnis] der Prüfung kommt morgen.",
+          "tr": "Sınavın sonucu yarın çıkıyor.",
+          "en": "The exam result comes out tomorrow.",
+          "fr": "Le résultat de l'examen sort demain.",
+          "it": "Il risultato dell'esame esce domani.",
+          "es": "El resultado del examen sale mañana."
+        },
+        {
+          "de": "Wir sind mit dem [Ergebnis] zufrieden.",
+          "tr": "Sonuçtan memnunuz.",
+          "en": "We are happy with the result.",
+          "fr": "Nous sommes contents du résultat.",
+          "it": "Siamo soddisfatti del risultato.",
+          "es": "Estamos contentos con el resultado."
+        }
+      ]
+    },
+    {
+      "id": "Umgebung",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "um-",
+        "geb",
+        "-ung"
+      ],
+      "gloss": {
+        "en": "surroundings, area, environment",
+        "tr": "çevre, civar",
+        "de": "die Gegend um einen Ort herum",
+        "fr": "les environs, l'environnement",
+        "it": "i dintorni, l'ambiente",
+        "es": "los alrededores, el entorno"
+      },
+      "sentences": [
+        {
+          "de": "Wir wohnen in einer ruhigen [Umgebung].",
+          "tr": "Sakin bir çevrede yaşıyoruz.",
+          "en": "We live in a quiet area.",
+          "fr": "Nous habitons dans un environnement calme.",
+          "it": "Viviamo in una zona tranquilla.",
+          "es": "Vivimos en un entorno tranquilo."
+        },
+        {
+          "de": "Gibt es in der [Umgebung] ein Café?",
+          "tr": "Civarda bir kafe var mı?",
+          "en": "Is there a café nearby?",
+          "fr": "Y a-t-il un café dans les environs ?",
+          "it": "C'è un bar nei dintorni?",
+          "es": "¿Hay una cafetería por aquí cerca?"
+        }
+      ]
+    }
+  ]
+}

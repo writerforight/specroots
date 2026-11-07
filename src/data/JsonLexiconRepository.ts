@@ -1,5 +1,6 @@
 import type { Affix, AffixIndex } from '../domain/Affix';
 import type { EverydayObject, ListSummary, ObjectSummary, WordList } from '../domain/EverydayObject';
+import type { SourceLang } from '../domain/Language';
 import type { Root, RootSummary } from '../domain/Root';
 import { LexiconParser } from './LexiconParser';
 import type { LexiconRepository } from './LexiconRepository';
@@ -22,31 +23,43 @@ export class JsonLexiconRepository implements LexiconRepository {
   private objectIndex: Promise<ObjectSummary[]> | null = null;
   private readonly objects = new Map<string, Promise<EverydayObject>>();
 
-  constructor(private readonly fetchJson: Fetcher) {}
+  /**
+   * dir: the folder of this lexicon, "data/" for English roots, "data/de/" for German ones (same file
+   * layout: index.json, affixes.json, roots/). language: what the words are in.
+   */
+  constructor(
+    private readonly fetchJson: Fetcher,
+    private readonly dir = 'data/',
+    readonly language: SourceLang = 'en',
+  ) {}
 
   /** A repository backed by HTTP, relative to the page so it works under any Pages path. */
-  static overHttp(baseUrl: string): JsonLexiconRepository {
-    return new JsonLexiconRepository(async (path) => {
-      const response = await fetch(new URL(path, baseUrl));
-      if (!response.ok) throw new Error(`${path}: HTTP ${response.status}`);
-      return response.json();
-    });
+  static overHttp(baseUrl: string, dir = 'data/', language: SourceLang = 'en'): JsonLexiconRepository {
+    return new JsonLexiconRepository(
+      async (path) => {
+        const response = await fetch(new URL(path, baseUrl));
+        if (!response.ok) throw new Error(`${path}: HTTP ${response.status}`);
+        return response.json();
+      },
+      dir,
+      language,
+    );
   }
 
   listRoots(): Promise<RootSummary[]> {
-    this.index ??= this.fetchJson('data/index.json').then((raw) =>
+    this.index ??= this.fetchJson(`${this.dir}index.json`).then((raw) =>
       this.parser.parseIndex(raw).sort((a, b) => (a.forms[0] ?? a.id).localeCompare(b.forms[0] ?? b.id)),
     );
     return this.index;
   }
 
   getAffixes(): Promise<ReadonlyMap<string, Affix>> {
-    this.affixes ??= this.fetchJson('data/affixes.json').then((raw) => this.parser.parseAffixes(raw));
+    this.affixes ??= this.fetchJson(`${this.dir}affixes.json`).then((raw) => this.parser.parseAffixes(raw));
     return this.affixes;
   }
 
   getAffixIndex(): Promise<AffixIndex> {
-    this.affixIndex ??= Promise.all([this.fetchJson('data/affix-index.json'), this.getAffixes()]).then(([raw, affixes]) =>
+    this.affixIndex ??= Promise.all([this.fetchJson(`${this.dir}affix-index.json`), this.getAffixes()]).then(([raw, affixes]) =>
       this.parser.parseAffixIndex(raw, affixes),
     );
     // Like a root, a failed load is retried next time.
@@ -57,8 +70,8 @@ export class JsonLexiconRepository implements LexiconRepository {
   getRoot(id: string): Promise<Root> {
     let root = this.roots.get(id);
     if (!root) {
-      root = Promise.all([this.fetchJson(`data/roots/${encodeURIComponent(id)}.json`), this.getAffixes()]).then(
-        ([raw, affixes]) => this.parser.parseRoot(raw, affixes),
+      root = Promise.all([this.fetchJson(`${this.dir}roots/${encodeURIComponent(id)}.json`), this.getAffixes()]).then(
+        ([raw, affixes]) => this.parser.parseRoot(raw, affixes, this.language),
       );
       // A failed load is forgotten so the next attempt retries instead of replaying the error.
       root.catch(() => this.roots.delete(id));

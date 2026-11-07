@@ -2,9 +2,9 @@ import type { I18n } from '../i18n/I18n';
 import type { Section } from '../services/SettingsStore';
 import { h } from './dom';
 
-export const SECTIONS: readonly Section[] = ['roots', 'lists'];
+export const SECTIONS: readonly Section[] = ['roots', 'german', 'lists'];
 
-/** Word roots · Object lists: the two halves of the app, at the very top of the side list. */
+/** Word roots · German roots · Object lists: the parts of the app, at the very top of the side list. */
 export class SectionSwitch {
   readonly el = h('div', { class: 'segmented section-switch', role: 'group' });
 

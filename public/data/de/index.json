@@ -1,0 +1,119 @@
+[
+  {
+    "id": "fahr",
+    "forms": [
+      "fahr",
+      "fähr"
+    ],
+    "origin": "de",
+    "meaning": {
+      "en": "to go, to travel (by vehicle), to drive",
+      "tr": "(taşıtla) gitmek, sürmek",
+      "de": "sich mit einem Fahrzeug fortbewegen (fuhr, gefahren)",
+      "fr": "aller (en véhicule), conduire",
+      "it": "andare (con un veicolo), guidare",
+      "es": "ir (en vehículo), conducir"
+    },
+    "words": [
+      "fahren",
+      "Fahrer",
+      "Fahrt",
+      "Fahrzeug",
+      "Fahrrad",
+      "Fähre",
+      "abfahren",
+      "Abfahrt",
+      "erfahren",
+      "Erfahrung"
+    ]
+  },
+  {
+    "id": "geb",
+    "forms": [
+      "geb",
+      "gab"
+    ],
+    "origin": "de",
+    "meaning": {
+      "en": "to give",
+      "tr": "vermek",
+      "de": "jemandem etwas reichen (gab, gegeben)",
+      "fr": "donner",
+      "it": "dare",
+      "es": "dar"
+    },
+    "words": [
+      "geben",
+      "Gabe",
+      "aufgeben",
+      "Aufgabe",
+      "ausgeben",
+      "Ausgabe",
+      "abgeben",
+      "vergeben",
+      "Ergebnis",
+      "Umgebung"
+    ]
+  },
+  {
+    "id": "sprech",
+    "forms": [
+      "sprech",
+      "sprach",
+      "spräch",
+      "spruch"
+    ],
+    "origin": "de",
+    "meaning": {
+      "en": "to speak",
+      "tr": "konuşmak",
+      "de": "Wörter sagen, reden (sprach, gesprochen; Spruch)",
+      "fr": "parler",
+      "it": "parlare",
+      "es": "hablar"
+    },
+    "words": [
+      "sprechen",
+      "Sprache",
+      "Sprecher",
+      "Gespräch",
+      "besprechen",
+      "versprechen",
+      "widersprechen",
+      "Widerspruch",
+      "aussprechen",
+      "Aussprache"
+    ]
+  },
+  {
+    "id": "steh",
+    "forms": [
+      "steh",
+      "stand",
+      "ständ"
+    ],
+    "origin": "de",
+    "meaning": {
+      "en": "to stand",
+      "tr": "ayakta durmak, durmak",
+      "de": "stehen, aufrecht sein (stand, gestanden)",
+      "fr": "être debout, se tenir",
+      "it": "stare in piedi",
+      "es": "estar de pie"
+    },
+    "words": [
+      "stehen",
+      "verstehen",
+      "Verstand",
+      "Verständnis",
+      "verständlich",
+      "bestehen",
+      "entstehen",
+      "aufstehen",
+      "Zustand",
+      "Gegenstand",
+      "Abstand",
+      "Widerstand"
+    ]
+  }
+]

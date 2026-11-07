@@ -2,7 +2,7 @@ import type { I18n } from '../i18n/I18n';
 import type { SearchHit, SearchIndex } from '../services/SearchIndex';
 import type { Section } from '../services/SettingsStore';
 import { clear, h } from './dom';
-import { affixHref, listHref, objectHref, rootHref } from './routes';
+import { affixHref, deRootHref, listHref, objectHref, rootHref } from './routes';
 
 /** Type a root, a word, an affix or an object (in any language) and jump to it. Enter opens the first hit. */
 export class SearchBox {
@@ -52,7 +52,7 @@ export class SearchBox {
     if (hits.length === 0) this.results.append(h('li', { class: 'search-empty' }, this.i18n.t('noResults')));
     for (const hit of hits) {
       this.results.append(
-        h('li', { role: 'option' }, h('a', { href: this.href(hit), onclick: () => this.reset() }, h('span', { lang: 'en' }, hit.label), this.tag(hit))),
+        h('li', { role: 'option' }, h('a', { href: this.href(hit), onclick: () => this.reset() }, h('span', { lang: hit.german ? 'de' : 'en' }, hit.label), this.tag(hit))),
       );
     }
     this.results.hidden = false;
@@ -62,6 +62,7 @@ export class SearchBox {
     if (hit.affix) return affixHref(hit.affix.id);
     if (hit.objectId) return objectHref(hit.objectId);
     if (hit.listId) return listHref(hit.listId);
+    if (hit.german && hit.rootId) return deRootHref(hit.rootId, hit.wordId);
     return hit.rootId ? rootHref(hit.rootId, hit.wordId) : '#/roots';
   }
 

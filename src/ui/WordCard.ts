@@ -1,4 +1,4 @@
-import { ENDONYMS, type Lang, type TranslationLang } from '../domain/Language';
+import { ENDONYMS, glossLangs, sentenceLangs, type Lang } from '../domain/Language';
 import type { Morpheme } from '../domain/Morpheme';
 import type { Root } from '../domain/Root';
 import type { Sentence } from '../domain/Sentence';
@@ -20,13 +20,13 @@ export class WordCard {
       h(
         'header',
         { class: 'word-head' },
-        h('h3', { class: 'word-title', lang: 'en' }, this.renderParts(word.parts)),
-        this.listenButton(word.text, 'en'),
+        h('h3', { class: 'word-title', lang: root.language }, this.renderParts(word.parts)),
+        this.listenButton(word.text, root.language),
         h('span', { class: 'word-pos' }, i18n.t(`pos_${word.pos}`)),
         parent ? h('span', { class: 'word-parent' }, i18n.t('derivedFrom', { word: parent.text })) : null,
       ),
       this.renderBreakdown(word, root),
-      this.renderGlosses(word),
+      this.renderGlosses(word, root),
       word.sentences.length > 0
         ? h(
             'details',
@@ -53,19 +53,24 @@ export class WordCard {
     const lang = this.ctx.i18n.language;
     const items = word.parts.map((part) => {
       const { affix } = part;
-      if (!affix) return h('li', { class: 'breakdown-item part-root' }, h('b', { lang: 'en' }, part.text), ' ', root.meaning[lang] ?? root.meaning.en ?? '');
-      // Each prefix and suffix leads to every other word built with it.
+      if (!affix) return h('li', { class: 'breakdown-item part-root' }, h('b', { lang: root.language }, part.text), ' ', root.meaning[lang] ?? root.meaning.en ?? '');
+      const label = h('b', { lang: root.language }, affix.label);
+      const meaning = affix.meaning[lang] ?? affix.meaning.en ?? '';
+      // German affixes have no pages of their own (yet), so they are plain text.
+      if (root.language !== 'en') return h('li', { class: `breakdown-item part-${part.kind}` }, label, ' ', meaning);
+      // Each English prefix and suffix leads to every other word built with it.
       return h(
         'li',
         { class: `breakdown-item part-${part.kind}` },
-        h('a', { class: 'breakdown-link', href: affixHref(affix.id) }, h('b', { lang: 'en' }, affix.label), ' ', affix.meaning[lang] ?? affix.meaning.en ?? ''),
+        h('a', { class: 'breakdown-link', href: affixHref(affix.id) }, label, ' ', meaning),
       );
     });
     return h('ul', { class: 'breakdown' }, ...items);
   }
 
-  private renderGlosses(word: Word): HTMLElement {
-    const rows: [Lang, string | undefined][] = [['en', word.gloss.en], ...this.ctx.settings.translationLangs.map((l) => [l, word.gloss[l]] as [Lang, string | undefined])];
+  /** The word's own-language definition first, then (for German words) English, then the chosen languages. */
+  private renderGlosses(word: Word, root: Root): HTMLElement {
+    const rows = glossLangs(root.language, this.ctx.settings.translationLangs).map((l) => [l, word.gloss[l]] as [Lang, string | undefined]);
     return h(
       'dl',
       { class: 'glosses' },
@@ -74,18 +79,18 @@ export class WordCard {
   }
 
   renderSentence(sentence: Sentence): HTMLElement {
-    const translations = this.ctx.settings.translationLangs
+    const translations = sentenceLangs(sentence.source, this.ctx.settings.translationLangs)
       .map((lang) => [lang, sentence.translation(lang)] as const)
-      .filter((pair): pair is readonly [TranslationLang, string] => pair[1] !== undefined);
+      .filter((pair): pair is readonly [Lang, string] => pair[1] !== undefined);
     return h(
       'li',
       { class: 'sentence' },
       h(
         'p',
-        { class: 'sentence-en', lang: 'en' },
+        { class: 'sentence-en', lang: sentence.source },
         ...sentence.segments.map((s) => (s.highlight ? h('mark', {}, s.text) : s.text)),
         ' ',
-        this.listenButton(sentence.english, 'en'),
+        this.listenButton(sentence.text, sentence.source),
       ),
       ...translations.map(([lang, text]) => h('p', { class: 'sentence-tr', lang }, h('span', { class: 'lang-tag' }, lang.toUpperCase()), text)),
     );

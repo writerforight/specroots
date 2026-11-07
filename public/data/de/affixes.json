@@ -1,0 +1,235 @@
+{
+  "ver-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "changes the meaning; often \"wrongly\", \"away\" or \"completely\"",
+      "tr": "anlamı değiştirir; çoğu zaman \"yanlış\", \"uzağa\", \"tamamen\"",
+      "de": "verändert die Bedeutung; oft „falsch\", „weg\" oder „ganz\"",
+      "fr": "change le sens ; souvent « mal », « loin » ou « complètement »",
+      "it": "cambia il significato; spesso \"male\", \"via\" o \"del tutto\"",
+      "es": "cambia el significado; a menudo \"mal\", \"lejos\" o \"del todo\""
+    }
+  },
+  "be-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "makes a verb take a direct object; \"about, on\"",
+      "tr": "fiili geçişli yapar; \"üzerine, hakkında\"",
+      "de": "macht das Verb transitiv; „über, an\"",
+      "fr": "rend le verbe transitif ; « sur, à propos de »",
+      "it": "rende il verbo transitivo; \"su, riguardo a\"",
+      "es": "hace transitivo el verbo; \"sobre, acerca de\""
+    }
+  },
+  "ent-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "beginning, coming out; or away, removing",
+      "tr": "başlama, ortaya çıkma; ya da uzaklaşma, giderme",
+      "de": "Beginn, Entstehen; oder weg, entfernen",
+      "fr": "début, apparition ; ou éloignement",
+      "it": "inizio, nascita; oppure via, togliere",
+      "es": "comienzo, surgimiento; o alejamiento"
+    }
+  },
+  "er-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "reaching a result; getting to know",
+      "tr": "bir sonuca ulaşma; öğrenme",
+      "de": "ein Ergebnis erreichen; erkennen",
+      "fr": "atteindre un résultat ; apprendre",
+      "it": "raggiungere un risultato; venire a sapere",
+      "es": "alcanzar un resultado; llegar a saber"
+    }
+  },
+  "ge-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "together; a result or collection (old prefix)",
+      "tr": "birlikte; sonuç ya da toplam (eski ön ek)",
+      "de": "zusammen; Ergebnis oder Sammlung (alte Vorsilbe)",
+      "fr": "ensemble ; résultat ou ensemble (ancien préfixe)",
+      "it": "insieme; risultato o insieme (prefisso antico)",
+      "es": "juntos; resultado o conjunto (prefijo antiguo)"
+    }
+  },
+  "auf-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "up, open; separable",
+      "tr": "yukarı, açık; ayrılabilir",
+      "de": "hinauf, offen; trennbar",
+      "fr": "vers le haut, ouvert ; séparable",
+      "it": "su, aperto; separabile",
+      "es": "hacia arriba, abierto; separable"
+    }
+  },
+  "ab-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "off, away, down; separable",
+      "tr": "-den ayrılma, uzağa, aşağı; ayrılabilir",
+      "de": "weg, herunter; trennbar",
+      "fr": "loin, en bas ; séparable",
+      "it": "via, giù; separabile",
+      "es": "fuera, abajo; separable"
+    }
+  },
+  "aus-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "out; separable",
+      "tr": "dışarı; ayrılabilir",
+      "de": "hinaus; trennbar",
+      "fr": "dehors ; séparable",
+      "it": "fuori; separabile",
+      "es": "fuera; separable"
+    }
+  },
+  "zu-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "to, toward; closed; separable",
+      "tr": "-e doğru; kapalı; ayrılabilir",
+      "de": "hin zu; geschlossen; trennbar",
+      "fr": "vers ; fermé ; séparable",
+      "it": "verso; chiuso; separabile",
+      "es": "hacia; cerrado; separable"
+    }
+  },
+  "gegen-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "against, opposite",
+      "tr": "karşı",
+      "de": "gegen, gegenüber",
+      "fr": "contre, en face",
+      "it": "contro, di fronte",
+      "es": "contra, enfrente"
+    }
+  },
+  "wider-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "against",
+      "tr": "karşı",
+      "de": "gegen",
+      "fr": "contre",
+      "it": "contro",
+      "es": "contra"
+    }
+  },
+  "um-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "around; changing",
+      "tr": "etrafında; değiştirme",
+      "de": "herum; verändern",
+      "fr": "autour ; changement",
+      "it": "intorno; cambiamento",
+      "es": "alrededor; cambio"
+    }
+  },
+  "-en": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "infinitive ending of a verb",
+      "tr": "fiilin mastar eki (-mek, -mak)",
+      "de": "Infinitivendung",
+      "fr": "terminaison de l'infinitif",
+      "it": "desinenza dell'infinito",
+      "es": "terminación del infinitivo"
+    }
+  },
+  "-er": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "person or thing that does (makes a noun)",
+      "tr": "yapan kişi ya da şey (-ci)",
+      "de": "Person oder Gerät, das etwas tut",
+      "fr": "personne ou objet qui fait",
+      "it": "persona o oggetto che fa",
+      "es": "persona o cosa que hace"
+    }
+  },
+  "-ung": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "act or result of (makes a feminine noun)",
+      "tr": "eylem ya da sonucu (dişil isim yapar)",
+      "de": "Handlung oder Ergebnis (macht ein weibliches Nomen)",
+      "fr": "action ou résultat (nom féminin)",
+      "it": "azione o risultato (nome femminile)",
+      "es": "acción o resultado (sustantivo femenino)"
+    }
+  },
+  "-nis": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "state or result (makes a noun)",
+      "tr": "durum ya da sonuç (isim yapar)",
+      "de": "Zustand oder Ergebnis (macht ein Nomen)",
+      "fr": "état ou résultat (nom)",
+      "it": "stato o risultato (nome)",
+      "es": "estado o resultado (sustantivo)"
+    }
+  },
+  "-lich": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "having the quality of, can be (makes an adjective)",
+      "tr": "-ilir, -lı (sıfat yapar)",
+      "de": "Eigenschaft, möglich (macht ein Adjektiv)",
+      "fr": "qui a la qualité de, -able (adjectif)",
+      "it": "che ha la qualità di, -bile (aggettivo)",
+      "es": "que tiene la cualidad de, -ble (adjetivo)"
+    }
+  },
+  "-e": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "makes a noun from a verb, often feminine",
+      "tr": "fiilden isim yapar, çoğu zaman dişil",
+      "de": "macht ein Nomen aus einem Verb, oft weiblich",
+      "fr": "forme un nom à partir d'un verbe",
+      "it": "forma un nome da un verbo",
+      "es": "forma un sustantivo a partir de un verbo"
+    }
+  },
+  "-t": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "makes a noun of action from a verb (Fahrt)",
+      "tr": "fiilden eylem ismi yapar (Fahrt)",
+      "de": "macht ein Handlungsnomen aus einem Verb (Fahrt)",
+      "fr": "forme un nom d'action (Fahrt)",
+      "it": "forma un nome d'azione (Fahrt)",
+      "es": "forma un sustantivo de acción (Fahrt)"
+    }
+  },
+  "-zeug": {
+    "kind": "suffix",
+    "combining": true,
+    "meaning": {
+      "en": "thing, tool (Zeug)",
+      "tr": "şey, alet (Zeug)",
+      "de": "Zeug, Gerät",
+      "fr": "chose, outil (Zeug)",
+      "it": "cosa, attrezzo (Zeug)",
+      "es": "cosa, utensilio (Zeug)"
+    }
+  },
+  "-rad": {
+    "kind": "suffix",
+    "combining": true,
+    "meaning": {
+      "en": "wheel (Rad)",
+      "tr": "tekerlek (Rad)",
+      "de": "Rad",
+      "fr": "roue (Rad)",
+      "it": "ruota (Rad)",
+      "es": "rueda (Rad)"
+    }
+  }
+}

@@ -3,8 +3,8 @@ import type { KeyValueStore } from './KeyValueStore';
 
 export type ThemeChoice = 'system' | 'light' | 'dark' | 'mono' | 'mono-dark';
 export type DerivationViewKind = 'list' | 'tree';
-/** The two halves of the app: word roots (part one of the plan) and object lists (part two). */
-export type Section = 'roots' | 'lists';
+/** The parts of the app: English word roots, object lists, and German word roots (stehen → verstehen). */
+export type Section = 'roots' | 'lists' | 'german';
 /** What the roots section's side list shows: roots, or the prefixes or suffixes words are built with. */
 export type BrowseMode = 'root' | 'prefix' | 'suffix';
 
@@ -87,7 +87,7 @@ export class SettingsStore {
       translationLangs: langs ?? defaults.translationLangs,
       theme: raw.theme === 'light' || raw.theme === 'dark' || raw.theme === 'mono' || raw.theme === 'mono-dark' || raw.theme === 'system' ? raw.theme : defaults.theme,
       derivationView: raw.derivationView === 'tree' ? 'tree' : 'list',
-      section: raw.section === 'lists' ? 'lists' : 'roots',
+      section: raw.section === 'lists' || raw.section === 'german' ? raw.section : 'roots',
       browseMode: raw.browseMode === 'prefix' || raw.browseMode === 'suffix' ? raw.browseMode : 'root',
       onboarded: raw.onboarded === true,
     };

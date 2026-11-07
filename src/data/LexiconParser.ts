@@ -1,6 +1,6 @@
 import { Affix, type AffixIndex, type AffixKind, type AffixOccurrence } from '../domain/Affix';
 import { BREAKDOWN_LANGS, EverydayObject, stripArticle, type CommonsImage, type ListSummary, type NamePart, type ObjectSummary, type WordList } from '../domain/EverydayObject';
-import { isLang, TRANSLATION_LANGUAGES, type Localized, type TranslationLang } from '../domain/Language';
+import { isLang, TRANSLATION_LANGUAGES, type Localized, type SourceLang, type TranslationLang } from '../domain/Language';
 import { Morpheme } from '../domain/Morpheme';
 import { Root, type Origin, type RootSummary } from '../domain/Root';
 import { Sentence } from '../domain/Sentence';
@@ -13,7 +13,7 @@ export class LexiconError extends Error {
   }
 }
 
-const ORIGINS: readonly Origin[] = ['la', 'gr'];
+const ORIGINS: readonly Origin[] = ['la', 'gr', 'de'];
 const PARTS_OF_SPEECH: readonly PartOfSpeech[] = ['verb', 'noun', 'adjective', 'adverb', 'preposition'];
 const AFFIX_KINDS: readonly AffixKind[] = ['prefix', 'suffix'];
 
@@ -31,23 +31,25 @@ export class LexiconParser {
       const where = `affixes.json › ${id}`;
       const entry = this.object(value, where);
       const kind = this.oneOf(entry.kind, AFFIX_KINDS, `${where} › kind`);
-      const shape = kind === 'prefix' ? /^[a-z]+(-[a-z]+)*-$/ : /^-[a-z]+(-[a-z]+)*$/;
+      // German affixes keep their umlauts and ß (über-, -schaft); English ones are plain a–z.
+      const shape = kind === 'prefix' ? /^[a-zäöüß]+(-[a-zäöüß]+)*-$/ : /^-[a-zäöüß]+(-[a-zäöüß]+)*$/;
       if (!shape.test(id)) throw new LexiconError(where, `a ${kind} id must look like ${kind === 'prefix' ? '"re-" or "in-not-"' : '"-ion" or "-ive-adj"'}`);
       const form = entry.form === undefined ? id.replace(/^-|-$/g, '') : this.string(entry.form, `${where} › form`);
-      if (!/^[a-z]+$/.test(form)) throw new LexiconError(where, `form "${form}" must be lowercase letters only; homograph ids need an explicit "form"`);
+      if (!/^[a-zäöüß]+$/.test(form)) throw new LexiconError(where, `form "${form}" must be lowercase letters only; homograph ids need an explicit "form"`);
       if (entry.combining !== undefined && typeof entry.combining !== 'boolean') throw new LexiconError(where, '"combining" must be true or false');
       affixes.set(id, new Affix(id, kind, this.localized(entry.meaning, `${where} › meaning`), form, entry.combining === true));
     }
     return affixes;
   }
 
-  parseRoot(raw: unknown, affixes: ReadonlyMap<string, Affix>): Root {
+  /** language: what the root's words are in; German words keep their capitals (Verstand) and German sentences lead. */
+  parseRoot(raw: unknown, affixes: ReadonlyMap<string, Affix>, language: SourceLang = 'en'): Root {
     const obj = this.object(raw, 'root');
     const id = this.string(obj.id, 'root › id');
     const where = `roots/${id}.json`;
     const forms = this.strings(obj.forms, `${where} › forms`);
     const words = this.array(obj.words, `${where} › words`).map((w, i) =>
-      this.parseWord(w, `${where} › words[${i}]`, forms, affixes),
+      this.parseWord(w, `${where} › words[${i}]`, forms, affixes, language),
     );
 
     const ids = new Set<string>();
@@ -68,6 +70,7 @@ export class LexiconParser {
       this.string(obj.etymon, `${where} › etymon`),
       this.localized(obj.meaning, `${where} › meaning`),
       words,
+      language,
     );
   }
 
@@ -194,18 +197,19 @@ export class LexiconParser {
   }
 
   /** Example sentences: English with exactly one [marked] word, plus translations. */
-  private sentences(raw: unknown, here: string): Sentence[] {
+  private sentences(raw: unknown, here: string, source: SourceLang = 'en'): Sentence[] {
+    const name = source === 'en' ? 'English' : 'German';
     return this.array(raw, `${here} › sentences`).map((s, i) => {
       const sw = `${here} › sentences[${i}]`;
-      const { en, ...rest } = this.localized(s, sw);
-      if (!en) throw new LexiconError(sw, 'an English sentence is required');
-      const sentence = new Sentence(en, rest);
-      if (sentence.highlighted.length !== 1) throw new LexiconError(sw, 'mark exactly one [word] in the English sentence');
+      const { [source]: marked, ...rest } = this.localized(s, sw);
+      if (!marked) throw new LexiconError(sw, `a ${name} sentence is required`);
+      const sentence = new Sentence(marked, rest, source);
+      if (sentence.highlighted.length !== 1) throw new LexiconError(sw, `mark exactly one [word] in the ${name} sentence`);
       return sentence;
     });
   }
 
-  private parseWord(raw: unknown, where: string, forms: readonly string[], affixes: ReadonlyMap<string, Affix>): Word {
+  private parseWord(raw: unknown, where: string, forms: readonly string[], affixes: ReadonlyMap<string, Affix>, language: SourceLang = 'en'): Word {
     const obj = this.object(raw, where);
     const id = this.string(obj.id, `${where} › id`);
     const here = `${where} (${id})`;
@@ -222,11 +226,15 @@ export class LexiconParser {
     if (!parts.some((p) => p.kind === 'root')) throw new LexiconError(here, 'parts must contain the root');
 
     const parent = obj.parent === null ? null : this.string(obj.parent, `${here} › parent`);
-    const sentences = this.sentences(obj.sentences, here);
+    const sentences = this.sentences(obj.sentences, here, language);
 
-    const word = new Word(id, this.oneOf(obj.pos, PARTS_OF_SPEECH, `${here} › pos`), parent, parts, this.localized(obj.gloss, `${here} › gloss`), sentences);
-    if (word.text !== id) throw new LexiconError(here, `parts spell "${word.text}", not "${id}"`);
-    return word;
+    // Parts are written in lower case; a German noun's capital comes from its id (ver + stand = Verstand).
+    const spelled = parts.map((p) => p.text).join('');
+    const sameLetters = language === 'de' ? spelled.toLowerCase() === id.toLowerCase() : spelled === id;
+    if (!sameLetters) throw new LexiconError(here, `parts spell "${spelled}", not "${id}"`);
+    let at = 0;
+    const respelled = parts.map((p) => p.respelled(id.slice(at, (at += p.text.length))));
+    return new Word(id, this.oneOf(obj.pos, PARTS_OF_SPEECH, `${here} › pos`), parent, respelled, this.localized(obj.gloss, `${here} › gloss`), sentences);
   }
 
   private object(value: unknown, where: string): Json {

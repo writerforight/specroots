@@ -1,4 +1,4 @@
-import type { Lang, Localized } from './Language';
+import type { Lang, Localized, SourceLang } from './Language';
 
 export interface TextSegment {
   readonly text: string;
@@ -6,23 +6,25 @@ export interface TextSegment {
 }
 
 /**
- * An English example sentence with translations. The source marks the target word with
- * square brackets ("The [inspector] came."); the brackets never reach the screen.
+ * An example sentence in the lexicon's language (English, or German) with translations. The source
+ * marks the target word with square brackets ("The [inspector] came."); the brackets never reach the screen.
  */
 export class Sentence {
-  readonly english: string;
+  /** The sentence as written, without the brackets. */
+  readonly text: string;
   readonly segments: readonly TextSegment[];
 
   constructor(
     marked: string,
     readonly translations: Localized,
+    readonly source: SourceLang = 'en',
   ) {
     this.segments = Sentence.split(marked);
-    this.english = this.segments.map((s) => s.text).join('');
+    this.text = this.segments.map((s) => s.text).join('');
   }
 
   translation(lang: Lang): string | undefined {
-    return lang === 'en' ? this.english : this.translations[lang];
+    return lang === this.source ? this.text : this.translations[lang];
   }
 
   get highlighted(): string[] {

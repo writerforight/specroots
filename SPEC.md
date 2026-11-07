@@ -66,6 +66,16 @@ seçilen dillerdeki karşılığı ve öğretici örnek cümleleri bir arada gö
 14. **Katkı (2026-10-18):** dışarıdan kök önerme ve düzeltme: issue formları (`new-root`, `mistake`),
     CONTRIBUTING.md (kök ekleme adımları, iyi örnek cümle ölçütü), her PR'da `npm run check`.
     README İngilizce (varsayılan) + Almanca + Türkçe.
+16. **Almanca kökler (2026-11-07, kullanıcı isteği):** İngilizcenin yanında Almanca kelimeler de kendi
+    kökleriyle öğretilir (karar 4'teki "İngilizce kaynak dil" bu bölüm için Almanca olur). Kökler Almancanın
+    kendi gövdeleridir (Latince değil): *steh-* → verstehen, Verstand, Gegenstand; *fahr-* → erfahren,
+    Fahrzeug. Aynı sitede üçüncü bölüm "Almanca kökler": başlangıç ekranında, bölüm düğmesinde
+    (Kelime kökleri · Almanca kökler · Nesne listeleri) ve "Başla" seçeneklerinde. Adresler `#/de`,
+    `#/de/<kök>/<kelime>`. Kelime kartında önce Almanca kısa tanım (DE), sonra İngilizce, sonra seçili
+    diller (Almanca seçiliyse tekrar etmez); cümle Almanca, altında aynı sırayla çeviriler; telaffuz
+    Almanca sesle. Arama bu bölümde yalnız Almanca kök ve kelimeleri bulur. İlk tur 4 kök, 42 kelime:
+    `steh`, `fahr`, `sprech`, `geb`. Almanca ek sayfası (ek → kelimeler) şimdilik yok; ekler kartta
+    anlamlarıyla düz metin. Büyütme: her kök kullanıcı onayıyla (karar 11 gibi).
 
 ## Mimari
 ```
@@ -83,6 +93,8 @@ src/styles/    tokens.css (renkler, yazı tipleri, ölçüler) + app.css (yalnı
 - Yeni türev görünümü: `DerivationView`'ı uygulayan bir sınıf yaz, `DERIVATION_VIEWS`'a kaydet.
 - Yeni tema/görünüm: `tokens.css`'teki değişkenleri değiştir; düzen için `app.css`.
 - Başka veri kaynağı: `LexiconRepository`'yi uygulayan yeni bir sınıf; arayüz değişmez.
+- Almanca sözlük aynı `JsonLexiconRepository` sınıfının ikinci örneğidir (`data/de/`, dil `de`); `Root.language`,
+  `Sentence.source` ve `glossLangs` / `sentenceLangs` (`Language.ts`) görünümlere hangi dilin kaynak olduğunu söyler.
 
 ## Veri biçimi
 - `public/data/affixes.json`: ek kataloğu. Kimlik tireyi taşır (`"re-"`, `"-ion"`), anlamı 6 dilde.
@@ -104,6 +116,12 @@ src/styles/    tokens.css (renkler, yazı tipleri, ölçüler) + app.css (yalnı
 - Aynı yazılışlı farklı ekler ayrı kimlik alır ve yazılışlarını `form` ile söyler:
   `"in-"` (içine, inspect) ve `"in-not-": { "form": "in", … }` (değil, incredible). Ek kimliği tireyle
   biter (ön ek) ya da başlar (son ek); `form` yalnızca küçük harftir.
+- `public/data/de/`: Almanca kökler, aynı düzen (`affixes.json`, `roots/<kök>.json`, `index.json`'u
+  `npm run data` üretir). Farklar: `origin` `"de"`, `etymon` mastar (`stehen`); `gloss.de` Almanca kısa
+  tanım, öbür 5 dil çeviri; cümlenin kaynağı `de` (`[hedef]` işaretli), çevirileri `tr, en, fr, it, es`.
+  `parts` küçük harfle yazılır; isimlerin büyük harfi kelime kimliğinden gelir (`Verstand` = `ver-` +
+  `stand`). Ayrılabilen fiiller cümlede bölünmeyen biçimle geçer (mastar ya da ortaç: `aufstehen`,
+  `abgefahren`); işaretli kelime kökün bir yazımını içerir. Ek kimliklerinde ä, ö, ü, ß olabilir.
 - Birleşik kelimelerde başka bir kökten gelen parça (photo·graph'taki *photo*, manu·script'teki *manu*)
   ön ek olarak kataloğa girer: `"photo-"`, `"manu-"`. Bir isim, sıfat ya da sayı gövdesi olan bu
   parçalar `"combining": true` taşır (`geo-`, `micro-`, `kilo-`, `-logy`, `-graphy`); edat, zarf ya

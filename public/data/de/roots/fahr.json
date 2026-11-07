@@ -1,0 +1,373 @@
+{
+  "id": "fahr",
+  "forms": [
+    "fahr",
+    "fähr"
+  ],
+  "origin": "de",
+  "etymon": "fahren",
+  "meaning": {
+    "en": "to go, to travel (by vehicle), to drive",
+    "tr": "(taşıtla) gitmek, sürmek",
+    "de": "sich mit einem Fahrzeug fortbewegen (fuhr, gefahren)",
+    "fr": "aller (en véhicule), conduire",
+    "it": "andare (con un veicolo), guidare",
+    "es": "ir (en vehículo), conducir"
+  },
+  "words": [
+    {
+      "id": "fahren",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "fahr",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to go (by vehicle); to drive",
+        "tr": "(taşıtla) gitmek; araba sürmek",
+        "de": "sich mit einem Fahrzeug bewegen; ein Fahrzeug lenken",
+        "fr": "aller (en véhicule) ; conduire",
+        "it": "andare (con un veicolo); guidare",
+        "es": "ir (en vehículo); conducir"
+      },
+      "sentences": [
+        {
+          "de": "Wir [fahren] morgen nach Köln.",
+          "tr": "Yarın Köln'e gidiyoruz.",
+          "en": "We are going to Cologne tomorrow.",
+          "fr": "Nous allons à Cologne demain.",
+          "it": "Domani andiamo a Colonia.",
+          "es": "Mañana vamos a Colonia."
+        },
+        {
+          "de": "Sie [fährt] jeden Tag mit dem Bus.",
+          "tr": "Her gün otobüsle gidiyor.",
+          "en": "She goes by bus every day.",
+          "fr": "Elle prend le bus tous les jours.",
+          "it": "Va in autobus ogni giorno.",
+          "es": "Va en autobús todos los días."
+        }
+      ]
+    },
+    {
+      "id": "Fahrer",
+      "pos": "noun",
+      "parent": "fahren",
+      "parts": [
+        "fahr",
+        "-er"
+      ],
+      "gloss": {
+        "en": "driver",
+        "tr": "sürücü, şoför",
+        "de": "jemand, der ein Fahrzeug lenkt",
+        "fr": "le conducteur, le chauffeur",
+        "it": "il conducente, l'autista",
+        "es": "el conductor"
+      },
+      "sentences": [
+        {
+          "de": "Der [Fahrer] hat den Bus gestoppt.",
+          "tr": "Şoför otobüsü durdurdu.",
+          "en": "The driver stopped the bus.",
+          "fr": "Le chauffeur a arrêté le bus.",
+          "it": "L'autista ha fermato l'autobus.",
+          "es": "El conductor paró el autobús."
+        },
+        {
+          "de": "Mein Vater ist ein vorsichtiger [Fahrer].",
+          "tr": "Babam dikkatli bir sürücü.",
+          "en": "My father is a careful driver.",
+          "fr": "Mon père est un conducteur prudent.",
+          "it": "Mio padre è un guidatore prudente.",
+          "es": "Mi padre es un conductor prudente."
+        }
+      ]
+    },
+    {
+      "id": "Fahrt",
+      "pos": "noun",
+      "parent": "fahren",
+      "parts": [
+        "fahr",
+        "-t"
+      ],
+      "gloss": {
+        "en": "journey, ride, trip",
+        "tr": "yolculuk, gidiş",
+        "de": "das Fahren von einem Ort zu einem anderen; die Reise",
+        "fr": "le trajet, le voyage",
+        "it": "il viaggio, il tragitto",
+        "es": "el viaje, el trayecto"
+      },
+      "sentences": [
+        {
+          "de": "Die [Fahrt] dauert zwei Stunden.",
+          "tr": "Yolculuk iki saat sürüyor.",
+          "en": "The journey takes two hours.",
+          "fr": "Le trajet dure deux heures.",
+          "it": "Il viaggio dura due ore.",
+          "es": "El viaje dura dos horas."
+        },
+        {
+          "de": "Gute [Fahrt]!",
+          "tr": "İyi yolculuklar!",
+          "en": "Have a good trip!",
+          "fr": "Bon voyage !",
+          "it": "Buon viaggio!",
+          "es": "¡Buen viaje!"
+        }
+      ]
+    },
+    {
+      "id": "Fahrzeug",
+      "pos": "noun",
+      "parent": "fahren",
+      "parts": [
+        "fahr",
+        "-zeug"
+      ],
+      "gloss": {
+        "en": "vehicle",
+        "tr": "taşıt, araç",
+        "de": "ein Gerät zum Fahren, z. B. Auto, Bus, Zug",
+        "fr": "le véhicule",
+        "it": "il veicolo",
+        "es": "el vehículo"
+      },
+      "sentences": [
+        {
+          "de": "Hier dürfen keine [Fahrzeuge] parken.",
+          "tr": "Burada araç park edilemez.",
+          "en": "No vehicles may park here.",
+          "fr": "Aucun véhicule ne peut stationner ici.",
+          "it": "Qui non possono parcheggiare veicoli.",
+          "es": "Aquí no pueden aparcar vehículos."
+        },
+        {
+          "de": "Das [Fahrzeug] hat vier Räder.",
+          "tr": "Aracın dört tekerleği var.",
+          "en": "The vehicle has four wheels.",
+          "fr": "Le véhicule a quatre roues.",
+          "it": "Il veicolo ha quattro ruote.",
+          "es": "El vehículo tiene cuatro ruedas."
+        }
+      ]
+    },
+    {
+      "id": "Fahrrad",
+      "pos": "noun",
+      "parent": "fahren",
+      "parts": [
+        "fahr",
+        "-rad"
+      ],
+      "gloss": {
+        "en": "bicycle",
+        "tr": "bisiklet",
+        "de": "ein Fahrzeug mit zwei Rädern und Pedalen",
+        "fr": "le vélo",
+        "it": "la bicicletta",
+        "es": "la bicicleta"
+      },
+      "sentences": [
+        {
+          "de": "Ich fahre mit dem [Fahrrad] zur Uni.",
+          "tr": "Üniversiteye bisikletle gidiyorum.",
+          "en": "I cycle to university.",
+          "fr": "Je vais à la fac à vélo.",
+          "it": "Vado all'università in bicicletta.",
+          "es": "Voy a la universidad en bicicleta."
+        },
+        {
+          "de": "Mein [Fahrrad] wurde gestohlen.",
+          "tr": "Bisikletim çalındı.",
+          "en": "My bike was stolen.",
+          "fr": "On m'a volé mon vélo.",
+          "it": "Mi hanno rubato la bicicletta.",
+          "es": "Me robaron la bicicleta."
+        }
+      ]
+    },
+    {
+      "id": "Fähre",
+      "pos": "noun",
+      "parent": "fahren",
+      "parts": [
+        "fähr",
+        "-e"
+      ],
+      "gloss": {
+        "en": "ferry",
+        "tr": "feribot, vapur",
+        "de": "ein Schiff, das Menschen und Autos über Wasser bringt",
+        "fr": "le ferry, le bac",
+        "it": "il traghetto",
+        "es": "el ferry, el transbordador"
+      },
+      "sentences": [
+        {
+          "de": "Wir nehmen die [Fähre] nach Dänemark.",
+          "tr": "Danimarka'ya feribotla gidiyoruz.",
+          "en": "We are taking the ferry to Denmark.",
+          "fr": "Nous prenons le ferry pour le Danemark.",
+          "it": "Prendiamo il traghetto per la Danimarca.",
+          "es": "Tomamos el ferry a Dinamarca."
+        },
+        {
+          "de": "Die [Fähre] fährt jede Stunde.",
+          "tr": "Feribot her saat kalkıyor.",
+          "en": "The ferry runs every hour.",
+          "fr": "Le ferry part toutes les heures.",
+          "it": "Il traghetto parte ogni ora.",
+          "es": "El ferry sale cada hora."
+        }
+      ]
+    },
+    {
+      "id": "abfahren",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ab-",
+        "fahr",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to depart, to leave",
+        "tr": "(taşıtla) hareket etmek, kalkmak",
+        "de": "einen Ort mit einem Fahrzeug verlassen",
+        "fr": "partir",
+        "it": "partire",
+        "es": "salir, partir"
+      },
+      "sentences": [
+        {
+          "de": "Der Zug ist schon [abgefahren].",
+          "tr": "Tren çoktan kalktı.",
+          "en": "The train has already left.",
+          "fr": "Le train est déjà parti.",
+          "it": "Il treno è già partito.",
+          "es": "El tren ya ha salido."
+        },
+        {
+          "de": "Wann wollt ihr [abfahren]?",
+          "tr": "Ne zaman yola çıkmak istiyorsunuz?",
+          "en": "When do you want to leave?",
+          "fr": "Quand voulez-vous partir ?",
+          "it": "Quando volete partire?",
+          "es": "¿Cuándo queréis salir?"
+        }
+      ]
+    },
+    {
+      "id": "Abfahrt",
+      "pos": "noun",
+      "parent": "abfahren",
+      "parts": [
+        "ab-",
+        "fahr",
+        "-t"
+      ],
+      "gloss": {
+        "en": "departure",
+        "tr": "kalkış, hareket",
+        "de": "der Moment, in dem ein Fahrzeug losfährt",
+        "fr": "le départ",
+        "it": "la partenza",
+        "es": "la salida"
+      },
+      "sentences": [
+        {
+          "de": "Die [Abfahrt] ist um 8:15 Uhr.",
+          "tr": "Kalkış 8.15'te.",
+          "en": "Departure is at 8:15.",
+          "fr": "Le départ est à 8 h 15.",
+          "it": "La partenza è alle 8:15.",
+          "es": "La salida es a las 8:15."
+        },
+        {
+          "de": "Kurz vor der [Abfahrt] kam er noch.",
+          "tr": "Kalkıştan hemen önce geldi.",
+          "en": "He arrived just before departure.",
+          "fr": "Il est arrivé juste avant le départ.",
+          "it": "È arrivato poco prima della partenza.",
+          "es": "Llegó justo antes de la salida."
+        }
+      ]
+    },
+    {
+      "id": "erfahren",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "er-",
+        "fahr",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to find out, to learn; to experience",
+        "tr": "öğrenmek, haber almak; yaşamak, deneyimlemek",
+        "de": "etwas Neues hören oder lesen; selbst erleben",
+        "fr": "apprendre ; vivre, éprouver",
+        "it": "venire a sapere; sperimentare",
+        "es": "enterarse; experimentar"
+      },
+      "sentences": [
+        {
+          "de": "Wie hast du das [erfahren]?",
+          "tr": "Bunu nasıl öğrendin?",
+          "en": "How did you find out?",
+          "fr": "Comment l'as-tu appris ?",
+          "it": "Come l'hai saputo?",
+          "es": "¿Cómo te enteraste?"
+        },
+        {
+          "de": "Sie ist eine [erfahrene] Ärztin.",
+          "tr": "O deneyimli bir doktor.",
+          "en": "She is an experienced doctor.",
+          "fr": "C'est une médecin expérimentée.",
+          "it": "È una dottoressa esperta.",
+          "es": "Es una médica con experiencia."
+        }
+      ]
+    },
+    {
+      "id": "Erfahrung",
+      "pos": "noun",
+      "parent": "erfahren",
+      "parts": [
+        "er-",
+        "fahr",
+        "-ung"
+      ],
+      "gloss": {
+        "en": "experience",
+        "tr": "deneyim, tecrübe",
+        "de": "Wissen, das man durch Erleben gewinnt; ein Erlebnis",
+        "fr": "l'expérience",
+        "it": "l'esperienza",
+        "es": "la experiencia"
+      },
+      "sentences": [
+        {
+          "de": "Hast du [Erfahrung] mit Kindern?",
+          "tr": "Çocuklarla deneyimin var mı?",
+          "en": "Do you have experience with children?",
+          "fr": "As-tu de l'expérience avec les enfants ?",
+          "it": "Hai esperienza con i bambini?",
+          "es": "¿Tienes experiencia con niños?"
+        },
+        {
+          "de": "Das war eine tolle [Erfahrung].",
+          "tr": "Harika bir deneyimdi.",
+          "en": "That was a great experience.",
+          "fr": "C'était une super expérience.",
+          "it": "È stata un'esperienza fantastica.",
+          "es": "Fue una experiencia genial."
+        }
+      ]
+    }
+  ]
+}

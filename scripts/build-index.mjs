@@ -1,3 +1,4 @@
+// Also public/data/de/index.json for the German roots.
 // Builds public/data/index.json (the alphabetical root list) and public/data/affix-index.json
 // (which words of which roots carry each prefix and suffix) from public/data/roots/*.json, and
 // public/data/objects-index.json + lists-index.json from public/data/objects/*.json and lists/*.json.
@@ -62,3 +63,11 @@ writeFileSync(join(dataDir, 'objects-index.json'), `[\n${objectLines.join(',\n')
 const listLines = lists.map(({ id, title, objects: ids }) => `  ${JSON.stringify({ id, title, count: ids.length })}`);
 writeFileSync(join(dataDir, 'lists-index.json'), `[\n${listLines.join(',\n')}\n]\n`);
 console.log(`objects-index.json: ${objects.length} objects; lists-index.json: ${lists.map((l) => `${l.id} ${l.objects.length}`).join(', ')}`);
+
+// German roots (SPEC decision 16): public/data/de/ has the same layout as public/data. Only the list
+// index is needed for now; German affixes have no pages of their own yet.
+const deDir = join(dataDir, 'de');
+const deRoots = readAll(join(deDir, 'roots')).sort((a, b) => a.forms[0].localeCompare(b.forms[0], 'de'));
+const deIndex = deRoots.map(({ id, forms, origin, meaning, words }) => ({ id, forms, origin, meaning, words: words.map((w) => w.id) }));
+writeFileSync(join(deDir, 'index.json'), JSON.stringify(deIndex, null, 2) + '\n');
+console.log(`de/index.json: ${deIndex.length} German roots, ${deIndex.reduce((n, r) => n + r.words.length, 0)} words`);

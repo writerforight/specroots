@@ -24,6 +24,8 @@ Wer eine Wurzel kennt, versteht Dutzende Wörter. *spec / spect* heißt „schau
 - **Übersetzungen**: Türkisch, Deutsch, Französisch, Italienisch und Spanisch, beim ersten Besuch frei wählbar
 - **Beispielsätze**: zwei kurze Sätze pro Wort, das Wort hervorgehoben, mit Übersetzung
 - **Nach Präfix oder Suffix stöbern**: *re-* oder *-ion* wählen und alle Wörter damit sehen, nach Wurzeln geordnet
+- **Deutsche Wurzeln**: dasselbe für Deutsch. Wähle *steh-* und sieh *verstehen*, *Verstand*,
+  *Gegenstand*, in Teile zerlegt, auf Deutsch, Englisch und in deinen Sprachen erklärt
 - **Aussprache** über die Stimmen deines Browsers, **Suche** nach Wurzel oder Wort
 - **Oberfläche in sechs Sprachen**, helles und dunkles Design, für Handy und Desktop
 

@@ -1,3 +1,4 @@
+import { sentenceLangs } from '../domain/Language';
 import type { Root } from '../domain/Root';
 import type { Word } from '../domain/Word';
 import type { DerivationViewKind } from '../services/SettingsStore';
@@ -49,7 +50,7 @@ export class DerivationTreeView implements DerivationView {
         h(
           'li',
           { class: 'tree-root', role: 'treeitem', 'aria-expanded': 'true' },
-          h('span', { class: 'tree-root-label', lang: 'en' }, root.forms.join(' / ')),
+          h('span', { class: 'tree-root-label', lang: root.language }, root.forms.join(' / ')),
           this.branch(root, root.baseWords),
         ),
       ),
@@ -63,7 +64,8 @@ export class DerivationTreeView implements DerivationView {
 
   private node(root: Root, word: Word): HTMLElement {
     const children = root.childrenOf(word);
-    const gloss = this.ctx.settings.translationLangs.map((l) => word.gloss[l]).find((g) => g !== undefined) ?? word.gloss.en;
+    // A translation, never the word's own-language definition: Turkish for verstehen, not German.
+    const gloss = sentenceLangs(root.language, this.ctx.settings.translationLangs).map((l) => word.gloss[l]).find((g) => g !== undefined) ?? word.gloss.en;
     return h(
       'li',
       { role: 'treeitem' },

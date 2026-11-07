@@ -105,8 +105,9 @@ button, input, select { font: inherit; color: inherit; }
 }
 
 /* ---------- side list: roots, prefixes or suffixes ---------- */
-.segmented.section-switch { display: flex; margin: 0 4px 10px; }
-.segmented.section-switch button { flex: 1; min-width: 0; padding: 6px 8px; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+/* Three sections share the narrow column: labels wrap onto two lines instead of being cut off. */
+.segmented.section-switch { display: flex; align-items: stretch; margin: 0 4px 10px; border-radius: 14px; }
+.segmented.section-switch button { flex: 1 1 0; min-width: min-content; padding: 6px 5px; border-radius: 11px; font-size: 0.8rem; font-weight: 600; line-height: 1.2; white-space: normal; }
 .segmented.browse-switch { display: flex; margin: 0 4px 4px; }
 .segmented.browse-switch button { flex: 1; min-width: 0; padding: 4px 6px; font-size: 0.9rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .list-count { font-size: 0.8rem; color: var(--text-muted); }

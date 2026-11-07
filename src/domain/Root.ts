@@ -1,7 +1,8 @@
-import type { Localized } from './Language';
+import type { Localized, SourceLang } from './Language';
 import type { Formation, Word } from './Word';
 
-export type Origin = 'la' | 'gr';
+/** Latin, Greek, or a German stem (stehen, fahren) for the German lexicon. */
+export type Origin = 'la' | 'gr' | 'de';
 
 /** The lightweight entry shown in the alphabetical list; the full root loads on demand. */
 export interface RootSummary {
@@ -14,7 +15,7 @@ export interface RootSummary {
 
 export const FORMATION_ORDER: readonly Formation[] = ['bare', 'prefix', 'suffix', 'both'];
 
-/** A Latin or Greek root with every English word built on it. */
+/** A root with every word built on it: Latin or Greek with English words, or a German stem with German words. */
 export class Root {
   private readonly byId: ReadonlyMap<string, Word>;
 
@@ -26,6 +27,8 @@ export class Root {
     readonly etymon: string,
     readonly meaning: Localized,
     readonly words: readonly Word[],
+    /** The language its words are in. */
+    readonly language: SourceLang = 'en',
   ) {
     this.byId = new Map(words.map((w) => [w.id, w]));
   }

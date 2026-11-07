@@ -34,6 +34,8 @@ spec / spect  "to look"
 - **Example sentences**: two short sentences per word, the word highlighted, with translations
 - **Pronunciation**: words and sentences read aloud by your browser's own voices
 - **Browse by prefix or suffix**: pick *re-* or *-ion* and see every word built with it, root by root
+- **German roots**: the same idea for German. Pick *steh-* (to stand) and see *verstehen*, *Verstand*,
+  *Gegenstand*, each split into parts, explained in German, English and your languages
 - **Search**: type a root or a word (`inspection`) and jump straight to it
 - **Six interface languages**, light and dark theme, works on phone and desktop
 

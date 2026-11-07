@@ -9,15 +9,16 @@ export class RootListView {
 
   constructor(private readonly i18n: I18n) {}
 
-  render(roots: readonly RootSummary[], selectedId: string | null): void {
+  /** href: where a root leads; German roots open under #/de. */
+  render(roots: readonly RootSummary[], selectedId: string | null, href: (rootId: string) => string = rootHref): void {
     const lang = this.i18n.language;
     clear(this.el);
     this.el.append(
       ...letterGroups(roots, (root) => root.forms[0] ?? root.id, (root) =>
         h(
           'a',
-          { class: 'root-link', href: rootHref(root.id), 'aria-current': root.id === selectedId ? 'page' : null },
-          h('span', { class: 'root-forms', lang: 'en' }, root.forms.join(', ')),
+          { class: 'root-link', href: href(root.id), 'aria-current': root.id === selectedId ? 'page' : null },
+          h('span', { class: 'root-forms', lang: root.origin === 'de' ? 'de' : 'en' }, root.forms.join(', ')),
           h('span', { class: 'root-meaning' }, root.meaning[lang] ?? root.meaning.en ?? ''),
           h('span', { class: 'root-count' }, String(root.words.length)),
         ),

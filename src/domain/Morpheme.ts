@@ -17,4 +17,9 @@ export class Morpheme {
   static ofRoot(form: string): Morpheme {
     return new Morpheme(form, 'root', null);
   }
+
+  /** The same piece spelled as it appears in one word: German nouns start with a capital (Ver·stand). */
+  respelled(text: string): Morpheme {
+    return new Morpheme(text, this.kind, this.affix);
+  }
 }

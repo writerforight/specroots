@@ -17,27 +17,41 @@ export interface SearchHit {
   readonly matched?: string;
   /** Set when the hit is a word list, found by its title in any language ("mutfak"). */
   readonly listId?: string;
+  /** Set when the root or word is German (stehen, verstehen) rather than English. */
+  readonly german?: boolean;
 }
+
+type Scope = 'roots' | 'lists' | 'german';
 
 interface Entry extends SearchHit {
   readonly key: string;
+  readonly scope: Scope;
 }
 
 /** Finds roots, words, affixes, objects and lists by what the learner types; prefix matches rank before inner matches. */
 export class SearchIndex {
   private readonly entries: Entry[];
 
-  constructor(roots: readonly RootSummary[], affixes: Iterable<Affix> = [], objects: readonly ObjectSummary[] = [], lists: readonly ListSummary[] = []) {
-    this.entries = [
-      ...roots.flatMap((root) => [
-        ...root.forms.map((form) => ({ key: SearchIndex.normalize(form), label: form, rootId: root.id, wordId: null, affix: null })),
-        ...root.words.map((word) => ({ key: SearchIndex.normalize(word), label: word, rootId: root.id, wordId: word, affix: null })),
-      ]),
+  constructor(
+    roots: readonly RootSummary[],
+    affixes: Iterable<Affix> = [],
+    objects: readonly ObjectSummary[] = [],
+    lists: readonly ListSummary[] = [],
+    germanRoots: readonly RootSummary[] = [],
+  ) {
+    const rootEntries = (summaries: readonly RootSummary[], scope: Scope) =>
+      summaries.flatMap((root) => [
+        ...root.forms.map((form) => ({ key: SearchIndex.normalize(form), label: form, rootId: root.id, wordId: null, affix: null, scope })),
+        ...root.words.map((word) => ({ key: SearchIndex.normalize(word), label: word, rootId: root.id, wordId: word, affix: null, scope })),
+      ]);
+    const tagged: Entry[] = [
+      ...rootEntries(roots, 'roots'),
+      ...rootEntries(germanRoots, 'german').map((e) => ({ ...e, german: true })),
       // Keyed with the dash, so "re-" and "-ion" find the affix first and "re" still finds words.
-      ...[...affixes].map((affix) => ({ key: affix.label, label: affix.label, rootId: null, wordId: null, affix })),
+      ...[...affixes].map((affix) => ({ key: affix.label, label: affix.label, rootId: null, wordId: null, affix, scope: 'roots' as const })),
       // Objects are found by every name, without the article: "kreide" and "tebeşir" both find chalk.
       ...objects.flatMap((object) => {
-        const base = { label: object.name, rootId: null, wordId: null, affix: null, objectId: object.id };
+        const base = { label: object.name, rootId: null, wordId: null, affix: null, objectId: object.id, scope: 'lists' as const };
         const translations = [...new Set(Object.values(object.names))].map((name) => ({ ...base, key: SearchIndex.normalize(stripArticle(name)), matched: name }));
         return [{ ...base, key: SearchIndex.normalize(object.name) }, ...translations];
       }),
@@ -50,16 +64,21 @@ export class SearchIndex {
           affix: null,
           listId: list.id,
           matched: title,
+          scope: 'lists' as const,
         })),
       ),
     ];
+    this.entries = tagged;
   }
 
-  /** scope "roots" finds only roots, words and affixes; "lists" only objects and lists; omitted finds everything. */
-  search(query: string, limit = 8, scope?: 'roots' | 'lists'): SearchHit[] {
+  /**
+   * scope "roots" finds only English roots, words and affixes; "german" only German roots and words;
+   * "lists" only objects and lists; omitted finds everything.
+   */
+  search(query: string, limit = 8, scope?: Scope): SearchHit[] {
     const q = SearchIndex.normalize(query);
     if (q.length === 0) return [];
-    const pool = scope ? this.entries.filter((e) => Boolean(e.objectId || e.listId) === (scope === 'lists')) : this.entries;
+    const pool = scope ? this.entries.filter((e) => e.scope === scope) : this.entries;
     const starts = pool.filter((e) => e.key.startsWith(q));
     const contains = pool.filter((e) => !e.key.startsWith(q) && e.key.includes(q));
     const byLength = (a: Entry, b: Entry) => a.key.length - b.key.length || a.key.localeCompare(b.key);
@@ -71,7 +90,7 @@ export class SearchIndex {
         return !id || (!seen.has(id) && Boolean(seen.add(id)));
       })
       .slice(0, limit)
-      .map(({ key: _key, ...hit }) => hit);
+      .map(({ key: _key, scope: _scope, ...hit }) => hit);
   }
 
   /** Kept for callers of the old name; see stripArticle in the domain. */

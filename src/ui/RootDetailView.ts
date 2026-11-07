@@ -7,6 +7,7 @@ import { clear, h } from './dom';
 import { DERIVATION_VIEWS } from './derivations';
 import { ListPageView } from './ListPageView';
 import { ObjectCardView } from './ObjectCardView';
+import { SECTION_HOME } from './routes';
 import type { ViewContext } from './ViewContext';
 
 /** The right-hand pane: one root with its word family, one affix with the words built with it, or one object. */
@@ -15,7 +16,7 @@ export class RootDetailView {
 
   constructor(private readonly onViewChange: (kind: DerivationViewKind) => void) {}
 
-  /** The first screen: roots or objects. */
+  /** The first screen: English roots, German roots or objects. */
   showStart(ctx: ViewContext): void {
     clear(this.el);
     this.el.append(
@@ -26,8 +27,9 @@ export class RootDetailView {
         h(
           'div',
           { class: 'start-choices' },
-          h('a', { class: 'start-choice', href: '#/roots' }, ctx.i18n.t('section_roots')),
-          h('a', { class: 'start-choice', href: '#/lists' }, ctx.i18n.t('section_lists')),
+          h('a', { class: 'start-choice', href: SECTION_HOME.roots }, ctx.i18n.t('section_roots')),
+          h('a', { class: 'start-choice', href: SECTION_HOME.german }, ctx.i18n.t('section_german')),
+          h('a', { class: 'start-choice', href: SECTION_HOME.lists }, ctx.i18n.t('section_lists')),
         ),
       ),
     );
@@ -36,7 +38,7 @@ export class RootDetailView {
   showEmpty(ctx: ViewContext): void {
     clear(this.el);
     const { section, browseMode } = ctx.settings;
-    const hint = section === 'lists' ? 'chooseList' : browseMode === 'root' ? 'chooseRoot' : 'chooseAffix';
+    const hint = section === 'lists' ? 'chooseList' : section === 'german' || browseMode === 'root' ? 'chooseRoot' : 'chooseAffix';
     this.el.append(h('p', { class: 'empty-state' }, ctx.i18n.t(hint)));
   }
 
@@ -71,15 +73,17 @@ export class RootDetailView {
     const meanings = [lang, ...settings.translationLangs.filter((l) => l !== lang)]
       .map((l) => root.meaning[l])
       .filter((m): m is string => m !== undefined);
+    const own = root.meaning[root.language];
 
     clear(this.el);
     this.el.append(
-      h('a', { class: 'back-link', href: '#/roots' }, `← ${i18n.t('back')}`),
+      h('a', { class: 'back-link', href: root.language === 'de' ? SECTION_HOME.german : SECTION_HOME.roots }, `← ${i18n.t('back')}`),
       h(
         'header',
         { class: 'root-head' },
-        h('h1', { class: 'root-title', lang: 'en' }, root.forms.join(' · ')),
-        h('p', { class: 'root-gloss' }, root.meaning.en ? h('span', { lang: 'en' }, root.meaning.en) : null, ...meanings.filter((m) => m !== root.meaning.en).map((m) => h('span', {}, m))),
+        h('h1', { class: 'root-title', lang: root.language }, root.forms.join(' · ')),
+        // The meaning in the root's own language leads: "to look" for spec, "stehen, aufrecht sein" for steh.
+        h('p', { class: 'root-gloss' }, own ? h('span', { lang: root.language }, own) : null, ...meanings.filter((m) => m !== own).map((m) => h('span', {}, m))),
         h(
           'p',
           { class: 'root-meta' },
@@ -95,10 +99,11 @@ export class RootDetailView {
     else this.el.scrollTo?.({ top: 0 });
   }
 
-  /** "from Latin specere" with the Latin word in italics, wherever the language puts it. */
+  /** "from Latin specere" (or "German stehen") with the source word in italics, wherever the language puts it. */
   private etymonLine(ctx: ViewContext, root: Root): (HTMLElement | string)[] {
     const marker = '\u0000';
-    const [before = '', after = ''] = ctx.i18n.t(root.origin === 'la' ? 'fromLatin' : 'fromGreek', { etymon: marker }).split(marker);
+    const key = root.origin === 'la' ? 'fromLatin' : root.origin === 'gr' ? 'fromGreek' : 'fromGerman';
+    const [before = '', after = ''] = ctx.i18n.t(key, { etymon: marker }).split(marker);
     return [before, h('i', { lang: root.origin }, root.etymon), after];
   }
 
