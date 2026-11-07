@@ -1,0 +1,234 @@
+{
+  "id": "sed",
+  "forms": [
+    "sed",
+    "sid",
+    "sess"
+  ],
+  "origin": "la",
+  "etymon": "sedere",
+  "meaning": {
+    "en": "to sit",
+    "tr": "oturmak",
+    "de": "sitzen",
+    "fr": "s'asseoir, être assis",
+    "it": "sedere",
+    "es": "sentarse, estar sentado"
+  },
+  "words": [
+    {
+      "id": "assess",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "as-",
+        "sess"
+      ],
+      "gloss": {
+        "en": "to judge the size, value or quality of something; literally: to sit beside (a judge setting a tax)",
+        "tr": "değerlendirmek, değer biçmek",
+        "de": "einschätzen, beurteilen",
+        "fr": "évaluer, estimer",
+        "it": "valutare, stimare",
+        "es": "evaluar, valorar"
+      },
+      "sentences": [
+        {
+          "en": "The doctor will [assess] the damage first.",
+          "tr": "Doktor önce hasarı değerlendirecek.",
+          "de": "Die Ärztin wird zuerst den Schaden einschätzen.",
+          "fr": "Le médecin évaluera d'abord les dégâts.",
+          "it": "Il medico valuterà prima il danno.",
+          "es": "El médico evaluará primero el daño."
+        },
+        {
+          "en": "It is hard to [assess] a new idea quickly.",
+          "tr": "Yeni bir fikri çabucak değerlendirmek zor.",
+          "de": "Es ist schwer, eine neue Idee schnell zu beurteilen.",
+          "fr": "Il est difficile d'évaluer rapidement une nouvelle idée.",
+          "it": "È difficile valutare in fretta una nuova idea.",
+          "es": "Es difícil evaluar rápido una idea nueva."
+        }
+      ]
+    },
+    {
+      "id": "assessment",
+      "pos": "noun",
+      "parent": "assess",
+      "parts": [
+        "as-",
+        "sess",
+        "-ment"
+      ],
+      "gloss": {
+        "en": "a careful judgment of how good, big or serious something is",
+        "tr": "değerlendirme",
+        "de": "die Einschätzung, die Beurteilung",
+        "fr": "l'évaluation, l'estimation",
+        "it": "la valutazione",
+        "es": "la evaluación, la valoración"
+      },
+      "sentences": [
+        {
+          "en": "Her [assessment] of the situation was clear.",
+          "tr": "Durum hakkındaki değerlendirmesi netti.",
+          "de": "Ihre Einschätzung der Lage war klar.",
+          "fr": "Son évaluation de la situation était claire.",
+          "it": "La sua valutazione della situazione era chiara.",
+          "es": "Su valoración de la situación fue clara."
+        },
+        {
+          "en": "The final [assessment] is next Friday.",
+          "tr": "Son değerlendirme gelecek cuma.",
+          "de": "Die abschließende Beurteilung ist nächsten Freitag.",
+          "fr": "L'évaluation finale a lieu vendredi prochain.",
+          "it": "La valutazione finale è venerdì prossimo.",
+          "es": "La evaluación final es el próximo viernes."
+        }
+      ]
+    },
+    {
+      "id": "assessor",
+      "pos": "noun",
+      "parent": "assess",
+      "parts": [
+        "as-",
+        "sess",
+        "-or"
+      ],
+      "gloss": {
+        "en": "a person whose job is to judge the value, damage or quality of something",
+        "tr": "eksper, değerlendirici",
+        "de": "der Gutachter",
+        "fr": "l'expert, l'évaluateur",
+        "it": "il perito, il valutatore",
+        "es": "el tasador, el evaluador"
+      },
+      "sentences": [
+        {
+          "en": "An [assessor] came to see the damaged roof.",
+          "tr": "Hasarlı çatıyı görmek için bir eksper geldi.",
+          "de": "Ein Gutachter kam, um das beschädigte Dach anzusehen.",
+          "fr": "Un expert est venu voir le toit endommagé.",
+          "it": "Un perito è venuto a vedere il tetto danneggiato.",
+          "es": "Un tasador vino a ver el tejado dañado."
+        },
+        {
+          "en": "The [assessor] set the value of the land.",
+          "tr": "Eksper arazinin değerini belirledi.",
+          "de": "Der Gutachter legte den Wert des Grundstücks fest.",
+          "fr": "L'expert a fixé la valeur du terrain.",
+          "it": "Il perito ha stabilito il valore del terreno.",
+          "es": "El tasador fijó el valor del terreno."
+        }
+      ]
+    },
+    {
+      "id": "session",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "sess",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a period of time used for one activity; literally: a sitting",
+        "tr": "oturum, seans",
+        "de": "die Sitzung, die Einheit",
+        "fr": "la séance, la session",
+        "it": "la sessione, la seduta",
+        "es": "la sesión"
+      },
+      "sentences": [
+        {
+          "en": "Our study [session] lasted two hours.",
+          "tr": "Çalışma oturumumuz iki saat sürdü.",
+          "de": "Unsere Lernsitzung dauerte zwei Stunden.",
+          "fr": "Notre séance de travail a duré deux heures.",
+          "it": "La nostra sessione di studio è durata due ore.",
+          "es": "Nuestra sesión de estudio duró dos horas."
+        },
+        {
+          "en": "The court is in [session] today.",
+          "tr": "Mahkeme bugün oturumda.",
+          "de": "Das Gericht tagt heute.",
+          "fr": "Le tribunal siège aujourd'hui.",
+          "it": "Il tribunale è in seduta oggi.",
+          "es": "El tribunal está en sesión hoy."
+        }
+      ]
+    },
+    {
+      "id": "president",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "pre-",
+        "sid",
+        "-ent"
+      ],
+      "gloss": {
+        "en": "the person who leads a country or a group; literally: one who sits in front",
+        "tr": "başkan, cumhurbaşkanı",
+        "de": "der Präsident, die Präsidentin",
+        "fr": "le président, la présidente",
+        "it": "il presidente, la presidente",
+        "es": "el presidente, la presidenta"
+      },
+      "sentences": [
+        {
+          "en": "The [president] spoke to the nation on TV.",
+          "tr": "Cumhurbaşkanı televizyonda millete seslendi.",
+          "de": "Der Präsident sprach im Fernsehen zur Nation.",
+          "fr": "Le président s'est adressé à la nation à la télévision.",
+          "it": "Il presidente ha parlato alla nazione in televisione.",
+          "es": "El presidente habló a la nación por televisión."
+        },
+        {
+          "en": "She became [president] of the chess club.",
+          "tr": "Satranç kulübünün başkanı oldu.",
+          "de": "Sie wurde Präsidentin des Schachclubs.",
+          "fr": "Elle est devenue présidente du club d'échecs.",
+          "it": "È diventata presidente del club di scacchi.",
+          "es": "Se convirtió en presidenta del club de ajedrez."
+        }
+      ]
+    },
+    {
+      "id": "resident",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "re-",
+        "sid",
+        "-ent"
+      ],
+      "gloss": {
+        "en": "a person who lives in a place; literally: one who sits down and stays",
+        "tr": "sakin",
+        "de": "der Einwohner, der Bewohner",
+        "fr": "l'habitant, le résident",
+        "it": "il residente, l'abitante",
+        "es": "el residente, el habitante"
+      },
+      "sentences": [
+        {
+          "en": "Every [resident] got a letter from the city.",
+          "tr": "Her sakine şehirden bir mektup geldi.",
+          "de": "Jeder Einwohner bekam einen Brief von der Stadt.",
+          "fr": "Chaque habitant a reçu une lettre de la ville.",
+          "it": "Ogni residente ha ricevuto una lettera dal comune.",
+          "es": "Cada residente recibió una carta del ayuntamiento."
+        },
+        {
+          "en": "The [residents] of this street want a new park.",
+          "tr": "Bu sokağın sakinleri yeni bir park istiyor.",
+          "de": "Die Bewohner dieser Straße wollen einen neuen Park.",
+          "fr": "Les habitants de cette rue veulent un nouveau parc.",
+          "it": "Gli abitanti di questa strada vogliono un nuovo parco.",
+          "es": "Los vecinos de esta calle quieren un parque nuevo."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "id": "val",
+  "forms": [
+    "val",
+    "valu",
+    "value"
+  ],
+  "origin": "la",
+  "etymon": "valere",
+  "meaning": {
+    "en": "to be worth, to be strong",
+    "tr": "değerli olmak, güçlü olmak",
+    "de": "wert sein, stark sein",
+    "fr": "valoir, être fort",
+    "it": "valere, essere forte",
+    "es": "valer, ser fuerte"
+  },
+  "words": [
+    {
+      "id": "value",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "value"
+      ],
+      "gloss": {
+        "en": "how much something is worth or how important it is",
+        "tr": "değer",
+        "de": "der Wert",
+        "fr": "la valeur",
+        "it": "il valore",
+        "es": "el valor"
+      },
+      "sentences": [
+        {
+          "en": "The [value] of the house went up last year.",
+          "tr": "Evin değeri geçen yıl arttı.",
+          "de": "Der Wert des Hauses ist letztes Jahr gestiegen.",
+          "fr": "La valeur de la maison a augmenté l'an dernier.",
+          "it": "Il valore della casa è aumentato l'anno scorso.",
+          "es": "El valor de la casa subió el año pasado."
+        },
+        {
+          "en": "Honesty is a [value] I teach my children.",
+          "tr": "Dürüstlük çocuklarıma öğrettiğim bir değerdir.",
+          "de": "Ehrlichkeit ist ein Wert, den ich meinen Kindern beibringe.",
+          "fr": "L'honnêteté est une valeur que j'enseigne à mes enfants.",
+          "it": "L'onestà è un valore che insegno ai miei figli.",
+          "es": "La honradez es un valor que enseño a mis hijos."
+        }
+      ]
+    },
+    {
+      "id": "valuable",
+      "pos": "adjective",
+      "parent": "value",
+      "parts": [
+        "valu",
+        "-able"
+      ],
+      "gloss": {
+        "en": "worth a lot of money or very useful",
+        "tr": "değerli, kıymetli",
+        "de": "wertvoll",
+        "fr": "précieux, de valeur",
+        "it": "prezioso, di valore",
+        "es": "valioso"
+      },
+      "sentences": [
+        {
+          "en": "This old coin is very [valuable].",
+          "tr": "Bu eski para çok değerli.",
+          "de": "Diese alte Münze ist sehr wertvoll.",
+          "fr": "Cette vieille pièce est très précieuse.",
+          "it": "Questa vecchia moneta è molto preziosa.",
+          "es": "Esta moneda antigua es muy valiosa."
+        },
+        {
+          "en": "Her advice was [valuable] to me.",
+          "tr": "Tavsiyesi benim için çok değerliydi.",
+          "de": "Ihr Rat war für mich wertvoll.",
+          "fr": "Son conseil m'a été très précieux.",
+          "it": "Il suo consiglio è stato prezioso per me.",
+          "es": "Su consejo fue valioso para mí."
+        }
+      ]
+    },
+    {
+      "id": "evaluate",
+      "pos": "verb",
+      "parent": "value",
+      "parts": [
+        "e-",
+        "val",
+        "-uate"
+      ],
+      "gloss": {
+        "en": "to judge how good, useful or valuable something is; literally: to draw out the worth",
+        "tr": "değerlendirmek",
+        "de": "bewerten, auswerten",
+        "fr": "évaluer",
+        "it": "valutare",
+        "es": "evaluar"
+      },
+      "sentences": [
+        {
+          "en": "Teachers [evaluate] each student's progress.",
+          "tr": "Öğretmenler her öğrencinin ilerlemesini değerlendirir.",
+          "de": "Lehrer bewerten die Fortschritte jedes Schülers.",
+          "fr": "Les enseignants évaluent les progrès de chaque élève.",
+          "it": "Gli insegnanti valutano i progressi di ogni studente.",
+          "es": "Los profesores evalúan el progreso de cada estudiante."
+        },
+        {
+          "en": "We need to [evaluate] the risks first.",
+          "tr": "Önce riskleri değerlendirmemiz gerekiyor.",
+          "de": "Wir müssen zuerst die Risiken bewerten.",
+          "fr": "Nous devons d'abord évaluer les risques.",
+          "it": "Dobbiamo prima valutare i rischi.",
+          "es": "Primero tenemos que evaluar los riesgos."
+        }
+      ]
+    },
+    {
+      "id": "evaluation",
+      "pos": "noun",
+      "parent": "evaluate",
+      "parts": [
+        "e-",
+        "val",
+        "-uation"
+      ],
+      "gloss": {
+        "en": "a judgment of how good or valuable something is, based on criteria",
+        "tr": "değerlendirme",
+        "de": "die Bewertung, die Auswertung",
+        "fr": "l'évaluation",
+        "it": "la valutazione",
+        "es": "la evaluación"
+      },
+      "sentences": [
+        {
+          "en": "The teacher wrote a fair [evaluation] of my essay.",
+          "tr": "Öğretmen kompozisyonum hakkında adil bir değerlendirme yazdı.",
+          "de": "Die Lehrerin schrieb eine faire Bewertung meines Aufsatzes.",
+          "fr": "La professeure a écrit une évaluation juste de ma rédaction.",
+          "it": "L'insegnante ha scritto una valutazione giusta del mio tema.",
+          "es": "La profesora escribió una evaluación justa de mi redacción."
+        },
+        {
+          "en": "After the [evaluation], they changed the plan.",
+          "tr": "Değerlendirmeden sonra planı değiştirdiler.",
+          "de": "Nach der Bewertung änderten sie den Plan.",
+          "fr": "Après l'évaluation, ils ont changé le plan.",
+          "it": "Dopo la valutazione hanno cambiato il piano.",
+          "es": "Tras la evaluación, cambiaron el plan."
+        }
+      ]
+    },
+    {
+      "id": "valid",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "val",
+        "-id"
+      ],
+      "gloss": {
+        "en": "correct, acceptable or still in force; literally: strong",
+        "tr": "geçerli, sağlam",
+        "de": "gültig",
+        "fr": "valable, valide",
+        "it": "valido",
+        "es": "válido"
+      },
+      "sentences": [
+        {
+          "en": "Your ticket is [valid] for two hours.",
+          "tr": "Biletin iki saat geçerli.",
+          "de": "Dein Ticket ist zwei Stunden gültig.",
+          "fr": "Ton billet est valable deux heures.",
+          "it": "Il tuo biglietto è valido per due ore.",
+          "es": "Tu billete es válido durante dos horas."
+        },
+        {
+          "en": "That is a [valid] reason to be late.",
+          "tr": "Bu, geç kalmak için geçerli bir neden.",
+          "de": "Das ist ein berechtigter Grund, zu spät zu kommen.",
+          "fr": "C'est une raison valable d'être en retard.",
+          "it": "È un motivo valido per essere in ritardo.",
+          "es": "Es una razón válida para llegar tarde."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "id": "crit",
+  "forms": [
+    "crit",
+    "critique",
+    "criter",
+    "criteria"
+  ],
+  "origin": "gr",
+  "etymon": "krinein",
+  "meaning": {
+    "en": "to separate, to judge",
+    "tr": "ayırmak, yargılamak",
+    "de": "trennen, beurteilen",
+    "fr": "séparer, juger",
+    "it": "separare, giudicare",
+    "es": "separar, juzgar"
+  },
+  "words": [
+    {
+      "id": "critic",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "crit",
+        "-ic"
+      ],
+      "gloss": {
+        "en": "a person who judges and comments on books, films, art or plans",
+        "tr": "eleştirmen",
+        "de": "der Kritiker, die Kritikerin",
+        "fr": "le critique, la critique",
+        "it": "il critico, la critica",
+        "es": "el crítico, la crítica"
+      },
+      "sentences": [
+        {
+          "en": "The film [critic] gave the movie four stars.",
+          "tr": "Film eleştirmeni filme dört yıldız verdi.",
+          "de": "Der Filmkritiker gab dem Film vier Sterne.",
+          "fr": "Le critique de cinéma a donné quatre étoiles au film.",
+          "it": "Il critico cinematografico ha dato al film quattro stelle.",
+          "es": "El crítico de cine le dio cuatro estrellas a la película."
+        },
+        {
+          "en": "She is her own harshest [critic].",
+          "tr": "O, kendisinin en sert eleştirmeni.",
+          "de": "Sie ist ihre eigene strengste Kritikerin.",
+          "fr": "Elle est sa propre critique la plus sévère.",
+          "it": "È la sua più severa critica.",
+          "es": "Ella es su crítica más severa."
+        }
+      ]
+    },
+    {
+      "id": "critique",
+      "pos": "noun",
+      "parent": "critic",
+      "parts": [
+        "critique"
+      ],
+      "gloss": {
+        "en": "a detailed judgment of a work or idea, giving your own reasons and criteria",
+        "tr": "eleştiri, eleştirel inceleme",
+        "de": "die Kritik, die Besprechung",
+        "fr": "la critique, l'analyse critique",
+        "it": "la critica, l'analisi critica",
+        "es": "la crítica, el análisis crítico"
+      },
+      "sentences": [
+        {
+          "en": "Her [critique] of the novel was fair and clear.",
+          "tr": "Romana yönelik eleştirisi adil ve netti.",
+          "de": "Ihre Kritik am Roman war fair und klar.",
+          "fr": "Sa critique du roman était juste et claire.",
+          "it": "La sua critica del romanzo era giusta e chiara.",
+          "es": "Su crítica de la novela fue justa y clara."
+        },
+        {
+          "en": "Write a short [critique] of the article.",
+          "tr": "Makale hakkında kısa bir eleştiri yaz.",
+          "de": "Schreibe eine kurze Kritik des Artikels.",
+          "fr": "Écris une courte critique de l'article.",
+          "it": "Scrivi una breve critica dell'articolo.",
+          "es": "Escribe una breve crítica del artículo."
+        }
+      ]
+    },
+    {
+      "id": "criticize",
+      "pos": "verb",
+      "parent": "critic",
+      "parts": [
+        "crit",
+        "-ic",
+        "-ize"
+      ],
+      "gloss": {
+        "en": "to say what is wrong or bad about someone or something",
+        "tr": "eleştirmek",
+        "de": "kritisieren",
+        "fr": "critiquer",
+        "it": "criticare",
+        "es": "criticar"
+      },
+      "sentences": [
+        {
+          "en": "Please don't [criticize] my cooking in front of guests.",
+          "tr": "Lütfen misafirlerin önünde yemeğimi eleştirme.",
+          "de": "Bitte kritisiere mein Essen nicht vor den Gästen.",
+          "fr": "Ne critique pas ma cuisine devant les invités, s'il te plaît.",
+          "it": "Per favore, non criticare la mia cucina davanti agli ospiti.",
+          "es": "Por favor, no critiques mi comida delante de los invitados."
+        },
+        {
+          "en": "People [criticized] the mayor for the delay.",
+          "tr": "İnsanlar gecikme nedeniyle belediye başkanını eleştirdi.",
+          "de": "Die Leute kritisierten den Bürgermeister für die Verzögerung.",
+          "fr": "Les gens ont critiqué le maire pour le retard.",
+          "it": "La gente ha criticato il sindaco per il ritardo.",
+          "es": "La gente criticó al alcalde por el retraso."
+        }
+      ]
+    },
+    {
+      "id": "criticism",
+      "pos": "noun",
+      "parent": "critic",
+      "parts": [
+        "crit",
+        "-ic",
+        "-ism"
+      ],
+      "gloss": {
+        "en": "a comment that says what is wrong with something",
+        "tr": "eleştiri",
+        "de": "die Kritik",
+        "fr": "la critique",
+        "it": "la critica",
+        "es": "la crítica"
+      },
+      "sentences": [
+        {
+          "en": "He took the [criticism] calmly and tried again.",
+          "tr": "Eleştiriyi sakin karşıladı ve yeniden denedi.",
+          "de": "Er nahm die Kritik ruhig auf und versuchte es noch einmal.",
+          "fr": "Il a pris la critique calmement et a réessayé.",
+          "it": "Ha accettato la critica con calma e ha riprovato.",
+          "es": "Aceptó la crítica con calma y lo intentó de nuevo."
+        },
+        {
+          "en": "Good [criticism] helps you improve.",
+          "tr": "İyi bir eleştiri gelişmene yardım eder.",
+          "de": "Gute Kritik hilft dir, besser zu werden.",
+          "fr": "Une bonne critique t'aide à progresser.",
+          "it": "Una buona critica ti aiuta a migliorare.",
+          "es": "Una buena crítica te ayuda a mejorar."
+        }
+      ]
+    },
+    {
+      "id": "criterion",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "criter",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a standard or rule used to judge or decide something",
+        "tr": "ölçüt, kriter",
+        "de": "das Kriterium, der Maßstab",
+        "fr": "le critère",
+        "it": "il criterio",
+        "es": "el criterio"
+      },
+      "sentences": [
+        {
+          "en": "Price is my main [criterion] when I shop.",
+          "tr": "Alışveriş yaparken ana ölçütüm fiyattır.",
+          "de": "Beim Einkaufen ist der Preis mein wichtigstes Kriterium.",
+          "fr": "Le prix est mon principal critère quand je fais les courses.",
+          "it": "Il prezzo è il mio criterio principale quando faccio la spesa.",
+          "es": "El precio es mi criterio principal cuando compro."
+        },
+        {
+          "en": "Which [criterion] did the judges use?",
+          "tr": "Jüri hangi ölçütü kullandı?",
+          "de": "Welches Kriterium haben die Juroren benutzt?",
+          "fr": "Quel critère les juges ont-ils utilisé ?",
+          "it": "Quale criterio hanno usato i giudici?",
+          "es": "¿Qué criterio usaron los jueces?"
+        }
+      ]
+    },
+    {
+      "id": "criteria",
+      "pos": "noun",
+      "parent": "criterion",
+      "parts": [
+        "criteria"
+      ],
+      "gloss": {
+        "en": "plural of criterion: the standards used to judge something",
+        "tr": "ölçütler, kriterler",
+        "de": "die Kriterien",
+        "fr": "les critères",
+        "it": "i criteri",
+        "es": "los criterios"
+      },
+      "sentences": [
+        {
+          "en": "The judges explained their [criteria] before the show.",
+          "tr": "Jüri gösteriden önce ölçütlerini açıkladı.",
+          "de": "Die Juroren erklärten ihre Kriterien vor der Show.",
+          "fr": "Les juges ont expliqué leurs critères avant le spectacle.",
+          "it": "I giudici hanno spiegato i loro criteri prima dello spettacolo.",
+          "es": "Los jueces explicaron sus criterios antes del espectáculo."
+        },
+        {
+          "en": "Our [criteria] are simple: quality, cost and speed.",
+          "tr": "Ölçütlerimiz basit: kalite, maliyet ve hız.",
+          "de": "Unsere Kriterien sind einfach: Qualität, Kosten und Tempo.",
+          "fr": "Nos critères sont simples : qualité, coût et rapidité.",
+          "it": "I nostri criteri sono semplici: qualità, costo e velocità.",
+          "es": "Nuestros criterios son simples: calidad, costo y rapidez."
+        }
+      ]
+    }
+  ]
+}

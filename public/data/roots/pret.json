@@ -1,0 +1,267 @@
+{
+  "id": "pret",
+  "forms": [
+    "price",
+    "prais",
+    "praise",
+    "preci"
+  ],
+  "origin": "la",
+  "etymon": "pretium",
+  "meaning": {
+    "en": "price, worth",
+    "tr": "fiyat, değer",
+    "de": "Preis, Wert",
+    "fr": "prix, valeur",
+    "it": "prezzo, valore",
+    "es": "precio, valor"
+  },
+  "words": [
+    {
+      "id": "price",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "price"
+      ],
+      "gloss": {
+        "en": "the amount of money you pay for something",
+        "tr": "fiyat",
+        "de": "der Preis",
+        "fr": "le prix",
+        "it": "il prezzo",
+        "es": "el precio"
+      },
+      "sentences": [
+        {
+          "en": "The [price] of bread went up again.",
+          "tr": "Ekmeğin fiyatı yine arttı.",
+          "de": "Der Preis für Brot ist wieder gestiegen.",
+          "fr": "Le prix du pain a encore augmenté.",
+          "it": "Il prezzo del pane è aumentato di nuovo.",
+          "es": "El precio del pan volvió a subir."
+        },
+        {
+          "en": "What is the [price] of this jacket?",
+          "tr": "Bu montun fiyatı ne kadar?",
+          "de": "Was kostet diese Jacke?",
+          "fr": "Quel est le prix de cette veste ?",
+          "it": "Qual è il prezzo di questa giacca?",
+          "es": "¿Cuál es el precio de esta chaqueta?"
+        }
+      ]
+    },
+    {
+      "id": "praise",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "praise"
+      ],
+      "gloss": {
+        "en": "to say that someone or something is very good; literally: to set a price on, to value",
+        "tr": "övmek, takdir etmek",
+        "de": "loben",
+        "fr": "louer, féliciter",
+        "it": "lodare",
+        "es": "elogiar, alabar"
+      },
+      "sentences": [
+        {
+          "en": "The coach will [praise] the team after the win.",
+          "tr": "Antrenör galibiyetten sonra takımı övecek.",
+          "de": "Der Trainer wird das Team nach dem Sieg loben.",
+          "fr": "L'entraîneur félicitera l'équipe après la victoire.",
+          "it": "L'allenatore loderà la squadra dopo la vittoria.",
+          "es": "El entrenador elogiará al equipo tras la victoria."
+        },
+        {
+          "en": "Parents should [praise] effort, not only results.",
+          "tr": "Ebeveynler sadece sonucu değil, çabayı da övmeli.",
+          "de": "Eltern sollten Anstrengung loben, nicht nur Ergebnisse.",
+          "fr": "Les parents devraient féliciter l'effort, pas seulement les résultats.",
+          "it": "I genitori dovrebbero lodare l'impegno, non solo i risultati.",
+          "es": "Los padres deben elogiar el esfuerzo, no solo los resultados."
+        }
+      ]
+    },
+    {
+      "id": "appraise",
+      "pos": "verb",
+      "parent": "praise",
+      "parts": [
+        "ap-",
+        "praise"
+      ],
+      "gloss": {
+        "en": "to judge the value or quality of something, often officially",
+        "tr": "değerini biçmek, değerlendirmek",
+        "de": "schätzen, begutachten",
+        "fr": "estimer, évaluer",
+        "it": "stimare, valutare",
+        "es": "tasar, valorar"
+      },
+      "sentences": [
+        {
+          "en": "An expert will [appraise] the old painting.",
+          "tr": "Bir uzman eski tablonun değerini biçecek.",
+          "de": "Ein Experte wird das alte Gemälde schätzen.",
+          "fr": "Un expert va estimer ce vieux tableau.",
+          "it": "Un esperto valuterà il vecchio dipinto.",
+          "es": "Un experto tasará el cuadro antiguo."
+        },
+        {
+          "en": "The manager must [appraise] each worker's skills.",
+          "tr": "Müdür her çalışanın becerilerini değerlendirmeli.",
+          "de": "Der Chef muss die Fähigkeiten jedes Mitarbeiters beurteilen.",
+          "fr": "Le directeur doit évaluer les compétences de chaque employé.",
+          "it": "Il direttore deve valutare le competenze di ogni dipendente.",
+          "es": "El gerente debe valorar las habilidades de cada empleado."
+        }
+      ]
+    },
+    {
+      "id": "appraisal",
+      "pos": "noun",
+      "parent": "appraise",
+      "parts": [
+        "ap-",
+        "prais",
+        "-al"
+      ],
+      "gloss": {
+        "en": "an official judgment of the value or quality of something",
+        "tr": "değer biçme, değerlendirme",
+        "de": "die Schätzung, die Begutachtung",
+        "fr": "l'estimation, l'évaluation",
+        "it": "la stima, la valutazione",
+        "es": "la tasación, la valoración"
+      },
+      "sentences": [
+        {
+          "en": "We got an [appraisal] of the house before selling it.",
+          "tr": "Evi satmadan önce değerini biçtirdik.",
+          "de": "Wir ließen das Haus vor dem Verkauf schätzen.",
+          "fr": "Nous avons fait faire une estimation de la maison avant de la vendre.",
+          "it": "Abbiamo fatto fare una stima della casa prima di venderla.",
+          "es": "Hicimos una tasación de la casa antes de venderla."
+        },
+        {
+          "en": "Each year she gets a job [appraisal].",
+          "tr": "Her yıl iş performans değerlendirmesi alıyor.",
+          "de": "Jedes Jahr bekommt sie eine Leistungsbeurteilung.",
+          "fr": "Chaque année, elle reçoit une évaluation professionnelle.",
+          "it": "Ogni anno riceve una valutazione del lavoro.",
+          "es": "Cada año recibe una evaluación de desempeño."
+        }
+      ]
+    },
+    {
+      "id": "appreciate",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ap-",
+        "preci",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "to value something and be thankful for it; literally: to set a price on",
+        "tr": "takdir etmek, değer vermek",
+        "de": "schätzen, zu schätzen wissen",
+        "fr": "apprécier",
+        "it": "apprezzare",
+        "es": "apreciar, agradecer"
+      },
+      "sentences": [
+        {
+          "en": "I really [appreciate] your help.",
+          "tr": "Yardımını gerçekten takdir ediyorum.",
+          "de": "Ich schätze deine Hilfe wirklich.",
+          "fr": "J'apprécie vraiment ton aide.",
+          "it": "Apprezzo davvero il tuo aiuto.",
+          "es": "Aprecio mucho tu ayuda."
+        },
+        {
+          "en": "You [appreciate] good food more when you cook.",
+          "tr": "Yemek pişirince iyi yemeğin değerini daha iyi anlarsın.",
+          "de": "Man schätzt gutes Essen mehr, wenn man selbst kocht.",
+          "fr": "On apprécie mieux la bonne cuisine quand on cuisine soi-même.",
+          "it": "Si apprezza di più il buon cibo quando si cucina.",
+          "es": "Se aprecia más la buena comida cuando uno cocina."
+        }
+      ]
+    },
+    {
+      "id": "appreciation",
+      "pos": "noun",
+      "parent": "appreciate",
+      "parts": [
+        "ap-",
+        "preci",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "thankful or admiring recognition of the value of something",
+        "tr": "takdir, minnettarlık",
+        "de": "die Wertschätzung, die Anerkennung",
+        "fr": "l'appréciation, la reconnaissance",
+        "it": "l'apprezzamento",
+        "es": "el aprecio, el reconocimiento"
+      },
+      "sentences": [
+        {
+          "en": "She sent flowers as a sign of [appreciation].",
+          "tr": "Takdirinin bir göstergesi olarak çiçek gönderdi.",
+          "de": "Sie schickte Blumen als Zeichen der Wertschätzung.",
+          "fr": "Elle a envoyé des fleurs en signe de reconnaissance.",
+          "it": "Ha mandato dei fiori in segno di apprezzamento.",
+          "es": "Envió flores como muestra de aprecio."
+        },
+        {
+          "en": "He has a deep [appreciation] of music.",
+          "tr": "Müziği derinden takdir eder.",
+          "de": "Er weiß Musik sehr zu schätzen.",
+          "fr": "Il sait profondément apprécier la musique.",
+          "it": "Ha un profondo apprezzamento per la musica.",
+          "es": "Tiene un profundo aprecio por la música."
+        }
+      ]
+    },
+    {
+      "id": "precious",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "preci",
+        "-ous"
+      ],
+      "gloss": {
+        "en": "very valuable or very loved; literally: of great price",
+        "tr": "değerli, kıymetli",
+        "de": "kostbar, wertvoll",
+        "fr": "précieux",
+        "it": "prezioso",
+        "es": "precioso, valioso"
+      },
+      "sentences": [
+        {
+          "en": "Gold and silver are [precious] metals.",
+          "tr": "Altın ve gümüş değerli madenlerdir.",
+          "de": "Gold und Silber sind Edelmetalle.",
+          "fr": "L'or et l'argent sont des métaux précieux.",
+          "it": "L'oro e l'argento sono metalli preziosi.",
+          "es": "El oro y la plata son metales preciosos."
+        },
+        {
+          "en": "Time with my family is [precious] to me.",
+          "tr": "Ailemle geçirdiğim zaman benim için çok kıymetli.",
+          "de": "Zeit mit meiner Familie ist mir kostbar.",
+          "fr": "Le temps passé avec ma famille m'est précieux.",
+          "it": "Il tempo con la mia famiglia è prezioso per me.",
+          "es": "El tiempo con mi familia es muy valioso para mí."
+        }
+      ]
+    }
+  ]
+}

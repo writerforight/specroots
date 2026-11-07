@@ -1,0 +1,196 @@
+{
+  "id": "jud",
+  "forms": [
+    "jud",
+    "judg",
+    "judge",
+    "judic",
+    "judice"
+  ],
+  "origin": "la",
+  "etymon": "iudicare",
+  "meaning": {
+    "en": "to judge, to decide what is right",
+    "tr": "yargılamak, karar vermek",
+    "de": "urteilen, richten",
+    "fr": "juger",
+    "it": "giudicare",
+    "es": "juzgar"
+  },
+  "words": [
+    {
+      "id": "judge",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "judge"
+      ],
+      "gloss": {
+        "en": "to form an opinion about someone or something; to decide a case in court",
+        "tr": "yargılamak, değerlendirmek",
+        "de": "urteilen, beurteilen",
+        "fr": "juger",
+        "it": "giudicare",
+        "es": "juzgar"
+      },
+      "sentences": [
+        {
+          "en": "Don't [judge] a book by its cover.",
+          "tr": "Kitabı kapağına bakarak yargılama.",
+          "de": "Beurteile ein Buch nicht nach seinem Umschlag.",
+          "fr": "Ne juge pas un livre à sa couverture.",
+          "it": "Non giudicare un libro dalla copertina.",
+          "es": "No juzgues un libro por su portada."
+        },
+        {
+          "en": "Three experts will [judge] the cooking contest.",
+          "tr": "Üç uzman yemek yarışmasını değerlendirecek.",
+          "de": "Drei Experten werden den Kochwettbewerb bewerten.",
+          "fr": "Trois experts jugeront le concours de cuisine.",
+          "it": "Tre esperti giudicheranno il concorso di cucina.",
+          "es": "Tres expertos juzgarán el concurso de cocina."
+        }
+      ]
+    },
+    {
+      "id": "judgment",
+      "pos": "noun",
+      "parent": "judge",
+      "parts": [
+        "judg",
+        "-ment"
+      ],
+      "gloss": {
+        "en": "an opinion or decision after careful thought; the ability to decide well",
+        "tr": "yargı, karar, muhakeme",
+        "de": "das Urteil, die Beurteilung",
+        "fr": "le jugement",
+        "it": "il giudizio",
+        "es": "el juicio"
+      },
+      "sentences": [
+        {
+          "en": "Use your best [judgment] and decide quickly.",
+          "tr": "En iyi muhakemeni kullan ve çabuk karar ver.",
+          "de": "Verlass dich auf dein Urteilsvermögen und entscheide schnell.",
+          "fr": "Fie-toi à ton jugement et décide vite.",
+          "it": "Usa il tuo miglior giudizio e decidi in fretta.",
+          "es": "Usa tu mejor juicio y decide rápido."
+        },
+        {
+          "en": "The court gave its [judgment] on Monday.",
+          "tr": "Mahkeme kararını pazartesi günü verdi.",
+          "de": "Das Gericht verkündete sein Urteil am Montag.",
+          "fr": "Le tribunal a rendu son jugement lundi.",
+          "it": "Il tribunale ha emesso il suo giudizio lunedì.",
+          "es": "El tribunal dictó su sentencia el lunes."
+        }
+      ]
+    },
+    {
+      "id": "judicial",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "judic",
+        "-ial"
+      ],
+      "gloss": {
+        "en": "relating to courts and judges",
+        "tr": "yargısal, mahkemeyle ilgili",
+        "de": "gerichtlich, richterlich",
+        "fr": "judiciaire",
+        "it": "giudiziario",
+        "es": "judicial"
+      },
+      "sentences": [
+        {
+          "en": "Judges are part of the [judicial] system.",
+          "tr": "Hâkimler yargı sisteminin bir parçasıdır.",
+          "de": "Richter sind Teil des Justizsystems.",
+          "fr": "Les juges font partie du système judiciaire.",
+          "it": "I giudici fanno parte del sistema giudiziario.",
+          "es": "Los jueces forman parte del sistema judicial."
+        },
+        {
+          "en": "The case needs a [judicial] review.",
+          "tr": "Dava için yargısal bir inceleme gerekiyor.",
+          "de": "Der Fall braucht eine gerichtliche Prüfung.",
+          "fr": "L'affaire nécessite un contrôle judiciaire.",
+          "it": "Il caso richiede un riesame giudiziario.",
+          "es": "El caso necesita una revisión judicial."
+        }
+      ]
+    },
+    {
+      "id": "judicious",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "judic",
+        "-ious"
+      ],
+      "gloss": {
+        "en": "showing good judgment; wise and careful",
+        "tr": "sağgörülü, akıllıca",
+        "de": "klug, besonnen",
+        "fr": "judicieux, avisé",
+        "it": "giudizioso, oculato",
+        "es": "juicioso, sensato"
+      },
+      "sentences": [
+        {
+          "en": "A [judicious] use of money saved the project.",
+          "tr": "Paranın akıllıca kullanılması projeyi kurtardı.",
+          "de": "Ein kluger Umgang mit dem Geld rettete das Projekt.",
+          "fr": "Un usage judicieux de l'argent a sauvé le projet.",
+          "it": "Un uso oculato del denaro ha salvato il progetto.",
+          "es": "Un uso juicioso del dinero salvó el proyecto."
+        },
+        {
+          "en": "It was [judicious] of you to wait.",
+          "tr": "Beklemen akıllıca oldu.",
+          "de": "Es war klug von dir zu warten.",
+          "fr": "C'était judicieux de ta part d'attendre.",
+          "it": "È stato saggio da parte tua aspettare.",
+          "es": "Fue sensato de tu parte esperar."
+        }
+      ]
+    },
+    {
+      "id": "prejudice",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "pre-",
+        "judice"
+      ],
+      "gloss": {
+        "en": "an unfair opinion formed before knowing the facts; literally: a judging beforehand",
+        "tr": "önyargı",
+        "de": "das Vorurteil",
+        "fr": "le préjugé",
+        "it": "il pregiudizio",
+        "es": "el prejuicio"
+      },
+      "sentences": [
+        {
+          "en": "[Prejudice] against newcomers is unfair.",
+          "tr": "Yeni gelenlere karşı önyargı haksızlıktır.",
+          "de": "Vorurteile gegen Neuankömmlinge sind ungerecht.",
+          "fr": "Les préjugés contre les nouveaux venus sont injustes.",
+          "it": "Il pregiudizio verso i nuovi arrivati è ingiusto.",
+          "es": "El prejuicio contra los recién llegados es injusto."
+        },
+        {
+          "en": "He spoke without [prejudice] and listened to everyone.",
+          "tr": "Önyargısız konuştu ve herkesi dinledi.",
+          "de": "Er sprach ohne Vorurteil und hörte allen zu.",
+          "fr": "Il a parlé sans préjugé et a écouté tout le monde.",
+          "it": "Ha parlato senza pregiudizi e ha ascoltato tutti.",
+          "es": "Habló sin prejuicios y escuchó a todos."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "id": "estim",
+  "forms": [
+    "estim",
+    "esteem"
+  ],
+  "origin": "la",
+  "etymon": "aestimare",
+  "meaning": {
+    "en": "to value, to appraise",
+    "tr": "değer biçmek",
+    "de": "schätzen, bewerten",
+    "fr": "estimer, évaluer",
+    "it": "stimare, valutare",
+    "es": "estimar, valorar"
+  },
+  "words": [
+    {
+      "id": "estimate",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "estim",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "to guess the size, cost or value of something roughly",
+        "tr": "tahmin etmek",
+        "de": "schätzen",
+        "fr": "estimer",
+        "it": "stimare",
+        "es": "estimar, calcular"
+      },
+      "sentences": [
+        {
+          "en": "Can you [estimate] how long the trip will take?",
+          "tr": "Yolculuğun ne kadar süreceğini tahmin edebilir misin?",
+          "de": "Kannst du schätzen, wie lange die Reise dauert?",
+          "fr": "Peux-tu estimer combien de temps durera le voyage ?",
+          "it": "Riesci a stimare quanto durerà il viaggio?",
+          "es": "¿Puedes estimar cuánto durará el viaje?"
+        },
+        {
+          "en": "They [estimate] the repair will cost 500 euros.",
+          "tr": "Tamirin 500 avroya mal olacağını tahmin ediyorlar.",
+          "de": "Sie schätzen, dass die Reparatur 500 Euro kostet.",
+          "fr": "Ils estiment que la réparation coûtera 500 euros.",
+          "it": "Stimano che la riparazione costerà 500 euro.",
+          "es": "Estiman que la reparación costará 500 euros."
+        }
+      ]
+    },
+    {
+      "id": "estimation",
+      "pos": "noun",
+      "parent": "estimate",
+      "parts": [
+        "estim",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "a rough judgment of size or value; an opinion",
+        "tr": "tahmin, kanaat",
+        "de": "die Schätzung, die Einschätzung",
+        "fr": "l'estimation, l'avis",
+        "it": "la stima, il giudizio",
+        "es": "la estimación, el juicio"
+      },
+      "sentences": [
+        {
+          "en": "By my [estimation], we need three more days.",
+          "tr": "Benim tahminime göre üç güne daha ihtiyacımız var.",
+          "de": "Nach meiner Schätzung brauchen wir noch drei Tage.",
+          "fr": "D'après mon estimation, il nous faut trois jours de plus.",
+          "it": "Secondo la mia stima, ci servono altri tre giorni.",
+          "es": "Según mi estimación, necesitamos tres días más."
+        },
+        {
+          "en": "He went up in my [estimation] after that.",
+          "tr": "Bundan sonra gözümde değeri arttı.",
+          "de": "Danach stieg er in meiner Achtung.",
+          "fr": "Il a gagné dans mon estime après cela.",
+          "it": "Dopo questo è salito nella mia stima.",
+          "es": "Después de eso subió en mi estima."
+        }
+      ]
+    },
+    {
+      "id": "underestimate",
+      "pos": "verb",
+      "parent": "estimate",
+      "parts": [
+        "under-",
+        "estim",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "to think something is smaller or less important than it really is",
+        "tr": "hafife almak",
+        "de": "unterschätzen",
+        "fr": "sous-estimer",
+        "it": "sottovalutare",
+        "es": "subestimar"
+      },
+      "sentences": [
+        {
+          "en": "Don't [underestimate] the power of small habits.",
+          "tr": "Küçük alışkanlıkların gücünü hafife alma.",
+          "de": "Unterschätze nicht die Kraft kleiner Gewohnheiten.",
+          "fr": "Ne sous-estime pas la force des petites habitudes.",
+          "it": "Non sottovalutare il potere delle piccole abitudini.",
+          "es": "No subestimes el poder de los pequeños hábitos."
+        },
+        {
+          "en": "We [underestimated] the traffic and arrived late.",
+          "tr": "Trafiği hafife aldık ve geç vardık.",
+          "de": "Wir haben den Verkehr unterschätzt und kamen zu spät an.",
+          "fr": "Nous avons sous-estimé la circulation et sommes arrivés en retard.",
+          "it": "Abbiamo sottovalutato il traffico e siamo arrivati tardi.",
+          "es": "Subestimamos el tráfico y llegamos tarde."
+        }
+      ]
+    },
+    {
+      "id": "esteem",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "esteem"
+      ],
+      "gloss": {
+        "en": "respect and a good opinion of someone; literally: a valuation",
+        "tr": "saygı, itibar",
+        "de": "die Achtung, die Wertschätzung",
+        "fr": "l'estime",
+        "it": "la stima",
+        "es": "la estima, el aprecio"
+      },
+      "sentences": [
+        {
+          "en": "The teacher is held in high [esteem] by students.",
+          "tr": "Öğretmen öğrenciler arasında büyük saygı görür.",
+          "de": "Die Lehrerin genießt bei den Schülern große Achtung.",
+          "fr": "La professeure est très estimée de ses élèves.",
+          "it": "L'insegnante è tenuta in grande stima dagli studenti.",
+          "es": "La profesora es muy estimada por sus alumnos."
+        },
+        {
+          "en": "Her kindness earned her the [esteem] of everyone.",
+          "tr": "Nezaketi ona herkesin saygısını kazandırdı.",
+          "de": "Ihre Freundlichkeit brachte ihr die Achtung aller ein.",
+          "fr": "Sa gentillesse lui a valu l'estime de tous.",
+          "it": "La sua gentilezza le ha fatto guadagnare la stima di tutti.",
+          "es": "Su amabilidad le ganó la estima de todos."
+        }
+      ]
+    }
+  ]
+}

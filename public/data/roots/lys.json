@@ -1,0 +1,162 @@
+{
+  "id": "lys",
+  "forms": [
+    "ly",
+    "lyze",
+    "lyst"
+  ],
+  "origin": "gr",
+  "etymon": "lysis",
+  "meaning": {
+    "en": "to loosen, to break apart",
+    "tr": "çözmek, ayrıştırmak",
+    "de": "lösen, auflösen",
+    "fr": "délier, décomposer",
+    "it": "sciogliere, scomporre",
+    "es": "soltar, descomponer"
+  },
+  "words": [
+    {
+      "id": "analysis",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "ana-",
+        "ly",
+        "-sis"
+      ],
+      "gloss": {
+        "en": "a careful study of the parts of something to understand it; literally: a loosening up",
+        "tr": "analiz, çözümleme",
+        "de": "die Analyse",
+        "fr": "l'analyse",
+        "it": "l'analisi",
+        "es": "el análisis"
+      },
+      "sentences": [
+        {
+          "en": "The [analysis] of the data took three days.",
+          "tr": "Verilerin analizi üç gün sürdü.",
+          "de": "Die Analyse der Daten dauerte drei Tage.",
+          "fr": "L'analyse des données a pris trois jours.",
+          "it": "L'analisi dei dati ha richiesto tre giorni.",
+          "es": "El análisis de los datos tardó tres días."
+        },
+        {
+          "en": "Her [analysis] of the poem was very deep.",
+          "tr": "Şiir hakkındaki çözümlemesi çok derindi.",
+          "de": "Ihre Analyse des Gedichts war sehr tiefgehend.",
+          "fr": "Son analyse du poème était très profonde.",
+          "it": "La sua analisi della poesia era molto profonda.",
+          "es": "Su análisis del poema fue muy profundo."
+        }
+      ]
+    },
+    {
+      "id": "analyze",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ana-",
+        "lyze"
+      ],
+      "gloss": {
+        "en": "to study something in detail by breaking it into parts",
+        "tr": "analiz etmek, çözümlemek",
+        "de": "analysieren",
+        "fr": "analyser",
+        "it": "analizzare",
+        "es": "analizar"
+      },
+      "sentences": [
+        {
+          "en": "Scientists [analyze] the water for chemicals.",
+          "tr": "Bilim insanları suyu kimyasallar için analiz eder.",
+          "de": "Wissenschaftler analysieren das Wasser auf Chemikalien.",
+          "fr": "Les scientifiques analysent l'eau à la recherche de produits chimiques.",
+          "it": "Gli scienziati analizzano l'acqua alla ricerca di sostanze chimiche.",
+          "es": "Los científicos analizan el agua en busca de sustancias químicas."
+        },
+        {
+          "en": "Let's [analyze] why the plan failed.",
+          "tr": "Planın neden başarısız olduğunu analiz edelim.",
+          "de": "Lass uns analysieren, warum der Plan gescheitert ist.",
+          "fr": "Analysons pourquoi le plan a échoué.",
+          "it": "Analizziamo perché il piano è fallito.",
+          "es": "Analicemos por qué fracasó el plan."
+        }
+      ]
+    },
+    {
+      "id": "analyst",
+      "pos": "noun",
+      "parent": "analyze",
+      "parts": [
+        "ana-",
+        "lyst"
+      ],
+      "gloss": {
+        "en": "a person whose job is to study and explain data or a situation",
+        "tr": "analist, çözümleyici",
+        "de": "der Analyst, die Analystin",
+        "fr": "l'analyste",
+        "it": "l'analista",
+        "es": "el analista, la analista"
+      },
+      "sentences": [
+        {
+          "en": "A financial [analyst] explained the market drop.",
+          "tr": "Bir finans analisti piyasadaki düşüşü açıkladı.",
+          "de": "Ein Finanzanalyst erklärte den Marktrückgang.",
+          "fr": "Un analyste financier a expliqué la chute du marché.",
+          "it": "Un analista finanziario ha spiegato il calo del mercato.",
+          "es": "Un analista financiero explicó la caída del mercado."
+        },
+        {
+          "en": "The [analyst] checked every number twice.",
+          "tr": "Analist her sayıyı iki kez kontrol etti.",
+          "de": "Der Analyst prüfte jede Zahl zweimal.",
+          "fr": "L'analyste a vérifié chaque chiffre deux fois.",
+          "it": "L'analista ha controllato ogni numero due volte.",
+          "es": "El analista revisó cada número dos veces."
+        }
+      ]
+    },
+    {
+      "id": "paralysis",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "para-",
+        "ly",
+        "-sis"
+      ],
+      "gloss": {
+        "en": "the loss of the power to move or to act; literally: a loosening at the side",
+        "tr": "felç",
+        "de": "die Lähmung",
+        "fr": "la paralysie",
+        "it": "la paralisi",
+        "es": "la parálisis"
+      },
+      "sentences": [
+        {
+          "en": "The accident caused partial [paralysis] in his arm.",
+          "tr": "Kaza koluna kısmi felç getirdi.",
+          "de": "Der Unfall verursachte eine teilweise Lähmung in seinem Arm.",
+          "fr": "L'accident a causé une paralysie partielle de son bras.",
+          "it": "L'incidente ha causato una paralisi parziale al braccio.",
+          "es": "El accidente le causó una parálisis parcial en el brazo."
+        },
+        {
+          "en": "Too many choices can cause [paralysis].",
+          "tr": "Çok fazla seçenek kararsızlık felcine yol açabilir.",
+          "de": "Zu viele Optionen können zur Lähmung führen.",
+          "fr": "Trop de choix peut provoquer une paralysie.",
+          "it": "Troppe scelte possono causare paralisi.",
+          "es": "Demasiadas opciones pueden causar parálisis."
+        }
+      ]
+    }
+  ]
+}

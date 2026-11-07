@@ -1,0 +1,159 @@
+{
+  "id": "rat",
+  "forms": [
+    "rat",
+    "rate",
+    "ratio",
+    "ration"
+  ],
+  "origin": "la",
+  "etymon": "reri",
+  "meaning": {
+    "en": "to reckon, to calculate, to think",
+    "tr": "hesaplamak, düşünmek",
+    "de": "rechnen, denken",
+    "fr": "calculer, penser",
+    "it": "calcolare, pensare",
+    "es": "calcular, pensar"
+  },
+  "words": [
+    {
+      "id": "rate",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "rate"
+      ],
+      "gloss": {
+        "en": "to give something a score or a place based on its quality",
+        "tr": "derecelendirmek, puan vermek",
+        "de": "bewerten, einstufen",
+        "fr": "noter, évaluer",
+        "it": "valutare, classificare",
+        "es": "valorar, calificar"
+      },
+      "sentences": [
+        {
+          "en": "Customers [rate] the service from one to five.",
+          "tr": "Müşteriler hizmete birden beşe kadar puan verir.",
+          "de": "Kunden bewerten den Service von eins bis fünf.",
+          "fr": "Les clients notent le service de un à cinq.",
+          "it": "I clienti valutano il servizio da uno a cinque.",
+          "es": "Los clientes califican el servicio de uno a cinco."
+        },
+        {
+          "en": "How would you [rate] this restaurant?",
+          "tr": "Bu restorana kaç puan verirdin?",
+          "de": "Wie würdest du dieses Restaurant bewerten?",
+          "fr": "Quelle note donnerais-tu à ce restaurant ?",
+          "it": "Che voto daresti a questo ristorante?",
+          "es": "¿Cómo calificarías este restaurante?"
+        }
+      ]
+    },
+    {
+      "id": "rating",
+      "pos": "noun",
+      "parent": "rate",
+      "parts": [
+        "rat",
+        "-ing"
+      ],
+      "gloss": {
+        "en": "a score or level that shows how good something is",
+        "tr": "puan, derece",
+        "de": "die Bewertung, die Einstufung",
+        "fr": "la note, la cote",
+        "it": "la valutazione, il punteggio",
+        "es": "la calificación, la valoración"
+      },
+      "sentences": [
+        {
+          "en": "The hotel has a high [rating] online.",
+          "tr": "Otelin internette yüksek bir puanı var.",
+          "de": "Das Hotel hat online eine hohe Bewertung.",
+          "fr": "L'hôtel a une note élevée en ligne.",
+          "it": "L'hotel ha una valutazione alta online.",
+          "es": "El hotel tiene una calificación alta en internet."
+        },
+        {
+          "en": "The show's [ratings] fell after the first season.",
+          "tr": "Dizinin reyting değerleri ilk sezondan sonra düştü.",
+          "de": "Die Einschaltquoten der Serie sanken nach der ersten Staffel.",
+          "fr": "L'audience de la série a baissé après la première saison.",
+          "it": "Gli ascolti della serie sono calati dopo la prima stagione.",
+          "es": "La audiencia de la serie bajó tras la primera temporada."
+        }
+      ]
+    },
+    {
+      "id": "ratio",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "ratio"
+      ],
+      "gloss": {
+        "en": "a comparison of two amounts, such as 2 to 1; literally: a reckoning",
+        "tr": "oran",
+        "de": "das Verhältnis",
+        "fr": "le rapport, le ratio",
+        "it": "il rapporto, la proporzione",
+        "es": "la razón, la proporción"
+      },
+      "sentences": [
+        {
+          "en": "The [ratio] of boys to girls is two to one.",
+          "tr": "Erkek ve kız oranı ikiye bir.",
+          "de": "Das Verhältnis von Jungen zu Mädchen beträgt zwei zu eins.",
+          "fr": "Le rapport garçons-filles est de deux pour un.",
+          "it": "Il rapporto tra maschi e femmine è di due a uno.",
+          "es": "La proporción de chicos a chicas es de dos a uno."
+        },
+        {
+          "en": "Mix water and rice in a 2:1 [ratio].",
+          "tr": "Suyu ve pirinci 2'ye 1 oranında karıştır.",
+          "de": "Mische Wasser und Reis im Verhältnis 2:1.",
+          "fr": "Mélange l'eau et le riz dans un rapport de 2 pour 1.",
+          "it": "Mescola acqua e riso in rapporto 2 a 1.",
+          "es": "Mezcla agua y arroz en una proporción de 2 a 1."
+        }
+      ]
+    },
+    {
+      "id": "rational",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "ration",
+        "-al"
+      ],
+      "gloss": {
+        "en": "based on reason and clear thinking, not on feelings",
+        "tr": "mantıklı, akılcı",
+        "de": "vernünftig, rational",
+        "fr": "rationnel, raisonnable",
+        "it": "razionale",
+        "es": "racional"
+      },
+      "sentences": [
+        {
+          "en": "Let's make a [rational] decision, not an angry one.",
+          "tr": "Öfkeli değil, mantıklı bir karar verelim.",
+          "de": "Treffen wir eine vernünftige Entscheidung, keine wütende.",
+          "fr": "Prenons une décision rationnelle, pas une décision prise sous la colère.",
+          "it": "Prendiamo una decisione razionale, non rabbiosa.",
+          "es": "Tomemos una decisión racional, no una enojada."
+        },
+        {
+          "en": "There must be a [rational] explanation.",
+          "tr": "Mantıklı bir açıklaması olmalı.",
+          "de": "Es muss eine vernünftige Erklärung geben.",
+          "fr": "Il doit y avoir une explication rationnelle.",
+          "it": "Ci deve essere una spiegazione razionale.",
+          "es": "Debe de haber una explicación racional."
+        }
+      ]
+    }
+  ]
+}

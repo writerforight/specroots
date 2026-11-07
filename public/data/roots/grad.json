@@ -1154,6 +1154,41 @@
           "es": "En aquella escuela, incluso una pequeña falta se castigaba."
         }
       ]
+    },
+    {
+      "id": "grading",
+      "pos": "noun",
+      "parent": "grade",
+      "parts": [
+        "grad",
+        "-ing"
+      ],
+      "gloss": {
+        "en": "the act of giving marks or levels to work or products",
+        "tr": "notlandırma, derecelendirme",
+        "de": "die Benotung, die Bewertung",
+        "fr": "la notation, le classement",
+        "it": "la valutazione, la classificazione",
+        "es": "la calificación, la clasificación"
+      },
+      "sentences": [
+        {
+          "en": "[Grading] exams takes me a whole weekend.",
+          "tr": "Sınavları notlandırmak bana koca bir hafta sonu sürüyor.",
+          "de": "Das Benoten der Klausuren dauert bei mir ein ganzes Wochenende.",
+          "fr": "Corriger et noter les examens me prend tout un week-end.",
+          "it": "Correggere e valutare gli esami mi porta via un intero fine settimana.",
+          "es": "Calificar los exámenes me lleva todo un fin de semana."
+        },
+        {
+          "en": "The [grading] of eggs is done by size.",
+          "tr": "Yumurtalar boyuta göre sınıflandırılır.",
+          "de": "Eier werden nach Größe sortiert.",
+          "fr": "Les œufs sont classés par taille.",
+          "it": "Le uova vengono classificate per dimensione.",
+          "es": "Los huevos se clasifican por tamaño."
+        }
+      ]
     }
   ]
 }

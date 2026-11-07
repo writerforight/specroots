@@ -505,6 +505,32 @@
     ]
   },
   {
+    "id": "crit",
+    "forms": [
+      "crit",
+      "critique",
+      "criter",
+      "criteria"
+    ],
+    "origin": "gr",
+    "meaning": {
+      "en": "to separate, to judge",
+      "tr": "ayırmak, yargılamak",
+      "de": "trennen, beurteilen",
+      "fr": "séparer, juger",
+      "it": "separare, giudicare",
+      "es": "separar, juzgar"
+    },
+    "words": [
+      "critic",
+      "critique",
+      "criticize",
+      "criticism",
+      "criterion",
+      "criteria"
+    ]
+  },
+  {
     "id": "cur",
     "forms": [
       "cur",
@@ -653,6 +679,28 @@
       "seduce",
       "seductive",
       "conducive"
+    ]
+  },
+  {
+    "id": "estim",
+    "forms": [
+      "estim",
+      "esteem"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to value, to appraise",
+      "tr": "değer biçmek",
+      "de": "schätzen, bewerten",
+      "fr": "estimer, évaluer",
+      "it": "stimare, valutare",
+      "es": "estimar, valorar"
+    },
+    "words": [
+      "estimate",
+      "estimation",
+      "underestimate",
+      "esteem"
     ]
   },
   {
@@ -967,7 +1015,8 @@
       "regressive",
       "ingredient",
       "transgress",
-      "transgression"
+      "transgression",
+      "grading"
     ]
   },
   {
@@ -1119,6 +1168,32 @@
     ]
   },
   {
+    "id": "jud",
+    "forms": [
+      "jud",
+      "judg",
+      "judge",
+      "judic",
+      "judice"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to judge, to decide what is right",
+      "tr": "yargılamak, karar vermek",
+      "de": "urteilen, richten",
+      "fr": "juger",
+      "it": "giudicare",
+      "es": "juzgar"
+    },
+    "words": [
+      "judge",
+      "judgment",
+      "judicial",
+      "judicious",
+      "prejudice"
+    ]
+  },
+  {
     "id": "junct",
     "forms": [
       "junct",
@@ -1263,6 +1338,29 @@
       "neurology",
       "anthropology",
       "eulogy"
+    ]
+  },
+  {
+    "id": "lys",
+    "forms": [
+      "ly",
+      "lyze",
+      "lyst"
+    ],
+    "origin": "gr",
+    "meaning": {
+      "en": "to loosen, to break apart",
+      "tr": "çözmek, ayrıştırmak",
+      "de": "lösen, auflösen",
+      "fr": "délier, décomposer",
+      "it": "sciogliere, scomporre",
+      "es": "soltar, descomponer"
+    },
+    "words": [
+      "analysis",
+      "analyze",
+      "analyst",
+      "paralysis"
     ]
   },
   {
@@ -2209,6 +2307,33 @@
     ]
   },
   {
+    "id": "pret",
+    "forms": [
+      "price",
+      "prais",
+      "praise",
+      "preci"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "price, worth",
+      "tr": "fiyat, değer",
+      "de": "Preis, Wert",
+      "fr": "prix, valeur",
+      "it": "prezzo, valore",
+      "es": "precio, valor"
+    },
+    "words": [
+      "price",
+      "praise",
+      "appraise",
+      "appraisal",
+      "appreciate",
+      "appreciation",
+      "precious"
+    ]
+  },
+  {
     "id": "psych",
     "forms": [
       "psych",
@@ -2236,6 +2361,30 @@
       "psychotherapy",
       "psychosis",
       "psychopath"
+    ]
+  },
+  {
+    "id": "rat",
+    "forms": [
+      "rat",
+      "rate",
+      "ratio",
+      "ration"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to reckon, to calculate, to think",
+      "tr": "hesaplamak, düşünmek",
+      "de": "rechnen, denken",
+      "fr": "calculer, penser",
+      "it": "calcolare, pensare",
+      "es": "calcular, pensar"
+    },
+    "words": [
+      "rate",
+      "rating",
+      "ratio",
+      "rational"
     ]
   },
   {
@@ -2401,6 +2550,31 @@
       "subscriber",
       "ascribe",
       "indescribable"
+    ]
+  },
+  {
+    "id": "sed",
+    "forms": [
+      "sed",
+      "sid",
+      "sess"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to sit",
+      "tr": "oturmak",
+      "de": "sitzen",
+      "fr": "s'asseoir, être assis",
+      "it": "sedere",
+      "es": "sentarse, estar sentado"
+    },
+    "words": [
+      "assess",
+      "assessment",
+      "assessor",
+      "session",
+      "president",
+      "resident"
     ]
   },
   {
@@ -3099,6 +3273,30 @@
       "attribute",
       "attribution",
       "retribution"
+    ]
+  },
+  {
+    "id": "val",
+    "forms": [
+      "val",
+      "valu",
+      "value"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to be worth, to be strong",
+      "tr": "değerli olmak, güçlü olmak",
+      "de": "wert sein, stark sein",
+      "fr": "valoir, être fort",
+      "it": "valere, essere forte",
+      "es": "valer, ser fuerte"
+    },
+    "words": [
+      "value",
+      "valuable",
+      "evaluate",
+      "evaluation",
+      "valid"
     ]
   },
   {
