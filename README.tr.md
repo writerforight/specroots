@@ -31,10 +31,10 @@ Bir kökü öğrenen onlarca kelimeyi okuyabilir. *spec / spect* "bakmak" demek,
 
 ## Şu ana kadarki kökler
 
-86 kök ve 1722 kelime, her biri iki örnek cümleyle. Ayrıca fotoğraflı ve altı dilde adıyla kelime listelerinde **129 gündelik nesne** (tebeşir, kevgir, oklava…).
+97 kök ve 1781 kelime, her biri iki örnek cümleyle. Ayrıca fotoğraflı ve altı dilde adıyla kelime listelerinde **129 gündelik nesne** (tebeşir, kevgir, oklava…).
 
-- **Latince (73):** `act` · `ann` · `aqu` · `aud` · `cad` · `cap` · `ced` · `cid` · `clud` · `corp` · `cred` · `cur` · `dict` · `duc` · `fac` · `fer` · `fin` · `flect` · `form` · `fort` · `grad` · `grat` · `ject` · `junct` · `leg` · `loc` · `magn` · `mand` · `manu` · `ment` · `mit` · `mort` · `mov` · `nat` · `nect` · `nomin` · `nov` · `nunci` · `ped` · `pel` · `pend` · `plic` · `port` · `pos` · `prehend` · `press` · `rupt` · `scend` · `sci` · `scrib` · `sent` · `sequ` · `sign` · `sist` · `solv` · `spec` · `sper` · `spir` · `struct` · `sum` · `temp` · `tempt` · `ten` · `tend` · `terr` · `tract` · `trib` · `ven` · `vert` · `vid` · `vinc` · `viv` · `voc`
-- **Yunanca (13):** `bio` · `chron` · `graph` · `hydr` · `log` · `metr` · `morph` · `path` · `phon` · `photo` · `psych` · `scop` · `therm`
+- **Latince (82):** `act` · `ann` · `aqu` · `aud` · `cad` · `cap` · `ced` · `cid` · `clud` · `corp` · `cred` · `cur` · `dict` · `duc` · `estim` · `fac` · `fer` · `fin` · `flect` · `form` · `fort` · `grad` · `grat` · `interpret` · `ject` · `jud` · `junct` · `leg` · `loc` · `magn` · `mand` · `manu` · `ment` · `mit` · `mort` · `mov` · `nat` · `nect` · `nomin` · `nov` · `nunci` · `ped` · `pel` · `pend` · `pil` · `plic` · `port` · `pos` · `prehend` · `press` · `pret` · `put` · `rat` · `rupt` · `scend` · `sci` · `scrib` · `sed` · `sent` · `sequ` · `sign` · `sist` · `solv` · `spec` · `sper` · `spir` · `struct` · `sum` · `temp` · `tempt` · `ten` · `tend` · `terr` · `tract` · `trib` · `val` · `ven` · `vert` · `vid` · `vinc` · `viv` · `voc`
+- **Yunanca (15):** `bio` · `chron` · `crit` · `graph` · `hydr` · `log` · `lys` · `metr` · `morph` · `path` · `phon` · `photo` · `psych` · `scop` · `therm`
 
 Sıradaki adım ([SPEC.md](SPEC.md)): internetsiz kullanım.
 

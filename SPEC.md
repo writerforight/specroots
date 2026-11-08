@@ -55,7 +55,8 @@ seçilen dillerdeki karşılığı ve öğretici örnek cümleleri bir arada gö
     contemporary, tempo), 83. kök `therm` (Yunanca thermós, ısı: thermal, thermometer, thermostat, hypothermia), 84. kök `hydr` (hýdōr, su: hydrogen,
     dehydrate, hydraulic, carbohydrate), 85. kök `psych` (psykhḗ, ruh: psychology, psychiatrist, psychic, psychosis); 2026-11-07 kullanıcı isteği "desperate":
     86. kök `sper` (sperare, umut etmek: desperate, desperation, despair, prosper, prosperity).
-    Yeni kök sınırsız açılmaz; her biri kullanıcı onayıyla eklenir.
+    87. kök `pil` (pila, sütun/yığın: pillar, pile, piling, pilaster, stockpile;
+    2026-11-08, kullanıcı isteği; compile bağı kesin değil, girilmedi). Yeni kök sınırsız açılmaz; her biri kullanıcı onayıyla eklenir.
 12. **Mimari:** nesne yönelimli, katmanlı (aşağıda). Görünüm ve tema veri ve mantıktan bağımsız
     değiştirilebilir olmalı.
 13. **Bulunabilirlik (2026-10-18):** yalnızca ana sayfa için: açıklama, Open Graph görseli (`public/og.png`),

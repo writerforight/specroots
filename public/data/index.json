@@ -2071,6 +2071,30 @@
     ]
   },
   {
+    "id": "pil",
+    "forms": [
+      "pill",
+      "pil",
+      "pile"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "pillar, pier; a heap",
+      "tr": "sütun, ayak; yığın",
+      "de": "Pfeiler, Säule; Haufen",
+      "fr": "pilier; tas",
+      "it": "pilastro; mucchio",
+      "es": "pilar; montón"
+    },
+    "words": [
+      "pillar",
+      "pile",
+      "piling",
+      "pilaster",
+      "stockpile"
+    ]
+  },
+  {
     "id": "plic",
     "forms": [
       "plic",

@@ -1,0 +1,194 @@
+{
+  "id": "pil",
+  "forms": [
+    "pill",
+    "pil",
+    "pile"
+  ],
+  "origin": "la",
+  "etymon": "pila",
+  "meaning": {
+    "en": "pillar, pier; a heap",
+    "tr": "sütun, ayak; yığın",
+    "de": "Pfeiler, Säule; Haufen",
+    "fr": "pilier; tas",
+    "it": "pilastro; mucchio",
+    "es": "pilar; montón"
+  },
+  "words": [
+    {
+      "id": "pillar",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "pill",
+        "-ar"
+      ],
+      "gloss": {
+        "en": "a tall column that holds up a building; also: an important support",
+        "tr": "sütun, direk; (mecaz) temel dayanak",
+        "de": "die Säule, der Pfeiler; die Stütze",
+        "fr": "le pilier, la colonne",
+        "it": "il pilastro, la colonna",
+        "es": "el pilar, la columna"
+      },
+      "sentences": [
+        {
+          "en": "The roof rests on four stone [pillars].",
+          "tr": "Çatı dört taş sütunun üzerinde duruyor.",
+          "de": "Das Dach ruht auf vier Steinsäulen.",
+          "fr": "Le toit repose sur quatre piliers de pierre.",
+          "it": "Il tetto poggia su quattro pilastri di pietra.",
+          "es": "El tejado descansa sobre cuatro pilares de piedra."
+        },
+        {
+          "en": "Roots are one [pillar] of my language plan.",
+          "tr": "Kökler dil planımın dayanaklarından biri.",
+          "de": "Wurzeln sind eine Säule meines Sprachplans.",
+          "fr": "Les racines sont un pilier de mon plan pour les langues.",
+          "it": "Le radici sono un pilastro del mio piano linguistico.",
+          "es": "Las raíces son un pilar de mi plan de idiomas."
+        }
+      ]
+    },
+    {
+      "id": "pile",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "pile"
+      ],
+      "gloss": {
+        "en": "a heap of things on top of each other; also: a post driven into the ground (also a verb: to put in a heap)",
+        "tr": "yığın, küme; kazık; (fiil) yığmak",
+        "de": "der Stapel, der Haufen; der Pfahl",
+        "fr": "la pile, le tas; le pieu",
+        "it": "la pila, il mucchio; il palo",
+        "es": "la pila, el montón; el pilote"
+      },
+      "sentences": [
+        {
+          "en": "There is a [pile] of books on my desk.",
+          "tr": "Masamda bir kitap yığını var.",
+          "de": "Auf meinem Schreibtisch liegt ein Stapel Bücher.",
+          "fr": "Il y a une pile de livres sur mon bureau.",
+          "it": "Sulla mia scrivania c'è una pila di libri.",
+          "es": "Hay una pila de libros en mi escritorio."
+        },
+        {
+          "en": "Don't [pile] the dishes in the sink.",
+          "tr": "Bulaşıkları eviyeye yığma.",
+          "de": "Stapel das Geschirr nicht in der Spüle.",
+          "fr": "N'empile pas la vaisselle dans l'évier.",
+          "it": "Non ammucchiare i piatti nel lavello.",
+          "es": "No amontones los platos en el fregadero."
+        }
+      ]
+    },
+    {
+      "id": "piling",
+      "pos": "noun",
+      "parent": "pile",
+      "parts": [
+        "pil",
+        "-ing"
+      ],
+      "gloss": {
+        "en": "a row of posts driven into the ground to hold up a building or bridge",
+        "tr": "kazıklı temel",
+        "de": "die Pfählung, das Pfahlwerk",
+        "fr": "le pilotis",
+        "it": "la palificata",
+        "es": "el pilotaje"
+      },
+      "sentences": [
+        {
+          "en": "Venice stands on wooden [piling].",
+          "tr": "Venedik ahşap kazıklar üzerinde duruyor.",
+          "de": "Venedig steht auf Holzpfählen.",
+          "fr": "Venise repose sur des pilotis en bois.",
+          "it": "Venezia poggia su una palificata di legno.",
+          "es": "Venecia se asienta sobre pilotes de madera."
+        },
+        {
+          "en": "The bridge needs new steel [piling].",
+          "tr": "Köprünün yeni çelik kazıklara ihtiyacı var.",
+          "de": "Die Brücke braucht neue Stahlpfähle.",
+          "fr": "Le pont a besoin de nouveaux pieux en acier.",
+          "it": "Il ponte ha bisogno di nuovi pali d'acciaio.",
+          "es": "El puente necesita nuevos pilotes de acero."
+        }
+      ]
+    },
+    {
+      "id": "pilaster",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "pil",
+        "-aster"
+      ],
+      "gloss": {
+        "en": "a flat column set into a wall for decoration",
+        "tr": "yassı duvar sütunu, plaster",
+        "de": "der Pilaster, der Wandpfeiler",
+        "fr": "le pilastre",
+        "it": "la lesena, il pilastro",
+        "es": "la pilastra"
+      },
+      "sentences": [
+        {
+          "en": "Two [pilasters] frame the old door.",
+          "tr": "Eski kapıyı iki yassı duvar sütunu çerçeveliyor.",
+          "de": "Zwei Pilaster rahmen die alte Tür ein.",
+          "fr": "Deux pilastres encadrent la vieille porte.",
+          "it": "Due lesene incorniciano la vecchia porta.",
+          "es": "Dos pilastras enmarcan la vieja puerta."
+        },
+        {
+          "en": "A [pilaster] looks like a pillar but holds nothing up.",
+          "tr": "Duvar sütunu sütuna benzer ama hiçbir şey taşımaz.",
+          "de": "Ein Pilaster sieht aus wie eine Säule, trägt aber nichts.",
+          "fr": "Un pilastre ressemble à un pilier mais ne porte rien.",
+          "it": "Una lesena sembra un pilastro ma non regge niente.",
+          "es": "Una pilastra parece un pilar pero no sostiene nada."
+        }
+      ]
+    },
+    {
+      "id": "stockpile",
+      "pos": "noun",
+      "parent": "pile",
+      "parts": [
+        "stock-",
+        "pile"
+      ],
+      "gloss": {
+        "en": "a large supply of something kept for later (also a verb)",
+        "tr": "stok, yedek yığın; (fiil) stoklamak",
+        "de": "der Vorrat; (Verb) horten, bevorraten",
+        "fr": "la réserve, le stock; (verbe) stocker",
+        "it": "la scorta; (verbo) fare scorta",
+        "es": "la reserva; (verbo) acaparar"
+      },
+      "sentences": [
+        {
+          "en": "People [stockpiled] toilet paper in 2020.",
+          "tr": "İnsanlar 2020'de tuvalet kâğıdı stokladı.",
+          "de": "Die Leute haben 2020 Klopapier gehortet.",
+          "fr": "Les gens ont stocké du papier toilette en 2020.",
+          "it": "Nel 2020 la gente ha fatto scorta di carta igienica.",
+          "es": "En 2020 la gente acaparó papel higiénico."
+        },
+        {
+          "en": "The city keeps a [stockpile] of salt for icy roads.",
+          "tr": "Şehir buzlu yollar için tuz stoğu tutuyor.",
+          "de": "Die Stadt hält einen Salzvorrat für glatte Straßen.",
+          "fr": "La ville garde une réserve de sel pour les routes verglacées.",
+          "it": "La città tiene una scorta di sale per le strade ghiacciate.",
+          "es": "La ciudad guarda una reserva de sal para las carreteras heladas."
+        }
+      ]
+    }
+  ]
+}

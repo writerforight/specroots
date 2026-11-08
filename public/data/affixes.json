@@ -3608,5 +3608,28 @@
       "es": "sentimiento, sufrimiento, enfermedad (griego pathos)"
     },
     "combining": true
+  },
+  "-aster": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "a kind of, resembling (Italian/Latin -aster)",
+      "tr": "bir tür, benzeri (İtalyanca/Latince -aster)",
+      "de": "eine Art von (italienisch/lateinisch -aster)",
+      "fr": "une sorte de (italien/latin -aster)",
+      "it": "una sorta di (latino -aster)",
+      "es": "una especie de (latín -aster)"
+    }
+  },
+  "stock-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "supply, store (Old English stocc)",
+      "tr": "stok, depo (Eski İngilizce stocc)",
+      "de": "Vorrat (altenglisch stocc)",
+      "fr": "stock, réserve (vieil anglais stocc)",
+      "it": "scorta (inglese antico stocc)",
+      "es": "existencias, reserva (inglés antiguo stocc)"
+    },
+    "combining": true
   }
 }
