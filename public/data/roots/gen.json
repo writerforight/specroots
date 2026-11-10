@@ -1,0 +1,482 @@
+{
+  "id": "gen",
+  "forms": [
+    "gen",
+    "gener"
+  ],
+  "origin": "la",
+  "etymon": "genus, generare",
+  "meaning": {
+    "en": "birth, kind; to produce",
+    "tr": "doğum, tür; üretmek",
+    "de": "Geburt, Art; erzeugen",
+    "fr": "naissance, genre ; produire",
+    "it": "nascita, genere; produrre",
+    "es": "nacimiento, género; producir"
+  },
+  "words": [
+    {
+      "id": "general",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "gener",
+        "-al"
+      ],
+      "gloss": {
+        "en": "about the whole kind, not details (literally: of the whole kind)",
+        "tr": "genel",
+        "de": "allgemein",
+        "fr": "général",
+        "it": "generale",
+        "es": "general"
+      },
+      "sentences": [
+        {
+          "en": "I have a [general] idea of the plan.",
+          "tr": "Plan hakkında genel bir fikrim var.",
+          "de": "Ich habe eine allgemeine Vorstellung vom Plan.",
+          "fr": "J'ai une idée générale du plan.",
+          "it": "Ho un'idea generale del piano.",
+          "es": "Tengo una idea general del plan."
+        },
+        {
+          "en": "This is a [general] rule, not a law.",
+          "tr": "Bu bir kanun değil, genel bir kural.",
+          "de": "Das ist eine allgemeine Regel, kein Gesetz.",
+          "fr": "C'est une règle générale, pas une loi.",
+          "it": "È una regola generale, non una legge.",
+          "es": "Es una regla general, no una ley."
+        }
+      ]
+    },
+    {
+      "id": "generally",
+      "pos": "adverb",
+      "parent": "general",
+      "parts": [
+        "gener",
+        "-al",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "usually; in most cases",
+        "tr": "genellikle",
+        "de": "im Allgemeinen, meistens",
+        "fr": "généralement",
+        "it": "generalmente",
+        "es": "generalmente"
+      },
+      "sentences": [
+        {
+          "en": "I [generally] get up at seven.",
+          "tr": "Genellikle yedide kalkarım.",
+          "de": "Ich stehe meistens um sieben auf.",
+          "fr": "Je me lève généralement à sept heures.",
+          "it": "Di solito mi alzo alle sette.",
+          "es": "Generalmente me levanto a las siete."
+        },
+        {
+          "en": "The idea was [generally] accepted.",
+          "tr": "Fikir genel olarak kabul edildi.",
+          "de": "Die Idee wurde allgemein akzeptiert.",
+          "fr": "L'idée a été généralement acceptée.",
+          "it": "L'idea è stata generalmente accettata.",
+          "es": "La idea fue aceptada en general."
+        }
+      ]
+    },
+    {
+      "id": "generalize",
+      "pos": "verb",
+      "parent": "general",
+      "parts": [
+        "gener",
+        "-al",
+        "-ize"
+      ],
+      "gloss": {
+        "en": "to make a general statement from a few cases",
+        "tr": "genellemek",
+        "de": "verallgemeinern",
+        "fr": "généraliser",
+        "it": "generalizzare",
+        "es": "generalizar"
+      },
+      "sentences": [
+        {
+          "en": "You can't [generalize] from one example.",
+          "tr": "Tek bir örnekten genelleme yapamazsın.",
+          "de": "Aus einem Beispiel kann man nicht verallgemeinern.",
+          "fr": "On ne peut pas généraliser à partir d'un exemple.",
+          "it": "Non si può generalizzare da un solo esempio.",
+          "es": "No se puede generalizar a partir de un ejemplo."
+        },
+        {
+          "en": "The method [generalizes] to more dimensions.",
+          "tr": "Yöntem daha fazla boyuta genellenebiliyor.",
+          "de": "Die Methode lässt sich auf mehr Dimensionen verallgemeinern.",
+          "fr": "La méthode se généralise à plus de dimensions.",
+          "it": "Il metodo si generalizza a più dimensioni.",
+          "es": "El método se generaliza a más dimensiones."
+        }
+      ]
+    },
+    {
+      "id": "generate",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "gener",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "to produce, to create",
+        "tr": "üretmek, oluşturmak",
+        "de": "erzeugen",
+        "fr": "produire, générer",
+        "it": "generare, produrre",
+        "es": "generar, producir"
+      },
+      "sentences": [
+        {
+          "en": "Wind turbines [generate] electricity.",
+          "tr": "Rüzgâr türbinleri elektrik üretir.",
+          "de": "Windräder erzeugen Strom.",
+          "fr": "Les éoliennes produisent de l'électricité.",
+          "it": "Le turbine eoliche producono elettricità.",
+          "es": "Los aerogeneradores generan electricidad."
+        },
+        {
+          "en": "The script [generates] a new image every day.",
+          "tr": "Betik her gün yeni bir resim oluşturuyor.",
+          "de": "Das Skript erzeugt jeden Tag ein neues Bild.",
+          "fr": "Le script génère une nouvelle image chaque jour.",
+          "it": "Lo script genera una nuova immagine ogni giorno.",
+          "es": "El script genera una imagen nueva cada día."
+        }
+      ]
+    },
+    {
+      "id": "generation",
+      "pos": "noun",
+      "parent": "generate",
+      "parts": [
+        "gener",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "all people born around the same time; the act of producing",
+        "tr": "kuşak, nesil; üretim",
+        "de": "die Generation; die Erzeugung",
+        "fr": "la génération ; la production",
+        "it": "la generazione; la produzione",
+        "es": "la generación; la producción"
+      },
+      "sentences": [
+        {
+          "en": "My parents' [generation] grew up without the internet.",
+          "tr": "Annemlerin kuşağı internetsiz büyüdü.",
+          "de": "Die Generation meiner Eltern ist ohne Internet aufgewachsen.",
+          "fr": "La génération de mes parents a grandi sans internet.",
+          "it": "La generazione dei miei genitori è cresciuta senza internet.",
+          "es": "La generación de mis padres creció sin internet."
+        },
+        {
+          "en": "Solar power is used for energy [generation].",
+          "tr": "Güneş enerjisi enerji üretimi için kullanılıyor.",
+          "de": "Solarstrom wird zur Energieerzeugung genutzt.",
+          "fr": "Le solaire sert à la production d'énergie.",
+          "it": "Il solare si usa per la produzione di energia.",
+          "es": "La energía solar se usa para la generación de energía."
+        }
+      ]
+    },
+    {
+      "id": "generator",
+      "pos": "noun",
+      "parent": "generate",
+      "parts": [
+        "gener",
+        "-ator"
+      ],
+      "gloss": {
+        "en": "a machine that produces electricity",
+        "tr": "jeneratör",
+        "de": "der Generator",
+        "fr": "le générateur",
+        "it": "il generatore",
+        "es": "el generador"
+      },
+      "sentences": [
+        {
+          "en": "The hospital has its own [generator].",
+          "tr": "Hastanenin kendi jeneratörü var.",
+          "de": "Das Krankenhaus hat einen eigenen Generator.",
+          "fr": "L'hôpital a son propre générateur.",
+          "it": "L'ospedale ha un proprio generatore.",
+          "es": "El hospital tiene su propio generador."
+        },
+        {
+          "en": "We switched on the [generator] during the blackout.",
+          "tr": "Elektrik kesintisinde jeneratörü açtık.",
+          "de": "Beim Stromausfall haben wir den Generator eingeschaltet.",
+          "fr": "Nous avons allumé le générateur pendant la panne.",
+          "it": "Abbiamo acceso il generatore durante il blackout.",
+          "es": "Encendimos el generador durante el apagón."
+        }
+      ]
+    },
+    {
+      "id": "regenerate",
+      "pos": "verb",
+      "parent": "generate",
+      "parts": [
+        "re-",
+        "gener",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "to grow or form again",
+        "tr": "yenilenmek, yeniden oluşmak",
+        "de": "sich regenerieren, sich erneuern",
+        "fr": "se régénérer",
+        "it": "rigenerarsi",
+        "es": "regenerarse"
+      },
+      "sentences": [
+        {
+          "en": "A lizard can [regenerate] its tail.",
+          "tr": "Kertenkele kuyruğunu yeniden oluşturabilir.",
+          "de": "Eine Eidechse kann ihren Schwanz nachwachsen lassen.",
+          "fr": "Un lézard peut régénérer sa queue.",
+          "it": "Una lucertola può rigenerare la coda.",
+          "es": "Una lagartija puede regenerar su cola."
+        },
+        {
+          "en": "Your skin [regenerates] while you sleep.",
+          "tr": "Cildin sen uyurken yenilenir.",
+          "de": "Deine Haut regeneriert sich, während du schläfst.",
+          "fr": "Ta peau se régénère pendant que tu dors.",
+          "it": "La tua pelle si rigenera mentre dormi.",
+          "es": "Tu piel se regenera mientras duermes."
+        }
+      ]
+    },
+    {
+      "id": "degenerate",
+      "pos": "verb",
+      "parent": "generate",
+      "parts": [
+        "de-",
+        "gener",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "to become worse (literally: to fall from its kind)",
+        "tr": "bozulmak, yozlaşmak",
+        "de": "ausarten, degenerieren",
+        "fr": "dégénérer",
+        "it": "degenerare",
+        "es": "degenerar"
+      },
+      "sentences": [
+        {
+          "en": "The debate [degenerated] into a shouting match.",
+          "tr": "Tartışma bağırış çağırışa dönüştü.",
+          "de": "Die Debatte artete in ein Geschrei aus.",
+          "fr": "Le débat a dégénéré en dispute.",
+          "it": "Il dibattito è degenerato in una lite.",
+          "es": "El debate degeneró en una pelea a gritos."
+        },
+        {
+          "en": "Without care, the muscles [degenerate].",
+          "tr": "Bakım olmazsa kaslar zayıflar.",
+          "de": "Ohne Pflege bauen die Muskeln ab.",
+          "fr": "Sans soins, les muscles dégénèrent.",
+          "it": "Senza cure, i muscoli degenerano.",
+          "es": "Sin cuidado, los músculos degeneran."
+        }
+      ]
+    },
+    {
+      "id": "generous",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "gener",
+        "-ous"
+      ],
+      "gloss": {
+        "en": "happy to give more than needed (first: of noble birth)",
+        "tr": "cömert",
+        "de": "großzügig",
+        "fr": "généreux",
+        "it": "generoso",
+        "es": "generoso"
+      },
+      "sentences": [
+        {
+          "en": "Thank you, that's very [generous] of you.",
+          "tr": "Teşekkürler, çok cömertsin.",
+          "de": "Danke, das ist sehr großzügig von dir.",
+          "fr": "Merci, c'est très généreux de ta part.",
+          "it": "Grazie, sei molto generoso.",
+          "es": "Gracias, eres muy generoso."
+        },
+        {
+          "en": "They gave us a [generous] amount of time.",
+          "tr": "Bize bolca zaman verdiler.",
+          "de": "Sie gaben uns großzügig Zeit.",
+          "fr": "Ils nous ont donné un temps généreux.",
+          "it": "Ci hanno dato un tempo generoso.",
+          "es": "Nos dieron un tiempo generoso."
+        }
+      ]
+    },
+    {
+      "id": "generic",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "gener",
+        "-ic"
+      ],
+      "gloss": {
+        "en": "general, not specific; without a brand name",
+        "tr": "genel; markasız (jenerik)",
+        "de": "allgemein; ohne Markennamen (Generikum)",
+        "fr": "générique",
+        "it": "generico",
+        "es": "genérico"
+      },
+      "sentences": [
+        {
+          "en": "The doctor prescribed a [generic] drug.",
+          "tr": "Doktor jenerik bir ilaç yazdı.",
+          "de": "Der Arzt hat ein Generikum verschrieben.",
+          "fr": "Le médecin a prescrit un médicament générique.",
+          "it": "Il medico ha prescritto un farmaco generico.",
+          "es": "El médico recetó un medicamento genérico."
+        },
+        {
+          "en": "The answer was too [generic] to help.",
+          "tr": "Cevap yardımcı olamayacak kadar genel kaldı.",
+          "de": "Die Antwort war zu allgemein, um zu helfen.",
+          "fr": "La réponse était trop générique pour aider.",
+          "it": "La risposta era troppo generica per aiutare.",
+          "es": "La respuesta era demasiado genérica para ayudar."
+        }
+      ]
+    },
+    {
+      "id": "progeny",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "pro-",
+        "gen",
+        "-y"
+      ],
+      "gloss": {
+        "en": "children, descendants (literally: born forth)",
+        "tr": "soy, döl",
+        "de": "die Nachkommen",
+        "fr": "la progéniture",
+        "it": "la progenie",
+        "es": "la progenie"
+      },
+      "sentences": [
+        {
+          "en": "The old king left no [progeny].",
+          "tr": "Yaşlı kral geride soy bırakmadı.",
+          "de": "Der alte König hinterließ keine Nachkommen.",
+          "fr": "Le vieux roi n'a laissé aucune progéniture.",
+          "it": "Il vecchio re non lasciò progenie.",
+          "es": "El viejo rey no dejó progenie."
+        },
+        {
+          "en": "The plant passes its traits to its [progeny].",
+          "tr": "Bitki özelliklerini dölüne aktarır.",
+          "de": "Die Pflanze gibt ihre Merkmale an die Nachkommen weiter.",
+          "fr": "La plante transmet ses traits à sa progéniture.",
+          "it": "La pianta trasmette i suoi tratti alla progenie.",
+          "es": "La planta transmite sus rasgos a su progenie."
+        }
+      ]
+    },
+    {
+      "id": "ingenious",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "in-",
+        "gen",
+        "-ious"
+      ],
+      "gloss": {
+        "en": "very clever and original (literally: with inborn talent)",
+        "tr": "dâhice, çok zekice",
+        "de": "genial, raffiniert",
+        "fr": "ingénieux",
+        "it": "ingegnoso",
+        "es": "ingenioso"
+      },
+      "sentences": [
+        {
+          "en": "What an [ingenious] solution!",
+          "tr": "Ne kadar zekice bir çözüm!",
+          "de": "Was für eine geniale Lösung!",
+          "fr": "Quelle solution ingénieuse !",
+          "it": "Che soluzione ingegnosa!",
+          "es": "¡Qué solución tan ingeniosa!"
+        },
+        {
+          "en": "She built an [ingenious] little robot.",
+          "tr": "Çok zekice küçük bir robot yaptı.",
+          "de": "Sie hat einen raffinierten kleinen Roboter gebaut.",
+          "fr": "Elle a construit un petit robot ingénieux.",
+          "it": "Ha costruito un piccolo robot ingegnoso.",
+          "es": "Construyó un pequeño robot ingenioso."
+        }
+      ]
+    },
+    {
+      "id": "congenital",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "con-",
+        "gen",
+        "-it",
+        "-al"
+      ],
+      "gloss": {
+        "en": "present from birth",
+        "tr": "doğuştan",
+        "de": "angeboren",
+        "fr": "congénital",
+        "it": "congenito",
+        "es": "congénito"
+      },
+      "sentences": [
+        {
+          "en": "He has a [congenital] heart problem.",
+          "tr": "Doğuştan bir kalp sorunu var.",
+          "de": "Er hat einen angeborenen Herzfehler.",
+          "fr": "Il a un problème cardiaque congénital.",
+          "it": "Ha un problema cardiaco congenito.",
+          "es": "Tiene un problema cardíaco congénito."
+        },
+        {
+          "en": "The condition is [congenital], not caused by an accident.",
+          "tr": "Rahatsızlık doğuştan, bir kazadan kaynaklanmıyor.",
+          "de": "Die Erkrankung ist angeboren, nicht durch einen Unfall verursacht.",
+          "fr": "La maladie est congénitale, pas due à un accident.",
+          "it": "La condizione è congenita, non causata da un incidente.",
+          "es": "La afección es congénita, no se debe a un accidente."
+        }
+      ]
+    }
+  ]
+}

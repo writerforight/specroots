@@ -1,0 +1,481 @@
+{
+  "id": "flu",
+  "forms": [
+    "flu",
+    "flux",
+    "fluct"
+  ],
+  "origin": "la",
+  "etymon": "fluere",
+  "meaning": {
+    "en": "to flow",
+    "tr": "akmak",
+    "de": "fließen",
+    "fr": "couler",
+    "it": "scorrere",
+    "es": "fluir"
+  },
+  "words": [
+    {
+      "id": "fluid",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "flu",
+        "-id"
+      ],
+      "gloss": {
+        "en": "a liquid or gas; something that flows",
+        "tr": "akışkan, sıvı",
+        "de": "die Flüssigkeit, das Fluid",
+        "fr": "le fluide",
+        "it": "il fluido",
+        "es": "el fluido"
+      },
+      "sentences": [
+        {
+          "en": "Drink plenty of [fluids] when you have a fever.",
+          "tr": "Ateşin varken bol sıvı iç.",
+          "de": "Trink viel Flüssigkeit, wenn du Fieber hast.",
+          "fr": "Bois beaucoup quand tu as de la fièvre.",
+          "it": "Bevi molti liquidi quando hai la febbre.",
+          "es": "Bebe muchos líquidos cuando tengas fiebre."
+        },
+        {
+          "en": "Air and water are both [fluids].",
+          "tr": "Hava ve su ikisi de akışkandır.",
+          "de": "Luft und Wasser sind beides Fluide.",
+          "fr": "L'air et l'eau sont tous deux des fluides.",
+          "it": "L'aria e l'acqua sono entrambe fluidi.",
+          "es": "El aire y el agua son fluidos."
+        }
+      ]
+    },
+    {
+      "id": "fluidity",
+      "pos": "noun",
+      "parent": "fluid",
+      "parts": [
+        "flu",
+        "-id",
+        "-ity"
+      ],
+      "gloss": {
+        "en": "the quality of flowing easily",
+        "tr": "akıcılık, akışkanlık",
+        "de": "die Flüssigkeit (Eigenschaft), der Fluss",
+        "fr": "la fluidité",
+        "it": "la fluidità",
+        "es": "la fluidez"
+      },
+      "sentences": [
+        {
+          "en": "The dancer moves with great [fluidity].",
+          "tr": "Dansçı büyük bir akıcılıkla hareket ediyor.",
+          "de": "Die Tänzerin bewegt sich mit großer Leichtigkeit.",
+          "fr": "La danseuse bouge avec une grande fluidité.",
+          "it": "La ballerina si muove con grande fluidità.",
+          "es": "La bailarina se mueve con gran fluidez."
+        },
+        {
+          "en": "Heat increases the [fluidity] of the oil.",
+          "tr": "Isı yağın akışkanlığını artırır.",
+          "de": "Wärme erhöht die Fließfähigkeit des Öls.",
+          "fr": "La chaleur augmente la fluidité de l'huile.",
+          "it": "Il calore aumenta la fluidità dell'olio.",
+          "es": "El calor aumenta la fluidez del aceite."
+        }
+      ]
+    },
+    {
+      "id": "fluent",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "flu",
+        "-ent"
+      ],
+      "gloss": {
+        "en": "speaking a language easily and well (literally: flowing)",
+        "tr": "akıcı",
+        "de": "fließend",
+        "fr": "courant, fluide",
+        "it": "fluente",
+        "es": "fluido, con soltura"
+      },
+      "sentences": [
+        {
+          "en": "She is [fluent] in three languages.",
+          "tr": "Üç dili akıcı konuşuyor.",
+          "de": "Sie spricht drei Sprachen fließend.",
+          "fr": "Elle parle couramment trois langues.",
+          "it": "Parla tre lingue in modo fluente.",
+          "es": "Habla tres idiomas con fluidez."
+        },
+        {
+          "en": "You need [fluent] English for this job.",
+          "tr": "Bu iş için akıcı İngilizce gerekiyor.",
+          "de": "Für diesen Job brauchst du fließendes Englisch.",
+          "fr": "Il faut un anglais courant pour ce poste.",
+          "it": "Per questo lavoro serve un inglese fluente.",
+          "es": "Para este trabajo necesitas un inglés fluido."
+        }
+      ]
+    },
+    {
+      "id": "fluency",
+      "pos": "noun",
+      "parent": "fluent",
+      "parts": [
+        "flu",
+        "-ency"
+      ],
+      "gloss": {
+        "en": "the ability to speak or write easily",
+        "tr": "akıcılık",
+        "de": "die Sprachgewandtheit, das flüssige Sprechen",
+        "fr": "l'aisance, la fluidité",
+        "it": "la scioltezza, la padronanza",
+        "es": "la fluidez"
+      },
+      "sentences": [
+        {
+          "en": "Reading every day improves your [fluency].",
+          "tr": "Her gün okumak akıcılığını artırır.",
+          "de": "Tägliches Lesen verbessert deine Sprachgewandtheit.",
+          "fr": "Lire chaque jour améliore ton aisance.",
+          "it": "Leggere ogni giorno migliora la tua scioltezza.",
+          "es": "Leer cada día mejora tu fluidez."
+        },
+        {
+          "en": "[Fluency] matters more than perfect grammar here.",
+          "tr": "Burada akıcılık kusursuz dilbilgisinden daha önemli.",
+          "de": "Flüssiges Sprechen ist hier wichtiger als perfekte Grammatik.",
+          "fr": "Ici, l'aisance compte plus qu'une grammaire parfaite.",
+          "it": "Qui la scioltezza conta più della grammatica perfetta.",
+          "es": "Aquí la fluidez importa más que la gramática perfecta."
+        }
+      ]
+    },
+    {
+      "id": "influence",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "in-",
+        "flu",
+        "-ence"
+      ],
+      "gloss": {
+        "en": "the power to change someone or something (literally: a flowing in)",
+        "tr": "etki, nüfuz",
+        "de": "der Einfluss",
+        "fr": "l'influence",
+        "it": "l'influenza (azione)",
+        "es": "la influencia"
+      },
+      "sentences": [
+        {
+          "en": "Music had a big [influence] on her life.",
+          "tr": "Müzik hayatında büyük bir etki bıraktı.",
+          "de": "Musik hatte einen großen Einfluss auf ihr Leben.",
+          "fr": "La musique a eu une grande influence sur sa vie.",
+          "it": "La musica ha avuto una grande influenza sulla sua vita.",
+          "es": "La música tuvo una gran influencia en su vida."
+        },
+        {
+          "en": "Don't drive under the [influence] of alcohol.",
+          "tr": "Alkollüyken araba kullanma.",
+          "de": "Fahr nicht unter Alkoholeinfluss.",
+          "fr": "Ne conduis pas sous l'influence de l'alcool.",
+          "it": "Non guidare sotto l'effetto dell'alcol.",
+          "es": "No conduzcas bajo los efectos del alcohol."
+        }
+      ]
+    },
+    {
+      "id": "influential",
+      "pos": "adjective",
+      "parent": "influence",
+      "parts": [
+        "in-",
+        "flu",
+        "-ent",
+        "-ial"
+      ],
+      "gloss": {
+        "en": "having a lot of influence",
+        "tr": "etkili, nüfuzlu",
+        "de": "einflussreich",
+        "fr": "influent",
+        "it": "influente",
+        "es": "influyente"
+      },
+      "sentences": [
+        {
+          "en": "He is one of the most [influential] scientists today.",
+          "tr": "Bugünün en etkili bilim insanlarından biri.",
+          "de": "Er ist einer der einflussreichsten Wissenschaftler heute.",
+          "fr": "C'est l'un des scientifiques les plus influents aujourd'hui.",
+          "it": "È uno degli scienziati più influenti di oggi.",
+          "es": "Es uno de los científicos más influyentes de hoy."
+        },
+        {
+          "en": "The book was very [influential] in the 1960s.",
+          "tr": "Kitap 1960'larda çok etkiliydi.",
+          "de": "Das Buch war in den 1960ern sehr einflussreich.",
+          "fr": "Le livre a été très influent dans les années 1960.",
+          "it": "Il libro fu molto influente negli anni Sessanta.",
+          "es": "El libro fue muy influyente en los años sesenta."
+        }
+      ]
+    },
+    {
+      "id": "affluent",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "af-",
+        "flu",
+        "-ent"
+      ],
+      "gloss": {
+        "en": "rich (literally: flowing towards, overflowing)",
+        "tr": "varlıklı, zengin",
+        "de": "wohlhabend",
+        "fr": "aisé, riche",
+        "it": "benestante",
+        "es": "acomodado, rico"
+      },
+      "sentences": [
+        {
+          "en": "They live in an [affluent] part of town.",
+          "tr": "Şehrin varlıklı bir semtinde yaşıyorlar.",
+          "de": "Sie wohnen in einem wohlhabenden Stadtteil.",
+          "fr": "Ils habitent un quartier aisé.",
+          "it": "Vivono in una zona benestante della città.",
+          "es": "Viven en una zona acomodada de la ciudad."
+        },
+        {
+          "en": "[Affluent] countries use more energy per person.",
+          "tr": "Zengin ülkeler kişi başına daha çok enerji kullanıyor.",
+          "de": "Wohlhabende Länder verbrauchen mehr Energie pro Kopf.",
+          "fr": "Les pays riches consomment plus d'énergie par habitant.",
+          "it": "I paesi ricchi usano più energia per persona.",
+          "es": "Los países ricos usan más energía por persona."
+        }
+      ]
+    },
+    {
+      "id": "affluence",
+      "pos": "noun",
+      "parent": "affluent",
+      "parts": [
+        "af-",
+        "flu",
+        "-ence"
+      ],
+      "gloss": {
+        "en": "wealth",
+        "tr": "refah, varlık",
+        "de": "der Wohlstand",
+        "fr": "l'aisance, la richesse",
+        "it": "la ricchezza, il benessere",
+        "es": "la riqueza, la opulencia"
+      },
+      "sentences": [
+        {
+          "en": "The town grew in [affluence] after the mine opened.",
+          "tr": "Maden açıldıktan sonra kasabanın refahı arttı.",
+          "de": "Nach der Eröffnung der Mine wuchs der Wohlstand der Stadt.",
+          "fr": "La ville s'est enrichie après l'ouverture de la mine.",
+          "it": "La città è cresciuta in benessere dopo l'apertura della miniera.",
+          "es": "El pueblo prosperó tras abrir la mina."
+        },
+        {
+          "en": "[Affluence] does not always bring happiness.",
+          "tr": "Refah her zaman mutluluk getirmez.",
+          "de": "Wohlstand macht nicht immer glücklich.",
+          "fr": "La richesse n'apporte pas toujours le bonheur.",
+          "it": "La ricchezza non porta sempre felicità.",
+          "es": "La riqueza no siempre trae felicidad."
+        }
+      ]
+    },
+    {
+      "id": "superfluous",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "super-",
+        "flu",
+        "-ous"
+      ],
+      "gloss": {
+        "en": "more than needed (literally: overflowing)",
+        "tr": "gereksiz, fazla",
+        "de": "überflüssig",
+        "fr": "superflu",
+        "it": "superfluo",
+        "es": "superfluo"
+      },
+      "sentences": [
+        {
+          "en": "Delete the [superfluous] words in your essay.",
+          "tr": "Yazındaki gereksiz kelimeleri sil.",
+          "de": "Streich die überflüssigen Wörter in deinem Aufsatz.",
+          "fr": "Supprime les mots superflus de ta rédaction.",
+          "it": "Elimina le parole superflue nel tuo tema.",
+          "es": "Borra las palabras superfluas de tu redacción."
+        },
+        {
+          "en": "Any further comment would be [superfluous].",
+          "tr": "Daha fazla yorum gereksiz olur.",
+          "de": "Jeder weitere Kommentar wäre überflüssig.",
+          "fr": "Tout autre commentaire serait superflu.",
+          "it": "Ogni altro commento sarebbe superfluo.",
+          "es": "Cualquier otro comentario sería superfluo."
+        }
+      ]
+    },
+    {
+      "id": "flux",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "flux"
+      ],
+      "gloss": {
+        "en": "constant change; a flow (in physics: magnetic flux)",
+        "tr": "sürekli değişim; akı",
+        "de": "der ständige Wandel; der Fluss (magnetischer Fluss)",
+        "fr": "le flux ; le changement constant",
+        "it": "il flusso; il cambiamento continuo",
+        "es": "el flujo; el cambio constante"
+      },
+      "sentences": [
+        {
+          "en": "The plans are still in [flux].",
+          "tr": "Planlar hâlâ değişiyor.",
+          "de": "Die Pläne sind noch im Wandel.",
+          "fr": "Les plans sont encore en évolution.",
+          "it": "I piani sono ancora in evoluzione.",
+          "es": "Los planes todavía están cambiando."
+        },
+        {
+          "en": "The magnetic [flux] through the coil changes.",
+          "tr": "Bobinden geçen manyetik akı değişiyor.",
+          "de": "Der magnetische Fluss durch die Spule ändert sich.",
+          "fr": "Le flux magnétique à travers la bobine varie.",
+          "it": "Il flusso magnetico nella bobina cambia.",
+          "es": "El flujo magnético a través de la bobina cambia."
+        }
+      ]
+    },
+    {
+      "id": "influx",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "in-",
+        "flux"
+      ],
+      "gloss": {
+        "en": "a large number of people or things arriving",
+        "tr": "akın, giriş",
+        "de": "der Zustrom",
+        "fr": "l'afflux",
+        "it": "l'afflusso",
+        "es": "la afluencia"
+      },
+      "sentences": [
+        {
+          "en": "The city saw an [influx] of students in October.",
+          "tr": "Şehre ekimde öğrenci akını oldu.",
+          "de": "Im Oktober gab es einen Zustrom von Studierenden in die Stadt.",
+          "fr": "La ville a connu un afflux d'étudiants en octobre.",
+          "it": "In ottobre la città ha visto un afflusso di studenti.",
+          "es": "La ciudad recibió una afluencia de estudiantes en octubre."
+        },
+        {
+          "en": "An [influx] of cold air brought snow.",
+          "tr": "Soğuk hava girişi kar getirdi.",
+          "de": "Ein Zustrom kalter Luft brachte Schnee.",
+          "fr": "Un afflux d'air froid a apporté de la neige.",
+          "it": "Un afflusso di aria fredda ha portato la neve.",
+          "es": "Una entrada de aire frío trajo nieve."
+        }
+      ]
+    },
+    {
+      "id": "fluctuate",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "fluct",
+        "-uate"
+      ],
+      "gloss": {
+        "en": "to go up and down again and again (literally: to move like waves)",
+        "tr": "dalgalanmak, inip çıkmak",
+        "de": "schwanken",
+        "fr": "fluctuer",
+        "it": "oscillare, fluttuare",
+        "es": "fluctuar"
+      },
+      "sentences": [
+        {
+          "en": "Prices [fluctuate] from month to month.",
+          "tr": "Fiyatlar aydan aya dalgalanıyor.",
+          "de": "Die Preise schwanken von Monat zu Monat.",
+          "fr": "Les prix fluctuent d'un mois à l'autre.",
+          "it": "I prezzi oscillano di mese in mese.",
+          "es": "Los precios fluctúan de un mes a otro."
+        },
+        {
+          "en": "The voltage [fluctuates] when the motor starts.",
+          "tr": "Motor çalışınca gerilim dalgalanıyor.",
+          "de": "Die Spannung schwankt, wenn der Motor anläuft.",
+          "fr": "La tension fluctue quand le moteur démarre.",
+          "it": "La tensione oscilla quando il motore parte.",
+          "es": "La tensión fluctúa cuando arranca el motor."
+        }
+      ]
+    },
+    {
+      "id": "fluctuation",
+      "pos": "noun",
+      "parent": "fluctuate",
+      "parts": [
+        "fluct",
+        "-uation"
+      ],
+      "gloss": {
+        "en": "a change up and down",
+        "tr": "dalgalanma",
+        "de": "die Schwankung",
+        "fr": "la fluctuation",
+        "it": "la fluttuazione, l'oscillazione",
+        "es": "la fluctuación"
+      },
+      "sentences": [
+        {
+          "en": "Small [fluctuations] in temperature are normal.",
+          "tr": "Sıcaklıktaki küçük dalgalanmalar normaldir.",
+          "de": "Kleine Temperaturschwankungen sind normal.",
+          "fr": "De petites fluctuations de température sont normales.",
+          "it": "Piccole oscillazioni di temperatura sono normali.",
+          "es": "Pequeñas fluctuaciones de temperatura son normales."
+        },
+        {
+          "en": "The sensor filters out short [fluctuations].",
+          "tr": "Sensör kısa dalgalanmaları süzüyor.",
+          "de": "Der Sensor filtert kurze Schwankungen heraus.",
+          "fr": "Le capteur filtre les fluctuations brèves.",
+          "it": "Il sensore filtra le brevi fluttuazioni.",
+          "es": "El sensor filtra las fluctuaciones breves."
+        }
+      ]
+    }
+  ]
+}

@@ -885,6 +885,38 @@
     ]
   },
   {
+    "id": "flu",
+    "forms": [
+      "flu",
+      "flux",
+      "fluct"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to flow",
+      "tr": "akmak",
+      "de": "fließen",
+      "fr": "couler",
+      "it": "scorrere",
+      "es": "fluir"
+    },
+    "words": [
+      "fluid",
+      "fluidity",
+      "fluent",
+      "fluency",
+      "influence",
+      "influential",
+      "affluent",
+      "affluence",
+      "superfluous",
+      "flux",
+      "influx",
+      "fluctuate",
+      "fluctuation"
+    ]
+  },
+  {
     "id": "form",
     "forms": [
       "form"
@@ -964,6 +996,37 @@
       "force",
       "enforce",
       "reinforce"
+    ]
+  },
+  {
+    "id": "gen",
+    "forms": [
+      "gen",
+      "gener"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "birth, kind; to produce",
+      "tr": "doğum, tür; üretmek",
+      "de": "Geburt, Art; erzeugen",
+      "fr": "naissance, genre ; produire",
+      "it": "nascita, genere; produrre",
+      "es": "nacimiento, género; producir"
+    },
+    "words": [
+      "general",
+      "generally",
+      "generalize",
+      "generate",
+      "generation",
+      "generator",
+      "regenerate",
+      "degenerate",
+      "generous",
+      "generic",
+      "progeny",
+      "ingenious",
+      "congenital"
     ]
   },
   {
@@ -2621,6 +2684,36 @@
       "subscriber",
       "ascribe",
       "indescribable"
+    ]
+  },
+  {
+    "id": "sect",
+    "forms": [
+      "sect",
+      "seg"
+    ],
+    "origin": "la",
+    "meaning": {
+      "en": "to cut",
+      "tr": "kesmek",
+      "de": "schneiden",
+      "fr": "couper",
+      "it": "tagliare",
+      "es": "cortar"
+    },
+    "words": [
+      "section",
+      "subsection",
+      "sectional",
+      "sector",
+      "insect",
+      "intersect",
+      "intersection",
+      "dissect",
+      "dissection",
+      "bisect",
+      "segment",
+      "segmentation"
     ]
   },
   {

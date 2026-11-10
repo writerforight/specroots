@@ -1,0 +1,444 @@
+{
+  "id": "sect",
+  "forms": [
+    "sect",
+    "seg"
+  ],
+  "origin": "la",
+  "etymon": "secare",
+  "meaning": {
+    "en": "to cut",
+    "tr": "kesmek",
+    "de": "schneiden",
+    "fr": "couper",
+    "it": "tagliare",
+    "es": "cortar"
+  },
+  "words": [
+    {
+      "id": "section",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "sect",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "one of the parts something is divided into (literally: a cutting)",
+        "tr": "bölüm, kesit",
+        "de": "der Abschnitt, der Teil",
+        "fr": "la section, la partie",
+        "it": "la sezione",
+        "es": "la sección"
+      },
+      "sentences": [
+        {
+          "en": "Read the first [section] before the lecture.",
+          "tr": "Dersten önce ilk bölümü oku.",
+          "de": "Lies den ersten Abschnitt vor der Vorlesung.",
+          "fr": "Lis la première section avant le cours.",
+          "it": "Leggi la prima sezione prima della lezione.",
+          "es": "Lee la primera sección antes de la clase."
+        },
+        {
+          "en": "The fruit [section] is near the entrance.",
+          "tr": "Meyve reyonu girişe yakın.",
+          "de": "Die Obstabteilung ist beim Eingang.",
+          "fr": "Le rayon fruits est près de l'entrée.",
+          "it": "Il reparto frutta è vicino all'ingresso.",
+          "es": "La sección de fruta está cerca de la entrada."
+        }
+      ]
+    },
+    {
+      "id": "subsection",
+      "pos": "noun",
+      "parent": "section",
+      "parts": [
+        "sub-",
+        "sect",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a smaller part of a section",
+        "tr": "alt bölüm",
+        "de": "der Unterabschnitt",
+        "fr": "la sous-section",
+        "it": "la sottosezione",
+        "es": "la subsección"
+      },
+      "sentences": [
+        {
+          "en": "The proof is in [subsection] 2.3.",
+          "tr": "Kanıt 2.3 alt bölümünde.",
+          "de": "Der Beweis steht in Unterabschnitt 2.3.",
+          "fr": "La preuve est dans la sous-section 2.3.",
+          "it": "La dimostrazione è nella sottosezione 2.3.",
+          "es": "La demostración está en la subsección 2.3."
+        },
+        {
+          "en": "Each chapter has three [subsections].",
+          "tr": "Her bölümün üç alt bölümü var.",
+          "de": "Jedes Kapitel hat drei Unterabschnitte.",
+          "fr": "Chaque chapitre a trois sous-sections.",
+          "it": "Ogni capitolo ha tre sottosezioni.",
+          "es": "Cada capítulo tiene tres subsecciones."
+        }
+      ]
+    },
+    {
+      "id": "sectional",
+      "pos": "adjective",
+      "parent": "section",
+      "parts": [
+        "sect",
+        "-ion",
+        "-al"
+      ],
+      "gloss": {
+        "en": "made of sections; about one section",
+        "tr": "bölümlü, parçalı; kesit",
+        "de": "aus Teilen, Teil-; Schnitt-",
+        "fr": "sectionnel, modulable",
+        "it": "componibile; sezionale",
+        "es": "modular, por secciones"
+      },
+      "sentences": [
+        {
+          "en": "We bought a [sectional] sofa for the living room.",
+          "tr": "Salon için modüler bir kanepe aldık.",
+          "de": "Wir haben ein modulares Sofa fürs Wohnzimmer gekauft.",
+          "fr": "Nous avons acheté un canapé modulable pour le salon.",
+          "it": "Abbiamo comprato un divano componibile per il soggiorno.",
+          "es": "Compramos un sofá modular para el salón."
+        },
+        {
+          "en": "The drawing shows a [sectional] view of the motor.",
+          "tr": "Çizim motorun kesit görünüşünü gösteriyor.",
+          "de": "Die Zeichnung zeigt eine Schnittansicht des Motors.",
+          "fr": "Le dessin montre une vue en coupe du moteur.",
+          "it": "Il disegno mostra una vista in sezione del motore.",
+          "es": "El dibujo muestra una vista en sección del motor."
+        }
+      ]
+    },
+    {
+      "id": "sector",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "sect",
+        "-or"
+      ],
+      "gloss": {
+        "en": "a part of an area or of the economy; a slice of a circle",
+        "tr": "sektör; daire dilimi",
+        "de": "der Sektor, der Bereich",
+        "fr": "le secteur",
+        "it": "il settore",
+        "es": "el sector"
+      },
+      "sentences": [
+        {
+          "en": "She works in the energy [sector].",
+          "tr": "Enerji sektöründe çalışıyor.",
+          "de": "Sie arbeitet im Energiesektor.",
+          "fr": "Elle travaille dans le secteur de l'énergie.",
+          "it": "Lavora nel settore dell'energia.",
+          "es": "Trabaja en el sector energético."
+        },
+        {
+          "en": "Calculate the area of the circle [sector].",
+          "tr": "Daire diliminin alanını hesapla.",
+          "de": "Berechne die Fläche des Kreissektors.",
+          "fr": "Calcule l'aire du secteur circulaire.",
+          "it": "Calcola l'area del settore circolare.",
+          "es": "Calcula el área del sector circular."
+        }
+      ]
+    },
+    {
+      "id": "insect",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "in-",
+        "sect"
+      ],
+      "gloss": {
+        "en": "a small animal with six legs (literally: cut into, as its body has segments)",
+        "tr": "böcek",
+        "de": "das Insekt",
+        "fr": "l'insecte",
+        "it": "l'insetto",
+        "es": "el insecto"
+      },
+      "sentences": [
+        {
+          "en": "Bees are useful [insects].",
+          "tr": "Arılar yararlı böceklerdir.",
+          "de": "Bienen sind nützliche Insekten.",
+          "fr": "Les abeilles sont des insectes utiles.",
+          "it": "Le api sono insetti utili.",
+          "es": "Las abejas son insectos útiles."
+        },
+        {
+          "en": "An [insect] flew into my tea.",
+          "tr": "Çayıma bir böcek uçtu.",
+          "de": "Ein Insekt ist in meinen Tee geflogen.",
+          "fr": "Un insecte est tombé dans mon thé.",
+          "it": "Un insetto è volato nel mio tè.",
+          "es": "Un insecto se cayó en mi té."
+        }
+      ]
+    },
+    {
+      "id": "intersect",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "inter-",
+        "sect"
+      ],
+      "gloss": {
+        "en": "to cross each other (literally: to cut between)",
+        "tr": "kesişmek",
+        "de": "sich schneiden, sich kreuzen",
+        "fr": "se couper, se croiser",
+        "it": "intersecarsi",
+        "es": "cruzarse, intersecarse"
+      },
+      "sentences": [
+        {
+          "en": "The two lines [intersect] at one point.",
+          "tr": "İki doğru bir noktada kesişir.",
+          "de": "Die zwei Geraden schneiden sich in einem Punkt.",
+          "fr": "Les deux droites se coupent en un point.",
+          "it": "Le due rette si intersecano in un punto.",
+          "es": "Las dos rectas se cortan en un punto."
+        },
+        {
+          "en": "The roads [intersect] near the station.",
+          "tr": "Yollar istasyonun yakınında kesişiyor.",
+          "de": "Die Straßen kreuzen sich beim Bahnhof.",
+          "fr": "Les routes se croisent près de la gare.",
+          "it": "Le strade si incrociano vicino alla stazione.",
+          "es": "Las carreteras se cruzan cerca de la estación."
+        }
+      ]
+    },
+    {
+      "id": "intersection",
+      "pos": "noun",
+      "parent": "intersect",
+      "parts": [
+        "inter-",
+        "sect",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a place where roads cross; the point or set two things share",
+        "tr": "kavşak; kesişim",
+        "de": "die Kreuzung; der Schnittpunkt, die Schnittmenge",
+        "fr": "le carrefour ; l'intersection",
+        "it": "l'incrocio; l'intersezione",
+        "es": "el cruce; la intersección"
+      },
+      "sentences": [
+        {
+          "en": "Turn left at the next [intersection].",
+          "tr": "Bir sonraki kavşakta sola dön.",
+          "de": "Bieg an der nächsten Kreuzung links ab.",
+          "fr": "Tourne à gauche au prochain carrefour.",
+          "it": "Gira a sinistra al prossimo incrocio.",
+          "es": "Gira a la izquierda en el próximo cruce."
+        },
+        {
+          "en": "Find the [intersection] of the two sets.",
+          "tr": "İki kümenin kesişimini bul.",
+          "de": "Bestimme die Schnittmenge der beiden Mengen.",
+          "fr": "Trouve l'intersection des deux ensembles.",
+          "it": "Trova l'intersezione dei due insiemi.",
+          "es": "Halla la intersección de los dos conjuntos."
+        }
+      ]
+    },
+    {
+      "id": "dissect",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "dis-",
+        "sect"
+      ],
+      "gloss": {
+        "en": "to cut apart in order to study; to examine in detail",
+        "tr": "kesip incelemek; didik didik etmek",
+        "de": "sezieren; genau zerlegen",
+        "fr": "disséquer",
+        "it": "sezionare; analizzare a fondo",
+        "es": "diseccionar"
+      },
+      "sentences": [
+        {
+          "en": "In biology we [dissected] a frog.",
+          "tr": "Biyolojide bir kurbağayı kesip inceledik.",
+          "de": "In Biologie haben wir einen Frosch seziert.",
+          "fr": "En biologie, nous avons disséqué une grenouille.",
+          "it": "In biologia abbiamo sezionato una rana.",
+          "es": "En biología diseccionamos una rana."
+        },
+        {
+          "en": "The critics [dissected] every scene of the film.",
+          "tr": "Eleştirmenler filmin her sahnesini didik didik etti.",
+          "de": "Die Kritiker haben jede Szene des Films zerlegt.",
+          "fr": "Les critiques ont disséqué chaque scène du film.",
+          "it": "I critici hanno analizzato a fondo ogni scena del film.",
+          "es": "Los críticos diseccionaron cada escena de la película."
+        }
+      ]
+    },
+    {
+      "id": "dissection",
+      "pos": "noun",
+      "parent": "dissect",
+      "parts": [
+        "dis-",
+        "sect",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "the cutting apart of a body to study it",
+        "tr": "kesip inceleme, diseksiyon",
+        "de": "die Sektion, das Sezieren",
+        "fr": "la dissection",
+        "it": "la dissezione",
+        "es": "la disección"
+      },
+      "sentences": [
+        {
+          "en": "Medical students learn anatomy through [dissection].",
+          "tr": "Tıp öğrencileri anatomiyi kadavra incelemesiyle öğrenir.",
+          "de": "Medizinstudierende lernen Anatomie durch Sektion.",
+          "fr": "Les étudiants en médecine apprennent l'anatomie par la dissection.",
+          "it": "Gli studenti di medicina imparano l'anatomia con la dissezione.",
+          "es": "Los estudiantes de medicina aprenden anatomía mediante la disección."
+        },
+        {
+          "en": "The [dissection] took the whole afternoon.",
+          "tr": "Diseksiyon bütün öğleden sonra sürdü.",
+          "de": "Die Sektion dauerte den ganzen Nachmittag.",
+          "fr": "La dissection a pris tout l'après-midi.",
+          "it": "La dissezione è durata tutto il pomeriggio.",
+          "es": "La disección duró toda la tarde."
+        }
+      ]
+    },
+    {
+      "id": "bisect",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "bi-",
+        "sect"
+      ],
+      "gloss": {
+        "en": "to cut into two equal parts",
+        "tr": "ikiye bölmek",
+        "de": "halbieren",
+        "fr": "couper en deux",
+        "it": "bisecare, dividere a metà",
+        "es": "bisecar, dividir en dos"
+      },
+      "sentences": [
+        {
+          "en": "Draw a line that [bisects] the angle.",
+          "tr": "Açıyı ikiye bölen bir doğru çiz.",
+          "de": "Zeichne eine Gerade, die den Winkel halbiert.",
+          "fr": "Trace une droite qui coupe l'angle en deux.",
+          "it": "Traccia una retta che biseca l'angolo.",
+          "es": "Traza una recta que biseque el ángulo."
+        },
+        {
+          "en": "The river [bisects] the city.",
+          "tr": "Nehir şehri ikiye bölüyor.",
+          "de": "Der Fluss teilt die Stadt in zwei Hälften.",
+          "fr": "Le fleuve coupe la ville en deux.",
+          "it": "Il fiume divide la città a metà.",
+          "es": "El río divide la ciudad en dos."
+        }
+      ]
+    },
+    {
+      "id": "segment",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "seg",
+        "-ment"
+      ],
+      "gloss": {
+        "en": "one of the parts something is cut into",
+        "tr": "parça, bölüm; doğru parçası",
+        "de": "das Segment, der Abschnitt; die Strecke",
+        "fr": "le segment",
+        "it": "il segmento",
+        "es": "el segmento"
+      },
+      "sentences": [
+        {
+          "en": "Cut the orange into [segments].",
+          "tr": "Portakalı dilimlere ayır.",
+          "de": "Teil die Orange in Stücke.",
+          "fr": "Coupe l'orange en quartiers.",
+          "it": "Dividi l'arancia in spicchi.",
+          "es": "Corta la naranja en gajos."
+        },
+        {
+          "en": "Measure the length of the [segment] AB.",
+          "tr": "AB doğru parçasının uzunluğunu ölç.",
+          "de": "Miss die Länge der Strecke AB.",
+          "fr": "Mesure la longueur du segment AB.",
+          "it": "Misura la lunghezza del segmento AB.",
+          "es": "Mide la longitud del segmento AB."
+        }
+      ]
+    },
+    {
+      "id": "segmentation",
+      "pos": "noun",
+      "parent": "segment",
+      "parts": [
+        "seg",
+        "-ment",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "the division into parts",
+        "tr": "bölümlere ayırma, segmentasyon",
+        "de": "die Segmentierung, die Aufteilung",
+        "fr": "la segmentation",
+        "it": "la segmentazione",
+        "es": "la segmentación"
+      },
+      "sentences": [
+        {
+          "en": "Image [segmentation] finds the objects in a photo.",
+          "tr": "Görüntü bölütleme bir fotoğraftaki nesneleri bulur.",
+          "de": "Bildsegmentierung findet die Objekte in einem Foto.",
+          "fr": "La segmentation d'image trouve les objets d'une photo.",
+          "it": "La segmentazione delle immagini trova gli oggetti in una foto.",
+          "es": "La segmentación de imágenes encuentra los objetos de una foto."
+        },
+        {
+          "en": "Market [segmentation] helps companies target customers.",
+          "tr": "Pazar bölümlemesi şirketlerin müşteri hedeflemesine yardım eder.",
+          "de": "Marktsegmentierung hilft Firmen, Kunden gezielt anzusprechen.",
+          "fr": "La segmentation du marché aide les entreprises à cibler les clients.",
+          "it": "La segmentazione del mercato aiuta le aziende a raggiungere i clienti.",
+          "es": "La segmentación del mercado ayuda a las empresas a dirigirse a los clientes."
+        }
+      ]
+    }
+  ]
+}
