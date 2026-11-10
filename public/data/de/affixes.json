@@ -633,5 +633,27 @@
       "it": "forma un nome di cosa (spesso piccola)",
       "es": "forma un sustantivo de cosa (a menudo pequeña)"
     }
+  },
+  "zer-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "apart, to pieces",
+      "tr": "parçalara, dağılarak",
+      "de": "in Stücke, auseinander",
+      "fr": "en morceaux",
+      "it": "in pezzi",
+      "es": "en pedazos"
+    }
+  },
+  "durch-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "through",
+      "tr": "içinden, baştan sona",
+      "de": "von einer Seite zur anderen",
+      "fr": "à travers",
+      "it": "attraverso",
+      "es": "a través"
+    }
   }
 }

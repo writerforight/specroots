@@ -32,6 +32,40 @@
     ]
   },
   {
+    "id": "brech",
+    "forms": [
+      "brech",
+      "brich",
+      "brach",
+      "broch",
+      "bruch",
+      "brüch"
+    ],
+    "origin": "de",
+    "meaning": {
+      "en": "to break",
+      "tr": "kırmak",
+      "de": "etwas in Stücke teilen (brach, gebrochen; Bruch)",
+      "fr": "casser, rompre",
+      "it": "rompere",
+      "es": "romper"
+    },
+    "words": [
+      "brechen",
+      "Bruch",
+      "unterbrechen",
+      "Unterbrechung",
+      "abbrechen",
+      "Abbruch",
+      "ausbrechen",
+      "Ausbruch",
+      "Verbrechen",
+      "Verbrecher",
+      "zerbrechen",
+      "Durchbruch"
+    ]
+  },
+  {
     "id": "bring",
     "forms": [
       "bring"
@@ -197,6 +231,35 @@
     ]
   },
   {
+    "id": "greif",
+    "forms": [
+      "greif",
+      "griff"
+    ],
+    "origin": "de",
+    "meaning": {
+      "en": "to grab, to grip",
+      "tr": "kavramak, tutmak",
+      "de": "mit der Hand fassen (griff, gegriffen; Griff)",
+      "fr": "saisir",
+      "it": "afferrare",
+      "es": "agarrar"
+    },
+    "words": [
+      "greifen",
+      "Griff",
+      "begreifen",
+      "Begriff",
+      "angreifen",
+      "Angriff",
+      "eingreifen",
+      "Eingriff",
+      "Zugriff",
+      "ergreifen",
+      "Übergriff"
+    ]
+  },
+  {
     "id": "halt",
     "forms": [
       "halt",
@@ -335,6 +398,36 @@
       "übernehmen",
       "Maßnahme",
       "Benehmen"
+    ]
+  },
+  {
+    "id": "schlag",
+    "forms": [
+      "schlag",
+      "schläg",
+      "schlug"
+    ],
+    "origin": "de",
+    "meaning": {
+      "en": "to hit, to strike",
+      "tr": "vurmak",
+      "de": "mit Kraft treffen (schlug, geschlagen; Schlag)",
+      "fr": "frapper",
+      "it": "colpire",
+      "es": "golpear"
+    },
+    "words": [
+      "schlagen",
+      "Schlag",
+      "Schläger",
+      "vorschlagen",
+      "Vorschlag",
+      "nachschlagen",
+      "Umschlag",
+      "Zuschlag",
+      "Anschlag",
+      "abschlagen",
+      "überschlagen"
     ]
   },
   {
@@ -548,6 +641,39 @@
       "Einstellung",
       "ausstellen",
       "Ausstellung"
+    ]
+  },
+  {
+    "id": "trag",
+    "forms": [
+      "trag",
+      "träg",
+      "trug"
+    ],
+    "origin": "de",
+    "meaning": {
+      "en": "to carry, to wear",
+      "tr": "taşımak, giymek",
+      "de": "etwas halten und mitnehmen (trug, getragen; Träger)",
+      "fr": "porter",
+      "it": "portare",
+      "es": "llevar"
+    },
+    "words": [
+      "tragen",
+      "Träger",
+      "Vertrag",
+      "vertragen",
+      "Beitrag",
+      "Antrag",
+      "beantragen",
+      "Auftrag",
+      "übertragen",
+      "Übertragung",
+      "ertragen",
+      "unerträglich",
+      "eintragen",
+      "Eintrag"
     ]
   },
   {

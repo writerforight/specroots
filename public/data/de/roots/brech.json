@@ -1,0 +1,449 @@
+{
+  "id": "brech",
+  "forms": [
+    "brech",
+    "brich",
+    "brach",
+    "broch",
+    "bruch",
+    "brüch"
+  ],
+  "origin": "de",
+  "etymon": "brechen",
+  "meaning": {
+    "en": "to break",
+    "tr": "kırmak",
+    "de": "etwas in Stücke teilen (brach, gebrochen; Bruch)",
+    "fr": "casser, rompre",
+    "it": "rompere",
+    "es": "romper"
+  },
+  "words": [
+    {
+      "id": "brechen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "brech",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to break",
+        "tr": "kırmak",
+        "de": "etwas mit Kraft in Teile trennen",
+        "fr": "casser, rompre",
+        "it": "rompere",
+        "es": "romper"
+      },
+      "sentences": [
+        {
+          "de": "Er hat sich beim Skifahren das Bein [gebrochen].",
+          "tr": "Kayak yaparken bacağını kırdı.",
+          "en": "He broke his leg skiing.",
+          "fr": "Il s'est cassé la jambe au ski.",
+          "it": "Si è rotto la gamba sciando.",
+          "es": "Se rompió la pierna esquiando."
+        },
+        {
+          "de": "Man soll ein Versprechen nicht [brechen].",
+          "tr": "İnsan bir sözü bozmamalı.",
+          "en": "You shouldn't break a promise.",
+          "fr": "Il ne faut pas rompre une promesse.",
+          "it": "Non si dovrebbe rompere una promessa.",
+          "es": "No hay que romper una promesa."
+        }
+      ]
+    },
+    {
+      "id": "Bruch",
+      "pos": "noun",
+      "parent": "brechen",
+      "parts": [
+        "bruch"
+      ],
+      "gloss": {
+        "en": "break, fracture; fraction (maths)",
+        "tr": "kırık; kesir (matematik)",
+        "de": "die Stelle, wo etwas gebrochen ist; in der Mathematik: ein Teil eines Ganzen",
+        "fr": "la fracture ; la fraction (maths)",
+        "it": "la frattura; la frazione (matematica)",
+        "es": "la fractura; la fracción (matemáticas)"
+      },
+      "sentences": [
+        {
+          "de": "Der Arzt hat auf dem Röntgenbild einen [Bruch] gesehen.",
+          "tr": "Doktor röntgende bir kırık gördü.",
+          "en": "The doctor saw a fracture on the X-ray.",
+          "fr": "Le médecin a vu une fracture sur la radio.",
+          "it": "Il medico ha visto una frattura nella radiografia.",
+          "es": "El médico vio una fractura en la radiografía."
+        },
+        {
+          "de": "Drei Viertel ist ein [Bruch].",
+          "tr": "Dörtte üç bir kesirdir.",
+          "en": "Three quarters is a fraction.",
+          "fr": "Trois quarts est une fraction.",
+          "it": "Tre quarti è una frazione.",
+          "es": "Tres cuartos es una fracción."
+        }
+      ]
+    },
+    {
+      "id": "unterbrechen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "unter-",
+        "brech",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to interrupt",
+        "tr": "(sözünü, işi) kesmek, ara vermek",
+        "de": "etwas für eine Zeit stoppen; jemandem ins Wort fallen",
+        "fr": "interrompre",
+        "it": "interrompere",
+        "es": "interrumpir"
+      },
+      "sentences": [
+        {
+          "de": "Entschuldigung, darf ich kurz [unterbrechen]?",
+          "tr": "Pardon, kısaca araya girebilir miyim?",
+          "en": "Sorry, may I interrupt for a moment?",
+          "fr": "Pardon, je peux vous interrompre un instant ?",
+          "it": "Scusi, posso interrompere un attimo?",
+          "es": "Perdón, ¿puedo interrumpir un momento?"
+        },
+        {
+          "de": "Die Vorlesung wurde wegen eines Feueralarms [unterbrochen].",
+          "tr": "Ders bir yangın alarmı yüzünden kesildi.",
+          "en": "The lecture was interrupted by a fire alarm.",
+          "fr": "Le cours a été interrompu à cause d'une alarme incendie.",
+          "it": "La lezione è stata interrotta per un allarme antincendio.",
+          "es": "La clase se interrumpió por una alarma de incendio."
+        }
+      ]
+    },
+    {
+      "id": "Unterbrechung",
+      "pos": "noun",
+      "parent": "unterbrechen",
+      "parts": [
+        "unter-",
+        "brech",
+        "-ung"
+      ],
+      "gloss": {
+        "en": "interruption, break",
+        "tr": "kesinti, ara",
+        "de": "eine Pause, in der etwas nicht weitergeht",
+        "fr": "l'interruption",
+        "it": "l'interruzione",
+        "es": "la interrupción"
+      },
+      "sentences": [
+        {
+          "de": "Nach einer kurzen [Unterbrechung] ging die Sitzung weiter.",
+          "tr": "Kısa bir aradan sonra toplantı devam etti.",
+          "en": "After a short break the meeting continued.",
+          "fr": "Après une courte interruption, la réunion a repris.",
+          "it": "Dopo una breve interruzione la riunione è continuata.",
+          "es": "Tras una breve interrupción, la reunión continuó."
+        },
+        {
+          "de": "Er hat sechs Stunden ohne [Unterbrechung] gearbeitet.",
+          "tr": "Altı saat ara vermeden çalıştı.",
+          "en": "He worked for six hours without a break.",
+          "fr": "Il a travaillé six heures sans interruption.",
+          "it": "Ha lavorato sei ore senza interruzione.",
+          "es": "Trabajó seis horas sin interrupción."
+        }
+      ]
+    },
+    {
+      "id": "abbrechen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ab-",
+        "brech",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to break off; to cancel, to abort",
+        "tr": "koparmak; yarıda bırakmak, iptal etmek",
+        "de": "ein Stück wegbrechen; etwas vor dem Ende stoppen",
+        "fr": "casser ; interrompre, abandonner",
+        "it": "staccare; interrompere, abbandonare",
+        "es": "romper; interrumpir, abandonar"
+      },
+      "sentences": [
+        {
+          "de": "Sie hat ihr Studium nach zwei Semestern [abgebrochen].",
+          "tr": "İki dönem sonra okulu yarıda bıraktı.",
+          "en": "She dropped out of her studies after two semesters.",
+          "fr": "Elle a abandonné ses études après deux semestres.",
+          "it": "Ha abbandonato gli studi dopo due semestri.",
+          "es": "Abandonó sus estudios tras dos semestres."
+        },
+        {
+          "de": "Klick auf „[Abbrechen]“, wenn du nicht speichern willst.",
+          "tr": "Kaydetmek istemiyorsan „İptal“e tıkla.",
+          "en": "Click “Cancel” if you don't want to save.",
+          "fr": "Clique sur « Annuler » si tu ne veux pas enregistrer.",
+          "it": "Clicca su “Annulla” se non vuoi salvare.",
+          "es": "Haz clic en «Cancelar» si no quieres guardar."
+        }
+      ]
+    },
+    {
+      "id": "Abbruch",
+      "pos": "noun",
+      "parent": "abbrechen",
+      "parts": [
+        "ab-",
+        "bruch"
+      ],
+      "gloss": {
+        "en": "stop, cancellation; demolition",
+        "tr": "yarıda kesme, iptal; yıkım",
+        "de": "das vorzeitige Ende; das Abreißen eines Gebäudes",
+        "fr": "l'interruption, l'abandon ; la démolition",
+        "it": "l'interruzione; la demolizione",
+        "es": "la interrupción; la demolición"
+      },
+      "sentences": [
+        {
+          "de": "Das Spiel endete mit einem [Abbruch] wegen Gewitter.",
+          "tr": "Maç fırtına yüzünden yarıda kesildi.",
+          "en": "The match was abandoned because of a thunderstorm.",
+          "fr": "Le match a été interrompu à cause de l'orage.",
+          "it": "La partita è stata sospesa per un temporale.",
+          "es": "El partido se suspendió por una tormenta."
+        },
+        {
+          "de": "Das alte Haus ist für den [Abbruch] vorgesehen.",
+          "tr": "Eski evin yıkılması planlanıyor.",
+          "en": "The old house is scheduled for demolition.",
+          "fr": "La vieille maison doit être démolie.",
+          "it": "La vecchia casa è destinata alla demolizione.",
+          "es": "La casa vieja está destinada a la demolición."
+        }
+      ]
+    },
+    {
+      "id": "ausbrechen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "aus-",
+        "brech",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to break out, to erupt",
+        "tr": "patlak vermek; kaçmak",
+        "de": "plötzlich beginnen (Krieg, Feuer); aus einem Gefängnis fliehen",
+        "fr": "éclater ; s'évader",
+        "it": "scoppiare; evadere",
+        "es": "estallar; fugarse"
+      },
+      "sentences": [
+        {
+          "de": "In der Küche ist ein Feuer [ausgebrochen].",
+          "tr": "Mutfakta yangın çıktı.",
+          "en": "A fire broke out in the kitchen.",
+          "fr": "Un incendie s'est déclaré dans la cuisine.",
+          "it": "È scoppiato un incendio in cucina.",
+          "es": "Se declaró un incendio en la cocina."
+        },
+        {
+          "de": "Zwei Gefangene sind letzte Nacht [ausgebrochen].",
+          "tr": "Dün gece iki mahkûm firar etti.",
+          "en": "Two prisoners broke out last night.",
+          "fr": "Deux prisonniers se sont évadés la nuit dernière.",
+          "it": "Due detenuti sono evasi la notte scorsa.",
+          "es": "Dos presos se fugaron anoche."
+        }
+      ]
+    },
+    {
+      "id": "Ausbruch",
+      "pos": "noun",
+      "parent": "ausbrechen",
+      "parts": [
+        "aus-",
+        "bruch"
+      ],
+      "gloss": {
+        "en": "outbreak, eruption; escape",
+        "tr": "patlak verme, salgın; patlama (yanardağ); firar",
+        "de": "der plötzliche Beginn; das Ausbrechen eines Vulkans",
+        "fr": "l'éclatement, l'éruption ; l'évasion",
+        "it": "lo scoppio, l'eruzione; l'evasione",
+        "es": "el estallido, la erupción; la fuga"
+      },
+      "sentences": [
+        {
+          "de": "Beim [Ausbruch] des Vulkans flohen viele Menschen.",
+          "tr": "Yanardağ patladığında birçok insan kaçtı.",
+          "en": "Many people fled when the volcano erupted.",
+          "fr": "Beaucoup de gens ont fui lors de l'éruption du volcan.",
+          "it": "Durante l'eruzione del vulcano molte persone sono fuggite.",
+          "es": "Mucha gente huyó durante la erupción del volcán."
+        },
+        {
+          "de": "Nach dem [Ausbruch] der Grippe blieb die Schule zu.",
+          "tr": "Grip salgını başladıktan sonra okul kapalı kaldı.",
+          "en": "After the flu outbreak the school stayed closed.",
+          "fr": "Après l'épidémie de grippe, l'école est restée fermée.",
+          "it": "Dopo lo scoppio dell'influenza la scuola è rimasta chiusa.",
+          "es": "Tras el brote de gripe, la escuela siguió cerrada."
+        }
+      ]
+    },
+    {
+      "id": "Verbrechen",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "ver-",
+        "brech",
+        "-en"
+      ],
+      "gloss": {
+        "en": "crime",
+        "tr": "suç",
+        "de": "eine schwere Tat gegen das Gesetz",
+        "fr": "le crime",
+        "it": "il crimine",
+        "es": "el crimen"
+      },
+      "sentences": [
+        {
+          "de": "Die Polizei hat das [Verbrechen] schnell aufgeklärt.",
+          "tr": "Polis suçu hızla aydınlattı.",
+          "en": "The police solved the crime quickly.",
+          "fr": "La police a vite élucidé le crime.",
+          "it": "La polizia ha risolto il crimine in fretta.",
+          "es": "La policía resolvió el crimen rápidamente."
+        },
+        {
+          "de": "Es ist kein [Verbrechen], mal einen Fehler zu machen.",
+          "tr": "Ara sıra hata yapmak suç değil.",
+          "en": "It's not a crime to make a mistake now and then.",
+          "fr": "Ce n'est pas un crime de faire une erreur de temps en temps.",
+          "it": "Non è un crimine sbagliare ogni tanto.",
+          "es": "No es un crimen equivocarse de vez en cuando."
+        }
+      ]
+    },
+    {
+      "id": "Verbrecher",
+      "pos": "noun",
+      "parent": "Verbrechen",
+      "parts": [
+        "ver-",
+        "brech",
+        "-er"
+      ],
+      "gloss": {
+        "en": "criminal",
+        "tr": "suçlu",
+        "de": "eine Person, die ein Verbrechen begeht",
+        "fr": "le criminel",
+        "it": "il criminale",
+        "es": "el criminal"
+      },
+      "sentences": [
+        {
+          "de": "Der [Verbrecher] wurde am Flughafen festgenommen.",
+          "tr": "Suçlu havalimanında yakalandı.",
+          "en": "The criminal was arrested at the airport.",
+          "fr": "Le criminel a été arrêté à l'aéroport.",
+          "it": "Il criminale è stato arrestato all'aeroporto.",
+          "es": "El criminal fue detenido en el aeropuerto."
+        },
+        {
+          "de": "Im Film jagt ein Detektiv einen [Verbrecher].",
+          "tr": "Filmde bir dedektif bir suçluyu kovalıyor.",
+          "en": "In the film a detective hunts a criminal.",
+          "fr": "Dans le film, un détective traque un criminel.",
+          "it": "Nel film un detective dà la caccia a un criminale.",
+          "es": "En la película un detective persigue a un criminal."
+        }
+      ]
+    },
+    {
+      "id": "zerbrechen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "zer-",
+        "brech",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to shatter, to break into pieces",
+        "tr": "parçalanmak, paramparça olmak",
+        "de": "in viele Stücke brechen",
+        "fr": "se briser, voler en éclats",
+        "it": "frantumarsi",
+        "es": "romperse en pedazos"
+      },
+      "sentences": [
+        {
+          "de": "Das Glas ist auf dem Boden [zerbrochen].",
+          "tr": "Bardak yerde paramparça oldu.",
+          "en": "The glass shattered on the floor.",
+          "fr": "Le verre s'est brisé sur le sol.",
+          "it": "Il bicchiere si è frantumato sul pavimento.",
+          "es": "El vaso se rompió en pedazos en el suelo."
+        },
+        {
+          "de": "Ihre Freundschaft ist an dem Streit [zerbrochen].",
+          "tr": "Arkadaşlıkları o kavga yüzünden bitti.",
+          "en": "Their friendship broke apart over the argument.",
+          "fr": "Leur amitié s'est brisée à cause de la dispute.",
+          "it": "La loro amicizia si è spezzata per il litigio.",
+          "es": "Su amistad se rompió por la discusión."
+        }
+      ]
+    },
+    {
+      "id": "Durchbruch",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "durch-",
+        "bruch"
+      ],
+      "gloss": {
+        "en": "breakthrough",
+        "tr": "atılım, büyük ilerleme",
+        "de": "ein großer Erfolg nach langer Arbeit",
+        "fr": "la percée",
+        "it": "la svolta",
+        "es": "el gran avance"
+      },
+      "sentences": [
+        {
+          "de": "Die Forscher haben einen [Durchbruch] in der Batterietechnik erzielt.",
+          "tr": "Araştırmacılar batarya teknolojisinde büyük bir atılım yaptı.",
+          "en": "The researchers achieved a breakthrough in battery technology.",
+          "fr": "Les chercheurs ont réalisé une percée dans la technologie des batteries.",
+          "it": "I ricercatori hanno ottenuto una svolta nella tecnologia delle batterie.",
+          "es": "Los investigadores lograron un gran avance en tecnología de baterías."
+        },
+        {
+          "de": "Mit diesem Song gelang der Band der [Durchbruch].",
+          "tr": "Grup bu şarkıyla çıkışını yaptı.",
+          "en": "This song was the band's breakthrough.",
+          "fr": "Avec cette chanson, le groupe a percé.",
+          "it": "Con questa canzone la band ha sfondato.",
+          "es": "Con esta canción el grupo se dio a conocer."
+        }
+      ]
+    }
+  ]
+}

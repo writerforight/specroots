@@ -1,0 +1,407 @@
+{
+  "id": "greif",
+  "forms": [
+    "greif",
+    "griff"
+  ],
+  "origin": "de",
+  "etymon": "greifen",
+  "meaning": {
+    "en": "to grab, to grip",
+    "tr": "kavramak, tutmak",
+    "de": "mit der Hand fassen (griff, gegriffen; Griff)",
+    "fr": "saisir",
+    "it": "afferrare",
+    "es": "agarrar"
+  },
+  "words": [
+    {
+      "id": "greifen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "greif",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to grab, to reach for",
+        "tr": "tutmak, uzanıp almak",
+        "de": "mit der Hand nach etwas fassen",
+        "fr": "saisir, attraper",
+        "it": "afferrare, prendere",
+        "es": "agarrar, coger"
+      },
+      "sentences": [
+        {
+          "de": "Das Kind [greift] nach dem Spielzeug.",
+          "tr": "Çocuk oyuncağa uzanıyor.",
+          "en": "The child reaches for the toy.",
+          "fr": "L'enfant attrape le jouet.",
+          "it": "Il bambino afferra il giocattolo.",
+          "es": "El niño agarra el juguete."
+        },
+        {
+          "de": "Er [griff] zum Telefon und rief sofort an.",
+          "tr": "Telefona uzandı ve hemen aradı.",
+          "en": "He reached for the phone and called at once.",
+          "fr": "Il a saisi le téléphone et a appelé tout de suite.",
+          "it": "Ha preso il telefono e ha chiamato subito.",
+          "es": "Cogió el teléfono y llamó enseguida."
+        }
+      ]
+    },
+    {
+      "id": "Griff",
+      "pos": "noun",
+      "parent": "greifen",
+      "parts": [
+        "griff"
+      ],
+      "gloss": {
+        "en": "handle, grip",
+        "tr": "sap, kulp; tutuş",
+        "de": "der Teil, an dem man etwas festhält; das Festhalten",
+        "fr": "la poignée, la prise",
+        "it": "la maniglia, la presa",
+        "es": "el asa, el agarre"
+      },
+      "sentences": [
+        {
+          "de": "Der [Griff] der Tasche ist abgerissen.",
+          "tr": "Çantanın sapı koptu.",
+          "en": "The handle of the bag has torn off.",
+          "fr": "La poignée du sac s'est arrachée.",
+          "it": "Il manico della borsa si è strappato.",
+          "es": "El asa del bolso se ha roto."
+        },
+        {
+          "de": "Mit einem schnellen [Griff] fing sie die Tasse.",
+          "tr": "Hızlı bir hareketle fincanı yakaladı.",
+          "en": "With a quick grab she caught the cup.",
+          "fr": "D'un geste rapide, elle a rattrapé la tasse.",
+          "it": "Con una presa veloce ha preso la tazza.",
+          "es": "Con un gesto rápido atrapó la taza."
+        }
+      ]
+    },
+    {
+      "id": "begreifen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "be-",
+        "greif",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to grasp, to understand",
+        "tr": "kavramak, anlamak",
+        "de": "etwas verstehen, den Sinn erfassen",
+        "fr": "comprendre, saisir",
+        "it": "capire, comprendere",
+        "es": "comprender, captar"
+      },
+      "sentences": [
+        {
+          "de": "Ich habe endlich [begriffen], wie die Formel funktioniert.",
+          "tr": "Formülün nasıl işlediğini sonunda kavradım.",
+          "en": "I've finally grasped how the formula works.",
+          "fr": "J'ai enfin compris comment marche la formule.",
+          "it": "Ho finalmente capito come funziona la formula.",
+          "es": "Por fin he entendido cómo funciona la fórmula."
+        },
+        {
+          "de": "Sie konnte nicht [begreifen], was passiert war.",
+          "tr": "Ne olduğunu kavrayamadı.",
+          "en": "She couldn't grasp what had happened.",
+          "fr": "Elle n'arrivait pas à comprendre ce qui s'était passé.",
+          "it": "Non riusciva a capire cosa fosse successo.",
+          "es": "No podía comprender lo que había pasado."
+        }
+      ]
+    },
+    {
+      "id": "Begriff",
+      "pos": "noun",
+      "parent": "begreifen",
+      "parts": [
+        "be-",
+        "griff"
+      ],
+      "gloss": {
+        "en": "term, concept",
+        "tr": "kavram, terim",
+        "de": "ein Wort mit einer festen Bedeutung; eine Vorstellung",
+        "fr": "le terme, la notion",
+        "it": "il termine, il concetto",
+        "es": "el término, el concepto"
+      },
+      "sentences": [
+        {
+          "de": "Erklär mir bitte den [Begriff] „Lebesgue-Konstante“.",
+          "tr": "Bana „Lebesgue sabiti“ kavramını açıkla lütfen.",
+          "en": "Please explain the term “Lebesgue constant” to me.",
+          "fr": "Explique-moi le terme « constante de Lebesgue », s'il te plaît.",
+          "it": "Spiegami il termine “costante di Lebesgue”, per favore.",
+          "es": "Explícame el término «constante de Lebesgue», por favor."
+        },
+        {
+          "de": "Wir waren im [Begriff] zu gehen, als das Telefon klingelte.",
+          "tr": "Telefon çaldığında tam çıkmak üzereydik.",
+          "en": "We were about to leave when the phone rang.",
+          "fr": "Nous étions sur le point de partir quand le téléphone a sonné.",
+          "it": "Stavamo per andare quando ha squillato il telefono.",
+          "es": "Estábamos a punto de irnos cuando sonó el teléfono."
+        }
+      ]
+    },
+    {
+      "id": "angreifen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "an-",
+        "greif",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to attack",
+        "tr": "saldırmak",
+        "de": "jemanden mit Gewalt oder Worten bekämpfen",
+        "fr": "attaquer",
+        "it": "attaccare",
+        "es": "atacar"
+      },
+      "sentences": [
+        {
+          "de": "Der Hund hat den Postboten [angegriffen].",
+          "tr": "Köpek postacıya saldırdı.",
+          "en": "The dog attacked the postman.",
+          "fr": "Le chien a attaqué le facteur.",
+          "it": "Il cane ha attaccato il postino.",
+          "es": "El perro atacó al cartero."
+        },
+        {
+          "de": "In der zweiten Halbzeit [griff] die Mannschaft mehr an.",
+          "tr": "İkinci yarıda takım daha çok hücum etti.",
+          "en": "In the second half the team attacked more.",
+          "fr": "En deuxième mi-temps, l'équipe a davantage attaqué.",
+          "it": "Nel secondo tempo la squadra ha attaccato di più.",
+          "es": "En la segunda parte el equipo atacó más."
+        }
+      ]
+    },
+    {
+      "id": "Angriff",
+      "pos": "noun",
+      "parent": "angreifen",
+      "parts": [
+        "an-",
+        "griff"
+      ],
+      "gloss": {
+        "en": "attack",
+        "tr": "saldırı, hücum",
+        "de": "eine Handlung gegen jemanden mit Gewalt",
+        "fr": "l'attaque",
+        "it": "l'attacco",
+        "es": "el ataque"
+      },
+      "sentences": [
+        {
+          "de": "Der [Angriff] kam völlig überraschend.",
+          "tr": "Saldırı tamamen beklenmedik geldi.",
+          "en": "The attack came as a complete surprise.",
+          "fr": "L'attaque a été une surprise totale.",
+          "it": "L'attacco è arrivato del tutto a sorpresa.",
+          "es": "El ataque llegó por sorpresa."
+        },
+        {
+          "de": "[Angriff] ist die beste Verteidigung.",
+          "tr": "En iyi savunma saldırıdır.",
+          "en": "Attack is the best defence.",
+          "fr": "L'attaque est la meilleure défense.",
+          "it": "L'attacco è la miglior difesa.",
+          "es": "El ataque es la mejor defensa."
+        }
+      ]
+    },
+    {
+      "id": "eingreifen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ein-",
+        "greif",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to intervene, to step in",
+        "tr": "müdahale etmek",
+        "de": "sich in eine Sache einmischen, um sie zu ändern",
+        "fr": "intervenir",
+        "it": "intervenire",
+        "es": "intervenir"
+      },
+      "sentences": [
+        {
+          "de": "Als der Streit lauter wurde, musste der Lehrer [eingreifen].",
+          "tr": "Kavga büyüyünce öğretmen müdahale etmek zorunda kaldı.",
+          "en": "When the argument got louder, the teacher had to step in.",
+          "fr": "Quand la dispute est devenue plus bruyante, le professeur a dû intervenir.",
+          "it": "Quando la lite si è fatta più forte, l'insegnante è dovuto intervenire.",
+          "es": "Cuando la discusión subió de tono, el profesor tuvo que intervenir."
+        },
+        {
+          "de": "Der Regler [greift] ein, sobald die Temperatur steigt.",
+          "tr": "Sıcaklık yükselir yükselmez kontrolcü devreye giriyor.",
+          "en": "The controller steps in as soon as the temperature rises.",
+          "fr": "Le régulateur intervient dès que la température monte.",
+          "it": "Il regolatore interviene appena la temperatura sale.",
+          "es": "El regulador interviene en cuanto sube la temperatura."
+        }
+      ]
+    },
+    {
+      "id": "Eingriff",
+      "pos": "noun",
+      "parent": "eingreifen",
+      "parts": [
+        "ein-",
+        "griff"
+      ],
+      "gloss": {
+        "en": "intervention; surgery",
+        "tr": "müdahale; ameliyat",
+        "de": "das Eingreifen; eine Operation",
+        "fr": "l'intervention ; l'opération",
+        "it": "l'intervento",
+        "es": "la intervención"
+      },
+      "sentences": [
+        {
+          "de": "Der [Eingriff] dauerte nur zwanzig Minuten.",
+          "tr": "Ameliyat sadece yirmi dakika sürdü.",
+          "en": "The operation took only twenty minutes.",
+          "fr": "L'intervention n'a duré que vingt minutes.",
+          "it": "L'intervento è durato solo venti minuti.",
+          "es": "La intervención duró solo veinte minutos."
+        },
+        {
+          "de": "Das war ein [Eingriff] in meine Privatsphäre.",
+          "tr": "Bu özel hayatıma bir müdahaleydi.",
+          "en": "That was an intrusion into my privacy.",
+          "fr": "C'était une atteinte à ma vie privée.",
+          "it": "È stata un'intrusione nella mia privacy.",
+          "es": "Fue una intromisión en mi privacidad."
+        }
+      ]
+    },
+    {
+      "id": "Zugriff",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "zu-",
+        "griff"
+      ],
+      "gloss": {
+        "en": "access",
+        "tr": "erişim",
+        "de": "die Möglichkeit, etwas zu benutzen (z. B. Daten)",
+        "fr": "l'accès",
+        "it": "l'accesso",
+        "es": "el acceso"
+      },
+      "sentences": [
+        {
+          "de": "Ich habe keinen [Zugriff] auf den Ordner.",
+          "tr": "Klasöre erişimim yok.",
+          "en": "I don't have access to the folder.",
+          "fr": "Je n'ai pas accès au dossier.",
+          "it": "Non ho accesso alla cartella.",
+          "es": "No tengo acceso a la carpeta."
+        },
+        {
+          "de": "Der [Zugriff] auf die Datenbank ist nur im Uninetz möglich.",
+          "tr": "Veritabanına erişim sadece üniversite ağında mümkün.",
+          "en": "Access to the database is only possible on the university network.",
+          "fr": "L'accès à la base de données n'est possible que sur le réseau de l'université.",
+          "it": "L'accesso al database è possibile solo nella rete dell'università.",
+          "es": "El acceso a la base de datos solo es posible en la red de la universidad."
+        }
+      ]
+    },
+    {
+      "id": "ergreifen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "er-",
+        "greif",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to seize, to take (a chance, measures)",
+        "tr": "yakalamak; (fırsatı) değerlendirmek, (önlem) almak",
+        "de": "fest fassen; eine Chance nutzen",
+        "fr": "saisir ; prendre (des mesures)",
+        "it": "afferrare; cogliere (un'occasione)",
+        "es": "agarrar; aprovechar (una ocasión)"
+      },
+      "sentences": [
+        {
+          "de": "Du solltest diese Chance [ergreifen].",
+          "tr": "Bu fırsatı değerlendirmelisin.",
+          "en": "You should seize this chance.",
+          "fr": "Tu devrais saisir cette chance.",
+          "it": "Dovresti cogliere questa occasione.",
+          "es": "Deberías aprovechar esta oportunidad."
+        },
+        {
+          "de": "Die Stadt hat Maßnahmen gegen den Lärm [ergriffen].",
+          "tr": "Şehir gürültüye karşı önlemler aldı.",
+          "en": "The city has taken measures against the noise.",
+          "fr": "La ville a pris des mesures contre le bruit.",
+          "it": "La città ha preso misure contro il rumore.",
+          "es": "La ciudad ha tomado medidas contra el ruido."
+        }
+      ]
+    },
+    {
+      "id": "Übergriff",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "über-",
+        "griff"
+      ],
+      "gloss": {
+        "en": "assault, encroachment",
+        "tr": "saldırı, tecavüz (hakka)",
+        "de": "eine Handlung, die eine Grenze verletzt",
+        "fr": "l'agression, l'empiètement",
+        "it": "l'aggressione, l'abuso",
+        "es": "la agresión, el abuso"
+      },
+      "sentences": [
+        {
+          "de": "Die Universität hat eine Stelle für Meldungen über [Übergriffe].",
+          "tr": "Üniversitenin taciz bildirimleri için bir birimi var.",
+          "en": "The university has an office for reporting assaults.",
+          "fr": "L'université a un service pour signaler les agressions.",
+          "it": "L'università ha un ufficio per segnalare le aggressioni.",
+          "es": "La universidad tiene una oficina para denunciar agresiones."
+        },
+        {
+          "de": "Nach dem [Übergriff] rief sie sofort die Polizei.",
+          "tr": "Saldırıdan sonra hemen polisi aradı.",
+          "en": "After the assault she called the police at once.",
+          "fr": "Après l'agression, elle a tout de suite appelé la police.",
+          "it": "Dopo l'aggressione ha chiamato subito la polizia.",
+          "es": "Tras la agresión llamó enseguida a la policía."
+        }
+      ]
+    }
+  ]
+}

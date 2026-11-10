@@ -1,0 +1,519 @@
+{
+  "id": "trag",
+  "forms": [
+    "trag",
+    "träg",
+    "trug"
+  ],
+  "origin": "de",
+  "etymon": "tragen",
+  "meaning": {
+    "en": "to carry, to wear",
+    "tr": "taşımak, giymek",
+    "de": "etwas halten und mitnehmen (trug, getragen; Träger)",
+    "fr": "porter",
+    "it": "portare",
+    "es": "llevar"
+  },
+  "words": [
+    {
+      "id": "tragen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "trag",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to carry; to wear; to bear",
+        "tr": "taşımak; giymek; üstlenmek",
+        "de": "etwas halten und bewegen; Kleidung anhaben; Kosten übernehmen",
+        "fr": "porter ; supporter",
+        "it": "portare; indossare; sostenere",
+        "es": "llevar; vestir; soportar"
+      },
+      "sentences": [
+        {
+          "de": "Kannst du mir helfen, den Tisch zu [tragen]?",
+          "tr": "Masayı taşımama yardım eder misin?",
+          "en": "Can you help me carry the table?",
+          "fr": "Tu peux m'aider à porter la table ?",
+          "it": "Mi aiuti a portare il tavolo?",
+          "es": "¿Me ayudas a llevar la mesa?"
+        },
+        {
+          "de": "Sie [trägt] heute eine rote Jacke.",
+          "tr": "Bugün kırmızı bir ceket giyiyor.",
+          "en": "She's wearing a red jacket today.",
+          "fr": "Elle porte une veste rouge aujourd'hui.",
+          "it": "Oggi indossa una giacca rossa.",
+          "es": "Hoy lleva una chaqueta roja."
+        }
+      ]
+    },
+    {
+      "id": "Träger",
+      "pos": "noun",
+      "parent": "tragen",
+      "parts": [
+        "träg",
+        "-er"
+      ],
+      "gloss": {
+        "en": "carrier; beam, girder; strap",
+        "tr": "taşıyıcı; kiriş; askı",
+        "de": "jemand oder etwas, das trägt; ein Bauteil, das eine Last hält",
+        "fr": "le porteur ; la poutre ; la bretelle",
+        "it": "il portatore; la trave; la spallina",
+        "es": "el portador; la viga; el tirante"
+      },
+      "sentences": [
+        {
+          "de": "Der [Träger] der Brücke muss die ganze Last halten.",
+          "tr": "Köprünün kirişi bütün yükü taşımalı.",
+          "en": "The bridge's girder has to hold the whole load.",
+          "fr": "La poutre du pont doit supporter toute la charge.",
+          "it": "La trave del ponte deve reggere tutto il carico.",
+          "es": "La viga del puente debe soportar toda la carga."
+        },
+        {
+          "de": "Beim Kleid ist ein [Träger] gerissen.",
+          "tr": "Elbisenin bir askısı koptu.",
+          "en": "One strap of the dress has torn.",
+          "fr": "Une bretelle de la robe s'est déchirée.",
+          "it": "Si è rotta una spallina del vestito.",
+          "es": "Se ha roto un tirante del vestido."
+        }
+      ]
+    },
+    {
+      "id": "Vertrag",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "ver-",
+        "trag"
+      ],
+      "gloss": {
+        "en": "contract, treaty",
+        "tr": "sözleşme, antlaşma",
+        "de": "eine schriftliche Vereinbarung zwischen Partnern",
+        "fr": "le contrat, le traité",
+        "it": "il contratto, il trattato",
+        "es": "el contrato, el tratado"
+      },
+      "sentences": [
+        {
+          "de": "Lies den [Vertrag] genau, bevor du unterschreibst.",
+          "tr": "İmzalamadan önce sözleşmeyi dikkatle oku.",
+          "en": "Read the contract carefully before you sign.",
+          "fr": "Lis bien le contrat avant de signer.",
+          "it": "Leggi bene il contratto prima di firmare.",
+          "es": "Lee bien el contrato antes de firmar."
+        },
+        {
+          "de": "Mein [Vertrag] als Hilfskraft läuft sechs Monate.",
+          "tr": "Yardımcı olarak sözleşmem altı ay sürüyor.",
+          "en": "My contract as a student assistant runs for six months.",
+          "fr": "Mon contrat d'assistant étudiant dure six mois.",
+          "it": "Il mio contratto da assistente dura sei mesi.",
+          "es": "Mi contrato de ayudante dura seis meses."
+        }
+      ]
+    },
+    {
+      "id": "vertragen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ver-",
+        "trag",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to tolerate; (sich) to get along",
+        "tr": "kaldırabilmek; geçinmek",
+        "de": "etwas aushalten können; sich vertragen: gut miteinander auskommen",
+        "fr": "supporter ; s'entendre",
+        "it": "sopportare; andare d'accordo",
+        "es": "tolerar; llevarse bien"
+      },
+      "sentences": [
+        {
+          "de": "Ich [vertrage] keine Milch.",
+          "tr": "Süte dayanamıyorum (sütü sindiremiyorum).",
+          "en": "I can't tolerate milk.",
+          "fr": "Je ne supporte pas le lait.",
+          "it": "Non tollero il latte.",
+          "es": "No tolero la leche."
+        },
+        {
+          "de": "Die beiden Geschwister [vertragen] sich wieder.",
+          "tr": "İki kardeş yine iyi geçiniyor.",
+          "en": "The two siblings are getting along again.",
+          "fr": "Le frère et la sœur s'entendent de nouveau.",
+          "it": "I due fratelli vanno di nuovo d'accordo.",
+          "es": "Los dos hermanos vuelven a llevarse bien."
+        }
+      ]
+    },
+    {
+      "id": "Beitrag",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "bei-",
+        "trag"
+      ],
+      "gloss": {
+        "en": "contribution; post, article; fee",
+        "tr": "katkı; yazı, gönderi; aidat",
+        "de": "das, was man zu etwas gibt; ein Text in einem Forum; ein Geldbetrag",
+        "fr": "la contribution ; l'article ; la cotisation",
+        "it": "il contributo; il post, l'articolo; la quota",
+        "es": "la contribución; la publicación; la cuota"
+      },
+      "sentences": [
+        {
+          "de": "Ich habe einen [Beitrag] im Moodle-Forum geschrieben.",
+          "tr": "Moodle forumunda bir gönderi yazdım.",
+          "en": "I wrote a post in the Moodle forum.",
+          "fr": "J'ai écrit un message sur le forum Moodle.",
+          "it": "Ho scritto un post nel forum di Moodle.",
+          "es": "Escribí una publicación en el foro de Moodle."
+        },
+        {
+          "de": "Jeder leistet seinen [Beitrag] zum Projekt.",
+          "tr": "Herkes projeye katkısını sunuyor.",
+          "en": "Everyone makes their contribution to the project.",
+          "fr": "Chacun apporte sa contribution au projet.",
+          "it": "Ognuno dà il suo contributo al progetto.",
+          "es": "Cada uno aporta su contribución al proyecto."
+        }
+      ]
+    },
+    {
+      "id": "Antrag",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "an-",
+        "trag"
+      ],
+      "gloss": {
+        "en": "application (form), request",
+        "tr": "başvuru, dilekçe",
+        "de": "ein schriftlicher Wunsch an eine Behörde",
+        "fr": "la demande",
+        "it": "la domanda, la richiesta",
+        "es": "la solicitud"
+      },
+      "sentences": [
+        {
+          "de": "Den [Antrag] für das Visum gibt es online.",
+          "tr": "Vize başvurusu çevrim içi yapılıyor.",
+          "en": "The visa application form is available online.",
+          "fr": "Le formulaire de demande de visa est en ligne.",
+          "it": "La domanda per il visto si trova online.",
+          "es": "La solicitud del visado está en internet."
+        },
+        {
+          "de": "Mein [Antrag] auf BAföG wurde bewilligt.",
+          "tr": "BAföG başvurum onaylandı.",
+          "en": "My application for BAföG was approved.",
+          "fr": "Ma demande de BAföG a été acceptée.",
+          "it": "La mia domanda di BAföG è stata approvata.",
+          "es": "Mi solicitud de BAföG fue aprobada."
+        }
+      ]
+    },
+    {
+      "id": "beantragen",
+      "pos": "verb",
+      "parent": "Antrag",
+      "parts": [
+        "be-",
+        "an-",
+        "trag",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to apply for",
+        "tr": "başvurmak, talep etmek",
+        "de": "offiziell um etwas bitten, mit einem Antrag",
+        "fr": "demander, faire une demande",
+        "it": "richiedere",
+        "es": "solicitar"
+      },
+      "sentences": [
+        {
+          "de": "Ich muss einen neuen Reisepass [beantragen].",
+          "tr": "Yeni bir pasaport için başvurmam gerekiyor.",
+          "en": "I need to apply for a new passport.",
+          "fr": "Je dois demander un nouveau passeport.",
+          "it": "Devo richiedere un nuovo passaporto.",
+          "es": "Tengo que solicitar un pasaporte nuevo."
+        },
+        {
+          "de": "Hast du die Verlängerung schon [beantragt]?",
+          "tr": "Uzatmayı talep ettin mi?",
+          "en": "Have you applied for the extension yet?",
+          "fr": "Tu as déjà demandé la prolongation ?",
+          "it": "Hai già chiesto la proroga?",
+          "es": "¿Ya has solicitado la prórroga?"
+        }
+      ]
+    },
+    {
+      "id": "Auftrag",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "auf-",
+        "trag"
+      ],
+      "gloss": {
+        "en": "order, assignment, task",
+        "tr": "sipariş, görev",
+        "de": "eine Aufgabe, die jemand für einen anderen erledigt",
+        "fr": "la commande, la mission",
+        "it": "l'incarico, l'ordine",
+        "es": "el encargo, el pedido"
+      },
+      "sentences": [
+        {
+          "de": "Die Firma hat einen großen [Auftrag] bekommen.",
+          "tr": "Firma büyük bir sipariş aldı.",
+          "en": "The company got a big order.",
+          "fr": "L'entreprise a reçu une grosse commande.",
+          "it": "L'azienda ha ricevuto un grosso ordine.",
+          "es": "La empresa recibió un gran encargo."
+        },
+        {
+          "de": "Ich komme im [Auftrag] meines Chefs.",
+          "tr": "Şefim adına geliyorum.",
+          "en": "I'm here on behalf of my boss.",
+          "fr": "Je viens de la part de mon chef.",
+          "it": "Vengo per conto del mio capo.",
+          "es": "Vengo de parte de mi jefe."
+        }
+      ]
+    },
+    {
+      "id": "übertragen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "über-",
+        "trag",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to transfer, to transmit; to broadcast",
+        "tr": "aktarmak, iletmek; yayınlamak",
+        "de": "etwas von einem Ort zum anderen bringen; senden (Radio, TV)",
+        "fr": "transmettre ; retransmettre",
+        "it": "trasmettere",
+        "es": "transmitir; retransmitir"
+      },
+      "sentences": [
+        {
+          "de": "Das Spiel wird live im Fernsehen [übertragen].",
+          "tr": "Maç televizyonda canlı yayınlanıyor.",
+          "en": "The match is broadcast live on TV.",
+          "fr": "Le match est retransmis en direct à la télé.",
+          "it": "La partita è trasmessa in diretta in TV.",
+          "es": "El partido se retransmite en directo por la tele."
+        },
+        {
+          "de": "Die Daten werden per Funk [übertragen].",
+          "tr": "Veriler kablosuz olarak iletiliyor.",
+          "en": "The data is transmitted by radio.",
+          "fr": "Les données sont transmises par radio.",
+          "it": "I dati sono trasmessi via radio.",
+          "es": "Los datos se transmiten por radio."
+        }
+      ]
+    },
+    {
+      "id": "Übertragung",
+      "pos": "noun",
+      "parent": "übertragen",
+      "parts": [
+        "über-",
+        "trag",
+        "-ung"
+      ],
+      "gloss": {
+        "en": "transmission; broadcast",
+        "tr": "aktarım, iletim; yayın",
+        "de": "das Übertragen von Daten, Energie oder einer Sendung",
+        "fr": "la transmission ; la retransmission",
+        "it": "la trasmissione",
+        "es": "la transmisión"
+      },
+      "sentences": [
+        {
+          "de": "Bei der [Übertragung] gehen manche Daten verloren.",
+          "tr": "İletim sırasında bazı veriler kayboluyor.",
+          "en": "Some data is lost during transmission.",
+          "fr": "Certaines données se perdent pendant la transmission.",
+          "it": "Durante la trasmissione alcuni dati vanno persi.",
+          "es": "Durante la transmisión se pierden algunos datos."
+        },
+        {
+          "de": "Die [Übertragung] des Konzerts beginnt um acht.",
+          "tr": "Konserin yayını sekizde başlıyor.",
+          "en": "The broadcast of the concert starts at eight.",
+          "fr": "La retransmission du concert commence à huit heures.",
+          "it": "La trasmissione del concerto inizia alle otto.",
+          "es": "La retransmisión del concierto empieza a las ocho."
+        }
+      ]
+    },
+    {
+      "id": "ertragen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "er-",
+        "trag",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to bear, to endure",
+        "tr": "katlanmak",
+        "de": "etwas Schweres aushalten",
+        "fr": "supporter, endurer",
+        "it": "sopportare",
+        "es": "soportar, aguantar"
+      },
+      "sentences": [
+        {
+          "de": "Ich kann diesen Lärm nicht mehr [ertragen].",
+          "tr": "Bu gürültüye artık dayanamıyorum.",
+          "en": "I can't bear this noise any more.",
+          "fr": "Je ne supporte plus ce bruit.",
+          "it": "Non sopporto più questo rumore.",
+          "es": "Ya no aguanto este ruido."
+        },
+        {
+          "de": "Sie hat die Schmerzen tapfer [ertragen].",
+          "tr": "Acılara cesurca katlandı.",
+          "en": "She endured the pain bravely.",
+          "fr": "Elle a supporté la douleur avec courage.",
+          "it": "Ha sopportato il dolore con coraggio.",
+          "es": "Soportó el dolor con valentía."
+        }
+      ]
+    },
+    {
+      "id": "unerträglich",
+      "pos": "adjective",
+      "parent": "ertragen",
+      "parts": [
+        "un-",
+        "er-",
+        "träg",
+        "-lich"
+      ],
+      "gloss": {
+        "en": "unbearable",
+        "tr": "dayanılmaz",
+        "de": "so schlimm, dass man es nicht aushalten kann",
+        "fr": "insupportable",
+        "it": "insopportabile",
+        "es": "insoportable"
+      },
+      "sentences": [
+        {
+          "de": "Die Hitze im Hörsaal war [unerträglich].",
+          "tr": "Amfideki sıcak dayanılmazdı.",
+          "en": "The heat in the lecture hall was unbearable.",
+          "fr": "La chaleur dans l'amphi était insupportable.",
+          "it": "Il caldo nell'aula era insopportabile.",
+          "es": "El calor en el aula era insoportable."
+        },
+        {
+          "de": "Sein Verhalten wird langsam [unerträglich].",
+          "tr": "Davranışları giderek dayanılmaz oluyor.",
+          "en": "His behaviour is becoming unbearable.",
+          "fr": "Son comportement devient insupportable.",
+          "it": "Il suo comportamento sta diventando insopportabile.",
+          "es": "Su comportamiento se está volviendo insoportable."
+        }
+      ]
+    },
+    {
+      "id": "eintragen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ein-",
+        "trag",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to enter, to register (in a list)",
+        "tr": "kaydetmek, yazmak (listeye)",
+        "de": "etwas in eine Liste oder ein Formular schreiben",
+        "fr": "inscrire",
+        "it": "iscrivere, registrare",
+        "es": "inscribir, apuntar"
+      },
+      "sentences": [
+        {
+          "de": "[Trag] dich bitte in die Liste für das Testat ein.",
+          "tr": "Lütfen kendini Testat listesine yaz.",
+          "en": "Please put your name on the list for the Testat.",
+          "fr": "Inscris-toi sur la liste pour le Testat, s'il te plaît.",
+          "it": "Iscriviti alla lista per il Testat, per favore.",
+          "es": "Apúntate en la lista para el Testat, por favor."
+        },
+        {
+          "de": "Ich habe den Termin in meinen Kalender [eingetragen].",
+          "tr": "Randevuyu takvimime yazdım.",
+          "en": "I've entered the appointment in my calendar.",
+          "fr": "J'ai noté le rendez-vous dans mon agenda.",
+          "it": "Ho segnato l'appuntamento nel calendario.",
+          "es": "He apuntado la cita en mi calendario."
+        }
+      ]
+    },
+    {
+      "id": "Eintrag",
+      "pos": "noun",
+      "parent": "eintragen",
+      "parts": [
+        "ein-",
+        "trag"
+      ],
+      "gloss": {
+        "en": "entry",
+        "tr": "kayıt, girdi",
+        "de": "das, was in eine Liste oder ein Buch geschrieben wird",
+        "fr": "l'entrée, l'inscription",
+        "it": "la voce, la registrazione",
+        "es": "la entrada, el registro"
+      },
+      "sentences": [
+        {
+          "de": "Im Wörterbuch hat jedes Wort einen eigenen [Eintrag].",
+          "tr": "Sözlükte her kelimenin kendi maddesi var.",
+          "en": "In the dictionary every word has its own entry.",
+          "fr": "Dans le dictionnaire, chaque mot a sa propre entrée.",
+          "it": "Nel dizionario ogni parola ha la sua voce.",
+          "es": "En el diccionario cada palabra tiene su propia entrada."
+        },
+        {
+          "de": "Der [Eintrag] im Kalender ist falsch.",
+          "tr": "Takvimdeki kayıt yanlış.",
+          "en": "The entry in the calendar is wrong.",
+          "fr": "L'entrée dans l'agenda est fausse.",
+          "it": "La voce nel calendario è sbagliata.",
+          "es": "La entrada del calendario está mal."
+        }
+      ]
+    }
+  ]
+}

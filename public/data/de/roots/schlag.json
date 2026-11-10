@@ -1,0 +1,408 @@
+{
+  "id": "schlag",
+  "forms": [
+    "schlag",
+    "schläg",
+    "schlug"
+  ],
+  "origin": "de",
+  "etymon": "schlagen",
+  "meaning": {
+    "en": "to hit, to strike",
+    "tr": "vurmak",
+    "de": "mit Kraft treffen (schlug, geschlagen; Schlag)",
+    "fr": "frapper",
+    "it": "colpire",
+    "es": "golpear"
+  },
+  "words": [
+    {
+      "id": "schlagen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "schlag",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to hit, to beat; to whip (cream)",
+        "tr": "vurmak; yenmek; (krema) çırpmak",
+        "de": "mit Kraft treffen; besiegen; Sahne steif rühren",
+        "fr": "frapper ; battre ; fouetter",
+        "it": "colpire; battere; montare (la panna)",
+        "es": "golpear; vencer; batir"
+      },
+      "sentences": [
+        {
+          "de": "Das Herz [schlägt] schneller, wenn man rennt.",
+          "tr": "Koşunca kalp daha hızlı atar.",
+          "en": "The heart beats faster when you run.",
+          "fr": "Le cœur bat plus vite quand on court.",
+          "it": "Il cuore batte più forte quando si corre.",
+          "es": "El corazón late más rápido cuando corres."
+        },
+        {
+          "de": "Wir haben die Gäste 3:1 [geschlagen].",
+          "tr": "Konuk takımı 3-1 yendik.",
+          "en": "We beat the visitors 3–1.",
+          "fr": "Nous avons battu les visiteurs 3 à 1.",
+          "it": "Abbiamo battuto gli ospiti 3 a 1.",
+          "es": "Ganamos a los visitantes 3 a 1."
+        }
+      ]
+    },
+    {
+      "id": "Schlag",
+      "pos": "noun",
+      "parent": "schlagen",
+      "parts": [
+        "schlag"
+      ],
+      "gloss": {
+        "en": "blow, hit; (electric) shock",
+        "tr": "darbe, vuruş; (elektrik) çarpması",
+        "de": "ein kräftiges Treffen; ein elektrischer Stromstoß",
+        "fr": "le coup ; la décharge",
+        "it": "il colpo; la scossa",
+        "es": "el golpe; la descarga"
+      },
+      "sentences": [
+        {
+          "de": "Fass das Kabel nicht an, sonst bekommst du einen [Schlag].",
+          "tr": "Kabloya dokunma, yoksa elektrik çarpar.",
+          "en": "Don't touch the cable or you'll get a shock.",
+          "fr": "Ne touche pas le câble, sinon tu vas prendre une décharge.",
+          "it": "Non toccare il cavo, altrimenti prendi la scossa.",
+          "es": "No toques el cable o te dará una descarga."
+        },
+        {
+          "de": "Die Nachricht war ein [Schlag] für die ganze Familie.",
+          "tr": "Haber bütün aile için bir darbe oldu.",
+          "en": "The news was a blow to the whole family.",
+          "fr": "La nouvelle a été un coup dur pour toute la famille.",
+          "it": "La notizia è stata un colpo per tutta la famiglia.",
+          "es": "La noticia fue un golpe para toda la familia."
+        }
+      ]
+    },
+    {
+      "id": "Schläger",
+      "pos": "noun",
+      "parent": "schlagen",
+      "parts": [
+        "schläg",
+        "-er"
+      ],
+      "gloss": {
+        "en": "racket, bat; thug",
+        "tr": "raket, sopa; kabadayı",
+        "de": "ein Gerät zum Schlagen des Balls; eine Person, die sich prügelt",
+        "fr": "la raquette, la batte ; la brute",
+        "it": "la racchetta, la mazza; il picchiatore",
+        "es": "la raqueta, el bate; el matón"
+      },
+      "sentences": [
+        {
+          "de": "Ich habe meinen [Schläger] beim Tennis vergessen.",
+          "tr": "Raketimi teniste unuttum.",
+          "en": "I forgot my racket at tennis.",
+          "fr": "J'ai oublié ma raquette au tennis.",
+          "it": "Ho dimenticato la racchetta al tennis.",
+          "es": "Me olvidé la raqueta en el tenis."
+        },
+        {
+          "de": "Vor der Disko standen zwei [Schläger].",
+          "tr": "Diskonun önünde iki kabadayı duruyordu.",
+          "en": "Two thugs were standing outside the club.",
+          "fr": "Deux brutes se tenaient devant la discothèque.",
+          "it": "Davanti alla discoteca c'erano due picchiatori.",
+          "es": "Delante de la discoteca había dos matones."
+        }
+      ]
+    },
+    {
+      "id": "vorschlagen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "vor-",
+        "schlag",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to suggest, to propose",
+        "tr": "önermek",
+        "de": "eine Idee nennen, damit andere darüber entscheiden",
+        "fr": "proposer",
+        "it": "proporre",
+        "es": "proponer"
+      },
+      "sentences": [
+        {
+          "de": "Ich [schlage] vor, dass wir die Folien zusammen machen.",
+          "tr": "Slaytları birlikte yapmamızı öneriyorum.",
+          "en": "I suggest we make the slides together.",
+          "fr": "Je propose qu'on fasse les diapos ensemble.",
+          "it": "Propongo di fare le slide insieme.",
+          "es": "Propongo que hagamos las diapositivas juntos."
+        },
+        {
+          "de": "Wer hat dieses Restaurant [vorgeschlagen]?",
+          "tr": "Bu restoranı kim önerdi?",
+          "en": "Who suggested this restaurant?",
+          "fr": "Qui a proposé ce restaurant ?",
+          "it": "Chi ha proposto questo ristorante?",
+          "es": "¿Quién propuso este restaurante?"
+        }
+      ]
+    },
+    {
+      "id": "Vorschlag",
+      "pos": "noun",
+      "parent": "vorschlagen",
+      "parts": [
+        "vor-",
+        "schlag"
+      ],
+      "gloss": {
+        "en": "suggestion, proposal",
+        "tr": "öneri, teklif",
+        "de": "eine Idee, die man anderen nennt",
+        "fr": "la proposition, la suggestion",
+        "it": "la proposta, il suggerimento",
+        "es": "la propuesta, la sugerencia"
+      },
+      "sentences": [
+        {
+          "de": "Hast du einen besseren [Vorschlag]?",
+          "tr": "Daha iyi bir önerin var mı?",
+          "en": "Do you have a better suggestion?",
+          "fr": "Tu as une meilleure proposition ?",
+          "it": "Hai una proposta migliore?",
+          "es": "¿Tienes una propuesta mejor?"
+        },
+        {
+          "de": "Der Tutor hat unseren [Vorschlag] angenommen.",
+          "tr": "Tutor önerimizi kabul etti.",
+          "en": "The tutor accepted our proposal.",
+          "fr": "Le tuteur a accepté notre proposition.",
+          "it": "Il tutor ha accettato la nostra proposta.",
+          "es": "El tutor aceptó nuestra propuesta."
+        }
+      ]
+    },
+    {
+      "id": "nachschlagen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "nach-",
+        "schlag",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to look up",
+        "tr": "(sözlükte, kitapta) bakmak",
+        "de": "in einem Buch oder Lexikon suchen",
+        "fr": "chercher (dans un dictionnaire)",
+        "it": "cercare (sul dizionario)",
+        "es": "consultar, buscar (en un diccionario)"
+      },
+      "sentences": [
+        {
+          "de": "Wenn du ein Wort nicht kennst, [schlag] es im Wörterbuch nach.",
+          "tr": "Bir kelimeyi bilmiyorsan sözlüğe bak.",
+          "en": "If you don't know a word, look it up in the dictionary.",
+          "fr": "Si tu ne connais pas un mot, cherche-le dans le dictionnaire.",
+          "it": "Se non conosci una parola, cercala sul dizionario.",
+          "es": "Si no conoces una palabra, búscala en el diccionario."
+        },
+        {
+          "de": "Ich habe die Formel im Skript [nachgeschlagen].",
+          "tr": "Formüle ders notlarından baktım.",
+          "en": "I looked the formula up in the lecture notes.",
+          "fr": "J'ai cherché la formule dans le polycopié.",
+          "it": "Ho cercato la formula negli appunti.",
+          "es": "Busqué la fórmula en los apuntes."
+        }
+      ]
+    },
+    {
+      "id": "Umschlag",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "um-",
+        "schlag"
+      ],
+      "gloss": {
+        "en": "envelope; (book) cover",
+        "tr": "zarf; kapak",
+        "de": "eine Hülle für einen Brief; der Einband eines Buches",
+        "fr": "l'enveloppe ; la couverture",
+        "it": "la busta; la copertina",
+        "es": "el sobre; la cubierta"
+      },
+      "sentences": [
+        {
+          "de": "Leg den Brief bitte in einen [Umschlag].",
+          "tr": "Mektubu lütfen bir zarfa koy.",
+          "en": "Please put the letter in an envelope.",
+          "fr": "Mets la lettre dans une enveloppe, s'il te plaît.",
+          "it": "Metti la lettera in una busta, per favore.",
+          "es": "Mete la carta en un sobre, por favor."
+        },
+        {
+          "de": "Auf dem [Umschlag] des Buches ist ein Foto von Aachen.",
+          "tr": "Kitabın kapağında Aachen'in bir fotoğrafı var.",
+          "en": "There's a photo of Aachen on the book's cover.",
+          "fr": "Il y a une photo d'Aix-la-Chapelle sur la couverture du livre.",
+          "it": "Sulla copertina del libro c'è una foto di Aquisgrana.",
+          "es": "En la cubierta del libro hay una foto de Aquisgrán."
+        }
+      ]
+    },
+    {
+      "id": "Zuschlag",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "zu-",
+        "schlag"
+      ],
+      "gloss": {
+        "en": "surcharge, supplement",
+        "tr": "ek ücret",
+        "de": "ein Betrag, den man zusätzlich bezahlt",
+        "fr": "le supplément",
+        "it": "il supplemento",
+        "es": "el recargo, el suplemento"
+      },
+      "sentences": [
+        {
+          "de": "Für den ICE musst du einen [Zuschlag] zahlen.",
+          "tr": "ICE için ek ücret ödemen gerekiyor.",
+          "en": "You have to pay a surcharge for the ICE.",
+          "fr": "Pour l'ICE, tu dois payer un supplément.",
+          "it": "Per l'ICE devi pagare un supplemento.",
+          "es": "Para el ICE tienes que pagar un suplemento."
+        },
+        {
+          "de": "Nachtarbeit gibt einen [Zuschlag] von 25 Prozent.",
+          "tr": "Gece çalışması yüzde 25 ek ücret getiriyor.",
+          "en": "Night work earns a 25 percent supplement.",
+          "fr": "Le travail de nuit donne droit à un supplément de 25 %.",
+          "it": "Il lavoro notturno dà un supplemento del 25 per cento.",
+          "es": "El trabajo nocturno tiene un plus del 25 por ciento."
+        }
+      ]
+    },
+    {
+      "id": "Anschlag",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "an-",
+        "schlag"
+      ],
+      "gloss": {
+        "en": "attack (bombing); notice; stop (mechanical)",
+        "tr": "saldırı (bombalı); ilan; dayanak",
+        "de": "ein Gewaltakt; ein Aushang; die Stelle, wo sich etwas nicht weiterbewegt",
+        "fr": "l'attentat ; l'affiche ; la butée",
+        "it": "l'attentato; l'avviso; il fine corsa",
+        "es": "el atentado; el anuncio; el tope"
+      },
+      "sentences": [
+        {
+          "de": "Der [Anschlag] am Schwarzen Brett nennt die neuen Termine.",
+          "tr": "İlan panosundaki ilan yeni tarihleri gösteriyor.",
+          "en": "The notice on the notice board lists the new dates.",
+          "fr": "L'affiche au tableau indique les nouvelles dates.",
+          "it": "L'avviso in bacheca riporta le nuove date.",
+          "es": "El anuncio del tablón indica las nuevas fechas."
+        },
+        {
+          "de": "Dreh den Regler bis zum [Anschlag].",
+          "tr": "Düğmeyi sonuna kadar çevir.",
+          "en": "Turn the knob all the way.",
+          "fr": "Tourne le bouton jusqu'à la butée.",
+          "it": "Gira la manopola fino in fondo.",
+          "es": "Gira el mando hasta el tope."
+        }
+      ]
+    },
+    {
+      "id": "abschlagen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ab-",
+        "schlag",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to refuse, to turn down; to knock off",
+        "tr": "reddetmek; kesip koparmak",
+        "de": "eine Bitte nicht erfüllen; mit einem Schlag abtrennen",
+        "fr": "refuser ; abattre",
+        "it": "rifiutare; staccare",
+        "es": "rechazar; cortar"
+      },
+      "sentences": [
+        {
+          "de": "Diesen Wunsch kann ich dir nicht [abschlagen].",
+          "tr": "Bu isteğini geri çeviremem.",
+          "en": "I can't refuse you this wish.",
+          "fr": "Je ne peux pas te refuser ce souhait.",
+          "it": "Non posso rifiutarti questo desiderio.",
+          "es": "No puedo negarte este deseo."
+        },
+        {
+          "de": "Er hat das Angebot höflich [abgeschlagen].",
+          "tr": "Teklifi kibarca reddetti.",
+          "en": "He politely turned down the offer.",
+          "fr": "Il a poliment refusé l'offre.",
+          "it": "Ha rifiutato educatamente l'offerta.",
+          "es": "Rechazó la oferta con cortesía."
+        }
+      ]
+    },
+    {
+      "id": "überschlagen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "über-",
+        "schlag",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to estimate roughly; to skip; (sich) to overturn",
+        "tr": "kabaca hesaplamak; atlamak; takla atmak",
+        "de": "schnell ungefähr ausrechnen; etwas auslassen; sich überschlagen: sich drehen",
+        "fr": "estimer ; sauter ; se retourner",
+        "it": "stimare; saltare; ribaltarsi",
+        "es": "calcular por encima; saltarse; volcar"
+      },
+      "sentences": [
+        {
+          "de": "[Überschlag] kurz, ob das Ergebnis Sinn ergibt.",
+          "tr": "Sonucun mantıklı olup olmadığını kabaca hesapla.",
+          "en": "Do a quick estimate to see whether the result makes sense.",
+          "fr": "Fais une estimation rapide pour voir si le résultat a du sens.",
+          "it": "Fai una stima veloce per vedere se il risultato ha senso.",
+          "es": "Haz un cálculo rápido para ver si el resultado tiene sentido."
+        },
+        {
+          "de": "Das Auto hat sich zweimal [überschlagen].",
+          "tr": "Araba iki kez takla attı.",
+          "en": "The car flipped over twice.",
+          "fr": "La voiture a fait deux tonneaux.",
+          "it": "L'auto si è ribaltata due volte.",
+          "es": "El coche dio dos vueltas de campana."
+        }
+      ]
+    }
+  ]
+}
