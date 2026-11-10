@@ -2,6 +2,19 @@ import type { Lang } from '../domain/Language';
 
 /** Interface texts. English defines the keys; the compiler makes every language complete. */
 const en = {
+  pickLanguage: "Which language do you want to learn?",
+  lang_en_hint: "Latin & Greek roots",
+  lang_de_hint: "Wortstämme: steh, zieh, stell …",
+  exploreTitle: "What do you want to explore?",
+  explore_roots: "Roots & affixes",
+  explore_roots_hint: "spec → inspect, spectator …",
+  explore_objects: "Objects",
+  explore_objects_hint: "kitchen, classroom, bathroom …",
+  stepBack: "Back",
+  layout_grid: "Tiles",
+  layout_dictionary: "Dictionary",
+  layoutLabel: "Layout",
+  otherSection: "Other section",
   tagline: 'Learn English words through their roots',
   searchPlaceholder: 'Search a root, word or object…',
   noResults: 'Nothing found',
@@ -72,6 +85,19 @@ export type MessageKey = keyof typeof en;
 export type Messages = Record<MessageKey, string>;
 
 const tr: Messages = {
+  pickLanguage: "Hangi dili öğrenmek istiyorsun?",
+  lang_en_hint: "Latince ve Yunanca kökler",
+  lang_de_hint: "Wortstämme: steh, zieh, stell …",
+  exploreTitle: "Neye bakmak istiyorsun?",
+  explore_roots: "Kökler ve ekler",
+  explore_roots_hint: "spec → inspect, spectator …",
+  explore_objects: "Nesneler",
+  explore_objects_hint: "mutfak, sınıf, banyo …",
+  stepBack: "Geri",
+  layout_grid: "Karolar",
+  layout_dictionary: "Sözlük",
+  layoutLabel: "Görünüm",
+  otherSection: "Başka bölüm",
   tagline: 'İngilizce kelimeleri kökleriyle öğren',
   searchPlaceholder: 'Kök, kelime ya da nesne ara…',
   noResults: 'Sonuç yok',
@@ -139,6 +165,19 @@ const tr: Messages = {
 };
 
 const de: Messages = {
+  pickLanguage: "Welche Sprache möchtest du lernen?",
+  lang_en_hint: "Lateinische & griechische Wurzeln",
+  lang_de_hint: "Wortstämme: steh, zieh, stell …",
+  exploreTitle: "Was möchtest du entdecken?",
+  explore_roots: "Wurzeln & Affixe",
+  explore_roots_hint: "spec → inspect, spectator …",
+  explore_objects: "Gegenstände",
+  explore_objects_hint: "Küche, Klassenzimmer, Bad …",
+  stepBack: "Zurück",
+  layout_grid: "Kacheln",
+  layout_dictionary: "Wörterbuch",
+  layoutLabel: "Ansicht",
+  otherSection: "Anderer Bereich",
   tagline: 'Englische Wörter über ihre Wurzeln lernen',
   searchPlaceholder: 'Wurzel, Wort oder Ding suchen…',
   noResults: 'Nichts gefunden',
@@ -206,6 +245,19 @@ const de: Messages = {
 };
 
 const fr: Messages = {
+  pickLanguage: "Quelle langue veux-tu apprendre ?",
+  lang_en_hint: "Racines latines et grecques",
+  lang_de_hint: "Wortstämme : steh, zieh, stell …",
+  exploreTitle: "Que veux-tu explorer ?",
+  explore_roots: "Racines et affixes",
+  explore_roots_hint: "spec → inspect, spectator …",
+  explore_objects: "Objets",
+  explore_objects_hint: "cuisine, classe, salle de bain …",
+  stepBack: "Retour",
+  layout_grid: "Tuiles",
+  layout_dictionary: "Dictionnaire",
+  layoutLabel: "Affichage",
+  otherSection: "Autre section",
   tagline: 'Apprendre les mots anglais par leurs racines',
   searchPlaceholder: 'Chercher une racine, un mot ou un objet…',
   noResults: 'Aucun résultat',
@@ -273,6 +325,19 @@ const fr: Messages = {
 };
 
 const it: Messages = {
+  pickLanguage: "Quale lingua vuoi imparare?",
+  lang_en_hint: "Radici latine e greche",
+  lang_de_hint: "Wortstämme: steh, zieh, stell …",
+  exploreTitle: "Che cosa vuoi esplorare?",
+  explore_roots: "Radici e affissi",
+  explore_roots_hint: "spec → inspect, spectator …",
+  explore_objects: "Oggetti",
+  explore_objects_hint: "cucina, aula, bagno …",
+  stepBack: "Indietro",
+  layout_grid: "Riquadri",
+  layout_dictionary: "Dizionario",
+  layoutLabel: "Vista",
+  otherSection: "Altra sezione",
   tagline: 'Impara le parole inglesi dalle loro radici',
   searchPlaceholder: 'Cerca una radice, una parola o un oggetto…',
   noResults: 'Nessun risultato',
@@ -340,6 +405,19 @@ const it: Messages = {
 };
 
 const es: Messages = {
+  pickLanguage: "¿Qué idioma quieres aprender?",
+  lang_en_hint: "Raíces latinas y griegas",
+  lang_de_hint: "Wortstämme: steh, zieh, stell …",
+  exploreTitle: "¿Qué quieres explorar?",
+  explore_roots: "Raíces y afijos",
+  explore_roots_hint: "spec → inspect, spectator …",
+  explore_objects: "Objetos",
+  explore_objects_hint: "cocina, aula, baño …",
+  stepBack: "Atrás",
+  layout_grid: "Mosaico",
+  layout_dictionary: "Diccionario",
+  layoutLabel: "Vista",
+  otherSection: "Otra sección",
   tagline: 'Aprende palabras inglesas a través de sus raíces',
   searchPlaceholder: 'Busca una raíz, una palabra o un objeto…',
   noResults: 'Sin resultados',

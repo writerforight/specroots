@@ -85,6 +85,20 @@ seçilen dillerdeki karşılığı ve öğretici örnek cümleleri bir arada gö
     (bringen, beibringen), `fall` (fallen, Unfall, Zufall, gefallen), `lieg` (liegen/legen, Lage, Gelegenheit),
     `stell` (stellen, Stelle, Vorstellung, bestellen); +63. Toplam 17 kök, 269 kelime. Almanca ek sayfası (ek → kelimeler) şimdilik yok; ekler kartta
     anlamlarıyla düz metin. Büyütme: her kök kullanıcı onayıyla (karar 11 gibi).
+    Altıncı tur (2026-11-10, "daha fazla kelime ve kök"): `brech` (unterbrechen, Ausbruch, Verbrechen,
+    Durchbruch), `greif` (begreifen/Begriff, Angriff, Zugriff), `schlag` (Vorschlag, nachschlagen,
+    Umschlag), `trag` (Vertrag, Beitrag, Antrag, übertragen); yeni ekler `zer-`, `durch-`; +48. Toplam 21 kök, 317 kelime.
+17. **Yeni açılış ve bölüm sayfaları (2026-11-10, kullanıcı isteği):** dağınık "hoş geldin" formu yerine
+    başlangıç ekranı adım adım tek soru sorar: 1) English / Deutsch; 2) English ise Kökler ve ekler / Nesneler.
+    Deutsch doğrudan Almanca köklere gider. Çeviri dilleri ve tema ilk açılışta sorulmaz (tarayıcı dilinden
+    tahmin), Ayarlar'dadır; ayarlardaki "Şununla başla" kalktı. Yan listedeki bölüm düğmesi kalktı; bölüm
+    değiştirmek = başlangıç ekranı (logo ya da sayfadaki "Başka bölüm"). Kökler bölümünde üstte yalnız
+    3 sekme: Kökler · Önekler · Sonekler. Bölümün giriş sayfası (`#/roots`, `#/de`) tam genişlikte tüm
+    kökleri/ekleri gösterir, iki düzenle (düğmeyle geçilir, hatırlanır): **Karolar** (her kök bir kare,
+    büyük ana biçim) ve **Sözlük** (basılı sözlük: dev baş harf, iki sütun, A–Z şeridi, örnek kelimeler).
+    Kök sayfasında yan liste aynı kalır. Siyah-beyaz tema temel görünüm olarak korunur. Önerilen ama
+    henüz seçilmeyen modlar: takımyıldız (animasyonlu ağ), kelime kurucu (önek+kök+sonek çarkları),
+    kart destesi (çalışma modu).
 
 ## Mimari
 ```

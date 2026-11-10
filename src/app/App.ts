@@ -4,7 +4,7 @@ import type { ListSummary, ObjectSummary } from '../domain/EverydayObject';
 import type { RootSummary } from '../domain/Root';
 import { I18n } from '../i18n/I18n';
 import { SearchIndex } from '../services/SearchIndex';
-import type { Section, SettingsStore } from '../services/SettingsStore';
+import type { IndexLayout, Section, SettingsStore } from '../services/SettingsStore';
 import { SpeechService } from '../services/SpeechService';
 import { AffixListView } from '../ui/AffixListView';
 import { BrowseModeSwitch } from '../ui/BrowseModeSwitch';
@@ -12,9 +12,9 @@ import { h } from '../ui/dom';
 import { ListsSidebarView } from '../ui/ListsSidebarView';
 import { RootDetailView } from '../ui/RootDetailView';
 import { RootListView } from '../ui/RootListView';
-import { deRootHref, listHref, parseRoute, SECTION_HOME, sectionOf, type Route } from '../ui/routes';
+import { affixHref, deRootHref, listHref, parseRoute, rootHref, sectionOf, type Route } from '../ui/routes';
+import type { IndexItem } from '../ui/IndexView';
 import { SearchBox } from '../ui/SearchBox';
-import { SectionSwitch } from '../ui/SectionSwitch';
 import { SettingsDialog } from '../ui/SettingsDialog';
 import { ThemeController } from '../ui/ThemeController';
 import type { ViewContext } from '../ui/ViewContext';
@@ -31,8 +31,9 @@ export class App {
   private readonly list: RootListView;
   private readonly affixList: AffixListView;
   private readonly listsSidebar: ListsSidebarView;
-  private readonly sectionSwitch: SectionSwitch;
   private readonly modeSwitch: BrowseModeSwitch;
+  /** The same three tabs on top of the roots section's start page. */
+  private readonly indexModeSwitch: BrowseModeSwitch;
   private readonly sidebar = h('nav', { class: 'root-list' });
   private readonly detail: RootDetailView;
   private readonly search: SearchBox;
@@ -68,8 +69,8 @@ export class App {
     this.list = new RootListView(this.i18n);
     this.affixList = new AffixListView(this.i18n);
     this.listsSidebar = new ListsSidebarView(this.i18n);
-    this.sectionSwitch = new SectionSwitch(this.i18n, (section) => this.switchSection(section));
     this.modeSwitch = new BrowseModeSwitch(this.i18n, (browseMode) => this.settings.update({ browseMode }));
+    this.indexModeSwitch = new BrowseModeSwitch(this.i18n, (browseMode) => this.settings.update({ browseMode }));
     this.detail = new RootDetailView((kind) => this.settings.update({ derivationView: kind }));
     this.search = new SearchBox(this.i18n, (href) => (location.hash = href));
     this.dialog = new SettingsDialog(this.i18n, settings);
@@ -117,8 +118,9 @@ export class App {
     // German roots are small and found by search from the start; if they fail, the rest still works.
     this.germanRoots = (await this.german?.listRoots().catch(() => [])) ?? [];
     this.search.setIndex(new SearchIndex(this.roots, this.affixes.values(), this.objects, this.wordLists, this.germanRoots));
+    // No settings form on the first visit: the start screen asks one question at a time, and
+    // translation languages and theme start from the browser and live in Settings.
     await this.navigate();
-    if (!this.settings.value.onboarded) this.dialog.open('welcome');
   }
 
   private applyLanguage(): void {
@@ -134,13 +136,6 @@ export class App {
 
   private context(): ViewContext {
     return { i18n: this.i18n, settings: this.settings.value, speech: this.speech, affixes: this.affixes };
-  }
-
-  /** The section switch: remember the choice and go to that section's start page. */
-  private switchSection(section: Section): void {
-    if (section !== this.settings.value.section) this.settings.update({ section });
-    const target = SECTION_HOME[section];
-    if (location.hash !== target) location.hash = target;
   }
 
   /**
@@ -168,14 +163,19 @@ export class App {
     // Mobile shows either the side list or the page; the lists start page is a side-list page.
     // "#/" is the start screen (roots or objects); mobile shows the side list on a section's start page.
     const view = route.kind === 'deRoot' ? 'root' : route.kind;
-    document.body.dataset.view = route.kind === 'home' ? 'start' : route.kind === 'lists' || route.kind === 'roots' || route.kind === 'german' ? 'home' : view;
+    document.body.dataset.view =
+      route.kind === 'home' ? 'start' : route.kind === 'roots' || route.kind === 'german' ? 'index' : route.kind === 'lists' ? 'home' : view;
     try {
       await this.renderSidebar(route);
       if (token !== this.renderToken) return;
       if (route.kind === 'home') {
-        this.detail.showStart(this.context());
+        this.detail.showStart(this.context(), (section) => this.settings.update({ section, onboarded: true }));
         document.title = 'specroots';
-      } else if (route.kind === 'roots' || route.kind === 'lists' || route.kind === 'german') {
+      } else if (route.kind === 'roots' || route.kind === 'german') {
+        await this.showIndex(route.kind);
+        if (token !== this.renderToken) return;
+        document.title = 'specroots';
+      } else if (route.kind === 'lists') {
         this.detail.showEmpty(this.context());
         document.title = 'specroots';
       } else if (route.kind === 'root') {
@@ -223,7 +223,6 @@ export class App {
   /** Section switch on top; below it the roots section's mode switch and list, or the word lists. */
   private async renderSidebar(route: Route): Promise<void> {
     const { section, browseMode: mode, translationLangs } = this.settings.value;
-    this.sectionSwitch.render(section);
     this.search.setScope(section);
     if (section === 'lists') {
       this.sidebar.setAttribute('aria-label', this.i18n.t('section_lists'));
@@ -233,25 +232,70 @@ export class App {
       } else {
         this.listsSidebar.renderLists(this.wordLists, null);
       }
-      this.sidebar.replaceChildren(this.sectionSwitch.el, this.listsSidebar.el);
+      this.sidebar.replaceChildren(this.listsSidebar.el);
       return;
     }
     if (section === 'german') {
       this.sidebar.setAttribute('aria-label', this.i18n.t('section_german'));
       this.list.render(this.germanRoots, route.kind === 'deRoot' ? route.rootId : null, (id) => deRootHref(id));
-      this.sidebar.replaceChildren(this.sectionSwitch.el, this.list.el);
+      this.sidebar.replaceChildren(this.list.el);
       return;
     }
     this.modeSwitch.render(mode);
     this.sidebar.setAttribute('aria-label', this.i18n.t(`browse_${mode}`));
     if (mode === 'root') {
       this.list.render(this.roots, route.kind === 'root' ? route.rootId : null);
-      this.sidebar.replaceChildren(this.sectionSwitch.el, this.modeSwitch.el, this.list.el);
+      this.sidebar.replaceChildren(this.modeSwitch.el, this.list.el);
       return;
     }
     const index = await this.loadAffixIndex();
     this.affixList.render(mode, this.affixes, index, route.kind === 'affix' ? route.affixId : null);
-    this.sidebar.replaceChildren(this.sectionSwitch.el, this.modeSwitch.el, this.affixList.el);
+    this.sidebar.replaceChildren(this.modeSwitch.el, this.affixList.el);
+  }
+
+  /** A section's start page: German roots, or the roots section's roots, prefixes or suffixes. */
+  private async showIndex(kind: 'roots' | 'german'): Promise<void> {
+    const { browseMode: mode } = this.settings.value;
+    const lang = this.i18n.language;
+    const onLayout = (indexLayout: IndexLayout) => this.settings.update({ indexLayout });
+    const fromRoots = (roots: readonly RootSummary[], href: (id: string) => string): IndexItem[] =>
+      roots.map((root) => ({
+        key: root.forms[0] ?? root.id,
+        label: root.forms.join(', '),
+        meaning: root.meaning[lang] ?? root.meaning.en ?? '',
+        count: root.words.length,
+        examples: root.words.slice(0, 4),
+        href: href(root.id),
+        lang: root.origin === 'de' ? 'de' : 'en',
+      }));
+    if (kind === 'german') {
+      this.detail.showIndex(this.context(), this.i18n.t('section_german'), fromRoots(this.germanRoots, (id) => deRootHref(id)), null, onLayout);
+      return;
+    }
+    this.indexModeSwitch.render(mode);
+    if (mode === 'root') {
+      this.detail.showIndex(this.context(), this.i18n.t('section_roots'), fromRoots(this.roots, (id) => rootHref(id)), this.indexModeSwitch.el, onLayout);
+      return;
+    }
+    const index = await this.loadAffixIndex();
+    const items = [...this.affixes.values()]
+      .filter((a) => a.kind === mode)
+      .map((affix) => {
+        const occurrences = index.get(affix.id) ?? [];
+        return {
+          key: affix.form,
+          label: affix.label,
+          meaning: affix.meaning[lang] ?? affix.meaning.en ?? '',
+          count: occurrences.reduce((n, o) => n + o.wordIds.length, 0),
+          examples: occurrences.flatMap((o) => o.wordIds).slice(0, 4),
+          href: affixHref(affix.id),
+          lang: 'en',
+          kind: affix.kind,
+        };
+      })
+      .filter((item) => item.count > 0)
+      .sort((a, b) => a.key.localeCompare(b.key) || a.label.localeCompare(b.label));
+    this.detail.showIndex(this.context(), this.i18n.t('section_roots'), items, this.indexModeSwitch.el, onLayout);
   }
 
   /** The summaries of the given objects, A–Z by English name. */

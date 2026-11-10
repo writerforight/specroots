@@ -2,9 +2,10 @@ import type { Affix } from '../domain/Affix';
 import type { EverydayObject, ListSummary, ObjectSummary, WordList } from '../domain/EverydayObject';
 import type { Root } from '../domain/Root';
 import { AffixFamilyView, type AffixGroup } from './AffixFamilyView';
-import type { DerivationViewKind } from '../services/SettingsStore';
+import type { DerivationViewKind, IndexLayout, Section } from '../services/SettingsStore';
 import { clear, h } from './dom';
 import { DERIVATION_VIEWS } from './derivations';
+import { INDEX_LAYOUTS, type IndexItem } from './IndexView';
 import { ListPageView } from './ListPageView';
 import { ObjectCardView } from './ObjectCardView';
 import { SECTION_HOME } from './routes';
@@ -16,23 +17,69 @@ export class RootDetailView {
 
   constructor(private readonly onViewChange: (kind: DerivationViewKind) => void) {}
 
-  /** The first screen: English roots, German roots or objects. */
-  showStart(ctx: ViewContext): void {
+  /**
+   * The first screen, one question at a time: which language (English or German), then for English
+   * whether to explore roots and affixes or objects. onPick remembers the choice before leaving.
+   */
+  showStart(ctx: ViewContext, onPick: (section: Section) => void, step: 'language' | 'english' = 'language'): void {
+    const t = (k: Parameters<ViewContext['i18n']['t']>[0]) => ctx.i18n.t(k);
+    const choice = (title: string, hint: string, lang: string | null, action: () => void) =>
+      h('button', { class: 'start-choice', type: 'button', lang, onclick: action }, h('strong', {}, title), h('span', { class: 'start-hint' }, hint));
+    const go = (section: Section) => {
+      onPick(section);
+      location.hash = SECTION_HOME[section];
+    };
     clear(this.el);
     this.el.append(
       h(
         'div',
         { class: 'start-screen' },
-        h('h1', { class: 'start-title' }, ctx.i18n.t('startPrompt')),
-        h(
-          'div',
-          { class: 'start-choices' },
-          h('a', { class: 'start-choice', href: SECTION_HOME.roots }, ctx.i18n.t('section_roots')),
-          h('a', { class: 'start-choice', href: SECTION_HOME.german }, ctx.i18n.t('section_german')),
-          h('a', { class: 'start-choice', href: SECTION_HOME.lists }, ctx.i18n.t('section_lists')),
-        ),
+        h('p', { class: 'start-step' }, step === 'language' ? '1 / 2' : '2 / 2'),
+        h('h1', { class: 'start-title' }, step === 'language' ? t('pickLanguage') : t('exploreTitle')),
+        step === 'language'
+          ? h(
+              'div',
+              { class: 'start-choices' },
+              choice('English', t('lang_en_hint'), 'en', () => this.showStart(ctx, onPick, 'english')),
+              choice('Deutsch', t('lang_de_hint'), 'de', () => go('german')),
+            )
+          : h(
+              'div',
+              { class: 'start-choices' },
+              choice(t('explore_roots'), t('explore_roots_hint'), null, () => go('roots')),
+              choice(t('explore_objects'), t('explore_objects_hint'), null, () => go('lists')),
+            ),
+        step === 'english' ? h('button', { class: 'start-back', type: 'button', onclick: () => this.showStart(ctx, onPick) }, `← ${t('stepBack')}`) : null,
       ),
     );
+  }
+
+  /** A section's start page: its roots or affixes, as tiles or a dictionary page, with the switches on top. */
+  showIndex(ctx: ViewContext, title: string, items: readonly IndexItem[], tabs: HTMLElement | null, onLayout: (layout: IndexLayout) => void): void {
+    const { i18n, settings } = ctx;
+    const layouts: IndexLayout[] = ['grid', 'dictionary'];
+    clear(this.el);
+    this.el.append(
+      h(
+        'header',
+        { class: 'index-head' },
+        h('div', { class: 'index-title-row' }, h('h1', { class: 'index-title' }, title), h('a', { class: 'index-other', href: '#/' }, `↺ ${i18n.t('otherSection')}`)),
+        h(
+          'div',
+          { class: 'index-controls' },
+          tabs,
+          h(
+            'div',
+            { class: 'segmented layout-switch', role: 'group', 'aria-label': i18n.t('layoutLabel') },
+            ...layouts.map((layout) =>
+              h('button', { type: 'button', 'aria-pressed': String(settings.indexLayout === layout), onclick: () => onLayout(layout) }, i18n.t(`layout_${layout}`)),
+            ),
+          ),
+        ),
+      ),
+      INDEX_LAYOUTS[settings.indexLayout](items, (count) => i18n.t('wordCount', { count })),
+    );
+    window.scrollTo?.({ top: 0 });
   }
 
   showEmpty(ctx: ViewContext): void {

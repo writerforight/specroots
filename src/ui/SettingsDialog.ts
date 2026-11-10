@@ -1,17 +1,9 @@
 import { ENDONYMS, LANGUAGES, TRANSLATION_LANGUAGES, type Lang, type TranslationLang } from '../domain/Language';
 import type { I18n } from '../i18n/I18n';
-import type { BrowseMode, Section, Settings, SettingsStore, ThemeChoice } from '../services/SettingsStore';
-import { BROWSE_MODES } from './BrowseModeSwitch';
+import type { Settings, SettingsStore, ThemeChoice } from '../services/SettingsStore';
 import { h } from './dom';
-import { parseRoute, SECTION_HOME, sectionOf } from './routes';
 
 export type DialogMode = 'welcome' | 'settings';
-
-/** True when the address shows a different section than the one just chosen. */
-function sectionChanged(section: Section): boolean {
-  // The start screen counts as the roots section, as before.
-  return (sectionOf(parseRoute(location.hash)) ?? 'roots') !== section;
-}
 
 /** One form for both the first-visit welcome and the settings screen. */
 export class SettingsDialog {
@@ -62,13 +54,7 @@ export class SettingsDialog {
           }
           const picked = (form.querySelector<HTMLInputElement>('input[name="theme"]:checked')?.value ?? 'system') as ThemeChoice;
           const theme = picked === 'mono' && this.store.value.theme === 'mono-dark' ? 'mono-dark' : picked;
-          // "Start with": a roots-section mode, or the object lists.
-          const start = form.querySelector<HTMLInputElement>('input[name="browse"]:checked')?.value ?? 'root';
-          const section: Section = start === 'lists' || start === 'german' ? start : 'roots';
-          const browseMode = (section === 'roots' ? start : s.browseMode) as BrowseMode;
-          this.store.update({ translationLangs: langs, theme, browseMode, section, onboarded: true });
-          // Show the chosen section right away.
-          if (sectionChanged(section)) location.hash = SECTION_HOME[section];
+          this.store.update({ translationLangs: langs, theme, onboarded: true });
         },
       },
       h('h2', {}, mode === 'welcome' ? t('welcomeTitle') : t('settings')),
@@ -86,20 +72,6 @@ export class SettingsDialog {
           ),
         ),
         warning,
-      ),
-      h(
-        'fieldset',
-        { class: 'field' },
-        h('legend', { class: 'field-label' }, t('startWith')),
-        h(
-          'div',
-          { class: 'chips' },
-          ...BROWSE_MODES.map((mode) =>
-            h('label', { class: 'chip' }, h('input', { type: 'radio', name: 'browse', value: mode, checked: s.section === 'roots' && s.browseMode === mode }), t(`browse_${mode}`)),
-          ),
-          h('label', { class: 'chip' }, h('input', { type: 'radio', name: 'browse', value: 'german', checked: s.section === 'german' }), t('section_german')),
-          h('label', { class: 'chip' }, h('input', { type: 'radio', name: 'browse', value: 'lists', checked: s.section === 'lists' }), t('section_lists')),
-        ),
       ),
       h(
         'fieldset',

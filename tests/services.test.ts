@@ -104,6 +104,15 @@ describe('SettingsStore', () => {
     expect(reloaded.translationLangs).toEqual(['fr', 'es']);
     expect(reloaded.onboarded).toBe(true);
   });
+  it('remembers the start-page layout and falls back to tiles', () => {
+    const memory = new MemoryStore();
+    const store = new SettingsStore(memory);
+    expect(store.value.indexLayout).toBe('grid');
+    store.update({ indexLayout: 'dictionary' });
+    expect(new SettingsStore(memory).value.indexLayout).toBe('dictionary');
+    memory.set('specroots.settings.v1', JSON.stringify({ indexLayout: 'carousel' }));
+    expect(new SettingsStore(memory).value.indexLayout).toBe('grid');
+  });
   it('drops invalid saved values instead of crashing', () => {
     const memory = new MemoryStore();
     memory.set('specroots.settings.v1', JSON.stringify({ uiLang: 'xx', translationLangs: ['tr', 'en', 'zz'], theme: 'neon' }));

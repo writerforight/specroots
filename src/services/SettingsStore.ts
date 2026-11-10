@@ -7,6 +7,8 @@ export type DerivationViewKind = 'list' | 'tree';
 export type Section = 'roots' | 'lists' | 'german';
 /** What the roots section's side list shows: roots, or the prefixes or suffixes words are built with. */
 export type BrowseMode = 'root' | 'prefix' | 'suffix';
+/** How a section's start page lays out its roots or affixes: tiles, or a printed-dictionary page. */
+export type IndexLayout = 'grid' | 'dictionary';
 
 export interface Settings {
   readonly uiLang: Lang;
@@ -15,6 +17,7 @@ export interface Settings {
   readonly derivationView: DerivationViewKind;
   readonly section: Section;
   readonly browseMode: BrowseMode;
+  readonly indexLayout: IndexLayout;
   /** False until the learner has picked languages on the welcome screen. */
   readonly onboarded: boolean;
 }
@@ -59,6 +62,7 @@ export class SettingsStore {
       derivationView: 'list',
       section: 'roots',
       browseMode: 'root',
+      indexLayout: 'grid',
       onboarded: false,
     };
   }
@@ -89,6 +93,7 @@ export class SettingsStore {
       derivationView: raw.derivationView === 'tree' ? 'tree' : 'list',
       section: raw.section === 'lists' || raw.section === 'german' ? raw.section : 'roots',
       browseMode: raw.browseMode === 'prefix' || raw.browseMode === 'suffix' ? raw.browseMode : 'root',
+      indexLayout: raw.indexLayout === 'dictionary' ? 'dictionary' : 'grid',
       onboarded: raw.onboarded === true,
     };
   }
