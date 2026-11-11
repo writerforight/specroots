@@ -1,6 +1,13 @@
 # Ortak geliştirme: katkı kuralları, ajan belgesi, katkıda bulunanlar
 
-Tarih: 2026-11-11 · Durum: onay bekliyor
+Tarih: 2026-11-11 · Durum: 1–5 uygulandı (aynı gün); 6 ertelendi
+
+> **Uygulama notu (2026-11-11):** kullanıcının soru-cevap turundaki seçimleri bu taslağın bazı
+> noktalarını değiştirdi; geçerli kayıt `SPEC.md` karar 18'dir. Farklar: issue isteğe bağlı; PR'da üst
+> sınır yerine **alt sınır** (en az 5 kök, ~100 kelime); belgeler İngilizce + tam Türkçe
+> (`AGENTS.md`, `AGENTS.tr.md`); PR'da tek zorunlu kutu (lisans); bağlantı yalnızca başlangıç
+> ekranında; `addedBy` dosya düzeyinde (kelimede yalnızca kökü başkası oluşturduysa), eklerde yok;
+> iskelet komutu (`npm run new`) ve Almanca ek sayfaları yapılmadı.
 
 ## Neden
 

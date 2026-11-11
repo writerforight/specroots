@@ -2,6 +2,17 @@ import type { Lang } from '../domain/Language';
 
 /** Interface texts. English defines the keys; the compiler makes every language complete. */
 const en = {
+  contributors: 'Contributors',
+  contributorsIntro: 'The people who add words to specroots.',
+  contributorsDetails: 'Details',
+  contributorsNames: 'Names',
+  stat_words: 'Words',
+  stat_english: 'English',
+  stat_german: 'German',
+  stat_objects: 'Objects',
+  stat_roots: 'Roots added',
+  stat_lists: 'Lists added',
+  contribute: 'Add words yourself',
   pickLanguage: "Which language do you want to learn?",
   lang_en_hint: "Latin & Greek roots",
   lang_de_hint: "Wortstämme: steh, zieh, stell …",
@@ -85,6 +96,17 @@ export type MessageKey = keyof typeof en;
 export type Messages = Record<MessageKey, string>;
 
 const tr: Messages = {
+  contributors: 'Katkıda bulunanlar',
+  contributorsIntro: "specroots'a kelime ekleyenler.",
+  contributorsDetails: 'Detay',
+  contributorsNames: 'Adlar',
+  stat_words: 'Kelime',
+  stat_english: 'İngilizce',
+  stat_german: 'Almanca',
+  stat_objects: 'Nesne',
+  stat_roots: 'Eklediği kökler',
+  stat_lists: 'Eklediği listeler',
+  contribute: 'Sen de kelime ekle',
   pickLanguage: "Hangi dili öğrenmek istiyorsun?",
   lang_en_hint: "Latince ve Yunanca kökler",
   lang_de_hint: "Wortstämme: steh, zieh, stell …",
@@ -165,6 +187,17 @@ const tr: Messages = {
 };
 
 const de: Messages = {
+  contributors: 'Mitwirkende',
+  contributorsIntro: 'Die Menschen, die Wörter zu specroots hinzufügen.',
+  contributorsDetails: 'Details',
+  contributorsNames: 'Namen',
+  stat_words: 'Wörter',
+  stat_english: 'Englisch',
+  stat_german: 'Deutsch',
+  stat_objects: 'Gegenstände',
+  stat_roots: 'Hinzugefügte Wortstämme',
+  stat_lists: 'Hinzugefügte Listen',
+  contribute: 'Selbst Wörter hinzufügen',
   pickLanguage: "Welche Sprache möchtest du lernen?",
   lang_en_hint: "Lateinische & griechische Wurzeln",
   lang_de_hint: "Wortstämme: steh, zieh, stell …",
@@ -245,6 +278,17 @@ const de: Messages = {
 };
 
 const fr: Messages = {
+  contributors: 'Contributeurs',
+  contributorsIntro: 'Les personnes qui ajoutent des mots à specroots.',
+  contributorsDetails: 'Détails',
+  contributorsNames: 'Noms',
+  stat_words: 'Mots',
+  stat_english: 'Anglais',
+  stat_german: 'Allemand',
+  stat_objects: 'Objets',
+  stat_roots: 'Racines ajoutées',
+  stat_lists: 'Listes ajoutées',
+  contribute: 'Ajoutez des mots vous aussi',
   pickLanguage: "Quelle langue veux-tu apprendre ?",
   lang_en_hint: "Racines latines et grecques",
   lang_de_hint: "Wortstämme : steh, zieh, stell …",
@@ -325,6 +369,17 @@ const fr: Messages = {
 };
 
 const it: Messages = {
+  contributors: 'Collaboratori',
+  contributorsIntro: 'Le persone che aggiungono parole a specroots.',
+  contributorsDetails: 'Dettagli',
+  contributorsNames: 'Nomi',
+  stat_words: 'Parole',
+  stat_english: 'Inglese',
+  stat_german: 'Tedesco',
+  stat_objects: 'Oggetti',
+  stat_roots: 'Radici aggiunte',
+  stat_lists: 'Liste aggiunte',
+  contribute: 'Aggiungi parole anche tu',
   pickLanguage: "Quale lingua vuoi imparare?",
   lang_en_hint: "Radici latine e greche",
   lang_de_hint: "Wortstämme: steh, zieh, stell …",
@@ -405,6 +460,17 @@ const it: Messages = {
 };
 
 const es: Messages = {
+  contributors: 'Colaboradores',
+  contributorsIntro: 'Las personas que añaden palabras a specroots.',
+  contributorsDetails: 'Detalles',
+  contributorsNames: 'Nombres',
+  stat_words: 'Palabras',
+  stat_english: 'Inglés',
+  stat_german: 'Alemán',
+  stat_objects: 'Objetos',
+  stat_roots: 'Raíces añadidas',
+  stat_lists: 'Listas añadidas',
+  contribute: 'Añade palabras tú también',
   pickLanguage: "¿Qué idioma quieres aprender?",
   lang_en_hint: "Raíces latinas y griegas",
   lang_de_hint: "Wortstämme: steh, zieh, stell …",

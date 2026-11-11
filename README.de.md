@@ -40,9 +40,15 @@ Als Nächstes ([SPEC.md](SPEC.md), auf Türkisch): Offline-Nutzung.
 
 ## Mitmachen
 
-Fehlt eine Wurzel oder ist eine Übersetzung falsch? [Wurzel vorschlagen](https://github.com/writerforight/specroots/issues/new?template=new-root.yml)
-oder [Fehler melden](https://github.com/writerforight/specroots/issues/new?template=mistake.yml). Eine Wurzel selbst hinzuzufügen ist eine
-JSON-Datei; [CONTRIBUTING.md](CONTRIBUTING.md) erklärt die Schritte (auf Englisch).
+specroots wächst durch Menschen, die Wörter hinzufügen; alle erscheinen auf der
+[Seite „Mitwirkende“](https://writerforight.github.io/specroots/#/contributors).
+
+- **Wörter hinzufügen:** forken, JSON-Dateien schreiben, Pull Request öffnen. Die Kurzfassung steht
+  in [CONTRIBUTING.md](CONTRIBUTING.md) (Englisch). **Mit einem KI-Agenten?** Gib ihm
+  [AGENTS.md](AGENTS.md): alle Regeln mit einem Beispiel für jede Art von Inhalt, so geschrieben,
+  dass ein Agent die Arbeit ohne Rückfragen erledigt.
+- **Vorschlagen oder melden:** [englische Wurzel](https://github.com/writerforight/specroots/issues/new?template=new-root.yml), [deutscher Wortstamm](https://github.com/writerforight/specroots/issues/new?template=de-root.yml),
+  [Gegenstandsliste](https://github.com/writerforight/specroots/issues/new?template=list.yml) oder [Fehler](https://github.com/writerforight/specroots/issues/new?template=mistake.yml).
 
 ## Lokal starten
 

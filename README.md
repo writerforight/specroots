@@ -52,10 +52,14 @@ Next on the roadmap ([SPEC.md](SPEC.md)): offline use.
 
 ## Contributing
 
-Missing a root, or found a wrong translation? [Suggest a root](https://github.com/writerforight/specroots/issues/new?template=new-root.yml)
-or [report a mistake](https://github.com/writerforight/specroots/issues/new?template=mistake.yml). Adding a root yourself is one JSON file;
-[CONTRIBUTING.md](CONTRIBUTING.md) explains it step by step, and the tests tell you exactly what is
-missing.
+specroots grows through people who add words, and everyone who does appears on the
+[Contributors page](https://writerforight.github.io/specroots/#/contributors).
+
+- **Add words:** fork, write JSON files, open a pull request. [CONTRIBUTING.md](CONTRIBUTING.md) is the
+  short version. **Using an AI agent?** Point it at [AGENTS.md](AGENTS.md): the full rules with an
+  example for every kind of content, written so an agent can do the job without asking.
+- **Suggest or report:** an [English root](https://github.com/writerforight/specroots/issues/new?template=new-root.yml), a [German root](https://github.com/writerforight/specroots/issues/new?template=de-root.yml),
+  an [object list](https://github.com/writerforight/specroots/issues/new?template=list.yml), or [a mistake](https://github.com/writerforight/specroots/issues/new?template=mistake.yml).
 
 ## Run locally
 

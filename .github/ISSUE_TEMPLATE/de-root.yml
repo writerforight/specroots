@@ -1,0 +1,33 @@
+name: German root
+description: Suggest a German stem (steh, fahr, zieh…), or note one you are going to add
+title: "German root: "
+labels: ["de-root"]
+body:
+  - type: input
+    id: root
+    attributes:
+      label: Stem and its spellings
+      placeholder: "zieh / zog / zug / züg"
+    validations:
+      required: true
+  - type: input
+    id: meaning
+    attributes:
+      label: Infinitive and meaning
+      placeholder: "ziehen: to pull"
+    validations:
+      required: true
+  - type: textarea
+    id: words
+    attributes:
+      label: German words built on it
+      placeholder: |
+        anziehen, umziehen, Erziehung, Zug, Bezug, Beziehung
+    validations:
+      required: true
+  - type: checkboxes
+    id: help
+    attributes:
+      label: Can you help?
+      options:
+        - label: I will add it myself (see AGENTS.md)

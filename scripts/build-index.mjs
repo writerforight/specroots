@@ -71,3 +71,26 @@ const deRoots = readAll(join(deDir, 'roots')).sort((a, b) => a.forms[0].localeCo
 const deIndex = deRoots.map(({ id, forms, origin, meaning, words }) => ({ id, forms, origin, meaning, words: words.map((w) => w.id) }));
 writeFileSync(join(deDir, 'index.json'), JSON.stringify(deIndex, null, 2) + '\n');
 console.log(`de/index.json: ${deIndex.length} German roots, ${deIndex.reduce((n, r) => n + r.words.length, 0)} words`);
+
+// Contributors (SPEC decision 18): contributors.json names the people; every root, object and list
+// file says who added it in "addedBy". A word added later to someone else's root carries its own
+// "addedBy"; without one it counts for whoever added the root. One line per person, A–Z by id, so
+// two pull requests rarely touch the same line.
+const people = JSON.parse(readFileSync(join(dataDir, 'contributors.json'), 'utf8'));
+const tally = new Map(Object.entries(people).map(([id, { name }]) => [id, { id, name, words: { en: 0, de: 0 }, objects: 0, roots: [], lists: [] }]));
+const credit = (id, where) => {
+  const entry = tally.get(id);
+  if (!entry) throw new Error(`${where}: "addedBy" is ${JSON.stringify(id)}; it must be a GitHub user name listed in contributors.json`);
+  return entry;
+};
+for (const [lang, list, dir] of [['en', roots, 'roots'], ['de', deRoots, 'de/roots']]) {
+  for (const root of list) {
+    credit(root.addedBy, `${dir}/${root.id}.json`).roots.push({ id: root.id, label: root.forms[0], lang });
+    for (const word of root.words) credit(word.addedBy ?? root.addedBy, `${dir}/${root.id}.json, word ${word.id}`).words[lang]++;
+  }
+}
+for (const object of objects) credit(object.addedBy, `objects/${object.id}.json`).objects++;
+for (const list of lists) credit(list.addedBy, `lists/${list.id}.json`).lists.push({ id: list.id, title: list.title });
+const contributorLines = [...tally.values()].sort((a, b) => a.id.localeCompare(b.id)).map((c) => `  ${JSON.stringify(c)}`);
+writeFileSync(join(dataDir, 'contributors-index.json'), `[\n${contributorLines.join(',\n')}\n]\n`);
+console.log(`contributors-index.json: ${tally.size} contributors`);

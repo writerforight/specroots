@@ -1,3 +1,4 @@
+import type { Contributor } from '../domain/Contributor';
 import type { Affix, AffixIndex } from '../domain/Affix';
 import type { EverydayObject, ListSummary, ObjectSummary, WordList } from '../domain/EverydayObject';
 import type { Root, RootSummary } from '../domain/Root';
@@ -19,4 +20,6 @@ export interface LexiconRepository {
   /** Every word list (Kitchen, Bathroom…) with its size. */
   listLists(): Promise<ListSummary[]>;
   getList(id: string): Promise<WordList>;
+  /** Everyone who added words, with what they added. In no meaningful order. */
+  listContributors(): Promise<Contributor[]>;
 }

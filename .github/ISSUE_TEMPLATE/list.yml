@@ -1,0 +1,28 @@
+name: Object list
+description: Suggest a list of everyday objects or objects for an existing list, or note what you are going to add
+title: "List: "
+labels: ["list"]
+body:
+  - type: input
+    id: list
+    attributes:
+      label: List
+      description: An existing list (Kitchen, Bathroom, Classroom) or a new one.
+      placeholder: "Garden"
+    validations:
+      required: true
+  - type: textarea
+    id: objects
+    attributes:
+      label: Objects
+      description: In any language; one per line or separated by commas.
+      placeholder: |
+        rake, watering can, wheelbarrow, hose, lawn mower
+    validations:
+      required: true
+  - type: checkboxes
+    id: help
+    attributes:
+      label: Can you help?
+      options:
+        - label: I will add it myself (see AGENTS.md)

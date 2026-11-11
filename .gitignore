@@ -7,3 +7,12 @@ dist/
 coverage/
 e2e/.results/
 playwright-report/
+
+# Built from the data files by scripts/build-index.mjs (npm run data; dev, test and build run it).
+# Not in the repo, so two pull requests that add different roots never touch the same file.
+public/data/index.json
+public/data/affix-index.json
+public/data/objects-index.json
+public/data/lists-index.json
+public/data/contributors-index.json
+public/data/de/index.json

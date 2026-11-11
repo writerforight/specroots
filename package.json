@@ -6,10 +6,12 @@
     "node": ">=22.12"
   },
   "scripts": {
+    "predev": "node scripts/build-index.mjs",
     "dev": "vite",
     "build": "node scripts/build-index.mjs && vite build",
     "data": "node scripts/build-index.mjs",
     "typecheck": "tsc -p tsconfig.json",
+    "pretest": "node scripts/build-index.mjs",
     "test": "vitest run",
     "check": "npm run typecheck && npm run test"
   },

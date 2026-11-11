@@ -171,6 +171,11 @@ export class App {
       if (route.kind === 'home') {
         this.detail.showStart(this.context(), (section) => this.settings.update({ section, onboarded: true }));
         document.title = 'specroots';
+      } else if (route.kind === 'contributors') {
+        const contributors = await this.repository.listContributors();
+        if (token !== this.renderToken) return;
+        this.detail.showContributors(contributors, this.context());
+        document.title = `${this.i18n.t('contributors')} · specroots`;
       } else if (route.kind === 'roots' || route.kind === 'german') {
         await this.showIndex(route.kind);
         if (token !== this.renderToken) return;

@@ -1,0 +1,26 @@
+name: Affix
+description: Suggest a prefix or suffix (English or German), or a better explanation for one
+title: "Affix: "
+labels: ["affix"]
+body:
+  - type: input
+    id: affix
+    attributes:
+      label: Prefix or suffix, and its language
+      placeholder: "ver- (German)"
+    validations:
+      required: true
+  - type: textarea
+    id: meaning
+    attributes:
+      label: What it does, with example words
+      placeholder: |
+        Often "wrongly" or "away": verlaufen, verschreiben, verkaufen
+    validations:
+      required: true
+  - type: checkboxes
+    id: help
+    attributes:
+      label: Can you help?
+      options:
+        - label: I will add it myself (see AGENTS.md)

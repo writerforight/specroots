@@ -6,13 +6,14 @@ export type Route =
   | { kind: 'lists' }
   | { kind: 'list'; listId: string; objectId: string | null }
   | { kind: 'object'; objectId: string }
+  | { kind: 'contributors' }
   | { kind: 'german' }
   | { kind: 'deRoot'; rootId: string; wordId: string | null };
 
 /**
  * Hash routes: #/ (start screen: roots or objects), #/roots , #/root/spec , #/root/spec/inspection , #/affix/re- (roots section);
  * #/lists , #/list/kitchen , #/list/kitchen/colander , #/object/colander (lists section);
- * #/de , #/de/steh , #/de/steh/verstehen (German roots section).
+ * #/de , #/de/steh , #/de/steh/verstehen (German roots section); #/contributors (who added the words).
  */
 export function parseRoute(hash: string): Route {
   const [, kind, id, sub] = hash.replace(/^#/, '').split('/');
@@ -23,13 +24,14 @@ export function parseRoute(hash: string): Route {
   if (kind === 'lists') return { kind: 'lists' };
   if (kind === 'list' && id) return { kind: 'list', listId: decodeURIComponent(id), objectId: dec(sub) };
   if (kind === 'object' && id) return { kind: 'object', objectId: decodeURIComponent(id) };
+  if (kind === 'contributors') return { kind: 'contributors' };
   if (kind === 'de') return id ? { kind: 'deRoot', rootId: decodeURIComponent(id), wordId: dec(sub) } : { kind: 'german' };
   return { kind: 'home' };
 }
 
 /** Which half of the app a route belongs to; null for the neutral home address. */
 export function sectionOf(route: Route): 'roots' | 'lists' | 'german' | null {
-  if (route.kind === 'home') return null;
+  if (route.kind === 'home' || route.kind === 'contributors') return null;
   if (route.kind === 'german' || route.kind === 'deRoot') return 'german';
   return route.kind === 'roots' || route.kind === 'root' || route.kind === 'affix' ? 'roots' : 'lists';
 }
@@ -57,3 +59,5 @@ export function listHref(listId: string, objectId: string | null = null): string
 export function objectHref(objectId: string): string {
   return `#/object/${encodeURIComponent(objectId)}`;
 }
+
+export const CONTRIBUTORS_HREF = '#/contributors';

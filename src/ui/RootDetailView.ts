@@ -3,12 +3,14 @@ import type { EverydayObject, ListSummary, ObjectSummary, WordList } from '../do
 import type { Root } from '../domain/Root';
 import { AffixFamilyView, type AffixGroup } from './AffixFamilyView';
 import type { DerivationViewKind, IndexLayout, Section } from '../services/SettingsStore';
+import type { Contributor } from '../domain/Contributor';
+import { ContributorsView } from './ContributorsView';
 import { clear, h } from './dom';
 import { DERIVATION_VIEWS } from './derivations';
 import { INDEX_LAYOUTS, type IndexItem } from './IndexView';
 import { ListPageView } from './ListPageView';
 import { ObjectCardView } from './ObjectCardView';
-import { SECTION_HOME } from './routes';
+import { CONTRIBUTORS_HREF, SECTION_HOME } from './routes';
 import type { ViewContext } from './ViewContext';
 
 /** The right-hand pane: one root with its word family, one affix with the words built with it, or one object. */
@@ -50,6 +52,7 @@ export class RootDetailView {
               choice(t('explore_objects'), t('explore_objects_hint'), null, () => go('lists')),
             ),
         step === 'english' ? h('button', { class: 'start-back', type: 'button', onclick: () => this.showStart(ctx, onPick) }, `← ${t('stepBack')}`) : null,
+        h('a', { class: 'start-contributors', href: CONTRIBUTORS_HREF }, t('contributors')),
       ),
     );
   }
@@ -106,6 +109,13 @@ export class RootDetailView {
   showObject(object: EverydayObject, lists: readonly ListSummary[], backHref: string, ctx: ViewContext): void {
     clear(this.el);
     this.el.append(h('a', { class: 'back-link', href: backHref }, `← ${ctx.i18n.t('back')}`), ...new ObjectCardView(ctx).render(object, lists));
+    window.scrollTo?.({ top: 0 });
+  }
+
+  /** Who added the words: names first, numbers only on request. */
+  showContributors(contributors: readonly Contributor[], ctx: ViewContext): void {
+    clear(this.el);
+    this.el.append(h('a', { class: 'back-link', href: '#/' }, `← ${ctx.i18n.t('back')}`), new ContributorsView(ctx, contributors).el);
     window.scrollTo?.({ top: 0 });
   }
 

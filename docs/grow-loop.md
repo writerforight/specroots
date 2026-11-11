@@ -29,6 +29,8 @@ yanına `(az: N)` yaz. Toplam hedef ≈ 1000–2000 kelime.
      ya da düzenli çekimi olsun. 5 dile doğal çeviri. Cümleler senin; sözlüklerden kopyalama.
      Fourier örneği kullanma.
 3. `npm run data` sonra `npm run check`. Kırmızıysa veriyi düzelt; **testleri gevşetme, silme.**
+   Yeni dosyalara `id`'den sonra `"addedBy": "writerforight"` yaz (SPEC karar 18); indeks dosyaları artık
+   repoda değil, commit'e eklenmez.
    Kod hatası bulursan ayrı commit'te düzelt ve nedenini commit mesajına yaz.
 4. Kendini denetle: rastgele 5 kelimenin etimolojisi, 5 çeviri ve 3 cümleyi yeniden oku; şüpheli
    olanı düzelt ya da çıkar.

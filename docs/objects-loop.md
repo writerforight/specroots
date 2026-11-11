@@ -33,6 +33,8 @@ bu dosyanın tamamını oku ve **tek bir tur** yap. Repo: `~/Desktop/projects/sp
    fotoğraf nesneyi gerçekten göstermeli (tablo, logo, harita, aynı adlı başka şey olmasın). Uygun yoksa `null`.
 5. Nesneyi `lists/<liste>.json`'un `objects` dizisine ekle.
 6. `npm run data` (uyarıları düzelt) sonra `npm run check`. Testleri gevşetme, silme.
+   Yeni dosyalara `id`'den sonra `"addedBy": "writerforight"` yaz (SPEC karar 18); indeks dosyaları artık
+   repoda değil, commit'e eklenmez.
 7. Kendini denetle: rastgele 3 nesnenin çevirisini ve 3 cümleyi yeniden oku; şüpheliyi düzelt ya da çıkar.
 8. Commit (Co-Authored-By satırı **ekleme**), push: `objects: <liste> +N (list M/hedef, total K objects)`.
 

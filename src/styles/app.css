@@ -321,9 +321,37 @@ mark { background: var(--mark); color: inherit; padding: 0 2px; border-radius: 3
 .start-choice:hover, .start-choice:focus-visible { border-color: var(--accent); background: var(--accent); color: var(--on-accent); transform: translateY(-3px); }
 .start-choice:hover .start-hint, .start-choice:focus-visible .start-hint { color: inherit; opacity: 0.8; }
 .start-back { border: 0; background: none; color: var(--text-muted); cursor: pointer; }
-body[data-view='start'] .root-list, body[data-view='start'] .search { display: none; }
-body[data-view='start'] .layout, body[data-view='index'] .layout { grid-template-columns: minmax(0, 1fr); }
-body[data-view='start'] .root-detail, body[data-view='index'] .root-detail { display: block; max-width: 1180px; margin: 0 auto; }
+body[data-view='start'] .root-list, body[data-view='start'] .search, body[data-view='contributors'] .root-list, body[data-view='contributors'] .search { display: none; }
+body[data-view='start'] .layout, body[data-view='index'] .layout, body[data-view='contributors'] .layout { grid-template-columns: minmax(0, 1fr); }
+body[data-view='start'] .root-detail, body[data-view='index'] .root-detail, body[data-view='contributors'] .root-detail { display: block; max-width: 1180px; margin: 0 auto; }
+.start-contributors { margin-top: 12px; font-size: 0.85rem; color: var(--text-muted); }
+
+/* Contributors: names as drifting bubbles of one size (no order, no ranking); numbers behind "Details". */
+.contributors { display: grid; gap: 20px; }
+.contributors-head { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: var(--gap); }
+.contributors-intro { margin: 0; color: var(--text-muted); }
+.bubbles { display: flex; flex-wrap: wrap; justify-content: center; gap: 28px; margin: 0; padding: 32px 0; list-style: none; }
+.bubble {
+  display: grid; place-items: center; width: 132px; height: 132px; padding: 14px; border: 2px solid var(--border); border-radius: 50%;
+  background: var(--surface); box-shadow: var(--shadow); color: var(--text); font-family: var(--font-text); font-size: 1rem; line-height: 1.2;
+  text-align: center; overflow-wrap: anywhere; cursor: pointer;
+  animation: bubble-drift var(--drift, 7s) ease-in-out var(--delay, 0s) infinite alternate;
+}
+.bubble:hover, .bubble:focus-visible { border-color: var(--accent); background: var(--accent-soft); }
+@keyframes bubble-drift { from { transform: translate(0, 0); } to { transform: translate(var(--dx, 6px), var(--dy, -10px)); } }
+@media (prefers-reduced-motion: reduce) { .bubble { animation: none; } }
+.contributor-cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: var(--gap); align-items: start; }
+.contributor-card { display: grid; gap: 12px; padding: 18px; border: 1px solid var(--border); border-radius: var(--radius); background: var(--surface); box-shadow: var(--shadow); }
+.contributor-card h2 { margin: 0; font-family: var(--font-text); font-size: 1.25rem; }
+.contributor-card h2 a { color: inherit; text-decoration: none; }
+.contributor-card h2 a:hover { text-decoration: underline; }
+.stats { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 8px; margin: 0; }
+.stat { display: grid; gap: 2px; }
+.stat dt { font-size: 0.7rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--text-muted); }
+.stat dd { margin: 0; font-size: 1.3rem; font-variant-numeric: tabular-nums; }
+.added summary { cursor: pointer; color: var(--text-muted); font-size: 0.9rem; }
+.added-links { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
+.contribute-link { justify-self: start; color: var(--accent); }
 body[data-view='index'] .root-list { display: none; }
 
 /* A section's start page: header with the tabs and the layout switch, then tiles or a dictionary page. */

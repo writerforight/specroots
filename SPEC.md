@@ -99,6 +99,22 @@ seçilen dillerdeki karşılığı ve öğretici örnek cümleleri bir arada gö
     Kök sayfasında yan liste aynı kalır. Siyah-beyaz tema temel görünüm olarak korunur. Önerilen ama
     henüz seçilmeyen modlar: takımyıldız (animasyonlu ağ), kelime kurucu (önek+kök+sonek çarkları),
     kart destesi (çalışma modu).
+18. **Ortak geliştirme ve katkıda bulunanlar (2026-11-11, kullanıcı isteği):** sözlüğü başkaları da
+    (kendi AI ajanlarıyla) büyütebilir: fork → pull request → `npm run check` → yalnızca repo sahibi
+    birleştirir. Kuralların tek kaynağı `AGENTS.md` (İngilizce) ve tam Türkçesi `AGENTS.tr.md`; bir ajan
+    yalnızca onu okuyarak kök, Almanca kök, ek, nesne ve liste ekleyebilmeli. Kullanıcının seçimleri:
+    issue isteğe bağlı (etiketler `en-root`, `de-root`, `list`, `affix`); yeni içerik getiren PR **en az
+    5 kök, 100 kelime civarı** (nesnelerde en az 30: benim kararım), düzeltmelerde alt sınır yok; PR'da
+    tek zorunlu kutu "içerik reponun lisansıyla yayımlanır". Emek: `contributors.json` (GitHub adı →
+    görünen ad, kişi kendi seçer) ve her kök/nesne/liste dosyasında `addedBy`; başkasının köküne eklenen
+    kelime kendi `addedBy`'ını taşır; düzeltme `addedBy`'ı değiştirmez; mevcut içeriğin tamamı
+    `writerforight`. Sayfa `#/contributors` (başlangıç ekranından bağlantı): varsayılan görünüm eşit
+    boyda, her açılışta karışan, yavaşça süzülen ad baloncukları (sıra ve hiyerarşi yok;
+    `prefers-reduced-motion`'da durağan); "Detay" kişi başına toplam kelime, İngilizce/Almanca/nesne
+    dağılımı ve eklediği kökler/listeler (A–Z ada göre). Üretilen indeks dosyaları repodan çıktı
+    (`.gitignore`; `predev`/`pretest`/`build` üretir) ki ayrı kökler ekleyen iki PR çakışmasın; PR
+    denetimi canlı yayını iptal etmez. Ertelenenler: Almanca ek sayfaları, uzun ek açıklamaları,
+    eklerde `addedBy`, kelime listesini gizleme (özel veri reposu + lisans).
 
 ## Mimari
 ```
@@ -124,7 +140,11 @@ src/styles/    tokens.css (renkler, yazı tipleri, ölçüler) + app.css (yalnı
 - `public/data/roots/<kök>.json`: bir kök ve tüm kelimeleri. Kelimenin `parts` dizisi ek kimliklerinden
   ve kökün yazımlarından (`forms`) oluşur; birleşince kelimeyi tam olarak hecelemelidir.
   Örnek cümlede hedef kelime `[köşeli parantez]` içinde yazılır (tam bir tane).
-- `public/data/index.json`: alfabetik liste ve arama için özet; `npm run data` üretir, elle düzenlenmez.
+- `public/data/index.json`: alfabetik liste ve arama için özet; `npm run data` üretir, elle düzenlenmez,
+  repoda tutulmaz (karar 18; bütün `*-index.json` dosyaları ve `de/index.json` için geçerli).
+- `public/data/contributors.json`: `{ "<GitHub adı>": { "name": "<görünen ad>" } }`. Her kök, nesne ve
+  liste dosyasında `id`'den sonra `addedBy` (GitHub adı); kelimede isteğe bağlı `addedBy` (kökü başkası
+  oluşturduysa). `contributors-index.json`'u `npm run data` üretir.
 - `public/data/objects/<id>.json`: bir gündelik nesne. `id` = İngilizce ad, boşluk yerine tire
   (`paper-clip`); `name` İngilizce ad; `names` beş çeviri dilinde (isimler artikelle: `die Kreide`,
   `la craie`); `definition` 6 dilde kısa tanım; `breakdown` isteğe bağlı `{ "en": [...], "de": [...] }`,

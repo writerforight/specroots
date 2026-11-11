@@ -1,4 +1,5 @@
 import { Affix, type AffixIndex, type AffixKind, type AffixOccurrence } from '../domain/Affix';
+import { Contributor } from '../domain/Contributor';
 import { BREAKDOWN_LANGS, EverydayObject, stripArticle, type CommonsImage, type ListSummary, type NamePart, type ObjectSummary, type WordList } from '../domain/EverydayObject';
 import { isLang, TRANSLATION_LANGUAGES, type Localized, type SourceLang, type TranslationLang } from '../domain/Language';
 import { Morpheme } from '../domain/Morpheme';
@@ -15,6 +16,7 @@ export class LexiconError extends Error {
 
 const ORIGINS: readonly Origin[] = ['la', 'gr', 'de'];
 const PARTS_OF_SPEECH: readonly PartOfSpeech[] = ['verb', 'noun', 'adjective', 'adverb', 'preposition'];
+const SOURCE_LANGS: readonly SourceLang[] = ['en', 'de'];
 const AFFIX_KINDS: readonly AffixKind[] = ['prefix', 'suffix'];
 
 type Json = Record<string, unknown>;
@@ -100,6 +102,34 @@ export class LexiconParser {
         meaning: this.localized(obj.meaning, `${where} › meaning`),
         words: this.strings(obj.words, `${where} › words`),
       };
+    });
+  }
+
+  parseContributors(raw: unknown): Contributor[] {
+    return this.array(raw, 'contributors-index.json').map((value, i) => {
+      const where = `contributors-index.json[${i}]`;
+      const obj = this.object(value, where);
+      const words = this.object(obj.words, `${where} › words`);
+      const count = (v: unknown, what: string): number => {
+        if (typeof v !== 'number' || !Number.isInteger(v) || v < 0) throw new LexiconError(where, `"${what}" must be a count`);
+        return v;
+      };
+      const roots = this.array(obj.roots, `${where} › roots`).map((r, j) => {
+        const root = this.object(r, `${where} › roots[${j}]`);
+        return { id: this.string(root.id, `${where} › roots[${j}] › id`), label: this.string(root.label, `${where} › roots[${j}] › label`), lang: this.oneOf(root.lang, SOURCE_LANGS, `${where} › roots[${j}] › lang`) };
+      });
+      const lists = this.array(obj.lists, `${where} › lists`).map((l, j) => {
+        const list = this.object(l, `${where} › lists[${j}]`);
+        return { id: this.string(list.id, `${where} › lists[${j}] › id`), title: this.localized(list.title, `${where} › lists[${j}] › title`) };
+      });
+      return new Contributor(
+        this.string(obj.id, `${where} › id`),
+        this.string(obj.name, `${where} › name`),
+        { en: count(words.en, 'words.en'), de: count(words.de, 'words.de') },
+        count(obj.objects, 'objects'),
+        roots,
+        lists,
+      );
     });
   }
 

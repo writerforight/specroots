@@ -1,7 +1,7 @@
-name: New root
-description: Suggest a Latin or Greek root to add
+name: English root
+description: Suggest a Latin or Greek root, or note one you are going to add
 title: "Root: "
-labels: ["new root"]
+labels: ["en-root"]
 body:
   - type: input
     id: root
@@ -31,7 +31,7 @@ body:
     attributes:
       label: Can you help?
       options:
-        - label: I can write the JSON file myself (see CONTRIBUTING.md)
+        - label: I will add it myself (see AGENTS.md)
         - label: I can check translations in one of the languages (say which below)
   - type: textarea
     id: notes

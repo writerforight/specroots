@@ -40,9 +40,15 @@ Sıradaki adım ([SPEC.md](SPEC.md)): internetsiz kullanım.
 
 ## Katkı
 
-Eksik bir kök ya da yanlış bir çeviri mi var? [Kök öner](https://github.com/writerforight/specroots/issues/new?template=new-root.yml) ya
-da [hata bildir](https://github.com/writerforight/specroots/issues/new?template=mistake.yml). Kendin kök eklemek tek bir JSON dosyası;
-adımlar [CONTRIBUTING.md](CONTRIBUTING.md) içinde (İngilizce).
+specroots kelime ekleyen insanlarla büyür; ekleyen herkes
+[Katkıda bulunanlar sayfasında](https://writerforight.github.io/specroots/#/contributors) görünür.
+
+- **Kelime ekle:** forkla, JSON dosyalarını yaz, pull request aç. Kısa anlatım
+  [CONTRIBUTING.tr.md](CONTRIBUTING.tr.md) içinde. **AI ajanı mı kullanıyorsun?** Ona
+  [AGENTS.md](AGENTS.md)'yi göster (Türkçesi [AGENTS.tr.md](AGENTS.tr.md)): her içerik türü için
+  örnekli kuralların tamamı, ajan işi soru sormadan yapabilsin diye yazıldı.
+- **Öner ya da bildir:** [İngilizce kök](https://github.com/writerforight/specroots/issues/new?template=new-root.yml), [Almanca kök](https://github.com/writerforight/specroots/issues/new?template=de-root.yml),
+  [nesne listesi](https://github.com/writerforight/specroots/issues/new?template=list.yml) ya da [hata](https://github.com/writerforight/specroots/issues/new?template=mistake.yml).
 
 ## Yerelde çalıştırma
 

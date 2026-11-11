@@ -1,3 +1,4 @@
+import type { Contributor } from '../domain/Contributor';
 import type { Affix, AffixIndex } from '../domain/Affix';
 import type { EverydayObject, ListSummary, ObjectSummary, WordList } from '../domain/EverydayObject';
 import type { SourceLang } from '../domain/Language';
@@ -22,6 +23,7 @@ export class JsonLexiconRepository implements LexiconRepository {
   private readonly lists = new Map<string, Promise<WordList>>();
   private objectIndex: Promise<ObjectSummary[]> | null = null;
   private readonly objects = new Map<string, Promise<EverydayObject>>();
+  private contributors: Promise<Contributor[]> | null = null;
 
   /**
    * dir: the folder of this lexicon, "data/" for English roots, "data/de/" for German ones (same file
@@ -112,5 +114,11 @@ export class JsonLexiconRepository implements LexiconRepository {
       this.lists.set(id, list);
     }
     return list;
+  }
+
+  listContributors(): Promise<Contributor[]> {
+    this.contributors ??= this.fetchJson('data/contributors-index.json').then((raw) => this.parser.parseContributors(raw));
+    this.contributors.catch(() => (this.contributors = null));
+    return this.contributors;
   }
 }
