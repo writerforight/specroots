@@ -335,11 +335,13 @@ body[data-view='start'] .root-detail, body[data-view='index'] .root-detail, body
   display: grid; place-items: center; width: 132px; height: 132px; padding: 14px; border: 2px solid var(--border); border-radius: 50%;
   background: var(--surface); box-shadow: var(--shadow); color: var(--text); font-family: var(--font-text); font-size: 1rem; line-height: 1.2;
   text-align: center; overflow-wrap: anywhere; cursor: pointer;
-  animation: bubble-drift var(--drift, 7s) ease-in-out var(--delay, 0s) infinite alternate;
 }
 .bubble:hover, .bubble:focus-visible { border-color: var(--accent); background: var(--accent-soft); }
-@keyframes bubble-drift { from { transform: translate(0, 0); } to { transform: translate(var(--dx, 6px), var(--dy, -10px)); } }
-@media (prefers-reduced-motion: reduce) { .bubble { animation: none; } }
+/* The playground: bubbles are moved by BubblePhysics, can be grabbed and thrown. */
+.bubble-field { position: relative; height: 360px; margin: 0; padding: 0; list-style: none; }
+.bubble-field .bubble { position: absolute; top: 0; left: 0; cursor: grab; touch-action: none; user-select: none; -webkit-user-select: none; will-change: transform; transition: border-color 0.2s, background 0.2s, box-shadow 0.2s; }
+.bubble-field .bubble.held { cursor: grabbing; border-color: var(--accent); background: var(--accent-soft); box-shadow: 0 10px 30px rgb(0 0 0 / 0.14); z-index: 1; }
+@media (max-width: 520px) { .bubble { width: 104px; height: 104px; font-size: 0.9rem; padding: 10px; } }
 .contributor-cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: var(--gap); align-items: start; }
 .contributor-card { display: grid; gap: 12px; padding: 18px; border: 1px solid var(--border); border-radius: var(--radius); background: var(--surface); box-shadow: var(--shadow); }
 .contributor-card h2 { margin: 0; font-family: var(--font-text); font-size: 1.25rem; }

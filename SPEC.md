@@ -109,8 +109,10 @@ seçilen dillerdeki karşılığı ve öğretici örnek cümleleri bir arada gö
     görünen ad, kişi kendi seçer) ve her kök/nesne/liste dosyasında `addedBy`; başkasının köküne eklenen
     kelime kendi `addedBy`'ını taşır; düzeltme `addedBy`'ı değiştirmez; mevcut içeriğin tamamı
     `writerforight`. Sayfa `#/contributors` (başlangıç ekranından bağlantı): varsayılan görünüm eşit
-    boyda, her açılışta karışan, yavaşça süzülen ad baloncukları (sıra ve hiyerarşi yok;
-    `prefers-reduced-motion`'da durağan); "Detay" kişi başına toplam kelime, İngilizce/Almanca/nesne
+    boyda, her açılışta rastgele yerleşen ad baloncukları (sıra ve hiyerarşi yok): kendi kendine yavaşça
+    süzülür, birbirine ve kenarlara yumuşakça çarpar, fare ya da parmakla tutulup fırlatılabilir
+    (`BubblePhysics`, DOM'suz ve testli); sürüklemeden dokunmak Detay'ı açar; `prefers-reduced-motion`'da
+    durağan sıra; "Detay" kişi başına toplam kelime, İngilizce/Almanca/nesne
     dağılımı ve eklediği kökler/listeler (A–Z ada göre). Üretilen indeks dosyaları repodan çıktı
     (`.gitignore`; `predev`/`pretest`/`build` üretir) ki ayrı kökler ekleyen iki PR çakışmasın; PR
     denetimi canlı yayını iptal etmez. Ertelenenler: Almanca ek sayfaları, uzun ek açıklamaları,

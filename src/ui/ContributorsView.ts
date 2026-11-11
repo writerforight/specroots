@@ -1,4 +1,5 @@
 import type { Contributor } from '../domain/Contributor';
+import { BubblePhysics, type Body } from './BubblePhysics';
 import { h } from './dom';
 import { deRootHref, listHref, rootHref } from './routes';
 import type { ViewContext } from './ViewContext';
@@ -6,8 +7,8 @@ import type { ViewContext } from './ViewContext';
 const CONTRIBUTING_URL = 'https://github.com/writerforight/specroots/blob/main/CONTRIBUTING.md';
 
 /**
- * Who added the words. The first look shows only names, as bubbles of one size in a random order
- * that drift a little: nobody is first. "Details" switches to the numbers: words per person, split
+ * Who added the words. The first look shows only names, as bubbles of one size at random places that
+ * drift and can be thrown around: nobody is first. "Details" switches to the numbers: words per person, split
  * by section, and the roots and lists each one added.
  */
 export class ContributorsView {
@@ -45,34 +46,90 @@ export class ContributorsView {
     this.render();
   }
 
-  /** Same size, shuffled on every visit; each bubble drifts on its own slow, small path. */
+  /**
+   * Same size, placed at random on every visit, so nobody is first. The bubbles drift, bounce softly
+   * off each other and can be grabbed and thrown; a tap without dragging opens the details.
+   * With "reduce motion" they stand still in a shuffled row instead.
+   */
   private bubbles(): HTMLElement {
     const order = [...this.contributors];
     for (let i = order.length - 1; i > 0; i--) {
       const j = Math.floor(this.random() * (i + 1));
       [order[i], order[j]] = [order[j] as Contributor, order[i] as Contributor];
     }
-    const between = (min: number, max: number) => (min + this.random() * (max - min)).toFixed(1);
-    return h(
-      'ul',
-      { class: 'bubbles' },
-      ...order.map((c) =>
-        h(
-          'li',
-          {},
-          h(
-            'button',
-            {
-              class: 'bubble',
-              type: 'button',
-              style: `--dx:${between(-10, 10)}px;--dy:${between(-14, 14)}px;--drift:${between(5, 9)}s;--delay:-${between(0, 9)}s`,
-              onclick: () => this.show(true),
-            },
-            c.name,
-          ),
-        ),
-      ),
-    );
+    const still = typeof requestAnimationFrame !== 'function' || window.matchMedia?.('(prefers-reduced-motion: reduce)').matches === true;
+    if (still) {
+      return h('ul', { class: 'bubbles' }, ...order.map((c) => h('li', {}, h('button', { class: 'bubble', type: 'button', onclick: () => this.show(true) }, c.name))));
+    }
+
+    const field = h('ul', { class: 'bubble-field' });
+    const physics = new BubblePhysics(0, 0, this.random);
+    let placed = false;
+    const items: { el: HTMLElement; body: Body | null }[] = order.map((c) => {
+      const item: { el: HTMLElement; body: Body | null } = { el: h('button', { class: 'bubble', type: 'button' }, c.name), body: null };
+      let moved = false;
+      let grip = { dx: 0, dy: 0, at: 0, startX: 0, startY: 0 };
+      const local = (e: PointerEvent) => {
+        const box = field.getBoundingClientRect();
+        return { x: e.clientX - box.left, y: e.clientY - box.top };
+      };
+      item.el.addEventListener('pointerdown', (e) => {
+        if (!item.body) return;
+        const at = local(e);
+        grip = { dx: item.body.x - at.x, dy: item.body.y - at.y, at: e.timeStamp, startX: e.clientX, startY: e.clientY };
+        moved = false;
+        physics.grab(item.body);
+        item.el.setPointerCapture?.(e.pointerId);
+        item.el.classList.add('held');
+      });
+      item.el.addEventListener('pointermove', (e) => {
+        if (!item.body?.held) return;
+        if (Math.hypot(e.clientX - grip.startX, e.clientY - grip.startY) > 6) moved = true;
+        const at = local(e);
+        physics.moveTo(item.body, at.x + grip.dx, at.y + grip.dy, (e.timeStamp - grip.at) / 1000);
+        grip.at = e.timeStamp;
+      });
+      const drop = () => {
+        if (!item.body?.held) return;
+        physics.release(item.body);
+        item.el.classList.remove('held');
+      };
+      item.el.addEventListener('pointerup', drop);
+      item.el.addEventListener('pointercancel', drop);
+      // A drag ends in a click too; only a real tap (or the keyboard) opens the details.
+      item.el.addEventListener('click', () => {
+        if (!moved) this.show(true);
+        moved = false;
+      });
+      field.append(h('li', {}, item.el));
+      return item;
+    });
+
+    let last = 0;
+    let seen = false;
+    const frame = (now: number) => {
+      if (!field.isConnected) {
+        if (!seen) requestAnimationFrame(frame); // not on the page yet
+        return; // left the page: stop
+      }
+      seen = true;
+      const width = field.clientWidth;
+      const radius = (items[0]?.el.offsetWidth ?? 132) / 2;
+      // Room for everyone: about a third of the field is bubbles, however many people there are.
+      const height = Math.max(360, Math.ceil((items.length * Math.PI * radius * radius * 3) / Math.max(width, 1)));
+      field.style.height = `${height}px`;
+      physics.resize(width, height);
+      if (!placed) {
+        for (const item of items) item.body = physics.add(radius);
+        placed = true;
+      }
+      physics.step(last ? (now - last) / 1000 : 0);
+      last = now;
+      for (const { el, body } of items) if (body) el.style.transform = `translate(${(body.x - body.r).toFixed(1)}px, ${(body.y - body.r).toFixed(1)}px)`;
+      requestAnimationFrame(frame);
+    };
+    requestAnimationFrame(frame);
+    return field;
   }
 
   /** A–Z by name, so the order still says nothing about who added more. */
