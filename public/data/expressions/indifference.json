@@ -1,0 +1,526 @@
+{
+  "id": "indifference",
+  "addedBy": "writerforight",
+  "title": {
+    "en": "Indifference, detachment and lack of interest",
+    "tr": "Kayıtsızlık, mesafe ve ilgisizlik",
+    "de": "Gleichgültigkeit, Distanz und Desinteresse",
+    "fr": "Indifférence, distance et désintérêt",
+    "it": "Indifferenza, distacco e disinteresse",
+    "es": "Indiferencia, distancia y desinterés"
+  },
+  "expressions": [
+    {
+      "id": "not-care-about",
+      "expr": "not care (about)",
+      "meaning": {
+        "en": "not to consider something important",
+        "tr": "umursamamak, önemsememek",
+        "de": "etwas nicht wichtig finden"
+      },
+      "equivalent": {
+        "tr": "umursamamak, umurunda olmamak, takmamak",
+        "de": "jemandem ist etwas egal"
+      },
+      "intensity": {
+        "en": "moderate",
+        "tr": "orta",
+        "de": "mittel"
+      },
+      "level": 2,
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "I don't care (about sth) · I don't care + question word (what/where/if) · \"Who cares?\" · \"See if I care.\" (defiant)",
+        "tr": "I don't care (about sth) · I don't care + soru kelimesi (what/where/if) · \"Who cares?\" · \"See if I care.\" (meydan okuma)"
+      },
+      "note": {
+        "en": "\"I don't care\" can sound rude or cold when you are asked for a preference. The polite form is \"I don't mind.\"",
+        "tr": "\"I don't care\" tercih sorulduğunda kaba/soğuk durabilir. Kibar hâli: \"I don't mind.\""
+      },
+      "sentences": [
+        {
+          "en": "I don't [care] what people think.",
+          "tr": "İnsanların ne düşündüğü umurumda değil.",
+          "de": "Mir ist egal, was die Leute denken."
+        },
+        {
+          "en": "Honestly, I don't really [care] where we eat.",
+          "tr": "Açıkçası nerede yediğimiz benim için pek fark etmez.",
+          "de": "Ehrlich gesagt ist es mir ziemlich egal, wo wir essen."
+        }
+      ]
+    },
+    {
+      "id": "not-mind",
+      "expr": "not mind",
+      "meaning": {
+        "en": "something is not a problem for you; either option is fine",
+        "tr": "bir şeyin kendisi için sorun olmaması; fark etmemesi",
+        "de": "etwas ist kein Problem für einen; beides ist in Ordnung"
+      },
+      "equivalent": {
+        "tr": "fark etmez, sorun değil, benim için sakıncası yok",
+        "de": "nichts dagegen haben, jemandem ist es gleich"
+      },
+      "intensity": {
+        "en": "mild",
+        "tr": "hafif",
+        "de": "mild"
+      },
+      "level": 1,
+      "register": {
+        "en": "neutral",
+        "tr": "nötr",
+        "de": "neutral"
+      },
+      "variety": {
+        "en": "AmE + BrE (BrE also: \"I'm not bothered\", \"I'm easy\")",
+        "tr": "AmE + BrE (BrE'de ayrıca: \"I'm not bothered\", \"I'm easy\")"
+      },
+      "usage": {
+        "en": "I don't mind (+ V-ing / if …) · \"Do you mind if I…?\" → asking permission; the answer \"No, go ahead\" = of course, please do.",
+        "tr": "I don't mind (+ V-ing / if …) · \"Do you mind if I…?\" → izin isteme; cevap \"No, go ahead\" = tabii, buyur."
+      },
+      "sentences": [
+        {
+          "en": "\"Pizza or sushi?\" \"I [don't mind] — you pick.\"",
+          "tr": "\"Pizza mı suşi mi?\" \"Fark etmez, sen seç.\"",
+          "de": "„Pizza oder Sushi?“ „Mir ist beides recht – such du aus.“"
+        },
+        {
+          "en": "I [don't mind] waiting.",
+          "tr": "Beklemek benim için sorun değil.",
+          "de": "Es macht mir nichts aus zu warten."
+        }
+      ]
+    },
+    {
+      "id": "couldnt-care-less",
+      "expr": "couldn't care less",
+      "meaning": {
+        "en": "not to care at all",
+        "tr": "hiç ama hiç umursamamak",
+        "de": "sich überhaupt nicht für etwas interessieren"
+      },
+      "equivalent": {
+        "tr": "zerre umurunda olmamak, vız gelmek",
+        "de": "jemandem ist etwas völlig egal, etwas ist jemandem schnuppe"
+      },
+      "intensity": {
+        "en": "strong",
+        "tr": "güçlü",
+        "de": "stark"
+      },
+      "level": 3,
+      "literal": {
+        "en": "it is impossible to care less (it's already zero)",
+        "tr": "daha az umursamam mümkün değil (zaten sıfır)"
+      },
+      "register": {
+        "en": "informal (harsh)",
+        "tr": "gündelik (sert)"
+      },
+      "variety": {
+        "en": "AmE + BrE. AmE also has the illogical but common \"I could care less\" (same meaning).",
+        "tr": "AmE + BrE. AmE'de mantıksız ama yaygın biçim: \"I could care less\" (aynı anlam)."
+      },
+      "usage": {
+        "en": "couldn't care less (about sth / what …)",
+        "tr": "couldn't care less (about sth / what …)"
+      },
+      "sentences": [
+        {
+          "en": "I [couldn't care less] what he thinks of me.",
+          "tr": "Hakkımda ne düşündüğü zerre umurumda değil.",
+          "de": "Es ist mir völlig egal, was er von mir hält."
+        },
+        {
+          "en": "She [couldn't care less] about football.",
+          "tr": "Futbol hiç ama hiç umurunda değil.",
+          "de": "Fußball ist ihr völlig schnuppe."
+        }
+      ]
+    },
+    {
+      "id": "not-give-a-damn-a-shit",
+      "expr": "not give a damn / a shit",
+      "meaning": {
+        "en": "not to care at all (harsh, defiant)",
+        "tr": "hiç umursamamak (sert, meydan okuyan)",
+        "de": "sich überhaupt nicht kümmern (hart, trotzig)"
+      },
+      "equivalent": {
+        "tr": "zerre takmamak, sallamamak, …ine takmamak",
+        "de": "jemandem ist etwas scheißegal, auf etwas pfeifen"
+      },
+      "intensity": {
+        "en": "strong",
+        "tr": "güçlü",
+        "de": "stark"
+      },
+      "level": 3,
+      "register": {
+        "en": "damn: informal-harsh · shit: vulgar",
+        "tr": "damn: gündelik-sert · shit: kaba"
+      },
+      "variety": {
+        "en": "AmE + BrE (BrE also: not give a toss)",
+        "tr": "AmE + BrE (BrE ayrıca: not give a toss)"
+      },
+      "usage": {
+        "en": "not give a damn/shit (about sth/sb). The positive can be praise: \"He actually gives a damn.\" = he really cares.",
+        "tr": "not give a damn/shit (about sth/sb). Olumlusu övgü olabilir: \"He actually gives a damn.\" = gerçekten önemsiyor."
+      },
+      "sentences": [
+        {
+          "en": "I don't [give a damn] about his opinion.",
+          "tr": "Onun fikri zerre umurumda değil.",
+          "de": "Seine Meinung ist mir schnurzegal."
+        },
+        {
+          "en": "He doesn't [give a shit] about anyone but himself.",
+          "tr": "Kendisinden başka kimseyi sallamıyor.",
+          "de": "Außer ihm selbst ist ihm jeder scheißegal."
+        }
+      ]
+    },
+    {
+      "id": "whatever-meh",
+      "expr": "Whatever. / Meh.",
+      "meaning": {
+        "en": "Whatever: to cut off an argument dismissively · Meh: \"so-so\", no enthusiasm",
+        "tr": "Whatever: tartışmayı umursamazca kesmek · Meh: \"eh işte\", heyecan duymamak",
+        "de": "Whatever: einen Streit abweisend beenden · Meh: „geht so“, ohne Begeisterung"
+      },
+      "equivalent": {
+        "tr": "Her neyse. / Aman, boş ver. · Eh. / İdare eder.",
+        "de": "Wie auch immer. / Mir doch egal. · Na ja. / Geht so."
+      },
+      "intensity": {
+        "en": "mild–moderate",
+        "tr": "hafif–orta",
+        "de": "mild–mittel"
+      },
+      "level": 1,
+      "register": {
+        "en": "informal (bare \"Whatever.\" can sound disrespectful, passive-aggressive)",
+        "tr": "gündelik (Whatever tek başına saygısız, pasif-agresif durabilir)"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "\"Whatever.\" (one-word answer) · \"Whatever you want.\" (neutral: as you like) · \"meh\" as exclamation or adjective: \"It was pretty meh.\"",
+        "tr": "\"Whatever.\" (tek kelimelik cevap) · \"Whatever you want.\" (nötr: nasıl istersen) · \"meh\" ünlem ya da sıfat: \"It was pretty meh.\""
+      },
+      "sentences": [
+        {
+          "en": "\"You never listen to me!\" \"[Whatever].\"",
+          "tr": "\"Beni hiç dinlemiyorsun!\" \"Aman, her neyse.\"",
+          "de": "„Du hörst mir nie zu!“ „Wie auch immer.“"
+        },
+        {
+          "en": "\"How was the movie?\" \"[Meh]. It was okay.\"",
+          "tr": "\"Film nasıldı?\" \"Eh. Fena değildi.\"",
+          "de": "„Wie war der Film?“ „Na ja. Ging so.“"
+        }
+      ]
+    },
+    {
+      "id": "cant-be-bothered",
+      "expr": "can't be bothered",
+      "meaning": {
+        "en": "to have no desire or energy to do something",
+        "tr": "bir şeyi yapacak hevesi/enerjisi olmamak, üşenmek",
+        "de": "keine Lust oder Energie haben, etwas zu tun"
+      },
+      "equivalent": {
+        "tr": "üşenmek, hiç uğraşamamak, içinden gelmemek",
+        "de": "keine Lust haben, keinen Bock haben, zu faul sein"
+      },
+      "intensity": {
+        "en": "mild–moderate",
+        "tr": "hafif–orta",
+        "de": "mild–mittel"
+      },
+      "level": 1,
+      "literal": {
+        "en": "cannot be put to the trouble",
+        "tr": "zahmete sokulamaz"
+      },
+      "register": {
+        "en": "informal (the short form \"can't be arsed\" is vulgar)",
+        "tr": "gündelik (kısaltma \"can't be arsed\" kaba)"
+      },
+      "variety": {
+        "en": "BrE. AmE equivalent: \"I don't feel like it.\" (\"I can't be bothered\" is understood but less common.)",
+        "tr": "BrE. AmE'de karşılığı: \"I don't feel like it.\" / \"I can't be bothered\" anlaşılır ama seyrek."
+      },
+      "usage": {
+        "en": "can't be bothered (to + verb / with sth)",
+        "tr": "can't be bothered (to + fiil / with sth)"
+      },
+      "sentences": [
+        {
+          "en": "I [can't be bothered] to cook tonight — let's just order something.",
+          "tr": "Bu akşam yemek yapmaya üşeniyorum, bir şeyler söyleyelim.",
+          "de": "Ich habe heute Abend keine Lust zu kochen – bestellen wir einfach etwas."
+        },
+        {
+          "en": "I was going to go to the gym, but I really [can't be bothered].",
+          "tr": "Spora gidecektim ama hiç içimden gelmiyor.",
+          "de": "Ich wollte ins Fitnessstudio, aber ich kann mich echt nicht aufraffen."
+        }
+      ]
+    },
+    {
+      "id": "be-over-it-someone",
+      "expr": "be over (it / someone)",
+      "meaning": {
+        "en": "(1) be over sb: no longer to have feelings for them (2) be over it: to have recovered, or to be tired of it and no longer interested",
+        "tr": "(1) be over sb: artık ona karşı bir şey hissetmemek (2) be over it: atlatmış olmak ya da artık bıkmış, ilgilenmiyor olmak",
+        "de": "(1) be over sb: keine Gefühle mehr für jemanden haben (2) be over it: darüber hinweg sein, oder es leid sein und kein Interesse mehr haben"
+      },
+      "equivalent": {
+        "tr": "atlatmış olmak, aşmış olmak; bıkmış, sıkılmış olmak",
+        "de": "über jemanden hinweg sein; etwas satthaben"
+      },
+      "intensity": {
+        "en": "moderate",
+        "tr": "orta",
+        "de": "mittel"
+      },
+      "level": 2,
+      "literal": {
+        "en": "to have crossed to the other side of something",
+        "tr": "bir şeyin öbür tarafına geçmiş olmak"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "be over sb/sth → result (state). get over sb/sth → process (see Category 13). \"I'm so over it.\" = I can't stand it any more.",
+        "tr": "be over sb/sth → sonuç (durum). get over sb/sth → süreç (bkz. Kategori 13). \"I'm so over it.\" = artık hiç çekemiyorum."
+      },
+      "sentences": [
+        {
+          "en": "Don't worry, I'm totally [over him].",
+          "tr": "Merak etme, onu tamamen unuttum.",
+          "de": "Keine Sorge, ich bin komplett über ihn hinweg."
+        },
+        {
+          "en": "I'm so [over this] drama.",
+          "tr": "Bu dramadan gına geldi artık.",
+          "de": "Ich habe dieses Drama so satt."
+        }
+      ]
+    },
+    {
+      "id": "zone-out-space-out",
+      "expr": "zone out / space out",
+      "meaning": {
+        "en": "to stop paying attention; to drift off",
+        "tr": "dalıp gitmek, dinlemeyi bırakmak",
+        "de": "nicht mehr aufpassen; mit den Gedanken abschweifen"
+      },
+      "equivalent": {
+        "tr": "dalıp gitmek, kopmak, boş bakmak",
+        "de": "abschalten, mit den Gedanken woanders sein, vor sich hin träumen"
+      },
+      "intensity": {
+        "en": "mild",
+        "tr": "hafif",
+        "de": "mild"
+      },
+      "level": 1,
+      "literal": {
+        "en": "to go out of the zone / out into space",
+        "tr": "bölgenin dışına / uzaya çıkmak"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "zone/space out (intransitive, involuntary). tune sb/sth out (transitive, deliberately not listening). spaced out = dazed, absent.",
+        "tr": "zone/space out (geçişsiz, istemsiz). tune sb/sth out (geçişli, bilerek kulak tıkamak). spaced out = dalgın, uyuşuk."
+      },
+      "sentences": [
+        {
+          "en": "Sorry, I [zoned out] for a second — what did you say?",
+          "tr": "Pardon, bir an dalmışım, ne dedin?",
+          "de": "Entschuldige, ich war kurz mit den Gedanken woanders – was hast du gesagt?"
+        },
+        {
+          "en": "I just [tune him out] when he starts complaining.",
+          "tr": "Şikâyet etmeye başlayınca onu dinlemeyi bırakıyorum.",
+          "de": "Ich schalte einfach ab, wenn er anfängt zu jammern."
+        }
+      ]
+    },
+    {
+      "id": "not-be-ones-thing-not-be-into",
+      "expr": "not be one's thing / not be into",
+      "meaning": {
+        "en": "something is outside a person's interests",
+        "tr": "bir şeyin kişinin ilgi alanına girmemesi",
+        "de": "etwas liegt außerhalb der Interessen einer Person"
+      },
+      "equivalent": {
+        "tr": "bana göre değil, benlik değil, pek sarmıyor",
+        "de": "nicht jemandes Ding sein, nichts für jemanden sein"
+      },
+      "intensity": {
+        "en": "mild",
+        "tr": "hafif",
+        "de": "mild"
+      },
+      "level": 1,
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE (BrE also: \"not my cup of tea\")",
+        "tr": "AmE + BrE (BrE ayrıca: \"not my cup of tea\")"
+      },
+      "usage": {
+        "en": "sth is not (really) my thing · I'm not (that) into sth. A polite way to decline.",
+        "tr": "sth is not (really) my thing · I'm not (that) into sth. Kibar bir reddetme yolu."
+      },
+      "sentences": [
+        {
+          "en": "Clubbing's not really [my thing].",
+          "tr": "Gece kulübü pek bana göre değil.",
+          "de": "In Clubs gehen ist nicht so mein Ding."
+        },
+        {
+          "en": "I'm just not that [into] horror movies.",
+          "tr": "Korku filmleri beni pek sarmıyor.",
+          "de": "Ich stehe einfach nicht so auf Horrorfilme."
+        }
+      ]
+    },
+    {
+      "id": "shrug-it-off-brush-it-off",
+      "expr": "shrug it off / brush it off",
+      "meaning": {
+        "en": "to treat something as unimportant; not to dwell on it",
+        "tr": "bir şeyi önemsememek, üstünde durmamak",
+        "de": "etwas als unwichtig behandeln; sich nicht damit aufhalten"
+      },
+      "equivalent": {
+        "tr": "geçiştirmek, takmamak, omuz silkip geçmek",
+        "de": "etwas mit einem Schulterzucken abtun, etwas an sich abprallen lassen"
+      },
+      "intensity": {
+        "en": "mild–moderate",
+        "tr": "hafif–orta",
+        "de": "mild–mittel"
+      },
+      "level": 1,
+      "literal": {
+        "en": "to shrug and throw off / to brush away; off = away from yourself",
+        "tr": "omuz silkip atmak / fırçalayıp atmak; off = üstünden uzağa"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "shrug/brush sth off (separable). brush sb off = to dismiss someone. laugh it off = to laugh and move on.",
+        "tr": "shrug/brush sth off (ayrılabilir). brush sb off = birini başından savmak. laugh it off = gülüp geçmek."
+      },
+      "sentences": [
+        {
+          "en": "He made a rude comment, but I just [shrugged it off].",
+          "tr": "Kaba bir laf etti ama takmadım.",
+          "de": "Er hat eine unhöfliche Bemerkung gemacht, aber ich habe es einfach an mir abprallen lassen."
+        },
+        {
+          "en": "You can't just [brush it off] — she's really hurt.",
+          "tr": "Öyle geçiştiremezsin, kız gerçekten kırıldı.",
+          "de": "Du kannst das nicht einfach abtun – sie ist wirklich verletzt."
+        }
+      ]
+    },
+    {
+      "id": "feel-numb",
+      "expr": "feel numb",
+      "meaning": {
+        "en": "to be unable to feel anything (often after shock or exhaustion)",
+        "tr": "hiçbir şey hissedememek (çoğu zaman şok ya da tükenmişlik sonrası)",
+        "de": "nichts mehr fühlen können (oft nach Schock oder Erschöpfung)"
+      },
+      "equivalent": {
+        "tr": "hissizleşmek, donup kalmak, duyguları körelmek",
+        "de": "wie betäubt sein, innerlich taub sein, abgestumpft sein"
+      },
+      "intensity": {
+        "en": "strong",
+        "tr": "güçlü",
+        "de": "stark"
+      },
+      "level": 3,
+      "literal": {
+        "en": "to feel without sensation",
+        "tr": "uyuşmuş hissetmek"
+      },
+      "register": {
+        "en": "neutral",
+        "tr": "nötr",
+        "de": "neutral"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "feel/be/go numb · be numb to sth (to have become desensitised to something)",
+        "tr": "feel/be/go numb · be numb to sth (bir şeye karşı duyarsızlaşmak)"
+      },
+      "note": {
+        "en": "Different from not caring: it is not a chosen attitude but an emotional shutdown.",
+        "tr": "Umursamazlıktan farklıdır: istemli bir tavır değil, duygusal kapanmadır."
+      },
+      "sentences": [
+        {
+          "en": "After the breakup I didn't cry. I just [felt numb].",
+          "tr": "Ayrılıktan sonra ağlamadım. Sadece hiçbir şey hissetmedim.",
+          "de": "Nach der Trennung habe ich nicht geweint. Ich war einfach wie betäubt."
+        },
+        {
+          "en": "I've heard so much bad news lately that I'm kind of [numb] to it.",
+          "tr": "Son zamanlarda o kadar çok kötü haber duydum ki artık duyarsızlaştım.",
+          "de": "Ich habe in letzter Zeit so viele schlechte Nachrichten gehört, dass ich schon abgestumpft bin."
+        }
+      ]
+    }
+  ]
+}

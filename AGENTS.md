@@ -8,18 +8,20 @@ full rules. Read it once and you can add content without asking anyone. Türkçe
 
 ## 1. What this project is
 
-specroots is a static website that teaches vocabulary through word building. It has three sections:
+specroots is a static website that teaches vocabulary through word building. It has four sections:
 
 | Section | What it holds | Folder | Source language |
 |---|---|---|---|
 | English roots | Latin and Greek roots and the English words built on them (*spec* → inspect, spectator) | `public/data/roots/` + `public/data/affixes.json` | English |
 | German roots | German stems and their word families (*steh* → verstehen, Verstand) | `public/data/de/roots/` + `public/data/de/affixes.json` | German |
 | Object lists | Everyday objects with a photo, grouped in lists (Kitchen, Bathroom…) | `public/data/objects/` + `public/data/lists/` | English |
+| Everyday expressions | How people talk about feelings (*be fed up*, *over the moon*), grouped by feeling | `public/data/expressions/` | English |
 
 Everything is shown with translations in six languages: `en`, `tr`, `de`, `fr`, `it`, `es`. **All six
-are required everywhere.** One file per root, per object and per list.
+are required everywhere** (one exception: expressions, section 12). One file per root, per object, per list
+and per category of expressions.
 
-Generated files (`index.json`, `affix-index.json`, `objects-index.json`, `lists-index.json`,
+Generated files (`index.json`, `affix-index.json`, `objects-index.json`, `lists-index.json`, `expressions-index.json`,
 `contributors-index.json`, `de/index.json`) are **not in the repository**. `npm run data` builds them;
 `npm run dev`, `npm run test` and `npm run build` run it for you. Never create or edit them by hand.
 
@@ -68,7 +70,7 @@ To stay cheap: read this file and one example file of the kind you are adding (`
   ```
 
   `name` is your choice (real name or nickname, at most 30 characters). Keep the keys in A–Z order.
-- Every root file, object file and list file you **create** carries `"addedBy": "<your GitHub user name>"`
+- Every root file, object file, list file and expression category file you **create** carries `"addedBy": "<your GitHub user name>"`
   right after `"id"`.
 - When you add words to a root that **someone else created**, leave the root's `addedBy` alone and put
   `"addedBy": "<you>"` on each word you add (right after the word's `"id"`). A word without its own
@@ -292,3 +294,52 @@ is published under this repository's license.** If the pull request closes issue
 Every section follows the same pattern: **a data folder + a recipe in this file + tests that enforce
 the recipe.** A new section or a new language is added by the maintainer as one more folder, one more
 recipe here and its tests; nothing else in this file changes.
+
+## 12. Recipe: an everyday expression
+
+Everyday expressions are the fourth section: how people really talk about a feeling (*be fed up*,
+*get cold feet*). File: `public/data/expressions/<category>.json`, one file per feeling, holding all
+of its expressions in teaching order (the most common first).
+
+```json
+{
+  "id": "anger",
+  "addedBy": "octocat",
+  "title": { "en": "Anger, irritation and frustration", "tr": "…", "de": "…", "fr": "…", "it": "…", "es": "…" },
+  "expressions": [
+    {
+      "id": "be-fed-up-with",
+      "expr": "be fed up (with)",
+      "meaning": { "en": "to have had too much of something that has been going on for a long time", "tr": "…", "de": "…" },
+      "equivalent": { "tr": "bıkmak, gına gelmek", "de": "die Nase voll haben, es satthaben" },
+      "intensity": { "en": "moderate–strong", "tr": "orta–güçlü", "de": "mittel–stark" },
+      "level": 2,
+      "register": { "en": "informal", "tr": "gündelik", "de": "umgangssprachlich" },
+      "variety": { "en": "AmE + BrE (more common in BrE)", "tr": "…" },
+      "literal": { "en": "to have been fed until completely full", "tr": "…" },
+      "usage": { "en": "be fed up with + noun/V-ing → current state. get fed up with → reaching that point.", "tr": "…" },
+      "collocations": { "en": "fed up with waiting · totally/really fed up" },
+      "note": { "en": "…", "tr": "…" },
+      "sentences": [
+        { "en": "I'm [fed up with] doing all the work in this group project.", "tr": "…", "de": "…" },
+        { "en": "She [got fed up with] his excuses and just stopped replying.", "tr": "…", "de": "…" }
+      ]
+    }
+  ]
+}
+```
+
+- **Languages: this section is the one exception to "all six everywhere".** `title` needs all six.
+  `meaning` and every sentence need `en`, `tr` and `de`; `equivalent` needs `tr` and `de` (never
+  `en`: the English equivalent is the expression itself). `fr`, `it`, `es` are welcome wherever you
+  can write them well.
+- `id`: the expression in lower case with dashes, used **once in the whole section**.
+- `meaning`: a plain definition. `equivalent`: what a speaker of that language would actually say in
+  the same situation, an idiom where one exists (*die Nase voll haben*), not a word-by-word translation.
+- `intensity` + `level` (1 mild, 2 moderate, 3 strong, 4 extreme) and the detail texts `register`,
+  `variety` (American / British), `literal`, `usage`, `collocations`, `note` are optional. Each detail
+  needs `en`; add `tr` and others when you can. They appear under "Details" on the card.
+- `sentences`: at least 2, your own, the way a friend would say it. Mark the expression as it appears
+  in the sentence, as **one** `[bracketed]` span (`[got fed up with]`, `[drives me crazy]`).
+- A new category: pick a short English id (`jealousy`); the maintainer adds it to the order in
+  `scripts/build-index.mjs`.

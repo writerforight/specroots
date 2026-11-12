@@ -9,18 +9,19 @@ English: [AGENTS.md](AGENTS.md). İki dosya aynı kuralları anlatır; çelişir
 
 ## 1. Bu proje ne
 
-specroots, kelimeleri yapılarından öğreten statik bir web sitesidir. Üç bölümü var:
+specroots, kelimeleri yapılarından öğreten statik bir web sitesidir. Dört bölümü var:
 
 | Bölüm | İçinde ne var | Klasör | Kaynak dil |
 |---|---|---|---|
 | İngilizce kökler | Latince ve Yunanca kökler ve onlardan kurulan İngilizce kelimeler (*spec* → inspect, spectator) | `public/data/roots/` + `public/data/affixes.json` | İngilizce |
 | Almanca kökler | Almanca gövdeler ve kelime aileleri (*steh* → verstehen, Verstand) | `public/data/de/roots/` + `public/data/de/affixes.json` | Almanca |
 | Nesne listeleri | Fotoğraflı gündelik nesneler, listeler halinde (Mutfak, Banyo…) | `public/data/objects/` + `public/data/lists/` | İngilizce |
+| Gündelik ifadeler | Duyguların gündelik dilde nasıl anlatıldığı (*be fed up*, *over the moon*), duyguya göre gruplu | `public/data/expressions/` | İngilizce |
 
 Her şey altı dilde çeviriyle gösterilir: `en`, `tr`, `de`, `fr`, `it`, `es`. **Altısı da her yerde
-zorunludur.** Her kök, her nesne ve her liste ayrı bir dosyadır.
+zorunludur** (tek istisna: ifadeler, bölüm 12). Her kök, her nesne, her liste ve her ifade kategorisi ayrı bir dosyadır.
 
-Üretilen dosyalar (`index.json`, `affix-index.json`, `objects-index.json`, `lists-index.json`,
+Üretilen dosyalar (`index.json`, `affix-index.json`, `objects-index.json`, `lists-index.json`, `expressions-index.json`,
 `contributors-index.json`, `de/index.json`) **repoda yoktur**. Onları `npm run data` üretir;
 `npm run dev`, `npm run test` ve `npm run build` bunu kendiliğinden çalıştırır. Elle oluşturma, elle
 düzenleme.
@@ -296,3 +297,51 @@ bu reponun lisansıyla yayımlanır.** Pull request issue kapatıyorsa `Closes #
 Her bölüm aynı kalıbı izler: **bir veri klasörü + bu dosyada bir tarif + tarifi zorlayan testler.**
 Yeni bir bölüm ya da yeni bir dil, repo sahibi tarafından bir klasör, buraya bir tarif ve testleri
 olarak eklenir; bu dosyanın geri kalanı değişmez.
+
+## 12. Tarif: gündelik ifade
+
+Gündelik ifadeler dördüncü bölümdür: insanların bir duyguyu gerçekte nasıl anlattığı (*be fed up*,
+*get cold feet*). Dosya: `public/data/expressions/<kategori>.json`; her duygu için bir dosya, içinde o
+duygunun bütün ifadeleri öğretme sırasıyla (en yaygın olan önce).
+
+```json
+{
+  "id": "anger",
+  "addedBy": "octocat",
+  "title": { "en": "Anger, irritation and frustration", "tr": "…", "de": "…", "fr": "…", "it": "…", "es": "…" },
+  "expressions": [
+    {
+      "id": "be-fed-up-with",
+      "expr": "be fed up (with)",
+      "meaning": { "en": "to have had too much of something that has been going on for a long time", "tr": "…", "de": "…" },
+      "equivalent": { "tr": "bıkmak, gına gelmek", "de": "die Nase voll haben, es satthaben" },
+      "intensity": { "en": "moderate–strong", "tr": "orta–güçlü", "de": "mittel–stark" },
+      "level": 2,
+      "register": { "en": "informal", "tr": "gündelik", "de": "umgangssprachlich" },
+      "variety": { "en": "AmE + BrE (more common in BrE)", "tr": "…" },
+      "literal": { "en": "to have been fed until completely full", "tr": "…" },
+      "usage": { "en": "be fed up with + noun/V-ing → current state. get fed up with → reaching that point.", "tr": "…" },
+      "collocations": { "en": "fed up with waiting · totally/really fed up" },
+      "note": { "en": "…", "tr": "…" },
+      "sentences": [
+        { "en": "I'm [fed up with] doing all the work in this group project.", "tr": "…", "de": "…" },
+        { "en": "She [got fed up with] his excuses and just stopped replying.", "tr": "…", "de": "…" }
+      ]
+    }
+  ]
+}
+```
+
+- **Diller: bu bölüm "altısı da her yerde" kuralının tek istisnasıdır.** `title` altı dilde zorunlu.
+  `meaning` ve her cümle `en`, `tr`, `de` ister; `equivalent` `tr` ve `de` ister (`en` asla yazılmaz:
+  İngilizce karşılık ifadenin kendisidir). `fr`, `it`, `es` iyi yazabildiğin her yerde eklenebilir.
+- `id`: ifadenin küçük harfli, tireli hâli; **bütün bölümde bir kez** kullanılır.
+- `meaning`: sade bir tanım. `equivalent`: o dili konuşan birinin aynı durumda gerçekten söyleyeceği
+  şey; varsa deyim (*gına gelmek*, *die Nase voll haben*), kelimesi kelimesine çeviri değil.
+- `intensity` + `level` (1 hafif, 2 orta, 3 güçlü, 4 aşırı) ve ayrıntı metinleri `register`,
+  `variety` (Amerikan / İngiliz), `literal`, `usage`, `collocations`, `note` isteğe bağlıdır. Her
+  ayrıntı `en` ister; `tr` ve diğerleri yazabiliyorsan eklenir. Kartta "Ayrıntı" altında görünürler.
+- `sentences`: en az 2, kendi cümlen, bir arkadaşın söyleyeceği gibi. İfadeyi cümlede geçtiği
+  hâliyle **tek** bir `[köşeli]` parça olarak işaretle (`[got fed up with]`, `[drives me crazy]`).
+- Yeni kategori: kısa bir İngilizce kimlik seç (`jealousy`); sırasını repo sahibi
+  `scripts/build-index.mjs` içinde ekler.

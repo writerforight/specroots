@@ -3,8 +3,8 @@ import type { KeyValueStore } from './KeyValueStore';
 
 export type ThemeChoice = 'system' | 'light' | 'dark' | 'mono' | 'mono-dark';
 export type DerivationViewKind = 'list' | 'tree';
-/** The parts of the app: English word roots, object lists, and German word roots (stehen → verstehen). */
-export type Section = 'roots' | 'lists' | 'german';
+/** The parts of the app: English word roots, object lists, everyday expressions, and German word roots (stehen → verstehen). */
+export type Section = 'roots' | 'lists' | 'german' | 'expressions';
 /** What the roots section's side list shows: roots, or the prefixes or suffixes words are built with. */
 export type BrowseMode = 'root' | 'prefix' | 'suffix';
 /** How a section's start page lays out its roots or affixes: tiles, or a printed-dictionary page. */
@@ -91,7 +91,7 @@ export class SettingsStore {
       translationLangs: langs ?? defaults.translationLangs,
       theme: raw.theme === 'light' || raw.theme === 'dark' || raw.theme === 'mono' || raw.theme === 'mono-dark' || raw.theme === 'system' ? raw.theme : defaults.theme,
       derivationView: raw.derivationView === 'tree' ? 'tree' : 'list',
-      section: raw.section === 'lists' || raw.section === 'german' ? raw.section : 'roots',
+      section: raw.section === 'lists' || raw.section === 'german' || raw.section === 'expressions' ? raw.section : 'roots',
       browseMode: raw.browseMode === 'prefix' || raw.browseMode === 'suffix' ? raw.browseMode : 'root',
       indexLayout: raw.indexLayout === 'dictionary' ? 'dictionary' : 'grid',
       onboarded: raw.onboarded === true,

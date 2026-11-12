@@ -1,0 +1,721 @@
+{
+  "id": "conflict",
+  "addedBy": "writerforight",
+  "title": {
+    "en": "Emotional reactions during arguments and social interactions",
+    "tr": "Tartışmalarda ve sosyal ilişkilerde duygusal tepkiler",
+    "de": "Gefühlsreaktionen im Streit und im Umgang mit anderen",
+    "fr": "Réactions dans les disputes et les relations",
+    "it": "Reazioni nelle discussioni e nei rapporti",
+    "es": "Reacciones en discusiones y relaciones"
+  },
+  "expressions": [
+    {
+      "id": "have-a-go-at-go-off-on",
+      "expr": "have a go at / go off on",
+      "meaning": {
+        "en": "to attack someone verbally; to shout at them",
+        "tr": "birine sertçe çatmak, bağırıp çağırmak",
+        "de": "jemanden mit Worten angreifen; jemanden anschreien"
+      },
+      "equivalent": {
+        "tr": "fırça atmak, çatmak, üstüne yürümek",
+        "de": "jemanden anmachen, jemanden zusammenstauchen, auf jemanden losgehen"
+      },
+      "intensity": {
+        "en": "strong",
+        "tr": "güçlü",
+        "de": "stark"
+      },
+      "level": 3,
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "have a go at sb: BrE (in AmE \"have a go at sth\" = to try) · go off on sb: AmE",
+        "tr": "have a go at sb: BrE (AmE'de \"have a go at sth\" = denemek) · go off on sb: AmE"
+      },
+      "usage": {
+        "en": "have a go at sb (for V-ing / about sth) · go off on sb (for/about sth)",
+        "tr": "have a go at sb (for V-ing / about sth) · go off on sb (for/about sth)"
+      },
+      "sentences": [
+        {
+          "en": "My boss [had a go at] me for being five minutes late.",
+          "tr": "Beş dakika geciktim diye patronum bana fırça attı.",
+          "de": "Mein Chef hat mich zusammengestaucht, weil ich fünf Minuten zu spät war."
+        },
+        {
+          "en": "She [went off on] him in front of the whole class.",
+          "tr": "Bütün sınıfın önünde ona verip veriştirdi.",
+          "de": "Sie ist vor der ganzen Klasse auf ihn losgegangen."
+        }
+      ]
+    },
+    {
+      "id": "take-it-out-on",
+      "expr": "take it out on",
+      "meaning": {
+        "en": "to make an unrelated person suffer for your own stress or anger",
+        "tr": "kendi stresinin/öfkesinin acısını ilgisiz birinden çıkarmak",
+        "de": "den eigenen Stress oder Ärger an jemandem auslassen, der nichts dafür kann"
+      },
+      "equivalent": {
+        "tr": "acısını/hıncını birinden çıkarmak",
+        "de": "etwas an jemandem auslassen"
+      },
+      "intensity": {
+        "en": "moderate–strong",
+        "tr": "orta–güçlü",
+        "de": "mittel–stark"
+      },
+      "level": 2,
+      "literal": {
+        "en": "to take it (what's inside) out and put it on someone",
+        "tr": "onu (içindekini) dışarı çıkarıp birinin üstüne koymak"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "take sth (it / your anger / your stress) out on sb. Two particles: out (letting it out) + on (the target).",
+        "tr": "take sth (it / your anger / your stress) out on sb. İki parçacık: out (dışa vurma) + on (hedef)."
+      },
+      "sentences": [
+        {
+          "en": "I know you've had a bad day, but don't [take it out on] me.",
+          "tr": "Kötü bir gün geçirdiğini biliyorum ama acısını benden çıkarma.",
+          "de": "Ich weiß, du hattest einen schlechten Tag, aber lass es nicht an mir aus."
+        },
+        {
+          "en": "He [takes his stress out on] his family.",
+          "tr": "Stresinin acısını ailesinden çıkarıyor.",
+          "de": "Er lässt seinen Stress an seiner Familie aus."
+        }
+      ]
+    },
+    {
+      "id": "lash-out-at",
+      "expr": "lash out (at)",
+      "meaning": {
+        "en": "to suddenly attack someone verbally (often because you are hurt)",
+        "tr": "(çoğu zaman incindiği için) birine aniden sözle saldırmak",
+        "de": "jemanden plötzlich mit Worten angreifen (oft, weil man verletzt ist)"
+      },
+      "equivalent": {
+        "tr": "saldırmak, sert çıkmak, hırçınlaşmak",
+        "de": "um sich schlagen, jemanden anfahren, ausfallend werden"
+      },
+      "intensity": {
+        "en": "strong",
+        "tr": "güçlü",
+        "de": "stark"
+      },
+      "level": 3,
+      "literal": {
+        "en": "lash = to whip; out = outward",
+        "tr": "lash = kırbaçlamak; out = dışarı doğru"
+      },
+      "register": {
+        "en": "neutral",
+        "tr": "nötr",
+        "de": "neutral"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "lash out (at sb) — intransitive. The cause is usually pain, fear or helplessness; that is the difference from blow up.",
+        "tr": "lash out (at sb) — geçişsiz. Sebep çoğunlukla acı, korku ya da çaresizliktir; blow up'tan farkı budur."
+      },
+      "sentences": [
+        {
+          "en": "She [lashes out at] people when she's hurt.",
+          "tr": "Kırıldığında insanlara saldırıyor.",
+          "de": "Sie fährt Leute an, wenn sie verletzt ist."
+        },
+        {
+          "en": "I'm sorry I [lashed out] — I was scared.",
+          "tr": "Sert çıktığım için özür dilerim, korkmuştum.",
+          "de": "Tut mir leid, dass ich so ausfallend geworden bin – ich hatte Angst."
+        }
+      ]
+    },
+    {
+      "id": "bottle-up",
+      "expr": "bottle up",
+      "meaning": {
+        "en": "to keep your feelings inside; to suppress them",
+        "tr": "duygularını içine atmak, bastırmak",
+        "de": "seine Gefühle für sich behalten; sie unterdrücken"
+      },
+      "equivalent": {
+        "tr": "içine atmak, bastırmak",
+        "de": "etwas in sich hineinfressen, Gefühle unterdrücken"
+      },
+      "intensity": {
+        "en": "moderate",
+        "tr": "orta",
+        "de": "mittel"
+      },
+      "level": 2,
+      "literal": {
+        "en": "to put into a bottle and close the lid; up = completely, tightly",
+        "tr": "şişeye doldurup kapağını kapatmak; up = tamamen, sıkıca"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "bottle sth up / bottle up sth (transitive, separable; with a pronoun: bottle it up) · keep sth bottled up",
+        "tr": "bottle sth up / bottle up sth (geçişli, ayrılabilir; zamirle: bottle it up) · keep sth bottled up"
+      },
+      "sentences": [
+        {
+          "en": "Don't [bottle it up] — talk to someone.",
+          "tr": "İçine atma, biriyle konuş.",
+          "de": "Friss es nicht in dich hinein – rede mit jemandem."
+        },
+        {
+          "en": "He [bottles up] his feelings and then explodes over something small.",
+          "tr": "Duygularını içine atıyor, sonra ufacık bir şeyde patlıyor.",
+          "de": "Er frisst seine Gefühle in sich hinein und explodiert dann wegen einer Kleinigkeit."
+        }
+      ]
+    },
+    {
+      "id": "open-up-to",
+      "expr": "open up (to)",
+      "meaning": {
+        "en": "to tell someone your feelings and private things",
+        "tr": "duygularını, özel şeylerini birine anlatmak",
+        "de": "jemandem seine Gefühle und Privates erzählen"
+      },
+      "equivalent": {
+        "tr": "açılmak, içini açmak",
+        "de": "sich jemandem öffnen, aus sich herausgehen"
+      },
+      "intensity": {
+        "en": "moderate",
+        "tr": "orta",
+        "de": "mittel"
+      },
+      "level": 2,
+      "literal": {
+        "en": "to open completely",
+        "tr": "tamamen açılmak"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "open up (to sb) (about sth) — intransitive. The opposite of bottle up.",
+        "tr": "open up (to sb) (about sth) — geçişsiz. bottle up'ın karşıtı."
+      },
+      "sentences": [
+        {
+          "en": "It took him months to [open up to] me about his family.",
+          "tr": "Ailesi hakkında bana açılması aylar sürdü.",
+          "de": "Es hat Monate gedauert, bis er sich mir gegenüber über seine Familie geöffnet hat."
+        },
+        {
+          "en": "She doesn't [open up] easily.",
+          "tr": "Kolay kolay içini açmaz.",
+          "de": "Sie öffnet sich nicht so leicht."
+        }
+      ]
+    },
+    {
+      "id": "vent-let-off-steam-blow-off-steam",
+      "expr": "vent / let off steam / blow off steam",
+      "meaning": {
+        "en": "to release anger or stress by talking or by physical activity",
+        "tr": "içindeki öfkeyi/stresi anlatarak ya da hareket ederek boşaltmak",
+        "de": "Ärger oder Stress durch Reden oder Bewegung abbauen"
+      },
+      "equivalent": {
+        "tr": "içini dökmek, dert yanmak; deşarj olmak, stres atmak",
+        "de": "sich Luft machen, sich auskotzen; Dampf ablassen"
+      },
+      "intensity": {
+        "en": "moderate",
+        "tr": "orta",
+        "de": "mittel"
+      },
+      "level": 2,
+      "literal": {
+        "en": "vent = an air outlet; steam (ANGER IS A HOT FLUID IN A PRESSURISED CONTAINER)",
+        "tr": "vent = havalandırma deliği; steam = buhar (ÖFKE = BASINÇLI KAPTAKİ SICAK SIVI)"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "vent: AmE + BrE · let off steam: BrE · blow off steam: AmE",
+        "tr": "vent: AmE + BrE · let off steam: BrE · blow off steam: AmE"
+      },
+      "usage": {
+        "en": "vent (to sb) (about sth) · \"I just need to vent.\" (I want a listener, not a solution) · let/blow off (some) steam",
+        "tr": "vent (to sb) (about sth) · \"I just need to vent.\" (çözüm değil dinleyici istiyorum) · let/blow off (some) steam"
+      },
+      "sentences": [
+        {
+          "en": "Sorry, I don't need advice — I just need to [vent].",
+          "tr": "Kusura bakma, tavsiye istemiyorum, sadece içimi dökmem lazım.",
+          "de": "Entschuldige, ich brauche keinen Rat – ich muss mich nur mal auskotzen."
+        },
+        {
+          "en": "I went for a run to [blow off some steam].",
+          "tr": "Biraz deşarj olmak için koşuya çıktım.",
+          "de": "Ich bin laufen gegangen, um Dampf abzulassen."
+        }
+      ]
+    },
+    {
+      "id": "fall-out-with",
+      "expr": "fall out (with)",
+      "meaning": {
+        "en": "to argue with someone and stop being friendly",
+        "tr": "biriyle tartışıp arası bozulmak, küsmek",
+        "de": "sich mit jemandem streiten und nicht mehr befreundet sein"
+      },
+      "equivalent": {
+        "tr": "arası bozulmak, bozuşmak, küsmek",
+        "de": "sich mit jemandem zerstreiten, sich überwerfen"
+      },
+      "intensity": {
+        "en": "moderate–strong",
+        "tr": "orta–güçlü",
+        "de": "mittel–stark"
+      },
+      "level": 2,
+      "literal": {
+        "en": "to fall out (of line / of the relationship)",
+        "tr": "(sıradan/ilişkiden) dışarı düşmek"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "the verb is mainly BrE · AmE uses the noun: have a falling-out (with sb)",
+        "tr": "fiil hâli ağırlıklı BrE · AmE'de isim: have a falling-out (with sb)"
+      },
+      "usage": {
+        "en": "fall out (with sb) (over/about sth)",
+        "tr": "fall out (with sb) (over/about sth)"
+      },
+      "sentences": [
+        {
+          "en": "I [fell out with] my best friend over something really stupid.",
+          "tr": "En yakın arkadaşımla çok saçma bir şey yüzünden bozuştuk.",
+          "de": "Ich habe mich mit meiner besten Freundin wegen etwas wirklich Dummem zerstritten."
+        },
+        {
+          "en": "They had a [falling-out] years ago and haven't spoken since.",
+          "tr": "Yıllar önce araları bozuldu, o gün bugündür konuşmuyorlar.",
+          "de": "Sie haben sich vor Jahren zerstritten und seitdem nicht mehr miteinander geredet."
+        }
+      ]
+    },
+    {
+      "id": "make-up-with",
+      "expr": "make up (with)",
+      "meaning": {
+        "en": "to become friends again after a quarrel",
+        "tr": "kavgadan sonra barışmak",
+        "de": "sich nach einem Streit wieder vertragen"
+      },
+      "equivalent": {
+        "tr": "barışmak",
+        "de": "sich versöhnen, sich wieder vertragen"
+      },
+      "intensity": {
+        "en": "moderate",
+        "tr": "orta",
+        "de": "mittel"
+      },
+      "level": 2,
+      "literal": {
+        "en": "to complete (what is missing)",
+        "tr": "(eksik kalanı) tamamlamak"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "make up (with sb) · kiss and make up · make it up to sb = to compensate someone for your mistake · make up for sth = to compensate. Don't confuse with: make sth up = to invent.",
+        "tr": "make up (with sb) · kiss and make up · make it up to sb = birine karşı hatasını telafi etmek · make up for sth = telafi etmek. Karıştırma: make sth up = uydurmak."
+      },
+      "sentences": [
+        {
+          "en": "We argue a lot, but we always [make up] by the end of the day.",
+          "tr": "Çok tartışırız ama gün bitmeden mutlaka barışırız.",
+          "de": "Wir streiten viel, aber am Ende des Tages vertragen wir uns immer wieder."
+        },
+        {
+          "en": "I'm sorry I missed your birthday — let me [make it up to you].",
+          "tr": "Doğum gününü kaçırdığım için özür dilerim, telafi edeyim.",
+          "de": "Tut mir leid, dass ich deinen Geburtstag verpasst habe – ich mache es wieder gut."
+        }
+      ]
+    },
+    {
+      "id": "hold-a-grudge-hold-it-against",
+      "expr": "hold a grudge / hold it against",
+      "meaning": {
+        "en": "to stay resentful towards someone; to count something from the past against them",
+        "tr": "birine kin gütmek; geçmişteki bir şeyi birinin aleyhine saymak",
+        "de": "jemandem gegenüber nachtragend bleiben; jemandem etwas aus der Vergangenheit anlasten"
+      },
+      "equivalent": {
+        "tr": "kin tutmak, içinde tutmak; hâlâ aleyhine saymak",
+        "de": "nachtragend sein, einen Groll hegen; jemandem etwas nachtragen"
+      },
+      "intensity": {
+        "en": "moderate–strong",
+        "tr": "orta–güçlü",
+        "de": "mittel–stark"
+      },
+      "level": 2,
+      "literal": {
+        "en": "grudge = lasting resentment; hold = keep, not let go",
+        "tr": "grudge = kin; hold = tutmak, bırakmamak"
+      },
+      "register": {
+        "en": "neutral–informal",
+        "tr": "nötr–gündelik",
+        "de": "neutral–umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "hold/bear a grudge (against sb) · hold sth against sb · \"I won't hold it against you.\"",
+        "tr": "hold/bear a grudge (against sb) · hold sth against sb · \"I won't hold it against you.\""
+      },
+      "sentences": [
+        {
+          "en": "I'm not the kind of person who [holds a grudge].",
+          "tr": "Kin tutan biri değilim.",
+          "de": "Ich bin kein nachtragender Mensch."
+        },
+        {
+          "en": "I made one mistake two years ago and she still [holds it against me].",
+          "tr": "İki yıl önce bir hata yaptım, hâlâ bana onu hatırlatıyor.",
+          "de": "Ich habe vor zwei Jahren einen Fehler gemacht, und sie trägt ihn mir immer noch nach."
+        }
+      ]
+    },
+    {
+      "id": "take-it-personally",
+      "expr": "take it personally",
+      "meaning": {
+        "en": "to perceive a general remark or behaviour as an attack on you",
+        "tr": "genel bir söz/davranışı kendine yönelik saldırı gibi algılamak",
+        "de": "eine allgemeine Bemerkung oder ein Verhalten als Angriff auf sich selbst auffassen"
+      },
+      "equivalent": {
+        "tr": "üstüne alınmak, kişisel algılamak",
+        "de": "etwas persönlich nehmen"
+      },
+      "intensity": {
+        "en": "mild–moderate",
+        "tr": "hafif–orta",
+        "de": "mild–mittel"
+      },
+      "level": 1,
+      "register": {
+        "en": "neutral",
+        "tr": "nötr",
+        "de": "neutral"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "take sth personally · \"Don't take it personally.\" · \"It's nothing personal.\" · take offence (BrE) / offense (AmE) = to be offended",
+        "tr": "take sth personally · \"Don't take it personally.\" · \"It's nothing personal.\" · take offence (BrE) / offense (AmE) = alınmak"
+      },
+      "sentences": [
+        {
+          "en": "Don't [take it personally] — he's like that with everyone.",
+          "tr": "Üstüne alınma, o herkese böyle.",
+          "de": "Nimm es nicht persönlich – er ist zu allen so."
+        },
+        {
+          "en": "I know it's just feedback, but it's hard not to [take it personally].",
+          "tr": "Sadece geri bildirim olduğunu biliyorum ama kişisel algılamamak zor.",
+          "de": "Ich weiß, es ist nur Feedback, aber es fällt schwer, es nicht persönlich zu nehmen."
+        }
+      ]
+    },
+    {
+      "id": "get-defensive",
+      "expr": "get defensive",
+      "meaning": {
+        "en": "to immediately start defending yourself when you sense criticism",
+        "tr": "eleştiri sezince hemen savunmaya geçmek",
+        "de": "sofort anfangen, sich zu verteidigen, sobald man Kritik spürt"
+      },
+      "equivalent": {
+        "tr": "savunmaya geçmek, hemen kendini savunmak",
+        "de": "in die Defensive gehen, sich sofort verteidigen"
+      },
+      "intensity": {
+        "en": "moderate",
+        "tr": "orta",
+        "de": "mittel"
+      },
+      "level": 2,
+      "register": {
+        "en": "neutral",
+        "tr": "nötr",
+        "de": "neutral"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "get/be/become defensive (about sth)",
+        "tr": "get/be/become defensive (about sth)"
+      },
+      "sentences": [
+        {
+          "en": "Every time I bring it up, he [gets defensive].",
+          "tr": "Konuyu ne zaman açsam hemen savunmaya geçiyor.",
+          "de": "Jedes Mal, wenn ich es anspreche, geht er in die Defensive."
+        },
+        {
+          "en": "I'm not attacking you — there's no need to [get so defensive].",
+          "tr": "Sana saldırmıyorum, bu kadar savunmaya geçmene gerek yok.",
+          "de": "Ich greife dich nicht an – du musst dich nicht gleich so verteidigen."
+        }
+      ]
+    },
+    {
+      "id": "overreact",
+      "expr": "overreact",
+      "meaning": {
+        "en": "to react more strongly than the situation deserves",
+        "tr": "bir şeye olması gerekenden büyük tepki vermek",
+        "de": "stärker reagieren, als die Situation es verdient"
+      },
+      "equivalent": {
+        "tr": "aşırı tepki vermek, abartmak, büyütmek",
+        "de": "überreagieren, übertreiben"
+      },
+      "intensity": {
+        "en": "moderate",
+        "tr": "orta",
+        "de": "mittel"
+      },
+      "level": 2,
+      "literal": {
+        "en": "over = more than necessary + react",
+        "tr": "over = gereğinden fazla + react"
+      },
+      "register": {
+        "en": "neutral",
+        "tr": "nötr",
+        "de": "neutral"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "overreact (to sth) · \"You're overreacting.\" (may anger the other person further) · blow sth out of proportion = to make too much of something",
+        "tr": "overreact (to sth) · \"You're overreacting.\" (karşı tarafı daha da kızdırabilir) · blow sth out of proportion = olayı gereksiz büyütmek"
+      },
+      "sentences": [
+        {
+          "en": "Okay, maybe I [overreacted] a little.",
+          "tr": "Tamam, belki biraz abarttım.",
+          "de": "Okay, vielleicht habe ich ein bisschen überreagiert."
+        },
+        {
+          "en": "I think you're [overreacting] — it was just a joke.",
+          "tr": "Bence abartıyorsun, sadece şakaydı.",
+          "de": "Ich finde, du übertreibst – es war nur ein Witz."
+        }
+      ]
+    },
+    {
+      "id": "back-off",
+      "expr": "back off",
+      "meaning": {
+        "en": "to stop pressuring someone; to stay out of it",
+        "tr": "birinin üstüne gitmeyi bırakmak; karışmamak",
+        "de": "aufhören, jemanden unter Druck zu setzen; sich heraushalten"
+      },
+      "equivalent": {
+        "tr": "üstüme gelme, geri bas, karışma",
+        "de": "Lass mich in Ruhe! Halt dich da raus!; sich zurückhalten"
+      },
+      "intensity": {
+        "en": "strong",
+        "tr": "güçlü",
+        "de": "stark"
+      },
+      "level": 3,
+      "literal": {
+        "en": "to move back, away",
+        "tr": "geriye, uzağa çekilmek"
+      },
+      "register": {
+        "en": "informal (harsh as an imperative)",
+        "tr": "gündelik (emir olarak sert)"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "back off (intransitive). Compare: back down = to give in, withdraw a claim · back sb up = to support someone.",
+        "tr": "back off (geçişsiz). Karşılaştır: back down = geri adım atmak, iddiasından vazgeçmek · back sb up = birine arka çıkmak."
+      },
+      "sentences": [
+        {
+          "en": "[Back off]! This has nothing to do with you.",
+          "tr": "Karışma! Bunun seninle hiçbir ilgisi yok.",
+          "de": "Halt dich da raus! Das geht dich nichts an."
+        },
+        {
+          "en": "I told my mom to [back off] and let me make my own decisions.",
+          "tr": "Anneme üstüme gelmemesini ve kararlarımı kendim vermeme izin vermesini söyledim.",
+          "de": "Ich habe meiner Mutter gesagt, sie soll sich zurückhalten und mich selbst entscheiden lassen."
+        }
+      ]
+    },
+    {
+      "id": "give-someone-the-silent-treatment",
+      "expr": "give someone the silent treatment",
+      "meaning": {
+        "en": "to deliberately not speak to someone in order to punish them",
+        "tr": "cezalandırmak için biriyle bilerek konuşmamak",
+        "de": "absichtlich nicht mit jemandem sprechen, um ihn zu bestrafen"
+      },
+      "equivalent": {
+        "tr": "küsmek, surat asıp konuşmamak, trip atmak",
+        "de": "jemanden mit Schweigen strafen, jemanden anschweigen"
+      },
+      "intensity": {
+        "en": "moderate",
+        "tr": "orta",
+        "de": "mittel"
+      },
+      "level": 2,
+      "literal": {
+        "en": "to give someone \"the silence treatment\"",
+        "tr": "birine \"sessizlik muamelesi\" yapmak"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "give sb the silent treatment · get the silent treatment (the one on the receiving end) · related: sulk = to be silently bad-tempered",
+        "tr": "give sb the silent treatment · get the silent treatment (maruz kalan) · ilgili: sulk = surat asmak"
+      },
+      "sentences": [
+        {
+          "en": "She's been [giving me the silent treatment] since Saturday.",
+          "tr": "Cumartesiden beri benimle konuşmuyor.",
+          "de": "Sie straft mich seit Samstag mit Schweigen."
+        },
+        {
+          "en": "Instead of [giving me the silent treatment], just tell me what's wrong.",
+          "tr": "Küsüp susacağına derdin ne, söyle.",
+          "de": "Statt mich anzuschweigen, sag mir einfach, was los ist."
+        }
+      ]
+    },
+    {
+      "id": "storm-out-storm-off",
+      "expr": "storm out / storm off",
+      "meaning": {
+        "en": "to leave a place angrily",
+        "tr": "öfkeyle bir yerden çıkıp gitmek",
+        "de": "einen Ort wütend verlassen"
+      },
+      "equivalent": {
+        "tr": "hışımla çıkıp gitmek, kapıyı çarpıp çıkmak",
+        "de": "wütend hinausstürmen, davonstürmen"
+      },
+      "intensity": {
+        "en": "strong",
+        "tr": "güçlü",
+        "de": "stark"
+      },
+      "level": 3,
+      "literal": {
+        "en": "to leave like a storm",
+        "tr": "storm = fırtına; fırtına gibi çıkmak"
+      },
+      "register": {
+        "en": "neutral",
+        "tr": "nötr",
+        "de": "neutral"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "storm out (of a place) → out of an enclosed place · storm off → away from where you are",
+        "tr": "storm out (of a place) → kapalı bir yerden dışarı · storm off → bulunduğu noktadan uzağa"
+      },
+      "sentences": [
+        {
+          "en": "He [stormed out] of the room and slammed the door.",
+          "tr": "Odadan hışımla çıkıp kapıyı çarptı.",
+          "de": "Er ist aus dem Zimmer gestürmt und hat die Tür zugeknallt."
+        },
+        {
+          "en": "She [stormed off] before I could explain.",
+          "tr": "Ben açıklayamadan öfkeyle çekip gitti.",
+          "de": "Sie ist davongestürmt, bevor ich es erklären konnte."
+        }
+      ]
+    }
+  ]
+}

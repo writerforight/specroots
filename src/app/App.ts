@@ -1,6 +1,7 @@
 import type { LexiconRepository } from '../data/LexiconRepository';
 import type { Affix, AffixIndex } from '../domain/Affix';
 import type { ListSummary, ObjectSummary } from '../domain/EverydayObject';
+import type { CategorySummary } from '../domain/Expression';
 import type { RootSummary } from '../domain/Root';
 import { I18n } from '../i18n/I18n';
 import { SearchIndex } from '../services/SearchIndex';
@@ -9,6 +10,7 @@ import { SpeechService } from '../services/SpeechService';
 import { AffixListView } from '../ui/AffixListView';
 import { BrowseModeSwitch } from '../ui/BrowseModeSwitch';
 import { h } from '../ui/dom';
+import { categoryTitle, ExpressionsSidebarView } from '../ui/ExpressionsSidebarView';
 import { ListsSidebarView } from '../ui/ListsSidebarView';
 import { RootDetailView } from '../ui/RootDetailView';
 import { RootListView } from '../ui/RootListView';
@@ -21,8 +23,8 @@ import type { ViewContext } from '../ui/ViewContext';
 
 /**
  * Wires data, settings and views together and reacts to route and setting changes.
- * Three sections share the layout: English word roots (roots, prefixes, suffixes), German word roots
- * (stehen → verstehen, from their own data folder) and object lists.
+ * Four sections share the layout: English word roots (roots, prefixes, suffixes), German word roots
+ * (stehen → verstehen, from their own data folder), object lists and everyday expressions.
  */
 export class App {
   private readonly i18n: I18n;
@@ -31,6 +33,7 @@ export class App {
   private readonly list: RootListView;
   private readonly affixList: AffixListView;
   private readonly listsSidebar: ListsSidebarView;
+  private readonly expressionsSidebar: ExpressionsSidebarView;
   private readonly modeSwitch: BrowseModeSwitch;
   /** The same three tabs on top of the roots section's start page. */
   private readonly indexModeSwitch: BrowseModeSwitch;
@@ -51,6 +54,7 @@ export class App {
   private affixes: ReadonlyMap<string, Affix> = new Map();
   private objects: ObjectSummary[] = [];
   private wordLists: ListSummary[] = [];
+  private categories: CategorySummary[] = [];
   private germanRoots: RootSummary[] = [];
   /** Loaded the first time the learner browses by prefix or suffix. */
   private affixIndex: AffixIndex | null = null;
@@ -69,6 +73,7 @@ export class App {
     this.list = new RootListView(this.i18n);
     this.affixList = new AffixListView(this.i18n);
     this.listsSidebar = new ListsSidebarView(this.i18n);
+    this.expressionsSidebar = new ExpressionsSidebarView(this.i18n);
     this.modeSwitch = new BrowseModeSwitch(this.i18n, (browseMode) => this.settings.update({ browseMode }));
     this.indexModeSwitch = new BrowseModeSwitch(this.i18n, (browseMode) => this.settings.update({ browseMode }));
     this.detail = new RootDetailView((kind) => this.settings.update({ derivationView: kind }));
@@ -117,7 +122,9 @@ export class App {
     }
     // German roots are small and found by search from the start; if they fail, the rest still works.
     this.germanRoots = (await this.german?.listRoots().catch(() => [])) ?? [];
-    this.search.setIndex(new SearchIndex(this.roots, this.affixes.values(), this.objects, this.wordLists, this.germanRoots));
+    // Like the German roots, the expressions are an extra: without them the other sections still work.
+    this.categories = await this.repository.listExpressionCategories().catch(() => []);
+    this.search.setIndex(new SearchIndex(this.roots, this.affixes.values(), this.objects, this.wordLists, this.germanRoots, this.categories));
     // No settings form on the first visit: the start screen asks one question at a time, and
     // translation languages and theme start from the browser and live in Settings.
     await this.navigate();
@@ -162,9 +169,9 @@ export class App {
     const route = this.route;
     // Mobile shows either the side list or the page; the lists start page is a side-list page.
     // "#/" is the start screen (roots or objects); mobile shows the side list on a section's start page.
-    const view = route.kind === 'deRoot' ? 'root' : route.kind;
+    const view = route.kind === 'deRoot' ? 'root' : route.kind === 'expressionCategory' ? 'list' : route.kind;
     document.body.dataset.view =
-      route.kind === 'home' ? 'start' : route.kind === 'roots' || route.kind === 'german' ? 'index' : route.kind === 'lists' ? 'home' : view;
+      route.kind === 'home' ? 'start' : route.kind === 'roots' || route.kind === 'german' ? 'index' : route.kind === 'lists' || route.kind === 'expressions' ? 'home' : view;
     try {
       await this.renderSidebar(route);
       if (token !== this.renderToken) return;
@@ -180,7 +187,12 @@ export class App {
         await this.showIndex(route.kind);
         if (token !== this.renderToken) return;
         document.title = 'specroots';
-      } else if (route.kind === 'lists') {
+      } else if (route.kind === 'expressionCategory') {
+        const category = await this.repository.getExpressionCategory(route.categoryId);
+        if (token !== this.renderToken) return;
+        this.detail.showExpressions(category, this.context(), route.expressionId);
+        document.title = `${categoryTitle(category, this.i18n.language)} · specroots`;
+      } else if (route.kind === 'lists' || route.kind === 'expressions') {
         this.detail.showEmpty(this.context());
         document.title = 'specroots';
       } else if (route.kind === 'root') {
@@ -238,6 +250,16 @@ export class App {
         this.listsSidebar.renderLists(this.wordLists, null);
       }
       this.sidebar.replaceChildren(this.listsSidebar.el);
+      return;
+    }
+    if (section === 'expressions') {
+      this.sidebar.setAttribute('aria-label', this.i18n.t('section_expressions'));
+      if (route.kind === 'expressionCategory') {
+        this.expressionsSidebar.renderCategory(await this.repository.getExpressionCategory(route.categoryId), translationLangs[0], route.expressionId);
+      } else {
+        this.expressionsSidebar.renderCategories(this.categories);
+      }
+      this.sidebar.replaceChildren(this.expressionsSidebar.el);
       return;
     }
     if (section === 'german') {

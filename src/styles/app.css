@@ -402,3 +402,20 @@ body[data-view='index'] .root-list { display: none; }
   .index-controls .browse-switch { flex: 1 1 100%; }
   .start-screen { padding-top: 6vh; }
 }
+
+/* ---------- everyday expressions ---------- */
+.expr-card { scroll-margin-top: 72px; }
+.expr-card .word-title { font-size: 1.25rem; }
+.expr-tag { padding: 1px 9px; border: 1px solid var(--border); border-radius: 999px; font-size: 0.72rem; color: var(--text-muted); white-space: nowrap; }
+.expr-level-3, .expr-level-4 { border-color: var(--accent); color: var(--accent); }
+.expr-level-4 { background: var(--accent-soft); font-weight: 600; }
+.expr-meaning { margin: 6px 0 2px; font-family: var(--font-text); }
+.expr-card .glosses dd b { font-weight: 600; }
+.expr-explained { display: block; font-size: 0.85rem; color: var(--text-muted); }
+.expr-details { display: grid; grid-template-columns: minmax(90px, auto) 1fr; gap: 6px 14px; margin: 10px 0 0; font-size: 0.9rem; }
+.expr-details dt { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-muted); padding-top: 3px; }
+.expr-details dd { margin: 0; }
+@media (max-width: 760px) {
+  .expr-details { grid-template-columns: minmax(0, 1fr); gap: 0; }
+  .expr-details dd { margin-bottom: 8px; }
+}

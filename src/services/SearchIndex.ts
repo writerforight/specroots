@@ -1,5 +1,6 @@
 import type { Affix } from '../domain/Affix';
 import { stripArticle, type ListSummary, type ObjectSummary } from '../domain/EverydayObject';
+import type { CategorySummary } from '../domain/Expression';
 import { LANGUAGES } from '../domain/Language';
 import type { RootSummary } from '../domain/Root';
 
@@ -17,11 +18,14 @@ export interface SearchHit {
   readonly matched?: string;
   /** Set when the hit is a word list, found by its title in any language ("mutfak"). */
   readonly listId?: string;
+  /** Set when the hit is a category of everyday expressions, or (with expressionId) one expression in it. */
+  readonly categoryId?: string;
+  readonly expressionId?: string;
   /** Set when the root or word is German (stehen, verstehen) rather than English. */
   readonly german?: boolean;
 }
 
-type Scope = 'roots' | 'lists' | 'german';
+type Scope = 'roots' | 'lists' | 'german' | 'expressions';
 
 interface Entry extends SearchHit {
   readonly key: string;
@@ -38,6 +42,7 @@ export class SearchIndex {
     objects: readonly ObjectSummary[] = [],
     lists: readonly ListSummary[] = [],
     germanRoots: readonly RootSummary[] = [],
+    categories: readonly CategorySummary[] = [],
   ) {
     const rootEntries = (summaries: readonly RootSummary[], scope: Scope) =>
       summaries.flatMap((root) => [
@@ -67,13 +72,23 @@ export class SearchIndex {
           scope: 'lists' as const,
         })),
       ),
+      // Expressions are found by any word in them ("nerves" finds "get on someone's nerves"); a
+      // category by its title in any language ("öfke", "Ärger").
+      ...categories.flatMap((category) => {
+        const base = { rootId: null, wordId: null, affix: null, categoryId: category.id, scope: 'expressions' as const };
+        const titles = [...new Set(LANGUAGES.map((l) => category.title[l]).filter((t): t is string => t !== undefined))];
+        return [
+          ...category.expressions.map((e) => ({ ...base, key: SearchIndex.normalize(e.expr), label: e.expr, expressionId: e.id })),
+          ...titles.map((title) => ({ ...base, key: SearchIndex.normalize(title), label: category.title.en ?? category.id, matched: title })),
+        ];
+      }),
     ];
     this.entries = tagged;
   }
 
   /**
    * scope "roots" finds only English roots, words and affixes; "german" only German roots and words;
-   * "lists" only objects and lists; omitted finds everything.
+   * "lists" only objects and lists; "expressions" only expressions and their categories; omitted finds everything.
    */
   search(query: string, limit = 8, scope?: Scope): SearchHit[] {
     const q = SearchIndex.normalize(query);
@@ -86,7 +101,7 @@ export class SearchIndex {
     const seen = new Set<string>();
     return [...starts.sort(byLength), ...contains.sort(byLength)]
       .filter((e) => {
-        const id = e.objectId ?? (e.listId ? `list:${e.listId}` : null);
+        const id = e.objectId ?? (e.listId ? `list:${e.listId}` : e.categoryId && !e.expressionId ? `category:${e.categoryId}` : null);
         return !id || (!seen.has(id) && Boolean(seen.add(id)));
       })
       .slice(0, limit)

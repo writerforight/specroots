@@ -1,0 +1,565 @@
+{
+  "id": "affection",
+  "addedBy": "writerforight",
+  "title": {
+    "en": "Affection, attraction and emotional attachment",
+    "tr": "Sevgi, çekim ve bağlılık",
+    "de": "Zuneigung, Anziehung und Bindung",
+    "fr": "Affection, attirance et attachement",
+    "it": "Affetto, attrazione e attaccamento",
+    "es": "Cariño, atracción y apego"
+  },
+  "expressions": [
+    {
+      "id": "have-a-crush-on",
+      "expr": "have a crush on",
+      "meaning": {
+        "en": "to be attracted to someone (often from a distance, without saying so)",
+        "tr": "birinden (çoğu zaman uzaktan, açılmadan) hoşlanmak",
+        "de": "sich zu jemandem hingezogen fühlen (oft aus der Ferne, ohne es zu sagen)"
+      },
+      "equivalent": {
+        "tr": "birinden hoşlanmak, birine tutulmak, platonik olmak",
+        "de": "in jemanden verknallt sein, für jemanden schwärmen"
+      },
+      "intensity": {
+        "en": "mild–moderate",
+        "tr": "hafif–orta",
+        "de": "mild–mittel"
+      },
+      "level": 1,
+      "literal": {
+        "en": "crush = to squash; an overpowering feeling",
+        "tr": "crush = ezmek; ezici bir his"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "have a (huge/little) crush on sb · my crush (the person I like)",
+        "tr": "have a (huge/little) crush on sb · my crush (hoşlandığım kişi)"
+      },
+      "sentences": [
+        {
+          "en": "I had a huge [crush on] him in high school.",
+          "tr": "Lisedeyken ona fena tutulmuştum.",
+          "de": "In der Schule war ich total in ihn verknallt."
+        },
+        {
+          "en": "I think she's got a [crush on] you.",
+          "tr": "Bence senden hoşlanıyor.",
+          "de": "Ich glaube, sie ist in dich verknallt."
+        }
+      ]
+    },
+    {
+      "id": "be-into-someone-fancy",
+      "expr": "be into (someone) / fancy",
+      "meaning": {
+        "en": "to be attracted to or interested in someone",
+        "tr": "birinden hoşlanmak, ilgi duymak",
+        "de": "sich zu jemandem hingezogen fühlen oder an jemandem interessiert sein"
+      },
+      "equivalent": {
+        "tr": "hoşlanmak, ilgi duymak, kesmek",
+        "de": "auf jemanden stehen"
+      },
+      "intensity": {
+        "en": "moderate",
+        "tr": "orta",
+        "de": "mittel"
+      },
+      "level": 2,
+      "literal": {
+        "en": "to be \"into\" someone (direction of interest)",
+        "tr": "birinin \"içine doğru\" olmak (ilgi yönü)"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "be into: AmE + BrE · fancy sb: BrE",
+        "tr": "be into: AmE + BrE · fancy sb: BrE"
+      },
+      "usage": {
+        "en": "be (really/so) into sb/sth — also for hobbies: \"I'm into climbing.\" · \"He's just not that into you.\" · BrE: fancy sb; also \"Do you fancy a drink?\" = would you like one?",
+        "tr": "be (really/so) into sb/sth — hobiler için de: \"I'm into climbing.\" · \"He's just not that into you.\" · BrE: fancy sb; ayrıca \"Do you fancy a drink?\" = canın ister mi?"
+      },
+      "sentences": [
+        {
+          "en": "I'm pretty sure he's [into you] — he keeps finding excuses to talk to you.",
+          "tr": "Bence senden hoşlanıyor, seninle konuşmak için sürekli bahane buluyor.",
+          "de": "Ich bin ziemlich sicher, dass er auf dich steht – er sucht ständig Vorwände, mit dir zu reden."
+        },
+        {
+          "en": "Do you [fancy] him or not?",
+          "tr": "Ondan hoşlanıyor musun, hoşlanmıyor musun?",
+          "de": "Stehst du nun auf ihn oder nicht?"
+        }
+      ]
+    },
+    {
+      "id": "fall-for",
+      "expr": "fall for",
+      "meaning": {
+        "en": "(1) to fall in love with someone (2) to be taken in by a lie or trick",
+        "tr": "(1) birine âşık olmak (2) bir yalana/numaraya kanmak",
+        "de": "(1) sich in jemanden verlieben (2) auf eine Lüge oder einen Trick hereinfallen"
+      },
+      "equivalent": {
+        "tr": "âşık olmak, tutulmak; kanmak, yemek",
+        "de": "sich in jemanden verlieben; auf etwas hereinfallen"
+      },
+      "intensity": {
+        "en": "strong",
+        "tr": "güçlü",
+        "de": "stark"
+      },
+      "level": 3,
+      "literal": {
+        "en": "to fall for someone",
+        "tr": "birisi için düşmek"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "fall for sb (inseparable) · fall in love with sb · fall out of love · fall for a trick/lie/it",
+        "tr": "fall for sb (ayrılmaz) · fall in love with sb · fall out of love · fall for a trick/lie/it"
+      },
+      "sentences": [
+        {
+          "en": "I [fell for] her the first time we talked.",
+          "tr": "İlk konuştuğumuzda ona tutuldum.",
+          "de": "Ich habe mich schon beim ersten Gespräch in sie verliebt."
+        },
+        {
+          "en": "I can't believe I [fell for] that excuse.",
+          "tr": "O bahaneyi yediğime inanamıyorum.",
+          "de": "Ich kann nicht glauben, dass ich auf diese Ausrede hereingefallen bin."
+        }
+      ]
+    },
+    {
+      "id": "be-head-over-heels",
+      "expr": "be head over heels",
+      "meaning": {
+        "en": "to be madly in love",
+        "tr": "sırılsıklam âşık olmak",
+        "de": "wahnsinnig verliebt sein"
+      },
+      "equivalent": {
+        "tr": "sırılsıklam âşık olmak, abayı yakmak",
+        "de": "Hals über Kopf verliebt sein, bis über beide Ohren verliebt sein"
+      },
+      "intensity": {
+        "en": "extreme",
+        "tr": "aşırı",
+        "de": "extrem"
+      },
+      "level": 4,
+      "literal": {
+        "en": "head above heels (having done a somersault)",
+        "tr": "baş topukların üstünde (takla atmış)"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "be/fall head over heels (in love) (with sb) · head over heels for sb",
+        "tr": "be/fall head over heels (in love) (with sb) · head over heels for sb"
+      },
+      "sentences": [
+        {
+          "en": "He's [head over heels] for her.",
+          "tr": "Ona sırılsıklam âşık.",
+          "de": "Er ist bis über beide Ohren in sie verliebt."
+        },
+        {
+          "en": "They fell [head over heels] in love within a month.",
+          "tr": "Bir ay içinde birbirlerine sırılsıklam âşık oldular.",
+          "de": "Sie haben sich innerhalb eines Monats Hals über Kopf verliebt."
+        }
+      ]
+    },
+    {
+      "id": "be-crazy-about-mad-about",
+      "expr": "be crazy about / mad about",
+      "meaning": {
+        "en": "to adore someone or something",
+        "tr": "birine ya da bir şeye bayılmak",
+        "de": "jemanden oder etwas über alles mögen"
+      },
+      "equivalent": {
+        "tr": "bayılmak, deli olmak, çok sevmek",
+        "de": "verrückt nach jemandem sein, auf etwas total stehen"
+      },
+      "intensity": {
+        "en": "strong",
+        "tr": "güçlü",
+        "de": "stark"
+      },
+      "level": 3,
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "crazy about: AmE + BrE · mad about: BrE",
+        "tr": "crazy about: AmE + BrE · mad about: BrE"
+      },
+      "usage": {
+        "en": "be crazy/mad about sb/sth. The negative is a polite way to show dislike: \"I'm not crazy about it.\" = I don't love it.",
+        "tr": "be crazy/mad about sb/sth. Olumsuzu kibar bir hoşnutsuzluk: \"I'm not crazy about it.\" = pek bayılmıyorum."
+      },
+      "sentences": [
+        {
+          "en": "She's [crazy about] him.",
+          "tr": "Ona deli oluyor.",
+          "de": "Sie ist verrückt nach ihm."
+        },
+        {
+          "en": "I'm not [crazy about] the idea, to be honest.",
+          "tr": "Açıkçası bu fikre pek bayılmadım.",
+          "de": "Ehrlich gesagt bin ich von der Idee nicht gerade begeistert."
+        }
+      ]
+    },
+    {
+      "id": "have-feelings-for",
+      "expr": "have feelings for",
+      "meaning": {
+        "en": "to have romantic feelings towards someone",
+        "tr": "birine karşı romantik duygular beslemek",
+        "de": "romantische Gefühle für jemanden haben"
+      },
+      "equivalent": {
+        "tr": "birine karşı bir şeyler hissetmek",
+        "de": "Gefühle für jemanden haben"
+      },
+      "intensity": {
+        "en": "moderate–strong",
+        "tr": "orta–güçlü",
+        "de": "mittel–stark"
+      },
+      "level": 2,
+      "register": {
+        "en": "neutral",
+        "tr": "nötr",
+        "de": "neutral"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "have (strong/real) feelings for sb · still have feelings for · catch feelings (slang: to develop feelings unexpectedly)",
+        "tr": "have (strong/real) feelings for sb · still have feelings for · catch feelings (argo: beklenmedik biçimde hislenmek)"
+      },
+      "sentences": [
+        {
+          "en": "I think I still [have feelings for] my ex.",
+          "tr": "Galiba eski sevgilime karşı hâlâ bir şeyler hissediyorum.",
+          "de": "Ich glaube, ich habe immer noch Gefühle für meinen Ex."
+        },
+        {
+          "en": "I didn't realise I [had feelings for] him until he started dating someone else.",
+          "tr": "Başkasıyla çıkmaya başlayana kadar ona karşı bir şeyler hissettiğimi fark etmemiştim.",
+          "de": "Ich habe erst gemerkt, dass ich Gefühle für ihn habe, als er mit einer anderen zusammenkam."
+        }
+      ]
+    },
+    {
+      "id": "be-fond-of",
+      "expr": "be fond of",
+      "meaning": {
+        "en": "to feel warm affection for someone or something (not necessarily romantic)",
+        "tr": "birine/bir şeye sıcak bir sevgi duymak (romantik olmak zorunda değil)",
+        "de": "warme Zuneigung für jemanden oder etwas empfinden (nicht unbedingt romantisch)"
+      },
+      "equivalent": {
+        "tr": "sevmek, düşkün olmak, hoşlanmak",
+        "de": "jemanden gernhaben, jemanden mögen, an etwas hängen"
+      },
+      "intensity": {
+        "en": "mild–moderate",
+        "tr": "hafif–orta",
+        "de": "mild–mittel"
+      },
+      "level": 1,
+      "register": {
+        "en": "neutral (a little soft; more common in BrE)",
+        "tr": "nötr (biraz yumuşak, BrE'de daha sık)"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "be (very/quite) fond of sb/sth/V-ing · grow fond of",
+        "tr": "be (very/quite) fond of sb/sth/V-ing · grow fond of"
+      },
+      "sentences": [
+        {
+          "en": "I'm really [fond of] your sister — she's so easy to talk to.",
+          "tr": "Kız kardeşini çok severim, onunla konuşmak çok kolay.",
+          "de": "Ich mag deine Schwester wirklich gern – mit ihr kann man so gut reden."
+        },
+        {
+          "en": "I've grown quite [fond of] this place.",
+          "tr": "Burayı epey sevmeye başladım.",
+          "de": "Dieser Ort ist mir richtig ans Herz gewachsen."
+        }
+      ]
+    },
+    {
+      "id": "care-about",
+      "expr": "care about",
+      "meaning": {
+        "en": "to consider someone or something important; to value them",
+        "tr": "birini/bir şeyi önemsemek, değer vermek",
+        "de": "jemanden oder etwas wichtig finden; Wert auf ihn legen"
+      },
+      "equivalent": {
+        "tr": "değer vermek, önemsemek, umursamak",
+        "de": "jemandem wichtig sein, jemandem liegt etwas an jemandem"
+      },
+      "intensity": {
+        "en": "moderate–strong",
+        "tr": "orta–güçlü",
+        "de": "mittel–stark"
+      },
+      "level": 2,
+      "register": {
+        "en": "neutral",
+        "tr": "nötr",
+        "de": "neutral"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "care about sb/sth = to value · care for sb = to look after (or formal/old-fashioned: to love) · take care of = to look after, to deal with",
+        "tr": "care about sb/sth = önemsemek · care for sb = bakmak, bakımını üstlenmek (ya da resmî/eski: sevmek) · take care of = ilgilenmek, halletmek"
+      },
+      "sentences": [
+        {
+          "en": "I [care about] you — that's why I'm telling you this.",
+          "tr": "Sana değer veriyorum, bunu o yüzden söylüyorum.",
+          "de": "Du bist mir wichtig – deshalb sage ich dir das."
+        },
+        {
+          "en": "He acts tough, but he really [cares about] his friends.",
+          "tr": "Sert görünür ama arkadaşlarına gerçekten değer verir.",
+          "de": "Er tut hart, aber seine Freunde liegen ihm wirklich am Herzen."
+        }
+      ]
+    },
+    {
+      "id": "get-attached-to",
+      "expr": "get attached (to)",
+      "meaning": {
+        "en": "to become emotionally bound to someone or something",
+        "tr": "birine/bir şeye duygusal olarak bağlanmak",
+        "de": "eine gefühlsmäßige Bindung zu jemandem oder etwas aufbauen"
+      },
+      "equivalent": {
+        "tr": "bağlanmak, alışmak",
+        "de": "an jemandem hängen, sich an jemanden binden, jemanden ins Herz schließen"
+      },
+      "intensity": {
+        "en": "moderate",
+        "tr": "orta",
+        "de": "mittel"
+      },
+      "level": 2,
+      "literal": {
+        "en": "to be fastened to",
+        "tr": "tutturulmuş, iliştirilmiş olmak"
+      },
+      "register": {
+        "en": "neutral–informal",
+        "tr": "nötr–gündelik",
+        "de": "neutral–umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "get/be/become (emotionally) attached to sb/sth · attachment (noun)",
+        "tr": "get/be/become (emotionally) attached to sb/sth · attachment (isim)"
+      },
+      "sentences": [
+        {
+          "en": "Don't [get too attached] — we're only fostering the dog for two weeks.",
+          "tr": "Fazla bağlanma, köpeğe sadece iki hafta bakacağız.",
+          "de": "Häng dein Herz nicht zu sehr an ihn – wir haben den Hund nur zwei Wochen in Pflege."
+        },
+        {
+          "en": "I [get attached to] people way too fast.",
+          "tr": "İnsanlara çok çabuk bağlanıyorum.",
+          "de": "Ich hänge viel zu schnell an Menschen."
+        }
+      ]
+    },
+    {
+      "id": "hit-it-off",
+      "expr": "hit it off",
+      "meaning": {
+        "en": "to get on very well from the first meeting",
+        "tr": "tanışır tanışmaz çok iyi anlaşmak",
+        "de": "sich vom ersten Treffen an sehr gut verstehen"
+      },
+      "equivalent": {
+        "tr": "hemen kaynaşmak, elektrik almak, kanı kaynamak",
+        "de": "sich auf Anhieb verstehen, auf einer Wellenlänge sein"
+      },
+      "intensity": {
+        "en": "moderate",
+        "tr": "orta",
+        "de": "mittel"
+      },
+      "level": 2,
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "hit it off (with sb) — \"it\" is fixed; usually past tense. For friendship as well as romance.",
+        "tr": "hit it off (with sb) — \"it\" sabit; genellikle geçmiş zaman. Arkadaşlık için de romantik için de."
+      },
+      "sentences": [
+        {
+          "en": "We [hit it off] right away — we talked for like four hours.",
+          "tr": "Hemen kaynaştık, dört saat falan konuştuk.",
+          "de": "Wir haben uns auf Anhieb verstanden – wir haben bestimmt vier Stunden geredet."
+        },
+        {
+          "en": "I didn't really [hit it off] with his friends.",
+          "tr": "Arkadaşlarıyla pek kaynaşamadım.",
+          "de": "Mit seinen Freunden bin ich nicht so richtig warm geworden."
+        }
+      ]
+    },
+    {
+      "id": "get-along-with-get-on-with",
+      "expr": "get along with / get on with",
+      "meaning": {
+        "en": "to have a friendly relationship with someone",
+        "tr": "biriyle iyi geçinmek",
+        "de": "ein freundschaftliches Verhältnis zu jemandem haben"
+      },
+      "equivalent": {
+        "tr": "iyi geçinmek, anlaşmak",
+        "de": "sich mit jemandem gut verstehen, mit jemandem auskommen"
+      },
+      "intensity": {
+        "en": "mild",
+        "tr": "hafif",
+        "de": "mild"
+      },
+      "level": 1,
+      "register": {
+        "en": "neutral–informal",
+        "tr": "nötr–gündelik",
+        "de": "neutral–umgangssprachlich"
+      },
+      "variety": {
+        "en": "get along (with): AmE + BrE · get on (with): BrE",
+        "tr": "get along (with): AmE + BrE · get on (with): BrE"
+      },
+      "usage": {
+        "en": "get along/on (well) with sb · \"We get along.\" (mutual) · get along great / don't get along",
+        "tr": "get along/on (well) with sb · \"We get along.\" (karşılıklı) · get along great / don't get along"
+      },
+      "sentences": [
+        {
+          "en": "I [get along really well with] my roommates.",
+          "tr": "Ev arkadaşlarımla çok iyi anlaşıyorum.",
+          "de": "Ich verstehe mich richtig gut mit meinen Mitbewohnern."
+        },
+        {
+          "en": "She doesn't [get on with] her mother-in-law.",
+          "tr": "Kayınvalidesiyle geçinemiyor.",
+          "de": "Sie kommt mit ihrer Schwiegermutter nicht aus."
+        }
+      ]
+    },
+    {
+      "id": "grow-on-someone",
+      "expr": "grow on someone",
+      "meaning": {
+        "en": "of something you didn't like at first: to gradually become appealing",
+        "tr": "başta sevilmeyen bir şeyin zamanla hoşa gitmeye başlaması",
+        "de": "von etwas, das man anfangs nicht mochte: einem nach und nach gefallen"
+      },
+      "equivalent": {
+        "tr": "zamanla sevilmek, alıştıkça hoşuna gitmek",
+        "de": "jemandem mit der Zeit gefallen, jemandem ans Herz wachsen"
+      },
+      "intensity": {
+        "en": "mild",
+        "tr": "hafif",
+        "de": "mild"
+      },
+      "level": 1,
+      "literal": {
+        "en": "to grow on someone (slowly, like moss)",
+        "tr": "birinin üzerinde büyümek (yosun gibi yavaş yavaş)"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "Subject = the thing/person being liked: \"It's growing on me.\" ✗ I'm growing on it.",
+        "tr": "Özne = sevilen şey/kişi: \"It's growing on me.\" ✗ I'm growing on it."
+      },
+      "sentences": [
+        {
+          "en": "I didn't like the song at first, but it's [growing on me].",
+          "tr": "Şarkıyı başta sevmemiştim ama dinledikçe sarıyor.",
+          "de": "Am Anfang mochte ich das Lied nicht, aber es gefällt mir immer besser."
+        },
+        {
+          "en": "He's a bit weird, but he [grows on you].",
+          "tr": "Biraz tuhaf ama zamanla seviyorsun.",
+          "de": "Er ist ein bisschen seltsam, aber mit der Zeit mag man ihn."
+        }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,7 @@
 import { Affix, type AffixIndex, type AffixKind, type AffixOccurrence } from '../domain/Affix';
 import { Contributor } from '../domain/Contributor';
 import { BREAKDOWN_LANGS, EverydayObject, stripArticle, type CommonsImage, type ListSummary, type NamePart, type ObjectSummary, type WordList } from '../domain/EverydayObject';
+import { Expression, EXPRESSION_DETAILS, type CategorySummary, type ExpressionCategory, type ExpressionDetail, type IntensityLevel } from '../domain/Expression';
 import { isLang, TRANSLATION_LANGUAGES, type Localized, type SourceLang, type TranslationLang } from '../domain/Language';
 import { Morpheme } from '../domain/Morpheme';
 import { Root, type Origin, type RootSummary } from '../domain/Root';
@@ -129,6 +130,7 @@ export class LexiconParser {
         count(obj.objects, 'objects'),
         roots,
         lists,
+        obj.expressions === undefined ? 0 : count(obj.expressions, 'expressions'),
       );
     });
   }
@@ -153,6 +155,55 @@ export class LexiconParser {
       seen.add(objectId);
     }
     return { id, title: this.localized(obj.title, `${where} › title`), count: objectIds.length, objectIds };
+  }
+
+  parseExpressionIndex(raw: unknown): CategorySummary[] {
+    return this.array(raw, 'expressions-index.json').map((value, i) => {
+      const where = `expressions-index.json[${i}]`;
+      const obj = this.object(value, where);
+      return {
+        id: this.string(obj.id, `${where} › id`),
+        title: this.localized(obj.title, `${where} › title`),
+        expressions: this.array(obj.expressions, `${where} › expressions`).map((e, j) => {
+          const entry = this.object(e, `${where} › expressions[${j}]`);
+          return { id: this.string(entry.id, `${where} › expressions[${j}] › id`), expr: this.string(entry.expr, `${where} › expressions[${j}] › expr`) };
+        }),
+      };
+    });
+  }
+
+  /** One category file: its title and its expressions, each with at least one marked example. */
+  parseExpressionCategory(raw: unknown): ExpressionCategory {
+    const obj = this.object(raw, 'category');
+    const id = this.string(obj.id, 'category › id');
+    const where = `expressions/${id}.json`;
+    const seen = new Set<string>();
+    const expressions = this.array(obj.expressions, `${where} › expressions`).map((value, i) => {
+      const entry = this.object(value, `${where} › expressions[${i}]`);
+      const eid = this.string(entry.id, `${where} › expressions[${i}] › id`);
+      const here = `${where} (${eid})`;
+      if (!/^[a-z0-9]+(-[a-z0-9]+)*$/.test(eid)) throw new LexiconError(here, 'id must be lower-case words joined by dashes');
+      if (seen.has(eid)) throw new LexiconError(here, 'appears twice');
+      seen.add(eid);
+      const details: Partial<Record<ExpressionDetail, Localized>> = {};
+      for (const kind of EXPRESSION_DETAILS) if (entry[kind] !== undefined) details[kind] = this.localized(entry[kind], `${here} › ${kind}`);
+      const level = entry.level === undefined ? null : entry.level;
+      if (level !== null && ![1, 2, 3, 4].includes(level as number)) throw new LexiconError(here, '"level" must be 1, 2, 3 or 4');
+      const sentences = this.sentences(entry.sentences, here);
+      if (sentences.length === 0) throw new LexiconError(`${here} › sentences`, 'must not be empty');
+      return new Expression(
+        eid,
+        this.string(entry.expr, `${here} › expr`),
+        this.localized(entry.meaning, `${here} › meaning`),
+        this.localized(entry.equivalent, `${here} › equivalent`),
+        entry.intensity === undefined ? null : this.localized(entry.intensity, `${here} › intensity`),
+        level as IntensityLevel | null,
+        details,
+        sentences,
+      );
+    });
+    if (expressions.length === 0) throw new LexiconError(`${where} › expressions`, 'must not be empty');
+    return { id, title: this.localized(obj.title, `${where} › title`), expressions };
   }
 
   parseObjectIndex(raw: unknown): ObjectSummary[] {

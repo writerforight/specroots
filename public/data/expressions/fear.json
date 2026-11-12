@@ -1,0 +1,488 @@
+{
+  "id": "fear",
+  "addedBy": "writerforight",
+  "title": {
+    "en": "Fear, panic and insecurity",
+    "tr": "Korku, panik ve güvensizlik",
+    "de": "Furcht, Panik und Unsicherheit",
+    "fr": "Peur, panique et insécurité",
+    "it": "Paura, panico e insicurezza",
+    "es": "Miedo, pánico e inseguridad"
+  },
+  "expressions": [
+    {
+      "id": "be-scared-of-scared-to-death",
+      "expr": "be scared (of) / scared to death",
+      "meaning": {
+        "en": "to be afraid / to be extremely frightened",
+        "tr": "korkmak / ödü kopmak",
+        "de": "Angst haben / sich fürchterlich erschrecken"
+      },
+      "equivalent": {
+        "tr": "korkmak; ödü kopmak, korkudan ölmek",
+        "de": "Angst haben; Todesangst haben, sich zu Tode erschrecken"
+      },
+      "intensity": {
+        "en": "moderate (scared) · extreme (scared to death / scared stiff)",
+        "tr": "orta (scared) · aşırı (scared to death / scared stiff)"
+      },
+      "level": 2,
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "scared of + noun/V-ing · scared to + verb · scared (that) + clause · scary = frightening. \"afraid\" is more neutral/formal and cannot stand before a noun (✗ an afraid child → a scared child). \"I'm afraid…\" = \"unfortunately…\".",
+        "tr": "scared of + isim/V-ing · scared to + fiil · scared (that) + cümle · scary = korkutucu. \"afraid\" daha nötr/resmîdir ve isimden önce gelmez (✗ an afraid child → a scared child). \"I'm afraid…\" = \"maalesef…\"."
+      },
+      "sentences": [
+        {
+          "en": "I'm [scared of] messing this up.",
+          "tr": "Bunu batırmaktan korkuyorum.",
+          "de": "Ich habe Angst, das zu vermasseln."
+        },
+        {
+          "en": "I was [scared to death] when the car started skidding.",
+          "tr": "Araba kaymaya başlayınca ödüm koptu.",
+          "de": "Ich hatte Todesangst, als das Auto ins Schleudern kam."
+        }
+      ]
+    },
+    {
+      "id": "be-terrified-petrified",
+      "expr": "be terrified / petrified",
+      "meaning": {
+        "en": "to be filled with terror; to freeze with fear",
+        "tr": "dehşete kapılmak; korkudan donup kalmak",
+        "de": "von panischer Angst erfüllt sein; vor Angst erstarren"
+      },
+      "equivalent": {
+        "tr": "dehşete düşmek, ödü patlamak, korkudan taş kesilmek",
+        "de": "panische Angst haben, vor Angst wie gelähmt sein"
+      },
+      "intensity": {
+        "en": "extreme",
+        "tr": "aşırı",
+        "de": "extrem"
+      },
+      "level": 4,
+      "literal": {
+        "en": "petrified = turned to stone",
+        "tr": "petrified = taş kesilmiş"
+      },
+      "register": {
+        "en": "neutral",
+        "tr": "nötr",
+        "de": "neutral"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "terrified/petrified of sth/V-ing · terrified (that) … · terrifying. Intensified with absolutely.",
+        "tr": "terrified/petrified of sth/V-ing · terrified (that) … · terrifying = dehşet verici. absolutely ile güçlendirilir."
+      },
+      "sentences": [
+        {
+          "en": "I'm [terrified of] flying.",
+          "tr": "Uçmaktan ödüm kopuyor.",
+          "de": "Ich habe panische Angst vorm Fliegen."
+        },
+        {
+          "en": "I was absolutely [petrified] — I couldn't even move.",
+          "tr": "Korkudan taş kesildim, kıpırdayamadım bile.",
+          "de": "Ich war wie gelähmt vor Angst – ich konnte mich nicht einmal bewegen."
+        }
+      ]
+    },
+    {
+      "id": "freak-out",
+      "expr": "freak out",
+      "meaning": {
+        "en": "to lose control and overreact (from fear, panic, anger or shock)",
+        "tr": "(korku, panik, öfke ya da şaşkınlıkla) kontrolünü kaybedip aşırı tepki vermek",
+        "de": "die Kontrolle verlieren und überreagieren (vor Angst, Panik, Wut oder Schock)"
+      },
+      "equivalent": {
+        "tr": "paniklemek, kafayı yemek, çıldırmak, dehşete düşmek",
+        "de": "ausflippen, durchdrehen, Panik kriegen"
+      },
+      "intensity": {
+        "en": "strong",
+        "tr": "güçlü",
+        "de": "stark"
+      },
+      "level": 3,
+      "literal": {
+        "en": "freak = something abnormal; out = out of control",
+        "tr": "freak = ucube, anormal şey; out = kontrolün dışına"
+      },
+      "register": {
+        "en": "slang–informal",
+        "tr": "argo–gündelik",
+        "de": "Slang–umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "freak out (about/over sth) → intransitive, the one reacting. freak sb out → transitive, the one who scares/unsettles. be freaked out (by sth) → state. make sb freak out → to cause someone to react.",
+        "tr": "freak out (about/over sth) → geçişsiz, tepkiyi veren. freak sb out → geçişli, tedirgin eden/korkutan. be freaked out (by sth) → hâl. make sb freak out → birinin tepki vermesine yol açmak."
+      },
+      "collocations": {
+        "en": "totally freak out · Don't freak out, but… · freaking out about",
+        "tr": "totally freak out · Don't freak out, but… · freaking out about"
+      },
+      "sentences": [
+        {
+          "en": "I [freaked out] when I couldn't find my passport.",
+          "tr": "Pasaportumu bulamayınca panikledim.",
+          "de": "Ich bin durchgedreht, als ich meinen Pass nicht finden konnte."
+        },
+        {
+          "en": "Don't [freak out], but I kind of scratched your car.",
+          "tr": "Sakin ol ama arabanı biraz çizdim galiba.",
+          "de": "Flipp nicht aus, aber ich habe dein Auto ein bisschen zerkratzt."
+        },
+        {
+          "en": "That guy on the bus was really [freaking me out].",
+          "tr": "Otobüsteki o adam beni cidden tedirgin ediyordu.",
+          "de": "Der Typ im Bus war mir richtig unheimlich."
+        }
+      ]
+    },
+    {
+      "id": "panic-have-a-panic-attack",
+      "expr": "panic / have a panic attack",
+      "meaning": {
+        "en": "to be seized by panic / to have a panic attack",
+        "tr": "paniğe kapılmak / panik atak geçirmek",
+        "de": "in Panik geraten / eine Panikattacke haben"
+      },
+      "equivalent": {
+        "tr": "paniklemek, paniğe kapılmak",
+        "de": "in Panik geraten; eine Panikattacke haben"
+      },
+      "intensity": {
+        "en": "strong",
+        "tr": "güçlü",
+        "de": "stark"
+      },
+      "level": 3,
+      "register": {
+        "en": "neutral",
+        "tr": "nötr",
+        "de": "neutral"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "panic (about/over sth) — spelling: panicked, panicking · Don't panic. · in a panic · have a panic attack (medical; also as everyday exaggeration)",
+        "tr": "panic (about/over sth) — yazım: panicked, panicking · Don't panic. · in a panic · have a panic attack (tıbbi; gündelik dilde abartı olarak da)"
+      },
+      "sentences": [
+        {
+          "en": "I [panicked] and said yes without thinking.",
+          "tr": "Paniğe kapılıp düşünmeden evet dedim.",
+          "de": "Ich bin in Panik geraten und habe ohne nachzudenken Ja gesagt."
+        },
+        {
+          "en": "I [had a panic attack] on the train this morning.",
+          "tr": "Bu sabah trende panik atak geçirdim.",
+          "de": "Ich hatte heute Morgen im Zug eine Panikattacke."
+        }
+      ]
+    },
+    {
+      "id": "chicken-out",
+      "expr": "chicken out",
+      "meaning": {
+        "en": "to get scared and back out at the last moment",
+        "tr": "korkup son anda vazgeçmek",
+        "de": "Angst bekommen und im letzten Moment zurückziehen"
+      },
+      "equivalent": {
+        "tr": "tırsmak, son anda cayıp kaçmak, yemedi",
+        "de": "kneifen, einen Rückzieher machen"
+      },
+      "intensity": {
+        "en": "mild–moderate",
+        "tr": "hafif–orta",
+        "de": "mild–mittel"
+      },
+      "level": 1,
+      "literal": {
+        "en": "chicken = a coward; out = out of the thing",
+        "tr": "chicken = tavuk (korkak); out = dışarı, işin dışına"
+      },
+      "register": {
+        "en": "slang–informal",
+        "tr": "argo–gündelik",
+        "de": "Slang–umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "chicken out (of sth / of V-ing). \"Don't be (a) chicken.\" get cold feet is more neutral; chicken out is mildly mocking.",
+        "tr": "chicken out (of sth / of V-ing). \"Don't be (a) chicken.\" get cold feet daha nötr; chicken out hafif alaycı."
+      },
+      "sentences": [
+        {
+          "en": "I was going to tell him how I feel, but I [chickened out].",
+          "tr": "Ona hislerimi söyleyecektim ama tırstım.",
+          "de": "Ich wollte ihm sagen, was ich fühle, aber ich habe gekniffen."
+        },
+        {
+          "en": "She [chickened out] of the bungee jump at the last second.",
+          "tr": "Son saniyede bungee jumping'den caydı.",
+          "de": "Sie hat beim Bungeesprung in letzter Sekunde einen Rückzieher gemacht."
+        }
+      ]
+    },
+    {
+      "id": "be-creeped-out-give-someone-the-creeps",
+      "expr": "be creeped out / give someone the creeps",
+      "meaning": {
+        "en": "to be unsettled by something eerie or unpleasant",
+        "tr": "tekinsiz, ürpertici bir şeyden rahatsız olmak",
+        "de": "von etwas Unheimlichem oder Unangenehmem beunruhigt sein"
+      },
+      "equivalent": {
+        "tr": "tüyleri ürpermek, tedirgin olmak, tırsmak",
+        "de": "sich gruseln; jemandem unheimlich sein, jemandem eine Gänsehaut machen"
+      },
+      "intensity": {
+        "en": "moderate",
+        "tr": "orta",
+        "de": "mittel"
+      },
+      "level": 2,
+      "literal": {
+        "en": "creep = to crawl; your skin \"crawling\"",
+        "tr": "creep = sürünmek; tüylerin \"sürünmesi\""
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "be creeped out (by sth) · creep sb out · give sb the creeps · creepy = eerie, unsettling · a creep = an unpleasant, sleazy person",
+        "tr": "be creeped out (by sth) · creep sb out · give sb the creeps · creepy = ürkütücü, tekinsiz · a creep = sapık/itici tip"
+      },
+      "sentences": [
+        {
+          "en": "That abandoned house [gives me the creeps].",
+          "tr": "O terk edilmiş ev tüylerimi ürpertiyor.",
+          "de": "Dieses verlassene Haus ist mir unheimlich."
+        },
+        {
+          "en": "I was [creeped out] by the way he kept staring.",
+          "tr": "Sürekli dik dik bakmasından tedirgin oldum.",
+          "de": "Es hat mich gegruselt, wie er mich ständig angestarrt hat."
+        }
+      ]
+    },
+    {
+      "id": "feel-insecure-about",
+      "expr": "feel insecure (about)",
+      "meaning": {
+        "en": "to lack confidence; to feel inadequate or not good enough",
+        "tr": "kendine güvenmemek, kendini yetersiz/değersiz hissetmek",
+        "de": "wenig Selbstvertrauen haben; sich unzulänglich fühlen"
+      },
+      "equivalent": {
+        "tr": "kendine güvenmemek, kompleks duymak, güvensiz hissetmek",
+        "de": "unsicher sein, Komplexe haben"
+      },
+      "intensity": {
+        "en": "moderate",
+        "tr": "orta",
+        "de": "mittel"
+      },
+      "level": 2,
+      "register": {
+        "en": "neutral",
+        "tr": "nötr",
+        "de": "neutral"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "be/feel insecure (about sth) · insecurity/insecurities (noun) · \"He's very insecure.\" (personality)",
+        "tr": "be/feel insecure (about sth) · insecurity/insecurities (isim) · \"He's very insecure.\" (kişilik)"
+      },
+      "note": {
+        "en": "insecure is about a person's lack of confidence. For \"a place that isn't safe\" say unsafe / not safe.",
+        "tr": "insecure kişinin özgüvensizliğidir. \"Güvenli olmayan yer\" = unsafe / not safe."
+      },
+      "sentences": [
+        {
+          "en": "I [feel insecure about] my body sometimes.",
+          "tr": "Bazen bedenim konusunda kendimi güvensiz hissediyorum.",
+          "de": "Manchmal bin ich unsicher wegen meines Körpers."
+        },
+        {
+          "en": "He's pretty [insecure] — that's why he's always putting people down.",
+          "tr": "Aslında özgüvensiz, o yüzden hep başkalarını küçümsüyor.",
+          "de": "Er ist ziemlich unsicher – deshalb macht er andere ständig schlecht."
+        }
+      ]
+    },
+    {
+      "id": "be-shaken-up",
+      "expr": "be shaken (up)",
+      "meaning": {
+        "en": "to still be upset after a frightening or sad event",
+        "tr": "korkutucu/üzücü bir olaydan sonra hâlâ sarsılmış olmak",
+        "de": "nach einem erschreckenden oder traurigen Ereignis noch aufgewühlt sein"
+      },
+      "equivalent": {
+        "tr": "sarsılmak, etkisinden çıkamamak",
+        "de": "erschüttert sein, mitgenommen sein"
+      },
+      "intensity": {
+        "en": "moderate–strong",
+        "tr": "orta–güçlü",
+        "de": "mittel–stark"
+      },
+      "level": 2,
+      "literal": {
+        "en": "shaken, jolted",
+        "tr": "sarsılmış, çalkalanmış"
+      },
+      "register": {
+        "en": "neutral–informal",
+        "tr": "nötr–gündelik",
+        "de": "neutral–umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE (\"shaken up\" is more common in AmE)",
+        "tr": "AmE + BrE (\"shaken up\" AmE'de daha sık)"
+      },
+      "usage": {
+        "en": "be/feel/look (pretty/a bit) shaken (up) (by sth) · sth shakes sb (up)",
+        "tr": "be/feel/look (pretty/a bit) shaken (up) (by sth) · sth shakes sb (up)"
+      },
+      "sentences": [
+        {
+          "en": "She wasn't hurt in the accident, but she was pretty [shaken up].",
+          "tr": "Kazada yaralanmadı ama epey sarsılmıştı.",
+          "de": "Sie wurde bei dem Unfall nicht verletzt, war aber ziemlich mitgenommen."
+        },
+        {
+          "en": "I'm still a bit [shaken], to be honest.",
+          "tr": "Açıkçası hâlâ biraz sarsılmış hâldeyim.",
+          "de": "Ich bin ehrlich gesagt immer noch etwas durcheinander."
+        }
+      ]
+    },
+    {
+      "id": "be-paranoid-about",
+      "expr": "be paranoid (about)",
+      "meaning": {
+        "en": "to be suspicious or worried without good reason, or far too much",
+        "tr": "yersiz ya da abartılı biçimde kuşkulanmak/endişelenmek",
+        "de": "ohne guten Grund oder viel zu sehr misstrauisch oder besorgt sein"
+      },
+      "equivalent": {
+        "tr": "paranoya yapmak, evham yapmak, pireyi deve yapmak",
+        "de": "paranoid sein, sich verrückt machen, Gespenster sehen"
+      },
+      "intensity": {
+        "en": "moderate",
+        "tr": "orta",
+        "de": "mittel"
+      },
+      "level": 2,
+      "register": {
+        "en": "informal (exaggerated use, independent of the medical meaning)",
+        "tr": "gündelik (tıbbi anlamından bağımsız, abartılı kullanım)"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "be/get paranoid (about sth) · \"You're being paranoid.\" · \"Maybe I'm just being paranoid, but…\"",
+        "tr": "be/get paranoid (about sth) · \"You're being paranoid.\" · \"Maybe I'm just being paranoid, but…\""
+      },
+      "sentences": [
+        {
+          "en": "I'm [paranoid about] leaving the stove on.",
+          "tr": "Ocağı açık bıraktım mı diye evham yapıyorum.",
+          "de": "Ich habe ständig Angst, den Herd angelassen zu haben."
+        },
+        {
+          "en": "You're being [paranoid] — nobody's talking about you.",
+          "tr": "Paranoya yapıyorsun, kimse senin hakkında konuşmuyor.",
+          "de": "Du siehst Gespenster – niemand redet über dich."
+        }
+      ]
+    },
+    {
+      "id": "scare-the-hell-out-of-someone",
+      "expr": "scare the hell out of someone",
+      "meaning": {
+        "en": "to frighten someone badly",
+        "tr": "birini çok korkutmak",
+        "de": "jemanden heftig erschrecken"
+      },
+      "equivalent": {
+        "tr": "ödünü koparmak, yüreğini ağzına getirmek",
+        "de": "jemanden zu Tode erschrecken, jemandem einen Riesenschreck einjagen"
+      },
+      "intensity": {
+        "en": "strong",
+        "tr": "güçlü",
+        "de": "stark"
+      },
+      "level": 3,
+      "literal": {
+        "en": "to frighten the hell out of someone; out of = from inside to outside",
+        "tr": "birinin içindeki cehennemi korkutup çıkarmak; out of = içinden dışarı"
+      },
+      "register": {
+        "en": "informal · \"the crap/shit out of\" vulgar",
+        "tr": "gündelik · \"the crap/shit out of\" kaba"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "scare the hell / the life / (vulgar) the crap out of sb. Milder: \"You scared me!\" · make sb jump = to startle.",
+        "tr": "scare the hell / the life / (kaba) the crap out of sb. Hafifi: \"You scared me!\" · make sb jump = irkiltmek."
+      },
+      "sentences": [
+        {
+          "en": "Don't sneak up on me like that — you [scared the hell out of me]!",
+          "tr": "Öyle sessizce yaklaşma, ödümü kopardın!",
+          "de": "Schleich dich nicht so an – du hast mich zu Tode erschreckt!"
+        },
+        {
+          "en": "That movie [scared the crap out of me].",
+          "tr": "O film ödümü patlattı.",
+          "de": "Der Film hat mir eine Heidenangst eingejagt."
+        }
+      ]
+    }
+  ]
+}

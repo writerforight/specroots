@@ -64,6 +64,23 @@ const listLines = lists.map(({ id, title, objects: ids }) => `  ${JSON.stringify
 writeFileSync(join(dataDir, 'lists-index.json'), `[\n${listLines.join(',\n')}\n]\n`);
 console.log(`objects-index.json: ${objects.length} objects; lists-index.json: ${lists.map((l) => `${l.id} ${l.objects.length}`).join(', ')}`);
 
+// Everyday expressions (SPEC decision 19): one file per category, in the order of CATEGORY_ORDER below
+// (the order a learner meets the feelings in, not A–Z); a category not named there goes to the end.
+// An expression id is used once in the whole section, so a search hit can never point at two cards.
+const CATEGORY_ORDER = ['anger', 'happiness', 'sadness', 'anxiety', 'surprise', 'confusion', 'exhaustion', 'confidence', 'embarrassment', 'fear', 'affection', 'indifference', 'relief', 'conflict'];
+const rank = (id) => (CATEGORY_ORDER.indexOf(id) + 1 || CATEGORY_ORDER.length + 1);
+const categories = readAll(join(dataDir, 'expressions')).sort((a, b) => rank(a.id) - rank(b.id) || a.id.localeCompare(b.id));
+const expressionHome = new Map();
+for (const category of categories) {
+  for (const { id } of category.expressions) {
+    if (expressionHome.has(id)) throw new Error(`expressions/${category.id}.json: "${id}" is already in expressions/${expressionHome.get(id)}.json`);
+    expressionHome.set(id, category.id);
+  }
+}
+const categoryLines = categories.map(({ id, title, expressions }) => `  ${JSON.stringify({ id, title, expressions: expressions.map((e) => ({ id: e.id, expr: e.expr })) })}`);
+writeFileSync(join(dataDir, 'expressions-index.json'), `[\n${categoryLines.join(',\n')}\n]\n`);
+console.log(`expressions-index.json: ${categories.length} categories, ${expressionHome.size} expressions`);
+
 // German roots (SPEC decision 16): public/data/de/ has the same layout as public/data. Only the list
 // index is needed for now; German affixes have no pages of their own yet.
 const deDir = join(dataDir, 'de');
@@ -77,7 +94,7 @@ console.log(`de/index.json: ${deIndex.length} German roots, ${deIndex.reduce((n,
 // "addedBy"; without one it counts for whoever added the root. One line per person, A–Z by id, so
 // two pull requests rarely touch the same line.
 const people = JSON.parse(readFileSync(join(dataDir, 'contributors.json'), 'utf8'));
-const tally = new Map(Object.entries(people).map(([id, { name }]) => [id, { id, name, words: { en: 0, de: 0 }, objects: 0, roots: [], lists: [] }]));
+const tally = new Map(Object.entries(people).map(([id, { name }]) => [id, { id, name, words: { en: 0, de: 0 }, objects: 0, roots: [], lists: [], expressions: 0 }]));
 const credit = (id, where) => {
   const entry = tally.get(id);
   if (!entry) throw new Error(`${where}: "addedBy" is ${JSON.stringify(id)}; it must be a GitHub user name listed in contributors.json`);
@@ -91,6 +108,7 @@ for (const [lang, list, dir] of [['en', roots, 'roots'], ['de', deRoots, 'de/roo
 }
 for (const object of objects) credit(object.addedBy, `objects/${object.id}.json`).objects++;
 for (const list of lists) credit(list.addedBy, `lists/${list.id}.json`).lists.push({ id: list.id, title: list.title });
+for (const category of categories) credit(category.addedBy, `expressions/${category.id}.json`).expressions += category.expressions.length;
 const contributorLines = [...tally.values()].sort((a, b) => a.id.localeCompare(b.id)).map((c) => `  ${JSON.stringify(c)}`);
 writeFileSync(join(dataDir, 'contributors-index.json'), `[\n${contributorLines.join(',\n')}\n]\n`);
 console.log(`contributors-index.json: ${tally.size} contributors`);

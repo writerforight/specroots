@@ -1,5 +1,6 @@
 import type { Affix } from '../domain/Affix';
 import type { EverydayObject, ListSummary, ObjectSummary, WordList } from '../domain/EverydayObject';
+import type { ExpressionCategory } from '../domain/Expression';
 import type { Root } from '../domain/Root';
 import { AffixFamilyView, type AffixGroup } from './AffixFamilyView';
 import type { DerivationViewKind, IndexLayout, Section } from '../services/SettingsStore';
@@ -7,6 +8,7 @@ import type { Contributor } from '../domain/Contributor';
 import { ContributorsView } from './ContributorsView';
 import { clear, h } from './dom';
 import { DERIVATION_VIEWS } from './derivations';
+import { ExpressionCategoryView } from './ExpressionCategoryView';
 import { INDEX_LAYOUTS, type IndexItem } from './IndexView';
 import { ListPageView } from './ListPageView';
 import { ObjectCardView } from './ObjectCardView';
@@ -50,6 +52,7 @@ export class RootDetailView {
               { class: 'start-choices' },
               choice(t('explore_roots'), t('explore_roots_hint'), null, () => go('roots')),
               choice(t('explore_objects'), t('explore_objects_hint'), null, () => go('lists')),
+              choice(t('explore_expressions'), t('explore_expressions_hint'), null, () => go('expressions')),
             ),
         step === 'english' ? h('button', { class: 'start-back', type: 'button', onclick: () => this.showStart(ctx, onPick) }, `← ${t('stepBack')}`) : null,
         h('a', { class: 'start-contributors', href: CONTRIBUTORS_HREF }, t('contributors')),
@@ -88,7 +91,7 @@ export class RootDetailView {
   showEmpty(ctx: ViewContext): void {
     clear(this.el);
     const { section, browseMode } = ctx.settings;
-    const hint = section === 'lists' ? 'chooseList' : section === 'german' || browseMode === 'root' ? 'chooseRoot' : 'chooseAffix';
+    const hint = section === 'expressions' ? 'chooseCategory' : section === 'lists' ? 'chooseList' : section === 'german' || browseMode === 'root' ? 'chooseRoot' : 'chooseAffix';
     this.el.append(h('p', { class: 'empty-state' }, ctx.i18n.t(hint)));
   }
 
@@ -103,6 +106,21 @@ export class RootDetailView {
     clear(this.el);
     this.el.append(h('a', { class: 'back-link', href: '#/lists' }, `← ${ctx.i18n.t('allLists')}`), ...new ListPageView(ctx).render(list, objects));
     window.scrollTo?.({ top: 0 });
+  }
+
+  /** One category of everyday expressions; focusId scrolls to one card and opens its details. */
+  showExpressions(category: ExpressionCategory, ctx: ViewContext, focusId: string | null): void {
+    clear(this.el);
+    this.el.append(h('a', { class: 'back-link', href: SECTION_HOME.expressions }, `← ${ctx.i18n.t('allCategories')}`), ...new ExpressionCategoryView(ctx).render(category));
+    const card = focusId ? this.el.querySelector<HTMLElement>(`#expr-${CSS.escape(focusId)}`) : null;
+    if (!card) {
+      window.scrollTo?.({ top: 0 });
+      return;
+    }
+    const more = card.querySelector<HTMLDetailsElement>('details.expr-more');
+    if (more) more.open = true;
+    card.scrollIntoView({ block: 'start', behavior: 'smooth' });
+    card.classList.add('flash');
   }
 
   /** backHref: the list the object was opened from, or all lists. */

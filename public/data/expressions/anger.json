@@ -1,0 +1,771 @@
+{
+  "id": "anger",
+  "addedBy": "writerforight",
+  "title": {
+    "en": "Anger, irritation and frustration",
+    "tr": "Öfke, sinir ve bıkkınlık",
+    "de": "Ärger, Gereiztheit und Überdruss",
+    "fr": "Colère, agacement et ras-le-bol",
+    "it": "Rabbia, irritazione e insofferenza",
+    "es": "Enfado, irritación y hartazgo"
+  },
+  "expressions": [
+    {
+      "id": "blow-up",
+      "expr": "blow up",
+      "meaning": {
+        "en": "to suddenly explode with anger and start shouting",
+        "tr": "bir anda öfkeyle patlamak, bağırıp çağırmaya başlamak",
+        "de": "plötzlich vor Wut explodieren und losschreien"
+      },
+      "equivalent": {
+        "tr": "patlamak, parlamak, küplere binmek",
+        "de": "ausrasten, explodieren, an die Decke gehen"
+      },
+      "intensity": {
+        "en": "strong",
+        "tr": "güçlü",
+        "de": "stark"
+      },
+      "level": 3,
+      "literal": {
+        "en": "to explode, to burst",
+        "tr": "patlamak, havaya uçmak"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "Intransitive: blow up (at sb) (over/about sth). The passive \"be blown up\" has no emotional meaning: it means to be destroyed by a bomb, or (of a photo) to be enlarged.",
+        "tr": "Geçişsiz: blow up (at sb) (over/about sth). Edilgen \"be blown up\" duygu anlamı taşımaz: bombayla havaya uçurulmak ya da fotoğrafın büyütülmesi demektir."
+      },
+      "collocations": {
+        "en": "blow up at someone · blow up over nothing · totally blow up",
+        "tr": "blow up at someone · blow up over nothing · totally blow up"
+      },
+      "sentences": [
+        {
+          "en": "I just asked where he'd been and he totally [blew up] at me.",
+          "tr": "Sadece nerede olduğunu sordum, bana fena patladı.",
+          "de": "Ich habe nur gefragt, wo er war, und er ist total ausgerastet."
+        },
+        {
+          "en": "My mom's going to [blow up] when she sees the phone bill.",
+          "tr": "Annem telefon faturasını görünce küplere binecek.",
+          "de": "Meine Mutter geht an die Decke, wenn sie die Handyrechnung sieht."
+        }
+      ]
+    },
+    {
+      "id": "lose-ones-temper",
+      "expr": "lose one's temper",
+      "meaning": {
+        "en": "to fail to control your anger",
+        "tr": "öfkesine hâkim olamayıp sinirlenmek",
+        "de": "seine Wut nicht mehr beherrschen können"
+      },
+      "equivalent": {
+        "tr": "tepesi atmak, öfkesine yenilmek, kendini kaybetmek",
+        "de": "die Beherrschung verlieren, die Fassung verlieren"
+      },
+      "intensity": {
+        "en": "strong",
+        "tr": "güçlü",
+        "de": "stark"
+      },
+      "level": 3,
+      "literal": {
+        "en": "temper = composure; to \"lose\" it",
+        "tr": "temper = mizaç, soğukkanlılık; onu \"kaybetmek\""
+      },
+      "register": {
+        "en": "neutral",
+        "tr": "nötr",
+        "de": "neutral"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "lose your temper (with sb) (over sth). Opposite: keep your temper. For personality: have a short/bad temper.",
+        "tr": "lose your temper (with sb) (over sth). Karşıtı: keep your temper. Kişilik için: have a short/bad temper (çabuk parlayan biri olmak)."
+      },
+      "collocations": {
+        "en": "lose your temper with sb · a short temper · temper tantrum (a fit of rage, usually of children)",
+        "tr": "lose your temper with sb · a short temper · temper tantrum (öfke nöbeti, çocuklar için)"
+      },
+      "sentences": [
+        {
+          "en": "I'm sorry I [lost my temper] with you earlier — it wasn't about you.",
+          "tr": "Demin sana sinirlendiğim için özür dilerim, seninle ilgisi yoktu.",
+          "de": "Tut mir leid, dass ich vorhin die Beherrschung verloren habe – es lag nicht an dir."
+        },
+        {
+          "en": "She almost never [loses her temper], so when she does, everybody goes quiet.",
+          "tr": "Neredeyse hiç sinirlenmez, o yüzden sinirlendiğinde herkes susar.",
+          "de": "Sie verliert fast nie die Beherrschung; wenn doch, werden alle still."
+        }
+      ]
+    },
+    {
+      "id": "be-pissed-off",
+      "expr": "be pissed off",
+      "meaning": {
+        "en": "to be really angry or annoyed",
+        "tr": "bayağı kızgın, sinirli olmak",
+        "de": "richtig wütend oder genervt sein (derb)"
+      },
+      "equivalent": {
+        "tr": "sinirden kudurmak, fena bozulmak, gıcık olmak (kaba ton)",
+        "de": "stinksauer sein, angepisst sein"
+      },
+      "intensity": {
+        "en": "strong",
+        "tr": "güçlü",
+        "de": "stark"
+      },
+      "level": 3,
+      "register": {
+        "en": "vulgar (very common among close friends; not used in formal settings)",
+        "tr": "kaba (yakın arkadaş arasında çok yaygın; resmî ortamda kullanılmaz)"
+      },
+      "variety": {
+        "en": "AmE + BrE — careful: in AmE bare \"pissed\" = angry, in BrE bare \"pissed\" = drunk",
+        "tr": "AmE + BrE — dikkat: AmE'de yalnız \"pissed\" = kızgın, BrE'de yalnız \"pissed\" = sarhoş"
+      },
+      "usage": {
+        "en": "be/get pissed off (at/with sb) (about sth) → state. piss sb off → the cause is the subject: \"It pisses me off.\"",
+        "tr": "be/get pissed off (at/with sb) (about sth) → durum. piss sb off → sebep olan özne: \"It pisses me off.\""
+      },
+      "collocations": {
+        "en": "pissed off at (AmE) / with (BrE) sb · really/so pissed off",
+        "tr": "pissed off at (AmE) / with (BrE) sb · really/so pissed off"
+      },
+      "sentences": [
+        {
+          "en": "I'm so [pissed off] at Jake — he bailed on me again.",
+          "tr": "Jake'e çok kızgınım, yine beni ekti.",
+          "de": "Ich bin so sauer auf Jake – er hat mich schon wieder versetzt."
+        },
+        {
+          "en": "It really [pisses me off] when people talk over me in meetings.",
+          "tr": "Toplantılarda insanların sözümü kesmesi beni acayip sinir ediyor.",
+          "de": "Es kotzt mich echt an, wenn Leute mir in Meetings ins Wort fallen."
+        }
+      ]
+    },
+    {
+      "id": "be-fed-up-with",
+      "expr": "be fed up (with)",
+      "meaning": {
+        "en": "to have had too much of something that has been going on for a long time",
+        "tr": "uzun süredir süren bir şeyden bıkmış, tahammülü kalmamış olmak",
+        "de": "von etwas, das schon lange andauert, genug haben"
+      },
+      "equivalent": {
+        "tr": "bıkmak, gına gelmek, burasına kadar gelmek",
+        "de": "die Nase voll haben, es satthaben"
+      },
+      "intensity": {
+        "en": "moderate–strong",
+        "tr": "orta–güçlü",
+        "de": "mittel–stark"
+      },
+      "level": 2,
+      "literal": {
+        "en": "to have been fed until completely full",
+        "tr": "tıka basa beslenmiş, doymuş olmak"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE (more common in BrE)",
+        "tr": "AmE + BrE (BrE'de daha sık)"
+      },
+      "usage": {
+        "en": "be fed up with + noun/V-ing → current state. get fed up with → the process of reaching that point. Spoken BrE also has \"fed up of\"; \"with\" is the standard form.",
+        "tr": "be fed up with + isim/V-ing → mevcut durum. get fed up with → bıkma noktasına gelme süreci. BrE konuşma dilinde \"fed up of\" da duyulur, standart olan \"with\"."
+      },
+      "collocations": {
+        "en": "fed up with waiting · totally/really fed up · I'm fed up. (on its own: I'm miserable / I've had enough)",
+        "tr": "fed up with waiting · totally/really fed up · I'm fed up. (tek başına: canım sıkkın, bıktım)"
+      },
+      "sentences": [
+        {
+          "en": "I'm [fed up with] doing all the work in this group project.",
+          "tr": "Bu grup projesinde bütün işi benim yapmamdan bıktım.",
+          "de": "Ich habe es satt, in diesem Gruppenprojekt die ganze Arbeit zu machen."
+        },
+        {
+          "en": "She [got fed up with] his excuses and just stopped replying.",
+          "tr": "Bahanelerinden bıktı ve cevap yazmayı bıraktı.",
+          "de": "Sie hatte seine Ausreden satt und hat einfach nicht mehr geantwortet."
+        }
+      ]
+    },
+    {
+      "id": "get-worked-up",
+      "expr": "get worked up",
+      "meaning": {
+        "en": "to become more angry, excited or tense about something than it deserves",
+        "tr": "bir konuda gereğinden fazla sinirlenmek, heyecanlanmak ya da gerilmek",
+        "de": "sich über etwas mehr aufregen oder hineinsteigern, als es verdient"
+      },
+      "equivalent": {
+        "tr": "kendini doldurmak, köpürmek, galeyana gelmek",
+        "de": "sich aufregen, sich hineinsteigern"
+      },
+      "intensity": {
+        "en": "moderate",
+        "tr": "orta",
+        "de": "mittel"
+      },
+      "level": 2,
+      "literal": {
+        "en": "work up = to build something up by working at it",
+        "tr": "work up = (bir şeyi) işleyerek yükseltmek, kabartmak"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "get/be worked up (about/over sth) → the person's state. work yourself up (into a state) → doing it to yourself. Bare \"work sb up\" is rare; the natural form is: get sb (all) worked up.",
+        "tr": "get/be worked up (about/over sth) → kişinin hâli. work yourself up (into a state) → insanın kendi kendini doldurması. \"work sb up\" tek başına nadirdir; doğal olan: get sb (all) worked up."
+      },
+      "collocations": {
+        "en": "all worked up · worked up over nothing",
+        "tr": "all worked up · worked up over nothing"
+      },
+      "sentences": [
+        {
+          "en": "Don't [get so worked up] about it — it's just one bad grade.",
+          "tr": "Bu kadar kafana takma, alt tarafı bir kötü not.",
+          "de": "Reg dich nicht so auf – es ist nur eine schlechte Note."
+        },
+        {
+          "en": "He [gets all worked up] whenever politics comes up at dinner.",
+          "tr": "Yemekte ne zaman siyaset açılsa hemen köpürüyor.",
+          "de": "Er regt sich jedes Mal auf, wenn beim Essen Politik zur Sprache kommt."
+        }
+      ]
+    },
+    {
+      "id": "get-on-someones-nerves",
+      "expr": "get on someone's nerves",
+      "meaning": {
+        "en": "to annoy someone (usually by something repeated)",
+        "tr": "(tekrar eden bir şeyle) birini sinir etmek",
+        "de": "jemanden nerven (meist durch etwas, das sich wiederholt)"
+      },
+      "equivalent": {
+        "tr": "sinirine dokunmak, sinir etmek",
+        "de": "jemandem auf die Nerven gehen, jemandem auf den Keks gehen"
+      },
+      "intensity": {
+        "en": "mild–moderate",
+        "tr": "hafif–orta",
+        "de": "mild–mittel"
+      },
+      "level": 1,
+      "literal": {
+        "en": "to climb onto someone's nerves",
+        "tr": "birinin sinirlerinin üstüne çıkmak"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "Subject = the annoying thing/person. Very common in the present continuous: \"is getting on my nerves\". Always plural: nerves.",
+        "tr": "Özne = rahatsız eden şey/kişi. Şimdiki sürekli zamanla çok yaygın: \"is getting on my nerves\". Hep çoğul: nerves."
+      },
+      "collocations": {
+        "en": "really get on my nerves · start to get on sb's nerves",
+        "tr": "really get on my nerves · start to get on sb's nerves"
+      },
+      "sentences": [
+        {
+          "en": "That clicking sound is really [getting on my nerves].",
+          "tr": "Şu tıkırtı fena sinirime dokunuyor.",
+          "de": "Dieses Klicken geht mir echt auf die Nerven."
+        },
+        {
+          "en": "I love my roommate, but he [gets on my nerves] sometimes.",
+          "tr": "Ev arkadaşımı severim ama bazen sinirimi bozuyor.",
+          "de": "Ich mag meinen Mitbewohner, aber manchmal geht er mir auf die Nerven."
+        }
+      ]
+    },
+    {
+      "id": "get-under-someones-skin",
+      "expr": "get under someone's skin",
+      "meaning": {
+        "en": "to bother someone deeply; to say something that sticks and keeps hurting",
+        "tr": "birini derinden rahatsız etmek; söylediği şey kafadan çıkmayacak şekilde batmak",
+        "de": "jemanden tief treffen oder reizen; etwas sagen, das hängen bleibt"
+      },
+      "equivalent": {
+        "tr": "damarına basmak, içine işlemek",
+        "de": "jemandem unter die Haut gehen, jemanden treffen"
+      },
+      "intensity": {
+        "en": "moderate–strong",
+        "tr": "orta–güçlü",
+        "de": "mittel–stark"
+      },
+      "level": 2,
+      "literal": {
+        "en": "to get beneath someone's skin",
+        "tr": "birinin derisinin altına girmek"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "Subject = the irritant. \"let sb get under your skin\" is very common. Second (romantic) meaning: someone you can't stop thinking about.",
+        "tr": "Özne = rahatsız eden. \"let sb get under your skin\" kalıbı çok yaygın. İkinci (romantik) anlam: birinin aklından çıkmaması."
+      },
+      "collocations": {
+        "en": "really get under my skin · don't let him get under your skin",
+        "tr": "really get under my skin · don't let him get under your skin"
+      },
+      "sentences": [
+        {
+          "en": "Don't let him [get under your skin] — he's just trying to provoke you.",
+          "tr": "Seni etkilemesine izin verme, sadece kışkırtmaya çalışıyor.",
+          "de": "Lass dich von ihm nicht reizen – er will dich nur provozieren."
+        },
+        {
+          "en": "I don't know why, but her little comments really [get under my skin].",
+          "tr": "Neden bilmiyorum ama onun o küçük imaları bana fena batıyor.",
+          "de": "Ich weiß nicht, warum, aber ihre kleinen Bemerkungen treffen mich wirklich."
+        }
+      ]
+    },
+    {
+      "id": "drive-someone-crazy-nuts-up-the-wall",
+      "expr": "drive someone crazy / nuts / up the wall",
+      "meaning": {
+        "en": "to make someone extremely annoyed",
+        "tr": "birini çok sinirlendirmek, çileden çıkarmak",
+        "de": "jemanden extrem nerven"
+      },
+      "equivalent": {
+        "tr": "deli etmek, çıldırtmak, çileden çıkarmak",
+        "de": "jemanden wahnsinnig machen, jemanden auf die Palme bringen"
+      },
+      "intensity": {
+        "en": "moderate–strong",
+        "tr": "orta–güçlü",
+        "de": "mittel–stark"
+      },
+      "level": 2,
+      "literal": {
+        "en": "to \"drive\" someone to madness; to make them climb the wall",
+        "tr": "birini deliliğe \"sürmek\"; duvara tırmandırmak"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE (\"drive sb mad\" is also very common in BrE)",
+        "tr": "AmE + BrE (BrE'de \"drive sb mad\" da çok yaygın)"
+      },
+      "usage": {
+        "en": "sth/sb drives me crazy. \"It drives me crazy when + clause\". Don't confuse with: be crazy about = to love (positive).",
+        "tr": "sth/sb drives me crazy. \"It drives me crazy when + cümle\". Karıştırma: be crazy about = bayılmak (olumlu)."
+      },
+      "collocations": {
+        "en": "drive sb crazy/nuts/mad/insane/up the wall",
+        "tr": "drive sb crazy/nuts/mad/insane/up the wall"
+      },
+      "sentences": [
+        {
+          "en": "It [drives me crazy] when people chew with their mouth open.",
+          "tr": "İnsanların ağzı açık yemek yemesi beni deli ediyor.",
+          "de": "Es macht mich wahnsinnig, wenn Leute mit offenem Mund kauen."
+        },
+        {
+          "en": "This printer is [driving me up the wall].",
+          "tr": "Bu yazıcı beni çileden çıkarıyor.",
+          "de": "Dieser Drucker bringt mich auf die Palme."
+        }
+      ]
+    },
+    {
+      "id": "be-sick-and-tired-of",
+      "expr": "be sick (and tired) of",
+      "meaning": {
+        "en": "to no longer be able to stand something that keeps happening",
+        "tr": "tekrar eden bir şeye artık katlanamamak",
+        "de": "etwas, das immer wieder passiert, nicht mehr ertragen können"
+      },
+      "equivalent": {
+        "tr": "bıkıp usanmak, illallah etmek",
+        "de": "etwas leid sein, es gründlich satthaben"
+      },
+      "intensity": {
+        "en": "moderate–strong",
+        "tr": "orta–güçlü",
+        "de": "mittel–stark"
+      },
+      "level": 2,
+      "literal": {
+        "en": "to be ill (and tired) from something",
+        "tr": "bir şeyden hasta (ve yorgun) olmak"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "be/get sick of + noun/V-ing. Intensified: sick and tired of, sick to death of.",
+        "tr": "be/get sick of + isim/V-ing. Güçlendirme: sick and tired of, sick to death of."
+      },
+      "collocations": {
+        "en": "sick of hearing about it · sick of it · sick of this place",
+        "tr": "sick of hearing about it · sick of it · sick of this place"
+      },
+      "sentences": [
+        {
+          "en": "I'm [sick of] having the same argument every weekend.",
+          "tr": "Her hafta sonu aynı kavgayı etmekten bıktım.",
+          "de": "Ich bin es leid, jedes Wochenende denselben Streit zu haben."
+        },
+        {
+          "en": "Honestly, I'm [sick and tired of] being the only one who cleans up.",
+          "tr": "Açıkçası ortalığı tek toplayanın ben olmasından bıktım usandım.",
+          "de": "Ehrlich, ich habe es so satt, die Einzige zu sein, die aufräumt."
+        }
+      ]
+    },
+    {
+      "id": "snap-at",
+      "expr": "snap (at)",
+      "meaning": {
+        "en": "(1) snap at sb: to speak to someone sharply and suddenly (2) \"I snapped\": patience suddenly running out",
+        "tr": "(1) snap at sb: birine aniden sert çıkışmak (2) \"I snapped\": sabrın bir anda taşması",
+        "de": "(1) jemanden plötzlich scharf anfahren (2) „I snapped“: die Geduld reißt plötzlich"
+      },
+      "equivalent": {
+        "tr": "terslemek, çıkışmak; ipin kopması",
+        "de": "jemanden anfahren, anschnauzen; jemandem reißt der Geduldsfaden"
+      },
+      "intensity": {
+        "en": "moderate (snap at) · strong (just snapped)",
+        "tr": "orta (snap at) · güçlü (just snapped)"
+      },
+      "level": 2,
+      "literal": {
+        "en": "to break with a sharp crack",
+        "tr": "çıt diye kırılmak, kopmak"
+      },
+      "register": {
+        "en": "neutral–informal",
+        "tr": "nötr–gündelik",
+        "de": "neutral–umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "snap at sb (preposition required). Intransitive: \"I just snapped.\" A short, sudden reaction; blow up is longer and louder.",
+        "tr": "snap at sb (edat şart). Geçişsiz: \"I just snapped.\" Kısa ve ani bir tepkidir; blow up daha uzun ve gürültülüdür."
+      },
+      "collocations": {
+        "en": "snap at sb · something snapped · finally snapped",
+        "tr": "snap at sb · something snapped · finally snapped"
+      },
+      "sentences": [
+        {
+          "en": "Sorry I [snapped at] you — I haven't slept properly in days.",
+          "tr": "Seni tersledim, kusura bakma, günlerdir doğru dürüst uyumadım.",
+          "de": "Tut mir leid, dass ich dich angefahren habe – ich habe seit Tagen nicht richtig geschlafen."
+        },
+        {
+          "en": "He kept pushing and pushing, and eventually I just [snapped].",
+          "tr": "Üstüme geldi de geldi, sonunda ipler koptu.",
+          "de": "Er hat immer weiter gebohrt, und irgendwann ist mir der Kragen geplatzt."
+        }
+      ]
+    },
+    {
+      "id": "lose-it",
+      "expr": "lose it",
+      "meaning": {
+        "en": "to lose control completely (usually anger; sometimes crying or laughing)",
+        "tr": "kontrolünü tamamen kaybetmek (çoğunlukla öfke; bazen ağlama ya da gülme krizi)",
+        "de": "völlig die Kontrolle verlieren (meist vor Wut; manchmal beim Weinen oder Lachen)"
+      },
+      "equivalent": {
+        "tr": "kendini kaybetmek, kopmak, çıldırmak",
+        "de": "ausrasten, durchdrehen, die Fassung verlieren"
+      },
+      "intensity": {
+        "en": "strong",
+        "tr": "güçlü",
+        "de": "stark"
+      },
+      "level": 3,
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "\"it\" is fixed; what is lost is never named. lose it (with sb). Synonyms: flip out (AmE), go ballistic, go mad (BrE).",
+        "tr": "\"it\" sabittir, neyin kaybedildiği söylenmez. lose it (with sb). Eşanlamlısı: flip out (AmE), go ballistic, go mad (BrE)."
+      },
+      "collocations": {
+        "en": "completely/totally lose it · nearly lost it",
+        "tr": "completely/totally lose it · nearly lost it"
+      },
+      "sentences": [
+        {
+          "en": "When he lied to my face a second time, I completely [lost it].",
+          "tr": "Yüzüme karşı ikinci kez yalan söyleyince tamamen koptum.",
+          "de": "Als er mir zum zweiten Mal ins Gesicht gelogen hat, bin ich völlig ausgerastet."
+        },
+        {
+          "en": "I nearly [lost it] when she called my thesis \"cute\".",
+          "tr": "Tezime \"şirin\" deyince az kalsın çıldıracaktım.",
+          "de": "Ich wäre fast ausgerastet, als sie meine Abschlussarbeit „süß“ nannte."
+        }
+      ]
+    },
+    {
+      "id": "tick-someone-off",
+      "expr": "tick someone off",
+      "meaning": {
+        "en": "to annoy someone, make them angry",
+        "tr": "birini kızdırmak, sinirlendirmek",
+        "de": "jemanden ärgern, wütend machen"
+      },
+      "equivalent": {
+        "tr": "sinir etmek, kızdırmak, uyuz etmek",
+        "de": "jemanden aufregen, jemanden auf die Palme bringen"
+      },
+      "intensity": {
+        "en": "moderate",
+        "tr": "orta",
+        "de": "mittel"
+      },
+      "level": 2,
+      "register": {
+        "en": "informal (the polite version of \"pissed off\")",
+        "tr": "gündelik (pissed off'un kibar hâli)"
+      },
+      "variety": {
+        "en": "AmE. In BrE \"tick sb off\" = to tell someone off (a different meaning!)",
+        "tr": "AmE. BrE'de \"tick sb off\" = birini azarlamak (farklı anlam!)"
+      },
+      "usage": {
+        "en": "tick sb off (separable) · be ticked off (at sb / about sth)",
+        "tr": "tick sb off (ayrılabilir) · be ticked off (at sb / about sth)"
+      },
+      "collocations": {
+        "en": "really ticks me off · ticked off about",
+        "tr": "really ticks me off · ticked off about"
+      },
+      "sentences": [
+        {
+          "en": "It really [ticks me off] when he leaves his dishes in the sink.",
+          "tr": "Bulaşıklarını lavaboda bırakması beni çok sinir ediyor.",
+          "de": "Es regt mich echt auf, wenn er sein Geschirr in der Spüle stehen lässt."
+        },
+        {
+          "en": "She's pretty [ticked off] about the schedule change.",
+          "tr": "Program değişikliğine bayağı bozuldu.",
+          "de": "Sie ist ziemlich sauer wegen der Planänderung."
+        }
+      ]
+    },
+    {
+      "id": "wind-someone-up",
+      "expr": "wind someone up",
+      "meaning": {
+        "en": "(1) to annoy someone on purpose, to tease (2) be wound up: to be tense, like a tightened spring",
+        "tr": "(1) birini bilerek kızdırmak, takılmak (2) be wound up: gergin, kurulmuş gibi olmak",
+        "de": "(1) jemanden absichtlich ärgern, aufziehen (2) be wound up: angespannt sein wie eine aufgezogene Feder"
+      },
+      "equivalent": {
+        "tr": "kızdırmak, damarına basmak, gaza getirmek; gergin olmak",
+        "de": "jemanden aufziehen, provozieren; aufgedreht, angespannt sein"
+      },
+      "intensity": {
+        "en": "mild–moderate",
+        "tr": "hafif–orta",
+        "de": "mild–mittel"
+      },
+      "level": 1,
+      "literal": {
+        "en": "/waɪnd/ — to wind (the spring of a clock or toy)",
+        "tr": "/waɪnd/ — kurmak (saat/oyuncak zembereği gibi)"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "BrE (rare in AmE in this sense; AmE \"wind up doing\" = to end up doing something)",
+        "tr": "BrE (AmE'de bu anlam nadir; AmE'de \"wind up doing\" = sonunda kendini bir şey yaparken bulmak)"
+      },
+      "usage": {
+        "en": "wind sb up (separable) · be/get wound up (about sth) · a wind-up (noun: a tease, a joke)",
+        "tr": "wind sb up (ayrılabilir) · be/get wound up (about sth) · a wind-up (isim: işletme, şaka)"
+      },
+      "collocations": {
+        "en": "Are you winding me up? · really wound up",
+        "tr": "Are you winding me up? · really wound up"
+      },
+      "sentences": [
+        {
+          "en": "Ignore him, he's just [winding you up].",
+          "tr": "Aldırma, sadece seni kızdırmaya çalışıyor.",
+          "de": "Ignorier ihn, er will dich nur aufziehen."
+        },
+        {
+          "en": "I was so [wound up] after the meeting that I couldn't sleep.",
+          "tr": "Toplantıdan sonra o kadar gergindim ki uyuyamadım.",
+          "de": "Nach dem Meeting war ich so aufgedreht, dass ich nicht schlafen konnte."
+        }
+      ]
+    },
+    {
+      "id": "be-mad-at",
+      "expr": "be mad (at)",
+      "meaning": {
+        "en": "to be angry",
+        "tr": "kızgın olmak",
+        "de": "wütend sein"
+      },
+      "equivalent": {
+        "tr": "kızmak, kızgın olmak",
+        "de": "sauer sein, böse sein"
+      },
+      "intensity": {
+        "en": "moderate",
+        "tr": "orta",
+        "de": "mittel"
+      },
+      "level": 2,
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "In AmE \"mad\" = angry. In BrE \"mad\" mostly means \"crazy\"; for angry, BrE prefers angry with / cross with / annoyed with (but \"mad at\" is understood).",
+        "tr": "AmE'de \"mad\" = kızgın. BrE'de \"mad\" çoğunlukla \"deli\"; kızgın için angry with / cross with / annoyed with tercih edilir (ama \"mad at\" anlaşılır)."
+      },
+      "usage": {
+        "en": "be/get mad at sb (person) · mad about sth (topic) · make sb mad",
+        "tr": "be/get mad at sb (kişi) · mad about sth (konu) · make sb mad"
+      },
+      "collocations": {
+        "en": "mad at me · so mad · Don't be mad.",
+        "tr": "mad at me · so mad · Don't be mad."
+      },
+      "sentences": [
+        {
+          "en": "Are you [mad at] me? You've been quiet all day.",
+          "tr": "Bana kızgın mısın? Bütün gün sessizsin.",
+          "de": "Bist du sauer auf mich? Du bist schon den ganzen Tag so still."
+        },
+        {
+          "en": "She's still [mad about] what you said at the party.",
+          "tr": "Partide söylediğin şeye hâlâ kızgın.",
+          "de": "Sie ist immer noch sauer wegen dem, was du auf der Party gesagt hast."
+        }
+      ]
+    },
+    {
+      "id": "have-had-enough-have-had-it-with",
+      "expr": "have had enough / have had it (with)",
+      "meaning": {
+        "en": "to have run out of patience; to refuse to put up with any more",
+        "tr": "sabrı tükenmiş olmak, artık daha fazlasına katlanmayacak olmak",
+        "de": "keine Geduld mehr haben; nichts mehr hinnehmen wollen"
+      },
+      "equivalent": {
+        "tr": "canına tak etmek, yetti artık demek",
+        "de": "genug haben, es reicht jemandem, die Schnauze voll haben"
+      },
+      "intensity": {
+        "en": "strong",
+        "tr": "güçlü",
+        "de": "stark"
+      },
+      "level": 3,
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "Always present perfect: I've had enough (of sth) · I've had it (with sb/sth). \"I've had it\" can also mean \"I'm exhausted, I'm finished\".",
+        "tr": "Hep Present Perfect: I've had enough (of sth) · I've had it (with sb/sth). \"I've had it\" ayrıca \"bittim, tükendim\" anlamına da gelebilir."
+      },
+      "collocations": {
+        "en": "I've had enough of this · had it up to here with",
+        "tr": "I've had enough of this · had it up to here with"
+      },
+      "sentences": [
+        {
+          "en": "I've [had enough of] his attitude.",
+          "tr": "Onun tavırlarından bıktım artık.",
+          "de": "Ich habe genug von seinem Verhalten."
+        },
+        {
+          "en": "I've [had it with] this laptop — it crashed three times today.",
+          "tr": "Bu laptop canıma tak etti, bugün üç kez çöktü.",
+          "de": "Mir reicht es mit diesem Laptop – er ist heute dreimal abgestürzt."
+        }
+      ]
+    }
+  ]
+}

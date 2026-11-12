@@ -1,0 +1,477 @@
+{
+  "id": "confidence",
+  "addedBy": "writerforight",
+  "title": {
+    "en": "Confidence, pride and satisfaction",
+    "tr": "Özgüven, gurur ve memnuniyet",
+    "de": "Selbstvertrauen, Stolz und Zufriedenheit",
+    "fr": "Confiance, fierté et satisfaction",
+    "it": "Sicurezza, orgoglio e soddisfazione",
+    "es": "Confianza, orgullo y satisfacción"
+  },
+  "expressions": [
+    {
+      "id": "be-proud-of",
+      "expr": "be proud of",
+      "meaning": {
+        "en": "to feel pride in someone or in an achievement",
+        "tr": "biriyle/bir başarıyla gurur duymak",
+        "de": "Stolz auf jemanden oder auf eine Leistung empfinden"
+      },
+      "equivalent": {
+        "tr": "gurur duymak, övünmek",
+        "de": "stolz sein auf"
+      },
+      "intensity": {
+        "en": "moderate–strong",
+        "tr": "orta–güçlü",
+        "de": "mittel–stark"
+      },
+      "level": 2,
+      "register": {
+        "en": "neutral",
+        "tr": "nötr",
+        "de": "neutral"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "proud of sb/sth/yourself · proud to + verb · proud (that) + clause. ✗ proud with. The negative expresses regret: \"I'm not proud of it.\"",
+        "tr": "proud of sb/sth/yourself · proud to + fiil · proud (that) + cümle. ✗ proud with. Olumsuzu pişmanlık bildirir: \"I'm not proud of it.\""
+      },
+      "sentences": [
+        {
+          "en": "I'm so [proud of] you — you worked really hard for this.",
+          "tr": "Seninle gurur duyuyorum, bunun için çok emek verdin.",
+          "de": "Ich bin so stolz auf dich – du hast wirklich hart dafür gearbeitet."
+        },
+        {
+          "en": "I'm not [proud of] how I handled it.",
+          "tr": "O durumu ele alış biçimimle övünmüyorum.",
+          "de": "Ich bin nicht stolz darauf, wie ich damit umgegangen bin."
+        }
+      ]
+    },
+    {
+      "id": "be-pleased-with-happy-with",
+      "expr": "be pleased with / happy with",
+      "meaning": {
+        "en": "to be satisfied with a result",
+        "tr": "bir sonuçtan memnun olmak",
+        "de": "mit einem Ergebnis zufrieden sein"
+      },
+      "equivalent": {
+        "tr": "memnun olmak, hoşnut olmak",
+        "de": "zufrieden sein mit"
+      },
+      "intensity": {
+        "en": "mild–moderate",
+        "tr": "hafif–orta",
+        "de": "mild–mittel"
+      },
+      "level": 1,
+      "register": {
+        "en": "neutral",
+        "tr": "nötr",
+        "de": "neutral"
+      },
+      "variety": {
+        "en": "AmE + BrE (\"pleased\" is more common in BrE)",
+        "tr": "AmE + BrE (\"pleased\" BrE'de daha sık)"
+      },
+      "usage": {
+        "en": "pleased/happy with + result, thing · pleased/happy about + situation · pleased for sb (glad on their behalf)",
+        "tr": "pleased/happy with + sonuç, nesne · pleased/happy about + durum · pleased for sb (onun adına sevinmek)"
+      },
+      "sentences": [
+        {
+          "en": "I'm really [pleased with] how the presentation turned out.",
+          "tr": "Sunumun sonucundan çok memnunum.",
+          "de": "Ich bin wirklich zufrieden damit, wie die Präsentation geworden ist."
+        },
+        {
+          "en": "Are you [happy with] your grade?",
+          "tr": "Notundan memnun musun?",
+          "de": "Bist du mit deiner Note zufrieden?"
+        }
+      ]
+    },
+    {
+      "id": "feel-good-about",
+      "expr": "feel good about",
+      "meaning": {
+        "en": "(1) to believe something will go well (2) to feel that what you did was right",
+        "tr": "(1) bir şeyin iyi gideceğine inanmak (2) yaptığı şey içine sinmek",
+        "de": "(1) glauben, dass etwas gut ausgeht (2) das Gefühl haben, richtig gehandelt zu haben"
+      },
+      "equivalent": {
+        "tr": "içi rahat olmak, içine sinmek, iyi hissetmek",
+        "de": "ein gutes Gefühl bei etwas haben"
+      },
+      "intensity": {
+        "en": "mild–moderate",
+        "tr": "hafif–orta",
+        "de": "mild–mittel"
+      },
+      "level": 1,
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "feel good about sth/V-ing · have a good feeling about sth. The negative signals a troubled conscience: \"I don't feel good about it.\"",
+        "tr": "feel good about sth/V-ing · have a good feeling about sth. Olumsuzu vicdan rahatsızlığı: \"I don't feel good about it.\""
+      },
+      "sentences": [
+        {
+          "en": "I [feel really good about] the interview.",
+          "tr": "Mülakat konusunda içim çok rahat.",
+          "de": "Ich habe ein richtig gutes Gefühl bei dem Vorstellungsgespräch."
+        },
+        {
+          "en": "I don't [feel good about] lying to her.",
+          "tr": "Ona yalan söylemek içime sinmiyor.",
+          "de": "Ich habe kein gutes Gefühl dabei, sie anzulügen."
+        }
+      ]
+    },
+    {
+      "id": "be-confident-about-in",
+      "expr": "be confident (about / in)",
+      "meaning": {
+        "en": "to trust yourself or an outcome",
+        "tr": "kendine ya da bir sonuca güvenmek",
+        "de": "sich selbst oder einem Ergebnis vertrauen"
+      },
+      "equivalent": {
+        "tr": "emin olmak, kendine güvenmek",
+        "de": "zuversichtlich sein, selbstsicher sein"
+      },
+      "intensity": {
+        "en": "moderate",
+        "tr": "orta",
+        "de": "mittel"
+      },
+      "level": 2,
+      "register": {
+        "en": "neutral",
+        "tr": "nötr",
+        "de": "neutral"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "confident about + result/event · confident in + ability/person · confident (that) + clause. Noun: confidence. For personality: self-confident.",
+        "tr": "confident about + sonuç/olay · confident in + yetenek/kişi · confident (that) + cümle. İsim: confidence. Kişilik için: self-confident."
+      },
+      "sentences": [
+        {
+          "en": "I'm pretty [confident about] tomorrow's exam.",
+          "tr": "Yarınki sınav konusunda kendime bayağı güveniyorum.",
+          "de": "Ich bin ziemlich zuversichtlich, was die Prüfung morgen angeht."
+        },
+        {
+          "en": "She's a lot more [confident in] her English now.",
+          "tr": "Artık İngilizcesine çok daha fazla güveniyor.",
+          "de": "Sie ist jetzt viel sicherer in ihrem Englisch."
+        }
+      ]
+    },
+    {
+      "id": "have-got-this",
+      "expr": "have got this",
+      "meaning": {
+        "en": "to be sure you can handle something; to encourage someone",
+        "tr": "bir işi halledebileceğinden emin olmak; birine moral vermek",
+        "de": "sicher sein, etwas zu schaffen; jemandem Mut machen"
+      },
+      "equivalent": {
+        "tr": "Bu iş bende. / Yaparsın sen!",
+        "de": "Ich mach das schon. / Du schaffst das!"
+      },
+      "intensity": {
+        "en": "moderate",
+        "tr": "orta",
+        "de": "mittel"
+      },
+      "level": 2,
+      "literal": {
+        "en": "\"I have got/hold this\"",
+        "tr": "\"bunu aldım/tuttum\""
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "I've got this. (I'll handle it) · You've got this! (you can do it) · We've got this. In speech: \"I got this.\"",
+        "tr": "I've got this. (ben hallederim) · You've got this! (yapabilirsin) · We've got this. Konuşmada: \"I got this.\""
+      },
+      "sentences": [
+        {
+          "en": "Don't worry, I've [got this].",
+          "tr": "Merak etme, ben hallederim.",
+          "de": "Keine Sorge, ich mach das schon."
+        },
+        {
+          "en": "You've [got this]! You've practised a hundred times.",
+          "tr": "Yaparsın sen! Yüz kere prova ettin.",
+          "de": "Du schaffst das! Du hast es hundertmal geübt."
+        }
+      ]
+    },
+    {
+      "id": "nail-it-kill-it-smash-it",
+      "expr": "nail it / kill it / smash it",
+      "meaning": {
+        "en": "to do something perfectly",
+        "tr": "bir işi mükemmel yapmak",
+        "de": "etwas perfekt machen"
+      },
+      "equivalent": {
+        "tr": "on numara yapmak, çok iyi kotarmak, döktürmek",
+        "de": "etwas rocken, etwas mit Bravour meistern"
+      },
+      "intensity": {
+        "en": "strong",
+        "tr": "güçlü",
+        "de": "stark"
+      },
+      "level": 3,
+      "literal": {
+        "en": "to hit the nail exactly · to kill · to smash",
+        "tr": "çiviyi tam çakmak · öldürmek · parçalamak"
+      },
+      "register": {
+        "en": "slang–informal",
+        "tr": "argo–gündelik",
+        "de": "Slang–umgangssprachlich"
+      },
+      "variety": {
+        "en": "nail it, kill it: AmE + BrE · smash it: BrE",
+        "tr": "nail it, kill it: AmE + BrE · smash it: BrE"
+      },
+      "usage": {
+        "en": "nail + noun (nail the interview) · \"Nailed it!\" (also ironic) · be killing it (ongoing success)",
+        "tr": "nail + isim (nail the interview) · \"Nailed it!\" (ironik de kullanılır) · be killing it (süregelen başarı)"
+      },
+      "sentences": [
+        {
+          "en": "You [nailed] that presentation!",
+          "tr": "O sunumu harika yaptın!",
+          "de": "Die Präsentation hast du gerockt!"
+        },
+        {
+          "en": "She's absolutely [killing it] at her new job.",
+          "tr": "Yeni işinde resmen döktürüyor.",
+          "de": "In ihrem neuen Job macht sie sich absolut großartig."
+        }
+      ]
+    },
+    {
+      "id": "pull-it-off",
+      "expr": "pull it off",
+      "meaning": {
+        "en": "to succeed at something difficult or risky; (of clothes/style) to be able to carry it",
+        "tr": "zor/riskli bir şeyi başarmak; (kıyafet/tarz) taşıyabilmek",
+        "de": "etwas Schwieriges oder Riskantes schaffen; (von Kleidung/Stil) etwas tragen können"
+      },
+      "equivalent": {
+        "tr": "üstesinden gelmek, kotarmak, becermek",
+        "de": "etwas hinkriegen, etwas schaffen; sich etwas leisten können"
+      },
+      "intensity": {
+        "en": "moderate–strong",
+        "tr": "orta–güçlü",
+        "de": "mittel–stark"
+      },
+      "level": 2,
+      "literal": {
+        "en": "to pull something off/out",
+        "tr": "çekip çıkarmak"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "pull sth off (separable; pronoun in the middle: pull it off). Carries a tone of unexpected success.",
+        "tr": "pull sth off (ayrılabilir; zamir ortada: pull it off). Beklenmedik başarı tonu vardır."
+      },
+      "sentences": [
+        {
+          "en": "I didn't think we'd finish on time, but somehow we [pulled it off].",
+          "tr": "Zamanında bitireceğimizi sanmıyordum ama bir şekilde başardık.",
+          "de": "Ich dachte nicht, dass wir rechtzeitig fertig werden, aber irgendwie haben wir es hingekriegt."
+        },
+        {
+          "en": "Not many people can [pull off] a yellow suit, but he does.",
+          "tr": "Sarı takımı herkes taşıyamaz ama o taşıyor.",
+          "de": "Nicht viele können einen gelben Anzug tragen, aber ihm steht er."
+        }
+      ]
+    },
+    {
+      "id": "be-on-a-roll",
+      "expr": "be on a roll",
+      "meaning": {
+        "en": "to have one success after another; to be in form",
+        "tr": "üst üste başarı yakalamak, formda olmak",
+        "de": "einen Erfolg nach dem anderen haben; in Form sein"
+      },
+      "equivalent": {
+        "tr": "formunda olmak, şansı açık olmak, gaza gelmiş gitmek",
+        "de": "einen Lauf haben, eine Glückssträhne haben"
+      },
+      "intensity": {
+        "en": "moderate",
+        "tr": "orta",
+        "de": "mittel"
+      },
+      "level": 2,
+      "literal": {
+        "en": "to be rolling (without stopping)",
+        "tr": "yuvarlanmakta olmak (duramadan)"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "be on a roll. Usually present tense.",
+        "tr": "be on a roll. Genellikle şimdiki zamanla."
+      },
+      "sentences": [
+        {
+          "en": "Three wins in a row — we're [on a roll]!",
+          "tr": "Üst üste üç galibiyet, fırtına gibi gidiyoruz!",
+          "de": "Drei Siege in Folge – wir haben einen Lauf!"
+        },
+        {
+          "en": "Don't stop me now, I'm [on a roll].",
+          "tr": "Durdurma beni, tam havamı bulmuşum.",
+          "de": "Halt mich jetzt nicht auf, ich bin gerade so richtig in Fahrt."
+        }
+      ]
+    },
+    {
+      "id": "be-full-of-oneself-be-cocky",
+      "expr": "be full of oneself / be cocky",
+      "meaning": {
+        "en": "to think too highly of yourself; to be annoyingly over-confident",
+        "tr": "kendini fazla beğenmek; rahatsız edici derecede özgüvenli olmak",
+        "de": "zu viel von sich halten; nervig übertrieben selbstsicher sein"
+      },
+      "equivalent": {
+        "tr": "kendini beğenmiş olmak, burnu havada olmak; ukala olmak",
+        "de": "eingebildet sein, von sich eingenommen sein; großspurig sein"
+      },
+      "intensity": {
+        "en": "moderate",
+        "tr": "orta",
+        "de": "mittel"
+      },
+      "level": 2,
+      "literal": {
+        "en": "to be filled with yourself · cock = rooster",
+        "tr": "kendisiyle dolu olmak · cock = horoz"
+      },
+      "register": {
+        "en": "informal (critical)",
+        "tr": "gündelik (eleştirel)"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "be full of yourself (personality) · be/get cocky (attitude in the moment). confident is positive; cocky and full of himself are negative.",
+        "tr": "be full of yourself (kişilik) · be/get cocky (o anki tavır). confident olumlu; cocky ve full of himself olumsuzdur."
+      },
+      "sentences": [
+        {
+          "en": "He's so [full of himself] — he only ever talks about his own achievements.",
+          "tr": "Çok kendini beğenmiş, hep kendi başarılarını anlatıyor.",
+          "de": "Er ist so von sich eingenommen – er redet immer nur über seine eigenen Erfolge."
+        },
+        {
+          "en": "Don't get [cocky] — it was only the first round.",
+          "tr": "Hemen havaya girme, daha ilk turdu.",
+          "de": "Werd nicht übermütig – das war erst die erste Runde."
+        }
+      ]
+    },
+    {
+      "id": "show-off-brag",
+      "expr": "show off / brag",
+      "meaning": {
+        "en": "to try to impress people; to boast",
+        "tr": "hava atmak, övünmek",
+        "de": "versuchen, andere zu beeindrucken; prahlen"
+      },
+      "equivalent": {
+        "tr": "hava atmak, gösteriş yapmak; böbürlenmek",
+        "de": "angeben, sich aufspielen; prahlen"
+      },
+      "intensity": {
+        "en": "mild–moderate",
+        "tr": "hafif–orta",
+        "de": "mild–mittel"
+      },
+      "level": 1,
+      "literal": {
+        "en": "show = to display; off = outward, on display",
+        "tr": "show = göstermek; off = dışarıya, sergileyerek"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "show off (intransitive: boast, negative) · show sth off (transitive: display proudly, neutral) · a show-off (noun) · brag about sth · \"Not to brag, but…\"",
+        "tr": "show off (geçişsiz: hava atmak, olumsuz) · show sth off (geçişli: gururla göstermek, nötr) · a show-off (isim) · brag about sth · \"Not to brag, but…\""
+      },
+      "sentences": [
+        {
+          "en": "He's just [showing off] in front of his friends.",
+          "tr": "Arkadaşlarının önünde hava atıyor sadece.",
+          "de": "Er gibt nur vor seinen Freunden an."
+        },
+        {
+          "en": "Not to [brag], but I got the highest mark in the class.",
+          "tr": "Övünmek gibi olmasın ama sınıfın en yüksek notunu aldım.",
+          "de": "Ich will ja nicht angeben, aber ich hatte die beste Note im Kurs."
+        }
+      ]
+    }
+  ]
+}

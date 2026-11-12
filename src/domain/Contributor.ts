@@ -24,6 +24,8 @@ export class Contributor {
     readonly objects: number,
     readonly roots: readonly AddedRoot[],
     readonly lists: readonly AddedList[],
+    /** Everyday expressions, in the category files this person added. */
+    readonly expressions = 0,
   ) {}
 
   get totalWords(): number {

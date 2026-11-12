@@ -1,0 +1,586 @@
+{
+  "id": "surprise",
+  "addedBy": "writerforight",
+  "title": {
+    "en": "Surprise, shock and disbelief",
+    "tr": "Şaşkınlık, şok ve inanamama",
+    "de": "Überraschung, Schock und Unglaube",
+    "fr": "Surprise, choc et incrédulité",
+    "it": "Sorpresa, shock e incredulità",
+    "es": "Sorpresa, shock e incredulidad"
+  },
+  "expressions": [
+    {
+      "id": "be-blown-away",
+      "expr": "be blown away",
+      "meaning": {
+        "en": "to be hugely impressed (positive surprise)",
+        "tr": "bir şeyden çok etkilenmek, hayran kalmak (olumlu şaşkınlık)",
+        "de": "enorm beeindruckt sein (positive Überraschung)"
+      },
+      "equivalent": {
+        "tr": "büyülenmek, çok etkilenmek, ağzı açık kalmak",
+        "de": "überwältigt sein, umgehauen sein, begeistert sein"
+      },
+      "intensity": {
+        "en": "strong",
+        "tr": "güçlü",
+        "de": "stark"
+      },
+      "level": 3,
+      "literal": {
+        "en": "to be swept away by the wind",
+        "tr": "rüzgârla savrulup gitmek"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "be blown away (by sth) → the one impressed. sth blows sb away → the impressive thing. Unlike blow up, here the passive does carry the emotional meaning.",
+        "tr": "be blown away (by sth) → etkilenen. sth blows sb away → etkileyen. Blow up'ın tersine burada edilgen yapı duygu anlamı taşır."
+      },
+      "sentences": [
+        {
+          "en": "I was [blown away] by how good the food was.",
+          "tr": "Yemeklerin bu kadar iyi olmasına hayran kaldım.",
+          "de": "Ich war überwältigt, wie gut das Essen war."
+        },
+        {
+          "en": "Her performance just [blew me away].",
+          "tr": "Performansı beni resmen büyüledi.",
+          "de": "Ihr Auftritt hat mich einfach umgehauen."
+        }
+      ]
+    },
+    {
+      "id": "be-taken-aback",
+      "expr": "be taken aback",
+      "meaning": {
+        "en": "to be startled by an unexpected remark or behaviour (usually mildly negative)",
+        "tr": "beklenmedik bir söz/davranış karşısında afallamak (çoğunlukla hafif olumsuz)",
+        "de": "von einer unerwarteten Bemerkung oder einem Verhalten überrascht sein (meist leicht negativ)"
+      },
+      "equivalent": {
+        "tr": "afallamak, şaşırıp kalmak",
+        "de": "verblüfft sein, verdutzt sein, vor den Kopf gestoßen sein"
+      },
+      "intensity": {
+        "en": "moderate",
+        "tr": "orta",
+        "de": "mittel"
+      },
+      "level": 2,
+      "literal": {
+        "en": "to be pushed backwards (nautical origin)",
+        "tr": "geriye doğru itilmek (denizcilik kökenli)"
+      },
+      "register": {
+        "en": "neutral",
+        "tr": "nötr",
+        "de": "neutral"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "Almost always passive: be taken aback (by sth). ✗ taken back (that is different: to be returned / to be reminded of the past).",
+        "tr": "Neredeyse hep edilgen: be taken aback (by sth). ✗ taken back (o başka: geri götürülmek/geçmişi hatırlamak)."
+      },
+      "collocations": {
+        "en": "a bit / somewhat / completely taken aback",
+        "tr": "a bit / somewhat / completely taken aback"
+      },
+      "sentences": [
+        {
+          "en": "I was a bit [taken aback] by how rude he was.",
+          "tr": "Bu kadar kaba olmasına biraz afalladım.",
+          "de": "Ich war etwas verblüfft, wie unhöflich er war."
+        },
+        {
+          "en": "She seemed [taken aback] when I asked about her ex.",
+          "tr": "Eski sevgilisini sorunca afalladı.",
+          "de": "Sie wirkte verdutzt, als ich nach ihrem Ex fragte."
+        }
+      ]
+    },
+    {
+      "id": "catch-someone-off-guard",
+      "expr": "catch someone off guard",
+      "meaning": {
+        "en": "to surprise someone who is not prepared",
+        "tr": "birini hazırlıksız yakalamak",
+        "de": "jemanden überraschen, der nicht vorbereitet ist"
+      },
+      "equivalent": {
+        "tr": "hazırlıksız yakalamak, gafil avlamak",
+        "de": "jemanden kalt erwischen, jemanden überrumpeln"
+      },
+      "intensity": {
+        "en": "moderate",
+        "tr": "orta",
+        "de": "mittel"
+      },
+      "level": 2,
+      "literal": {
+        "en": "to catch someone with their guard down",
+        "tr": "birini gardı düşükken yakalamak"
+      },
+      "register": {
+        "en": "neutral",
+        "tr": "nötr",
+        "de": "neutral"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "sth catches sb off guard · be caught off guard (by sth)",
+        "tr": "sth catches sb off guard · be caught off guard (by sth)"
+      },
+      "sentences": [
+        {
+          "en": "The question totally [caught me off guard].",
+          "tr": "Soru beni tamamen hazırlıksız yakaladı.",
+          "de": "Die Frage hat mich völlig kalt erwischt."
+        },
+        {
+          "en": "I was [caught off guard] when she started crying.",
+          "tr": "Ağlamaya başlayınca ne yapacağımı şaşırdım.",
+          "de": "Ich war überrumpelt, als sie anfing zu weinen."
+        }
+      ]
+    },
+    {
+      "id": "cant-believe",
+      "expr": "can't believe",
+      "meaning": {
+        "en": "to express surprise, admiration or reproach",
+        "tr": "şaşkınlık, hayranlık ya da sitem bildirmek",
+        "de": "Überraschung, Bewunderung oder Vorwurf ausdrücken"
+      },
+      "equivalent": {
+        "tr": "inanamıyorum, yok artık",
+        "de": "es nicht fassen können, es nicht glauben können"
+      },
+      "intensity": {
+        "en": "moderate–strong",
+        "tr": "orta–güçlü",
+        "de": "mittel–stark"
+      },
+      "level": 2,
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "I can't believe (that) + clause · I can't believe it! · \"I can't believe you did that.\" (often reproach) · unbelievable",
+        "tr": "I can't believe (that) + cümle · I can't believe it! · \"I can't believe you did that.\" (çoğu zaman sitem) · unbelievable"
+      },
+      "sentences": [
+        {
+          "en": "I [can't believe] she actually said that to your face.",
+          "tr": "Bunu gerçekten yüzüne söylediğine inanamıyorum.",
+          "de": "Ich kann nicht fassen, dass sie dir das wirklich ins Gesicht gesagt hat."
+        },
+        {
+          "en": "I [can't believe] it's already November.",
+          "tr": "Kasım geldi bile, inanamıyorum.",
+          "de": "Ich kann nicht glauben, dass schon November ist."
+        }
+      ]
+    },
+    {
+      "id": "be-speechless",
+      "expr": "be speechless",
+      "meaning": {
+        "en": "to be unable to find words from surprise (or anger)",
+        "tr": "şaşkınlıktan (ya da öfkeden) söyleyecek söz bulamamak",
+        "de": "vor Überraschung (oder Wut) keine Worte finden"
+      },
+      "equivalent": {
+        "tr": "dili tutulmak, nutku tutulmak",
+        "de": "sprachlos sein, jemandem fehlen die Worte"
+      },
+      "intensity": {
+        "en": "strong",
+        "tr": "güçlü",
+        "de": "stark"
+      },
+      "level": 3,
+      "literal": {
+        "en": "without speech",
+        "tr": "konuşmasız"
+      },
+      "register": {
+        "en": "neutral",
+        "tr": "nötr",
+        "de": "neutral"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "be/be left speechless · synonyms: be lost for words (BrE) / at a loss for words (AmE)",
+        "tr": "be/be left speechless · eşanlamlı: be lost for words (BrE) / at a loss for words (AmE)"
+      },
+      "sentences": [
+        {
+          "en": "When they announced my name, I was [speechless].",
+          "tr": "Adımı anons ettiklerinde nutkum tutuldu.",
+          "de": "Als sie meinen Namen aufriefen, war ich sprachlos."
+        },
+        {
+          "en": "Honestly, I'm [speechless]. I don't even know what to say to that.",
+          "tr": "Vallahi dilim tutuldu, buna ne denir bilmiyorum.",
+          "de": "Ehrlich, ich bin sprachlos. Ich weiß gar nicht, was ich dazu sagen soll."
+        }
+      ]
+    },
+    {
+      "id": "be-in-shock-be-shocked",
+      "expr": "be in shock / be shocked",
+      "meaning": {
+        "en": "to be surprised to a shaking degree",
+        "tr": "sarsıcı derecede şaşırmak",
+        "de": "so überrascht sein, dass es einen erschüttert"
+      },
+      "equivalent": {
+        "tr": "şoke olmak, şokta olmak",
+        "de": "unter Schock stehen, geschockt sein"
+      },
+      "intensity": {
+        "en": "strong",
+        "tr": "güçlü",
+        "de": "stark"
+      },
+      "level": 3,
+      "register": {
+        "en": "neutral",
+        "tr": "nötr",
+        "de": "neutral"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "be shocked (by/at sth · to hear · that …) → the reaction. be in shock → a state whose effect still lasts. shocking = causing shock. Slang: \"I'm shook.\"",
+        "tr": "be shocked (by/at sth · to hear · that …) → tepki. be in shock → etkisi hâlâ süren hâl. shocking = şoke edici. Argo: \"I'm shook.\""
+      },
+      "sentences": [
+        {
+          "en": "I'm still [in shock] — I really didn't expect to win.",
+          "tr": "Hâlâ şoktayım, kazanmayı hiç beklemiyordum.",
+          "de": "Ich stehe immer noch unter Schock – ich habe wirklich nicht erwartet zu gewinnen."
+        },
+        {
+          "en": "I was [shocked] at how much weight he'd lost.",
+          "tr": "Ne kadar kilo verdiğini görünce şoke oldum.",
+          "de": "Ich war geschockt, wie viel er abgenommen hatte."
+        }
+      ]
+    },
+    {
+      "id": "no-way",
+      "expr": "No way!",
+      "meaning": {
+        "en": "(1) disbelief: \"That can't be true!\" (2) flat refusal: \"Absolutely not.\"",
+        "tr": "(1) inanamama: \"Yok artık!\" (2) kesin ret: \"Hayatta olmaz.\"",
+        "de": "(1) Unglaube: „Das kann nicht wahr sein!“ (2) klare Ablehnung: „Auf keinen Fall.“"
+      },
+      "equivalent": {
+        "tr": "Yok artık! Hadi canım! / Asla, hayatta olmaz",
+        "de": "Echt jetzt? Das gibt's doch nicht! / Auf keinen Fall. Vergiss es."
+      },
+      "intensity": {
+        "en": "moderate–strong",
+        "tr": "orta–güçlü",
+        "de": "mittel–stark"
+      },
+      "level": 2,
+      "literal": {
+        "en": "there is no way",
+        "tr": "hiçbir yolu yok"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "An exclamation on its own. Also: \"There's no way + clause\" = it's impossible that.",
+        "tr": "Tek başına ünlem. Ayrıca: \"There's no way + cümle\" = imkânı yok."
+      },
+      "sentences": [
+        {
+          "en": "\"They're getting married.\" \"[No way]! Since when?\"",
+          "tr": "\"Evleniyorlar.\" \"Yok artık! Ne zamandan beri?\"",
+          "de": "„Sie heiraten.“ „Das gibt's doch nicht! Seit wann?“"
+        },
+        {
+          "en": "\"Can you lend me 500 euros?\" \"[No way].\"",
+          "tr": "\"Bana 500 avro borç verir misin?\" \"Hayatta olmaz.\"",
+          "de": "„Kannst du mir 500 Euro leihen?“ „Auf keinen Fall.“"
+        }
+      ]
+    },
+    {
+      "id": "youre-kidding-me-youre-joking",
+      "expr": "You're kidding (me) / You're joking",
+      "meaning": {
+        "en": "to show that you can't believe what you've heard",
+        "tr": "duyduğuna inanamadığını göstermek",
+        "de": "zeigen, dass man nicht glauben kann, was man gehört hat"
+      },
+      "equivalent": {
+        "tr": "Şaka yapıyorsun! Dalga mı geçiyorsun?",
+        "de": "Das ist nicht dein Ernst! Du machst Witze!"
+      },
+      "intensity": {
+        "en": "moderate",
+        "tr": "orta",
+        "de": "mittel"
+      },
+      "level": 2,
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "kidding: AmE + BrE (more common in AmE) · joking: more common in BrE",
+        "tr": "kidding: AmE + BrE (AmE'de daha sık) · joking: BrE'de daha sık"
+      },
+      "usage": {
+        "en": "\"You're kidding.\" (surprise) · \"You've got to be kidding me.\" (usually annoyed disbelief) · \"No kidding!\" = (1) really? (2) ironic: \"as if anyone didn't know\"",
+        "tr": "\"You're kidding.\" (şaşkınlık) · \"You've got to be kidding me.\" (çoğu zaman sinirli inanamama) · \"No kidding!\" = (1) gerçekten mi? (2) ironik: \"bunu bilmeyen mi var\""
+      },
+      "sentences": [
+        {
+          "en": "\"I quit my job today.\" \"[You're kidding]. Seriously?\"",
+          "tr": "\"Bugün istifa ettim.\" \"Şaka yapıyorsun. Ciddi misin?\"",
+          "de": "„Ich habe heute gekündigt.“ „Du machst Witze. Im Ernst?“"
+        },
+        {
+          "en": "The train's cancelled again? You've got to be [kidding me].",
+          "tr": "Tren yine mi iptal? Dalga geçiyor olmalılar.",
+          "de": "Der Zug fällt schon wieder aus? Das ist doch nicht euer Ernst."
+        }
+      ]
+    },
+    {
+      "id": "not-see-it-coming",
+      "expr": "not see it coming",
+      "meaning": {
+        "en": "not to expect something at all",
+        "tr": "bir şeyi hiç beklememek",
+        "de": "etwas überhaupt nicht erwarten"
+      },
+      "equivalent": {
+        "tr": "hiç beklememek, aklının ucundan geçmemek",
+        "de": "etwas nicht kommen sehen, mit etwas nicht rechnen"
+      },
+      "intensity": {
+        "en": "moderate",
+        "tr": "orta",
+        "de": "mittel"
+      },
+      "level": 2,
+      "literal": {
+        "en": "not to see it approaching",
+        "tr": "geldiğini görmemek"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "didn't see it/that coming · should have seen it coming (it was obvious, really)",
+        "tr": "didn't see it/that coming · should have seen it coming (belliydi aslında)"
+      },
+      "sentences": [
+        {
+          "en": "They broke up? Wow, I did not [see that coming].",
+          "tr": "Ayrıldılar mı? Vay, bunu hiç beklemiyordum.",
+          "de": "Sie haben sich getrennt? Wow, damit habe ich nicht gerechnet."
+        },
+        {
+          "en": "Looking back, I should have [seen it coming].",
+          "tr": "Dönüp bakınca, olacağı belliydi aslında.",
+          "de": "Im Nachhinein hätte ich es kommen sehen müssen."
+        }
+      ]
+    },
+    {
+      "id": "out-of-the-blue",
+      "expr": "out of the blue",
+      "meaning": {
+        "en": "completely unexpectedly, with no warning",
+        "tr": "hiç beklenmedik anda, durup dururken",
+        "de": "völlig unerwartet, ohne Vorwarnung"
+      },
+      "equivalent": {
+        "tr": "durup dururken, pat diye, hiç yoktan",
+        "de": "aus heiterem Himmel, wie aus dem Nichts"
+      },
+      "intensity": {
+        "en": "moderate",
+        "tr": "orta",
+        "de": "mittel"
+      },
+      "level": 2,
+      "literal": {
+        "en": "out of the clear blue sky (like a sudden bolt of lightning)",
+        "tr": "masmavi gökten (birden düşen yıldırım gibi)"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "Adverbial phrase; usually at the end of the clause. \"completely out of the blue\".",
+        "tr": "Zarf öbeği; genellikle cümle sonunda. \"completely out of the blue\"."
+      },
+      "collocations": {
+        "en": "call/text sb out of the blue · It came out of the blue.",
+        "tr": "call/text sb out of the blue · It came out of the blue."
+      },
+      "sentences": [
+        {
+          "en": "My ex texted me [out of the blue] last night.",
+          "tr": "Eski sevgilim dün gece durup dururken mesaj attı.",
+          "de": "Mein Ex hat mir gestern Abend aus heiterem Himmel geschrieben."
+        },
+        {
+          "en": "He just quit, completely [out of the blue].",
+          "tr": "Pat diye istifa etti, hiç beklenmedik biçimde.",
+          "de": "Er hat einfach gekündigt, völlig aus heiterem Himmel."
+        }
+      ]
+    },
+    {
+      "id": "be-floored-be-gobsmacked",
+      "expr": "be floored / be gobsmacked",
+      "meaning": {
+        "en": "to be frozen with astonishment",
+        "tr": "şaşkınlıktan donup kalmak",
+        "de": "vor Staunen wie erstarrt sein"
+      },
+      "equivalent": {
+        "tr": "şaşkına dönmek, ağzı açık kalmak, küçük dilini yutmak",
+        "de": "baff sein, platt sein, sprachlos sein"
+      },
+      "intensity": {
+        "en": "strong–extreme",
+        "tr": "güçlü–aşırı",
+        "de": "stark–extrem"
+      },
+      "level": 3,
+      "literal": {
+        "en": "floored = knocked to the floor · gob (mouth) + smacked (slapped)",
+        "tr": "floored = yere serilmiş · gob (ağız) + smacked (şaplak yemiş)"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "floored: mainly AmE · gobsmacked: BrE",
+        "tr": "floored: ağırlıklı AmE · gobsmacked: BrE"
+      },
+      "usage": {
+        "en": "be floored/gobsmacked (by sth / when …). Intensified with absolutely.",
+        "tr": "be floored/gobsmacked (by sth / when …). absolutely ile güçlendirilir."
+      },
+      "sentences": [
+        {
+          "en": "I was [floored] when I saw the price.",
+          "tr": "Fiyatı görünce şaşkına döndüm.",
+          "de": "Ich war baff, als ich den Preis gesehen habe."
+        },
+        {
+          "en": "I was absolutely [gobsmacked] when she told me how old she was.",
+          "tr": "Yaşını söylediğinde ağzım açık kaldı.",
+          "de": "Ich war völlig platt, als sie mir sagte, wie alt sie ist."
+        }
+      ]
+    },
+    {
+      "id": "sink-in",
+      "expr": "sink in",
+      "meaning": {
+        "en": "(of news or a fact) to be slowly understood and felt",
+        "tr": "(bir haber/gerçek) yavaş yavaş idrak edilmek",
+        "de": "(von einer Nachricht oder Tatsache) langsam begriffen und gefühlt werden"
+      },
+      "equivalent": {
+        "tr": "kafasına dank etmek, idrak etmek, içine sinmek",
+        "de": "sacken, bei jemandem ankommen, etwas realisieren"
+      },
+      "intensity": {
+        "en": "mild–moderate",
+        "tr": "hafif–orta",
+        "de": "mild–mittel"
+      },
+      "level": 1,
+      "literal": {
+        "en": "to sink into, to be absorbed",
+        "tr": "içine batmak, emilmek"
+      },
+      "register": {
+        "en": "neutral–informal",
+        "tr": "nötr–gündelik",
+        "de": "neutral–umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "Subject = the news/fact: \"It hasn't sunk in yet.\" ✗ I haven't sunk in. · \"Let that sink in.\" (think about that for a moment)",
+        "tr": "Özne = haber/gerçek: \"It hasn't sunk in yet.\" ✗ I haven't sunk in. · \"Let that sink in.\" (bunu bir düşün)"
+      },
+      "sentences": [
+        {
+          "en": "I got the job, but it still hasn't [sunk in].",
+          "tr": "İşi aldım ama hâlâ tam idrak edemedim.",
+          "de": "Ich habe den Job bekommen, aber ich habe es noch gar nicht realisiert."
+        },
+        {
+          "en": "It took a few days for the news to [sink in].",
+          "tr": "Haberi sindirmem birkaç gün sürdü.",
+          "de": "Es hat ein paar Tage gedauert, bis die Nachricht gesackt war."
+        }
+      ]
+    }
+  ]
+}

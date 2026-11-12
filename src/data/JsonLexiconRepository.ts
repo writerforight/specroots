@@ -1,6 +1,7 @@
 import type { Contributor } from '../domain/Contributor';
 import type { Affix, AffixIndex } from '../domain/Affix';
 import type { EverydayObject, ListSummary, ObjectSummary, WordList } from '../domain/EverydayObject';
+import type { CategorySummary, ExpressionCategory } from '../domain/Expression';
 import type { SourceLang } from '../domain/Language';
 import type { Root, RootSummary } from '../domain/Root';
 import { LexiconParser } from './LexiconParser';
@@ -11,7 +12,8 @@ export type Fetcher = (path: string) => Promise<unknown>;
 /**
  * Reads public/data: index.json for the list, one file per root loaded when it is opened, and
  * affix-index.json only once the learner browses by prefix or suffix. Objects work the same way:
- * objects-index.json and lists-index.json for lists and search, one file per list or object when opened.
+ * objects-index.json and lists-index.json for lists and search, one file per list or object when opened;
+ * expressions-index.json and one file per category of everyday expressions.
  */
 export class JsonLexiconRepository implements LexiconRepository {
   private readonly parser = new LexiconParser();
@@ -23,6 +25,8 @@ export class JsonLexiconRepository implements LexiconRepository {
   private readonly lists = new Map<string, Promise<WordList>>();
   private objectIndex: Promise<ObjectSummary[]> | null = null;
   private readonly objects = new Map<string, Promise<EverydayObject>>();
+  private categoryIndex: Promise<CategorySummary[]> | null = null;
+  private readonly categories = new Map<string, Promise<ExpressionCategory>>();
   private contributors: Promise<Contributor[]> | null = null;
 
   /**
@@ -114,6 +118,22 @@ export class JsonLexiconRepository implements LexiconRepository {
       this.lists.set(id, list);
     }
     return list;
+  }
+
+  listExpressionCategories(): Promise<CategorySummary[]> {
+    this.categoryIndex ??= this.fetchJson('data/expressions-index.json').then((raw) => this.parser.parseExpressionIndex(raw));
+    this.categoryIndex.catch(() => (this.categoryIndex = null));
+    return this.categoryIndex;
+  }
+
+  getExpressionCategory(id: string): Promise<ExpressionCategory> {
+    let category = this.categories.get(id);
+    if (!category) {
+      category = this.fetchJson(`data/expressions/${encodeURIComponent(id)}.json`).then((raw) => this.parser.parseExpressionCategory(raw));
+      category.catch(() => this.categories.delete(id));
+      this.categories.set(id, category);
+    }
+    return category;
   }
 
   listContributors(): Promise<Contributor[]> {

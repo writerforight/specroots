@@ -1,0 +1,604 @@
+{
+  "id": "sadness",
+  "addedBy": "writerforight",
+  "title": {
+    "en": "Sadness, disappointment and depression",
+    "tr": "Üzüntü, hayal kırıklığı ve çöküntü",
+    "de": "Traurigkeit, Enttäuschung und Niedergeschlagenheit",
+    "fr": "Tristesse, déception et abattement",
+    "it": "Tristezza, delusione e abbattimento",
+    "es": "Tristeza, decepción y desánimo"
+  },
+  "expressions": [
+    {
+      "id": "feel-down",
+      "expr": "feel down",
+      "meaning": {
+        "en": "to feel low and in poor spirits (temporarily)",
+        "tr": "moralsiz, keyifsiz hissetmek (geçici)",
+        "de": "sich (vorübergehend) niedergeschlagen und lustlos fühlen"
+      },
+      "equivalent": {
+        "tr": "morali bozuk olmak, keyifsiz olmak",
+        "de": "niedergeschlagen sein, schlecht drauf sein"
+      },
+      "intensity": {
+        "en": "mild–moderate",
+        "tr": "hafif–orta",
+        "de": "mild–mittel"
+      },
+      "level": 1,
+      "literal": {
+        "en": "to feel low (the SAD IS DOWN metaphor)",
+        "tr": "aşağıda hissetmek (ÜZGÜN = AŞAĞI)"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "feel/be down (about sth) → the person's state. bring sb down / get sb down → cause (subject = the thing that lowers your mood).",
+        "tr": "feel/be down (about sth) → kişinin hâli. bring sb down / get sb down → sebep (özne = moral bozan şey)."
+      },
+      "collocations": {
+        "en": "a bit / kind of / really down · down lately",
+        "tr": "a bit / kind of / really down · down lately"
+      },
+      "sentences": [
+        {
+          "en": "I've been [feeling kind of down] lately — I don't really know why.",
+          "tr": "Son zamanlarda biraz moralsizim, nedenini de pek bilmiyorum.",
+          "de": "Ich bin in letzter Zeit irgendwie niedergeschlagen – ich weiß nicht genau, warum."
+        },
+        {
+          "en": "She's a bit [down] about not getting the job.",
+          "tr": "İşi alamadığı için biraz morali bozuk.",
+          "de": "Sie ist ein bisschen geknickt, weil sie den Job nicht bekommen hat."
+        }
+      ]
+    },
+    {
+      "id": "be-upset",
+      "expr": "be upset",
+      "meaning": {
+        "en": "a mix of sad + hurt + a little angry",
+        "tr": "üzgün + kırgın + biraz da kızgın karışımı bir hâl",
+        "de": "eine Mischung aus traurig, verletzt und ein wenig verärgert"
+      },
+      "equivalent": {
+        "tr": "üzülmek, bozulmak, kırılmak",
+        "de": "aufgewühlt sein, gekränkt sein, traurig sein"
+      },
+      "intensity": {
+        "en": "moderate",
+        "tr": "orta",
+        "de": "mittel"
+      },
+      "level": 2,
+      "register": {
+        "en": "neutral",
+        "tr": "nötr",
+        "de": "neutral"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "be/get upset (about/over sth) · upset with sb (hurt by / cross with someone) · upset sb (transitive) · upsetting (distressing)",
+        "tr": "be/get upset (about/over sth) · upset with sb (birine kırgın/kızgın) · upset sb (geçişli) · upsetting (üzücü)"
+      },
+      "collocations": {
+        "en": "really upset · visibly upset · Don't get upset.",
+        "tr": "really upset · visibly upset · Don't get upset."
+      },
+      "sentences": [
+        {
+          "en": "She's really [upset] about what you said.",
+          "tr": "Söylediğin şeye çok üzüldü.",
+          "de": "Sie ist wirklich gekränkt wegen dem, was du gesagt hast."
+        },
+        {
+          "en": "Are you [upset with] me?",
+          "tr": "Bana kırgın mısın?",
+          "de": "Bist du böse auf mich?"
+        },
+        {
+          "en": "I didn't mean to [upset] you.",
+          "tr": "Seni üzmek istemedim.",
+          "de": "Ich wollte dich nicht kränken."
+        }
+      ]
+    },
+    {
+      "id": "be-bummed-out",
+      "expr": "be bummed (out)",
+      "meaning": {
+        "en": "to be disappointed and a bit low",
+        "tr": "hayal kırıklığına uğramış, canı sıkılmış olmak",
+        "de": "enttäuscht und ein bisschen geknickt sein"
+      },
+      "equivalent": {
+        "tr": "bozulmak, canı sıkılmak, üzülmek",
+        "de": "enttäuscht sein, geknickt sein"
+      },
+      "intensity": {
+        "en": "mild–moderate",
+        "tr": "hafif–orta",
+        "de": "mild–mittel"
+      },
+      "level": 1,
+      "register": {
+        "en": "slang–informal",
+        "tr": "argo–gündelik",
+        "de": "Slang–umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE",
+        "tr": "AmE"
+      },
+      "usage": {
+        "en": "be bummed (out) (about sth / that …) · bum sb out · \"That's a bummer.\" (noun: an annoying, disappointing situation)",
+        "tr": "be bummed (out) (about sth / that …) · bum sb out · \"That's a bummer.\" (isim: can sıkıcı durum)"
+      },
+      "sentences": [
+        {
+          "en": "I'm so [bummed] that the trip got cancelled.",
+          "tr": "Gezinin iptal olmasına çok bozuldum.",
+          "de": "Ich bin so enttäuscht, dass die Reise abgesagt wurde."
+        },
+        {
+          "en": "He's pretty [bummed out] about missing the game.",
+          "tr": "Maçı kaçırdığı için bayağı canı sıkkın.",
+          "de": "Er ist ziemlich geknickt, weil er das Spiel verpasst hat."
+        }
+      ]
+    },
+    {
+      "id": "be-gutted",
+      "expr": "be gutted",
+      "meaning": {
+        "en": "to be bitterly disappointed",
+        "tr": "çok büyük hayal kırıklığı yaşamak",
+        "de": "bitter enttäuscht sein"
+      },
+      "equivalent": {
+        "tr": "yıkılmak, çok üzülmek",
+        "de": "am Boden zerstört sein, total enttäuscht sein"
+      },
+      "intensity": {
+        "en": "strong",
+        "tr": "güçlü",
+        "de": "stark"
+      },
+      "level": 3,
+      "literal": {
+        "en": "with the insides removed (like a fish)",
+        "tr": "içi boşaltılmış (balık gibi)"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "BrE",
+        "tr": "BrE"
+      },
+      "usage": {
+        "en": "be gutted (about sth / that …). Intensifier: absolutely gutted.",
+        "tr": "be gutted (about sth / that …). Güçlendirme: absolutely gutted."
+      },
+      "sentences": [
+        {
+          "en": "I was absolutely [gutted] when we lost in the final.",
+          "tr": "Finalde kaybedince resmen yıkıldım.",
+          "de": "Ich war am Boden zerstört, als wir das Finale verloren haben."
+        },
+        {
+          "en": "She's [gutted] she can't come.",
+          "tr": "Gelemediği için çok üzgün.",
+          "de": "Sie ist todtraurig, dass sie nicht kommen kann."
+        }
+      ]
+    },
+    {
+      "id": "be-heartbroken-break-someones-heart",
+      "expr": "be heartbroken / break someone's heart",
+      "meaning": {
+        "en": "to suffer deep pain (especially over love or loss)",
+        "tr": "(özellikle aşk ya da kayıp yüzünden) derin acı çekmek",
+        "de": "tiefen Schmerz empfinden (vor allem wegen Liebe oder Verlust)"
+      },
+      "equivalent": {
+        "tr": "kalbi kırılmak, yüreği parçalanmak",
+        "de": "untröstlich sein; jemandem das Herz brechen"
+      },
+      "intensity": {
+        "en": "extreme",
+        "tr": "aşırı",
+        "de": "extrem"
+      },
+      "level": 4,
+      "literal": {
+        "en": "to have a broken heart / to break someone's heart",
+        "tr": "kalbi kırılmış olmak / kalbini kırmak"
+      },
+      "register": {
+        "en": "neutral",
+        "tr": "nötr",
+        "de": "neutral"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "be heartbroken (over/about) → state. break sb's heart → cause. \"It breaks my heart to + verb\". For a minor hurt (Turkish \"kalbimi kırdın\") say: You hurt my feelings.",
+        "tr": "be heartbroken (over/about) → durum. break sb's heart → sebep. \"It breaks my heart to + fiil\". Türkçedeki hafif \"kalbimi kırdın\" için: You hurt my feelings."
+      },
+      "sentences": [
+        {
+          "en": "She was [heartbroken] when they split up.",
+          "tr": "Ayrıldıklarında kalbi paramparça oldu.",
+          "de": "Sie war untröstlich, als sie sich getrennt haben."
+        },
+        {
+          "en": "It [breaks my heart] to see him like this.",
+          "tr": "Onu böyle görmek içimi parçalıyor.",
+          "de": "Es bricht mir das Herz, ihn so zu sehen."
+        }
+      ]
+    },
+    {
+      "id": "be-devastated",
+      "expr": "be devastated",
+      "meaning": {
+        "en": "to be completely crushed by news or a loss",
+        "tr": "bir haber/kayıp karşısında tamamen yıkılmak",
+        "de": "von einer Nachricht oder einem Verlust völlig erschüttert sein"
+      },
+      "equivalent": {
+        "tr": "yıkılmak, perişan olmak",
+        "de": "am Boden zerstört sein, erschüttert sein"
+      },
+      "intensity": {
+        "en": "extreme",
+        "tr": "aşırı",
+        "de": "extrem"
+      },
+      "level": 4,
+      "literal": {
+        "en": "laid waste, flattened",
+        "tr": "harap edilmiş, yerle bir olmuş"
+      },
+      "register": {
+        "en": "neutral",
+        "tr": "nötr",
+        "de": "neutral"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "be devastated (by sth / to hear / that …). ✗ very devastated → absolutely devastated.",
+        "tr": "be devastated (by sth / to hear / that …). ✗ very devastated → absolutely devastated."
+      },
+      "sentences": [
+        {
+          "en": "He was [devastated] when his dad passed away.",
+          "tr": "Babası vefat edince yıkıldı.",
+          "de": "Er war am Boden zerstört, als sein Vater starb."
+        },
+        {
+          "en": "We were [devastated] by the news.",
+          "tr": "Haberi alınca perişan olduk.",
+          "de": "Die Nachricht hat uns tief erschüttert."
+        }
+      ]
+    },
+    {
+      "id": "let-someone-down",
+      "expr": "let someone down",
+      "meaning": {
+        "en": "to fail someone who was relying on you",
+        "tr": "birinin güvenini/beklentisini boşa çıkarmak",
+        "de": "jemanden enttäuschen, der sich auf einen verlassen hat"
+      },
+      "equivalent": {
+        "tr": "hayal kırıklığına uğratmak, yüzüstü bırakmak",
+        "de": "jemanden enttäuschen, im Stich lassen"
+      },
+      "intensity": {
+        "en": "moderate–strong",
+        "tr": "orta–güçlü",
+        "de": "mittel–stark"
+      },
+      "level": 2,
+      "literal": {
+        "en": "to lower someone down",
+        "tr": "birini aşağı bırakmak"
+      },
+      "register": {
+        "en": "neutral–informal",
+        "tr": "nötr–gündelik",
+        "de": "neutral–umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "let sb down (transitive, separable) → the one who does it. feel let down (by sb) → the one it happens to. a letdown (noun) → something that falls short of expectations.",
+        "tr": "let sb down (geçişli, ayrılabilir) → yapan. feel let down (by sb) → uğrayan. a letdown (isim) → beklentiyi karşılamayan şey."
+      },
+      "collocations": {
+        "en": "let the team down · Don't let me down. · a bit of a letdown",
+        "tr": "let the team down · Don't let me down. · a bit of a letdown"
+      },
+      "sentences": [
+        {
+          "en": "I trusted you and you [let me down].",
+          "tr": "Sana güvendim, sen de beni yüzüstü bıraktın.",
+          "de": "Ich habe dir vertraut, und du hast mich im Stich gelassen."
+        },
+        {
+          "en": "I feel so [let down] by the whole team.",
+          "tr": "Bütün ekip beni hayal kırıklığına uğrattı.",
+          "de": "Ich fühle mich vom ganzen Team so im Stich gelassen."
+        },
+        {
+          "en": "The movie was a bit of a [letdown].",
+          "tr": "Film biraz hayal kırıklığıydı.",
+          "de": "Der Film war eine kleine Enttäuschung."
+        }
+      ]
+    },
+    {
+      "id": "get-someone-down",
+      "expr": "get someone down",
+      "meaning": {
+        "en": "(of a situation) to gradually make someone unhappy",
+        "tr": "(bir durum) birinin moralini zamanla bozmak",
+        "de": "(von einer Situation) jemanden nach und nach unglücklich machen"
+      },
+      "equivalent": {
+        "tr": "moralini bozmak, içini karartmak",
+        "de": "jemanden runterziehen, deprimieren"
+      },
+      "intensity": {
+        "en": "mild–moderate",
+        "tr": "hafif–orta",
+        "de": "mild–mittel"
+      },
+      "level": 1,
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "sth gets sb down (subject = the cause). \"Don't let it get you down.\" is a very common pattern.",
+        "tr": "sth gets sb down (özne = sebep). \"Don't let it get you down.\" kalıbı çok yaygın."
+      },
+      "sentences": [
+        {
+          "en": "This weather is really [getting me down].",
+          "tr": "Bu hava içimi karartıyor.",
+          "de": "Dieses Wetter zieht mich echt runter."
+        },
+        {
+          "en": "Don't let one bad review [get you down].",
+          "tr": "Tek bir kötü yorum moralini bozmasın.",
+          "de": "Lass dich von einer schlechten Kritik nicht runterziehen."
+        }
+      ]
+    },
+    {
+      "id": "get-ones-hopes-up",
+      "expr": "get one's hopes up",
+      "meaning": {
+        "en": "to start hoping (perhaps for nothing)",
+        "tr": "(belki boşuna) umutlanmak",
+        "de": "sich (vielleicht vergeblich) Hoffnungen machen"
+      },
+      "equivalent": {
+        "tr": "umutlanmak, heveslenmek",
+        "de": "sich Hoffnungen machen"
+      },
+      "intensity": {
+        "en": "mild",
+        "tr": "hafif",
+        "de": "mild"
+      },
+      "level": 1,
+      "literal": {
+        "en": "to raise your hopes",
+        "tr": "umutlarını yukarı kaldırmak"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "get your hopes up (about sth) · get sb's hopes up. Mostly negative: \"Don't get your hopes up.\"",
+        "tr": "get your hopes up (about sth) · get sb's hopes up. Çoğunlukla olumsuz: \"Don't get your hopes up.\""
+      },
+      "sentences": [
+        {
+          "en": "I don't want to [get my hopes up], but the interview went really well.",
+          "tr": "Fazla umutlanmak istemiyorum ama mülakat çok iyi geçti.",
+          "de": "Ich will mir keine zu großen Hoffnungen machen, aber das Gespräch lief richtig gut."
+        },
+        {
+          "en": "Don't [get your hopes up] — he cancels all the time.",
+          "tr": "Çok heveslenme, sürekli iptal eder.",
+          "de": "Mach dir keine Hoffnungen – er sagt ständig ab."
+        }
+      ]
+    },
+    {
+      "id": "tear-up",
+      "expr": "tear up",
+      "meaning": {
+        "en": "to get tears in your eyes (without actually crying yet)",
+        "tr": "gözleri dolmak (henüz ağlamadan)",
+        "de": "Tränen in die Augen bekommen (ohne schon richtig zu weinen)"
+      },
+      "equivalent": {
+        "tr": "gözleri dolmak",
+        "de": "feuchte Augen bekommen, jemandem kommen die Tränen"
+      },
+      "intensity": {
+        "en": "mild–moderate",
+        "tr": "hafif–orta",
+        "de": "mild–mittel"
+      },
+      "level": 1,
+      "literal": {
+        "en": "/tɪr ʌp/ — the eyes filling \"up\"",
+        "tr": "/tɪr ʌp/ — gözlerin \"yukarı\" dolması"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE (\"well up\" is also common in BrE)",
+        "tr": "AmE + BrE (BrE'de \"well up\" da yaygın)"
+      },
+      "usage": {
+        "en": "Intransitive: tear up, teared up. Careful: tear up /ter ʌp/, tore up = to rip to pieces (a completely different verb).",
+        "tr": "Geçişsiz: tear up, teared up. Dikkat: tear up /ter ʌp/, tore up = yırtıp atmak (bambaşka fiil)."
+      },
+      "sentences": [
+        {
+          "en": "I [teared up] during the last scene.",
+          "tr": "Son sahnede gözlerim doldu.",
+          "de": "Bei der letzten Szene kamen mir die Tränen."
+        },
+        {
+          "en": "She started [tearing up] when she talked about her grandma.",
+          "tr": "Babaannesinden bahsederken gözleri dolmaya başladı.",
+          "de": "Sie bekam feuchte Augen, als sie von ihrer Oma erzählte."
+        }
+      ]
+    },
+    {
+      "id": "break-down",
+      "expr": "break down",
+      "meaning": {
+        "en": "to lose control and start crying; to collapse emotionally",
+        "tr": "kendini tutamayıp ağlamaya başlamak, duygusal olarak çökmek",
+        "de": "die Beherrschung verlieren und anfangen zu weinen; seelisch zusammenbrechen"
+      },
+      "equivalent": {
+        "tr": "gözyaşlarına boğulmak, dağılmak",
+        "de": "zusammenbrechen, in Tränen ausbrechen"
+      },
+      "intensity": {
+        "en": "strong",
+        "tr": "güçlü",
+        "de": "stark"
+      },
+      "level": 3,
+      "literal": {
+        "en": "to stop working, to fall apart (like a car)",
+        "tr": "bozulmak, parçalanmak (araba gibi)"
+      },
+      "register": {
+        "en": "neutral",
+        "tr": "nötr",
+        "de": "neutral"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "Intransitive: break down (in tears / crying). break sb down = to wear down someone's resistance (different). Noun: a breakdown.",
+        "tr": "Geçişsiz: break down (in tears / crying). break sb down = birinin direncini kırmak (farklı). İsim: a breakdown."
+      },
+      "collocations": {
+        "en": "break down in tears · completely break down",
+        "tr": "break down in tears · completely break down"
+      },
+      "sentences": [
+        {
+          "en": "She [broke down] in tears in the middle of the meeting.",
+          "tr": "Toplantının ortasında gözyaşlarına boğuldu.",
+          "de": "Sie ist mitten im Meeting in Tränen ausgebrochen."
+        },
+        {
+          "en": "I held it together all day and then [broke down] as soon as I got home.",
+          "tr": "Bütün gün kendimi tuttum, eve girer girmez dağıldım.",
+          "de": "Ich habe mich den ganzen Tag zusammengerissen und bin dann zu Hause sofort zusammengebrochen."
+        }
+      ]
+    },
+    {
+      "id": "go-through-a-lot-a-rough-patch",
+      "expr": "go through a lot / a rough patch",
+      "meaning": {
+        "en": "to be having a difficult time",
+        "tr": "zor bir dönem yaşamak",
+        "de": "eine schwere Zeit durchmachen"
+      },
+      "equivalent": {
+        "tr": "zor günler geçirmek, çok şey yaşamak",
+        "de": "viel durchmachen, eine schwere Phase haben"
+      },
+      "intensity": {
+        "en": "moderate–strong",
+        "tr": "orta–güçlü",
+        "de": "mittel–stark"
+      },
+      "level": 2,
+      "literal": {
+        "en": "to pass through a lot / through a rough stretch of ground",
+        "tr": "çok şeyin içinden geçmek / engebeli bir bölgeden geçmek"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "be going through a lot / a hard time / a rough patch (also of couples). Short form: \"I'm going through it right now.\"",
+        "tr": "be going through a lot / a hard time / a rough patch (çiftler için de). Kısa hâli: \"I'm going through it right now.\""
+      },
+      "sentences": [
+        {
+          "en": "Go easy on her — she's [going through a lot] right now.",
+          "tr": "Ona biraz anlayış göster, şu sıralar zor bir dönemden geçiyor.",
+          "de": "Sei nachsichtig mit ihr – sie macht gerade viel durch."
+        },
+        {
+          "en": "We [went through a rough patch] last year, but we're good now.",
+          "tr": "Geçen yıl ilişkimiz zor bir dönemden geçti ama şimdi iyiyiz.",
+          "de": "Letztes Jahr hatten wir eine schwierige Phase, aber jetzt ist alles gut."
+        }
+      ]
+    }
+  ]
+}

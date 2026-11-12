@@ -117,6 +117,17 @@ seçilen dillerdeki karşılığı ve öğretici örnek cümleleri bir arada gö
     (`.gitignore`; `predev`/`pretest`/`build` üretir) ki ayrı kökler ekleyen iki PR çakışmasın; PR
     denetimi canlı yayını iptal etmez. Ertelenenler: Almanca ek sayfaları, uzun ek açıklamaları,
     eklerde `addedBy`, kelime listesini gizleme (özel veri reposu + lisans).
+19. **Gündelik ifadeler (2026-11-12, kullanıcı isteği):** İngilizce tarafına üçüncü seçenek. Kaynak:
+    kullanıcının 164 duygu ifadelik koleksiyonu (`~/Desktop/projects/duygu-ifadeleri`, `to_specroots.py`
+    ile dönüştürülür). Kullanıcının seçimleri: nesne listeleri gibi gezilir (solda 14 duygu kategorisi,
+    sonra o kategorinin ifadeleri; sağda kartlar); kart kısa (ifade, anlam, seçili dilde karşılık, örnek
+    cümleler, şiddet/üslup etiketi), yapı / eşdizim / AmE-BrE / not "Ayrıntı" altında açılır; diller
+    **TR + EN + DE** (altı dil kuralının tek istisnası; başlıklar altı dilde, fr/it/es isteğe bağlı);
+    kaynaktaki tablo, diyalog, alıştırma ve dilbilgisi bölümleri şimdilik alınmadı.
+    Veri: `public/data/expressions/<kategori>.json` (kategori başına tek dosya, ifadeler öğretme
+    sırasıyla), `expressions-index.json` üretilir. Adresler: `#/expressions`, `#/expressions/<kategori>`,
+    `#/expressions/<kategori>/<ifade>` (karta kayar, ayrıntıyı açar). Arama ifadeyi içindeki herhangi
+    bir kelimeyle, kategoriyi her dildeki başlığıyla bulur. Tarif: AGENTS.md bölüm 12.
 
 ## Mimari
 ```

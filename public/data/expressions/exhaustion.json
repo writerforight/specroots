@@ -1,0 +1,548 @@
+{
+  "id": "exhaustion",
+  "addedBy": "writerforight",
+  "title": {
+    "en": "Exhaustion, boredom and feeling overwhelmed",
+    "tr": "Yorgunluk, can sıkıntısı ve bunalmışlık",
+    "de": "Erschöpfung, Langeweile und Überforderung",
+    "fr": "Fatigue, ennui et surmenage",
+    "it": "Stanchezza, noia e sopraffazione",
+    "es": "Cansancio, aburrimiento y agobio"
+  },
+  "expressions": [
+    {
+      "id": "be-worn-out",
+      "expr": "be worn out",
+      "meaning": {
+        "en": "to be very tired, with no strength left",
+        "tr": "çok yorulmuş, gücü tükenmiş olmak",
+        "de": "sehr müde sein, keine Kraft mehr haben"
+      },
+      "equivalent": {
+        "tr": "bitap düşmek, yıpranmak, pestili çıkmak",
+        "de": "erschöpft sein, erledigt sein, geschafft sein"
+      },
+      "intensity": {
+        "en": "strong",
+        "tr": "güçlü",
+        "de": "stark"
+      },
+      "level": 3,
+      "literal": {
+        "en": "wear = to wear/erode; out = until nothing is left → used until finished",
+        "tr": "wear = giymek/aşındırmak; out = bitene kadar → kullanıla kullanıla eskimiş"
+      },
+      "register": {
+        "en": "neutral–informal",
+        "tr": "nötr–gündelik",
+        "de": "neutral–umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "be/feel worn out → the tired one. wear sb out (separable) → the tiring one. wear yourself out → tire yourself. Also of things: worn-out shoes.",
+        "tr": "be/feel worn out → yorulan. wear sb out (ayrılabilir) → yoran. wear yourself out → kendini yormak. Eşyalar için de: worn-out shoes."
+      },
+      "collocations": {
+        "en": "completely worn out · worn out from/by sth",
+        "tr": "completely worn out · worn out from/by sth"
+      },
+      "sentences": [
+        {
+          "en": "I'm completely [worn out] — I've been on my feet since six.",
+          "tr": "Bittim resmen, altıdan beri ayaktayım.",
+          "de": "Ich bin völlig erledigt – ich bin seit sechs Uhr auf den Beinen."
+        },
+        {
+          "en": "The kids [wore me out] today.",
+          "tr": "Çocuklar bugün canımı çıkardı.",
+          "de": "Die Kinder haben mich heute geschafft."
+        }
+      ]
+    },
+    {
+      "id": "be-exhausted",
+      "expr": "be exhausted",
+      "meaning": {
+        "en": "to be completely drained of energy (far beyond tired)",
+        "tr": "tamamen tükenmiş olmak (tired'ın çok ötesi)",
+        "de": "völlig ohne Energie sein (weit mehr als müde)"
+      },
+      "equivalent": {
+        "tr": "bitkin olmak, tükenmek",
+        "de": "erschöpft sein, völlig fertig sein"
+      },
+      "intensity": {
+        "en": "extreme",
+        "tr": "aşırı",
+        "de": "extrem"
+      },
+      "level": 4,
+      "literal": {
+        "en": "exhaust = to use up, to empty",
+        "tr": "exhaust = tüketmek, boşaltmak"
+      },
+      "register": {
+        "en": "neutral",
+        "tr": "nötr",
+        "de": "neutral"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "exhausted from/by sth · exhausting = very tiring. Extreme adjective: ✗ very exhausted → absolutely / completely exhausted.",
+        "tr": "exhausted from/by sth · exhausting = çok yorucu. Uç sıfat: ✗ very exhausted → absolutely / completely exhausted."
+      },
+      "sentences": [
+        {
+          "en": "I'm [exhausted] from all the travelling.",
+          "tr": "Bu kadar yolculuktan bitkin düştüm.",
+          "de": "Ich bin erschöpft vom vielen Reisen."
+        },
+        {
+          "en": "Sorry, I can't come out tonight — I'm absolutely [exhausted].",
+          "tr": "Kusura bakma, bu akşam çıkamam, tamamen tükendim.",
+          "de": "Tut mir leid, ich kann heute Abend nicht mitkommen – ich bin total fertig."
+        }
+      ]
+    },
+    {
+      "id": "be-beat-wiped-out-be-knackered-shattered",
+      "expr": "be beat / wiped (out) — be knackered / shattered",
+      "meaning": {
+        "en": "to be very tired (the everyday versions of exhausted)",
+        "tr": "çok yorgun olmak (exhausted'ın gündelik hâlleri)",
+        "de": "sehr müde sein (die Alltagsvarianten von exhausted)"
+      },
+      "equivalent": {
+        "tr": "leşi çıkmak, bitmek, pili bitmek",
+        "de": "fix und fertig sein, platt sein, kaputt sein"
+      },
+      "intensity": {
+        "en": "strong",
+        "tr": "güçlü",
+        "de": "stark"
+      },
+      "level": 3,
+      "literal": {
+        "en": "beat = beaten · wiped out = wiped away · shattered = smashed to pieces",
+        "tr": "beat = dövülmüş · wiped out = silinip süpürülmüş · shattered = paramparça"
+      },
+      "register": {
+        "en": "informal (knackered: slang)",
+        "tr": "gündelik (knackered: argo)"
+      },
+      "variety": {
+        "en": "beat, wiped (out): AmE · knackered, shattered: BrE",
+        "tr": "beat, wiped (out): AmE · knackered, shattered: BrE"
+      },
+      "usage": {
+        "en": "Predicate only: I'm beat. ✗ a beat person. \"knackered\" is also used of things: broken, worn out.",
+        "tr": "Sadece yüklem olarak: I'm beat. ✗ a beat person. \"knackered\" eşya için de: bozuk, hurda."
+      },
+      "sentences": [
+        {
+          "en": "I'm [beat]. I'm going straight to bed.",
+          "tr": "Bittim. Doğruca yatıyorum.",
+          "de": "Ich bin platt. Ich gehe direkt ins Bett."
+        },
+        {
+          "en": "I'm absolutely [knackered] after that shift.",
+          "tr": "O vardiyadan sonra leşim çıktı.",
+          "de": "Nach dieser Schicht bin ich fix und fertig."
+        }
+      ]
+    },
+    {
+      "id": "be-drained",
+      "expr": "be drained",
+      "meaning": {
+        "en": "to have had your emotional/mental energy especially sucked out",
+        "tr": "özellikle duygusal/zihinsel enerjisi çekilmiş olmak",
+        "de": "vor allem seelisch und geistig ausgelaugt sein"
+      },
+      "equivalent": {
+        "tr": "enerjisi çekilmek, içi boşalmak, tükenmek",
+        "de": "ausgelaugt sein, leer sein"
+      },
+      "intensity": {
+        "en": "strong",
+        "tr": "güçlü",
+        "de": "stark"
+      },
+      "level": 3,
+      "literal": {
+        "en": "with the water let out (drain = to empty of liquid)",
+        "tr": "suyu boşaltılmış (drain = gider, süzmek)"
+      },
+      "register": {
+        "en": "neutral–informal",
+        "tr": "nötr–gündelik",
+        "de": "neutral–umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "be/feel (emotionally/mentally) drained · sth drains sb · draining = something that uses you up",
+        "tr": "be/feel (emotionally/mentally) drained · sth drains sb · draining = insanı tüketen"
+      },
+      "sentences": [
+        {
+          "en": "After that conversation with my mom, I feel completely [drained].",
+          "tr": "Annemle o konuşmadan sonra bütün enerjim çekildi.",
+          "de": "Nach dem Gespräch mit meiner Mutter fühle ich mich völlig ausgelaugt."
+        },
+        {
+          "en": "Being around him is so [draining].",
+          "tr": "Onun yanında olmak insanı çok yoruyor.",
+          "de": "In seiner Nähe zu sein ist so anstrengend."
+        }
+      ]
+    },
+    {
+      "id": "be-burned-out-burnt-out",
+      "expr": "be burned out / burnt out",
+      "meaning": {
+        "en": "to be used up and unmotivated after long-term stress and overwork",
+        "tr": "uzun süreli stres ve aşırı çalışma sonucu tükenmiş, hevesi kalmamış olmak",
+        "de": "nach langem Stress und Überarbeitung verbraucht und unmotiviert sein"
+      },
+      "equivalent": {
+        "tr": "tükenmişlik yaşamak, tükenmek",
+        "de": "ausgebrannt sein"
+      },
+      "intensity": {
+        "en": "extreme",
+        "tr": "aşırı",
+        "de": "extrem"
+      },
+      "level": 4,
+      "literal": {
+        "en": "burned until finished (a candle, a bulb, a match)",
+        "tr": "yanıp bitmiş (mum, ampul, kibrit)"
+      },
+      "register": {
+        "en": "neutral",
+        "tr": "nötr",
+        "de": "neutral"
+      },
+      "variety": {
+        "en": "burned out: AmE · burnt out: BrE",
+        "tr": "burned out: AmE · burnt out: BrE"
+      },
+      "usage": {
+        "en": "be/feel/get burned out → state. burn out (intransitive) → process. burn yourself out → to use yourself up. burnout (noun).",
+        "tr": "be/feel/get burned out → durum. burn out (geçişsiz) → süreç. burn yourself out → kendini tüketmek. burnout (isim) → tükenmişlik."
+      },
+      "note": {
+        "en": "Not used for one day's tiredness; it takes weeks or months of build-up.",
+        "tr": "Bir günlük yorgunluk için kullanılmaz; haftalar/aylar süren birikim gerekir."
+      },
+      "sentences": [
+        {
+          "en": "I'm totally [burned out] — I haven't had a real day off in months.",
+          "tr": "Tamamen tükendim, aylardır doğru dürüst izin yapmadım.",
+          "de": "Ich bin total ausgebrannt – ich hatte seit Monaten keinen richtigen freien Tag."
+        },
+        {
+          "en": "If you keep working like this, you're going to [burn out].",
+          "tr": "Böyle çalışmaya devam edersen tükeneceksin.",
+          "de": "Wenn du so weiterarbeitest, brennst du aus."
+        }
+      ]
+    },
+    {
+      "id": "feel-overwhelmed",
+      "expr": "feel overwhelmed",
+      "meaning": {
+        "en": "to feel crushed under tasks or emotions, as if you can't cope",
+        "tr": "işlerin/duyguların altında ezilmek, başa çıkamayacak gibi hissetmek",
+        "de": "sich von Aufgaben oder Gefühlen erdrückt fühlen, als käme man nicht mehr klar"
+      },
+      "equivalent": {
+        "tr": "bunalmak, altında ezilmek, boğulmak",
+        "de": "überfordert sein, jemandem wächst alles über den Kopf"
+      },
+      "intensity": {
+        "en": "strong",
+        "tr": "güçlü",
+        "de": "stark"
+      },
+      "level": 3,
+      "literal": {
+        "en": "whelm (archaic) = to be engulfed by a wave; over = going over the top",
+        "tr": "whelm (eski) = dalganın yutması; over = üstünden aşarak"
+      },
+      "register": {
+        "en": "neutral",
+        "tr": "nötr",
+        "de": "neutral"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "be/feel/get overwhelmed (by/with sth) · overwhelming. Can be positive too: overwhelmed by all the support (deeply moved).",
+        "tr": "be/feel/get overwhelmed (by/with sth) · overwhelming = bunaltıcı. Olumlu da olabilir: overwhelmed by all the support (çok duygulanmak)."
+      },
+      "sentences": [
+        {
+          "en": "I feel so [overwhelmed] with everything I have to do this week.",
+          "tr": "Bu hafta yapmam gereken şeylerin altında eziliyorum.",
+          "de": "Ich fühle mich so überfordert von allem, was ich diese Woche erledigen muss."
+        },
+        {
+          "en": "It's a bit [overwhelming] at first, but you'll get used to it.",
+          "tr": "Başta biraz bunaltıcı ama alışırsın.",
+          "de": "Am Anfang ist es etwas viel, aber du gewöhnst dich daran."
+        }
+      ]
+    },
+    {
+      "id": "be-swamped-snowed-under",
+      "expr": "be swamped / snowed under",
+      "meaning": {
+        "en": "to have so much work that you can't look up",
+        "tr": "iş yükünden başını kaldıramamak",
+        "de": "so viel Arbeit haben, dass man nicht mehr aufsehen kann"
+      },
+      "equivalent": {
+        "tr": "işten başını kaşıyamamak, işe boğulmak",
+        "de": "in Arbeit ersticken, bis über beide Ohren in Arbeit stecken"
+      },
+      "intensity": {
+        "en": "moderate–strong",
+        "tr": "orta–güçlü",
+        "de": "mittel–stark"
+      },
+      "level": 2,
+      "literal": {
+        "en": "swamp = marsh, to flood · snowed under = buried under snow",
+        "tr": "swamp = bataklık, su basmak · snowed under = karın altında kalmış"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "swamped: AmE + BrE · snowed under: mainly BrE",
+        "tr": "swamped: AmE + BrE · snowed under: ağırlıklı BrE"
+      },
+      "usage": {
+        "en": "be swamped (with work) · be snowed under (with sth). Describes workload more than feeling.",
+        "tr": "be swamped (with work) · be snowed under (with sth). Duygudan çok iş yoğunluğunu anlatır."
+      },
+      "sentences": [
+        {
+          "en": "I'd love to, but I'm [swamped] at work this week.",
+          "tr": "Çok isterdim ama bu hafta işten başımı kaldıramıyorum.",
+          "de": "Ich würde gern, aber ich ersticke diese Woche in Arbeit."
+        },
+        {
+          "en": "I'm [snowed under] with coursework at the moment.",
+          "tr": "Şu sıralar ödevlere gömülmüş durumdayım.",
+          "de": "Ich stecke im Moment bis über beide Ohren in Uniaufgaben."
+        }
+      ]
+    },
+    {
+      "id": "have-a-lot-on-ones-plate",
+      "expr": "have a lot on one's plate",
+      "meaning": {
+        "en": "to have many tasks or problems to deal with at once",
+        "tr": "aynı anda uğraşılacak çok iş/sorun olmak",
+        "de": "viele Aufgaben oder Probleme gleichzeitig haben"
+      },
+      "equivalent": {
+        "tr": "başında çok iş olmak, yükü ağır olmak",
+        "de": "viel um die Ohren haben"
+      },
+      "intensity": {
+        "en": "moderate",
+        "tr": "orta",
+        "de": "mittel"
+      },
+      "level": 2,
+      "literal": {
+        "en": "to have a lot on your plate",
+        "tr": "tabağında çok şey olmak"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "have a lot / too much / enough on your plate",
+        "tr": "have a lot / too much / enough on your plate"
+      },
+      "sentences": [
+        {
+          "en": "I can't take on another project — I've got [a lot on my plate] right now.",
+          "tr": "Yeni bir proje alamam, şu an başımda çok iş var.",
+          "de": "Ich kann kein weiteres Projekt übernehmen – ich habe gerade viel um die Ohren."
+        },
+        {
+          "en": "She's got [so much on her plate] with the move and the new job.",
+          "tr": "Taşınma ve yeni iş derken yükü çok ağır.",
+          "de": "Mit dem Umzug und dem neuen Job hat sie so viel um die Ohren."
+        }
+      ]
+    },
+    {
+      "id": "be-bored-to-death-out-of-ones-mind",
+      "expr": "be bored to death / out of one's mind",
+      "meaning": {
+        "en": "to be extremely bored",
+        "tr": "aşırı sıkılmak",
+        "de": "sich extrem langweilen"
+      },
+      "equivalent": {
+        "tr": "sıkıntıdan patlamak, canı çok sıkılmak",
+        "de": "sich zu Tode langweilen, vor Langeweile sterben"
+      },
+      "intensity": {
+        "en": "strong",
+        "tr": "güçlü",
+        "de": "stark"
+      },
+      "level": 3,
+      "literal": {
+        "en": "bored to the point of death / of losing your mind",
+        "tr": "ölesiye sıkılmış / aklını kaçıracak kadar sıkılmış"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE (BrE also: bored stiff)",
+        "tr": "AmE + BrE (BrE ayrıca: bored stiff)"
+      },
+      "usage": {
+        "en": "bored to death / to tears / out of my mind · bored with/of sth · boring = causing boredom",
+        "tr": "bored to death / to tears / out of my mind · bored with/of sth · boring = sıkıcı"
+      },
+      "sentences": [
+        {
+          "en": "I was [bored out of my mind] in that lecture.",
+          "tr": "O derste sıkıntıdan patladım.",
+          "de": "Ich habe mich in der Vorlesung zu Tode gelangweilt."
+        },
+        {
+          "en": "I'm [bored to death] — let's go do something.",
+          "tr": "Çok sıkıldım, hadi bir şeyler yapalım.",
+          "de": "Ich sterbe vor Langeweile – lass uns etwas unternehmen."
+        }
+      ]
+    },
+    {
+      "id": "be-done-with",
+      "expr": "be done (with)",
+      "meaning": {
+        "en": "(1) I've finished (2) that's enough; I have no patience or energy left for it",
+        "tr": "(1) bitirdim (2) artık yeter; uğraşacak sabrım/gücüm kalmadı",
+        "de": "(1) ich bin fertig (2) es reicht; ich habe keine Geduld oder Kraft mehr dafür"
+      },
+      "equivalent": {
+        "tr": "bitti benim için, artık yeter, pes",
+        "de": "fertig sein mit etwas, durch sein mit etwas, es reicht"
+      },
+      "intensity": {
+        "en": "moderate–strong",
+        "tr": "orta–güçlü",
+        "de": "mittel–stark"
+      },
+      "level": 2,
+      "literal": {
+        "en": "to be finished",
+        "tr": "bitmiş olmak"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE (more common in AmE)",
+        "tr": "AmE + BrE (AmE'de daha sık)"
+      },
+      "usage": {
+        "en": "I'm done. · I'm (so) done with sb/sth. A tone of weariness + giving up; one step beyond \"fed up\".",
+        "tr": "I'm done. · I'm (so) done with sb/sth. Bıkkınlık + vazgeçme tonu; \"fed up\"tan bir adım sonrası."
+      },
+      "sentences": [
+        {
+          "en": "I'm so [done with] this semester.",
+          "tr": "Bu dönemden artık gına geldi.",
+          "de": "Ich bin so durch mit diesem Semester."
+        },
+        {
+          "en": "I'm [done]. I'm not arguing about this anymore.",
+          "tr": "Benden bu kadar. Bu konuyu artık tartışmıyorum.",
+          "de": "Mir reicht's. Ich streite nicht mehr darüber."
+        }
+      ]
+    },
+    {
+      "id": "have-a-breakdown-a-meltdown",
+      "expr": "have a breakdown / a meltdown",
+      "meaning": {
+        "en": "breakdown: a serious psychological collapse (also as everyday exaggeration) · meltdown: a momentary crisis, a fit of crying or rage",
+        "tr": "breakdown: ciddi psikolojik çöküş (gündelik dilde abartı olarak da) · meltdown: anlık kriz, ağlama/öfke nöbeti",
+        "de": "breakdown: ein ernster seelischer Zusammenbruch (auch als Übertreibung im Alltag) · meltdown: eine kurze Krise, ein Wein- oder Wutanfall"
+      },
+      "equivalent": {
+        "tr": "sinir krizi geçirmek, çökmek; kriz geçirmek",
+        "de": "einen Nervenzusammenbruch haben; die Nerven verlieren, durchdrehen"
+      },
+      "intensity": {
+        "en": "extreme",
+        "tr": "aşırı",
+        "de": "extrem"
+      },
+      "level": 4,
+      "literal": {
+        "en": "breakdown = a failure, a collapse · meltdown = (a reactor) melting",
+        "tr": "breakdown = arıza, çöküş · meltdown = (reaktör) erimesi"
+      },
+      "register": {
+        "en": "neutral (breakdown) · informal (meltdown)",
+        "tr": "nötr (breakdown) · gündelik (meltdown)"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "have a (nervous/mental) breakdown · have a (complete) meltdown · be on the verge of a breakdown. The verb \"break down\" (start crying) is milder.",
+        "tr": "have a (nervous/mental) breakdown · have a (complete) meltdown · be on the verge of a breakdown. Fiil hâli \"break down\" (ağlamaya başlamak) daha hafiftir."
+      },
+      "sentences": [
+        {
+          "en": "If I get one more email today, I'm going to [have a breakdown].",
+          "tr": "Bugün bir e-posta daha gelirse sinir krizi geçireceğim.",
+          "de": "Wenn ich heute noch eine E-Mail bekomme, kriege ich einen Nervenzusammenbruch."
+        },
+        {
+          "en": "I had a complete [meltdown] in the car after the exam.",
+          "tr": "Sınavdan sonra arabada resmen kriz geçirdim.",
+          "de": "Nach der Prüfung bin ich im Auto völlig zusammengebrochen."
+        }
+      ]
+    }
+  ]
+}

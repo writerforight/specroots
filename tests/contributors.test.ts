@@ -3,7 +3,7 @@ import { join } from 'node:path';
 import { describe, expect, it } from 'vitest';
 import { LexiconParser } from '../src/data/LexiconParser';
 import { parseRoute, sectionOf } from '../src/ui/routes';
-import { DATA_DIR, diskRepository, listFiles, objectFiles, readJson, rootFiles } from './helpers';
+import { DATA_DIR, diskRepository, expressionFiles, listFiles, objectFiles, readJson, rootFiles } from './helpers';
 
 type Raw = { id: string; addedBy?: unknown; words?: { id: string; addedBy?: unknown }[] };
 
@@ -14,6 +14,7 @@ const files = [
   ...deRootFiles.map((f) => `de/roots/${f}`),
   ...objectFiles().map((f) => `objects/${f}`),
   ...listFiles().map((f) => `lists/${f}`),
+  ...expressionFiles().map((f) => `expressions/${f}`),
 ];
 
 describe('contributors', () => {

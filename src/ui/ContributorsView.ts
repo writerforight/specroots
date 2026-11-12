@@ -153,6 +153,7 @@ export class ContributorsView {
             stat(i18n.t('stat_english'), c.words.en),
             stat(i18n.t('stat_german'), c.words.de),
             stat(i18n.t('stat_objects'), c.objects),
+            stat(i18n.t('stat_expressions'), c.expressions),
           ),
           c.roots.length > 0 &&
             h(

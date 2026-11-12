@@ -1,0 +1,493 @@
+{
+  "id": "anxiety",
+  "addedBy": "writerforight",
+  "title": {
+    "en": "Anxiety, stress and nervousness",
+    "tr": "Kaygı, stres ve gerginlik",
+    "de": "Angst, Stress und Anspannung",
+    "fr": "Anxiété, stress et nervosité",
+    "it": "Ansia, stress e tensione",
+    "es": "Ansiedad, estrés y nervios"
+  },
+  "expressions": [
+    {
+      "id": "be-on-edge",
+      "expr": "be on edge",
+      "meaning": {
+        "en": "to be tense and alert, as if something is about to happen",
+        "tr": "her an bir şey olacakmış gibi gergin ve tetikte olmak",
+        "de": "angespannt und wachsam sein, als würde gleich etwas passieren"
+      },
+      "equivalent": {
+        "tr": "diken üstünde olmak, gergin olmak",
+        "de": "angespannt sein, wie auf heißen Kohlen sitzen"
+      },
+      "intensity": {
+        "en": "moderate",
+        "tr": "orta",
+        "de": "mittel"
+      },
+      "level": 2,
+      "literal": {
+        "en": "to be standing at the edge",
+        "tr": "kenarda, uçta durmak"
+      },
+      "register": {
+        "en": "neutral–informal",
+        "tr": "nötr–gündelik",
+        "de": "neutral–umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "be/feel/seem on edge · put/set sb on edge (cause). The adjective \"edgy\" means \"tense\" in BrE but mostly \"unconventional, daring (style)\" in AmE.",
+        "tr": "be/feel/seem on edge · put/set sb on edge (sebep). \"edgy\" sıfatı BrE'de \"gergin\", AmE'de çoğunlukla \"sıra dışı, cesur (tarz)\" demektir."
+      },
+      "collocations": {
+        "en": "a bit on edge · on edge all day",
+        "tr": "a bit on edge · on edge all day"
+      },
+      "sentences": [
+        {
+          "en": "I've been [on edge] all week waiting for the results.",
+          "tr": "Sonuçları beklerken bütün hafta diken üstündeydim.",
+          "de": "Ich bin die ganze Woche angespannt, weil ich auf die Ergebnisse warte."
+        },
+        {
+          "en": "Everyone at work is [on edge] since the layoffs were announced.",
+          "tr": "İşten çıkarmalar duyurulduğundan beri iş yerinde herkes gergin.",
+          "de": "Seit die Entlassungen angekündigt wurden, sind bei der Arbeit alle nervös."
+        }
+      ]
+    },
+    {
+      "id": "be-stressed-out",
+      "expr": "be stressed (out)",
+      "meaning": {
+        "en": "to feel under pressure and unable to cope calmly",
+        "tr": "baskı altında, bunalmış hissetmek",
+        "de": "sich unter Druck fühlen und nicht ruhig bleiben können"
+      },
+      "equivalent": {
+        "tr": "stresli olmak, gerilmek, bunalmak",
+        "de": "gestresst sein, im Stress sein"
+      },
+      "intensity": {
+        "en": "moderate–strong",
+        "tr": "orta–güçlü",
+        "de": "mittel–stark"
+      },
+      "level": 2,
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "be/get stressed (out) (about/over sth) → the one who feels it. stress sb out → the cause. stress (about sth) → verb: \"Stop stressing.\" stressful = CAUSING stress (a situation, a job).",
+        "tr": "be/get stressed (out) (about/over sth) → hisseden. stress sb out → sebep. stress (about sth) → fiil: \"Stop stressing.\" stressful = stres VEREN (durum, iş)."
+      },
+      "collocations": {
+        "en": "so stressed out · stress over nothing",
+        "tr": "so stressed out · stress over nothing"
+      },
+      "sentences": [
+        {
+          "en": "I'm so [stressed out] about finals.",
+          "tr": "Finaller yüzünden çok stresliyim.",
+          "de": "Ich bin so gestresst wegen der Abschlussprüfungen."
+        },
+        {
+          "en": "You're [stressing me out] — can you stop pacing?",
+          "tr": "Beni geriyorsun, volta atmayı keser misin?",
+          "de": "Du stresst mich – kannst du aufhören, hin und her zu laufen?"
+        }
+      ]
+    },
+    {
+      "id": "be-nervous-about",
+      "expr": "be nervous (about)",
+      "meaning": {
+        "en": "to be tense or jittery because of something that is going to happen",
+        "tr": "olacak bir şey yüzünden gergin/heyecanlı olmak",
+        "de": "wegen etwas Bevorstehendem angespannt oder zittrig sein"
+      },
+      "equivalent": {
+        "tr": "gergin olmak, heyecanlanmak, eli ayağına dolaşmak",
+        "de": "nervös sein, aufgeregt sein"
+      },
+      "intensity": {
+        "en": "mild–moderate",
+        "tr": "hafif–orta",
+        "de": "mild–mittel"
+      },
+      "level": 1,
+      "register": {
+        "en": "neutral",
+        "tr": "nötr",
+        "de": "neutral"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "nervous about + noun/V-ing · make sb nervous",
+        "tr": "nervous about + isim/V-ing · make sb nervous"
+      },
+      "note": {
+        "en": "False friend! \"nervous\" is not Turkish \"sinirli\" (angry). Jitters before an exam = nervous; \"sinirli\" = angry/annoyed.",
+        "tr": "Sahte dost! \"nervous\" Türkçedeki \"sinirli\" (öfkeli) değildir. Sınav öncesi heyecan = nervous; sinirli = angry/annoyed."
+      },
+      "sentences": [
+        {
+          "en": "I'm really [nervous about] the presentation tomorrow.",
+          "tr": "Yarınki sunum için çok gerginim.",
+          "de": "Ich bin wirklich nervös wegen der Präsentation morgen."
+        },
+        {
+          "en": "Stop staring at me, you're making me [nervous].",
+          "tr": "Bana öyle bakma, geriliyorum.",
+          "de": "Hör auf, mich anzustarren, du machst mich nervös."
+        }
+      ]
+    },
+    {
+      "id": "be-a-nervous-wreck",
+      "expr": "be a nervous wreck",
+      "meaning": {
+        "en": "to be in a terrible state from anxiety",
+        "tr": "kaygıdan perişan hâlde olmak",
+        "de": "vor Angst in einem furchtbaren Zustand sein"
+      },
+      "equivalent": {
+        "tr": "sinirleri harap olmak, kaygıdan perişan olmak",
+        "de": "ein Nervenbündel sein, mit den Nerven am Ende sein"
+      },
+      "intensity": {
+        "en": "extreme",
+        "tr": "aşırı",
+        "de": "extrem"
+      },
+      "level": 4,
+      "literal": {
+        "en": "wreck = wreckage",
+        "tr": "wreck = enkaz"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "be a (complete/total) nervous wreck. Related: \"I'm a wreck.\" (I'm physically/emotionally in pieces.)",
+        "tr": "be a (complete/total) nervous wreck. İlgili: \"I'm a wreck.\" (fiziksel/duygusal olarak dağılmış hâldeyim)"
+      },
+      "sentences": [
+        {
+          "en": "I was [a nervous wreck] before my driving test.",
+          "tr": "Direksiyon sınavından önce heyecandan perişandım.",
+          "de": "Vor meiner Fahrprüfung war ich ein Nervenbündel."
+        },
+        {
+          "en": "By the time the results came out, she was a complete [nervous wreck].",
+          "tr": "Sonuçlar açıklanana kadar sinirleri harap oldu.",
+          "de": "Als die Ergebnisse kamen, war sie mit den Nerven völlig am Ende."
+        }
+      ]
+    },
+    {
+      "id": "have-butterflies-in-ones-stomach",
+      "expr": "have butterflies (in one's stomach)",
+      "meaning": {
+        "en": "to feel a flutter in your stomach from excitement (often a pleasant kind)",
+        "tr": "heyecandan midede kıpırtı hissetmek (çoğu zaman tatlı bir heyecan)",
+        "de": "vor Aufregung ein Kribbeln im Bauch spüren (oft angenehm)"
+      },
+      "equivalent": {
+        "tr": "midesinde kelebekler uçuşmak, içi kıpır kıpır olmak",
+        "de": "Schmetterlinge im Bauch haben, Lampenfieber haben"
+      },
+      "intensity": {
+        "en": "mild",
+        "tr": "hafif",
+        "de": "mild"
+      },
+      "level": 1,
+      "literal": {
+        "en": "to have butterflies in your stomach",
+        "tr": "midesinde kelebekler olmak"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "have/get butterflies · give sb butterflies",
+        "tr": "have/get butterflies · give sb butterflies"
+      },
+      "sentences": [
+        {
+          "en": "I [had butterflies] before going on stage.",
+          "tr": "Sahneye çıkmadan önce içim kıpır kıpırdı.",
+          "de": "Ich hatte Lampenfieber, bevor ich auf die Bühne ging."
+        },
+        {
+          "en": "I still [get butterflies] every time I see him.",
+          "tr": "Onu her gördüğümde hâlâ midemde kelebekler uçuşuyor.",
+          "de": "Ich bekomme immer noch Schmetterlinge im Bauch, wenn ich ihn sehe."
+        }
+      ]
+    },
+    {
+      "id": "be-worried-sick",
+      "expr": "be worried sick",
+      "meaning": {
+        "en": "to be extremely worried (usually about someone)",
+        "tr": "(çoğunlukla birisi için) aşırı endişelenmek",
+        "de": "sich extrem große Sorgen machen (meist um jemanden)"
+      },
+      "equivalent": {
+        "tr": "meraktan ölmek, çok endişelenmek",
+        "de": "krank vor Sorge sein, sich furchtbare Sorgen machen"
+      },
+      "intensity": {
+        "en": "extreme",
+        "tr": "aşırı",
+        "de": "extrem"
+      },
+      "level": 4,
+      "literal": {
+        "en": "so worried that you are ill",
+        "tr": "hasta olacak kadar endişeli"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "be worried sick (about sb/sth). Basic patterns: worried about (not \"worried for\" in most cases) · worry sb · worrying = causing worry.",
+        "tr": "be worried sick (about sb/sth). Temel kalıplar: worried about (✗ worried for değil, çoğu durumda) · worry sb · worrying = endişe verici."
+      },
+      "sentences": [
+        {
+          "en": "Where have you been? I was [worried sick]!",
+          "tr": "Neredeydin? Meraktan öldüm!",
+          "de": "Wo warst du? Ich war krank vor Sorge!"
+        },
+        {
+          "en": "She's [worried sick] about her mom's surgery.",
+          "tr": "Annesinin ameliyatı yüzünden çok endişeli.",
+          "de": "Sie macht sich furchtbare Sorgen wegen der Operation ihrer Mutter."
+        }
+      ]
+    },
+    {
+      "id": "be-uptight",
+      "expr": "be uptight",
+      "meaning": {
+        "en": "to be too tense, rigid, unable to relax",
+        "tr": "fazla gergin, katı, rahat olamayan biri olmak",
+        "de": "zu angespannt und steif sein, nicht locker lassen können"
+      },
+      "equivalent": {
+        "tr": "gergin olmak, kasmak, kasıntı olmak",
+        "de": "verkrampft sein, verklemmt sein"
+      },
+      "intensity": {
+        "en": "mild–moderate",
+        "tr": "hafif–orta",
+        "de": "mild–mittel"
+      },
+      "level": 1,
+      "literal": {
+        "en": "tight in an upward direction (strained)",
+        "tr": "yukarı doğru sıkı (gerilmiş)"
+      },
+      "register": {
+        "en": "informal (slightly critical)",
+        "tr": "gündelik (hafif eleştirel)"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "be/get uptight (about sth). Used both for a passing state and for personality.",
+        "tr": "be/get uptight (about sth). Geçici hâl için de kişilik için de kullanılır."
+      },
+      "sentences": [
+        {
+          "en": "Don't be so [uptight] — it's just a game.",
+          "tr": "Bu kadar kasma, alt tarafı oyun.",
+          "de": "Sei nicht so verkrampft – es ist nur ein Spiel."
+        },
+        {
+          "en": "He gets really [uptight] about money.",
+          "tr": "Para konusunda çok geriliyor.",
+          "de": "Beim Thema Geld wird er richtig verkrampft."
+        }
+      ]
+    },
+    {
+      "id": "overthink",
+      "expr": "overthink",
+      "meaning": {
+        "en": "to think about something far more than necessary and blow it up",
+        "tr": "bir şeyi gereğinden fazla düşünüp büyütmek",
+        "de": "über etwas viel mehr nachdenken als nötig und es aufbauschen"
+      },
+      "equivalent": {
+        "tr": "kafaya takmak, kurmak, fazla düşünmek",
+        "de": "zu viel nachdenken, sich den Kopf zerbrechen"
+      },
+      "intensity": {
+        "en": "mild–moderate",
+        "tr": "hafif–orta",
+        "de": "mild–mittel"
+      },
+      "level": 1,
+      "literal": {
+        "en": "over = too much + think",
+        "tr": "over = fazla + think"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "overthink sth / overthink it · \"You're overthinking it/this.\" · an overthinker",
+        "tr": "overthink sth / overthink it · \"You're overthinking it/this.\" · an overthinker"
+      },
+      "sentences": [
+        {
+          "en": "Just send the text — you're [overthinking] it.",
+          "tr": "Mesajı at gitsin, fazla düşünüyorsun.",
+          "de": "Schick die Nachricht einfach ab – du denkst zu viel darüber nach."
+        },
+        {
+          "en": "I tend to [overthink] everything people say to me.",
+          "tr": "İnsanların bana söylediği her şeyi kafamda kurma huyum var.",
+          "de": "Ich neige dazu, alles zu zerdenken, was Leute zu mir sagen."
+        }
+      ]
+    },
+    {
+      "id": "dread",
+      "expr": "dread",
+      "meaning": {
+        "en": "to feel very reluctant and anxious about something that is coming",
+        "tr": "yaklaşan bir şeyden çok çekinmek, onu hiç istememek",
+        "de": "etwas Bevorstehendem mit großem Widerwillen und Angst entgegensehen"
+      },
+      "equivalent": {
+        "tr": "gözü korkmak, içi hiç istememek, ödü kopmak",
+        "de": "sich vor etwas fürchten, jemandem graut vor etwas"
+      },
+      "intensity": {
+        "en": "moderate–strong",
+        "tr": "orta–güçlü",
+        "de": "mittel–stark"
+      },
+      "level": 2,
+      "register": {
+        "en": "neutral",
+        "tr": "nötr",
+        "de": "neutral"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "dread + noun / V-ing. Very common in the continuous: \"I'm dreading it.\"",
+        "tr": "dread + isim / V-ing. Sürekli zamanla çok yaygın: \"I'm dreading it.\""
+      },
+      "sentences": [
+        {
+          "en": "I'm [dreading] Monday's meeting.",
+          "tr": "Pazartesi toplantısını düşündükçe içim daralıyor.",
+          "de": "Mir graut vor dem Meeting am Montag."
+        },
+        {
+          "en": "I'm [dreading] telling my parents I failed.",
+          "tr": "Kaldığımı aileme söylemeyi hiç istemiyorum.",
+          "de": "Mir graut davor, meinen Eltern zu sagen, dass ich durchgefallen bin."
+        }
+      ]
+    },
+    {
+      "id": "get-to-someone",
+      "expr": "get to someone",
+      "meaning": {
+        "en": "(of pressure, criticism, stress) to gradually start affecting and wearing someone down",
+        "tr": "(baskı, eleştiri, stres) zamanla birini etkilemeye, yıpratmaya başlamak",
+        "de": "(von Druck, Kritik, Stress) jemandem allmählich zusetzen"
+      },
+      "equivalent": {
+        "tr": "içine işlemek, yıpratmak, dokunmak",
+        "de": "jemandem zusetzen, an jemandem nagen, jemandem nahegehen"
+      },
+      "intensity": {
+        "en": "moderate",
+        "tr": "orta",
+        "de": "mittel"
+      },
+      "level": 2,
+      "literal": {
+        "en": "to reach someone",
+        "tr": "birine ulaşmak"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "sth gets to sb (subject = the cause). \"Don't let it get to you.\" · \"It's starting to get to me.\"",
+        "tr": "sth gets to sb (özne = sebep). \"Don't let it get to you.\" · \"It's starting to get to me.\""
+      },
+      "sentences": [
+        {
+          "en": "The pressure is really starting to [get to me].",
+          "tr": "Baskı beni cidden yıpratmaya başladı.",
+          "de": "Der Druck setzt mir langsam wirklich zu."
+        },
+        {
+          "en": "Don't let his comments [get to you].",
+          "tr": "Onun laflarını kafana takma.",
+          "de": "Lass seine Kommentare nicht an dich ran."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,586 @@
+{
+  "id": "relief",
+  "addedBy": "writerforight",
+  "title": {
+    "en": "Relief, reassurance and comfort",
+    "tr": "Rahatlama, teselli ve iç huzur",
+    "de": "Erleichterung, Trost und innere Ruhe",
+    "fr": "Soulagement, réconfort et sérénité",
+    "it": "Sollievo, conforto e serenità",
+    "es": "Alivio, consuelo y calma"
+  },
+  "expressions": [
+    {
+      "id": "be-relieved",
+      "expr": "be relieved",
+      "meaning": {
+        "en": "to feel better because a worry has gone",
+        "tr": "bir endişenin ortadan kalkmasıyla rahatlamak",
+        "de": "sich besser fühlen, weil eine Sorge weg ist"
+      },
+      "equivalent": {
+        "tr": "rahatlamak, içi rahat etmek, oh çekmek",
+        "de": "erleichtert sein, aufatmen"
+      },
+      "intensity": {
+        "en": "moderate–strong",
+        "tr": "orta–güçlü",
+        "de": "mittel–stark"
+      },
+      "level": 2,
+      "register": {
+        "en": "neutral",
+        "tr": "nötr",
+        "de": "neutral"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "relieved (that) + clause · relieved to + verb (hear/see/know) · \"What a relief!\" · \"That's a relief.\" · exclamation: \"Phew!\"",
+        "tr": "relieved (that) + cümle · relieved to + fiil (hear/see/know) · \"What a relief!\" · \"That's a relief.\" · ünlem: \"Phew!\""
+      },
+      "sentences": [
+        {
+          "en": "I'm so [relieved] the exam is over.",
+          "tr": "Sınav bittiği için çok rahatladım.",
+          "de": "Ich bin so erleichtert, dass die Prüfung vorbei ist."
+        },
+        {
+          "en": "Oh, thank God. What a [relief]!",
+          "tr": "Oh, çok şükür. İçim rahatladı!",
+          "de": "Oh, Gott sei Dank. Was für eine Erleichterung!"
+        }
+      ]
+    },
+    {
+      "id": "a-weight-off-ones-shoulders-a-load-off-ones-mind",
+      "expr": "a weight off one's shoulders / a load off one's mind",
+      "meaning": {
+        "en": "the lightness of being freed from a big worry",
+        "tr": "büyük bir dertten kurtulmanın verdiği ferahlık",
+        "de": "die Leichtigkeit, von einer großen Sorge befreit zu sein"
+      },
+      "equivalent": {
+        "tr": "omuzlarından yük kalkmak, içinden bir yük kalkmak",
+        "de": "jemandem fällt ein Stein vom Herzen, eine Last fällt von jemandem ab"
+      },
+      "intensity": {
+        "en": "strong",
+        "tr": "güçlü",
+        "de": "stark"
+      },
+      "level": 3,
+      "literal": {
+        "en": "a weight lifted from the shoulders / a load taken from the mind; off = separation from the surface",
+        "tr": "omuzlardan kalkan ağırlık / zihinden inen yük; off = üstünden ayrılma"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "It's/That's a (huge/real) weight off my shoulders · a load off my mind · take a weight off sb's shoulders",
+        "tr": "It's/That's a (huge/real) weight off my shoulders · a load off my mind · take a weight off sb's shoulders"
+      },
+      "sentences": [
+        {
+          "en": "Handing in my thesis was such [a weight off my shoulders].",
+          "tr": "Tezimi teslim edince omuzlarımdan büyük bir yük kalktı.",
+          "de": "Als ich meine Abschlussarbeit abgegeben habe, ist mir eine riesige Last von den Schultern gefallen."
+        },
+        {
+          "en": "Thanks for telling me — that's a real [load off my mind].",
+          "tr": "Söylediğin için sağ ol, içim ferahladı.",
+          "de": "Danke, dass du es mir gesagt hast – da fällt mir wirklich ein Stein vom Herzen."
+        }
+      ]
+    },
+    {
+      "id": "calm-down",
+      "expr": "calm down",
+      "meaning": {
+        "en": "to become calm / to make someone calm",
+        "tr": "sakinleşmek / birini sakinleştirmek",
+        "de": "ruhig werden / jemanden beruhigen"
+      },
+      "equivalent": {
+        "tr": "sakinleşmek, yatışmak; sakinleştirmek",
+        "de": "sich beruhigen, runterkommen; jemanden beruhigen"
+      },
+      "intensity": {
+        "en": "moderate",
+        "tr": "orta",
+        "de": "mittel"
+      },
+      "level": 2,
+      "literal": {
+        "en": "calm; down = decrease in intensity",
+        "tr": "calm = sakin; down = şiddetin azalması"
+      },
+      "register": {
+        "en": "neutral",
+        "tr": "nötr",
+        "de": "neutral"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "calm down (intransitive) · calm sb/yourself down (transitive, separable). Same pattern: cool down, settle down, quiet down.",
+        "tr": "calm down (geçişsiz) · calm sb/yourself down (geçişli, ayrılabilir). Aynı kalıp: cool down, settle down, quiet down."
+      },
+      "note": {
+        "en": "Telling an angry person \"Calm down!\" usually has the opposite effect; it sounds dismissive.",
+        "tr": "Kızgın birine \"Calm down!\" demek çoğu zaman tam ters etki yapar; küçümseyici algılanır."
+      },
+      "sentences": [
+        {
+          "en": "Take a deep breath and [calm down].",
+          "tr": "Derin bir nefes al ve sakinleş.",
+          "de": "Atme tief durch und beruhige dich."
+        },
+        {
+          "en": "I went for a walk to [calm myself down].",
+          "tr": "Sakinleşmek için yürüyüşe çıktım.",
+          "de": "Ich bin spazieren gegangen, um mich zu beruhigen."
+        }
+      ]
+    },
+    {
+      "id": "chill-out",
+      "expr": "chill (out)",
+      "meaning": {
+        "en": "to relax, to be easy-going; to hang out",
+        "tr": "gevşemek, rahat olmak; takılmak",
+        "de": "sich entspannen, locker sein; abhängen"
+      },
+      "equivalent": {
+        "tr": "rahatlamak, gevşemek, sakin olmak; takılmak",
+        "de": "sich entspannen, locker bleiben; chillen"
+      },
+      "intensity": {
+        "en": "mild",
+        "tr": "hafif",
+        "de": "mild"
+      },
+      "level": 1,
+      "literal": {
+        "en": "chill = coolness (ANGER IS HEAT, CALM IS COLD)",
+        "tr": "chill = serinlik (ÖFKE = SICAK, SAKİNLİK = SOĞUK)"
+      },
+      "register": {
+        "en": "slang–informal",
+        "tr": "argo–gündelik",
+        "de": "Slang–umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "chill (out) · \"Chill!\" (calm down) · chill with sb = hang out · adjective: \"He's really chill.\" = relaxed, easy-going",
+        "tr": "chill (out) · \"Chill!\" (sakin ol) · chill with sb = takılmak · sıfat: \"He's really chill.\" = rahat, kafa biri"
+      },
+      "sentences": [
+        {
+          "en": "[Chill out], it's only five minutes late.",
+          "tr": "Sakin ol, alt tarafı beş dakika gecikti.",
+          "de": "Entspann dich, es sind nur fünf Minuten Verspätung."
+        },
+        {
+          "en": "I just want to [chill] at home this weekend.",
+          "tr": "Bu hafta sonu sadece evde takılmak istiyorum.",
+          "de": "Ich will dieses Wochenende einfach zu Hause chillen."
+        }
+      ]
+    },
+    {
+      "id": "take-it-easy",
+      "expr": "take it easy",
+      "meaning": {
+        "en": "(1) to rest and not tire yourself (2) to stay calm and not react harshly",
+        "tr": "(1) kendini yormamak, dinlenmek (2) sakin olmak, sert tepki vermemek",
+        "de": "(1) sich ausruhen und schonen (2) ruhig bleiben und nicht heftig reagieren"
+      },
+      "equivalent": {
+        "tr": "kendini yorma, ağırdan al; sakin ol",
+        "de": "es ruhig angehen lassen; immer mit der Ruhe"
+      },
+      "intensity": {
+        "en": "mild",
+        "tr": "hafif",
+        "de": "mild"
+      },
+      "level": 1,
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE (in AmE also a goodbye: \"Take it easy!\")",
+        "tr": "AmE + BrE (AmE'de veda sözü olarak da: \"Take it easy!\")"
+      },
+      "usage": {
+        "en": "take it easy (on sb = to be gentle with someone) · go easy on sb/sth",
+        "tr": "take it easy (on sb = birine yumuşak davranmak) · go easy on sb/sth"
+      },
+      "sentences": [
+        {
+          "en": "You've been working non-stop — [take it easy] this weekend.",
+          "tr": "Hiç durmadan çalışıyorsun, bu hafta sonu biraz dinlen.",
+          "de": "Du hast pausenlos gearbeitet – lass es dieses Wochenende ruhig angehen."
+        },
+        {
+          "en": "Hey, [take it easy]! I was only joking.",
+          "tr": "Sakin ol ya! Sadece şaka yapıyordum.",
+          "de": "Hey, immer mit der Ruhe! Das war nur ein Scherz."
+        }
+      ]
+    },
+    {
+      "id": "get-over",
+      "expr": "get over",
+      "meaning": {
+        "en": "to recover from (sadness, a breakup, an illness); to stop loving someone",
+        "tr": "(üzüntüyü, ayrılığı, hastalığı) atlatmak; birini unutmak",
+        "de": "sich von etwas erholen (Kummer, Trennung, Krankheit); aufhören, jemanden zu lieben"
+      },
+      "equivalent": {
+        "tr": "atlatmak, üstesinden gelmek, unutmak",
+        "de": "über etwas hinwegkommen, etwas überwinden"
+      },
+      "intensity": {
+        "en": "moderate",
+        "tr": "orta",
+        "de": "mittel"
+      },
+      "level": 2,
+      "literal": {
+        "en": "to climb over to the other side",
+        "tr": "üstünden aşıp öbür tarafa geçmek"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "get over sth/sb — inseparable: get over it ✓, ✗ get it over. \"Get over it!\" (harsh: move on already) · \"I can't get over how…\" = I still can't believe · get it over with = to do it quickly and be done (a different pattern)",
+        "tr": "get over sth/sb — ayrılmaz: get over it ✓, ✗ get it over. \"Get over it!\" (sert: aş artık şunu) · \"I can't get over how…\" = hâlâ inanamıyorum · get it over with = bir an önce yapıp kurtulmak (farklı kalıp)"
+      },
+      "sentences": [
+        {
+          "en": "It took me a year to [get over] the breakup.",
+          "tr": "Ayrılığı atlatmam bir yıl sürdü.",
+          "de": "Ich habe ein Jahr gebraucht, um über die Trennung hinwegzukommen."
+        },
+        {
+          "en": "I can't [get over] how much she's changed.",
+          "tr": "Ne kadar değiştiğine hâlâ inanamıyorum.",
+          "de": "Ich kann es nicht fassen, wie sehr sie sich verändert hat."
+        }
+      ]
+    },
+    {
+      "id": "let-it-go",
+      "expr": "let it go",
+      "meaning": {
+        "en": "to drop a topic or a grievance; to stop dwelling on it",
+        "tr": "bir konuyu/kırgınlığı bırakmak, üstünde durmamak",
+        "de": "ein Thema oder einen Groll fallen lassen; nicht länger darüber grübeln"
+      },
+      "equivalent": {
+        "tr": "boş vermek, bırakmak, peşini bırakmak",
+        "de": "es gut sein lassen, loslassen, etwas auf sich beruhen lassen"
+      },
+      "intensity": {
+        "en": "mild–moderate",
+        "tr": "hafif–orta",
+        "de": "mild–mittel"
+      },
+      "level": 1,
+      "literal": {
+        "en": "to allow it to go",
+        "tr": "gitmesine izin vermek"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "let it/sth go · \"Just let it go.\" · let go of sth (to release emotionally)",
+        "tr": "let it/sth go · \"Just let it go.\" · let go of sth (duygusal olarak bırakmak)"
+      },
+      "sentences": [
+        {
+          "en": "It was a stupid comment. Just [let it go].",
+          "tr": "Aptalca bir laftı. Boş ver gitsin.",
+          "de": "Das war ein dummer Kommentar. Lass es einfach gut sein."
+        },
+        {
+          "en": "I know I should [let it go], but it still bothers me.",
+          "tr": "Bırakmam gerektiğini biliyorum ama hâlâ içime oturuyor.",
+          "de": "Ich weiß, ich sollte es gut sein lassen, aber es beschäftigt mich immer noch."
+        }
+      ]
+    },
+    {
+      "id": "pull-oneself-together-get-it-together",
+      "expr": "pull oneself together / get it together",
+      "meaning": {
+        "en": "to get your emotions under control and recover",
+        "tr": "duygularını kontrol altına alıp toparlanmak",
+        "de": "seine Gefühle wieder in den Griff bekommen und sich fangen"
+      },
+      "equivalent": {
+        "tr": "kendini toparlamak, toparlanmak",
+        "de": "sich zusammenreißen, sich fangen"
+      },
+      "intensity": {
+        "en": "moderate",
+        "tr": "orta",
+        "de": "mittel"
+      },
+      "level": 2,
+      "literal": {
+        "en": "to pull yourself together (gather the scattered pieces)",
+        "tr": "kendini bir araya çekmek (dağılmış parçaları toplamak)"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "pull yourself together (for an emotional collapse in the moment) · get it together / get your act together (also for sorting your life out in general)",
+        "tr": "pull yourself together (o anki duygusal dağılma için) · get it together / get your act together (genel olarak hayatını düzene sokmak için de)"
+      },
+      "sentences": [
+        {
+          "en": "I cried for ten minutes, then [pulled myself together] and went back in.",
+          "tr": "On dakika ağladım, sonra kendimi toparlayıp içeri döndüm.",
+          "de": "Ich habe zehn Minuten geweint, mich dann zusammengerissen und bin wieder reingegangen."
+        },
+        {
+          "en": "Come on, [get it together] — we're on in five minutes.",
+          "tr": "Hadi toparlan, beş dakikaya sahnedeyiz.",
+          "de": "Komm, reiß dich zusammen – wir sind in fünf Minuten dran."
+        }
+      ]
+    },
+    {
+      "id": "get-something-off-ones-chest",
+      "expr": "get something off one's chest",
+      "meaning": {
+        "en": "to say something you've been holding in and feel better",
+        "tr": "içinde tuttuğu bir şeyi söyleyip rahatlamak",
+        "de": "etwas aussprechen, das man in sich getragen hat, und sich danach besser fühlen"
+      },
+      "equivalent": {
+        "tr": "içini dökmek, içindekini söyleyip rahatlamak",
+        "de": "sich etwas von der Seele reden, etwas loswerden"
+      },
+      "intensity": {
+        "en": "moderate",
+        "tr": "orta",
+        "de": "mittel"
+      },
+      "level": 2,
+      "literal": {
+        "en": "to lift something off your chest",
+        "tr": "göğsünün üstünden bir şeyi kaldırmak"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "get sth/it off your chest · \"I need to get something off my chest.\"",
+        "tr": "get sth/it off your chest · \"I need to get something off my chest.\""
+      },
+      "sentences": [
+        {
+          "en": "Can I talk to you? I need to [get something off my chest].",
+          "tr": "Konuşabilir miyiz? İçimde tuttuğum bir şeyi söylemem lazım.",
+          "de": "Kann ich mit dir reden? Ich muss etwas loswerden."
+        },
+        {
+          "en": "I felt so much better after [getting it off my chest].",
+          "tr": "İçimi döktükten sonra çok rahatladım.",
+          "de": "Nachdem ich es mir von der Seele geredet hatte, ging es mir viel besser."
+        }
+      ]
+    },
+    {
+      "id": "wind-down-unwind",
+      "expr": "wind down / unwind",
+      "meaning": {
+        "en": "to relax gradually after a busy day or period",
+        "tr": "yoğun bir günden/dönemden sonra yavaş yavaş gevşemek",
+        "de": "nach einem anstrengenden Tag oder einer anstrengenden Phase langsam zur Ruhe kommen"
+      },
+      "equivalent": {
+        "tr": "gevşemek, kafa dinlemek, yavaşlamak",
+        "de": "abschalten, runterkommen, zur Ruhe kommen"
+      },
+      "intensity": {
+        "en": "mild",
+        "tr": "hafif",
+        "de": "mild"
+      },
+      "level": 1,
+      "literal": {
+        "en": "/waɪnd/ — a wound spring running down; un- = reversal, down = decrease",
+        "tr": "/waɪnd/ — kurulmuş yayın boşalması; un- = geri alma, down = azalma"
+      },
+      "register": {
+        "en": "neutral–informal",
+        "tr": "nötr–gündelik",
+        "de": "neutral–umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "wind down (intransitive) · unwind (intransitive). Opposite: be wound up (tense).",
+        "tr": "wind down (geçişsiz) · unwind (geçişsiz). Karşıtı: be wound up (gergin, kurulmuş)."
+      },
+      "sentences": [
+        {
+          "en": "I usually watch something dumb to [wind down] after work.",
+          "tr": "İşten sonra kafamı boşaltmak için genelde saçma bir şey izlerim.",
+          "de": "Nach der Arbeit schaue ich meistens irgendetwas Dummes, um runterzukommen."
+        },
+        {
+          "en": "I need a few days to [unwind].",
+          "tr": "Kafa dinlemek için birkaç güne ihtiyacım var.",
+          "de": "Ich brauche ein paar Tage zum Abschalten."
+        }
+      ]
+    },
+    {
+      "id": "put-someones-mind-at-ease",
+      "expr": "put someone's mind at ease",
+      "meaning": {
+        "en": "to remove someone's worry",
+        "tr": "birinin endişesini gidermek",
+        "de": "jemandem die Sorge nehmen"
+      },
+      "equivalent": {
+        "tr": "içini rahatlatmak, yüreğine su serpmek",
+        "de": "jemanden beruhigen, jemandem die Sorgen nehmen"
+      },
+      "intensity": {
+        "en": "moderate",
+        "tr": "orta",
+        "de": "mittel"
+      },
+      "level": 2,
+      "literal": {
+        "en": "to put someone's mind in a state of ease",
+        "tr": "birinin zihnini rahata koymak"
+      },
+      "register": {
+        "en": "neutral",
+        "tr": "nötr",
+        "de": "neutral"
+      },
+      "variety": {
+        "en": "AmE + BrE (BrE also: put sb's mind at rest)",
+        "tr": "AmE + BrE (BrE ayrıca: put sb's mind at rest)"
+      },
+      "usage": {
+        "en": "put/set sb's mind at ease · reassure sb (more formal synonym)",
+        "tr": "put/set sb's mind at ease · reassure sb (daha resmî eşanlamlı)"
+      },
+      "sentences": [
+        {
+          "en": "Just text me when you land — it'll [put my mind at ease].",
+          "tr": "İnince bir mesaj at, içim rahat etsin.",
+          "de": "Schreib mir einfach, wenn du gelandet bist – dann bin ich beruhigt."
+        },
+        {
+          "en": "The doctor really [put my mind at ease].",
+          "tr": "Doktor gerçekten içimi rahatlattı.",
+          "de": "Die Ärztin hat mich wirklich beruhigt."
+        }
+      ]
+    },
+    {
+      "id": "hang-in-there",
+      "expr": "hang in there",
+      "meaning": {
+        "en": "to tell someone in a hard time \"keep going, don't give up\"",
+        "tr": "zor bir dönemde birine \"dayan, pes etme\" demek",
+        "de": "jemandem in einer schweren Zeit sagen: „Mach weiter, gib nicht auf“"
+      },
+      "equivalent": {
+        "tr": "dayan, sık dişini, az kaldı",
+        "de": "Halt durch! Kopf hoch!"
+      },
+      "intensity": {
+        "en": "mild–moderate",
+        "tr": "hafif–orta",
+        "de": "mild–mittel"
+      },
+      "level": 1,
+      "literal": {
+        "en": "stay hanging on there, keep holding on",
+        "tr": "orada asılı kal, tutunmaya devam et"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE (more common in AmE)",
+        "tr": "AmE + BrE (AmE'de daha sık)"
+      },
+      "usage": {
+        "en": "Imperative, as comfort: \"Hang in there.\" About yourself: \"I'm hanging in there.\" = I'm coping.",
+        "tr": "Emir kipinde, teselli olarak: \"Hang in there.\" Kendin için: \"I'm hanging in there.\" = idare ediyorum."
+      },
+      "sentences": [
+        {
+          "en": "[Hang in there] — only two more weeks until the holidays.",
+          "tr": "Dayan, tatile sadece iki hafta kaldı.",
+          "de": "Halt durch – nur noch zwei Wochen bis zu den Ferien."
+        },
+        {
+          "en": "I know it's tough right now, but [hang in there].",
+          "tr": "Şu an zor biliyorum ama dayan.",
+          "de": "Ich weiß, es ist gerade hart, aber halt durch."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,588 @@
+{
+  "id": "happiness",
+  "addedBy": "writerforight",
+  "title": {
+    "en": "Happiness, excitement and enthusiasm",
+    "tr": "Mutluluk, heyecan ve coşku",
+    "de": "Freude, Aufregung und Begeisterung",
+    "fr": "Joie, excitation et enthousiasme",
+    "it": "Gioia, entusiasmo ed eccitazione",
+    "es": "Alegría, ilusión y entusiasmo"
+  },
+  "expressions": [
+    {
+      "id": "be-in-a-good-mood",
+      "expr": "be in a good mood",
+      "meaning": {
+        "en": "to feel cheerful",
+        "tr": "keyfi yerinde olmak",
+        "de": "gut gelaunt sein"
+      },
+      "equivalent": {
+        "tr": "keyfi yerinde olmak, havasında olmak",
+        "de": "gute Laune haben, gut drauf sein"
+      },
+      "intensity": {
+        "en": "mild",
+        "tr": "hafif",
+        "de": "mild"
+      },
+      "level": 1,
+      "register": {
+        "en": "neutral",
+        "tr": "nötr",
+        "de": "neutral"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "be in a good/great/bad/weird mood · put sb in a good mood (cause). Don't confuse with: be in the mood for sth / to do sth = to feel like something.",
+        "tr": "be in a good/great/bad/weird mood · put sb in a good mood (sebep). Karıştırma: be in the mood for sth / to do sth = canı bir şey istemek."
+      },
+      "collocations": {
+        "en": "in a really good mood · in no mood for jokes",
+        "tr": "in a really good mood · in no mood for jokes"
+      },
+      "sentences": [
+        {
+          "en": "You're [in a good mood] today — what's going on?",
+          "tr": "Bugün keyfin yerinde, hayırdır?",
+          "de": "Du hast ja heute gute Laune – was ist los?"
+        },
+        {
+          "en": "That call from my sister put me [in a great mood].",
+          "tr": "Kız kardeşimin araması keyfimi yerine getirdi.",
+          "de": "Der Anruf von meiner Schwester hat mir richtig gute Laune gemacht."
+        }
+      ]
+    },
+    {
+      "id": "be-thrilled",
+      "expr": "be thrilled",
+      "meaning": {
+        "en": "to be extremely pleased and excited",
+        "tr": "çok sevinmiş, heyecanla mutlu olmak",
+        "de": "sich riesig freuen und aufgeregt sein"
+      },
+      "equivalent": {
+        "tr": "çok sevinmek, havalara uçmak",
+        "de": "begeistert sein, sich riesig freuen"
+      },
+      "intensity": {
+        "en": "strong",
+        "tr": "güçlü",
+        "de": "stark"
+      },
+      "level": 3,
+      "register": {
+        "en": "neutral",
+        "tr": "nötr",
+        "de": "neutral"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "thrilled with (result/thing) · about (news/event) · to + verb · (that) + clause. The ironic negative is very common: \"not exactly thrilled\".",
+        "tr": "thrilled with (sonuç/nesne) · about (haber/olay) · to + fiil · (that) + cümle. Olumsuz ironik kullanım çok yaygın: \"not exactly thrilled\"."
+      },
+      "collocations": {
+        "en": "absolutely thrilled · thrilled to bits (BrE)",
+        "tr": "absolutely thrilled · thrilled to bits (BrE)"
+      },
+      "sentences": [
+        {
+          "en": "I'm [thrilled] about the internship — I didn't think I'd get it.",
+          "tr": "Staj için çok mutluyum, alacağımı düşünmüyordum.",
+          "de": "Ich freue mich riesig über das Praktikum – ich hätte nicht gedacht, dass ich es bekomme."
+        },
+        {
+          "en": "She wasn't exactly [thrilled] when I told her I was moving out.",
+          "tr": "Taşınacağımı söylediğimde pek de sevinmedi.",
+          "de": "Sie war nicht gerade begeistert, als ich ihr sagte, dass ich ausziehe."
+        }
+      ]
+    },
+    {
+      "id": "be-over-the-moon",
+      "expr": "be over the moon",
+      "meaning": {
+        "en": "to be extremely happy",
+        "tr": "sevinçten uçmak",
+        "de": "überglücklich sein"
+      },
+      "equivalent": {
+        "tr": "havalara uçmak, mutluluktan uçmak",
+        "de": "überglücklich sein, im siebten Himmel sein"
+      },
+      "intensity": {
+        "en": "extreme",
+        "tr": "aşırı",
+        "de": "extrem"
+      },
+      "level": 4,
+      "literal": {
+        "en": "to be above the moon",
+        "tr": "ayın üstünde olmak"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE (more common in BrE)",
+        "tr": "AmE + BrE (BrE'de daha sık)"
+      },
+      "usage": {
+        "en": "be over the moon (about/with sth). Not gradable: ✗ very over the moon → absolutely over the moon.",
+        "tr": "be over the moon (about/with sth). Derecelendirilmez: ✗ very over the moon → absolutely over the moon."
+      },
+      "sentences": [
+        {
+          "en": "She was [over the moon] when she found out she'd passed.",
+          "tr": "Geçtiğini öğrenince havalara uçtu.",
+          "de": "Sie war überglücklich, als sie erfuhr, dass sie bestanden hatte."
+        },
+        {
+          "en": "My parents are [over the moon] about the baby.",
+          "tr": "Annemler bebek haberine çok sevindi.",
+          "de": "Meine Eltern sind überglücklich über das Baby."
+        }
+      ]
+    },
+    {
+      "id": "be-pumped-psyched-stoked",
+      "expr": "be pumped / psyched / stoked",
+      "meaning": {
+        "en": "to be very excited and eager about something coming up",
+        "tr": "yaklaşan bir şey için çok heyecanlı ve hevesli olmak",
+        "de": "sich sehr auf etwas Bevorstehendes freuen und voller Energie sein"
+      },
+      "equivalent": {
+        "tr": "gaza gelmiş olmak, heyecandan yerinde duramamak",
+        "de": "total gespannt sein, Bock haben, voll motiviert sein"
+      },
+      "intensity": {
+        "en": "strong",
+        "tr": "güçlü",
+        "de": "stark"
+      },
+      "level": 3,
+      "literal": {
+        "en": "pumped = pumped up (full of adrenaline)",
+        "tr": "pumped = pompalanmış (adrenalin dolu)"
+      },
+      "register": {
+        "en": "slang–informal",
+        "tr": "argo–gündelik",
+        "de": "Slang–umgangssprachlich"
+      },
+      "variety": {
+        "en": "mainly AmE (stoked: AmE + Australian)",
+        "tr": "ağırlıklı AmE (stoked: AmE + Avustralya)"
+      },
+      "usage": {
+        "en": "pumped/psyched/stoked for + event · about + situation · to + verb. Don't confuse with: psych sb out = to unsettle someone mentally.",
+        "tr": "pumped/psyched/stoked for + etkinlik · about + durum · to + fiil. Karıştırma: psych sb out = birini psikolojik olarak bozmak."
+      },
+      "collocations": {
+        "en": "so pumped · super stoked",
+        "tr": "so pumped · super stoked"
+      },
+      "sentences": [
+        {
+          "en": "I'm so [pumped] for the concert on Friday!",
+          "tr": "Cuma günkü konser için çok heyecanlıyım!",
+          "de": "Ich freue mich so auf das Konzert am Freitag!"
+        },
+        {
+          "en": "He's [stoked] about his new job.",
+          "tr": "Yeni işi için acayip heyecanlı.",
+          "de": "Er ist total begeistert von seinem neuen Job."
+        }
+      ]
+    },
+    {
+      "id": "be-chuffed-be-buzzing",
+      "expr": "be chuffed / be buzzing",
+      "meaning": {
+        "en": "chuffed: pleased and a little proud about a result · buzzing: \"humming\" with excitement and energy",
+        "tr": "chuffed: bir sonuçtan memnun ve gururlu olmak · buzzing: heyecanla \"vızıldamak\", enerji dolu olmak",
+        "de": "chuffed: zufrieden und ein bisschen stolz über ein Ergebnis · buzzing: vor Aufregung und Energie „summen“"
+      },
+      "equivalent": {
+        "tr": "pek memnun olmak; heyecandan içi içine sığmamak",
+        "de": "hochzufrieden sein; ganz aufgekratzt sein"
+      },
+      "intensity": {
+        "en": "moderate (chuffed) · strong (buzzing)",
+        "tr": "orta (chuffed) · güçlü (buzzing)"
+      },
+      "level": 2,
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "BrE",
+        "tr": "BrE"
+      },
+      "usage": {
+        "en": "chuffed with/about sth · chuffed to bits · buzzing for/about sth",
+        "tr": "chuffed with/about sth · chuffed to bits · buzzing for/about sth"
+      },
+      "sentences": [
+        {
+          "en": "I'm really [chuffed] with how the presentation went.",
+          "tr": "Sunumun gidişatından çok memnunum.",
+          "de": "Ich bin richtig zufrieden damit, wie die Präsentation gelaufen ist."
+        },
+        {
+          "en": "I'm absolutely [buzzing] for tonight.",
+          "tr": "Bu gece için içim içime sığmıyor.",
+          "de": "Ich bin total aufgekratzt wegen heute Abend."
+        }
+      ]
+    },
+    {
+      "id": "cant-wait",
+      "expr": "can't wait",
+      "meaning": {
+        "en": "to be impatient for something to happen",
+        "tr": "bir şeyi sabırsızlıkla beklemek",
+        "de": "etwas kaum erwarten können"
+      },
+      "equivalent": {
+        "tr": "sabırsızlanmak, iple çekmek",
+        "de": "es kaum erwarten können"
+      },
+      "intensity": {
+        "en": "moderate–strong",
+        "tr": "orta–güçlü",
+        "de": "mittel–stark"
+      },
+      "level": 2,
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "can't wait to + verb · can't wait for + noun · can't wait for sb to + verb",
+        "tr": "can't wait to + fiil · can't wait for + isim · can't wait for sb to + fiil"
+      },
+      "sentences": [
+        {
+          "en": "I [can't wait] to see you guys next week.",
+          "tr": "Haftaya sizi görmek için sabırsızlanıyorum.",
+          "de": "Ich kann es kaum erwarten, euch nächste Woche zu sehen."
+        },
+        {
+          "en": "I [can't wait] for this semester to be over.",
+          "tr": "Bu dönemin bitmesini iple çekiyorum.",
+          "de": "Ich kann es kaum erwarten, dass dieses Semester vorbei ist."
+        }
+      ]
+    },
+    {
+      "id": "look-forward-to",
+      "expr": "look forward to",
+      "meaning": {
+        "en": "to await something in the future with pleasure",
+        "tr": "gelecekteki bir şeyi hevesle beklemek",
+        "de": "etwas Zukünftigem mit Freude entgegensehen"
+      },
+      "equivalent": {
+        "tr": "dört gözle beklemek",
+        "de": "sich auf etwas freuen"
+      },
+      "intensity": {
+        "en": "moderate",
+        "tr": "orta",
+        "de": "mittel"
+      },
+      "level": 2,
+      "literal": {
+        "en": "to look ahead towards",
+        "tr": "ileriye doğru bakmak"
+      },
+      "register": {
+        "en": "neutral (also used in emails)",
+        "tr": "nötr (e-postalarda da kullanılır)"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "look forward to + noun / V-ing. This \"to\" is a preposition, not the infinitive marker!",
+        "tr": "look forward to + isim / V-ing. Buradaki \"to\" edattır, mastar eki değil!"
+      },
+      "collocations": {
+        "en": "really looking forward to it · look forward to hearing from you (letter/email formula)",
+        "tr": "really looking forward to it · look forward to hearing from you (yazışma kalıbı)"
+      },
+      "sentences": [
+        {
+          "en": "I'm really [looking forward to] the weekend.",
+          "tr": "Hafta sonunu dört gözle bekliyorum.",
+          "de": "Ich freue mich wirklich aufs Wochenende."
+        },
+        {
+          "en": "I'm [looking forward to] finally meeting her.",
+          "tr": "Onunla nihayet tanışmayı dört gözle bekliyorum.",
+          "de": "Ich freue mich darauf, sie endlich kennenzulernen."
+        }
+      ]
+    },
+    {
+      "id": "cheer-up",
+      "expr": "cheer up",
+      "meaning": {
+        "en": "to become happier / to make someone happier",
+        "tr": "neşelenmek / birini neşelendirmek",
+        "de": "fröhlicher werden / jemanden aufmuntern"
+      },
+      "equivalent": {
+        "tr": "neşelenmek, morali düzelmek; moral vermek",
+        "de": "Kopf hoch!; jemanden aufmuntern, aufheitern"
+      },
+      "intensity": {
+        "en": "mild–moderate",
+        "tr": "hafif–orta",
+        "de": "mild–mittel"
+      },
+      "level": 1,
+      "literal": {
+        "en": "cheer = gladness; up = upward (the HAPPY IS UP metaphor)",
+        "tr": "cheer = neşe; up = yukarı (MUTLU = YUKARI metaforu)"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "cheer up (intransitive: you become cheerful yourself) · cheer sb up (transitive, separable: you cheer someone else up) · Imperative: \"Cheer up!\"",
+        "tr": "cheer up (geçişsiz: kendisi neşelenir) · cheer sb up (geçişli, ayrılabilir: başkasını neşelendirir) · Emir: \"Cheer up!\""
+      },
+      "sentences": [
+        {
+          "en": "[Cheer up] — it's not the end of the world.",
+          "tr": "Neşelen biraz, dünyanın sonu değil.",
+          "de": "Kopf hoch – davon geht die Welt nicht unter."
+        },
+        {
+          "en": "I brought you ice cream to [cheer you up].",
+          "tr": "Moralin düzelsin diye sana dondurma getirdim.",
+          "de": "Ich habe dir Eis mitgebracht, um dich aufzumuntern."
+        }
+      ]
+    },
+    {
+      "id": "make-someones-day",
+      "expr": "make someone's day",
+      "meaning": {
+        "en": "to make someone very happy with something small",
+        "tr": "küçük bir şeyle birini çok mutlu etmek",
+        "de": "jemanden mit einer Kleinigkeit sehr glücklich machen"
+      },
+      "equivalent": {
+        "tr": "gününü güzelleştirmek, çok mutlu etmek",
+        "de": "jemandem den Tag retten, jemandem den Tag versüßen"
+      },
+      "intensity": {
+        "en": "moderate",
+        "tr": "orta",
+        "de": "mittel"
+      },
+      "level": 2,
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "sth/sb makes my day. Usually in the past: \"That made my day.\"",
+        "tr": "sth/sb makes my day. Genellikle geçmiş zamanda: \"That made my day.\""
+      },
+      "sentences": [
+        {
+          "en": "Your message totally [made my day].",
+          "tr": "Mesajın günümü güzelleştirdi.",
+          "de": "Deine Nachricht hat mir echt den Tag gerettet."
+        },
+        {
+          "en": "A stranger complimented my jacket and it [made my day].",
+          "tr": "Tanımadığım biri ceketime iltifat etti, bütün gün mutlu oldum.",
+          "de": "Ein Fremder hat meine Jacke gelobt, und das hat mir den Tag versüßt."
+        }
+      ]
+    },
+    {
+      "id": "get-carried-away",
+      "expr": "get carried away",
+      "meaning": {
+        "en": "to get so excited that you go too far",
+        "tr": "heyecana/coşkuya kapılıp ölçüyü kaçırmak",
+        "de": "sich vor Begeisterung hinreißen lassen und übertreiben"
+      },
+      "equivalent": {
+        "tr": "kendini kaptırmak, gaza gelmek, abartmak",
+        "de": "sich hinreißen lassen, es übertreiben"
+      },
+      "intensity": {
+        "en": "moderate",
+        "tr": "orta",
+        "de": "mittel"
+      },
+      "level": 2,
+      "literal": {
+        "en": "to be swept off and carried away",
+        "tr": "sürüklenip götürülmek"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "Always passive in form: get/be carried away (with sth). Active \"carry sb away\" is hardly used in this sense.",
+        "tr": "Hep edilgen görünümde: get/be carried away (with sth). Etken \"carry sb away\" bu anlamda pek kullanılmaz."
+      },
+      "collocations": {
+        "en": "get a bit carried away · Don't get carried away.",
+        "tr": "get a bit carried away · Don't get carried away."
+      },
+      "sentences": [
+        {
+          "en": "I only meant to buy one shirt, but I [got a bit carried away].",
+          "tr": "Tek bir gömlek alacaktım ama biraz kendimi kaptırdım.",
+          "de": "Ich wollte nur ein Hemd kaufen, aber ich habe mich ein bisschen hinreißen lassen."
+        },
+        {
+          "en": "Let's not [get carried away] — it was just one good interview.",
+          "tr": "Hemen havaya girmeyelim, alt tarafı iyi geçen tek bir mülakat.",
+          "de": "Übertreiben wir es nicht – es war nur ein gutes Vorstellungsgespräch."
+        }
+      ]
+    },
+    {
+      "id": "have-a-blast",
+      "expr": "have a blast",
+      "meaning": {
+        "en": "to have a great time",
+        "tr": "çok eğlenmek",
+        "de": "sich großartig amüsieren"
+      },
+      "equivalent": {
+        "tr": "çok eğlenmek, bomba gibi vakit geçirmek",
+        "de": "einen Riesenspaß haben"
+      },
+      "intensity": {
+        "en": "strong",
+        "tr": "güçlü",
+        "de": "stark"
+      },
+      "level": 3,
+      "literal": {
+        "en": "blast = explosion",
+        "tr": "blast = patlama"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE (more common in AmE)",
+        "tr": "AmE + BrE (AmE'de daha sık)"
+      },
+      "usage": {
+        "en": "have a blast (at/with) · \"It was a blast.\"",
+        "tr": "have a blast (at/with) · \"It was a blast.\""
+      },
+      "sentences": [
+        {
+          "en": "We [had a blast] at the wedding.",
+          "tr": "Düğünde çok eğlendik.",
+          "de": "Wir hatten einen Riesenspaß auf der Hochzeit."
+        },
+        {
+          "en": "Thanks for coming — I [had a blast].",
+          "tr": "Geldiğin için sağ ol, çok eğlendim.",
+          "de": "Danke, dass du gekommen bist – es war super."
+        }
+      ]
+    },
+    {
+      "id": "crack-up",
+      "expr": "crack up",
+      "meaning": {
+        "en": "to burst out laughing / to make someone laugh a lot",
+        "tr": "kahkahayı basmak / birini çok güldürmek",
+        "de": "in Gelächter ausbrechen / jemanden sehr zum Lachen bringen"
+      },
+      "equivalent": {
+        "tr": "gülmekten kırılmak, kopmak; güldürmek",
+        "de": "sich kaputtlachen, sich schlapplachen"
+      },
+      "intensity": {
+        "en": "moderate–strong",
+        "tr": "orta–güçlü",
+        "de": "mittel–stark"
+      },
+      "level": 2,
+      "literal": {
+        "en": "to crack",
+        "tr": "çatlamak"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "crack up (intransitive: start laughing) · crack sb up (transitive: make laugh). Older/rare meaning: to have a nervous collapse.",
+        "tr": "crack up (geçişsiz: gülmeye başlamak) · crack sb up (geçişli: güldürmek). Eski/nadir anlam: sinir krizi geçirmek."
+      },
+      "sentences": [
+        {
+          "en": "I [cracked up] when I saw his costume.",
+          "tr": "Kostümünü görünce gülmekten kırıldım.",
+          "de": "Ich habe mich kaputtgelacht, als ich sein Kostüm gesehen habe."
+        },
+        {
+          "en": "She [cracks me up] — she's the funniest person I know.",
+          "tr": "Beni çok güldürüyor, tanıdığım en komik insan.",
+          "de": "Bei ihr lache ich mich kaputt – sie ist der lustigste Mensch, den ich kenne."
+        }
+      ]
+    }
+  ]
+}

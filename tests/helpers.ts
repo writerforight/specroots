@@ -24,3 +24,7 @@ export function listFiles(): string[] {
 export function diskRepository(): JsonLexiconRepository {
   return new JsonLexiconRepository(async (path) => readJson(path.replace(/^data\//, '')));
 }
+
+export function expressionFiles(): string[] {
+  return readdirSync(join(DATA_DIR, 'expressions')).filter((f) => f.endsWith('.json'));
+}

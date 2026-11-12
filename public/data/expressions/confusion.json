@@ -1,0 +1,538 @@
+{
+  "id": "confusion",
+  "addedBy": "writerforight",
+  "title": {
+    "en": "Confusion, uncertainty and hesitation",
+    "tr": "Kafa karışıklığı, kararsızlık ve tereddüt",
+    "de": "Verwirrung, Unentschlossenheit und Zögern",
+    "fr": "Confusion, indécision et hésitation",
+    "it": "Confusione, indecisione ed esitazione",
+    "es": "Confusión, indecisión y dudas"
+  },
+  "expressions": [
+    {
+      "id": "be-confused-about",
+      "expr": "be confused (about)",
+      "meaning": {
+        "en": "not to understand something; to be mixed up",
+        "tr": "bir şeyi anlamamak, kafası karışmak",
+        "de": "etwas nicht verstehen; durcheinander sein"
+      },
+      "equivalent": {
+        "tr": "kafası karışmak",
+        "de": "verwirrt sein, durcheinander sein"
+      },
+      "intensity": {
+        "en": "mild–moderate",
+        "tr": "hafif–orta",
+        "de": "mild–mittel"
+      },
+      "level": 1,
+      "register": {
+        "en": "neutral",
+        "tr": "nötr",
+        "de": "neutral"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "be/get confused (about/by sth) · confuse A with B (mix up) · confusing = causing confusion. In speech: \"I'm lost.\" = I can't follow; \"Wait, what?\"",
+        "tr": "be/get confused (about/by sth) · confuse A with B (karıştırmak) · confusing = kafa karıştırıcı. Konuşmada: \"I'm lost.\" = takip edemiyorum; \"Wait, what?\""
+      },
+      "sentences": [
+        {
+          "en": "I'm [confused] — are we meeting at six or seven?",
+          "tr": "Kafam karıştı, altıda mı buluşuyoruz yedide mi?",
+          "de": "Ich bin verwirrt – treffen wir uns um sechs oder um sieben?"
+        },
+        {
+          "en": "Wait, I'm [lost]. Who's Daniel again?",
+          "tr": "Dur, koptum. Daniel kimdi?",
+          "de": "Moment, ich komme nicht mehr mit. Wer war noch mal Daniel?"
+        }
+      ]
+    },
+    {
+      "id": "be-torn-between",
+      "expr": "be torn (between)",
+      "meaning": {
+        "en": "to be stuck between two options (both attractive or both hard)",
+        "tr": "iki seçenek arasında kalmak (ikisi de çekici ya da ikisi de zor)",
+        "de": "zwischen zwei Möglichkeiten feststecken (beide verlockend oder beide schwer)"
+      },
+      "equivalent": {
+        "tr": "arada kalmak, ikilemde kalmak",
+        "de": "hin- und hergerissen sein"
+      },
+      "intensity": {
+        "en": "moderate",
+        "tr": "orta",
+        "de": "mittel"
+      },
+      "level": 2,
+      "literal": {
+        "en": "ripped, split in two",
+        "tr": "yırtılmış, ikiye bölünmüş"
+      },
+      "register": {
+        "en": "neutral–informal",
+        "tr": "nötr–gündelik",
+        "de": "neutral–umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "be torn between A and B · be torn about/over sth",
+        "tr": "be torn between A and B · be torn about/over sth"
+      },
+      "sentences": [
+        {
+          "en": "I'm [torn between] staying here and moving back home.",
+          "tr": "Burada kalmakla memlekete dönmek arasında kaldım.",
+          "de": "Ich bin hin- und hergerissen, ob ich hierbleiben oder nach Hause zurückziehen soll."
+        },
+        {
+          "en": "I'm really [torn about] whether to tell her.",
+          "tr": "Ona söyleyip söylememek konusunda ikilemdeyim.",
+          "de": "Ich bin wirklich hin- und hergerissen, ob ich es ihr sagen soll."
+        }
+      ]
+    },
+    {
+      "id": "be-on-the-fence",
+      "expr": "be on the fence",
+      "meaning": {
+        "en": "not to have chosen a side yet; to be undecided",
+        "tr": "henüz taraf seçmemiş, kararsız olmak",
+        "de": "sich noch für keine Seite entschieden haben; unentschlossen sein"
+      },
+      "equivalent": {
+        "tr": "kararsız olmak, ortada kalmak",
+        "de": "unentschlossen sein, sich nicht festlegen wollen"
+      },
+      "intensity": {
+        "en": "mild",
+        "tr": "hafif",
+        "de": "mild"
+      },
+      "level": 1,
+      "literal": {
+        "en": "to sit on top of the fence (not coming down into either garden)",
+        "tr": "çitin üstünde oturmak (iki bahçeden birine inmemek)"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "be/sit on the fence (about sth). \"sit on the fence\" can be mildly critical (avoiding taking sides).",
+        "tr": "be/sit on the fence (about sth). \"sit on the fence\" hafif eleştirel olabilir (taraf tutmaktan kaçınmak)."
+      },
+      "sentences": [
+        {
+          "en": "I'm still [on the fence] about going to the party.",
+          "tr": "Partiye gidip gitmeme konusunda hâlâ kararsızım.",
+          "de": "Ich bin noch unentschlossen, ob ich zur Party gehe."
+        },
+        {
+          "en": "He was [on the fence], but the salary convinced him.",
+          "tr": "Kararsızdı ama maaş onu ikna etti.",
+          "de": "Er war unentschlossen, aber das Gehalt hat ihn überzeugt."
+        }
+      ]
+    },
+    {
+      "id": "have-second-thoughts",
+      "expr": "have second thoughts",
+      "meaning": {
+        "en": "to start doubting a decision you have made",
+        "tr": "verdiği bir karardan şüphe etmeye başlamak",
+        "de": "an einer getroffenen Entscheidung zu zweifeln beginnen"
+      },
+      "equivalent": {
+        "tr": "tereddüde düşmek, emin olamamaya başlamak",
+        "de": "Zweifel bekommen, es sich anders überlegen"
+      },
+      "intensity": {
+        "en": "moderate",
+        "tr": "orta",
+        "de": "mittel"
+      },
+      "level": 2,
+      "literal": {
+        "en": "to have second thoughts",
+        "tr": "ikinci düşüncelere sahip olmak"
+      },
+      "register": {
+        "en": "neutral",
+        "tr": "nötr",
+        "de": "neutral"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "have second thoughts (about sth/V-ing). A separate formula: \"on second thought\" (AmE) / \"on second thoughts\" (BrE) = wait, I've changed my mind.",
+        "tr": "have second thoughts (about sth/V-ing). Ayrı kalıp: \"on second thought\" (AmE) / \"on second thoughts\" (BrE) = dur, fikrimi değiştirdim."
+      },
+      "sentences": [
+        {
+          "en": "I'm [having second thoughts] about moving in with him.",
+          "tr": "Onunla aynı eve çıkma konusunda tereddüt etmeye başladım.",
+          "de": "Mir kommen Zweifel, ob ich mit ihm zusammenziehen soll."
+        },
+        {
+          "en": "I'll have the pasta. Actually, [on second thought], the burger.",
+          "tr": "Makarna alayım. Yok, vazgeçtim, burger olsun.",
+          "de": "Ich nehme die Pasta. Ach nein, doch lieber den Burger."
+        }
+      ]
+    },
+    {
+      "id": "have-mixed-feelings",
+      "expr": "have mixed feelings",
+      "meaning": {
+        "en": "to feel both positive and negative about something",
+        "tr": "bir konuda hem olumlu hem olumsuz hissetmek",
+        "de": "etwas zugleich positiv und negativ empfinden"
+      },
+      "equivalent": {
+        "tr": "karışık duygular içinde olmak, buruk hissetmek",
+        "de": "gemischte Gefühle haben"
+      },
+      "intensity": {
+        "en": "mild–moderate",
+        "tr": "hafif–orta",
+        "de": "mild–mittel"
+      },
+      "level": 1,
+      "literal": {
+        "en": "to have feelings that are mixed",
+        "tr": "karışık duygulara sahip olmak"
+      },
+      "register": {
+        "en": "neutral",
+        "tr": "nötr",
+        "de": "neutral"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "have mixed feelings (about sth). Difference from torn: it's the FEELING that is mixed, not the decision.",
+        "tr": "have mixed feelings (about sth). Torn'dan farkı: karar değil, DUYGU karışık."
+      },
+      "sentences": [
+        {
+          "en": "I have [mixed feelings] about graduating — excited but kind of sad.",
+          "tr": "Mezuniyet konusunda duygularım karışık; heyecanlıyım ama biraz da hüzünlüyüm.",
+          "de": "Ich habe gemischte Gefühle beim Abschluss – aufgeregt, aber auch ein bisschen traurig."
+        },
+        {
+          "en": "She's got [mixed feelings] about the new job.",
+          "tr": "Yeni işle ilgili karışık duygular içinde.",
+          "de": "Sie hat gemischte Gefühle, was den neuen Job angeht."
+        }
+      ]
+    },
+    {
+      "id": "cant-make-up-ones-mind",
+      "expr": "can't make up one's mind",
+      "meaning": {
+        "en": "to be unable to decide",
+        "tr": "karar verememek",
+        "de": "sich nicht entscheiden können"
+      },
+      "equivalent": {
+        "tr": "karar verememek, bir türlü seçememek",
+        "de": "sich nicht entscheiden können"
+      },
+      "intensity": {
+        "en": "mild",
+        "tr": "hafif",
+        "de": "mild"
+      },
+      "level": 1,
+      "literal": {
+        "en": "to be unable to \"form\" your mind",
+        "tr": "aklını \"oluşturamamak\""
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "make up your mind (about sth) · \"Make up your mind!\" (impatient) · \"My mind is made up.\" Don't confuse with: make up = reconcile / invent / cosmetics.",
+        "tr": "make up your mind (about sth) · \"Make up your mind!\" (sabırsız) · \"My mind is made up.\" Karıştırma: make up = barışmak / uydurmak / makyaj."
+      },
+      "sentences": [
+        {
+          "en": "I can't [make up my mind] about which laptop to buy.",
+          "tr": "Hangi laptopu alacağıma karar veremiyorum.",
+          "de": "Ich kann mich nicht entscheiden, welchen Laptop ich kaufen soll."
+        },
+        {
+          "en": "Come on, [make up your mind] — the waiter's been here three times.",
+          "tr": "Hadi karar ver artık, garson üç kez geldi.",
+          "de": "Komm schon, entscheide dich – der Kellner war schon dreimal da."
+        }
+      ]
+    },
+    {
+      "id": "go-back-and-forth",
+      "expr": "go back and forth",
+      "meaning": {
+        "en": "to keep switching between two ideas",
+        "tr": "iki fikir arasında sürekli gidip gelmek",
+        "de": "immer wieder zwischen zwei Gedanken hin- und herwechseln"
+      },
+      "equivalent": {
+        "tr": "bir öyle bir böyle düşünmek, gidip gelmek",
+        "de": "hin und her überlegen, schwanken"
+      },
+      "intensity": {
+        "en": "mild–moderate",
+        "tr": "hafif–orta",
+        "de": "mild–mittel"
+      },
+      "level": 1,
+      "literal": {
+        "en": "to go backwards and forwards",
+        "tr": "ileri geri gitmek"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "go back and forth (on/about sth). Second meaning: two people arguing or messaging at length.",
+        "tr": "go back and forth (on/about sth). İkinci anlam: iki kişinin uzun uzun tartışması/yazışması."
+      },
+      "sentences": [
+        {
+          "en": "I keep [going back and forth] on whether to text him.",
+          "tr": "Ona yazsam mı yazmasam mı diye gidip geliyorum.",
+          "de": "Ich überlege ständig hin und her, ob ich ihm schreiben soll."
+        },
+        {
+          "en": "We [went back and forth] about it for weeks.",
+          "tr": "Haftalarca bir o yana bir bu yana tartıştık.",
+          "de": "Wir haben wochenlang hin und her überlegt."
+        }
+      ]
+    },
+    {
+      "id": "have-no-idea-not-have-a-clue",
+      "expr": "have no idea / not have a clue",
+      "meaning": {
+        "en": "not to know at all",
+        "tr": "hiç bilmemek, hiçbir fikri olmamak",
+        "de": "überhaupt nicht wissen"
+      },
+      "equivalent": {
+        "tr": "en ufak fikri olmamak, hiçbir fikri yok",
+        "de": "keine Ahnung haben, keinen blassen Schimmer haben"
+      },
+      "intensity": {
+        "en": "moderate",
+        "tr": "orta",
+        "de": "mittel"
+      },
+      "level": 2,
+      "literal": {
+        "en": "clue = a hint",
+        "tr": "clue = ipucu"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE (BrE: \"I haven't got a clue.\")",
+        "tr": "AmE + BrE (BrE: \"I haven't got a clue.\")"
+      },
+      "usage": {
+        "en": "have no idea / not have a clue + question word (what/why/how…). The adjective \"clueless\" = totally unaware (a mild insult).",
+        "tr": "have no idea / not have a clue + soru kelimesi (what/why/how…). \"clueless\" sıfatı = dünyadan bihaber (hafif hakaret)."
+      },
+      "sentences": [
+        {
+          "en": "I [have no idea] what he wants from me.",
+          "tr": "Benden ne istediği hakkında hiçbir fikrim yok.",
+          "de": "Ich habe keine Ahnung, was er von mir will."
+        },
+        {
+          "en": "I don't [have a clue] what I'm doing with my life.",
+          "tr": "Hayatımla ne yaptığıma dair en ufak fikrim yok.",
+          "de": "Ich habe keinen blassen Schimmer, was ich mit meinem Leben anfange."
+        }
+      ]
+    },
+    {
+      "id": "cant-wrap-get-ones-head-around",
+      "expr": "can't wrap / get one's head around",
+      "meaning": {
+        "en": "to be unable to grasp or accept something",
+        "tr": "bir şeyi kavrayamamak, aklı almamak",
+        "de": "etwas nicht begreifen oder akzeptieren können"
+      },
+      "equivalent": {
+        "tr": "aklı almamak, kafası basmamak",
+        "de": "etwas nicht begreifen können, etwas will jemandem nicht in den Kopf"
+      },
+      "intensity": {
+        "en": "moderate",
+        "tr": "orta",
+        "de": "mittel"
+      },
+      "level": 2,
+      "literal": {
+        "en": "to be unable to wrap your head around something",
+        "tr": "kafasını bir şeyin etrafına saramamak"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "wrap: AmE · get: BrE",
+        "tr": "wrap: AmE · get: BrE"
+      },
+      "usage": {
+        "en": "can't wrap/get my head around sth / the fact that …",
+        "tr": "can't wrap/get my head around sth / the fact that …"
+      },
+      "sentences": [
+        {
+          "en": "I still can't [wrap my head around] the fact that she's gone.",
+          "tr": "Onun gittiğini hâlâ aklım almıyor.",
+          "de": "Ich kann immer noch nicht begreifen, dass sie nicht mehr da ist."
+        },
+        {
+          "en": "I can't [get my head around] these tax rules.",
+          "tr": "Bu vergi kurallarına kafam basmıyor.",
+          "de": "Diese Steuerregeln wollen mir nicht in den Kopf."
+        }
+      ]
+    },
+    {
+      "id": "throw-someone-off",
+      "expr": "throw someone (off)",
+      "meaning": {
+        "en": "to confuse or unsettle someone with something unexpected",
+        "tr": "beklenmedik bir şeyle birinin kafasını karıştırmak, dengesini bozmak",
+        "de": "jemanden mit etwas Unerwartetem verwirren oder aus dem Konzept bringen"
+      },
+      "equivalent": {
+        "tr": "kafasını karıştırmak, şaşırtmak, dengesini bozmak",
+        "de": "jemanden aus dem Konzept bringen, jemanden irritieren"
+      },
+      "intensity": {
+        "en": "mild–moderate",
+        "tr": "hafif–orta",
+        "de": "mild–mittel"
+      },
+      "level": 1,
+      "literal": {
+        "en": "to throw someone (off balance)",
+        "tr": "birini (dengesinden) fırlatmak"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE (in BrE mostly just \"throw sb\")",
+        "tr": "AmE + BrE (BrE'de çoğunlukla sadece \"throw sb\")"
+      },
+      "usage": {
+        "en": "sth throws sb (off) · be thrown (off) by sth. Don't confuse with: throw up = to vomit.",
+        "tr": "sth throws sb (off) · be thrown (off) by sth. Karıştırma: throw up = kusmak."
+      },
+      "sentences": [
+        {
+          "en": "His question totally [threw me off].",
+          "tr": "Sorusu kafamı tamamen karıştırdı.",
+          "de": "Seine Frage hat mich völlig aus dem Konzept gebracht."
+        },
+        {
+          "en": "I was a bit [thrown] by her reaction.",
+          "tr": "Tepkisi beni biraz şaşırttı.",
+          "de": "Ihre Reaktion hat mich etwas irritiert."
+        }
+      ]
+    },
+    {
+      "id": "get-cold-feet",
+      "expr": "get cold feet",
+      "meaning": {
+        "en": "to suddenly become afraid just before an important step and feel like backing out",
+        "tr": "önemli bir adımın hemen öncesinde korkup vazgeçecek gibi olmak",
+        "de": "kurz vor einem wichtigen Schritt plötzlich Angst bekommen und zurückziehen wollen"
+      },
+      "equivalent": {
+        "tr": "son anda korkmak, cayacak gibi olmak",
+        "de": "kalte Füße bekommen"
+      },
+      "intensity": {
+        "en": "moderate",
+        "tr": "orta",
+        "de": "mittel"
+      },
+      "level": 2,
+      "literal": {
+        "en": "to get cold feet",
+        "tr": "ayakları üşümek"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "get/have cold feet (about sth). Especially for big decisions: marriage, moving, resigning.",
+        "tr": "get/have cold feet (about sth). Özellikle evlilik, taşınma, istifa gibi büyük kararlar için."
+      },
+      "sentences": [
+        {
+          "en": "He [got cold feet] a week before the wedding.",
+          "tr": "Düğünden bir hafta önce korkup tereddüde düştü.",
+          "de": "Eine Woche vor der Hochzeit hat er kalte Füße bekommen."
+        },
+        {
+          "en": "I was going to ask for a raise, but I [got cold feet].",
+          "tr": "Zam isteyecektim ama son anda cesaret edemedim.",
+          "de": "Ich wollte um eine Gehaltserhöhung bitten, aber ich habe kalte Füße bekommen."
+        }
+      ]
+    }
+  ]
+}

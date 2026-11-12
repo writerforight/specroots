@@ -1,0 +1,532 @@
+{
+  "id": "embarrassment",
+  "addedBy": "writerforight",
+  "title": {
+    "en": "Embarrassment, shame and awkwardness",
+    "tr": "Utanma, mahcubiyet ve tuhaf anlar",
+    "de": "Verlegenheit, Scham und peinliche Momente",
+    "fr": "Gêne, honte et moments embarrassants",
+    "it": "Imbarazzo, vergogna e momenti imbarazzanti",
+    "es": "Vergüenza, bochorno y momentos incómodos"
+  },
+  "expressions": [
+    {
+      "id": "be-embarrassed",
+      "expr": "be embarrassed",
+      "meaning": {
+        "en": "to feel you have looked foolish in front of others (social embarrassment)",
+        "tr": "başkalarının önünde küçük düştüğünü hissetmek (sosyal utanç)",
+        "de": "das Gefühl haben, vor anderen dumm dagestanden zu haben (soziale Verlegenheit)"
+      },
+      "equivalent": {
+        "tr": "utanmak, mahcup olmak, bozulmak",
+        "de": "jemandem ist etwas peinlich, verlegen sein"
+      },
+      "intensity": {
+        "en": "moderate",
+        "tr": "orta",
+        "de": "mittel"
+      },
+      "level": 2,
+      "register": {
+        "en": "neutral",
+        "tr": "nötr",
+        "de": "neutral"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "embarrassed about/by sth · embarrassed to + verb → the one who feels it. embarrassing → the situation that causes it. embarrass sb → to cause it.",
+        "tr": "embarrassed about/by sth · embarrassed to + fiil → hisseden. embarrassing → utandıran durum. embarrass sb → sebep olmak."
+      },
+      "sentences": [
+        {
+          "en": "I was so [embarrassed] when my card got declined.",
+          "tr": "Kartım reddedilince çok utandım.",
+          "de": "Es war mir so peinlich, als meine Karte abgelehnt wurde."
+        },
+        {
+          "en": "I'm [embarrassed] to admit I've never read it.",
+          "tr": "İtiraf etmeye utanıyorum ama hiç okumadım.",
+          "de": "Es ist mir peinlich zuzugeben, dass ich es nie gelesen habe."
+        },
+        {
+          "en": "Mom, stop, you're [embarrassing] me!",
+          "tr": "Anne dur, beni rezil ediyorsun!",
+          "de": "Mama, hör auf, du blamierst mich!"
+        }
+      ]
+    },
+    {
+      "id": "be-mortified",
+      "expr": "be mortified",
+      "meaning": {
+        "en": "to be so embarrassed you want to disappear",
+        "tr": "yerin dibine girecek kadar utanmak",
+        "de": "sich so schämen, dass man verschwinden möchte"
+      },
+      "equivalent": {
+        "tr": "yerin dibine girmek, rezil olmak",
+        "de": "vor Scham im Boden versinken, jemandem ist etwas todpeinlich"
+      },
+      "intensity": {
+        "en": "extreme",
+        "tr": "aşırı",
+        "de": "extrem"
+      },
+      "level": 4,
+      "literal": {
+        "en": "mort- = death; embarrassed \"to death\"",
+        "tr": "mort- = ölüm; \"ölesiye\" utanmak"
+      },
+      "register": {
+        "en": "neutral–informal",
+        "tr": "nötr–gündelik",
+        "de": "neutral–umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "be (absolutely) mortified (by sth / when … / to find out). ✗ very mortified.",
+        "tr": "be (absolutely) mortified (by sth / when … / to find out). ✗ very mortified."
+      },
+      "sentences": [
+        {
+          "en": "I called my teacher \"Mom\" in front of the whole class. I was [mortified].",
+          "tr": "Bütün sınıfın önünde öğretmenime \"anne\" dedim. Yerin dibine girdim.",
+          "de": "Ich habe meine Lehrerin vor der ganzen Klasse „Mama“ genannt. Es war mir todpeinlich."
+        },
+        {
+          "en": "She was [mortified] when she realised she'd sent it to the wrong group chat.",
+          "tr": "Mesajı yanlış gruba attığını fark edince rezil oldu.",
+          "de": "Sie wäre am liebsten im Boden versunken, als sie merkte, dass sie es an den falschen Gruppenchat geschickt hatte."
+        }
+      ]
+    },
+    {
+      "id": "feel-awkward",
+      "expr": "feel awkward",
+      "meaning": {
+        "en": "to be in an odd, uncomfortable social moment where you don't know what to say or do",
+        "tr": "ne diyeceğini/yapacağını bilemediğin tuhaf, rahatsız bir sosyal an yaşamak",
+        "de": "in einem seltsamen, unangenehmen Moment sein, in dem man nicht weiß, was man sagen oder tun soll"
+      },
+      "equivalent": {
+        "tr": "tuhaf hissetmek, garip olmak, ortam gerilmek",
+        "de": "sich unwohl fühlen, etwas ist jemandem unangenehm; peinlich, komisch sein"
+      },
+      "intensity": {
+        "en": "mild–moderate",
+        "tr": "hafif–orta",
+        "de": "mild–mittel"
+      },
+      "level": 1,
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "feel awkward (about V-ing) · It's/That was awkward. · an awkward silence · make things awkward. Of a person: socially awkward.",
+        "tr": "feel awkward (about V-ing) · It's/That was awkward. · an awkward silence · make things awkward. Kişi için: socially awkward."
+      },
+      "sentences": [
+        {
+          "en": "It was so [awkward] — we went for a hug and a handshake at the same time.",
+          "tr": "Çok tuhaf oldu, biri sarılmaya biri tokalaşmaya davrandı.",
+          "de": "Es war so peinlich – wir wollten uns gleichzeitig umarmen und die Hand geben."
+        },
+        {
+          "en": "I [feel awkward] asking him for money.",
+          "tr": "Ondan para istemek bana garip geliyor.",
+          "de": "Es ist mir unangenehm, ihn um Geld zu bitten."
+        }
+      ]
+    },
+    {
+      "id": "make-a-fool-of-oneself",
+      "expr": "make a fool of oneself",
+      "meaning": {
+        "en": "to look ridiculous in front of everyone",
+        "tr": "herkesin önünde gülünç duruma düşmek",
+        "de": "sich vor allen lächerlich machen"
+      },
+      "equivalent": {
+        "tr": "rezil olmak, kendini gülünç duruma düşürmek",
+        "de": "sich blamieren, sich zum Affen machen"
+      },
+      "intensity": {
+        "en": "moderate–strong",
+        "tr": "orta–güçlü",
+        "de": "mittel–stark"
+      },
+      "level": 2,
+      "literal": {
+        "en": "to make yourself into a fool",
+        "tr": "kendini aptal yerine koymak"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "make a (complete/total) fool of yourself · make a fool of sb (to make someone else look ridiculous)",
+        "tr": "make a (complete/total) fool of yourself · make a fool of sb (başkasını rezil etmek)"
+      },
+      "sentences": [
+        {
+          "en": "I had too much to drink and [made a complete fool of myself].",
+          "tr": "Fazla içtim ve kendimi rezil ettim.",
+          "de": "Ich habe zu viel getrunken und mich komplett zum Affen gemacht."
+        },
+        {
+          "en": "I don't want to [make a fool of myself] in front of her parents.",
+          "tr": "Ailesinin önünde rezil olmak istemiyorum.",
+          "de": "Ich will mich nicht vor ihren Eltern blamieren."
+        }
+      ]
+    },
+    {
+      "id": "be-ashamed-of",
+      "expr": "be ashamed of",
+      "meaning": {
+        "en": "to feel (moral) shame about something wrong you did",
+        "tr": "yaptığı yanlış bir şeyden (ahlaki olarak) utanç duymak",
+        "de": "(moralische) Scham über etwas Falsches empfinden, das man getan hat"
+      },
+      "equivalent": {
+        "tr": "utanmak, utanç duymak",
+        "de": "sich für etwas schämen"
+      },
+      "intensity": {
+        "en": "strong",
+        "tr": "güçlü",
+        "de": "stark"
+      },
+      "level": 3,
+      "register": {
+        "en": "neutral",
+        "tr": "nötr",
+        "de": "neutral"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "ashamed of sth/yourself/sb · ashamed to + verb · \"You should be ashamed of yourself.\"",
+        "tr": "ashamed of sth/yourself/sb · ashamed to + fiil · \"You should be ashamed of yourself.\""
+      },
+      "note": {
+        "en": "embarrassed = social, on the surface (you slipped and fell). ashamed = moral, deep (you treated someone badly).",
+        "tr": "embarrassed = sosyal, yüzeysel (ayağın kaydı, düştün). ashamed = ahlaki, derin (birine kötü davrandın)."
+      },
+      "sentences": [
+        {
+          "en": "I'm [ashamed of] how I treated her back then.",
+          "tr": "O zamanlar ona davranış şeklimden utanıyorum.",
+          "de": "Ich schäme mich dafür, wie ich sie damals behandelt habe."
+        },
+        {
+          "en": "There's nothing to be [ashamed of] — everybody needs help sometimes.",
+          "tr": "Utanacak bir şey yok, herkesin bazen yardıma ihtiyacı olur.",
+          "de": "Dafür muss man sich nicht schämen – jeder braucht mal Hilfe."
+        }
+      ]
+    },
+    {
+      "id": "cringe",
+      "expr": "cringe",
+      "meaning": {
+        "en": "to squirm at how embarrassing something is (often on someone else's behalf)",
+        "tr": "bir şeyin utanç vericiliği karşısında içi kıyılmak (çoğu zaman başkası adına)",
+        "de": "sich winden, weil etwas so peinlich ist (oft stellvertretend für andere)"
+      },
+      "equivalent": {
+        "tr": "içi kıyılmak, başkası adına utanmak, \"cringe\" olmak",
+        "de": "sich fremdschämen, zusammenzucken"
+      },
+      "intensity": {
+        "en": "moderate",
+        "tr": "orta",
+        "de": "mittel"
+      },
+      "level": 2,
+      "literal": {
+        "en": "to shrink back, to screw up your face",
+        "tr": "büzülmek, yüzünü buruşturmak"
+      },
+      "register": {
+        "en": "informal · the adjective use is slang",
+        "tr": "gündelik · sıfat kullanımı argo"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "cringe (at sth) · make sb cringe · cringey / (slang) cringe: \"That's so cringe.\"",
+        "tr": "cringe (at sth) · make sb cringe · cringey / (argo) cringe: \"That's so cringe.\""
+      },
+      "sentences": [
+        {
+          "en": "I [cringe] every time I read my old posts.",
+          "tr": "Eski paylaşımlarımı her okuduğumda içim kıyılıyor.",
+          "de": "Ich zucke jedes Mal zusammen, wenn ich meine alten Posts lese."
+        },
+        {
+          "en": "His speech was so [cringey] I couldn't watch.",
+          "tr": "Konuşması o kadar utanç vericiydi ki izleyemedim.",
+          "de": "Seine Rede war so zum Fremdschämen, dass ich nicht hinsehen konnte."
+        }
+      ]
+    },
+    {
+      "id": "want-to-crawl-into-a-hole-want-the-ground-to-swallow-one-up",
+      "expr": "want to crawl into a hole / want the ground to swallow one up",
+      "meaning": {
+        "en": "to want to vanish from embarrassment",
+        "tr": "utançtan ortadan kaybolmak istemek",
+        "de": "vor Scham verschwinden wollen"
+      },
+      "equivalent": {
+        "tr": "yer yarılsa da içine girsem",
+        "de": "am liebsten im Erdboden versinken, sich verkriechen wollen"
+      },
+      "intensity": {
+        "en": "extreme",
+        "tr": "aşırı",
+        "de": "extrem"
+      },
+      "level": 4,
+      "literal": {
+        "en": "to want to crawl into a hole / to want the ground to swallow you",
+        "tr": "bir deliğe girmek istemek / yerin kendisini yutmasını istemek"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "crawl into a hole: AmE + BrE · ground to swallow me up: more common in BrE",
+        "tr": "crawl into a hole: AmE + BrE · ground to swallow me up: BrE'de daha sık"
+      },
+      "usage": {
+        "en": "Always in past narration: I wanted to … · Equivalent exaggeration: \"I wanted to die.\"",
+        "tr": "Hep geçmiş anlatıda: I wanted to … · Eşdeğer abartı: \"I wanted to die.\""
+      },
+      "sentences": [
+        {
+          "en": "When the video started playing out loud, I wanted to [crawl into a hole].",
+          "tr": "Video sesli çalmaya başlayınca yer yarılsa içine girecektim.",
+          "de": "Als das Video laut losging, hätte ich mich am liebsten verkrochen."
+        },
+        {
+          "en": "I just wanted [the ground to swallow me up].",
+          "tr": "Yer yarılsa da içine girsem dedim.",
+          "de": "Ich wäre am liebsten im Erdboden versunken."
+        }
+      ]
+    },
+    {
+      "id": "put-ones-foot-in-ones-mouth-put-ones-foot-in-it",
+      "expr": "put one's foot in one's mouth / put one's foot in it",
+      "meaning": {
+        "en": "to say something that hurts or embarrasses someone without realising",
+        "tr": "farkında olmadan birini kıracak/utandıracak bir şey söylemek",
+        "de": "etwas sagen, das jemanden verletzt oder in Verlegenheit bringt, ohne es zu merken"
+      },
+      "equivalent": {
+        "tr": "pot kırmak, çam devirmek",
+        "de": "ins Fettnäpfchen treten"
+      },
+      "intensity": {
+        "en": "moderate",
+        "tr": "orta",
+        "de": "mittel"
+      },
+      "level": 2,
+      "literal": {
+        "en": "to put your foot in your mouth",
+        "tr": "ayağını ağzına sokmak"
+      },
+      "register": {
+        "en": "informal",
+        "tr": "gündelik",
+        "de": "umgangssprachlich"
+      },
+      "variety": {
+        "en": "foot in one's mouth: AmE · put one's foot in it: BrE",
+        "tr": "foot in one's mouth: AmE · put one's foot in it: BrE"
+      },
+      "usage": {
+        "en": "(really) put your foot in your mouth / in it",
+        "tr": "(really) put your foot in your mouth / in it"
+      },
+      "sentences": [
+        {
+          "en": "I really [put my foot in my mouth] when I asked about her husband — they just got divorced.",
+          "tr": "Kocasını sorunca fena pot kırdım, yeni boşanmışlar.",
+          "de": "Ich bin voll ins Fettnäpfchen getreten, als ich nach ihrem Mann fragte – sie sind frisch geschieden."
+        },
+        {
+          "en": "I think I [put my foot in it] — I didn't know it was a surprise party.",
+          "tr": "Galiba pot kırdım, sürpriz parti olduğunu bilmiyordum.",
+          "de": "Ich glaube, ich bin ins Fettnäpfchen getreten – ich wusste nicht, dass es eine Überraschungsparty ist."
+        }
+      ]
+    },
+    {
+      "id": "feel-bad-about-feel-guilty",
+      "expr": "feel bad (about) / feel guilty",
+      "meaning": {
+        "en": "to have an uneasy conscience about something you did",
+        "tr": "yaptığı bir şeyden dolayı vicdanı rahatsız olmak",
+        "de": "wegen etwas, das man getan hat, ein schlechtes Gewissen haben"
+      },
+      "equivalent": {
+        "tr": "kendini kötü hissetmek, vicdan azabı duymak, içi rahat etmemek",
+        "de": "ein schlechtes Gewissen haben, sich schuldig fühlen"
+      },
+      "intensity": {
+        "en": "mild (feel bad) · moderate–strong (feel guilty)",
+        "tr": "hafif (feel bad) · orta–güçlü (feel guilty)"
+      },
+      "level": 1,
+      "register": {
+        "en": "informal / neutral",
+        "tr": "gündelik / nötr",
+        "de": "umgangssprachlich–neutral"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "feel bad about sth/V-ing (for what you did) · feel bad for sb (to feel sorry for someone) · feel guilty about/for V-ing",
+        "tr": "feel bad about sth/V-ing (yaptığın şey için) · feel bad for sb (birine acımak, üzülmek) · feel guilty about/for V-ing"
+      },
+      "sentences": [
+        {
+          "en": "I [feel bad about] cancelling on her at the last minute.",
+          "tr": "Son dakikada onu ektiğim için kendimi kötü hissediyorum.",
+          "de": "Ich habe ein schlechtes Gewissen, weil ich ihr in letzter Minute abgesagt habe."
+        },
+        {
+          "en": "I [feel guilty] for not calling my grandma more often.",
+          "tr": "Babaannemi daha sık aramadığım için vicdan azabı çekiyorum.",
+          "de": "Ich fühle mich schuldig, weil ich meine Oma nicht öfter anrufe."
+        }
+      ]
+    },
+    {
+      "id": "be-self-conscious-about",
+      "expr": "be self-conscious (about)",
+      "meaning": {
+        "en": "to worry so much about how others see you that you can't relax",
+        "tr": "başkalarının kendisini nasıl gördüğünü fazla dert edip rahat olamamak",
+        "de": "sich so viele Gedanken darüber machen, wie andere einen sehen, dass man nicht locker sein kann"
+      },
+      "equivalent": {
+        "tr": "çekinmek, kompleks yapmak, kendinden utanmak",
+        "de": "gehemmt sein, unsicher sein, sich für etwas genieren"
+      },
+      "intensity": {
+        "en": "mild–moderate",
+        "tr": "hafif–orta",
+        "de": "mild–mittel"
+      },
+      "level": 1,
+      "literal": {
+        "en": "(too) conscious of yourself",
+        "tr": "kendinin (fazla) bilincinde"
+      },
+      "register": {
+        "en": "neutral",
+        "tr": "nötr",
+        "de": "neutral"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "be/feel/get self-conscious (about sth). Don't confuse with: self-confident — the exact opposite.",
+        "tr": "be/feel/get self-conscious (about sth). Karıştırma: self-confident (özgüvenli) tam tersi."
+      },
+      "sentences": [
+        {
+          "en": "I'm really [self-conscious about] my accent.",
+          "tr": "Aksanım konusunda çok çekiniyorum.",
+          "de": "Ich bin wegen meines Akzents wirklich gehemmt."
+        },
+        {
+          "en": "He gets [self-conscious] when people watch him eat.",
+          "tr": "İnsanlar onu yemek yerken izleyince rahatsız oluyor.",
+          "de": "Er wird unsicher, wenn ihm Leute beim Essen zusehen."
+        }
+      ]
+    },
+    {
+      "id": "never-live-it-down",
+      "expr": "never live it down",
+      "meaning": {
+        "en": "an embarrassing event that will never be forgotten",
+        "tr": "utanç verici bir olayın asla unutulmayacak olması",
+        "de": "ein peinliches Ereignis, das nie vergessen wird"
+      },
+      "equivalent": {
+        "tr": "bunu ömür boyu başıma kakarlar; asla unutturmazlar",
+        "de": "das wird man jemandem ewig vorhalten; das hängt jemandem ewig nach"
+      },
+      "intensity": {
+        "en": "moderate",
+        "tr": "orta",
+        "de": "mittel"
+      },
+      "level": 2,
+      "literal": {
+        "en": "to be unable to \"live it down\"",
+        "tr": "onu \"yaşayarak aşağı indirememek\""
+      },
+      "register": {
+        "en": "informal (humorous)",
+        "tr": "gündelik (esprili)"
+      },
+      "variety": {
+        "en": "AmE + BrE",
+        "tr": "AmE + BrE"
+      },
+      "usage": {
+        "en": "Almost always negative/future: I'll never live it/this down.",
+        "tr": "Neredeyse hep olumsuz/gelecek: I'll never live it/this down."
+      },
+      "sentences": [
+        {
+          "en": "I fell asleep in the meeting — I'm never going to [live it down].",
+          "tr": "Toplantıda uyuyakaldım, bunu bana asla unutturmayacaklar.",
+          "de": "Ich bin im Meeting eingeschlafen – das werde ich mir ewig anhören müssen."
+        },
+        {
+          "en": "If my brother finds out, I'll never [live it down].",
+          "tr": "Abim öğrenirse ömür boyu dilinden kurtulamam.",
+          "de": "Wenn mein Bruder das erfährt, wird er es mir ewig vorhalten."
+        }
+      ]
+    }
+  ]
+}

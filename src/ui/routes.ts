@@ -6,6 +6,8 @@ export type Route =
   | { kind: 'lists' }
   | { kind: 'list'; listId: string; objectId: string | null }
   | { kind: 'object'; objectId: string }
+  | { kind: 'expressions' }
+  | { kind: 'expressionCategory'; categoryId: string; expressionId: string | null }
   | { kind: 'contributors' }
   | { kind: 'german' }
   | { kind: 'deRoot'; rootId: string; wordId: string | null };
@@ -13,6 +15,7 @@ export type Route =
 /**
  * Hash routes: #/ (start screen: roots or objects), #/roots , #/root/spec , #/root/spec/inspection , #/affix/re- (roots section);
  * #/lists , #/list/kitchen , #/list/kitchen/colander , #/object/colander (lists section);
+ * #/expressions , #/expressions/anger , #/expressions/anger/blow-up (everyday expressions section);
  * #/de , #/de/steh , #/de/steh/verstehen (German roots section); #/contributors (who added the words).
  */
 export function parseRoute(hash: string): Route {
@@ -24,20 +27,22 @@ export function parseRoute(hash: string): Route {
   if (kind === 'lists') return { kind: 'lists' };
   if (kind === 'list' && id) return { kind: 'list', listId: decodeURIComponent(id), objectId: dec(sub) };
   if (kind === 'object' && id) return { kind: 'object', objectId: decodeURIComponent(id) };
+  if (kind === 'expressions') return id ? { kind: 'expressionCategory', categoryId: decodeURIComponent(id), expressionId: dec(sub) } : { kind: 'expressions' };
   if (kind === 'contributors') return { kind: 'contributors' };
   if (kind === 'de') return id ? { kind: 'deRoot', rootId: decodeURIComponent(id), wordId: dec(sub) } : { kind: 'german' };
   return { kind: 'home' };
 }
 
 /** Which half of the app a route belongs to; null for the neutral home address. */
-export function sectionOf(route: Route): 'roots' | 'lists' | 'german' | null {
+export function sectionOf(route: Route): 'roots' | 'lists' | 'german' | 'expressions' | null {
   if (route.kind === 'home' || route.kind === 'contributors') return null;
   if (route.kind === 'german' || route.kind === 'deRoot') return 'german';
+  if (route.kind === 'expressions' || route.kind === 'expressionCategory') return 'expressions';
   return route.kind === 'roots' || route.kind === 'root' || route.kind === 'affix' ? 'roots' : 'lists';
 }
 
 /** Where each section starts. */
-export const SECTION_HOME: Record<'roots' | 'lists' | 'german', string> = { roots: '#/roots', lists: '#/lists', german: '#/de' };
+export const SECTION_HOME: Record<'roots' | 'lists' | 'german' | 'expressions', string> = { roots: '#/roots', lists: '#/lists', german: '#/de', expressions: '#/expressions' };
 
 export function rootHref(rootId: string, wordId: string | null = null): string {
   return `#/root/${encodeURIComponent(rootId)}${wordId ? `/${encodeURIComponent(wordId)}` : ''}`;
@@ -58,6 +63,11 @@ export function listHref(listId: string, objectId: string | null = null): string
 
 export function objectHref(objectId: string): string {
   return `#/object/${encodeURIComponent(objectId)}`;
+}
+
+/** A category of everyday expressions, or one expression inside it: #/expressions/anger/blow-up. */
+export function expressionHref(categoryId: string, expressionId: string | null = null): string {
+  return `#/expressions/${encodeURIComponent(categoryId)}${expressionId ? `/${encodeURIComponent(expressionId)}` : ''}`;
 }
 
 export const CONTRIBUTORS_HREF = '#/contributors';
