@@ -13,6 +13,7 @@
     {
       "id": "have-a-go-at-go-off-on",
       "expr": "have a go at / go off on",
+      "kind": "idiom",
       "meaning": {
         "en": "to attack someone verbally; to shout at them",
         "tr": "birine sertçe çatmak, bağırıp çağırmak",
@@ -57,6 +58,7 @@
     {
       "id": "take-it-out-on",
       "expr": "take it out on",
+      "kind": "idiom",
       "meaning": {
         "en": "to make an unrelated person suffer for your own stress or anger",
         "tr": "kendi stresinin/öfkesinin acısını ilgisiz birinden çıkarmak",
@@ -105,6 +107,7 @@
     {
       "id": "lash-out-at",
       "expr": "lash out (at)",
+      "kind": "verb",
       "meaning": {
         "en": "to suddenly attack someone verbally (often because you are hurt)",
         "tr": "(çoğu zaman incindiği için) birine aniden sözle saldırmak",
@@ -153,6 +156,7 @@
     {
       "id": "bottle-up",
       "expr": "bottle up",
+      "kind": "verb",
       "meaning": {
         "en": "to keep your feelings inside; to suppress them",
         "tr": "duygularını içine atmak, bastırmak",
@@ -201,6 +205,7 @@
     {
       "id": "open-up-to",
       "expr": "open up (to)",
+      "kind": "verb",
       "meaning": {
         "en": "to tell someone your feelings and private things",
         "tr": "duygularını, özel şeylerini birine anlatmak",
@@ -249,6 +254,7 @@
     {
       "id": "vent-let-off-steam-blow-off-steam",
       "expr": "vent / let off steam / blow off steam",
+      "kind": "idiom",
       "meaning": {
         "en": "to release anger or stress by talking or by physical activity",
         "tr": "içindeki öfkeyi/stresi anlatarak ya da hareket ederek boşaltmak",
@@ -297,6 +303,7 @@
     {
       "id": "fall-out-with",
       "expr": "fall out (with)",
+      "kind": "verb",
       "meaning": {
         "en": "to argue with someone and stop being friendly",
         "tr": "biriyle tartışıp arası bozulmak, küsmek",
@@ -345,6 +352,7 @@
     {
       "id": "make-up-with",
       "expr": "make up (with)",
+      "kind": "verb",
       "meaning": {
         "en": "to become friends again after a quarrel",
         "tr": "kavgadan sonra barışmak",
@@ -393,6 +401,7 @@
     {
       "id": "hold-a-grudge-hold-it-against",
       "expr": "hold a grudge / hold it against",
+      "kind": "idiom",
       "meaning": {
         "en": "to stay resentful towards someone; to count something from the past against them",
         "tr": "birine kin gütmek; geçmişteki bir şeyi birinin aleyhine saymak",
@@ -441,6 +450,7 @@
     {
       "id": "take-it-personally",
       "expr": "take it personally",
+      "kind": "idiom",
       "meaning": {
         "en": "to perceive a general remark or behaviour as an attack on you",
         "tr": "genel bir söz/davranışı kendine yönelik saldırı gibi algılamak",
@@ -485,6 +495,7 @@
     {
       "id": "get-defensive",
       "expr": "get defensive",
+      "kind": "adjective",
       "meaning": {
         "en": "to immediately start defending yourself when you sense criticism",
         "tr": "eleştiri sezince hemen savunmaya geçmek",
@@ -529,6 +540,7 @@
     {
       "id": "overreact",
       "expr": "overreact",
+      "kind": "verb",
       "meaning": {
         "en": "to react more strongly than the situation deserves",
         "tr": "bir şeye olması gerekenden büyük tepki vermek",
@@ -577,6 +589,7 @@
     {
       "id": "back-off",
       "expr": "back off",
+      "kind": "verb",
       "meaning": {
         "en": "to stop pressuring someone; to stay out of it",
         "tr": "birinin üstüne gitmeyi bırakmak; karışmamak",
@@ -624,6 +637,7 @@
     {
       "id": "give-someone-the-silent-treatment",
       "expr": "give someone the silent treatment",
+      "kind": "idiom",
       "meaning": {
         "en": "to deliberately not speak to someone in order to punish them",
         "tr": "cezalandırmak için biriyle bilerek konuşmamak",
@@ -672,6 +686,7 @@
     {
       "id": "storm-out-storm-off",
       "expr": "storm out / storm off",
+      "kind": "verb",
       "meaning": {
         "en": "to leave a place angrily",
         "tr": "öfkeyle bir yerden çıkıp gitmek",

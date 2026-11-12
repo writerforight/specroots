@@ -313,6 +313,7 @@ duygunun bütün ifadeleri öğretme sırasıyla (en yaygın olan önce).
     {
       "id": "be-fed-up-with",
       "expr": "be fed up (with)",
+      "kind": "adjective",
       "meaning": { "en": "to have had too much of something that has been going on for a long time", "tr": "…", "de": "…" },
       "equivalent": { "tr": "bıkmak, gına gelmek", "de": "die Nase voll haben, es satthaben" },
       "intensity": { "en": "moderate–strong", "tr": "orta–güçlü", "de": "mittel–stark" },
@@ -336,6 +337,11 @@ duygunun bütün ifadeleri öğretme sırasıyla (en yaygın olan önce).
   `meaning` ve her cümle `en`, `tr`, `de` ister; `equivalent` `tr` ve `de` ister (`en` asla yazılmaz:
   İngilizce karşılık ifadenin kendisidir). `fr`, `it`, `es` iyi yazabildiğin her yerde eklenebilir.
 - `id`: ifadenin küçük harfli, tireli hâli; **bütün bölümde bir kez** kullanılır.
+- `kind` (zorunlu): ifadenin türü; site böylece bütün fiilleri, bütün deyimleri… tek listede gösterir.
+  `verb`: fiil ya da öbek fiil (*blow up*, *dread*, *look forward to*). `adjective`: be / feel / get +
+  sıfat ya da ortaç (*be fed up*, *feel down*, *get defensive*). `idiom`: bir isme ya da imgeye dayanan
+  kalıp (*lose one's temper*, *get cold feet*, *out of the blue*). `saying`: olduğu gibi, tek başına
+  söylenen söz (*No way!*, *Hang in there*). "a / b" biçimindeki girdilerde ilkine göre karar ver.
 - `meaning`: sade bir tanım. `equivalent`: o dili konuşan birinin aynı durumda gerçekten söyleyeceği
   şey; varsa deyim (*gına gelmek*, *die Nase voll haben*), kelimesi kelimesine çeviri değil.
 - `intensity` + `level` (1 hafif, 2 orta, 3 güçlü, 4 aşırı) ve ayrıntı metinleri `register`,

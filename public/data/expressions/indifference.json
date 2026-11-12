@@ -13,6 +13,7 @@
     {
       "id": "not-care-about",
       "expr": "not care (about)",
+      "kind": "verb",
       "meaning": {
         "en": "not to consider something important",
         "tr": "umursamamak, önemsememek",
@@ -61,6 +62,7 @@
     {
       "id": "not-mind",
       "expr": "not mind",
+      "kind": "verb",
       "meaning": {
         "en": "something is not a problem for you; either option is fine",
         "tr": "bir şeyin kendisi için sorun olmaması; fark etmemesi",
@@ -105,6 +107,7 @@
     {
       "id": "couldnt-care-less",
       "expr": "couldn't care less",
+      "kind": "idiom",
       "meaning": {
         "en": "not to care at all",
         "tr": "hiç ama hiç umursamamak",
@@ -152,6 +155,7 @@
     {
       "id": "not-give-a-damn-a-shit",
       "expr": "not give a damn / a shit",
+      "kind": "idiom",
       "meaning": {
         "en": "not to care at all (harsh, defiant)",
         "tr": "hiç umursamamak (sert, meydan okuyan)",
@@ -195,6 +199,7 @@
     {
       "id": "whatever-meh",
       "expr": "Whatever. / Meh.",
+      "kind": "saying",
       "meaning": {
         "en": "Whatever: to cut off an argument dismissively · Meh: \"so-so\", no enthusiasm",
         "tr": "Whatever: tartışmayı umursamazca kesmek · Meh: \"eh işte\", heyecan duymamak",
@@ -238,6 +243,7 @@
     {
       "id": "cant-be-bothered",
       "expr": "can't be bothered",
+      "kind": "idiom",
       "meaning": {
         "en": "to have no desire or energy to do something",
         "tr": "bir şeyi yapacak hevesi/enerjisi olmamak, üşenmek",
@@ -285,6 +291,7 @@
     {
       "id": "be-over-it-someone",
       "expr": "be over (it / someone)",
+      "kind": "idiom",
       "meaning": {
         "en": "(1) be over sb: no longer to have feelings for them (2) be over it: to have recovered, or to be tired of it and no longer interested",
         "tr": "(1) be over sb: artık ona karşı bir şey hissetmemek (2) be over it: atlatmış olmak ya da artık bıkmış, ilgilenmiyor olmak",
@@ -333,6 +340,7 @@
     {
       "id": "zone-out-space-out",
       "expr": "zone out / space out",
+      "kind": "verb",
       "meaning": {
         "en": "to stop paying attention; to drift off",
         "tr": "dalıp gitmek, dinlemeyi bırakmak",
@@ -381,6 +389,7 @@
     {
       "id": "not-be-ones-thing-not-be-into",
       "expr": "not be one's thing / not be into",
+      "kind": "idiom",
       "meaning": {
         "en": "something is outside a person's interests",
         "tr": "bir şeyin kişinin ilgi alanına girmemesi",
@@ -425,6 +434,7 @@
     {
       "id": "shrug-it-off-brush-it-off",
       "expr": "shrug it off / brush it off",
+      "kind": "verb",
       "meaning": {
         "en": "to treat something as unimportant; not to dwell on it",
         "tr": "bir şeyi önemsememek, üstünde durmamak",
@@ -473,6 +483,7 @@
     {
       "id": "feel-numb",
       "expr": "feel numb",
+      "kind": "adjective",
       "meaning": {
         "en": "to be unable to feel anything (often after shock or exhaustion)",
         "tr": "hiçbir şey hissedememek (çoğu zaman şok ya da tükenmişlik sonrası)",

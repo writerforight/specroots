@@ -13,6 +13,7 @@
     {
       "id": "be-confused-about",
       "expr": "be confused (about)",
+      "kind": "adjective",
       "meaning": {
         "en": "not to understand something; to be mixed up",
         "tr": "bir şeyi anlamamak, kafası karışmak",
@@ -57,6 +58,7 @@
     {
       "id": "be-torn-between",
       "expr": "be torn (between)",
+      "kind": "adjective",
       "meaning": {
         "en": "to be stuck between two options (both attractive or both hard)",
         "tr": "iki seçenek arasında kalmak (ikisi de çekici ya da ikisi de zor)",
@@ -105,6 +107,7 @@
     {
       "id": "be-on-the-fence",
       "expr": "be on the fence",
+      "kind": "idiom",
       "meaning": {
         "en": "not to have chosen a side yet; to be undecided",
         "tr": "henüz taraf seçmemiş, kararsız olmak",
@@ -153,6 +156,7 @@
     {
       "id": "have-second-thoughts",
       "expr": "have second thoughts",
+      "kind": "idiom",
       "meaning": {
         "en": "to start doubting a decision you have made",
         "tr": "verdiği bir karardan şüphe etmeye başlamak",
@@ -201,6 +205,7 @@
     {
       "id": "have-mixed-feelings",
       "expr": "have mixed feelings",
+      "kind": "idiom",
       "meaning": {
         "en": "to feel both positive and negative about something",
         "tr": "bir konuda hem olumlu hem olumsuz hissetmek",
@@ -249,6 +254,7 @@
     {
       "id": "cant-make-up-ones-mind",
       "expr": "can't make up one's mind",
+      "kind": "idiom",
       "meaning": {
         "en": "to be unable to decide",
         "tr": "karar verememek",
@@ -297,6 +303,7 @@
     {
       "id": "go-back-and-forth",
       "expr": "go back and forth",
+      "kind": "idiom",
       "meaning": {
         "en": "to keep switching between two ideas",
         "tr": "iki fikir arasında sürekli gidip gelmek",
@@ -345,6 +352,7 @@
     {
       "id": "have-no-idea-not-have-a-clue",
       "expr": "have no idea / not have a clue",
+      "kind": "idiom",
       "meaning": {
         "en": "not to know at all",
         "tr": "hiç bilmemek, hiçbir fikri olmamak",
@@ -393,6 +401,7 @@
     {
       "id": "cant-wrap-get-ones-head-around",
       "expr": "can't wrap / get one's head around",
+      "kind": "idiom",
       "meaning": {
         "en": "to be unable to grasp or accept something",
         "tr": "bir şeyi kavrayamamak, aklı almamak",
@@ -441,6 +450,7 @@
     {
       "id": "throw-someone-off",
       "expr": "throw someone (off)",
+      "kind": "verb",
       "meaning": {
         "en": "to confuse or unsettle someone with something unexpected",
         "tr": "beklenmedik bir şeyle birinin kafasını karıştırmak, dengesini bozmak",
@@ -489,6 +499,7 @@
     {
       "id": "get-cold-feet",
       "expr": "get cold feet",
+      "kind": "idiom",
       "meaning": {
         "en": "to suddenly become afraid just before an important step and feel like backing out",
         "tr": "önemli bir adımın hemen öncesinde korkup vazgeçecek gibi olmak",

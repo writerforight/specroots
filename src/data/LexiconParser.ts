@@ -1,7 +1,7 @@
 import { Affix, type AffixIndex, type AffixKind, type AffixOccurrence } from '../domain/Affix';
 import { Contributor } from '../domain/Contributor';
 import { BREAKDOWN_LANGS, EverydayObject, stripArticle, type CommonsImage, type ListSummary, type NamePart, type ObjectSummary, type WordList } from '../domain/EverydayObject';
-import { Expression, EXPRESSION_DETAILS, type CategorySummary, type ExpressionCategory, type ExpressionDetail, type IntensityLevel } from '../domain/Expression';
+import { Expression, EXPRESSION_DETAILS, EXPRESSION_KINDS, isExpressionKind, type CategorySummary, type ExpressionCategory, type ExpressionDetail, type IntensityLevel } from '../domain/Expression';
 import { isLang, TRANSLATION_LANGUAGES, type Localized, type SourceLang, type TranslationLang } from '../domain/Language';
 import { Morpheme } from '../domain/Morpheme';
 import { Root, type Origin, type RootSummary } from '../domain/Root';
@@ -157,6 +157,11 @@ export class LexiconParser {
     return { id, title: this.localized(obj.title, `${where} › title`), count: objectIds.length, objectIds };
   }
 
+  private expressionKind(value: unknown, where: string) {
+    if (!isExpressionKind(value)) throw new LexiconError(where, `"kind" must be one of ${EXPRESSION_KINDS.join(', ')}`);
+    return value;
+  }
+
   parseExpressionIndex(raw: unknown): CategorySummary[] {
     return this.array(raw, 'expressions-index.json').map((value, i) => {
       const where = `expressions-index.json[${i}]`;
@@ -166,7 +171,8 @@ export class LexiconParser {
         title: this.localized(obj.title, `${where} › title`),
         expressions: this.array(obj.expressions, `${where} › expressions`).map((e, j) => {
           const entry = this.object(e, `${where} › expressions[${j}]`);
-          return { id: this.string(entry.id, `${where} › expressions[${j}] › id`), expr: this.string(entry.expr, `${where} › expressions[${j}] › expr`) };
+          const at = `${where} › expressions[${j}]`;
+          return { id: this.string(entry.id, `${at} › id`), expr: this.string(entry.expr, `${at} › expr`), kind: this.expressionKind(entry.kind, at) };
         }),
       };
     });
@@ -194,6 +200,7 @@ export class LexiconParser {
       return new Expression(
         eid,
         this.string(entry.expr, `${here} › expr`),
+        this.expressionKind(entry.kind, here),
         this.localized(entry.meaning, `${here} › meaning`),
         this.localized(entry.equivalent, `${here} › equivalent`),
         entry.intensity === undefined ? null : this.localized(entry.intensity, `${here} › intensity`),

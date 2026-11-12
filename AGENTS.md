@@ -310,6 +310,7 @@ of its expressions in teaching order (the most common first).
     {
       "id": "be-fed-up-with",
       "expr": "be fed up (with)",
+      "kind": "adjective",
       "meaning": { "en": "to have had too much of something that has been going on for a long time", "tr": "…", "de": "…" },
       "equivalent": { "tr": "bıkmak, gına gelmek", "de": "die Nase voll haben, es satthaben" },
       "intensity": { "en": "moderate–strong", "tr": "orta–güçlü", "de": "mittel–stark" },
@@ -334,6 +335,11 @@ of its expressions in teaching order (the most common first).
   `en`: the English equivalent is the expression itself). `fr`, `it`, `es` are welcome wherever you
   can write them well.
 - `id`: the expression in lower case with dashes, used **once in the whole section**.
+- `kind` (required): what sort of phrase it is, so the site can list all verbs, all idioms… together.
+  `verb`: a verb or phrasal verb (*blow up*, *dread*, *look forward to*). `adjective`: be / feel / get +
+  an adjective or participle (*be fed up*, *feel down*, *get defensive*). `idiom`: a fixed phrase built
+  on a noun or an image (*lose one's temper*, *get cold feet*, *out of the blue*). `saying`: said as it
+  stands, as a whole utterance (*No way!*, *Hang in there*). For "a / b" entries, go by the first one.
 - `meaning`: a plain definition. `equivalent`: what a speaker of that language would actually say in
   the same situation, an idiom where one exists (*die Nase voll haben*), not a word-by-word translation.
 - `intensity` + `level` (1 mild, 2 moderate, 3 strong, 4 extreme) and the detail texts `register`,

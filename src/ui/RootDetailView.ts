@@ -1,6 +1,6 @@
 import type { Affix } from '../domain/Affix';
 import type { EverydayObject, ListSummary, ObjectSummary, WordList } from '../domain/EverydayObject';
-import type { ExpressionCategory } from '../domain/Expression';
+import type { ExpressionCategory, ExpressionKind } from '../domain/Expression';
 import type { Root } from '../domain/Root';
 import { AffixFamilyView, type AffixGroup } from './AffixFamilyView';
 import type { DerivationViewKind, IndexLayout, Section } from '../services/SettingsStore';
@@ -12,7 +12,7 @@ import { ExpressionCategoryView } from './ExpressionCategoryView';
 import { INDEX_LAYOUTS, type IndexItem } from './IndexView';
 import { ListPageView } from './ListPageView';
 import { ObjectCardView } from './ObjectCardView';
-import { CONTRIBUTORS_HREF, SECTION_HOME } from './routes';
+import { CONTRIBUTORS_HREF, KINDS_HREF, SECTION_HOME } from './routes';
 import type { ViewContext } from './ViewContext';
 
 /** The right-hand pane: one root with its word family, one affix with the words built with it, or one object. */
@@ -88,10 +88,10 @@ export class RootDetailView {
     window.scrollTo?.({ top: 0 });
   }
 
-  showEmpty(ctx: ViewContext): void {
+  showEmpty(ctx: ViewContext, expressionsByKind = false): void {
     clear(this.el);
     const { section, browseMode } = ctx.settings;
-    const hint = section === 'expressions' ? 'chooseCategory' : section === 'lists' ? 'chooseList' : section === 'german' || browseMode === 'root' ? 'chooseRoot' : 'chooseAffix';
+    const hint = expressionsByKind ? 'chooseKind' : section === 'expressions' ? 'chooseCategory' : section === 'lists' ? 'chooseList' : section === 'german' || browseMode === 'root' ? 'chooseRoot' : 'chooseAffix';
     this.el.append(h('p', { class: 'empty-state' }, ctx.i18n.t(hint)));
   }
 
@@ -112,6 +112,17 @@ export class RootDetailView {
   showExpressions(category: ExpressionCategory, ctx: ViewContext, focusId: string | null): void {
     clear(this.el);
     this.el.append(h('a', { class: 'back-link', href: SECTION_HOME.expressions }, `← ${ctx.i18n.t('allCategories')}`), ...new ExpressionCategoryView(ctx).render(category));
+    this.focusExpression(focusId);
+  }
+
+  /** All the expressions of one kind (the verbs…), grouped by feeling. */
+  showExpressionKind(kind: ExpressionKind, groups: readonly ExpressionCategory[], ctx: ViewContext, focusId: string | null): void {
+    clear(this.el);
+    this.el.append(h('a', { class: 'back-link', href: KINDS_HREF }, `← ${ctx.i18n.t('allKinds')}`), ...new ExpressionCategoryView(ctx).renderKind(kind, groups));
+    this.focusExpression(focusId);
+  }
+
+  private focusExpression(focusId: string | null): void {
     const card = focusId ? this.el.querySelector<HTMLElement>(`#expr-${CSS.escape(focusId)}`) : null;
     if (!card) {
       window.scrollTo?.({ top: 0 });

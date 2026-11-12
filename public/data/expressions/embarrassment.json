@@ -13,6 +13,7 @@
     {
       "id": "be-embarrassed",
       "expr": "be embarrassed",
+      "kind": "adjective",
       "meaning": {
         "en": "to feel you have looked foolish in front of others (social embarrassment)",
         "tr": "başkalarının önünde küçük düştüğünü hissetmek (sosyal utanç)",
@@ -62,6 +63,7 @@
     {
       "id": "be-mortified",
       "expr": "be mortified",
+      "kind": "adjective",
       "meaning": {
         "en": "to be so embarrassed you want to disappear",
         "tr": "yerin dibine girecek kadar utanmak",
@@ -110,6 +112,7 @@
     {
       "id": "feel-awkward",
       "expr": "feel awkward",
+      "kind": "adjective",
       "meaning": {
         "en": "to be in an odd, uncomfortable social moment where you don't know what to say or do",
         "tr": "ne diyeceğini/yapacağını bilemediğin tuhaf, rahatsız bir sosyal an yaşamak",
@@ -154,6 +157,7 @@
     {
       "id": "make-a-fool-of-oneself",
       "expr": "make a fool of oneself",
+      "kind": "idiom",
       "meaning": {
         "en": "to look ridiculous in front of everyone",
         "tr": "herkesin önünde gülünç duruma düşmek",
@@ -202,6 +206,7 @@
     {
       "id": "be-ashamed-of",
       "expr": "be ashamed of",
+      "kind": "adjective",
       "meaning": {
         "en": "to feel (moral) shame about something wrong you did",
         "tr": "yaptığı yanlış bir şeyden (ahlaki olarak) utanç duymak",
@@ -250,6 +255,7 @@
     {
       "id": "cringe",
       "expr": "cringe",
+      "kind": "verb",
       "meaning": {
         "en": "to squirm at how embarrassing something is (often on someone else's behalf)",
         "tr": "bir şeyin utanç vericiliği karşısında içi kıyılmak (çoğu zaman başkası adına)",
@@ -297,6 +303,7 @@
     {
       "id": "want-to-crawl-into-a-hole-want-the-ground-to-swallow-one-up",
       "expr": "want to crawl into a hole / want the ground to swallow one up",
+      "kind": "idiom",
       "meaning": {
         "en": "to want to vanish from embarrassment",
         "tr": "utançtan ortadan kaybolmak istemek",
@@ -345,6 +352,7 @@
     {
       "id": "put-ones-foot-in-ones-mouth-put-ones-foot-in-it",
       "expr": "put one's foot in one's mouth / put one's foot in it",
+      "kind": "idiom",
       "meaning": {
         "en": "to say something that hurts or embarrasses someone without realising",
         "tr": "farkında olmadan birini kıracak/utandıracak bir şey söylemek",
@@ -393,6 +401,7 @@
     {
       "id": "feel-bad-about-feel-guilty",
       "expr": "feel bad (about) / feel guilty",
+      "kind": "adjective",
       "meaning": {
         "en": "to have an uneasy conscience about something you did",
         "tr": "yaptığı bir şeyden dolayı vicdanı rahatsız olmak",
@@ -436,6 +445,7 @@
     {
       "id": "be-self-conscious-about",
       "expr": "be self-conscious (about)",
+      "kind": "adjective",
       "meaning": {
         "en": "to worry so much about how others see you that you can't relax",
         "tr": "başkalarının kendisini nasıl gördüğünü fazla dert edip rahat olamamak",
@@ -484,6 +494,7 @@
     {
       "id": "never-live-it-down",
       "expr": "never live it down",
+      "kind": "idiom",
       "meaning": {
         "en": "an embarrassing event that will never be forgotten",
         "tr": "utanç verici bir olayın asla unutulmayacak olması",

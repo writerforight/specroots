@@ -5,6 +5,18 @@ import type { Sentence } from './Sentence';
 export const EXPRESSION_DETAILS = ['literal', 'usage', 'collocations', 'variety', 'register', 'note'] as const;
 export type ExpressionDetail = (typeof EXPRESSION_DETAILS)[number];
 
+/**
+ * What kind of phrase an expression is, so that all the verbs (or adjectives…) can be read as one list:
+ * a verb or phrasal verb ("blow up"), be / feel / get + adjective ("be fed up"), a fixed picture
+ * phrase ("get cold feet"), or something said as it stands ("No way!").
+ */
+export const EXPRESSION_KINDS = ['verb', 'adjective', 'idiom', 'saying'] as const;
+export type ExpressionKind = (typeof EXPRESSION_KINDS)[number];
+
+export function isExpressionKind(value: unknown): value is ExpressionKind {
+  return (EXPRESSION_KINDS as readonly unknown[]).includes(value);
+}
+
 /** How strong the feeling is, 1 (mild) to 4 (extreme); colours the intensity tag. */
 export type IntensityLevel = 1 | 2 | 3 | 4;
 
@@ -18,6 +30,7 @@ export class Expression {
     readonly id: string,
     /** The headword as a learner would look it up: "lose one's temper". */
     readonly expr: string,
+    readonly kind: ExpressionKind,
     /** What it really means, as a short definition in each language. */
     readonly meaning: Localized,
     /** What a speaker of that language would say instead: "die Nase voll haben", "gına gelmek". */
@@ -40,7 +53,7 @@ export class Expression {
 export interface CategorySummary {
   readonly id: string;
   readonly title: Localized;
-  readonly expressions: readonly { readonly id: string; readonly expr: string }[];
+  readonly expressions: readonly { readonly id: string; readonly expr: string; readonly kind: ExpressionKind }[];
 }
 
 /** One feeling (Anger, Relief…) with its expressions, in teaching order: the common ones first. */

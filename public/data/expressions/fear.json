@@ -13,6 +13,7 @@
     {
       "id": "be-scared-of-scared-to-death",
       "expr": "be scared (of) / scared to death",
+      "kind": "adjective",
       "meaning": {
         "en": "to be afraid / to be extremely frightened",
         "tr": "korkmak / ödü kopmak",
@@ -56,6 +57,7 @@
     {
       "id": "be-terrified-petrified",
       "expr": "be terrified / petrified",
+      "kind": "adjective",
       "meaning": {
         "en": "to be filled with terror; to freeze with fear",
         "tr": "dehşete kapılmak; korkudan donup kalmak",
@@ -104,6 +106,7 @@
     {
       "id": "freak-out",
       "expr": "freak out",
+      "kind": "verb",
       "meaning": {
         "en": "to lose control and overreact (from fear, panic, anger or shock)",
         "tr": "(korku, panik, öfke ya da şaşkınlıkla) kontrolünü kaybedip aşırı tepki vermek",
@@ -161,6 +164,7 @@
     {
       "id": "panic-have-a-panic-attack",
       "expr": "panic / have a panic attack",
+      "kind": "verb",
       "meaning": {
         "en": "to be seized by panic / to have a panic attack",
         "tr": "paniğe kapılmak / panik atak geçirmek",
@@ -205,6 +209,7 @@
     {
       "id": "chicken-out",
       "expr": "chicken out",
+      "kind": "verb",
       "meaning": {
         "en": "to get scared and back out at the last moment",
         "tr": "korkup son anda vazgeçmek",
@@ -253,6 +258,7 @@
     {
       "id": "be-creeped-out-give-someone-the-creeps",
       "expr": "be creeped out / give someone the creeps",
+      "kind": "adjective",
       "meaning": {
         "en": "to be unsettled by something eerie or unpleasant",
         "tr": "tekinsiz, ürpertici bir şeyden rahatsız olmak",
@@ -301,6 +307,7 @@
     {
       "id": "feel-insecure-about",
       "expr": "feel insecure (about)",
+      "kind": "adjective",
       "meaning": {
         "en": "to lack confidence; to feel inadequate or not good enough",
         "tr": "kendine güvenmemek, kendini yetersiz/değersiz hissetmek",
@@ -349,6 +356,7 @@
     {
       "id": "be-shaken-up",
       "expr": "be shaken (up)",
+      "kind": "adjective",
       "meaning": {
         "en": "to still be upset after a frightening or sad event",
         "tr": "korkutucu/üzücü bir olaydan sonra hâlâ sarsılmış olmak",
@@ -397,6 +405,7 @@
     {
       "id": "be-paranoid-about",
       "expr": "be paranoid (about)",
+      "kind": "adjective",
       "meaning": {
         "en": "to be suspicious or worried without good reason, or far too much",
         "tr": "yersiz ya da abartılı biçimde kuşkulanmak/endişelenmek",
@@ -440,6 +449,7 @@
     {
       "id": "scare-the-hell-out-of-someone",
       "expr": "scare the hell out of someone",
+      "kind": "idiom",
       "meaning": {
         "en": "to frighten someone badly",
         "tr": "birini çok korkutmak",

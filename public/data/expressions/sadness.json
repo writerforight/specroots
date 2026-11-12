@@ -13,6 +13,7 @@
     {
       "id": "feel-down",
       "expr": "feel down",
+      "kind": "adjective",
       "meaning": {
         "en": "to feel low and in poor spirits (temporarily)",
         "tr": "moralsiz, keyifsiz hissetmek (geçici)",
@@ -65,6 +66,7 @@
     {
       "id": "be-upset",
       "expr": "be upset",
+      "kind": "adjective",
       "meaning": {
         "en": "a mix of sad + hurt + a little angry",
         "tr": "üzgün + kırgın + biraz da kızgın karışımı bir hâl",
@@ -118,6 +120,7 @@
     {
       "id": "be-bummed-out",
       "expr": "be bummed (out)",
+      "kind": "adjective",
       "meaning": {
         "en": "to be disappointed and a bit low",
         "tr": "hayal kırıklığına uğramış, canı sıkılmış olmak",
@@ -162,6 +165,7 @@
     {
       "id": "be-gutted",
       "expr": "be gutted",
+      "kind": "adjective",
       "meaning": {
         "en": "to be bitterly disappointed",
         "tr": "çok büyük hayal kırıklığı yaşamak",
@@ -210,6 +214,7 @@
     {
       "id": "be-heartbroken-break-someones-heart",
       "expr": "be heartbroken / break someone's heart",
+      "kind": "adjective",
       "meaning": {
         "en": "to suffer deep pain (especially over love or loss)",
         "tr": "(özellikle aşk ya da kayıp yüzünden) derin acı çekmek",
@@ -258,6 +263,7 @@
     {
       "id": "be-devastated",
       "expr": "be devastated",
+      "kind": "adjective",
       "meaning": {
         "en": "to be completely crushed by news or a loss",
         "tr": "bir haber/kayıp karşısında tamamen yıkılmak",
@@ -306,6 +312,7 @@
     {
       "id": "let-someone-down",
       "expr": "let someone down",
+      "kind": "verb",
       "meaning": {
         "en": "to fail someone who was relying on you",
         "tr": "birinin güvenini/beklentisini boşa çıkarmak",
@@ -363,6 +370,7 @@
     {
       "id": "get-someone-down",
       "expr": "get someone down",
+      "kind": "verb",
       "meaning": {
         "en": "(of a situation) to gradually make someone unhappy",
         "tr": "(bir durum) birinin moralini zamanla bozmak",
@@ -407,6 +415,7 @@
     {
       "id": "get-ones-hopes-up",
       "expr": "get one's hopes up",
+      "kind": "idiom",
       "meaning": {
         "en": "to start hoping (perhaps for nothing)",
         "tr": "(belki boşuna) umutlanmak",
@@ -455,6 +464,7 @@
     {
       "id": "tear-up",
       "expr": "tear up",
+      "kind": "verb",
       "meaning": {
         "en": "to get tears in your eyes (without actually crying yet)",
         "tr": "gözleri dolmak (henüz ağlamadan)",
@@ -503,6 +513,7 @@
     {
       "id": "break-down",
       "expr": "break down",
+      "kind": "verb",
       "meaning": {
         "en": "to lose control and start crying; to collapse emotionally",
         "tr": "kendini tutamayıp ağlamaya başlamak, duygusal olarak çökmek",
@@ -555,6 +566,7 @@
     {
       "id": "go-through-a-lot-a-rough-patch",
       "expr": "go through a lot / a rough patch",
+      "kind": "idiom",
       "meaning": {
         "en": "to be having a difficult time",
         "tr": "zor bir dönem yaşamak",

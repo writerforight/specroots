@@ -13,6 +13,7 @@
     {
       "id": "be-on-edge",
       "expr": "be on edge",
+      "kind": "idiom",
       "meaning": {
         "en": "to be tense and alert, as if something is about to happen",
         "tr": "her an bir şey olacakmış gibi gergin ve tetikte olmak",
@@ -65,6 +66,7 @@
     {
       "id": "be-stressed-out",
       "expr": "be stressed (out)",
+      "kind": "adjective",
       "meaning": {
         "en": "to feel under pressure and unable to cope calmly",
         "tr": "baskı altında, bunalmış hissetmek",
@@ -113,6 +115,7 @@
     {
       "id": "be-nervous-about",
       "expr": "be nervous (about)",
+      "kind": "adjective",
       "meaning": {
         "en": "to be tense or jittery because of something that is going to happen",
         "tr": "olacak bir şey yüzünden gergin/heyecanlı olmak",
@@ -161,6 +164,7 @@
     {
       "id": "be-a-nervous-wreck",
       "expr": "be a nervous wreck",
+      "kind": "idiom",
       "meaning": {
         "en": "to be in a terrible state from anxiety",
         "tr": "kaygıdan perişan hâlde olmak",
@@ -209,6 +213,7 @@
     {
       "id": "have-butterflies-in-ones-stomach",
       "expr": "have butterflies (in one's stomach)",
+      "kind": "idiom",
       "meaning": {
         "en": "to feel a flutter in your stomach from excitement (often a pleasant kind)",
         "tr": "heyecandan midede kıpırtı hissetmek (çoğu zaman tatlı bir heyecan)",
@@ -257,6 +262,7 @@
     {
       "id": "be-worried-sick",
       "expr": "be worried sick",
+      "kind": "adjective",
       "meaning": {
         "en": "to be extremely worried (usually about someone)",
         "tr": "(çoğunlukla birisi için) aşırı endişelenmek",
@@ -305,6 +311,7 @@
     {
       "id": "be-uptight",
       "expr": "be uptight",
+      "kind": "adjective",
       "meaning": {
         "en": "to be too tense, rigid, unable to relax",
         "tr": "fazla gergin, katı, rahat olamayan biri olmak",
@@ -352,6 +359,7 @@
     {
       "id": "overthink",
       "expr": "overthink",
+      "kind": "verb",
       "meaning": {
         "en": "to think about something far more than necessary and blow it up",
         "tr": "bir şeyi gereğinden fazla düşünüp büyütmek",
@@ -400,6 +408,7 @@
     {
       "id": "dread",
       "expr": "dread",
+      "kind": "verb",
       "meaning": {
         "en": "to feel very reluctant and anxious about something that is coming",
         "tr": "yaklaşan bir şeyden çok çekinmek, onu hiç istememek",
@@ -444,6 +453,7 @@
     {
       "id": "get-to-someone",
       "expr": "get to someone",
+      "kind": "verb",
       "meaning": {
         "en": "(of pressure, criticism, stress) to gradually start affecting and wearing someone down",
         "tr": "(baskı, eleştiri, stres) zamanla birini etkilemeye, yıpratmaya başlamak",

@@ -13,6 +13,7 @@
     {
       "id": "have-a-crush-on",
       "expr": "have a crush on",
+      "kind": "idiom",
       "meaning": {
         "en": "to be attracted to someone (often from a distance, without saying so)",
         "tr": "birinden (çoğu zaman uzaktan, açılmadan) hoşlanmak",
@@ -61,6 +62,7 @@
     {
       "id": "be-into-someone-fancy",
       "expr": "be into (someone) / fancy",
+      "kind": "verb",
       "meaning": {
         "en": "to be attracted to or interested in someone",
         "tr": "birinden hoşlanmak, ilgi duymak",
@@ -109,6 +111,7 @@
     {
       "id": "fall-for",
       "expr": "fall for",
+      "kind": "verb",
       "meaning": {
         "en": "(1) to fall in love with someone (2) to be taken in by a lie or trick",
         "tr": "(1) birine âşık olmak (2) bir yalana/numaraya kanmak",
@@ -157,6 +160,7 @@
     {
       "id": "be-head-over-heels",
       "expr": "be head over heels",
+      "kind": "idiom",
       "meaning": {
         "en": "to be madly in love",
         "tr": "sırılsıklam âşık olmak",
@@ -205,6 +209,7 @@
     {
       "id": "be-crazy-about-mad-about",
       "expr": "be crazy about / mad about",
+      "kind": "adjective",
       "meaning": {
         "en": "to adore someone or something",
         "tr": "birine ya da bir şeye bayılmak",
@@ -249,6 +254,7 @@
     {
       "id": "have-feelings-for",
       "expr": "have feelings for",
+      "kind": "idiom",
       "meaning": {
         "en": "to have romantic feelings towards someone",
         "tr": "birine karşı romantik duygular beslemek",
@@ -293,6 +299,7 @@
     {
       "id": "be-fond-of",
       "expr": "be fond of",
+      "kind": "adjective",
       "meaning": {
         "en": "to feel warm affection for someone or something (not necessarily romantic)",
         "tr": "birine/bir şeye sıcak bir sevgi duymak (romantik olmak zorunda değil)",
@@ -336,6 +343,7 @@
     {
       "id": "care-about",
       "expr": "care about",
+      "kind": "verb",
       "meaning": {
         "en": "to consider someone or something important; to value them",
         "tr": "birini/bir şeyi önemsemek, değer vermek",
@@ -380,6 +388,7 @@
     {
       "id": "get-attached-to",
       "expr": "get attached (to)",
+      "kind": "adjective",
       "meaning": {
         "en": "to become emotionally bound to someone or something",
         "tr": "birine/bir şeye duygusal olarak bağlanmak",
@@ -428,6 +437,7 @@
     {
       "id": "hit-it-off",
       "expr": "hit it off",
+      "kind": "idiom",
       "meaning": {
         "en": "to get on very well from the first meeting",
         "tr": "tanışır tanışmaz çok iyi anlaşmak",
@@ -472,6 +482,7 @@
     {
       "id": "get-along-with-get-on-with",
       "expr": "get along with / get on with",
+      "kind": "verb",
       "meaning": {
         "en": "to have a friendly relationship with someone",
         "tr": "biriyle iyi geçinmek",
@@ -516,6 +527,7 @@
     {
       "id": "grow-on-someone",
       "expr": "grow on someone",
+      "kind": "verb",
       "meaning": {
         "en": "of something you didn't like at first: to gradually become appealing",
         "tr": "başta sevilmeyen bir şeyin zamanla hoşa gitmeye başlaması",

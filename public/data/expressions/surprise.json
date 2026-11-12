@@ -13,6 +13,7 @@
     {
       "id": "be-blown-away",
       "expr": "be blown away",
+      "kind": "adjective",
       "meaning": {
         "en": "to be hugely impressed (positive surprise)",
         "tr": "bir şeyden çok etkilenmek, hayran kalmak (olumlu şaşkınlık)",
@@ -61,6 +62,7 @@
     {
       "id": "be-taken-aback",
       "expr": "be taken aback",
+      "kind": "adjective",
       "meaning": {
         "en": "to be startled by an unexpected remark or behaviour (usually mildly negative)",
         "tr": "beklenmedik bir söz/davranış karşısında afallamak (çoğunlukla hafif olumsuz)",
@@ -113,6 +115,7 @@
     {
       "id": "catch-someone-off-guard",
       "expr": "catch someone off guard",
+      "kind": "idiom",
       "meaning": {
         "en": "to surprise someone who is not prepared",
         "tr": "birini hazırlıksız yakalamak",
@@ -161,6 +164,7 @@
     {
       "id": "cant-believe",
       "expr": "can't believe",
+      "kind": "verb",
       "meaning": {
         "en": "to express surprise, admiration or reproach",
         "tr": "şaşkınlık, hayranlık ya da sitem bildirmek",
@@ -205,6 +209,7 @@
     {
       "id": "be-speechless",
       "expr": "be speechless",
+      "kind": "adjective",
       "meaning": {
         "en": "to be unable to find words from surprise (or anger)",
         "tr": "şaşkınlıktan (ya da öfkeden) söyleyecek söz bulamamak",
@@ -253,6 +258,7 @@
     {
       "id": "be-in-shock-be-shocked",
       "expr": "be in shock / be shocked",
+      "kind": "adjective",
       "meaning": {
         "en": "to be surprised to a shaking degree",
         "tr": "sarsıcı derecede şaşırmak",
@@ -297,6 +303,7 @@
     {
       "id": "no-way",
       "expr": "No way!",
+      "kind": "saying",
       "meaning": {
         "en": "(1) disbelief: \"That can't be true!\" (2) flat refusal: \"Absolutely not.\"",
         "tr": "(1) inanamama: \"Yok artık!\" (2) kesin ret: \"Hayatta olmaz.\"",
@@ -345,6 +352,7 @@
     {
       "id": "youre-kidding-me-youre-joking",
       "expr": "You're kidding (me) / You're joking",
+      "kind": "saying",
       "meaning": {
         "en": "to show that you can't believe what you've heard",
         "tr": "duyduğuna inanamadığını göstermek",
@@ -389,6 +397,7 @@
     {
       "id": "not-see-it-coming",
       "expr": "not see it coming",
+      "kind": "idiom",
       "meaning": {
         "en": "not to expect something at all",
         "tr": "bir şeyi hiç beklememek",
@@ -437,6 +446,7 @@
     {
       "id": "out-of-the-blue",
       "expr": "out of the blue",
+      "kind": "idiom",
       "meaning": {
         "en": "completely unexpectedly, with no warning",
         "tr": "hiç beklenmedik anda, durup dururken",
@@ -489,6 +499,7 @@
     {
       "id": "be-floored-be-gobsmacked",
       "expr": "be floored / be gobsmacked",
+      "kind": "adjective",
       "meaning": {
         "en": "to be frozen with astonishment",
         "tr": "şaşkınlıktan donup kalmak",
@@ -537,6 +548,7 @@
     {
       "id": "sink-in",
       "expr": "sink in",
+      "kind": "verb",
       "meaning": {
         "en": "(of news or a fact) to be slowly understood and felt",
         "tr": "(bir haber/gerçek) yavaş yavaş idrak edilmek",

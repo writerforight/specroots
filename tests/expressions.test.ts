@@ -2,7 +2,8 @@ import { describe, expect, it } from 'vitest';
 import { LexiconParser } from '../src/data/LexiconParser';
 import { LANGUAGES } from '../src/domain/Language';
 import { SearchIndex } from '../src/services/SearchIndex';
-import { expressionHref, parseRoute, sectionOf } from '../src/ui/routes';
+import { EXPRESSION_KINDS } from '../src/domain/Expression';
+import { expressionHref, kindHref, parseRoute, sectionOf } from '../src/ui/routes';
 import { diskRepository, expressionFiles, readJson } from './helpers';
 
 /** The languages every expression must be explained in; fr, it, es are welcome but optional. */
@@ -40,7 +41,7 @@ describe('everyday expressions', () => {
     for (const { category } of categories) {
       const entry = index.find((c) => c.id === category.id);
       expect(entry?.title).toEqual(category.title);
-      expect(entry?.expressions).toEqual(category.expressions.map((e) => ({ id: e.id, expr: e.expr })));
+      expect(entry?.expressions).toEqual(category.expressions.map((e) => ({ id: e.id, expr: e.expr, kind: e.kind })));
     }
   });
 
@@ -49,11 +50,21 @@ describe('everyday expressions', () => {
     expect(contributors.reduce((n, c) => n + c.expressions, 0)).toBe(categories.reduce((n, { category }) => n + category.expressions.length, 0));
   });
 
+  it('every expression says what kind of phrase it is, and every kind is in use', () => {
+    const kinds = new Set(categories.flatMap(({ category }) => category.expressions.map((e) => e.kind)));
+    expect([...kinds].sort()).toEqual([...EXPRESSION_KINDS].sort());
+    const entry = { id: 'blow-up', expr: 'blow up', meaning: { en: 'to explode' }, equivalent: { tr: 'patlamak' }, sentences: [{ en: 'He [blew up].', tr: 'Patladı.' }] };
+    const category = (kind: unknown) => ({ id: 'anger', title: { en: 'Anger' }, expressions: [{ ...entry, kind }] });
+    expect(() => parser.parseExpressionCategory(category(undefined))).toThrow(/"kind" must be one of/);
+    expect(() => parser.parseExpressionCategory(category('noun'))).toThrow(/"kind" must be one of/);
+    expect(parser.parseExpressionCategory(category('verb')).expressions[0]?.kind).toBe('verb');
+  });
+
   it('rejects an expression without a marked example', () => {
     const category = (sentences: unknown) => ({
       id: 'anger',
       title: { en: 'Anger' },
-      expressions: [{ id: 'blow-up', expr: 'blow up', meaning: { en: 'to explode with anger' }, equivalent: { tr: 'patlamak' }, sentences }],
+      expressions: [{ id: 'blow-up', expr: 'blow up', kind: 'verb', meaning: { en: 'to explode with anger' }, equivalent: { tr: 'patlamak' }, sentences }],
     });
     expect(() => parser.parseExpressionCategory(category([{ en: 'He blew up at me.', tr: 'Bana patladı.' }]))).toThrow(/mark exactly one/);
     expect(() => parser.parseExpressionCategory(category([]))).toThrow(/must not be empty/);
@@ -83,5 +94,13 @@ describe('expressions in search and routes', async () => {
     expect(parseRoute(expressionHref('anger'))).toEqual({ kind: 'expressionCategory', categoryId: 'anger', expressionId: null });
     expect(parseRoute(expressionHref('anger', 'blow-up'))).toEqual({ kind: 'expressionCategory', categoryId: 'anger', expressionId: 'blow-up' });
     expect([parseRoute('#/expressions'), parseRoute('#/expressions/anger')].map(sectionOf)).toEqual(['expressions', 'expressions']);
+  });
+
+  it('round-trips links by kind; an unknown kind falls back to the list of kinds', () => {
+    expect(parseRoute('#/kinds')).toEqual({ kind: 'expressionKinds' });
+    expect(parseRoute(kindHref('verb'))).toEqual({ kind: 'expressionKind', kindId: 'verb', expressionId: null });
+    expect(parseRoute(kindHref('idiom', 'get-cold-feet'))).toEqual({ kind: 'expressionKind', kindId: 'idiom', expressionId: 'get-cold-feet' });
+    expect(parseRoute('#/kind/noun')).toEqual({ kind: 'expressionKinds' });
+    expect([parseRoute('#/kinds'), parseRoute('#/kind/verb')].map(sectionOf)).toEqual(['expressions', 'expressions']);
   });
 });

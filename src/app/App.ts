@@ -1,7 +1,7 @@
 import type { LexiconRepository } from '../data/LexiconRepository';
 import type { Affix, AffixIndex } from '../domain/Affix';
 import type { ListSummary, ObjectSummary } from '../domain/EverydayObject';
-import type { CategorySummary } from '../domain/Expression';
+import type { CategorySummary, ExpressionCategory, ExpressionKind } from '../domain/Expression';
 import type { RootSummary } from '../domain/Root';
 import { I18n } from '../i18n/I18n';
 import { SearchIndex } from '../services/SearchIndex';
@@ -169,9 +169,9 @@ export class App {
     const route = this.route;
     // Mobile shows either the side list or the page; the lists start page is a side-list page.
     // "#/" is the start screen (roots or objects); mobile shows the side list on a section's start page.
-    const view = route.kind === 'deRoot' ? 'root' : route.kind === 'expressionCategory' ? 'list' : route.kind;
+    const view = route.kind === 'deRoot' ? 'root' : route.kind === 'expressionCategory' || route.kind === 'expressionKind' ? 'list' : route.kind;
     document.body.dataset.view =
-      route.kind === 'home' ? 'start' : route.kind === 'roots' || route.kind === 'german' ? 'index' : route.kind === 'lists' || route.kind === 'expressions' ? 'home' : view;
+      route.kind === 'home' ? 'start' : route.kind === 'roots' || route.kind === 'german' ? 'index' : route.kind === 'lists' || route.kind === 'expressions' || route.kind === 'expressionKinds' ? 'home' : view;
     try {
       await this.renderSidebar(route);
       if (token !== this.renderToken) return;
@@ -192,8 +192,13 @@ export class App {
         if (token !== this.renderToken) return;
         this.detail.showExpressions(category, this.context(), route.expressionId);
         document.title = `${categoryTitle(category, this.i18n.language)} · specroots`;
-      } else if (route.kind === 'lists' || route.kind === 'expressions') {
-        this.detail.showEmpty(this.context());
+      } else if (route.kind === 'expressionKind') {
+        const groups = await this.expressionsOfKind(route.kindId);
+        if (token !== this.renderToken) return;
+        this.detail.showExpressionKind(route.kindId, groups, this.context(), route.expressionId);
+        document.title = `${this.i18n.t(`exprKind_${route.kindId}`)} · specroots`;
+      } else if (route.kind === 'lists' || route.kind === 'expressions' || route.kind === 'expressionKinds') {
+        this.detail.showEmpty(this.context(), route.kind === 'expressionKinds');
         document.title = 'specroots';
       } else if (route.kind === 'root') {
         const root = await this.repository.getRoot(route.rootId);
@@ -256,6 +261,10 @@ export class App {
       this.sidebar.setAttribute('aria-label', this.i18n.t('section_expressions'));
       if (route.kind === 'expressionCategory') {
         this.expressionsSidebar.renderCategory(await this.repository.getExpressionCategory(route.categoryId), translationLangs[0], route.expressionId);
+      } else if (route.kind === 'expressionKind') {
+        this.expressionsSidebar.renderKind(route.kindId, await this.expressionsOfKind(route.kindId), translationLangs[0], route.expressionId);
+      } else if (route.kind === 'expressionKinds') {
+        this.expressionsSidebar.renderKinds(this.categories);
       } else {
         this.expressionsSidebar.renderCategories(this.categories);
       }
@@ -323,6 +332,12 @@ export class App {
       .filter((item) => item.count > 0)
       .sort((a, b) => a.key.localeCompare(b.key) || a.label.localeCompare(b.label));
     this.detail.showIndex(this.context(), this.i18n.t('section_roots'), items, this.indexModeSwitch.el, onLayout);
+  }
+
+  /** Every feeling that has expressions of this kind, with only those expressions. */
+  private async expressionsOfKind(kind: ExpressionKind): Promise<ExpressionCategory[]> {
+    const all = await Promise.all(this.categories.map((category) => this.repository.getExpressionCategory(category.id)));
+    return all.map((category) => ({ ...category, expressions: category.expressions.filter((e) => e.kind === kind) })).filter((category) => category.expressions.length > 0);
   }
 
   /** The summaries of the given objects, A–Z by English name. */

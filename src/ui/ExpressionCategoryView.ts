@@ -1,6 +1,7 @@
-import { EXPRESSION_DETAILS, type Expression, type ExpressionCategory } from '../domain/Expression';
+import { EXPRESSION_DETAILS, EXPRESSION_KINDS, type Expression, type ExpressionCategory, type ExpressionKind } from '../domain/Expression';
 import { ENDONYMS, type Lang } from '../domain/Language';
 import { h } from './dom';
+import { expressionHref } from './routes';
 import { categoryTitle } from './ExpressionsSidebarView';
 import type { ViewContext } from './ViewContext';
 import { WordCard } from './WordCard';
@@ -25,11 +26,47 @@ export class ExpressionCategoryView {
         h('h1', { class: 'root-title' }, categoryTitle(category, i18n.language)),
         h('p', { class: 'root-meta' }, h('span', {}, i18n.t('expressionCount', { count: category.expressions.length }))),
       ),
-      ...category.expressions.map((expression) => this.card(expression)),
+      ...this.filtered(category.expressions),
     ];
   }
 
-  private card(expression: Expression): HTMLElement {
+  /** Every expression of one kind (all the verbs…) as one list, under the feeling each belongs to. */
+  renderKind(kind: ExpressionKind, groups: readonly ExpressionCategory[]): HTMLElement[] {
+    const { i18n } = this.ctx;
+    const count = groups.reduce((n, group) => n + group.expressions.length, 0);
+    return [
+      h('header', { class: 'root-head' }, h('h1', { class: 'root-title' }, i18n.t(`exprKind_${kind}`)), h('p', { class: 'root-meta' }, h('span', {}, i18n.t('expressionCount', { count })))),
+      ...groups.flatMap((group) => [
+        h(
+          'h2',
+          { class: 'expr-group' },
+          h('a', { href: expressionHref(group.id) }, categoryTitle(group, i18n.language)),
+          h('span', { class: 'root-count' }, String(group.expressions.length)),
+        ),
+        ...group.expressions.map((expression) => this.card(expression, false)),
+      ]),
+    ];
+  }
+
+  /** The cards of one feeling, with a switch above them that leaves only one kind (only the verbs…). */
+  private filtered(expressions: readonly Expression[]): HTMLElement[] {
+    const { i18n } = this.ctx;
+    const cards = expressions.map((expression) => ({ kind: expression.kind, el: this.card(expression, true) }));
+    const kinds = EXPRESSION_KINDS.filter((kind) => expressions.some((e) => e.kind === kind));
+    if (kinds.length < 2) return cards.map((card) => card.el);
+    const buttons = (['all', ...kinds] as const).map((kind) => {
+      const count = kind === 'all' ? expressions.length : expressions.filter((e) => e.kind === kind).length;
+      const button = h('button', { type: 'button', 'aria-pressed': String(kind === 'all') }, i18n.t(`exprKind_${kind}`), h('span', { class: 'expr-filter-count' }, String(count)));
+      button.addEventListener('click', () => {
+        for (const other of buttons) other.setAttribute('aria-pressed', String(other === button));
+        for (const card of cards) card.el.hidden = kind !== 'all' && card.kind !== kind;
+      });
+      return button;
+    });
+    return [h('div', { class: 'segmented expr-filter', role: 'group', 'aria-label': i18n.t('expr_kind') }, ...buttons), ...cards.map((card) => card.el)];
+  }
+
+  private card(expression: Expression, showKind: boolean): HTMLElement {
     const { i18n, settings } = this.ctx;
     const lang = i18n.language;
     const intensity = expression.intensity?.[lang] ?? expression.intensity?.en;
@@ -59,6 +96,7 @@ export class ExpressionCategoryView {
         this.listen(expression.expr, 'en'),
         intensity ? h('span', { class: `expr-tag expr-level-${expression.level ?? 2}`, title: i18n.t('expr_intensity') }, intensity) : null,
         shortRegister ? h('span', { class: 'expr-tag', title: i18n.t('expr_register') }, shortRegister) : null,
+        showKind ? h('span', { class: 'expr-tag', title: i18n.t('expr_kind') }, i18n.t(`exprKindOne_${expression.kind}`)) : null,
       ),
       h('p', { class: 'expr-meaning', lang: 'en' }, expression.meaning.en ?? ''),
       rows.length > 0 ? h('dl', { class: 'glosses' }, ...rows) : null,

@@ -128,6 +128,11 @@ seçilen dillerdeki karşılığı ve öğretici örnek cümleleri bir arada gö
     sırasıyla), `expressions-index.json` üretilir. Adresler: `#/expressions`, `#/expressions/<kategori>`,
     `#/expressions/<kategori>/<ifade>` (karta kayar, ayrıntıyı açar). Arama ifadeyi içindeki herhangi
     bir kelimeyle, kategoriyi her dildeki başlığıyla bulur. Tarif: AGENTS.md bölüm 12.
+    **Tür modu (2026-11-12, kullanıcı isteği):** her ifade zorunlu bir `kind` taşır (`verb`,
+    `adjective`, `idiom`, `saying`). Yan listenin üstünde "Duyguya göre · Türe göre" anahtarı;
+    `#/kinds` türleri, `#/kind/<tür>` o türdeki bütün ifadeleri duygu başlıkları altında tek liste
+    olarak gösterir (`#/kind/<tür>/<ifade>` karta kayar). Bir duygunun sayfasında kartların üstündeki
+    süzgeç (Hepsi · Fiiller · Sıfatlar…) yalnız o türü bırakır.
 
 ## Mimari
 ```

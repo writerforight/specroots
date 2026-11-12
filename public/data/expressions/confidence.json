@@ -13,6 +13,7 @@
     {
       "id": "be-proud-of",
       "expr": "be proud of",
+      "kind": "adjective",
       "meaning": {
         "en": "to feel pride in someone or in an achievement",
         "tr": "biriyle/bir başarıyla gurur duymak",
@@ -57,6 +58,7 @@
     {
       "id": "be-pleased-with-happy-with",
       "expr": "be pleased with / happy with",
+      "kind": "adjective",
       "meaning": {
         "en": "to be satisfied with a result",
         "tr": "bir sonuçtan memnun olmak",
@@ -101,6 +103,7 @@
     {
       "id": "feel-good-about",
       "expr": "feel good about",
+      "kind": "adjective",
       "meaning": {
         "en": "(1) to believe something will go well (2) to feel that what you did was right",
         "tr": "(1) bir şeyin iyi gideceğine inanmak (2) yaptığı şey içine sinmek",
@@ -145,6 +148,7 @@
     {
       "id": "be-confident-about-in",
       "expr": "be confident (about / in)",
+      "kind": "adjective",
       "meaning": {
         "en": "to trust yourself or an outcome",
         "tr": "kendine ya da bir sonuca güvenmek",
@@ -189,6 +193,7 @@
     {
       "id": "have-got-this",
       "expr": "have got this",
+      "kind": "idiom",
       "meaning": {
         "en": "to be sure you can handle something; to encourage someone",
         "tr": "bir işi halledebileceğinden emin olmak; birine moral vermek",
@@ -237,6 +242,7 @@
     {
       "id": "nail-it-kill-it-smash-it",
       "expr": "nail it / kill it / smash it",
+      "kind": "idiom",
       "meaning": {
         "en": "to do something perfectly",
         "tr": "bir işi mükemmel yapmak",
@@ -285,6 +291,7 @@
     {
       "id": "pull-it-off",
       "expr": "pull it off",
+      "kind": "verb",
       "meaning": {
         "en": "to succeed at something difficult or risky; (of clothes/style) to be able to carry it",
         "tr": "zor/riskli bir şeyi başarmak; (kıyafet/tarz) taşıyabilmek",
@@ -333,6 +340,7 @@
     {
       "id": "be-on-a-roll",
       "expr": "be on a roll",
+      "kind": "idiom",
       "meaning": {
         "en": "to have one success after another; to be in form",
         "tr": "üst üste başarı yakalamak, formda olmak",
@@ -381,6 +389,7 @@
     {
       "id": "be-full-of-oneself-be-cocky",
       "expr": "be full of oneself / be cocky",
+      "kind": "adjective",
       "meaning": {
         "en": "to think too highly of yourself; to be annoyingly over-confident",
         "tr": "kendini fazla beğenmek; rahatsız edici derecede özgüvenli olmak",
@@ -428,6 +437,7 @@
     {
       "id": "show-off-brag",
       "expr": "show off / brag",
+      "kind": "verb",
       "meaning": {
         "en": "to try to impress people; to boast",
         "tr": "hava atmak, övünmek",

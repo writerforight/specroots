@@ -77,7 +77,7 @@ for (const category of categories) {
     expressionHome.set(id, category.id);
   }
 }
-const categoryLines = categories.map(({ id, title, expressions }) => `  ${JSON.stringify({ id, title, expressions: expressions.map((e) => ({ id: e.id, expr: e.expr })) })}`);
+const categoryLines = categories.map(({ id, title, expressions }) => `  ${JSON.stringify({ id, title, expressions: expressions.map((e) => ({ id: e.id, expr: e.expr, kind: e.kind })) })}`);
 writeFileSync(join(dataDir, 'expressions-index.json'), `[\n${categoryLines.join(',\n')}\n]\n`);
 console.log(`expressions-index.json: ${categories.length} categories, ${expressionHome.size} expressions`);
 

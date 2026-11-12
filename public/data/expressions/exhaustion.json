@@ -13,6 +13,7 @@
     {
       "id": "be-worn-out",
       "expr": "be worn out",
+      "kind": "adjective",
       "meaning": {
         "en": "to be very tired, with no strength left",
         "tr": "çok yorulmuş, gücü tükenmiş olmak",
@@ -65,6 +66,7 @@
     {
       "id": "be-exhausted",
       "expr": "be exhausted",
+      "kind": "adjective",
       "meaning": {
         "en": "to be completely drained of energy (far beyond tired)",
         "tr": "tamamen tükenmiş olmak (tired'ın çok ötesi)",
@@ -113,6 +115,7 @@
     {
       "id": "be-beat-wiped-out-be-knackered-shattered",
       "expr": "be beat / wiped (out) — be knackered / shattered",
+      "kind": "adjective",
       "meaning": {
         "en": "to be very tired (the everyday versions of exhausted)",
         "tr": "çok yorgun olmak (exhausted'ın gündelik hâlleri)",
@@ -160,6 +163,7 @@
     {
       "id": "be-drained",
       "expr": "be drained",
+      "kind": "adjective",
       "meaning": {
         "en": "to have had your emotional/mental energy especially sucked out",
         "tr": "özellikle duygusal/zihinsel enerjisi çekilmiş olmak",
@@ -208,6 +212,7 @@
     {
       "id": "be-burned-out-burnt-out",
       "expr": "be burned out / burnt out",
+      "kind": "adjective",
       "meaning": {
         "en": "to be used up and unmotivated after long-term stress and overwork",
         "tr": "uzun süreli stres ve aşırı çalışma sonucu tükenmiş, hevesi kalmamış olmak",
@@ -260,6 +265,7 @@
     {
       "id": "feel-overwhelmed",
       "expr": "feel overwhelmed",
+      "kind": "adjective",
       "meaning": {
         "en": "to feel crushed under tasks or emotions, as if you can't cope",
         "tr": "işlerin/duyguların altında ezilmek, başa çıkamayacak gibi hissetmek",
@@ -308,6 +314,7 @@
     {
       "id": "be-swamped-snowed-under",
       "expr": "be swamped / snowed under",
+      "kind": "adjective",
       "meaning": {
         "en": "to have so much work that you can't look up",
         "tr": "iş yükünden başını kaldıramamak",
@@ -356,6 +363,7 @@
     {
       "id": "have-a-lot-on-ones-plate",
       "expr": "have a lot on one's plate",
+      "kind": "idiom",
       "meaning": {
         "en": "to have many tasks or problems to deal with at once",
         "tr": "aynı anda uğraşılacak çok iş/sorun olmak",
@@ -404,6 +412,7 @@
     {
       "id": "be-bored-to-death-out-of-ones-mind",
       "expr": "be bored to death / out of one's mind",
+      "kind": "adjective",
       "meaning": {
         "en": "to be extremely bored",
         "tr": "aşırı sıkılmak",
@@ -452,6 +461,7 @@
     {
       "id": "be-done-with",
       "expr": "be done (with)",
+      "kind": "adjective",
       "meaning": {
         "en": "(1) I've finished (2) that's enough; I have no patience or energy left for it",
         "tr": "(1) bitirdim (2) artık yeter; uğraşacak sabrım/gücüm kalmadı",
@@ -500,6 +510,7 @@
     {
       "id": "have-a-breakdown-a-meltdown",
       "expr": "have a breakdown / a meltdown",
+      "kind": "idiom",
       "meaning": {
         "en": "breakdown: a serious psychological collapse (also as everyday exaggeration) · meltdown: a momentary crisis, a fit of crying or rage",
         "tr": "breakdown: ciddi psikolojik çöküş (gündelik dilde abartı olarak da) · meltdown: anlık kriz, ağlama/öfke nöbeti",

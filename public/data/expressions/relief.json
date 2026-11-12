@@ -13,6 +13,7 @@
     {
       "id": "be-relieved",
       "expr": "be relieved",
+      "kind": "adjective",
       "meaning": {
         "en": "to feel better because a worry has gone",
         "tr": "bir endişenin ortadan kalkmasıyla rahatlamak",
@@ -57,6 +58,7 @@
     {
       "id": "a-weight-off-ones-shoulders-a-load-off-ones-mind",
       "expr": "a weight off one's shoulders / a load off one's mind",
+      "kind": "idiom",
       "meaning": {
         "en": "the lightness of being freed from a big worry",
         "tr": "büyük bir dertten kurtulmanın verdiği ferahlık",
@@ -105,6 +107,7 @@
     {
       "id": "calm-down",
       "expr": "calm down",
+      "kind": "verb",
       "meaning": {
         "en": "to become calm / to make someone calm",
         "tr": "sakinleşmek / birini sakinleştirmek",
@@ -157,6 +160,7 @@
     {
       "id": "chill-out",
       "expr": "chill (out)",
+      "kind": "verb",
       "meaning": {
         "en": "to relax, to be easy-going; to hang out",
         "tr": "gevşemek, rahat olmak; takılmak",
@@ -205,6 +209,7 @@
     {
       "id": "take-it-easy",
       "expr": "take it easy",
+      "kind": "idiom",
       "meaning": {
         "en": "(1) to rest and not tire yourself (2) to stay calm and not react harshly",
         "tr": "(1) kendini yormamak, dinlenmek (2) sakin olmak, sert tepki vermemek",
@@ -249,6 +254,7 @@
     {
       "id": "get-over",
       "expr": "get over",
+      "kind": "verb",
       "meaning": {
         "en": "to recover from (sadness, a breakup, an illness); to stop loving someone",
         "tr": "(üzüntüyü, ayrılığı, hastalığı) atlatmak; birini unutmak",
@@ -297,6 +303,7 @@
     {
       "id": "let-it-go",
       "expr": "let it go",
+      "kind": "idiom",
       "meaning": {
         "en": "to drop a topic or a grievance; to stop dwelling on it",
         "tr": "bir konuyu/kırgınlığı bırakmak, üstünde durmamak",
@@ -345,6 +352,7 @@
     {
       "id": "pull-oneself-together-get-it-together",
       "expr": "pull oneself together / get it together",
+      "kind": "idiom",
       "meaning": {
         "en": "to get your emotions under control and recover",
         "tr": "duygularını kontrol altına alıp toparlanmak",
@@ -393,6 +401,7 @@
     {
       "id": "get-something-off-ones-chest",
       "expr": "get something off one's chest",
+      "kind": "idiom",
       "meaning": {
         "en": "to say something you've been holding in and feel better",
         "tr": "içinde tuttuğu bir şeyi söyleyip rahatlamak",
@@ -441,6 +450,7 @@
     {
       "id": "wind-down-unwind",
       "expr": "wind down / unwind",
+      "kind": "verb",
       "meaning": {
         "en": "to relax gradually after a busy day or period",
         "tr": "yoğun bir günden/dönemden sonra yavaş yavaş gevşemek",
@@ -489,6 +499,7 @@
     {
       "id": "put-someones-mind-at-ease",
       "expr": "put someone's mind at ease",
+      "kind": "idiom",
       "meaning": {
         "en": "to remove someone's worry",
         "tr": "birinin endişesini gidermek",
@@ -537,6 +548,7 @@
     {
       "id": "hang-in-there",
       "expr": "hang in there",
+      "kind": "saying",
       "meaning": {
         "en": "to tell someone in a hard time \"keep going, don't give up\"",
         "tr": "zor bir dönemde birine \"dayan, pes etme\" demek",
