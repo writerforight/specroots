@@ -1,0 +1,631 @@
+{
+  "id": "denk",
+  "addedBy": "writerforight",
+  "forms": [
+    "denk",
+    "dach",
+    "däch",
+    "dank"
+  ],
+  "origin": "de",
+  "etymon": "denken",
+  "meaning": {
+    "en": "to think",
+    "tr": "düşünmek",
+    "de": "denken, mit dem Kopf arbeiten (dachte, gedacht)",
+    "fr": "penser",
+    "it": "pensare",
+    "es": "pensar"
+  },
+  "words": [
+    {
+      "id": "denken",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "denk",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to think",
+        "tr": "düşünmek",
+        "de": "mit dem Kopf arbeiten; eine Meinung haben",
+        "fr": "penser",
+        "it": "pensare",
+        "es": "pensar"
+      },
+      "sentences": [
+        {
+          "de": "Ich [denke] oft an meine Großmutter.",
+          "tr": "Sık sık büyükannemi düşünüyorum.",
+          "en": "I often think of my grandmother.",
+          "fr": "Je pense souvent à ma grand-mère.",
+          "it": "Penso spesso a mia nonna.",
+          "es": "Pienso a menudo en mi abuela."
+        },
+        {
+          "de": "Was [denkst] du über den Film?",
+          "tr": "Film hakkında ne düşünüyorsun?",
+          "en": "What do you think of the film?",
+          "fr": "Que penses-tu du film ?",
+          "it": "Cosa pensi del film?",
+          "es": "¿Qué piensas de la película?"
+        }
+      ]
+    },
+    {
+      "id": "nachdenken",
+      "pos": "verb",
+      "parent": "denken",
+      "parts": [
+        "nach-",
+        "denk",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to think something over, to reflect",
+        "tr": "üzerinde düşünmek, kafa yormak",
+        "de": "lange und genau über etwas denken",
+        "fr": "réfléchir",
+        "it": "riflettere",
+        "es": "reflexionar"
+      },
+      "sentences": [
+        {
+          "de": "Ich muss erst darüber [nachdenken].",
+          "tr": "Önce bunun üzerinde düşünmem lazım.",
+          "en": "I need to think about it first.",
+          "fr": "Je dois d'abord y réfléchir.",
+          "it": "Prima devo rifletterci.",
+          "es": "Primero tengo que pensarlo."
+        },
+        {
+          "de": "Sie hat lange [nachgedacht] und dann Ja gesagt.",
+          "tr": "Uzun uzun düşündü, sonra evet dedi.",
+          "en": "She thought for a long time and then said yes.",
+          "fr": "Elle a longtemps réfléchi, puis elle a dit oui.",
+          "it": "Ha riflettuto a lungo e poi ha detto di sì.",
+          "es": "Lo pensó mucho tiempo y luego dijo que sí."
+        }
+      ]
+    },
+    {
+      "id": "nachdenklich",
+      "pos": "adjective",
+      "parent": "nachdenken",
+      "parts": [
+        "nach-",
+        "denk",
+        "-lich"
+      ],
+      "gloss": {
+        "en": "thoughtful, pensive",
+        "tr": "düşünceli, dalgın",
+        "de": "still und in Gedanken",
+        "fr": "pensif, songeur",
+        "it": "pensieroso",
+        "es": "pensativo"
+      },
+      "sentences": [
+        {
+          "de": "Warum bist du heute so [nachdenklich]?",
+          "tr": "Bugün neden bu kadar düşüncelisin?",
+          "en": "Why are you so thoughtful today?",
+          "fr": "Pourquoi es-tu si pensif aujourd'hui ?",
+          "it": "Perché oggi sei così pensieroso?",
+          "es": "¿Por qué estás tan pensativo hoy?"
+        },
+        {
+          "de": "Der Film hat mich [nachdenklich] gemacht.",
+          "tr": "Film beni düşündürdü.",
+          "en": "The film made me think.",
+          "fr": "Le film m'a fait réfléchir.",
+          "it": "Il film mi ha fatto riflettere.",
+          "es": "La película me hizo reflexionar."
+        }
+      ]
+    },
+    {
+      "id": "bedenken",
+      "pos": "verb",
+      "parent": "denken",
+      "parts": [
+        "be-",
+        "denk",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to consider, to bear in mind",
+        "tr": "hesaba katmak, göz önünde bulundurmak",
+        "de": "an etwas denken, bevor man entscheidet",
+        "fr": "prendre en compte, considérer",
+        "it": "considerare, tenere presente",
+        "es": "tener en cuenta, considerar"
+      },
+      "sentences": [
+        {
+          "de": "Du musst [bedenken], dass er noch ein Kind ist.",
+          "tr": "Onun daha çocuk olduğunu hesaba katmalısın.",
+          "en": "You have to bear in mind that he is still a child.",
+          "fr": "Tu dois tenir compte du fait qu'il est encore un enfant.",
+          "it": "Devi tenere presente che è ancora un bambino.",
+          "es": "Tienes que tener en cuenta que todavía es un niño."
+        },
+        {
+          "de": "Das hatte ich nicht [bedacht].",
+          "tr": "Bunu hesaba katmamıştım.",
+          "en": "I hadn't considered that.",
+          "fr": "Je n'y avais pas pensé.",
+          "it": "Non ci avevo pensato.",
+          "es": "No había pensado en eso."
+        }
+      ]
+    },
+    {
+      "id": "ausdenken",
+      "pos": "verb",
+      "parent": "denken",
+      "parts": [
+        "aus-",
+        "denk",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to make up, to think up (sich etwas ausdenken)",
+        "tr": "uydurmak, kafasından bulmak",
+        "de": "sich etwas Neues im Kopf vorstellen; erfinden",
+        "fr": "inventer, imaginer",
+        "it": "inventare, escogitare",
+        "es": "inventar, idear"
+      },
+      "sentences": [
+        {
+          "de": "Die Geschichte hat sie sich selbst [ausgedacht].",
+          "tr": "Hikâyeyi kendisi uydurdu.",
+          "en": "She made the story up herself.",
+          "fr": "Elle a inventé l'histoire elle-même.",
+          "it": "La storia se l'è inventata da sola.",
+          "es": "La historia se la inventó ella misma."
+        },
+        {
+          "de": "Wir müssen uns einen besseren Plan [ausdenken].",
+          "tr": "Daha iyi bir plan bulmamız lazım.",
+          "en": "We need to think up a better plan.",
+          "fr": "Nous devons imaginer un meilleur plan.",
+          "it": "Dobbiamo escogitare un piano migliore.",
+          "es": "Tenemos que idear un plan mejor."
+        }
+      ]
+    },
+    {
+      "id": "überdenken",
+      "pos": "verb",
+      "parent": "denken",
+      "parts": [
+        "über-",
+        "denk",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to reconsider, to think over",
+        "tr": "yeniden düşünmek, gözden geçirmek",
+        "de": "noch einmal genau über etwas nachdenken",
+        "fr": "reconsidérer",
+        "it": "riconsiderare, ripensare",
+        "es": "reconsiderar, replantearse"
+      },
+      "sentences": [
+        {
+          "de": "Ich werde meine Entscheidung noch einmal [überdenken].",
+          "tr": "Kararımı bir kez daha gözden geçireceğim.",
+          "en": "I will reconsider my decision once more.",
+          "fr": "Je vais reconsidérer ma décision encore une fois.",
+          "it": "Riconsidererò ancora una volta la mia decisione.",
+          "es": "Voy a reconsiderar mi decisión una vez más."
+        },
+        {
+          "de": "Er hat sein Angebot [überdacht] und den Preis gesenkt.",
+          "tr": "Teklifini yeniden düşündü ve fiyatı indirdi.",
+          "en": "He reconsidered his offer and lowered the price.",
+          "fr": "Il a reconsidéré son offre et baissé le prix.",
+          "it": "Ha ripensato alla sua offerta e ha abbassato il prezzo.",
+          "es": "Reconsideró su oferta y bajó el precio."
+        }
+      ]
+    },
+    {
+      "id": "umdenken",
+      "pos": "verb",
+      "parent": "denken",
+      "parts": [
+        "um-",
+        "denk",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to change one's way of thinking, to rethink",
+        "tr": "düşünce tarzını değiştirmek",
+        "de": "seine Meinung oder Denkweise ändern",
+        "fr": "changer de façon de penser",
+        "it": "cambiare modo di pensare",
+        "es": "cambiar de mentalidad"
+      },
+      "sentences": [
+        {
+          "de": "Beim Thema Müll müssen wir alle [umdenken].",
+          "tr": "Çöp konusunda hepimiz düşünce tarzımızı değiştirmeliyiz.",
+          "en": "When it comes to waste, we all have to rethink.",
+          "fr": "En matière de déchets, nous devons tous changer de façon de penser.",
+          "it": "Sui rifiuti dobbiamo tutti cambiare modo di pensare.",
+          "es": "Con la basura, todos tenemos que cambiar de mentalidad."
+        },
+        {
+          "de": "Nach dem Unfall hat er [umgedacht] und fährt langsamer.",
+          "tr": "Kazadan sonra fikrini değiştirdi, artık daha yavaş sürüyor.",
+          "en": "After the accident he changed his thinking and drives more slowly.",
+          "fr": "Après l'accident, il a changé d'état d'esprit et roule plus lentement.",
+          "it": "Dopo l'incidente ha cambiato mentalità e guida più piano.",
+          "es": "Tras el accidente cambió de mentalidad y conduce más despacio."
+        }
+      ]
+    },
+    {
+      "id": "mitdenken",
+      "pos": "verb",
+      "parent": "denken",
+      "parts": [
+        "mit-",
+        "denk",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to think along, to use one's head",
+        "tr": "kafasını çalıştırmak, birlikte düşünmek",
+        "de": "aufmerksam sein und selbst überlegen, was nötig ist",
+        "fr": "réfléchir par soi-même, suivre activement",
+        "it": "ragionare insieme, usare la testa",
+        "es": "pensar con los demás, usar la cabeza"
+      },
+      "sentences": [
+        {
+          "de": "Danke, dass du [mitgedacht] und Wasser mitgebracht hast!",
+          "tr": "Düşünüp su getirdiğin için sağ ol!",
+          "en": "Thanks for thinking ahead and bringing water!",
+          "fr": "Merci d'y avoir pensé et d'avoir apporté de l'eau !",
+          "it": "Grazie per averci pensato e aver portato l'acqua!",
+          "es": "¡Gracias por pensar en ello y traer agua!"
+        },
+        {
+          "de": "Bei dieser Arbeit muss man [mitdenken].",
+          "tr": "Bu işte insanın kafasını çalıştırması gerekir.",
+          "en": "In this job you have to use your head.",
+          "fr": "Dans ce travail, il faut réfléchir par soi-même.",
+          "it": "In questo lavoro bisogna usare la testa.",
+          "es": "En este trabajo hay que usar la cabeza."
+        }
+      ]
+    },
+    {
+      "id": "zurückdenken",
+      "pos": "verb",
+      "parent": "denken",
+      "parts": [
+        "zurück-",
+        "denk",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to think back",
+        "tr": "geçmişi düşünmek, geriye dönüp düşünmek",
+        "de": "an etwas denken, das früher war",
+        "fr": "repenser à (le passé)",
+        "it": "ripensare (al passato)",
+        "es": "recordar, pensar en (el pasado)"
+      },
+      "sentences": [
+        {
+          "de": "Ich muss oft an unsere Schulzeit [zurückdenken].",
+          "tr": "Sık sık okul yıllarımızı düşünürüm.",
+          "en": "I often think back to our school days.",
+          "fr": "Je repense souvent à nos années d'école.",
+          "it": "Ripenso spesso ai nostri anni di scuola.",
+          "es": "A menudo recuerdo nuestros años de colegio."
+        },
+        {
+          "de": "Wenn ich [zurückdenke], war das mein schönster Sommer.",
+          "tr": "Dönüp düşününce, en güzel yazım oydu.",
+          "en": "When I think back, that was my best summer.",
+          "fr": "Quand j'y repense, c'était mon plus bel été.",
+          "it": "Se ci ripenso, è stata la mia estate più bella.",
+          "es": "Cuando lo recuerdo, fue mi mejor verano."
+        }
+      ]
+    },
+    {
+      "id": "Gedanke",
+      "pos": "noun",
+      "parent": "denken",
+      "parts": [
+        "ge-",
+        "dank",
+        "-e"
+      ],
+      "gloss": {
+        "en": "thought, idea",
+        "tr": "düşünce, fikir",
+        "de": "das, was man denkt",
+        "fr": "la pensée, l'idée",
+        "it": "il pensiero",
+        "es": "el pensamiento, la idea"
+      },
+      "sentences": [
+        {
+          "de": "Der [Gedanke] an die Prüfung macht mich nervös.",
+          "tr": "Sınav düşüncesi beni geriyor.",
+          "en": "The thought of the exam makes me nervous.",
+          "fr": "La pensée de l'examen me rend nerveux.",
+          "it": "Il pensiero dell'esame mi rende nervoso.",
+          "es": "Pensar en el examen me pone nervioso."
+        },
+        {
+          "de": "Entschuldigung, ich war gerade in [Gedanken].",
+          "tr": "Pardon, dalmışım.",
+          "en": "Sorry, I was lost in thought just now.",
+          "fr": "Pardon, j'étais dans mes pensées.",
+          "it": "Scusa, ero soprappensiero.",
+          "es": "Perdón, estaba pensando en otra cosa."
+        }
+      ]
+    },
+    {
+      "id": "Denker",
+      "pos": "noun",
+      "parent": "denken",
+      "parts": [
+        "denk",
+        "-er"
+      ],
+      "gloss": {
+        "en": "thinker",
+        "tr": "düşünür",
+        "de": "ein Mensch, der viel und tief nachdenkt",
+        "fr": "le penseur",
+        "it": "il pensatore",
+        "es": "el pensador"
+      },
+      "sentences": [
+        {
+          "de": "Kant war ein großer deutscher [Denker].",
+          "tr": "Kant büyük bir Alman düşünürüydü.",
+          "en": "Kant was a great German thinker.",
+          "fr": "Kant était un grand penseur allemand.",
+          "it": "Kant fu un grande pensatore tedesco.",
+          "es": "Kant fue un gran pensador alemán."
+        },
+        {
+          "de": "Die alten [Denker] stellten schon dieselben Fragen.",
+          "tr": "Eski düşünürler de aynı soruları sormuştu.",
+          "en": "The ancient thinkers already asked the same questions.",
+          "fr": "Les penseurs anciens posaient déjà les mêmes questions.",
+          "it": "Gli antichi pensatori si ponevano già le stesse domande.",
+          "es": "Los pensadores antiguos ya se hacían las mismas preguntas."
+        }
+      ]
+    },
+    {
+      "id": "denkbar",
+      "pos": "adjective",
+      "parent": "denken",
+      "parts": [
+        "denk",
+        "-bar"
+      ],
+      "gloss": {
+        "en": "conceivable, possible",
+        "tr": "düşünülebilir, olası",
+        "de": "so, dass man es sich vorstellen kann; möglich",
+        "fr": "concevable, envisageable",
+        "it": "concepibile, possibile",
+        "es": "concebible, posible"
+      },
+      "sentences": [
+        {
+          "de": "Eine andere Lösung ist durchaus [denkbar].",
+          "tr": "Başka bir çözüm pekâlâ düşünülebilir.",
+          "en": "Another solution is quite conceivable.",
+          "fr": "Une autre solution est tout à fait envisageable.",
+          "it": "Un'altra soluzione è del tutto possibile.",
+          "es": "Otra solución es perfectamente posible."
+        },
+        {
+          "de": "Es ist [denkbar], dass der Zug später kommt.",
+          "tr": "Trenin daha geç gelmesi mümkün.",
+          "en": "It is conceivable that the train will come later.",
+          "fr": "Il est possible que le train arrive plus tard.",
+          "it": "È possibile che il treno arrivi più tardi.",
+          "es": "Es posible que el tren llegue más tarde."
+        }
+      ]
+    },
+    {
+      "id": "undenkbar",
+      "pos": "adjective",
+      "parent": "denkbar",
+      "parts": [
+        "un-",
+        "denk",
+        "-bar"
+      ],
+      "gloss": {
+        "en": "unthinkable",
+        "tr": "düşünülemez, akıl almaz",
+        "de": "so, dass man es sich nicht vorstellen kann",
+        "fr": "impensable",
+        "it": "impensabile",
+        "es": "impensable"
+      },
+      "sentences": [
+        {
+          "de": "Ein Leben ohne Handy ist für viele [undenkbar].",
+          "tr": "Telefonsuz bir hayat çoğu kişi için düşünülemez.",
+          "en": "A life without a phone is unthinkable for many.",
+          "fr": "Une vie sans portable est impensable pour beaucoup.",
+          "it": "Una vita senza cellulare è impensabile per molti.",
+          "es": "Una vida sin móvil es impensable para muchos."
+        },
+        {
+          "de": "Vor zwanzig Jahren war das noch [undenkbar].",
+          "tr": "Yirmi yıl önce bu daha düşünülemezdi.",
+          "en": "Twenty years ago that was still unthinkable.",
+          "fr": "Il y a vingt ans, c'était encore impensable.",
+          "it": "Vent'anni fa era ancora impensabile.",
+          "es": "Hace veinte años eso todavía era impensable."
+        }
+      ]
+    },
+    {
+      "id": "Denkmal",
+      "pos": "noun",
+      "parent": "denken",
+      "parts": [
+        "denk",
+        "-mal"
+      ],
+      "gloss": {
+        "en": "monument, memorial",
+        "tr": "anıt",
+        "de": "ein Bauwerk oder eine Figur zur Erinnerung an jemanden",
+        "fr": "le monument",
+        "it": "il monumento",
+        "es": "el monumento"
+      },
+      "sentences": [
+        {
+          "de": "Auf dem Platz steht ein [Denkmal] für den Dichter.",
+          "tr": "Meydanda şair için bir anıt var.",
+          "en": "There is a monument to the poet in the square.",
+          "fr": "Sur la place se trouve un monument au poète.",
+          "it": "In piazza c'è un monumento al poeta.",
+          "es": "En la plaza hay un monumento al poeta."
+        },
+        {
+          "de": "Wir treffen uns um drei am [Denkmal].",
+          "tr": "Saat üçte anıtın orada buluşuyoruz.",
+          "en": "We'll meet at the monument at three.",
+          "fr": "On se retrouve à trois heures au monument.",
+          "it": "Ci vediamo alle tre al monumento.",
+          "es": "Quedamos a las tres en el monumento."
+        }
+      ]
+    },
+    {
+      "id": "Andenken",
+      "pos": "noun",
+      "parent": "denken",
+      "parts": [
+        "an-",
+        "denk",
+        "-en"
+      ],
+      "gloss": {
+        "en": "souvenir, keepsake",
+        "tr": "hatıra, hediyelik eşya",
+        "de": "ein Gegenstand, der an etwas erinnert",
+        "fr": "le souvenir",
+        "it": "il ricordo, il souvenir",
+        "es": "el recuerdo"
+      },
+      "sentences": [
+        {
+          "de": "Ich habe dir ein [Andenken] aus Wien mitgebracht.",
+          "tr": "Sana Viyana'dan bir hatıra getirdim.",
+          "en": "I brought you a souvenir from Vienna.",
+          "fr": "Je t'ai rapporté un souvenir de Vienne.",
+          "it": "Ti ho portato un ricordo da Vienna.",
+          "es": "Te he traído un recuerdo de Viena."
+        },
+        {
+          "de": "Die Uhr ist ein [Andenken] an meinen Opa.",
+          "tr": "Saat dedemden bir hatıra.",
+          "en": "The watch is a keepsake from my grandpa.",
+          "fr": "La montre est un souvenir de mon grand-père.",
+          "it": "L'orologio è un ricordo di mio nonno.",
+          "es": "El reloj es un recuerdo de mi abuelo."
+        }
+      ]
+    },
+    {
+      "id": "Verdacht",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "ver-",
+        "dach",
+        "-t"
+      ],
+      "gloss": {
+        "en": "suspicion",
+        "tr": "şüphe, kuşku",
+        "de": "das Gefühl, dass jemand etwas Schlechtes getan hat",
+        "fr": "le soupçon",
+        "it": "il sospetto",
+        "es": "la sospecha"
+      },
+      "sentences": [
+        {
+          "de": "Die Polizei hat einen [Verdacht], aber keine Beweise.",
+          "tr": "Polisin bir şüphesi var ama kanıtı yok.",
+          "en": "The police have a suspicion but no proof.",
+          "fr": "La police a un soupçon, mais pas de preuves.",
+          "it": "La polizia ha un sospetto, ma nessuna prova.",
+          "es": "La policía tiene una sospecha, pero no pruebas."
+        },
+        {
+          "de": "Ich hatte gleich den [Verdacht], dass etwas nicht stimmt.",
+          "tr": "Bir şeylerin yolunda olmadığından hemen şüphelendim.",
+          "en": "I suspected right away that something was wrong.",
+          "fr": "J'ai tout de suite soupçonné que quelque chose n'allait pas.",
+          "it": "Ho sospettato subito che qualcosa non andasse.",
+          "es": "Enseguida sospeché que algo no iba bien."
+        }
+      ]
+    },
+    {
+      "id": "verdächtig",
+      "pos": "adjective",
+      "parent": "Verdacht",
+      "parts": [
+        "ver-",
+        "däch",
+        "-t",
+        "-ig"
+      ],
+      "gloss": {
+        "en": "suspicious",
+        "tr": "şüpheli",
+        "de": "so, dass man etwas Schlechtes vermutet",
+        "fr": "suspect, louche",
+        "it": "sospetto",
+        "es": "sospechoso"
+      },
+      "sentences": [
+        {
+          "de": "Vor dem Haus steht ein [verdächtiges] Auto.",
+          "tr": "Evin önünde şüpheli bir araba duruyor.",
+          "en": "A suspicious car is parked outside the house.",
+          "fr": "Une voiture suspecte est garée devant la maison.",
+          "it": "Davanti a casa c'è un'auto sospetta.",
+          "es": "Delante de la casa hay un coche sospechoso."
+        },
+        {
+          "de": "Es ist [verdächtig] still im Kinderzimmer.",
+          "tr": "Çocuk odası şüphe uyandıracak kadar sessiz.",
+          "en": "It is suspiciously quiet in the children's room.",
+          "fr": "C'est étrangement calme dans la chambre des enfants.",
+          "it": "C'è un silenzio sospetto nella cameretta.",
+          "es": "Hay un silencio sospechoso en el cuarto de los niños."
+        }
+      ]
+    }
+  ]
+}

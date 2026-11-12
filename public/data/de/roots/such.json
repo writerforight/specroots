@@ -1,0 +1,519 @@
+{
+  "id": "such",
+  "addedBy": "writerforight",
+  "forms": [
+    "such"
+  ],
+  "origin": "de",
+  "etymon": "suchen",
+  "meaning": {
+    "en": "to look for, to seek",
+    "tr": "aramak",
+    "de": "suchen, finden wollen (suchte, gesucht)",
+    "fr": "chercher",
+    "it": "cercare",
+    "es": "buscar"
+  },
+  "words": [
+    {
+      "id": "suchen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "such",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to look for, to search",
+        "tr": "aramak",
+        "de": "versuchen, etwas oder jemanden zu finden",
+        "fr": "chercher",
+        "it": "cercare",
+        "es": "buscar"
+      },
+      "sentences": [
+        {
+          "de": "Ich [suche] meine Brille, hast du sie gesehen?",
+          "tr": "Gözlüğümü arıyorum, gördün mü?",
+          "en": "I'm looking for my glasses, have you seen them?",
+          "fr": "Je cherche mes lunettes, tu les as vues ?",
+          "it": "Cerco i miei occhiali, li hai visti?",
+          "es": "Busco mis gafas, ¿las has visto?"
+        },
+        {
+          "de": "Sie [sucht] seit Monaten eine Wohnung.",
+          "tr": "Aylardır ev arıyor.",
+          "en": "She has been looking for a flat for months.",
+          "fr": "Elle cherche un appartement depuis des mois.",
+          "it": "Cerca casa da mesi.",
+          "es": "Lleva meses buscando piso."
+        }
+      ]
+    },
+    {
+      "id": "Suche",
+      "pos": "noun",
+      "parent": "suchen",
+      "parts": [
+        "such",
+        "-e"
+      ],
+      "gloss": {
+        "en": "search",
+        "tr": "arama, arayış",
+        "de": "der Versuch, etwas zu finden",
+        "fr": "la recherche",
+        "it": "la ricerca",
+        "es": "la búsqueda"
+      },
+      "sentences": [
+        {
+          "de": "Die [Suche] nach dem Kind dauerte die ganze Nacht.",
+          "tr": "Çocuğu arama çalışması bütün gece sürdü.",
+          "en": "The search for the child lasted all night.",
+          "fr": "La recherche de l'enfant a duré toute la nuit.",
+          "it": "La ricerca del bambino è durata tutta la notte.",
+          "es": "La búsqueda del niño duró toda la noche."
+        },
+        {
+          "de": "Er ist auf der [Suche] nach einem neuen Job.",
+          "tr": "Yeni bir iş arayışında.",
+          "en": "He is looking for a new job.",
+          "fr": "Il est à la recherche d'un nouvel emploi.",
+          "it": "È alla ricerca di un nuovo lavoro.",
+          "es": "Está en busca de un nuevo trabajo."
+        }
+      ]
+    },
+    {
+      "id": "aussuchen",
+      "pos": "verb",
+      "parent": "suchen",
+      "parts": [
+        "aus-",
+        "such",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to pick out, to choose",
+        "tr": "seçmek",
+        "de": "aus mehreren Dingen eines wählen",
+        "fr": "choisir",
+        "it": "scegliere",
+        "es": "elegir, escoger"
+      },
+      "sentences": [
+        {
+          "de": "Du darfst dir ein Eis [aussuchen].",
+          "tr": "Kendine bir dondurma seçebilirsin.",
+          "en": "You may pick out an ice cream.",
+          "fr": "Tu peux choisir une glace.",
+          "it": "Puoi sceglierti un gelato.",
+          "es": "Puedes elegir un helado."
+        },
+        {
+          "de": "Das Geschenk hat meine Schwester [ausgesucht].",
+          "tr": "Hediyeyi kız kardeşim seçti.",
+          "en": "My sister picked out the present.",
+          "fr": "C'est ma sœur qui a choisi le cadeau.",
+          "it": "Il regalo l'ha scelto mia sorella.",
+          "es": "El regalo lo eligió mi hermana."
+        }
+      ]
+    },
+    {
+      "id": "absuchen",
+      "pos": "verb",
+      "parent": "suchen",
+      "parts": [
+        "ab-",
+        "such",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to search, to comb (an area)",
+        "tr": "(bir yeri) baştan sona aramak, taramak",
+        "de": "an einem Ort überall genau suchen",
+        "fr": "fouiller, ratisser",
+        "it": "perlustrare, setacciare",
+        "es": "registrar, rastrear"
+      },
+      "sentences": [
+        {
+          "de": "Die Polizei will den ganzen Wald [absuchen].",
+          "tr": "Polis bütün ormanı taramak istiyor.",
+          "en": "The police want to search the whole forest.",
+          "fr": "La police veut ratisser toute la forêt.",
+          "it": "La polizia vuole perlustrare tutto il bosco.",
+          "es": "La policía quiere rastrear todo el bosque."
+        },
+        {
+          "de": "Ich habe das ganze Zimmer nach dem Ring [abgesucht].",
+          "tr": "Yüzük için bütün odayı aradım.",
+          "en": "I searched the whole room for the ring.",
+          "fr": "J'ai fouillé toute la pièce pour trouver la bague.",
+          "it": "Ho setacciato tutta la stanza per trovare l'anello.",
+          "es": "He registrado toda la habitación buscando el anillo."
+        }
+      ]
+    },
+    {
+      "id": "aufsuchen",
+      "pos": "verb",
+      "parent": "suchen",
+      "parts": [
+        "auf-",
+        "such",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to go to see, to consult (a doctor)",
+        "tr": "(doktora) gitmek, başvurmak",
+        "de": "zu jemandem gehen, weil man Hilfe braucht",
+        "fr": "aller voir, consulter",
+        "it": "andare da, consultare",
+        "es": "acudir a, consultar"
+      },
+      "sentences": [
+        {
+          "de": "Bei starken Schmerzen sollten Sie einen Arzt [aufsuchen].",
+          "tr": "Şiddetli ağrıda bir doktora gitmelisiniz.",
+          "en": "If the pain is severe, you should see a doctor.",
+          "fr": "En cas de fortes douleurs, vous devriez consulter un médecin.",
+          "it": "In caso di forti dolori dovrebbe consultare un medico.",
+          "es": "Si el dolor es fuerte, debería acudir a un médico."
+        },
+        {
+          "de": "Sie hat eine Anwältin [aufgesucht] und alles erzählt.",
+          "tr": "Bir avukata gidip her şeyi anlattı.",
+          "en": "She went to see a lawyer and told her everything.",
+          "fr": "Elle est allée voir une avocate et lui a tout raconté.",
+          "it": "È andata da un'avvocata e le ha raccontato tutto.",
+          "es": "Acudió a una abogada y se lo contó todo."
+        }
+      ]
+    },
+    {
+      "id": "durchsuchen",
+      "pos": "verb",
+      "parent": "suchen",
+      "parts": [
+        "durch-",
+        "such",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to search (through)",
+        "tr": "didik didik aramak, üstünü aramak",
+        "de": "in etwas überall nachsehen, um etwas zu finden",
+        "fr": "fouiller",
+        "it": "perquisire, frugare",
+        "es": "registrar"
+      },
+      "sentences": [
+        {
+          "de": "Am Flughafen wurde mein Koffer [durchsucht].",
+          "tr": "Havalimanında bavulum arandı.",
+          "en": "My suitcase was searched at the airport.",
+          "fr": "Ma valise a été fouillée à l'aéroport.",
+          "it": "All'aeroporto mi hanno perquisito la valigia.",
+          "es": "En el aeropuerto me registraron la maleta."
+        },
+        {
+          "de": "Die Polizei darf die Wohnung nicht einfach [durchsuchen].",
+          "tr": "Polis evi öylece arayamaz.",
+          "en": "The police may not simply search the flat.",
+          "fr": "La police ne peut pas fouiller l'appartement comme ça.",
+          "it": "La polizia non può perquisire l'appartamento così.",
+          "es": "La policía no puede registrar el piso sin más."
+        }
+      ]
+    },
+    {
+      "id": "besuchen",
+      "pos": "verb",
+      "parent": "suchen",
+      "parts": [
+        "be-",
+        "such",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to visit; to attend (a school, a course)",
+        "tr": "ziyaret etmek; (okula, kursa) gitmek",
+        "de": "zu jemandem gehen, um ihn zu sehen; regelmäßig hingehen",
+        "fr": "rendre visite à, visiter ; fréquenter",
+        "it": "andare a trovare, visitare; frequentare",
+        "es": "visitar; asistir a"
+      },
+      "sentences": [
+        {
+          "de": "Am Sonntag [besuchen] wir meine Großeltern.",
+          "tr": "Pazar günü büyükannemle büyükbabamı ziyaret ediyoruz.",
+          "en": "On Sunday we are visiting my grandparents.",
+          "fr": "Dimanche, nous rendons visite à mes grands-parents.",
+          "it": "Domenica andiamo a trovare i miei nonni.",
+          "es": "El domingo visitamos a mis abuelos."
+        },
+        {
+          "de": "Sie [besucht] abends einen Deutschkurs.",
+          "tr": "Akşamları Almanca kursuna gidiyor.",
+          "en": "She attends a German course in the evenings.",
+          "fr": "Elle suit un cours d'allemand le soir.",
+          "it": "La sera frequenta un corso di tedesco.",
+          "es": "Por las tardes asiste a un curso de alemán."
+        }
+      ]
+    },
+    {
+      "id": "Besuch",
+      "pos": "noun",
+      "parent": "besuchen",
+      "parts": [
+        "be-",
+        "such"
+      ],
+      "gloss": {
+        "en": "visit; visitors, guests",
+        "tr": "ziyaret; misafir",
+        "de": "das Besuchen; die Gäste, die gekommen sind",
+        "fr": "la visite ; les invités",
+        "it": "la visita; gli ospiti",
+        "es": "la visita; los invitados"
+      },
+      "sentences": [
+        {
+          "de": "Danke für deinen [Besuch] im Krankenhaus!",
+          "tr": "Hastanedeki ziyaretin için teşekkürler!",
+          "en": "Thank you for visiting me in hospital!",
+          "fr": "Merci pour ta visite à l'hôpital !",
+          "it": "Grazie per la visita in ospedale!",
+          "es": "¡Gracias por tu visita al hospital!"
+        },
+        {
+          "de": "Wir bekommen am Wochenende [Besuch] aus Italien.",
+          "tr": "Hafta sonu İtalya'dan misafirimiz geliyor.",
+          "en": "We are having visitors from Italy at the weekend.",
+          "fr": "Ce week-end, nous avons de la visite d'Italie.",
+          "it": "Questo fine settimana abbiamo ospiti dall'Italia.",
+          "es": "Este fin de semana tenemos visita de Italia."
+        }
+      ]
+    },
+    {
+      "id": "Besucher",
+      "pos": "noun",
+      "parent": "besuchen",
+      "parts": [
+        "be-",
+        "such",
+        "-er"
+      ],
+      "gloss": {
+        "en": "visitor",
+        "tr": "ziyaretçi",
+        "de": "eine Person, die jemanden oder einen Ort besucht",
+        "fr": "le visiteur",
+        "it": "il visitatore",
+        "es": "el visitante"
+      },
+      "sentences": [
+        {
+          "de": "Das Museum hat jeden Tag tausend [Besucher].",
+          "tr": "Müzenin her gün bin ziyaretçisi oluyor.",
+          "en": "The museum has a thousand visitors every day.",
+          "fr": "Le musée accueille mille visiteurs par jour.",
+          "it": "Il museo ha mille visitatori al giorno.",
+          "es": "El museo tiene mil visitantes al día."
+        },
+        {
+          "de": "Ein [Besucher] hat seinen Schirm vergessen.",
+          "tr": "Bir ziyaretçi şemsiyesini unutmuş.",
+          "en": "A visitor has forgotten his umbrella.",
+          "fr": "Un visiteur a oublié son parapluie.",
+          "it": "Un visitatore ha dimenticato l'ombrello.",
+          "es": "Un visitante se ha olvidado el paraguas."
+        }
+      ]
+    },
+    {
+      "id": "versuchen",
+      "pos": "verb",
+      "parent": "suchen",
+      "parts": [
+        "ver-",
+        "such",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to try, to attempt",
+        "tr": "denemek, çalışmak",
+        "de": "etwas tun und sehen, ob es geht",
+        "fr": "essayer",
+        "it": "provare, tentare",
+        "es": "intentar, probar"
+      },
+      "sentences": [
+        {
+          "de": "Ich [versuche] seit einer Stunde, dich anzurufen.",
+          "tr": "Bir saattir seni aramaya çalışıyorum.",
+          "en": "I've been trying to call you for an hour.",
+          "fr": "J'essaie de t'appeler depuis une heure.",
+          "it": "È un'ora che cerco di chiamarti.",
+          "es": "Llevo una hora intentando llamarte."
+        },
+        {
+          "de": "Hast du schon den Kuchen [versucht]?",
+          "tr": "Kekin tadına baktın mı?",
+          "en": "Have you tried the cake yet?",
+          "fr": "As-tu déjà goûté le gâteau ?",
+          "it": "Hai già assaggiato la torta?",
+          "es": "¿Ya has probado el pastel?"
+        }
+      ]
+    },
+    {
+      "id": "Versuch",
+      "pos": "noun",
+      "parent": "versuchen",
+      "parts": [
+        "ver-",
+        "such"
+      ],
+      "gloss": {
+        "en": "attempt, try; experiment",
+        "tr": "deneme, girişim; deney",
+        "de": "das Versuchen; ein Test in der Wissenschaft",
+        "fr": "la tentative, l'essai ; l'expérience",
+        "it": "il tentativo; l'esperimento",
+        "es": "el intento; el experimento"
+      },
+      "sentences": [
+        {
+          "de": "Beim dritten [Versuch] hat es endlich geklappt.",
+          "tr": "Üçüncü denemede sonunda oldu.",
+          "en": "On the third attempt it finally worked.",
+          "fr": "À la troisième tentative, ça a enfin marché.",
+          "it": "Al terzo tentativo finalmente ha funzionato.",
+          "es": "Al tercer intento por fin salió bien."
+        },
+        {
+          "de": "Im Chemieunterricht machen wir heute einen [Versuch].",
+          "tr": "Bugün kimya dersinde deney yapıyoruz.",
+          "en": "Today we are doing an experiment in chemistry class.",
+          "fr": "Aujourd'hui, en cours de chimie, nous faisons une expérience.",
+          "it": "Oggi a chimica facciamo un esperimento.",
+          "es": "Hoy hacemos un experimento en clase de Química."
+        }
+      ]
+    },
+    {
+      "id": "Versuchung",
+      "pos": "noun",
+      "parent": "versuchen",
+      "parts": [
+        "ver-",
+        "such",
+        "-ung"
+      ],
+      "gloss": {
+        "en": "temptation",
+        "tr": "ayartı, cazibe",
+        "de": "der starke Wunsch, etwas zu tun, was man nicht tun sollte",
+        "fr": "la tentation",
+        "it": "la tentazione",
+        "es": "la tentación"
+      },
+      "sentences": [
+        {
+          "de": "Schokolade ist für mich eine große [Versuchung].",
+          "tr": "Çikolata benim için büyük bir cazibe.",
+          "en": "Chocolate is a great temptation for me.",
+          "fr": "Le chocolat est une grande tentation pour moi.",
+          "it": "Il cioccolato per me è una grande tentazione.",
+          "es": "El chocolate es una gran tentación para mí."
+        },
+        {
+          "de": "Er konnte der [Versuchung] nicht widerstehen.",
+          "tr": "Kendini tutamadı, cazibeye yenildi.",
+          "en": "He could not resist the temptation.",
+          "fr": "Il n'a pas pu résister à la tentation.",
+          "it": "Non ha saputo resistere alla tentazione.",
+          "es": "No pudo resistir la tentación."
+        }
+      ]
+    },
+    {
+      "id": "untersuchen",
+      "pos": "verb",
+      "parent": "suchen",
+      "parts": [
+        "unter-",
+        "such",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to examine, to investigate",
+        "tr": "muayene etmek; incelemek, araştırmak",
+        "de": "etwas genau prüfen, um mehr darüber zu wissen",
+        "fr": "examiner, étudier",
+        "it": "esaminare, visitare; indagare",
+        "es": "examinar; investigar"
+      },
+      "sentences": [
+        {
+          "de": "Die Ärztin [untersucht] zuerst den Hals.",
+          "tr": "Doktor önce boğazı muayene ediyor.",
+          "en": "The doctor examines the throat first.",
+          "fr": "La médecin examine d'abord la gorge.",
+          "it": "La dottoressa esamina prima la gola.",
+          "es": "La médica examina primero la garganta."
+        },
+        {
+          "de": "Die Polizei [untersucht] den Unfall noch.",
+          "tr": "Polis kazayı hâlâ araştırıyor.",
+          "en": "The police are still investigating the accident.",
+          "fr": "La police enquête encore sur l'accident.",
+          "it": "La polizia sta ancora indagando sull'incidente.",
+          "es": "La policía todavía investiga el accidente."
+        }
+      ]
+    },
+    {
+      "id": "Untersuchung",
+      "pos": "noun",
+      "parent": "untersuchen",
+      "parts": [
+        "unter-",
+        "such",
+        "-ung"
+      ],
+      "gloss": {
+        "en": "examination, check-up; investigation",
+        "tr": "muayene; inceleme, soruşturma",
+        "de": "das genaue Prüfen durch einen Arzt oder Fachmann",
+        "fr": "l'examen ; l'enquête",
+        "it": "la visita, l'esame; l'indagine",
+        "es": "el examen, la revisión; la investigación"
+      },
+      "sentences": [
+        {
+          "de": "Morgen habe ich eine [Untersuchung] beim Zahnarzt.",
+          "tr": "Yarın dişçide muayenem var.",
+          "en": "Tomorrow I have a check-up at the dentist's.",
+          "fr": "Demain, j'ai un examen chez le dentiste.",
+          "it": "Domani ho una visita dal dentista.",
+          "es": "Mañana tengo una revisión en el dentista."
+        },
+        {
+          "de": "Die [Untersuchung] des Unfalls dauert noch an.",
+          "tr": "Kazanın soruşturması hâlâ sürüyor.",
+          "en": "The investigation of the accident is still going on.",
+          "fr": "L'enquête sur l'accident est toujours en cours.",
+          "it": "L'indagine sull'incidente è ancora in corso.",
+          "es": "La investigación del accidente sigue en curso."
+        }
+      ]
+    }
+  ]
+}

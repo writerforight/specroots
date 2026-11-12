@@ -1,0 +1,694 @@
+{
+  "id": "schliess",
+  "addedBy": "writerforight",
+  "forms": [
+    "schließ",
+    "schloss",
+    "schluss",
+    "schlüss"
+  ],
+  "origin": "de",
+  "etymon": "schließen",
+  "meaning": {
+    "en": "to close, to shut",
+    "tr": "kapatmak",
+    "de": "schließen, zumachen (schloss, geschlossen)",
+    "fr": "fermer",
+    "it": "chiudere",
+    "es": "cerrar"
+  },
+  "words": [
+    {
+      "id": "schließen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "schließ",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to close, to shut",
+        "tr": "kapatmak; kapanmak",
+        "de": "etwas zumachen; nicht mehr geöffnet sein",
+        "fr": "fermer",
+        "it": "chiudere",
+        "es": "cerrar"
+      },
+      "sentences": [
+        {
+          "de": "Kannst du bitte das Fenster [schließen]?",
+          "tr": "Pencereyi kapatır mısın lütfen?",
+          "en": "Can you close the window, please?",
+          "fr": "Peux-tu fermer la fenêtre, s'il te plaît ?",
+          "it": "Puoi chiudere la finestra, per favore?",
+          "es": "¿Puedes cerrar la ventana, por favor?"
+        },
+        {
+          "de": "Der Supermarkt [schließt] um zwanzig Uhr.",
+          "tr": "Süpermarket saat yirmide kapanıyor.",
+          "en": "The supermarket closes at eight p.m.",
+          "fr": "Le supermarché ferme à vingt heures.",
+          "it": "Il supermercato chiude alle venti.",
+          "es": "El supermercado cierra a las ocho de la tarde."
+        }
+      ]
+    },
+    {
+      "id": "Schluss",
+      "pos": "noun",
+      "parent": "schließen",
+      "parts": [
+        "schluss"
+      ],
+      "gloss": {
+        "en": "end, ending",
+        "tr": "son, bitiş",
+        "de": "das Ende von etwas",
+        "fr": "la fin",
+        "it": "la fine",
+        "es": "el final"
+      },
+      "sentences": [
+        {
+          "de": "Am [Schluss] des Films mussten alle weinen.",
+          "tr": "Filmin sonunda herkes ağladı.",
+          "en": "At the end of the film everyone had to cry.",
+          "fr": "À la fin du film, tout le monde a pleuré.",
+          "it": "Alla fine del film hanno pianto tutti.",
+          "es": "Al final de la película, todos lloraron."
+        },
+        {
+          "de": "Für heute ist [Schluss], wir machen morgen weiter.",
+          "tr": "Bugünlük bu kadar, yarın devam ederiz.",
+          "en": "That's it for today, we'll continue tomorrow.",
+          "fr": "C'est fini pour aujourd'hui, on continue demain.",
+          "it": "Per oggi basta, continuiamo domani.",
+          "es": "Por hoy se acabó, seguimos mañana."
+        }
+      ]
+    },
+    {
+      "id": "schließlich",
+      "pos": "adverb",
+      "parent": "schließen",
+      "parts": [
+        "schließ",
+        "-lich"
+      ],
+      "gloss": {
+        "en": "finally, in the end; after all",
+        "tr": "sonunda, nihayet; ne de olsa",
+        "de": "am Ende, nach langer Zeit; denn",
+        "fr": "finalement ; après tout",
+        "it": "alla fine; dopotutto",
+        "es": "finalmente; al fin y al cabo"
+      },
+      "sentences": [
+        {
+          "de": "Nach zwei Stunden kam der Bus [schließlich] doch.",
+          "tr": "İki saat sonra otobüs nihayet geldi.",
+          "en": "After two hours the bus finally came.",
+          "fr": "Après deux heures, le bus est finalement arrivé.",
+          "it": "Dopo due ore alla fine l'autobus è arrivato.",
+          "es": "Después de dos horas, el autobús finalmente llegó."
+        },
+        {
+          "de": "Frag ihn ruhig, er ist [schließlich] dein Bruder.",
+          "tr": "Çekinmeden sor, ne de olsa o senin kardeşin.",
+          "en": "Go ahead and ask him, he is your brother after all.",
+          "fr": "Demande-lui, c'est ton frère après tout.",
+          "it": "Chiediglielo pure, dopotutto è tuo fratello.",
+          "es": "Pregúntale tranquilamente, al fin y al cabo es tu hermano."
+        }
+      ]
+    },
+    {
+      "id": "Schloss",
+      "pos": "noun",
+      "parent": "schließen",
+      "parts": [
+        "schloss"
+      ],
+      "gloss": {
+        "en": "lock; castle, palace",
+        "tr": "kilit; şato, saray",
+        "de": "ein Gerät zum Abschließen einer Tür; ein großes, schönes Haus eines Königs",
+        "fr": "la serrure ; le château",
+        "it": "la serratura; il castello",
+        "es": "la cerradura; el castillo"
+      },
+      "sentences": [
+        {
+          "de": "Der Schlüssel passt nicht ins [Schloss].",
+          "tr": "Anahtar kilide uymuyor.",
+          "en": "The key doesn't fit the lock.",
+          "fr": "La clé n'entre pas dans la serrure.",
+          "it": "La chiave non entra nella serratura.",
+          "es": "La llave no entra en la cerradura."
+        },
+        {
+          "de": "Auf dem Berg steht ein altes [Schloss].",
+          "tr": "Dağın tepesinde eski bir şato var.",
+          "en": "There is an old castle on the hill.",
+          "fr": "Sur la colline se trouve un vieux château.",
+          "it": "Sulla collina c'è un vecchio castello.",
+          "es": "En la colina hay un castillo antiguo."
+        }
+      ]
+    },
+    {
+      "id": "Schlüssel",
+      "pos": "noun",
+      "parent": "schließen",
+      "parts": [
+        "schlüss",
+        "-el"
+      ],
+      "gloss": {
+        "en": "key",
+        "tr": "anahtar",
+        "de": "ein kleines Ding aus Metall, mit dem man eine Tür auf- und zuschließt",
+        "fr": "la clé",
+        "it": "la chiave",
+        "es": "la llave"
+      },
+      "sentences": [
+        {
+          "de": "Ich finde meinen [Schlüssel] nicht.",
+          "tr": "Anahtarımı bulamıyorum.",
+          "en": "I can't find my key.",
+          "fr": "Je ne trouve pas ma clé.",
+          "it": "Non trovo la mia chiave.",
+          "es": "No encuentro mi llave."
+        },
+        {
+          "de": "Hast du einen zweiten [Schlüssel] für die Wohnung?",
+          "tr": "Daire için ikinci bir anahtarın var mı?",
+          "en": "Do you have a second key for the flat?",
+          "fr": "As-tu une deuxième clé pour l'appartement ?",
+          "it": "Hai una seconda chiave dell'appartamento?",
+          "es": "¿Tienes una segunda llave del piso?"
+        }
+      ]
+    },
+    {
+      "id": "abschließen",
+      "pos": "verb",
+      "parent": "schließen",
+      "parts": [
+        "ab-",
+        "schließ",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to lock; to finish, to complete",
+        "tr": "kilitlemek; bitirmek, tamamlamak",
+        "de": "mit dem Schlüssel zumachen; zu Ende bringen",
+        "fr": "fermer à clé ; terminer",
+        "it": "chiudere a chiave; concludere",
+        "es": "cerrar con llave; terminar"
+      },
+      "sentences": [
+        {
+          "de": "Hast du die Haustür [abgeschlossen]?",
+          "tr": "Kapıyı kilitledin mi?",
+          "en": "Did you lock the front door?",
+          "fr": "As-tu fermé la porte d'entrée à clé ?",
+          "it": "Hai chiuso a chiave la porta di casa?",
+          "es": "¿Has cerrado la puerta de casa con llave?"
+        },
+        {
+          "de": "Nächstes Jahr will sie ihr Studium [abschließen].",
+          "tr": "Gelecek yıl üniversiteyi bitirmek istiyor.",
+          "en": "Next year she wants to finish her degree.",
+          "fr": "L'année prochaine, elle veut terminer ses études.",
+          "it": "L'anno prossimo vuole finire gli studi.",
+          "es": "El año que viene quiere terminar la carrera."
+        }
+      ]
+    },
+    {
+      "id": "Abschluss",
+      "pos": "noun",
+      "parent": "abschließen",
+      "parts": [
+        "ab-",
+        "schluss"
+      ],
+      "gloss": {
+        "en": "completion, end; degree, qualification",
+        "tr": "bitiş, sonuç; diploma, mezuniyet",
+        "de": "das Ende von etwas; ein Zeugnis am Ende einer Schule",
+        "fr": "la fin ; le diplôme",
+        "it": "la conclusione; il diploma",
+        "es": "la conclusión; el título"
+      },
+      "sentences": [
+        {
+          "de": "Zum [Abschluss] des Abends sangen alle zusammen.",
+          "tr": "Gecenin sonunda herkes birlikte şarkı söyledi.",
+          "en": "To end the evening everyone sang together.",
+          "fr": "Pour finir la soirée, tout le monde a chanté ensemble.",
+          "it": "A conclusione della serata hanno cantato tutti insieme.",
+          "es": "Para terminar la velada, todos cantaron juntos."
+        },
+        {
+          "de": "Ohne [Abschluss] ist es schwer, Arbeit zu finden.",
+          "tr": "Diploma olmadan iş bulmak zor.",
+          "en": "Without a qualification it is hard to find work.",
+          "fr": "Sans diplôme, il est difficile de trouver du travail.",
+          "it": "Senza diploma è difficile trovare lavoro.",
+          "es": "Sin título es difícil encontrar trabajo."
+        }
+      ]
+    },
+    {
+      "id": "aufschließen",
+      "pos": "verb",
+      "parent": "schließen",
+      "parts": [
+        "auf-",
+        "schließ",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to unlock",
+        "tr": "kilidini açmak",
+        "de": "mit dem Schlüssel öffnen",
+        "fr": "ouvrir (avec une clé)",
+        "it": "aprire (con la chiave)",
+        "es": "abrir (con llave)"
+      },
+      "sentences": [
+        {
+          "de": "Warte, ich muss erst die Tür [aufschließen].",
+          "tr": "Bekle, önce kapının kilidini açmam lazım.",
+          "en": "Wait, I have to unlock the door first.",
+          "fr": "Attends, je dois d'abord ouvrir la porte.",
+          "it": "Aspetta, prima devo aprire la porta.",
+          "es": "Espera, primero tengo que abrir la puerta."
+        },
+        {
+          "de": "Der Hausmeister hat uns die Turnhalle [aufgeschlossen].",
+          "tr": "Görevli bize spor salonunu açtı.",
+          "en": "The caretaker unlocked the gym for us.",
+          "fr": "Le concierge nous a ouvert le gymnase.",
+          "it": "Il custode ci ha aperto la palestra.",
+          "es": "El conserje nos abrió el gimnasio."
+        }
+      ]
+    },
+    {
+      "id": "anschließen",
+      "pos": "verb",
+      "parent": "schließen",
+      "parts": [
+        "an-",
+        "schließ",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to connect, to plug in; sich anschließen: to join",
+        "tr": "bağlamak, takmak; (sich anschließen) katılmak",
+        "de": "ein Gerät mit etwas verbinden; mit anderen mitgehen",
+        "fr": "brancher, raccorder ; (sich anschließen) se joindre à",
+        "it": "collegare; (sich anschließen) unirsi a",
+        "es": "conectar; (sich anschließen) unirse a"
+      },
+      "sentences": [
+        {
+          "de": "Kannst du den Drucker an den Computer [anschließen]?",
+          "tr": "Yazıcıyı bilgisayara bağlayabilir misin?",
+          "en": "Can you connect the printer to the computer?",
+          "fr": "Peux-tu brancher l'imprimante sur l'ordinateur ?",
+          "it": "Puoi collegare la stampante al computer?",
+          "es": "¿Puedes conectar la impresora al ordenador?"
+        },
+        {
+          "de": "Darf ich mich euch [anschließen]?",
+          "tr": "Size katılabilir miyim?",
+          "en": "May I join you?",
+          "fr": "Puis-je me joindre à vous ?",
+          "it": "Posso unirmi a voi?",
+          "es": "¿Puedo unirme a vosotros?"
+        }
+      ]
+    },
+    {
+      "id": "Anschluss",
+      "pos": "noun",
+      "parent": "anschließen",
+      "parts": [
+        "an-",
+        "schluss"
+      ],
+      "gloss": {
+        "en": "connection (train, phone, internet)",
+        "tr": "bağlantı; aktarma",
+        "de": "die Verbindung zu einem Netz; der nächste Zug zum Umsteigen",
+        "fr": "la correspondance ; le raccordement",
+        "it": "la coincidenza; l'allacciamento",
+        "es": "el enlace; la conexión"
+      },
+      "sentences": [
+        {
+          "de": "In Köln haben wir [Anschluss] nach Berlin.",
+          "tr": "Köln'de Berlin aktarmamız var.",
+          "en": "In Cologne we have a connection to Berlin.",
+          "fr": "À Cologne, nous avons une correspondance pour Berlin.",
+          "it": "A Colonia abbiamo la coincidenza per Berlino.",
+          "es": "En Colonia tenemos enlace a Berlín."
+        },
+        {
+          "de": "Die neue Wohnung hat noch keinen [Anschluss] ans Internet.",
+          "tr": "Yeni dairenin henüz internet bağlantısı yok.",
+          "en": "The new flat has no internet connection yet.",
+          "fr": "Le nouvel appartement n'a pas encore de connexion Internet.",
+          "it": "Il nuovo appartamento non ha ancora la connessione a Internet.",
+          "es": "El piso nuevo todavía no tiene conexión a Internet."
+        }
+      ]
+    },
+    {
+      "id": "ausschließen",
+      "pos": "verb",
+      "parent": "schließen",
+      "parts": [
+        "aus-",
+        "schließ",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to exclude, to rule out",
+        "tr": "dışlamak, ihtimal dışı bırakmak",
+        "de": "jemanden nicht mitmachen lassen; sagen, dass etwas nicht möglich ist",
+        "fr": "exclure",
+        "it": "escludere",
+        "es": "excluir, descartar"
+      },
+      "sentences": [
+        {
+          "de": "Die Ärztin kann eine Infektion nicht [ausschließen].",
+          "tr": "Doktor enfeksiyon ihtimalini dışlayamıyor.",
+          "en": "The doctor cannot rule out an infection.",
+          "fr": "La médecin ne peut pas exclure une infection.",
+          "it": "La dottoressa non può escludere un'infezione.",
+          "es": "La médica no puede descartar una infección."
+        },
+        {
+          "de": "Er wurde aus dem Verein [ausgeschlossen].",
+          "tr": "Dernekten ihraç edildi.",
+          "en": "He was expelled from the club.",
+          "fr": "Il a été exclu du club.",
+          "it": "È stato espulso dal club.",
+          "es": "Lo expulsaron del club."
+        }
+      ]
+    },
+    {
+      "id": "ausschließlich",
+      "pos": "adverb",
+      "parent": "ausschließen",
+      "parts": [
+        "aus-",
+        "schließ",
+        "-lich"
+      ],
+      "gloss": {
+        "en": "exclusively, only",
+        "tr": "yalnızca, sadece",
+        "de": "nur, nichts anderes",
+        "fr": "exclusivement",
+        "it": "esclusivamente",
+        "es": "exclusivamente"
+      },
+      "sentences": [
+        {
+          "de": "Dieser Parkplatz ist [ausschließlich] für Gäste.",
+          "tr": "Bu otopark yalnızca misafirler içindir.",
+          "en": "This car park is for guests only.",
+          "fr": "Ce parking est exclusivement réservé aux clients.",
+          "it": "Questo parcheggio è esclusivamente per gli ospiti.",
+          "es": "Este aparcamiento es exclusivamente para clientes."
+        },
+        {
+          "de": "Sie isst [ausschließlich] vegetarisch.",
+          "tr": "Yalnızca vejetaryen besleniyor.",
+          "en": "She eats only vegetarian food.",
+          "fr": "Elle mange exclusivement végétarien.",
+          "it": "Mangia esclusivamente vegetariano.",
+          "es": "Come exclusivamente comida vegetariana."
+        }
+      ]
+    },
+    {
+      "id": "einschließen",
+      "pos": "verb",
+      "parent": "schließen",
+      "parts": [
+        "ein-",
+        "schließ",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to lock in, to lock up; to include",
+        "tr": "içeri kilitlemek; kapsamak, dahil etmek",
+        "de": "in einem Raum abschließen; mit dabeihaben",
+        "fr": "enfermer ; inclure",
+        "it": "chiudere dentro; includere",
+        "es": "encerrar; incluir"
+      },
+      "sentences": [
+        {
+          "de": "Ich habe mich aus Versehen im Bad [eingeschlossen].",
+          "tr": "Yanlışlıkla kendimi banyoya kilitledim.",
+          "en": "I accidentally locked myself in the bathroom.",
+          "fr": "Je me suis enfermé dans la salle de bains par erreur.",
+          "it": "Mi sono chiuso in bagno per sbaglio.",
+          "es": "Me encerré en el baño sin querer."
+        },
+        {
+          "de": "Im Preis ist das Frühstück [eingeschlossen].",
+          "tr": "Kahvaltı fiyata dahildir.",
+          "en": "Breakfast is included in the price.",
+          "fr": "Le petit-déjeuner est inclus dans le prix.",
+          "it": "La colazione è inclusa nel prezzo.",
+          "es": "El desayuno está incluido en el precio."
+        }
+      ]
+    },
+    {
+      "id": "einschließlich",
+      "pos": "preposition",
+      "parent": "einschließen",
+      "parts": [
+        "ein-",
+        "schließ",
+        "-lich"
+      ],
+      "gloss": {
+        "en": "including",
+        "tr": "dahil",
+        "de": "zusammen mit, mit dabei",
+        "fr": "y compris",
+        "it": "compreso, incluso",
+        "es": "incluido"
+      },
+      "sentences": [
+        {
+          "de": "Die Miete beträgt 800 Euro [einschließlich] Heizung.",
+          "tr": "Kira, ısınma dahil 800 avro.",
+          "en": "The rent is 800 euros including heating.",
+          "fr": "Le loyer est de 800 euros, chauffage compris.",
+          "it": "L'affitto è di 800 euro, riscaldamento compreso.",
+          "es": "El alquiler es de 800 euros, calefacción incluida."
+        },
+        {
+          "de": "Wir haben bis [einschließlich] Freitag geöffnet.",
+          "tr": "Cuma dahil cumaya kadar açığız.",
+          "en": "We are open up to and including Friday.",
+          "fr": "Nous sommes ouverts jusqu'à vendredi inclus.",
+          "it": "Siamo aperti fino a venerdì compreso.",
+          "es": "Abrimos hasta el viernes inclusive."
+        }
+      ]
+    },
+    {
+      "id": "beschließen",
+      "pos": "verb",
+      "parent": "schließen",
+      "parts": [
+        "be-",
+        "schließ",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to decide, to resolve",
+        "tr": "karar vermek, kararlaştırmak",
+        "de": "nach dem Nachdenken fest entscheiden",
+        "fr": "décider",
+        "it": "decidere",
+        "es": "decidir"
+      },
+      "sentences": [
+        {
+          "de": "Wir haben [beschlossen], im Sommer umzuziehen.",
+          "tr": "Yazın taşınmaya karar verdik.",
+          "en": "We have decided to move in the summer.",
+          "fr": "Nous avons décidé de déménager cet été.",
+          "it": "Abbiamo deciso di traslocare in estate.",
+          "es": "Hemos decidido mudarnos en verano."
+        },
+        {
+          "de": "Das Parlament will morgen ein neues Gesetz [beschließen].",
+          "tr": "Meclis yarın yeni bir yasa çıkarmak istiyor.",
+          "en": "Parliament wants to pass a new law tomorrow.",
+          "fr": "Le Parlement veut adopter une nouvelle loi demain.",
+          "it": "Il Parlamento vuole approvare domani una nuova legge.",
+          "es": "El Parlamento quiere aprobar mañana una nueva ley."
+        }
+      ]
+    },
+    {
+      "id": "Beschluss",
+      "pos": "noun",
+      "parent": "beschließen",
+      "parts": [
+        "be-",
+        "schluss"
+      ],
+      "gloss": {
+        "en": "decision, resolution",
+        "tr": "karar",
+        "de": "das, was eine Gruppe fest entschieden hat",
+        "fr": "la décision, la résolution",
+        "it": "la decisione, la delibera",
+        "es": "la decisión, el acuerdo"
+      },
+      "sentences": [
+        {
+          "de": "Der [Beschluss] des Stadtrats gilt ab Januar.",
+          "tr": "Belediye meclisinin kararı ocaktan itibaren geçerli.",
+          "en": "The city council's decision applies from January.",
+          "fr": "La décision du conseil municipal s'applique à partir de janvier.",
+          "it": "La delibera del consiglio comunale vale da gennaio.",
+          "es": "El acuerdo del ayuntamiento rige desde enero."
+        },
+        {
+          "de": "Gegen diesen [Beschluss] haben viele Bürger protestiert.",
+          "tr": "Pek çok vatandaş bu kararı protesto etti.",
+          "en": "Many citizens protested against this decision.",
+          "fr": "De nombreux citoyens ont protesté contre cette décision.",
+          "it": "Molti cittadini hanno protestato contro questa decisione.",
+          "es": "Muchos ciudadanos protestaron contra esta decisión."
+        }
+      ]
+    },
+    {
+      "id": "entschließen",
+      "pos": "verb",
+      "parent": "schließen",
+      "parts": [
+        "ent-",
+        "schließ",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to make up one's mind, to decide (sich entschließen)",
+        "tr": "karar vermek, kararını vermek",
+        "de": "sich nach längerem Überlegen für etwas entscheiden",
+        "fr": "se décider, se résoudre",
+        "it": "decidersi, risolversi",
+        "es": "decidirse"
+      },
+      "sentences": [
+        {
+          "de": "Ich kann mich nicht [entschließen], welches Kleid ich nehme.",
+          "tr": "Hangi elbiseyi alacağıma karar veremiyorum.",
+          "en": "I can't make up my mind which dress to take.",
+          "fr": "Je n'arrive pas à me décider pour une robe.",
+          "it": "Non riesco a decidermi su quale vestito prendere.",
+          "es": "No consigo decidirme por un vestido."
+        },
+        {
+          "de": "Er hat sich [entschlossen], den Job zu wechseln.",
+          "tr": "İş değiştirmeye karar verdi.",
+          "en": "He has decided to change jobs.",
+          "fr": "Il s'est décidé à changer de travail.",
+          "it": "Si è deciso a cambiare lavoro.",
+          "es": "Se ha decidido a cambiar de trabajo."
+        }
+      ]
+    },
+    {
+      "id": "Entschluss",
+      "pos": "noun",
+      "parent": "entschließen",
+      "parts": [
+        "ent-",
+        "schluss"
+      ],
+      "gloss": {
+        "en": "decision, resolve",
+        "tr": "karar",
+        "de": "eine feste persönliche Entscheidung",
+        "fr": "la décision, la résolution",
+        "it": "la decisione, la risoluzione",
+        "es": "la decisión, la resolución"
+      },
+      "sentences": [
+        {
+          "de": "Mein [Entschluss] steht fest: Ich höre auf zu rauchen.",
+          "tr": "Kararım kesin: sigarayı bırakıyorum.",
+          "en": "My mind is made up: I'm quitting smoking.",
+          "fr": "Ma décision est prise : j'arrête de fumer.",
+          "it": "La mia decisione è presa: smetto di fumare.",
+          "es": "Mi decisión es firme: dejo de fumar."
+        },
+        {
+          "de": "Das war ein schneller, aber guter [Entschluss].",
+          "tr": "Bu hızlı ama iyi bir karardı.",
+          "en": "That was a quick but good decision.",
+          "fr": "C'était une décision rapide, mais bonne.",
+          "it": "È stata una decisione rapida ma buona.",
+          "es": "Fue una decisión rápida, pero buena."
+        }
+      ]
+    },
+    {
+      "id": "Verschluss",
+      "pos": "noun",
+      "parent": "schließen",
+      "parts": [
+        "ver-",
+        "schluss"
+      ],
+      "gloss": {
+        "en": "cap, fastener, clasp",
+        "tr": "kapak, kapatma düzeneği",
+        "de": "das Teil, mit dem man etwas zumacht",
+        "fr": "le bouchon, la fermeture",
+        "it": "il tappo, la chiusura",
+        "es": "el tapón, el cierre"
+      },
+      "sentences": [
+        {
+          "de": "Der [Verschluss] der Flasche geht nicht auf.",
+          "tr": "Şişenin kapağı açılmıyor.",
+          "en": "The cap of the bottle won't open.",
+          "fr": "Le bouchon de la bouteille ne s'ouvre pas.",
+          "it": "Il tappo della bottiglia non si apre.",
+          "es": "El tapón de la botella no se abre."
+        },
+        {
+          "de": "An meiner Kette ist der [Verschluss] kaputt.",
+          "tr": "Kolyemin klipsi bozuk.",
+          "en": "The clasp on my necklace is broken.",
+          "fr": "Le fermoir de mon collier est cassé.",
+          "it": "La chiusura della mia collana è rotta.",
+          "es": "El cierre de mi collar está roto."
+        }
+      ]
+    }
+  ]
+}

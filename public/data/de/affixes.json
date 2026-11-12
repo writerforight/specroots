@@ -655,5 +655,50 @@
       "it": "attraverso",
       "es": "a través"
     }
+  },
+  "-bar": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "can be done (makes an adjective)",
+      "tr": "-ebilir, -abilir (sıfat yapar)",
+      "de": "macht ein Adjektiv: so, dass man es tun kann",
+      "fr": "qu'on peut faire (adjectif)",
+      "it": "che si può fare (aggettivo)",
+      "es": "que se puede hacer (adjetivo)"
+    }
+  },
+  "-mal": {
+    "kind": "suffix",
+    "combining": true,
+    "meaning": {
+      "en": "mark, sign (Mal)",
+      "tr": "işaret, nişan (Mal)",
+      "de": "Mal, Zeichen",
+      "fr": "marque, signe (Mal)",
+      "it": "segno (Mal)",
+      "es": "marca, señal (Mal)"
+    }
+  },
+  "los-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "loose, off, free; separable",
+      "tr": "serbest, kopuk; ayrılabilir",
+      "de": "los, frei, weg; trennbar",
+      "fr": "détaché, libre ; séparable",
+      "it": "sciolto, via; separabile",
+      "es": "suelto, libre; separable"
+    }
+  },
+  "-el": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "makes a noun for a tool or thing",
+      "tr": "alet ya da nesne adı yapar",
+      "de": "macht ein Nomen: ein Werkzeug oder Ding",
+      "fr": "forme un nom d'outil ou de chose",
+      "it": "forma un nome di strumento o cosa",
+      "es": "forma un sustantivo de herramienta o cosa"
+    }
   }
 }
