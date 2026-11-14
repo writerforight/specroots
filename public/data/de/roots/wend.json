@@ -1,0 +1,769 @@
+{
+  "id": "wend",
+  "addedBy": "writerforight",
+  "forms": [
+    "wend",
+    "wand",
+    "wandt"
+  ],
+  "origin": "de",
+  "etymon": "wenden",
+  "meaning": {
+    "en": "to turn",
+    "tr": "çevirmek, döndürmek",
+    "de": "in eine andere Richtung drehen (wendete/wandte, gewendet/gewandt)",
+    "fr": "tourner",
+    "it": "voltare, girare",
+    "es": "volver, girar"
+  },
+  "words": [
+    {
+      "id": "wenden",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "wend",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to turn (over, round); sich wenden an: to turn to, to contact",
+        "tr": "çevirmek, döndürmek; sich wenden an: başvurmak",
+        "de": "etwas auf die andere Seite oder in die andere Richtung drehen; sich wenden an: jemanden fragen",
+        "fr": "tourner, retourner ; sich wenden an : s'adresser à",
+        "it": "voltare, girare; sich wenden an: rivolgersi a",
+        "es": "dar la vuelta, girar; sich wenden an: dirigirse a"
+      },
+      "sentences": [
+        {
+          "de": "Bitte das Fleisch nach fünf Minuten [wenden].",
+          "tr": "Lütfen eti beş dakika sonra çevirin.",
+          "en": "Please turn the meat after five minutes.",
+          "fr": "Retournez la viande au bout de cinq minutes.",
+          "it": "Girare la carne dopo cinque minuti.",
+          "es": "Dale la vuelta a la carne a los cinco minutos."
+        },
+        {
+          "de": "Bei Fragen [wenden] Sie sich an das Sekretariat.",
+          "tr": "Sorularınız için sekreterliğe başvurun.",
+          "en": "If you have questions, contact the office.",
+          "fr": "Pour toute question, adressez-vous au secrétariat.",
+          "it": "Per domande rivolgetevi alla segreteria.",
+          "es": "Si tiene preguntas, diríjase a la secretaría."
+        }
+      ]
+    },
+    {
+      "id": "Wende",
+      "pos": "noun",
+      "parent": "wenden",
+      "parts": [
+        "wend",
+        "-e"
+      ],
+      "gloss": {
+        "en": "turning point, turnaround; (in Germany) the changes of 1989",
+        "tr": "dönüm noktası, dönüş; (Almanya'da) 1989 değişimi",
+        "de": "eine große Änderung der Richtung; in Deutschland die Zeit um 1989",
+        "fr": "le tournant",
+        "it": "la svolta",
+        "es": "el giro, el cambio de rumbo"
+      },
+      "sentences": [
+        {
+          "de": "Das Tor brachte die [Wende] im Spiel.",
+          "tr": "Gol maçın gidişatını değiştirdi.",
+          "en": "The goal turned the game around.",
+          "fr": "Ce but a marqué le tournant du match.",
+          "it": "Il gol ha segnato la svolta della partita.",
+          "es": "El gol supuso el giro del partido."
+        },
+        {
+          "de": "Nach der [Wende] zog die Familie nach Berlin.",
+          "tr": "Duvar yıkıldıktan sonra aile Berlin'e taşındı.",
+          "en": "After the fall of the Wall the family moved to Berlin.",
+          "fr": "Après la chute du Mur, la famille s'est installée à Berlin.",
+          "it": "Dopo la caduta del Muro la famiglia si trasferì a Berlino.",
+          "es": "Tras la caída del Muro la familia se mudó a Berlín."
+        }
+      ]
+    },
+    {
+      "id": "Wendung",
+      "pos": "noun",
+      "parent": "wenden",
+      "parts": [
+        "wend",
+        "-ung"
+      ],
+      "gloss": {
+        "en": "turn, twist; expression, phrase",
+        "tr": "dönüş, beklenmedik değişim; deyim, söz kalıbı",
+        "de": "eine plötzliche Änderung; eine feste Verbindung von Wörtern",
+        "fr": "le tour, le rebondissement ; la tournure",
+        "it": "la svolta, il colpo di scena; l'espressione",
+        "es": "el giro"
+      },
+      "sentences": [
+        {
+          "de": "Die Geschichte nahm eine überraschende [Wendung].",
+          "tr": "Hikâye şaşırtıcı bir yöne döndü.",
+          "en": "The story took a surprising turn.",
+          "fr": "L'histoire a pris un tour surprenant.",
+          "it": "La storia ha preso una svolta sorprendente.",
+          "es": "La historia dio un giro sorprendente."
+        },
+        {
+          "de": "Diese [Wendung] hört man oft im Alltag.",
+          "tr": "Bu deyim gündelik hayatta sık duyulur.",
+          "en": "You often hear this expression in everyday life.",
+          "fr": "On entend souvent cette tournure dans la vie courante.",
+          "it": "Questa espressione si sente spesso nella vita quotidiana.",
+          "es": "Este giro se oye a menudo en la vida diaria."
+        }
+      ]
+    },
+    {
+      "id": "wendig",
+      "pos": "adjective",
+      "parent": "wenden",
+      "parts": [
+        "wend",
+        "-ig"
+      ],
+      "gloss": {
+        "en": "agile, nimble, manoeuvrable",
+        "tr": "çevik, manevrası kolay",
+        "de": "so, dass es sich leicht und schnell drehen und lenken lässt",
+        "fr": "maniable, agile",
+        "it": "agile, maneggevole",
+        "es": "ágil, manejable"
+      },
+      "sentences": [
+        {
+          "de": "Das kleine Auto ist in der Stadt sehr [wendig].",
+          "tr": "Küçük araba şehir içinde çok çevik.",
+          "en": "The little car is very nimble in town.",
+          "fr": "La petite voiture est très maniable en ville.",
+          "it": "La macchinina è molto maneggevole in città.",
+          "es": "El coche pequeño es muy manejable en la ciudad."
+        },
+        {
+          "de": "Ein [wendiger] Spieler ist schwer zu stoppen.",
+          "tr": "Çevik bir oyuncuyu durdurmak zordur.",
+          "en": "An agile player is hard to stop.",
+          "fr": "Un joueur agile est difficile à arrêter.",
+          "it": "Un giocatore agile è difficile da fermare.",
+          "es": "Un jugador ágil es difícil de parar."
+        }
+      ]
+    },
+    {
+      "id": "anwenden",
+      "pos": "verb",
+      "parent": "wenden",
+      "parts": [
+        "an-",
+        "wend",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to apply, to use",
+        "tr": "uygulamak, kullanmak",
+        "de": "etwas für einen Zweck gebrauchen, in die Praxis bringen",
+        "fr": "appliquer, employer",
+        "it": "applicare, usare",
+        "es": "aplicar, emplear"
+      },
+      "sentences": [
+        {
+          "de": "Hier kann man dieselbe Formel [anwenden].",
+          "tr": "Burada aynı formül uygulanabilir.",
+          "en": "You can apply the same formula here.",
+          "fr": "Ici, on peut appliquer la même formule.",
+          "it": "Qui si può applicare la stessa formula.",
+          "es": "Aquí se puede aplicar la misma fórmula."
+        },
+        {
+          "de": "Die Regel wird nicht immer richtig [angewendet].",
+          "tr": "Kural her zaman doğru uygulanmıyor.",
+          "en": "The rule isn't always applied correctly.",
+          "fr": "La règle n'est pas toujours appliquée correctement.",
+          "it": "La regola non viene sempre applicata bene.",
+          "es": "La regla no siempre se aplica correctamente."
+        }
+      ]
+    },
+    {
+      "id": "Anwendung",
+      "pos": "noun",
+      "parent": "anwenden",
+      "parts": [
+        "an-",
+        "wend",
+        "-ung"
+      ],
+      "gloss": {
+        "en": "application, use; app",
+        "tr": "uygulama, kullanım",
+        "de": "der Gebrauch von etwas in der Praxis; ein Programm für Computer oder Handy",
+        "fr": "l'application, l'emploi",
+        "it": "l'applicazione, l'uso",
+        "es": "la aplicación, el uso"
+      },
+      "sentences": [
+        {
+          "de": "Vor der [Anwendung] die Flasche gut schütteln.",
+          "tr": "Kullanmadan önce şişeyi iyice çalkalayın.",
+          "en": "Shake the bottle well before use.",
+          "fr": "Bien agiter le flacon avant l'emploi.",
+          "it": "Agitare bene il flacone prima dell'uso.",
+          "es": "Agitar bien el frasco antes de usar."
+        },
+        {
+          "de": "Diese [Anwendung] läuft nur auf neuen Handys.",
+          "tr": "Bu uygulama yalnızca yeni telefonlarda çalışıyor.",
+          "en": "This app only runs on new phones.",
+          "fr": "Cette application ne fonctionne que sur les téléphones récents.",
+          "it": "Questa applicazione funziona solo sui telefoni nuovi.",
+          "es": "Esta aplicación solo funciona en móviles nuevos."
+        }
+      ]
+    },
+    {
+      "id": "anwendbar",
+      "pos": "adjective",
+      "parent": "anwenden",
+      "parts": [
+        "an-",
+        "wend",
+        "-bar"
+      ],
+      "gloss": {
+        "en": "applicable, usable",
+        "tr": "uygulanabilir",
+        "de": "so, dass man es anwenden kann",
+        "fr": "applicable",
+        "it": "applicabile",
+        "es": "aplicable"
+      },
+      "sentences": [
+        {
+          "de": "Die Methode ist auf alle Fälle [anwendbar].",
+          "tr": "Yöntem bütün durumlara uygulanabilir.",
+          "en": "The method is applicable to all cases.",
+          "fr": "La méthode est applicable à tous les cas.",
+          "it": "Il metodo è applicabile a tutti i casi.",
+          "es": "El método es aplicable a todos los casos."
+        },
+        {
+          "de": "Das Gesetz ist hier leider nicht [anwendbar].",
+          "tr": "Yasa burada ne yazık ki uygulanamıyor.",
+          "en": "Unfortunately the law is not applicable here.",
+          "fr": "Malheureusement, la loi n'est pas applicable ici.",
+          "it": "Purtroppo qui la legge non è applicabile.",
+          "es": "Por desgracia la ley no es aplicable aquí."
+        }
+      ]
+    },
+    {
+      "id": "verwenden",
+      "pos": "verb",
+      "parent": "wenden",
+      "parts": [
+        "ver-",
+        "wend",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to use",
+        "tr": "kullanmak",
+        "de": "etwas für einen Zweck benutzen",
+        "fr": "utiliser, employer",
+        "it": "usare, impiegare",
+        "es": "usar, utilizar"
+      },
+      "sentences": [
+        {
+          "de": "Für den Teig [verwende] ich nur Butter.",
+          "tr": "Hamur için yalnızca tereyağı kullanırım.",
+          "en": "For the dough I only use butter.",
+          "fr": "Pour la pâte, je n'utilise que du beurre.",
+          "it": "Per l'impasto uso solo burro.",
+          "es": "Para la masa solo uso mantequilla."
+        },
+        {
+          "de": "Das Wort wird heute kaum noch [verwendet].",
+          "tr": "Bu kelime bugün neredeyse hiç kullanılmıyor.",
+          "en": "The word is hardly used any more today.",
+          "fr": "Ce mot n'est presque plus employé aujourd'hui.",
+          "it": "Oggi questa parola non si usa quasi più.",
+          "es": "Hoy esa palabra casi no se usa."
+        }
+      ]
+    },
+    {
+      "id": "Verwendung",
+      "pos": "noun",
+      "parent": "verwenden",
+      "parts": [
+        "ver-",
+        "wend",
+        "-ung"
+      ],
+      "gloss": {
+        "en": "use",
+        "tr": "kullanım",
+        "de": "das Benutzen für einen Zweck",
+        "fr": "l'utilisation, l'emploi",
+        "it": "l'uso, l'impiego",
+        "es": "el uso, la utilización"
+      },
+      "sentences": [
+        {
+          "de": "Für die alten Kartons habe ich keine [Verwendung].",
+          "tr": "Eski koliler işime yaramıyor.",
+          "en": "I have no use for the old boxes.",
+          "fr": "Je n'ai aucune utilité pour les vieux cartons.",
+          "it": "Non so che farmene dei vecchi scatoloni.",
+          "es": "No tengo ningún uso para las cajas viejas."
+        },
+        {
+          "de": "Die [Verwendung] von Handys ist im Kino verboten.",
+          "tr": "Sinemada cep telefonu kullanımı yasak.",
+          "en": "Using mobile phones is forbidden in the cinema.",
+          "fr": "L'utilisation des téléphones est interdite au cinéma.",
+          "it": "L'uso dei cellulari è vietato al cinema.",
+          "es": "El uso de móviles está prohibido en el cine."
+        }
+      ]
+    },
+    {
+      "id": "abwenden",
+      "pos": "verb",
+      "parent": "wenden",
+      "parts": [
+        "ab-",
+        "wend",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to turn away; to avert",
+        "tr": "başka yöne çevirmek; önlemek, savuşturmak",
+        "de": "in eine andere Richtung drehen; etwas Schlimmes verhindern",
+        "fr": "détourner ; éviter, écarter",
+        "it": "distogliere; evitare, scongiurare",
+        "es": "apartar; evitar, conjurar"
+      },
+      "sentences": [
+        {
+          "de": "Sie konnte den Blick nicht vom Bild [abwenden].",
+          "tr": "Gözlerini resimden alamadı.",
+          "en": "She couldn't take her eyes off the picture.",
+          "fr": "Elle ne pouvait pas détourner les yeux du tableau.",
+          "it": "Non riusciva a distogliere lo sguardo dal quadro.",
+          "es": "No podía apartar la mirada del cuadro."
+        },
+        {
+          "de": "Die Gefahr wurde im letzten Moment [abgewendet].",
+          "tr": "Tehlike son anda önlendi.",
+          "en": "The danger was averted at the last moment.",
+          "fr": "Le danger a été écarté au dernier moment.",
+          "it": "Il pericolo è stato scongiurato all'ultimo momento.",
+          "es": "El peligro se evitó en el último momento."
+        }
+      ]
+    },
+    {
+      "id": "Aufwand",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "auf-",
+        "wand"
+      ],
+      "gloss": {
+        "en": "effort, expense, expenditure",
+        "tr": "emek, zahmet, masraf",
+        "de": "alles, was man an Zeit, Arbeit oder Geld für etwas einsetzt",
+        "fr": "l'effort, la dépense",
+        "it": "l'impegno, il dispendio",
+        "es": "el esfuerzo, el gasto"
+      },
+      "sentences": [
+        {
+          "de": "Der [Aufwand] hat sich am Ende gelohnt.",
+          "tr": "Harcanan emek sonunda karşılığını verdi.",
+          "en": "The effort was worth it in the end.",
+          "fr": "L'effort en valait finalement la peine.",
+          "it": "Alla fine l'impegno è valso la pena.",
+          "es": "Al final el esfuerzo mereció la pena."
+        },
+        {
+          "de": "Das lässt sich mit wenig [Aufwand] reparieren.",
+          "tr": "Bu az bir zahmetle onarılabilir.",
+          "en": "That can be repaired with little effort.",
+          "fr": "Cela se répare sans grand effort.",
+          "it": "Si ripara con poco sforzo.",
+          "es": "Eso se arregla con poco esfuerzo."
+        }
+      ]
+    },
+    {
+      "id": "aufwendig",
+      "pos": "adjective",
+      "parent": "Aufwand",
+      "parts": [
+        "auf-",
+        "wend",
+        "-ig"
+      ],
+      "gloss": {
+        "en": "elaborate, costly, time-consuming",
+        "tr": "zahmetli, masraflı",
+        "de": "mit viel Arbeit, Zeit oder Geld verbunden",
+        "fr": "coûteux, qui demande beaucoup de travail",
+        "it": "laborioso, dispendioso",
+        "es": "laborioso, costoso"
+      },
+      "sentences": [
+        {
+          "de": "Die Reparatur ist leider sehr [aufwendig].",
+          "tr": "Onarım ne yazık ki çok zahmetli.",
+          "en": "Unfortunately the repair is a lot of work.",
+          "fr": "Malheureusement, la réparation demande beaucoup de travail.",
+          "it": "Purtroppo la riparazione è molto laboriosa.",
+          "es": "Por desgracia la reparación es muy laboriosa."
+        },
+        {
+          "de": "Sie kochte ein [aufwendiges] Menü für zehn Gäste.",
+          "tr": "On misafir için zahmetli bir menü hazırladı.",
+          "en": "She cooked an elaborate menu for ten guests.",
+          "fr": "Elle a préparé un menu élaboré pour dix invités.",
+          "it": "Ha cucinato un menù elaborato per dieci ospiti.",
+          "es": "Preparó un menú elaborado para diez invitados."
+        }
+      ]
+    },
+    {
+      "id": "einwenden",
+      "pos": "verb",
+      "parent": "wenden",
+      "parts": [
+        "ein-",
+        "wend",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to object",
+        "tr": "itiraz etmek",
+        "de": "etwas gegen einen Plan oder eine Meinung sagen",
+        "fr": "objecter",
+        "it": "obiettare",
+        "es": "objetar"
+      },
+      "sentences": [
+        {
+          "de": "Dagegen lässt sich nichts [einwenden].",
+          "tr": "Buna itiraz edilecek bir şey yok.",
+          "en": "There's nothing to be said against that.",
+          "fr": "Il n'y a rien à objecter à cela.",
+          "it": "Non c'è nulla da obiettare.",
+          "es": "No hay nada que objetar a eso."
+        },
+        {
+          "de": "Sie hat [eingewendet], dass die Zeit zu knapp ist.",
+          "tr": "Zamanın çok dar olduğunu söyleyerek itiraz etti.",
+          "en": "She objected that time is too short.",
+          "fr": "Elle a objecté que le temps était trop court.",
+          "it": "Ha obiettato che il tempo è troppo poco.",
+          "es": "Objetó que el tiempo es demasiado justo."
+        }
+      ]
+    },
+    {
+      "id": "Einwand",
+      "pos": "noun",
+      "parent": "einwenden",
+      "parts": [
+        "ein-",
+        "wand"
+      ],
+      "gloss": {
+        "en": "objection",
+        "tr": "itiraz",
+        "de": "ein Grund, den man gegen etwas nennt",
+        "fr": "l'objection",
+        "it": "l'obiezione",
+        "es": "la objeción"
+      },
+      "sentences": [
+        {
+          "de": "Gibt es noch einen [Einwand] gegen den Vorschlag?",
+          "tr": "Öneriye başka bir itiraz var mı?",
+          "en": "Is there any other objection to the proposal?",
+          "fr": "Y a-t-il encore une objection à la proposition ?",
+          "it": "C'è ancora qualche obiezione alla proposta?",
+          "es": "¿Hay alguna otra objeción a la propuesta?"
+        },
+        {
+          "de": "Das ist ein berechtigter [Einwand].",
+          "tr": "Bu haklı bir itiraz.",
+          "en": "That's a fair objection.",
+          "fr": "C'est une objection justifiée.",
+          "it": "È un'obiezione giusta.",
+          "es": "Es una objeción justificada."
+        }
+      ]
+    },
+    {
+      "id": "Zuwendung",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "zu-",
+        "wend",
+        "-ung"
+      ],
+      "gloss": {
+        "en": "care and attention; grant, financial contribution",
+        "tr": "ilgi, şefkat; maddi destek",
+        "de": "liebevolle Aufmerksamkeit; Geld, das man als Hilfe bekommt",
+        "fr": "l'attention, l'affection ; l'aide financière",
+        "it": "l'attenzione, l'affetto; il contributo",
+        "es": "la atención, el cariño; la ayuda económica"
+      },
+      "sentences": [
+        {
+          "de": "Kleine Kinder brauchen viel [Zuwendung].",
+          "tr": "Küçük çocukların çok ilgiye ihtiyacı vardır.",
+          "en": "Small children need a lot of attention.",
+          "fr": "Les petits enfants ont besoin de beaucoup d'attention.",
+          "it": "I bambini piccoli hanno bisogno di molte attenzioni.",
+          "es": "Los niños pequeños necesitan mucha atención."
+        },
+        {
+          "de": "Der Verein lebt von privaten [Zuwendungen].",
+          "tr": "Dernek özel bağışlarla ayakta duruyor.",
+          "en": "The club lives on private donations.",
+          "fr": "L'association vit de dons privés.",
+          "it": "L'associazione vive di contributi privati.",
+          "es": "La asociación vive de aportaciones privadas."
+        }
+      ]
+    },
+    {
+      "id": "notwendig",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "not-",
+        "wend",
+        "-ig"
+      ],
+      "gloss": {
+        "en": "necessary (literally: turning away need)",
+        "tr": "gerekli, zorunlu",
+        "de": "so, dass es unbedingt sein muss",
+        "fr": "nécessaire",
+        "it": "necessario",
+        "es": "necesario"
+      },
+      "sentences": [
+        {
+          "de": "Ist es wirklich [notwendig], so früh aufzustehen?",
+          "tr": "Bu kadar erken kalkmak gerçekten gerekli mi?",
+          "en": "Is it really necessary to get up so early?",
+          "fr": "Est-il vraiment nécessaire de se lever si tôt ?",
+          "it": "È davvero necessario alzarsi così presto?",
+          "es": "¿De verdad es necesario levantarse tan temprano?"
+        },
+        {
+          "de": "Bring bitte alle [notwendigen] Unterlagen mit.",
+          "tr": "Lütfen gerekli bütün belgeleri getir.",
+          "en": "Please bring all the necessary documents.",
+          "fr": "Apporte tous les documents nécessaires, s'il te plaît.",
+          "it": "Porta tutti i documenti necessari, per favore.",
+          "es": "Trae todos los documentos necesarios, por favor."
+        }
+      ]
+    },
+    {
+      "id": "Notwendigkeit",
+      "pos": "noun",
+      "parent": "notwendig",
+      "parts": [
+        "not-",
+        "wend",
+        "-ig",
+        "-keit"
+      ],
+      "gloss": {
+        "en": "necessity",
+        "tr": "gereklilik, zorunluluk",
+        "de": "etwas, das unbedingt sein muss",
+        "fr": "la nécessité",
+        "it": "la necessità",
+        "es": "la necesidad"
+      },
+      "sentences": [
+        {
+          "de": "Ich sehe keine [Notwendigkeit] für ein neues Auto.",
+          "tr": "Yeni bir araba için bir gereklilik görmüyorum.",
+          "en": "I see no need for a new car.",
+          "fr": "Je ne vois pas la nécessité d'une nouvelle voiture.",
+          "it": "Non vedo la necessità di una macchina nuova.",
+          "es": "No veo la necesidad de un coche nuevo."
+        },
+        {
+          "de": "Sparen ist für uns eine [Notwendigkeit].",
+          "tr": "Tasarruf bizim için bir zorunluluk.",
+          "en": "Saving is a necessity for us.",
+          "fr": "Économiser est pour nous une nécessité.",
+          "it": "Risparmiare per noi è una necessità.",
+          "es": "Ahorrar es para nosotros una necesidad."
+        }
+      ]
+    },
+    {
+      "id": "auswendig",
+      "pos": "adverb",
+      "parent": null,
+      "parts": [
+        "aus-",
+        "wend",
+        "-ig"
+      ],
+      "gloss": {
+        "en": "by heart, from memory",
+        "tr": "ezbere",
+        "de": "aus dem Gedächtnis, ohne nachzusehen",
+        "fr": "par cœur",
+        "it": "a memoria",
+        "es": "de memoria"
+      },
+      "sentences": [
+        {
+          "de": "Ich kenne ihre Nummer [auswendig].",
+          "tr": "Numarasını ezbere biliyorum.",
+          "en": "I know her number by heart.",
+          "fr": "Je connais son numéro par cœur.",
+          "it": "So il suo numero a memoria.",
+          "es": "Me sé su número de memoria."
+        },
+        {
+          "de": "Wir mussten das Gedicht [auswendig] lernen.",
+          "tr": "Şiiri ezberlemek zorundaydık.",
+          "en": "We had to learn the poem by heart.",
+          "fr": "Nous devions apprendre le poème par cœur.",
+          "it": "Dovevamo imparare la poesia a memoria.",
+          "es": "Tuvimos que aprendernos el poema de memoria."
+        }
+      ]
+    },
+    {
+      "id": "gewandt",
+      "pos": "adjective",
+      "parent": "wenden",
+      "parts": [
+        "ge-",
+        "wandt"
+      ],
+      "gloss": {
+        "en": "skilful, adroit, fluent",
+        "tr": "becerikli, usta, akıcı",
+        "de": "geschickt und sicher im Bewegen oder Sprechen",
+        "fr": "habile, adroit",
+        "it": "abile, disinvolto",
+        "es": "hábil, diestro"
+      },
+      "sentences": [
+        {
+          "de": "Sie ist eine sehr [gewandte] Rednerin.",
+          "tr": "Çok usta bir konuşmacıdır.",
+          "en": "She is a very skilful speaker.",
+          "fr": "C'est une oratrice très habile.",
+          "it": "È un'oratrice molto abile.",
+          "es": "Es una oradora muy hábil."
+        },
+        {
+          "de": "Er bewegt sich [gewandt] zwischen den Tischen.",
+          "tr": "Masaların arasında ustalıkla hareket ediyor.",
+          "en": "He moves deftly between the tables.",
+          "fr": "Il se déplace avec adresse entre les tables.",
+          "it": "Si muove con disinvoltura tra i tavoli.",
+          "es": "Se mueve con destreza entre las mesas."
+        }
+      ]
+    },
+    {
+      "id": "verwandt",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "ver-",
+        "wandt"
+      ],
+      "gloss": {
+        "en": "related; similar, kindred",
+        "tr": "akraba; benzer, aynı kökten",
+        "de": "zur gleichen Familie gehörend; ähnlich, von gleicher Herkunft",
+        "fr": "parent, apparenté",
+        "it": "imparentato; affine",
+        "es": "emparentado; afín"
+      },
+      "sentences": [
+        {
+          "de": "Wir heißen gleich, sind aber nicht [verwandt].",
+          "tr": "Soyadımız aynı ama akraba değiliz.",
+          "en": "We have the same name but aren't related.",
+          "fr": "Nous portons le même nom, mais nous ne sommes pas parents.",
+          "it": "Abbiamo lo stesso cognome ma non siamo parenti.",
+          "es": "Nos llamamos igual, pero no somos parientes."
+        },
+        {
+          "de": "Deutsch und Englisch sind eng [verwandt].",
+          "tr": "Almanca ile İngilizce yakın akrabadır.",
+          "en": "German and English are closely related.",
+          "fr": "L'allemand et l'anglais sont étroitement apparentés.",
+          "it": "Il tedesco e l'inglese sono strettamente imparentati.",
+          "es": "El alemán y el inglés están estrechamente emparentados."
+        }
+      ]
+    },
+    {
+      "id": "Vorwand",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "vor-",
+        "wand"
+      ],
+      "gloss": {
+        "en": "pretext, excuse",
+        "tr": "bahane",
+        "de": "ein falscher Grund, den man nennt, um den echten zu verstecken",
+        "fr": "le prétexte",
+        "it": "il pretesto",
+        "es": "el pretexto"
+      },
+      "sentences": [
+        {
+          "de": "Die Kopfschmerzen waren nur ein [Vorwand].",
+          "tr": "Baş ağrısı sadece bir bahaneydi.",
+          "en": "The headache was only a pretext.",
+          "fr": "Le mal de tête n'était qu'un prétexte.",
+          "it": "Il mal di testa era solo un pretesto.",
+          "es": "El dolor de cabeza era solo un pretexto."
+        },
+        {
+          "de": "Unter einem [Vorwand] verließ er die Party früh.",
+          "tr": "Bir bahaneyle partiden erken ayrıldı.",
+          "en": "He left the party early on a pretext.",
+          "fr": "Il a quitté la fête tôt sous un prétexte.",
+          "it": "Con un pretesto ha lasciato presto la festa.",
+          "es": "Con un pretexto se fue pronto de la fiesta."
+        }
+      ]
+    }
+  ]
+}

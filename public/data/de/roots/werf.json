@@ -1,0 +1,701 @@
+{
+  "id": "werf",
+  "addedBy": "writerforight",
+  "forms": [
+    "werf",
+    "wirf",
+    "warf",
+    "wurf",
+    "würf",
+    "worf"
+  ],
+  "origin": "de",
+  "etymon": "werfen",
+  "meaning": {
+    "en": "to throw",
+    "tr": "atmak, fırlatmak",
+    "de": "etwas mit Schwung durch die Luft fliegen lassen (warf, geworfen; Wurf)",
+    "fr": "jeter, lancer",
+    "it": "gettare, lanciare",
+    "es": "tirar, lanzar"
+  },
+  "words": [
+    {
+      "id": "werfen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "werf",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to throw",
+        "tr": "atmak, fırlatmak",
+        "de": "etwas mit der Hand durch die Luft fliegen lassen",
+        "fr": "jeter, lancer",
+        "it": "gettare, lanciare",
+        "es": "tirar, lanzar"
+      },
+      "sentences": [
+        {
+          "de": "[Wirf] mir bitte den Schlüssel herunter!",
+          "tr": "Anahtarı aşağıya atar mısın?",
+          "en": "Please throw the key down to me!",
+          "fr": "Lance-moi la clé, s'il te plaît !",
+          "it": "Lanciami giù la chiave, per favore!",
+          "es": "¡Tírame la llave, por favor!"
+        },
+        {
+          "de": "Er [warf] einen kurzen Blick auf die Uhr.",
+          "tr": "Saate kısa bir göz attı.",
+          "en": "He glanced briefly at the clock.",
+          "fr": "Il a jeté un bref coup d'œil à l'horloge.",
+          "it": "Ha dato una rapida occhiata all'orologio.",
+          "es": "Echó un vistazo rápido al reloj."
+        }
+      ]
+    },
+    {
+      "id": "Wurf",
+      "pos": "noun",
+      "parent": "werfen",
+      "parts": [
+        "wurf"
+      ],
+      "gloss": {
+        "en": "throw; litter (of animals)",
+        "tr": "atış; bir batında doğan yavrular",
+        "de": "das Werfen; alle Jungen, die ein Tier auf einmal bekommt",
+        "fr": "le lancer, le jet ; la portée",
+        "it": "il lancio, il tiro; la cucciolata",
+        "es": "el lanzamiento, el tiro; la camada"
+      },
+      "sentences": [
+        {
+          "de": "Mit dem letzten [Wurf] gewann sie das Spiel.",
+          "tr": "Son atışla oyunu kazandı.",
+          "en": "She won the game with the last throw.",
+          "fr": "Elle a gagné la partie au dernier lancer.",
+          "it": "Ha vinto la partita con l'ultimo tiro.",
+          "es": "Ganó el partido con el último lanzamiento."
+        },
+        {
+          "de": "Unsere Katze hatte fünf Junge in einem [Wurf].",
+          "tr": "Kedimiz bir batında beş yavru doğurdu.",
+          "en": "Our cat had five kittens in one litter.",
+          "fr": "Notre chatte a eu cinq petits dans une portée.",
+          "it": "La nostra gatta ha avuto cinque cuccioli in una cucciolata.",
+          "es": "Nuestra gata tuvo cinco crías en una camada."
+        }
+      ]
+    },
+    {
+      "id": "Würfel",
+      "pos": "noun",
+      "parent": "Wurf",
+      "parts": [
+        "würf",
+        "-el"
+      ],
+      "gloss": {
+        "en": "die (dice); cube",
+        "tr": "zar; küp",
+        "de": "ein kleiner Körper mit sechs gleichen Seiten, den man beim Spielen wirft",
+        "fr": "le dé ; le cube",
+        "it": "il dado; il cubo",
+        "es": "el dado; el cubo"
+      },
+      "sentences": [
+        {
+          "de": "Du bist dran, hier ist der [Würfel].",
+          "tr": "Sıra sende, işte zar.",
+          "en": "It's your turn, here's the die.",
+          "fr": "C'est ton tour, voici le dé.",
+          "it": "Tocca a te, ecco il dado.",
+          "es": "Te toca, aquí tienes el dado."
+        },
+        {
+          "de": "Schneide den Käse in kleine [Würfel].",
+          "tr": "Peyniri küçük küpler halinde doğra.",
+          "en": "Cut the cheese into small cubes.",
+          "fr": "Coupe le fromage en petits dés.",
+          "it": "Taglia il formaggio a cubetti.",
+          "es": "Corta el queso en dados pequeños."
+        }
+      ]
+    },
+    {
+      "id": "wegwerfen",
+      "pos": "verb",
+      "parent": "werfen",
+      "parts": [
+        "weg-",
+        "werf",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to throw away",
+        "tr": "çöpe atmak",
+        "de": "etwas in den Müll tun, weil man es nicht mehr will",
+        "fr": "jeter (à la poubelle)",
+        "it": "buttare via",
+        "es": "tirar (a la basura)"
+      },
+      "sentences": [
+        {
+          "de": "Das Brot ist noch gut, nicht [wegwerfen]!",
+          "tr": "Ekmek hâlâ iyi, atma!",
+          "en": "The bread is still good, don't throw it away!",
+          "fr": "Le pain est encore bon, ne le jette pas !",
+          "it": "Il pane è ancora buono, non buttarlo via!",
+          "es": "El pan aún está bueno, ¡no lo tires!"
+        },
+        {
+          "de": "Ich habe die alten Schuhe endlich [weggeworfen].",
+          "tr": "Eski ayakkabıları nihayet attım.",
+          "en": "I finally threw the old shoes away.",
+          "fr": "J'ai enfin jeté les vieilles chaussures.",
+          "it": "Ho finalmente buttato via le scarpe vecchie.",
+          "es": "Por fin tiré los zapatos viejos."
+        }
+      ]
+    },
+    {
+      "id": "vorwerfen",
+      "pos": "verb",
+      "parent": "werfen",
+      "parts": [
+        "vor-",
+        "werf",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to reproach, to accuse someone of",
+        "tr": "suçlamak, başına kakmak",
+        "de": "jemandem sagen, dass er etwas falsch gemacht hat",
+        "fr": "reprocher",
+        "it": "rimproverare",
+        "es": "reprochar"
+      },
+      "sentences": [
+        {
+          "de": "Du kannst mir nicht [vorwerfen], dass es regnet.",
+          "tr": "Yağmur yağıyor diye beni suçlayamazsın.",
+          "en": "You can't blame me for the rain.",
+          "fr": "Tu ne peux pas me reprocher qu'il pleuve.",
+          "it": "Non puoi rimproverarmi se piove.",
+          "es": "No puedes reprocharme que llueva."
+        },
+        {
+          "de": "Ihm wird [vorgeworfen], Geld gestohlen zu haben.",
+          "tr": "Para çalmakla suçlanıyor.",
+          "en": "He is accused of having stolen money.",
+          "fr": "On lui reproche d'avoir volé de l'argent.",
+          "it": "È accusato di aver rubato dei soldi.",
+          "es": "Se le acusa de haber robado dinero."
+        }
+      ]
+    },
+    {
+      "id": "Vorwurf",
+      "pos": "noun",
+      "parent": "vorwerfen",
+      "parts": [
+        "vor-",
+        "wurf"
+      ],
+      "gloss": {
+        "en": "reproach, accusation",
+        "tr": "suçlama, sitem",
+        "de": "Worte, mit denen man jemandem die Schuld gibt",
+        "fr": "le reproche",
+        "it": "il rimprovero, l'accusa",
+        "es": "el reproche"
+      },
+      "sentences": [
+        {
+          "de": "Das war kein [Vorwurf], nur eine Frage.",
+          "tr": "Bu bir sitem değildi, sadece bir soruydu.",
+          "en": "That wasn't a reproach, just a question.",
+          "fr": "Ce n'était pas un reproche, juste une question.",
+          "it": "Non era un rimprovero, solo una domanda.",
+          "es": "No era un reproche, solo una pregunta."
+        },
+        {
+          "de": "Er wies den [Vorwurf] sofort zurück.",
+          "tr": "Suçlamayı hemen reddetti.",
+          "en": "He rejected the accusation at once.",
+          "fr": "Il a aussitôt rejeté le reproche.",
+          "it": "Ha respinto subito l'accusa.",
+          "es": "Rechazó el reproche de inmediato."
+        }
+      ]
+    },
+    {
+      "id": "entwerfen",
+      "pos": "verb",
+      "parent": "werfen",
+      "parts": [
+        "ent-",
+        "werf",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to design, to draft",
+        "tr": "tasarlamak, taslağını çizmek",
+        "de": "einen ersten Plan oder eine Zeichnung für etwas Neues machen",
+        "fr": "concevoir, dessiner, ébaucher",
+        "it": "progettare, disegnare, abbozzare",
+        "es": "diseñar, esbozar"
+      },
+      "sentences": [
+        {
+          "de": "Sie hat das Logo selbst [entworfen].",
+          "tr": "Logoyu kendisi tasarladı.",
+          "en": "She designed the logo herself.",
+          "fr": "Elle a dessiné le logo elle-même.",
+          "it": "Ha disegnato il logo da sola.",
+          "es": "Diseñó el logo ella misma."
+        },
+        {
+          "de": "Wir müssen zuerst die Schaltung [entwerfen].",
+          "tr": "Önce devreyi tasarlamamız gerek.",
+          "en": "First we have to design the circuit.",
+          "fr": "Nous devons d'abord concevoir le circuit.",
+          "it": "Prima dobbiamo progettare il circuito.",
+          "es": "Primero tenemos que diseñar el circuito."
+        }
+      ]
+    },
+    {
+      "id": "Entwurf",
+      "pos": "noun",
+      "parent": "entwerfen",
+      "parts": [
+        "ent-",
+        "wurf"
+      ],
+      "gloss": {
+        "en": "draft; design, sketch",
+        "tr": "taslak; tasarım",
+        "de": "die erste, noch nicht fertige Fassung eines Textes oder Plans",
+        "fr": "le brouillon, le projet ; l'ébauche",
+        "it": "la bozza; il progetto",
+        "es": "el borrador; el diseño"
+      },
+      "sentences": [
+        {
+          "de": "Schick mir bitte den ersten [Entwurf].",
+          "tr": "Lütfen bana ilk taslağı gönder.",
+          "en": "Please send me the first draft.",
+          "fr": "Envoie-moi le premier brouillon, s'il te plaît.",
+          "it": "Mandami la prima bozza, per favore.",
+          "es": "Envíame el primer borrador, por favor."
+        },
+        {
+          "de": "Die Mail liegt noch im Ordner [Entwürfe].",
+          "tr": "E-posta hâlâ taslaklar klasöründe.",
+          "en": "The e-mail is still in the drafts folder.",
+          "fr": "Le mail est encore dans le dossier Brouillons.",
+          "it": "La mail è ancora nella cartella Bozze.",
+          "es": "El correo sigue en la carpeta Borradores."
+        }
+      ]
+    },
+    {
+      "id": "verwerfen",
+      "pos": "verb",
+      "parent": "werfen",
+      "parts": [
+        "ver-",
+        "werf",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to reject, to discard (an idea, a plan)",
+        "tr": "reddetmek, vazgeçmek",
+        "de": "eine Idee oder einen Plan als schlecht ablehnen",
+        "fr": "rejeter, abandonner",
+        "it": "scartare, respingere",
+        "es": "descartar, rechazar"
+      },
+      "sentences": [
+        {
+          "de": "Wir haben den Plan wieder [verworfen].",
+          "tr": "Plandan yine vazgeçtik.",
+          "en": "We dropped the plan again.",
+          "fr": "Nous avons de nouveau abandonné ce plan.",
+          "it": "Abbiamo di nuovo scartato il piano.",
+          "es": "Volvimos a descartar el plan."
+        },
+        {
+          "de": "Man sollte eine neue Idee nicht sofort [verwerfen].",
+          "tr": "Yeni bir fikri hemen reddetmemek gerek.",
+          "en": "You shouldn't reject a new idea straight away.",
+          "fr": "Il ne faut pas rejeter tout de suite une idée nouvelle.",
+          "it": "Non bisogna scartare subito un'idea nuova.",
+          "es": "No hay que descartar enseguida una idea nueva."
+        }
+      ]
+    },
+    {
+      "id": "verwerflich",
+      "pos": "adjective",
+      "parent": "verwerfen",
+      "parts": [
+        "ver-",
+        "werf",
+        "-lich"
+      ],
+      "gloss": {
+        "en": "reprehensible, morally wrong",
+        "tr": "ayıplanacak, ahlaken yanlış",
+        "de": "moralisch schlecht, so dass man es ablehnen muss",
+        "fr": "répréhensible",
+        "it": "riprovevole",
+        "es": "reprobable"
+      },
+      "sentences": [
+        {
+          "de": "Lügen ist nicht immer [verwerflich].",
+          "tr": "Yalan söylemek her zaman ayıp değildir.",
+          "en": "Lying isn't always reprehensible.",
+          "fr": "Mentir n'est pas toujours répréhensible.",
+          "it": "Mentire non è sempre riprovevole.",
+          "es": "Mentir no siempre es reprobable."
+        },
+        {
+          "de": "Ich finde sein Verhalten moralisch [verwerflich].",
+          "tr": "Davranışını ahlaken yanlış buluyorum.",
+          "en": "I find his behaviour morally reprehensible.",
+          "fr": "Je trouve son comportement moralement répréhensible.",
+          "it": "Trovo il suo comportamento moralmente riprovevole.",
+          "es": "Su comportamiento me parece moralmente reprobable."
+        }
+      ]
+    },
+    {
+      "id": "unterwerfen",
+      "pos": "verb",
+      "parent": "werfen",
+      "parts": [
+        "unter-",
+        "werf",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to subjugate; to subject to; sich unterwerfen: to submit",
+        "tr": "boyun eğdirmek; tabi tutmak; sich unterwerfen: boyun eğmek",
+        "de": "mit Gewalt unter seine Macht bringen; sich unterwerfen: sich fügen",
+        "fr": "soumettre ; sich unterwerfen : se soumettre",
+        "it": "sottomettere; sich unterwerfen: sottomettersi",
+        "es": "someter; sich unterwerfen: someterse"
+      },
+      "sentences": [
+        {
+          "de": "Der König wollte das Nachbarland [unterwerfen].",
+          "tr": "Kral komşu ülkeye boyun eğdirmek istiyordu.",
+          "en": "The king wanted to subjugate the neighbouring country.",
+          "fr": "Le roi voulait soumettre le pays voisin.",
+          "it": "Il re voleva sottomettere il paese vicino.",
+          "es": "El rey quería someter al país vecino."
+        },
+        {
+          "de": "Alle Geräte sind strengen Tests [unterworfen].",
+          "tr": "Bütün cihazlar sıkı testlere tabidir.",
+          "en": "All devices are subject to strict tests.",
+          "fr": "Tous les appareils sont soumis à des tests stricts.",
+          "it": "Tutti gli apparecchi sono sottoposti a test severi.",
+          "es": "Todos los aparatos están sometidos a pruebas estrictas."
+        }
+      ]
+    },
+    {
+      "id": "umwerfen",
+      "pos": "verb",
+      "parent": "werfen",
+      "parts": [
+        "um-",
+        "werf",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to knock over; to upset (plans)",
+        "tr": "devirmek; (planı) altüst etmek",
+        "de": "etwas so stoßen, dass es umfällt; einen Plan völlig ändern",
+        "fr": "renverser ; bouleverser",
+        "it": "rovesciare, far cadere; sconvolgere",
+        "es": "volcar, tirar; trastocar"
+      },
+      "sentences": [
+        {
+          "de": "Pass auf, du wirst das Glas [umwerfen]!",
+          "tr": "Dikkat et, bardağı devireceksin!",
+          "en": "Careful, you'll knock the glass over!",
+          "fr": "Attention, tu vas renverser le verre !",
+          "it": "Attento, farai cadere il bicchiere!",
+          "es": "¡Cuidado, vas a tirar el vaso!"
+        },
+        {
+          "de": "Der Streik hat unsere Pläne [umgeworfen].",
+          "tr": "Grev planlarımızı altüst etti.",
+          "en": "The strike upset our plans.",
+          "fr": "La grève a bouleversé nos projets.",
+          "it": "Lo sciopero ha sconvolto i nostri piani.",
+          "es": "La huelga trastocó nuestros planes."
+        }
+      ]
+    },
+    {
+      "id": "umwerfend",
+      "pos": "adjective",
+      "parent": "umwerfen",
+      "parts": [
+        "um-",
+        "werf",
+        "-end"
+      ],
+      "gloss": {
+        "en": "stunning, fantastic (literally: knocking you over)",
+        "tr": "büyüleyici, nefes kesici",
+        "de": "so schön oder gut, dass man sehr beeindruckt ist",
+        "fr": "époustouflant, renversant",
+        "it": "strepitoso, mozzafiato",
+        "es": "impresionante, deslumbrante"
+      },
+      "sentences": [
+        {
+          "de": "In dem Kleid siehst du [umwerfend] aus.",
+          "tr": "O elbiseyle büyüleyici görünüyorsun.",
+          "en": "You look stunning in that dress.",
+          "fr": "Tu es renversante dans cette robe.",
+          "it": "Con quel vestito sei uno schianto.",
+          "es": "Con ese vestido estás deslumbrante."
+        },
+        {
+          "de": "Vom Turm hat man einen [umwerfenden] Blick.",
+          "tr": "Kuleden nefes kesici bir manzara var.",
+          "en": "From the tower you get a stunning view.",
+          "fr": "De la tour, on a une vue époustouflante.",
+          "it": "Dalla torre c'è una vista mozzafiato.",
+          "es": "Desde la torre hay una vista impresionante."
+        }
+      ]
+    },
+    {
+      "id": "einwerfen",
+      "pos": "verb",
+      "parent": "werfen",
+      "parts": [
+        "ein-",
+        "werf",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to post (a letter), to insert (a coin); to smash (a window)",
+        "tr": "(mektup, bozuk para) atmak; (camı) taşla kırmak",
+        "de": "etwas in einen Kasten oder Automaten stecken; eine Scheibe mit einem Wurf kaputt machen",
+        "fr": "poster, insérer ; casser (une vitre)",
+        "it": "imbucare, inserire; rompere (un vetro)",
+        "es": "echar (una carta, una moneda); romper (un cristal)"
+      },
+      "sentences": [
+        {
+          "de": "Kannst du den Brief für mich [einwerfen]?",
+          "tr": "Mektubu benim için posta kutusuna atar mısın?",
+          "en": "Can you post the letter for me?",
+          "fr": "Tu peux poster la lettre pour moi ?",
+          "it": "Puoi imbucare la lettera per me?",
+          "es": "¿Puedes echar la carta por mí?"
+        },
+        {
+          "de": "Zuerst musst du zwei Euro [einwerfen].",
+          "tr": "Önce iki avro atman gerekiyor.",
+          "en": "First you have to put in two euros.",
+          "fr": "Il faut d'abord insérer deux euros.",
+          "it": "Prima devi inserire due euro.",
+          "es": "Primero tienes que echar dos euros."
+        }
+      ]
+    },
+    {
+      "id": "Einwurf",
+      "pos": "noun",
+      "parent": "einwerfen",
+      "parts": [
+        "ein-",
+        "wurf"
+      ],
+      "gloss": {
+        "en": "throw-in; interjection, remark",
+        "tr": "taç atışı; araya girilen söz",
+        "de": "im Fußball das Werfen des Balls zurück ins Feld; eine kurze Bemerkung dazwischen",
+        "fr": "la touche (football) ; la remarque",
+        "it": "la rimessa laterale; l'osservazione",
+        "es": "el saque de banda; la observación"
+      },
+      "sentences": [
+        {
+          "de": "Der Schiedsrichter gab [Einwurf] für die Gäste.",
+          "tr": "Hakem konuk takım lehine taç verdi.",
+          "en": "The referee gave a throw-in to the visitors.",
+          "fr": "L'arbitre a accordé la touche aux visiteurs.",
+          "it": "L'arbitro ha dato la rimessa agli ospiti.",
+          "es": "El árbitro dio saque de banda a los visitantes."
+        },
+        {
+          "de": "Ihr [Einwurf] brachte alle zum Nachdenken.",
+          "tr": "Araya girip söylediği söz herkesi düşündürdü.",
+          "en": "Her remark made everyone think.",
+          "fr": "Sa remarque a fait réfléchir tout le monde.",
+          "it": "La sua osservazione ha fatto riflettere tutti.",
+          "es": "Su observación hizo reflexionar a todos."
+        }
+      ]
+    },
+    {
+      "id": "abwerfen",
+      "pos": "verb",
+      "parent": "werfen",
+      "parts": [
+        "ab-",
+        "werf",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to throw off, to drop; to yield (a profit)",
+        "tr": "üstünden atmak, bırakmak; (kâr) getirmek",
+        "de": "etwas von oben fallen lassen oder von sich werfen; Gewinn bringen",
+        "fr": "jeter, larguer, désarçonner ; rapporter",
+        "it": "gettare, sganciare, disarcionare; rendere",
+        "es": "tirar, lanzar, derribar; rendir"
+      },
+      "sentences": [
+        {
+          "de": "Das Pferd hat den Reiter [abgeworfen].",
+          "tr": "At binicisini üstünden attı.",
+          "en": "The horse threw its rider.",
+          "fr": "Le cheval a désarçonné son cavalier.",
+          "it": "Il cavallo ha disarcionato il cavaliere.",
+          "es": "El caballo derribó al jinete."
+        },
+        {
+          "de": "Der kleine Laden wird kaum Gewinn [abwerfen].",
+          "tr": "Küçük dükkân pek kâr getirmeyecek.",
+          "en": "The little shop will hardly yield a profit.",
+          "fr": "La petite boutique ne rapportera presque rien.",
+          "it": "Il negozietto non renderà quasi nulla.",
+          "es": "La tiendecita apenas dará beneficios."
+        }
+      ]
+    },
+    {
+      "id": "aufwerfen",
+      "pos": "verb",
+      "parent": "werfen",
+      "parts": [
+        "auf-",
+        "werf",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to raise (a question, a problem)",
+        "tr": "(soru, sorun) ortaya atmak",
+        "de": "eine Frage oder ein Problem zur Sprache bringen",
+        "fr": "soulever (une question)",
+        "it": "sollevare (una questione)",
+        "es": "plantear (una cuestión)"
+      },
+      "sentences": [
+        {
+          "de": "Das Ergebnis wird neue Fragen [aufwerfen].",
+          "tr": "Sonuç yeni sorular doğuracak.",
+          "en": "The result will raise new questions.",
+          "fr": "Le résultat va soulever de nouvelles questions.",
+          "it": "Il risultato solleverà nuove domande.",
+          "es": "El resultado planteará nuevas preguntas."
+        },
+        {
+          "de": "Sie hat ein wichtiges Problem [aufgeworfen].",
+          "tr": "Önemli bir sorunu gündeme getirdi.",
+          "en": "She raised an important problem.",
+          "fr": "Elle a soulevé un problème important.",
+          "it": "Ha sollevato un problema importante.",
+          "es": "Planteó un problema importante."
+        }
+      ]
+    },
+    {
+      "id": "zurückwerfen",
+      "pos": "verb",
+      "parent": "werfen",
+      "parts": [
+        "zurück-",
+        "werf",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to throw back; to reflect; to set back",
+        "tr": "geri atmak; yansıtmak; geriletmek",
+        "de": "etwas dorthin werfen, woher es kam; jemanden in seiner Arbeit weit nach hinten bringen",
+        "fr": "renvoyer ; faire reculer, retarder",
+        "it": "rilanciare, riflettere; far arretrare",
+        "es": "devolver, reflejar; hacer retroceder"
+      },
+      "sentences": [
+        {
+          "de": "Kannst du mir den Ball [zurückwerfen]?",
+          "tr": "Topu bana geri atar mısın?",
+          "en": "Can you throw the ball back to me?",
+          "fr": "Tu peux me renvoyer le ballon ?",
+          "it": "Mi rilanci la palla?",
+          "es": "¿Me devuelves la pelota?"
+        },
+        {
+          "de": "Die Krankheit hat ihn um Monate [zurückgeworfen].",
+          "tr": "Hastalık onu aylarca geriye götürdü.",
+          "en": "The illness set him back by months.",
+          "fr": "La maladie l'a fait reculer de plusieurs mois.",
+          "it": "La malattia l'ha fatto arretrare di mesi.",
+          "es": "La enfermedad lo hizo retroceder meses."
+        }
+      ]
+    },
+    {
+      "id": "Scheinwerfer",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "schein-",
+        "werf",
+        "-er"
+      ],
+      "gloss": {
+        "en": "headlight; spotlight, floodlight (literally: light-thrower)",
+        "tr": "far; projektör",
+        "de": "eine starke Lampe, die ihr Licht weit nach vorn wirft",
+        "fr": "le phare ; le projecteur",
+        "it": "il faro; il riflettore",
+        "es": "el faro; el foco"
+      },
+      "sentences": [
+        {
+          "de": "Bei Nebel muss man die [Scheinwerfer] einschalten.",
+          "tr": "Siste farları açmak gerekir.",
+          "en": "In fog you have to switch the headlights on.",
+          "fr": "Par temps de brouillard, il faut allumer les phares.",
+          "it": "Con la nebbia bisogna accendere i fari.",
+          "es": "Con niebla hay que encender los faros."
+        },
+        {
+          "de": "Ein [Scheinwerfer] beleuchtete die leere Bühne.",
+          "tr": "Bir projektör boş sahneyi aydınlatıyordu.",
+          "en": "A spotlight lit the empty stage.",
+          "fr": "Un projecteur éclairait la scène vide.",
+          "it": "Un riflettore illuminava il palco vuoto.",
+          "es": "Un foco iluminaba el escenario vacío."
+        }
+      ]
+    }
+  ]
+}

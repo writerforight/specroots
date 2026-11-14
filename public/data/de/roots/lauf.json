@@ -1,0 +1,731 @@
+{
+  "id": "lauf",
+  "addedBy": "writerforight",
+  "forms": [
+    "lauf",
+    "läuf",
+    "lief"
+  ],
+  "origin": "de",
+  "etymon": "laufen",
+  "meaning": {
+    "en": "to run, to walk",
+    "tr": "koşmak, yürümek",
+    "de": "sich schnell zu Fuß bewegen; auch: funktionieren (lief, gelaufen)",
+    "fr": "courir, marcher",
+    "it": "correre, camminare",
+    "es": "correr, andar"
+  },
+  "words": [
+    {
+      "id": "laufen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "lauf",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to run; to walk; (of machines) to be running",
+        "tr": "koşmak; yürümek; çalışmak, işlemek",
+        "de": "sich schnell zu Fuß bewegen; zu Fuß gehen; in Betrieb sein",
+        "fr": "courir ; marcher ; fonctionner",
+        "it": "correre; camminare; funzionare",
+        "es": "correr; andar; funcionar"
+      },
+      "sentences": [
+        {
+          "de": "Wir sind zu Fuß zum Bahnhof [gelaufen].",
+          "tr": "Gara yürüyerek gittik.",
+          "en": "We walked to the station.",
+          "fr": "Nous sommes allés à la gare à pied.",
+          "it": "Siamo andati a piedi alla stazione.",
+          "es": "Fuimos andando a la estación."
+        },
+        {
+          "de": "Der Motor [läuft] seit einer Stunde.",
+          "tr": "Motor bir saattir çalışıyor.",
+          "en": "The engine has been running for an hour.",
+          "fr": "Le moteur tourne depuis une heure.",
+          "it": "Il motore gira da un'ora.",
+          "es": "El motor lleva una hora en marcha."
+        }
+      ]
+    },
+    {
+      "id": "Lauf",
+      "pos": "noun",
+      "parent": "laufen",
+      "parts": [
+        "lauf"
+      ],
+      "gloss": {
+        "en": "run, race; course (of time, of events)",
+        "tr": "koşu; akış, seyir",
+        "de": "das Laufen; ein Rennen; die Art, wie etwas vorangeht",
+        "fr": "la course ; le cours",
+        "it": "la corsa; il corso",
+        "es": "la carrera; el curso"
+      },
+      "sentences": [
+        {
+          "de": "Nach dem [Lauf] waren alle sehr müde.",
+          "tr": "Koşudan sonra herkes çok yorgundu.",
+          "en": "After the run everyone was very tired.",
+          "fr": "Après la course, tout le monde était très fatigué.",
+          "it": "Dopo la corsa erano tutti molto stanchi.",
+          "es": "Después de la carrera todos estaban muy cansados."
+        },
+        {
+          "de": "Im [Lauf] der Zeit wurde es leichter.",
+          "tr": "Zamanla daha kolay hale geldi.",
+          "en": "Over the course of time it got easier.",
+          "fr": "Au fil du temps, c'est devenu plus facile.",
+          "it": "Col passare del tempo è diventato più facile.",
+          "es": "Con el paso del tiempo se hizo más fácil."
+        }
+      ]
+    },
+    {
+      "id": "Läufer",
+      "pos": "noun",
+      "parent": "laufen",
+      "parts": [
+        "läuf",
+        "-er"
+      ],
+      "gloss": {
+        "en": "runner; bishop (chess)",
+        "tr": "koşucu; fil (satranç)",
+        "de": "eine Person, die läuft; im Schach die Figur, die schräg zieht",
+        "fr": "le coureur ; le fou (échecs)",
+        "it": "il corridore; l'alfiere (scacchi)",
+        "es": "el corredor; el alfil (ajedrez)"
+      },
+      "sentences": [
+        {
+          "de": "Der [Läufer] aus Kenia gewann das Rennen.",
+          "tr": "Kenyalı koşucu yarışı kazandı.",
+          "en": "The runner from Kenya won the race.",
+          "fr": "Le coureur kényan a gagné la course.",
+          "it": "Il corridore keniano ha vinto la gara.",
+          "es": "El corredor keniano ganó la carrera."
+        },
+        {
+          "de": "Sie schlug meinen Turm mit dem [Läufer].",
+          "tr": "Filiyle kalemi aldı.",
+          "en": "She took my rook with her bishop.",
+          "fr": "Elle a pris ma tour avec son fou.",
+          "it": "Ha preso la mia torre con l'alfiere.",
+          "es": "Capturó mi torre con el alfil."
+        }
+      ]
+    },
+    {
+      "id": "ablaufen",
+      "pos": "verb",
+      "parent": "laufen",
+      "parts": [
+        "ab-",
+        "lauf",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to expire, to run out; to proceed, to go (in a certain way)",
+        "tr": "süresi dolmak; (bir şekilde) cereyan etmek",
+        "de": "zu Ende gehen, ungültig werden; auf eine bestimmte Art stattfinden",
+        "fr": "expirer ; se dérouler",
+        "it": "scadere; svolgersi",
+        "es": "caducar; desarrollarse"
+      },
+      "sentences": [
+        {
+          "de": "Mein Pass ist letzten Monat [abgelaufen].",
+          "tr": "Pasaportumun süresi geçen ay doldu.",
+          "en": "My passport expired last month.",
+          "fr": "Mon passeport a expiré le mois dernier.",
+          "it": "Il mio passaporto è scaduto il mese scorso.",
+          "es": "Mi pasaporte caducó el mes pasado."
+        },
+        {
+          "de": "Wie wird die Prüfung genau [ablaufen]?",
+          "tr": "Sınav tam olarak nasıl geçecek?",
+          "en": "How exactly will the exam go?",
+          "fr": "Comment l'examen va-t-il se dérouler exactement ?",
+          "it": "Come si svolgerà esattamente l'esame?",
+          "es": "¿Cómo se desarrollará exactamente el examen?"
+        }
+      ]
+    },
+    {
+      "id": "Ablauf",
+      "pos": "noun",
+      "parent": "ablaufen",
+      "parts": [
+        "ab-",
+        "lauf"
+      ],
+      "gloss": {
+        "en": "sequence of events, procedure; expiry",
+        "tr": "akış, işleyiş; sürenin dolması",
+        "de": "die Reihenfolge, in der etwas geschieht; das Ende einer Frist",
+        "fr": "le déroulement ; l'expiration",
+        "it": "lo svolgimento; la scadenza",
+        "es": "el desarrollo; el vencimiento"
+      },
+      "sentences": [
+        {
+          "de": "Der Chef erklärte den [Ablauf] des Tages.",
+          "tr": "Patron günün akışını anlattı.",
+          "en": "The boss explained the schedule for the day.",
+          "fr": "Le chef a expliqué le déroulement de la journée.",
+          "it": "Il capo ha spiegato lo svolgimento della giornata.",
+          "es": "El jefe explicó el desarrollo del día."
+        },
+        {
+          "de": "Nach [Ablauf] der Frist ist es zu spät.",
+          "tr": "Süre dolduktan sonra çok geç olur.",
+          "en": "After the deadline has passed it's too late.",
+          "fr": "Après l'expiration du délai, il est trop tard.",
+          "it": "Dopo la scadenza del termine è troppo tardi.",
+          "es": "Tras el vencimiento del plazo es demasiado tarde."
+        }
+      ]
+    },
+    {
+      "id": "verlaufen",
+      "pos": "verb",
+      "parent": "laufen",
+      "parts": [
+        "ver-",
+        "lauf",
+        "-en"
+      ],
+      "gloss": {
+        "en": "sich verlaufen: to get lost (on foot); to go, to run (a course)",
+        "tr": "sich verlaufen: yolunu kaybetmek; seyretmek, geçmek",
+        "de": "sich verlaufen: den Weg nicht mehr finden; in einer Richtung oder Art vorangehen",
+        "fr": "sich verlaufen : se perdre ; se dérouler, passer",
+        "it": "sich verlaufen: perdersi; svolgersi, passare",
+        "es": "sich verlaufen: perderse; transcurrir, pasar"
+      },
+      "sentences": [
+        {
+          "de": "Im Wald haben wir uns völlig [verlaufen].",
+          "tr": "Ormanda yolumuzu tamamen kaybettik.",
+          "en": "We got completely lost in the forest.",
+          "fr": "Nous nous sommes complètement perdus dans la forêt.",
+          "it": "Nel bosco ci siamo persi del tutto.",
+          "es": "Nos perdimos por completo en el bosque."
+        },
+        {
+          "de": "Die Operation ist ohne Probleme [verlaufen].",
+          "tr": "Ameliyat sorunsuz geçti.",
+          "en": "The operation went without problems.",
+          "fr": "L'opération s'est déroulée sans problème.",
+          "it": "L'operazione si è svolta senza problemi.",
+          "es": "La operación transcurrió sin problemas."
+        }
+      ]
+    },
+    {
+      "id": "Verlauf",
+      "pos": "noun",
+      "parent": "verlaufen",
+      "parts": [
+        "ver-",
+        "lauf"
+      ],
+      "gloss": {
+        "en": "course, progression; (browser) history",
+        "tr": "seyir, gidişat; (tarayıcı) geçmiş",
+        "de": "die Art, wie sich etwas mit der Zeit entwickelt; im Browser die Liste besuchter Seiten",
+        "fr": "le cours, l'évolution ; l'historique",
+        "it": "l'andamento, il decorso; la cronologia",
+        "es": "el curso, la evolución; el historial"
+      },
+      "sentences": [
+        {
+          "de": "Der Arzt ist mit dem [Verlauf] zufrieden.",
+          "tr": "Doktor gidişattan memnun.",
+          "en": "The doctor is happy with the progress.",
+          "fr": "Le médecin est satisfait de l'évolution.",
+          "it": "Il medico è soddisfatto del decorso.",
+          "es": "El médico está satisfecho con la evolución."
+        },
+        {
+          "de": "Lösch bitte den [Verlauf] im Browser.",
+          "tr": "Lütfen tarayıcı geçmişini sil.",
+          "en": "Please delete the browser history.",
+          "fr": "Efface l'historique du navigateur, s'il te plaît.",
+          "it": "Cancella la cronologia del browser, per favore.",
+          "es": "Borra el historial del navegador, por favor."
+        }
+      ]
+    },
+    {
+      "id": "Anlauf",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "an-",
+        "lauf"
+      ],
+      "gloss": {
+        "en": "run-up; attempt, go",
+        "tr": "hız alma; deneme",
+        "de": "das Laufen vor einem Sprung; ein Versuch",
+        "fr": "l'élan ; la tentative",
+        "it": "la rincorsa; il tentativo",
+        "es": "la carrerilla; el intento"
+      },
+      "sentences": [
+        {
+          "de": "Für den Sprung brauchst du mehr [Anlauf].",
+          "tr": "Atlayış için daha fazla hız almalısın.",
+          "en": "You need a longer run-up for the jump.",
+          "fr": "Pour ce saut, il te faut plus d'élan.",
+          "it": "Per il salto ti serve più rincorsa.",
+          "es": "Para el salto necesitas más carrerilla."
+        },
+        {
+          "de": "Im dritten [Anlauf] bestand er die Prüfung.",
+          "tr": "Sınavı üçüncü denemede geçti.",
+          "en": "He passed the exam at the third attempt.",
+          "fr": "Il a réussi l'examen à la troisième tentative.",
+          "it": "Ha superato l'esame al terzo tentativo.",
+          "es": "Aprobó el examen al tercer intento."
+        }
+      ]
+    },
+    {
+      "id": "Auflauf",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "auf-",
+        "lauf"
+      ],
+      "gloss": {
+        "en": "bake, casserole, gratin; crowd that gathers suddenly",
+        "tr": "fırın yemeği, graten; birden toplanan kalabalık",
+        "de": "ein Gericht, das im Ofen in einer Form gebacken wird; eine plötzliche Menschenmenge",
+        "fr": "le gratin ; l'attroupement",
+        "it": "lo sformato; l'assembramento",
+        "es": "el gratinado; la aglomeración"
+      },
+      "sentences": [
+        {
+          "de": "Heute gibt es [Auflauf] mit Kartoffeln und Käse.",
+          "tr": "Bugün patatesli ve peynirli fırın yemeği var.",
+          "en": "Today there's a bake with potatoes and cheese.",
+          "fr": "Aujourd'hui, il y a un gratin de pommes de terre au fromage.",
+          "it": "Oggi c'è uno sformato di patate e formaggio.",
+          "es": "Hoy hay gratinado de patatas con queso."
+        },
+        {
+          "de": "Vor dem Laden gab es einen großen [Auflauf].",
+          "tr": "Dükkânın önünde büyük bir kalabalık toplandı.",
+          "en": "A big crowd gathered in front of the shop.",
+          "fr": "Il y a eu un grand attroupement devant le magasin.",
+          "it": "Davanti al negozio c'è stato un grande assembramento.",
+          "es": "Delante de la tienda hubo una gran aglomeración."
+        }
+      ]
+    },
+    {
+      "id": "auslaufen",
+      "pos": "verb",
+      "parent": "laufen",
+      "parts": [
+        "aus-",
+        "lauf",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to leak out; to run out, to end (contract)",
+        "tr": "dışarı akmak, sızmak; sona ermek",
+        "de": "aus einem Behälter fließen; langsam zu Ende gehen",
+        "fr": "couler, fuir ; arriver à terme",
+        "it": "fuoriuscire, perdere; scadere",
+        "es": "derramarse, salirse; vencer"
+      },
+      "sentences": [
+        {
+          "de": "Die Milch ist in der Tasche [ausgelaufen].",
+          "tr": "Süt çantanın içine aktı.",
+          "en": "The milk leaked in the bag.",
+          "fr": "Le lait a coulé dans le sac.",
+          "it": "Il latte si è rovesciato nella borsa.",
+          "es": "La leche se derramó en la bolsa."
+        },
+        {
+          "de": "Mein Vertrag wird im März [auslaufen].",
+          "tr": "Sözleşmem martta sona erecek.",
+          "en": "My contract will run out in March.",
+          "fr": "Mon contrat arrivera à terme en mars.",
+          "it": "Il mio contratto scadrà a marzo.",
+          "es": "Mi contrato vencerá en marzo."
+        }
+      ]
+    },
+    {
+      "id": "einlaufen",
+      "pos": "verb",
+      "parent": "laufen",
+      "parts": [
+        "ein-",
+        "lauf",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to shrink (in the wash); to come in (ship, team)",
+        "tr": "(yıkanınca) çekmek; (limana, sahaya) girmek",
+        "de": "beim Waschen kleiner werden; in einen Hafen oder ein Stadion kommen",
+        "fr": "rétrécir ; entrer (au port, sur le terrain)",
+        "it": "restringersi; entrare (in porto, in campo)",
+        "es": "encoger; entrar (en el puerto, al campo)"
+      },
+      "sentences": [
+        {
+          "de": "Der Pullover ist beim Waschen [eingelaufen].",
+          "tr": "Kazak yıkanınca çekti.",
+          "en": "The jumper shrank in the wash.",
+          "fr": "Le pull a rétréci au lavage.",
+          "it": "Il maglione si è ristretto in lavatrice.",
+          "es": "El jersey encogió al lavarlo."
+        },
+        {
+          "de": "Wir sahen das Schiff in den Hafen [einlaufen].",
+          "tr": "Geminin limana girişini izledik.",
+          "en": "We watched the ship come into the harbour.",
+          "fr": "Nous avons vu le bateau entrer dans le port.",
+          "it": "Abbiamo visto la nave entrare in porto.",
+          "es": "Vimos el barco entrar en el puerto."
+        }
+      ]
+    },
+    {
+      "id": "weglaufen",
+      "pos": "verb",
+      "parent": "laufen",
+      "parts": [
+        "weg-",
+        "lauf",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to run away",
+        "tr": "kaçmak, koşarak uzaklaşmak",
+        "de": "schnell von einem Ort oder einer Person fortgehen",
+        "fr": "s'enfuir, se sauver",
+        "it": "scappare",
+        "es": "escaparse, huir"
+      },
+      "sentences": [
+        {
+          "de": "Der Hund ist gestern wieder [weggelaufen].",
+          "tr": "Köpek dün yine kaçtı.",
+          "en": "The dog ran away again yesterday.",
+          "fr": "Le chien s'est encore sauvé hier.",
+          "it": "Ieri il cane è scappato di nuovo.",
+          "es": "Ayer el perro se escapó otra vez."
+        },
+        {
+          "de": "Vor Problemen kann man nicht [weglaufen].",
+          "tr": "Sorunlardan kaçılmaz.",
+          "en": "You can't run away from problems.",
+          "fr": "On ne peut pas fuir les problèmes.",
+          "it": "Non si può scappare dai problemi.",
+          "es": "No se puede huir de los problemas."
+        }
+      ]
+    },
+    {
+      "id": "durchlaufen",
+      "pos": "verb",
+      "parent": "laufen",
+      "parts": [
+        "durch-",
+        "lauf",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to go through, to pass through (stages, a system)",
+        "tr": "(aşamalardan, bir sistemden) geçmek",
+        "de": "alle Stufen von etwas nacheinander mitmachen; durch etwas hindurchgehen",
+        "fr": "parcourir, passer par",
+        "it": "percorrere, passare per",
+        "es": "recorrer, pasar por"
+      },
+      "sentences": [
+        {
+          "de": "Jeder Bewerber muss drei Runden [durchlaufen].",
+          "tr": "Her aday üç turdan geçmek zorunda.",
+          "en": "Every applicant has to go through three rounds.",
+          "fr": "Chaque candidat doit passer par trois tours.",
+          "it": "Ogni candidato deve passare tre turni.",
+          "es": "Cada candidato tiene que pasar por tres rondas."
+        },
+        {
+          "de": "Das Signal [durchläuft] zuerst einen Filter.",
+          "tr": "Sinyal önce bir filtreden geçer.",
+          "en": "The signal first passes through a filter.",
+          "fr": "Le signal passe d'abord par un filtre.",
+          "it": "Il segnale passa prima per un filtro.",
+          "es": "La señal pasa primero por un filtro."
+        }
+      ]
+    },
+    {
+      "id": "vorläufig",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "vor-",
+        "läuf",
+        "-ig"
+      ],
+      "gloss": {
+        "en": "provisional, temporary; for the time being",
+        "tr": "geçici; şimdilik",
+        "de": "nur für jetzt gültig, noch nicht endgültig",
+        "fr": "provisoire ; pour l'instant",
+        "it": "provvisorio; per ora",
+        "es": "provisional; por ahora"
+      },
+      "sentences": [
+        {
+          "de": "Das ist nur ein [vorläufiges] Ergebnis.",
+          "tr": "Bu yalnızca geçici bir sonuç.",
+          "en": "That's only a provisional result.",
+          "fr": "Ce n'est qu'un résultat provisoire.",
+          "it": "È solo un risultato provvisorio.",
+          "es": "Es solo un resultado provisional."
+        },
+        {
+          "de": "Wir bleiben [vorläufig] in der alten Wohnung.",
+          "tr": "Şimdilik eski evde kalıyoruz.",
+          "en": "We're staying in the old flat for the time being.",
+          "fr": "Nous restons pour l'instant dans l'ancien appartement.",
+          "it": "Per ora restiamo nel vecchio appartamento.",
+          "es": "Por ahora nos quedamos en el piso viejo."
+        }
+      ]
+    },
+    {
+      "id": "Vorläufer",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "vor-",
+        "läuf",
+        "-er"
+      ],
+      "gloss": {
+        "en": "forerunner, precursor",
+        "tr": "öncü, önceki biçim",
+        "de": "etwas oder jemand, der früher da war und das Spätere vorbereitet hat",
+        "fr": "le précurseur",
+        "it": "il precursore",
+        "es": "el precursor"
+      },
+      "sentences": [
+        {
+          "de": "Das Telegramm war ein [Vorläufer] der E-Mail.",
+          "tr": "Telgraf, e-postanın öncüsüydü.",
+          "en": "The telegram was a forerunner of e-mail.",
+          "fr": "Le télégramme était un précurseur de l'e-mail.",
+          "it": "Il telegramma è stato un precursore dell'e-mail.",
+          "es": "El telegrama fue un precursor del correo electrónico."
+        },
+        {
+          "de": "Dieses Gerät gilt als [Vorläufer] des Computers.",
+          "tr": "Bu cihaz bilgisayarın öncüsü sayılır.",
+          "en": "This device is considered a forerunner of the computer.",
+          "fr": "Cet appareil est considéré comme un précurseur de l'ordinateur.",
+          "it": "Questo apparecchio è considerato un precursore del computer.",
+          "es": "Este aparato se considera un precursor del ordenador."
+        }
+      ]
+    },
+    {
+      "id": "geläufig",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "ge-",
+        "läuf",
+        "-ig"
+      ],
+      "gloss": {
+        "en": "familiar, common, in current use",
+        "tr": "bilinen, yaygın",
+        "de": "bekannt und oft gebraucht",
+        "fr": "courant, familier",
+        "it": "comune, familiare",
+        "es": "corriente, familiar"
+      },
+      "sentences": [
+        {
+          "de": "Dieses Wort ist mir nicht [geläufig].",
+          "tr": "Bu kelime bana tanıdık değil.",
+          "en": "I'm not familiar with this word.",
+          "fr": "Ce mot ne m'est pas familier.",
+          "it": "Questa parola non mi è familiare.",
+          "es": "Esta palabra no me resulta familiar."
+        },
+        {
+          "de": "Das ist eine [geläufige] Abkürzung in der Technik.",
+          "tr": "Bu, teknikte yaygın bir kısaltma.",
+          "en": "That's a common abbreviation in engineering.",
+          "fr": "C'est une abréviation courante en technique.",
+          "it": "È un'abbreviazione comune nella tecnica.",
+          "es": "Es una abreviatura corriente en la técnica."
+        }
+      ]
+    },
+    {
+      "id": "beiläufig",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "bei-",
+        "läuf",
+        "-ig"
+      ],
+      "gloss": {
+        "en": "casual, in passing",
+        "tr": "laf arasında, gelişigüzel",
+        "de": "nebenbei gesagt oder getan, ohne Betonung",
+        "fr": "en passant, incident",
+        "it": "di sfuggita, casuale",
+        "es": "de pasada, casual"
+      },
+      "sentences": [
+        {
+          "de": "Sie erwähnte es nur ganz [beiläufig].",
+          "tr": "Bundan yalnızca laf arasında söz etti.",
+          "en": "She only mentioned it in passing.",
+          "fr": "Elle ne l'a mentionné qu'en passant.",
+          "it": "L'ha accennato solo di sfuggita.",
+          "es": "Solo lo mencionó de pasada."
+        },
+        {
+          "de": "Eine [beiläufige] Bemerkung hat alles verändert.",
+          "tr": "Laf arasında söylenen bir söz her şeyi değiştirdi.",
+          "en": "A casual remark changed everything.",
+          "fr": "Une remarque faite en passant a tout changé.",
+          "it": "Un'osservazione fatta di sfuggita ha cambiato tutto.",
+          "es": "Un comentario casual lo cambió todo."
+        }
+      ]
+    },
+    {
+      "id": "Kreislauf",
+      "pos": "noun",
+      "parent": "Lauf",
+      "parts": [
+        "kreis-",
+        "lauf"
+      ],
+      "gloss": {
+        "en": "cycle, circuit; blood circulation",
+        "tr": "döngü, çevrim; kan dolaşımı",
+        "de": "eine Bewegung, die immer wieder zum Anfang zurückkommt; das System von Herz und Blut",
+        "fr": "le cycle, le circuit ; la circulation (sanguine)",
+        "it": "il ciclo, il circuito; la circolazione",
+        "es": "el ciclo, el circuito; la circulación"
+      },
+      "sentences": [
+        {
+          "de": "Wasser bewegt sich in einem ewigen [Kreislauf].",
+          "tr": "Su sonsuz bir döngü içinde hareket eder.",
+          "en": "Water moves in an endless cycle.",
+          "fr": "L'eau circule selon un cycle sans fin.",
+          "it": "L'acqua si muove in un ciclo eterno.",
+          "es": "El agua se mueve en un ciclo eterno."
+        },
+        {
+          "de": "Bei der Hitze macht mein [Kreislauf] Probleme.",
+          "tr": "Bu sıcakta dolaşımım sorun çıkarıyor.",
+          "en": "In this heat my circulation is giving me trouble.",
+          "fr": "Avec cette chaleur, ma circulation me joue des tours.",
+          "it": "Con questo caldo la circolazione mi dà problemi.",
+          "es": "Con este calor la circulación me da problemas."
+        }
+      ]
+    },
+    {
+      "id": "belaufen",
+      "pos": "verb",
+      "parent": "laufen",
+      "parts": [
+        "be-",
+        "lauf",
+        "-en"
+      ],
+      "gloss": {
+        "en": "sich belaufen auf: to amount to, to come to",
+        "tr": "sich belaufen auf: (tutar) -e varmak, etmek",
+        "de": "sich belaufen auf: eine bestimmte Summe erreichen",
+        "fr": "sich belaufen auf : s'élever à",
+        "it": "sich belaufen auf: ammontare a",
+        "es": "sich belaufen auf: ascender a"
+      },
+      "sentences": [
+        {
+          "de": "Die Kosten [belaufen] sich auf tausend Euro.",
+          "tr": "Masraflar bin avroyu buluyor.",
+          "en": "The costs amount to a thousand euros.",
+          "fr": "Les frais s'élèvent à mille euros.",
+          "it": "I costi ammontano a mille euro.",
+          "es": "Los gastos ascienden a mil euros."
+        },
+        {
+          "de": "Der Schaden [belief] sich auf mehrere Millionen.",
+          "tr": "Hasar birkaç milyonu buldu.",
+          "en": "The damage came to several million.",
+          "fr": "Les dégâts se sont élevés à plusieurs millions.",
+          "it": "I danni ammontavano a diversi milioni.",
+          "es": "Los daños ascendieron a varios millones."
+        }
+      ]
+    },
+    {
+      "id": "laufend",
+      "pos": "adjective",
+      "parent": "laufen",
+      "parts": [
+        "lauf",
+        "-end"
+      ],
+      "gloss": {
+        "en": "current, ongoing; continually",
+        "tr": "süregelen, cari; sürekli",
+        "de": "jetzt stattfindend; immer wieder, ständig",
+        "fr": "en cours, courant ; sans cesse",
+        "it": "in corso, corrente; di continuo",
+        "es": "en curso, corriente; continuamente"
+      },
+      "sentences": [
+        {
+          "de": "Die [laufenden] Kosten sind zu hoch.",
+          "tr": "Cari giderler çok yüksek.",
+          "en": "The running costs are too high.",
+          "fr": "Les frais courants sont trop élevés.",
+          "it": "Le spese correnti sono troppo alte.",
+          "es": "Los gastos corrientes son demasiado altos."
+        },
+        {
+          "de": "Die Liste wird [laufend] aktualisiert.",
+          "tr": "Liste sürekli güncelleniyor.",
+          "en": "The list is updated continually.",
+          "fr": "La liste est mise à jour en permanence.",
+          "it": "La lista viene aggiornata di continuo.",
+          "es": "La lista se actualiza continuamente."
+        }
+      ]
+    }
+  ]
+}

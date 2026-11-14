@@ -655,5 +655,130 @@
       "it": "attraverso",
       "es": "a través"
     }
+  },
+  "los-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "loose, free, off; starting; separable",
+      "tr": "serbest, kopuk; başlama; ayrılabilir",
+      "de": "los, frei, weg; Beginn; trennbar",
+      "fr": "détaché, libre ; début ; séparable",
+      "it": "sciolto, via; inizio; separabile",
+      "es": "suelto, fuera; comienzo; separable"
+    }
+  },
+  "weg-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "away; separable",
+      "tr": "uzağa, başka yere; ayrılabilir",
+      "de": "weg, fort; trennbar",
+      "fr": "au loin, parti ; séparable",
+      "it": "via; separabile",
+      "es": "fuera, lejos; separable"
+    }
+  },
+  "hinter-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "behind, back",
+      "tr": "arkada, geride",
+      "de": "hinter, zurück",
+      "fr": "derrière",
+      "it": "dietro",
+      "es": "detrás"
+    }
+  },
+  "kreis-": {
+    "kind": "prefix",
+    "combining": true,
+    "meaning": {
+      "en": "circle (Kreis)",
+      "tr": "daire, çember (Kreis)",
+      "de": "Kreis",
+      "fr": "cercle (Kreis)",
+      "it": "cerchio (Kreis)",
+      "es": "círculo (Kreis)"
+    }
+  },
+  "schein-": {
+    "kind": "prefix",
+    "combining": true,
+    "meaning": {
+      "en": "shine, light (Schein)",
+      "tr": "ışık, parıltı (Schein)",
+      "de": "Schein, Licht",
+      "fr": "lueur, lumière (Schein)",
+      "it": "luce, bagliore (Schein)",
+      "es": "luz, brillo (Schein)"
+    }
+  },
+  "not-": {
+    "kind": "prefix",
+    "combining": true,
+    "meaning": {
+      "en": "need, emergency (Not)",
+      "tr": "ihtiyaç, zor durum (Not)",
+      "de": "Not",
+      "fr": "besoin, détresse (Not)",
+      "it": "bisogno, emergenza (Not)",
+      "es": "necesidad, apuro (Not)"
+    }
+  },
+  "kurz-": {
+    "kind": "prefix",
+    "combining": true,
+    "meaning": {
+      "en": "short (kurz)",
+      "tr": "kısa (kurz)",
+      "de": "kurz",
+      "fr": "court (kurz)",
+      "it": "corto (kurz)",
+      "es": "corto (kurz)"
+    }
+  },
+  "-end": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "doing (makes an adjective from a verb, like -ing)",
+      "tr": "yapan, -en/-an (fiilden sıfat yapar)",
+      "de": "macht aus einem Verb ein Adjektiv: gerade tuend",
+      "fr": "qui fait (adjectif tiré du verbe, comme -ant)",
+      "it": "che fa (aggettivo dal verbo, come -ente)",
+      "es": "que hace (adjetivo del verbo, como -ante)"
+    }
+  },
+  "-el": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "makes a noun for a tool or small thing (Schlüssel, Würfel)",
+      "tr": "alet ya da küçük şey ismi yapar (Schlüssel, Würfel)",
+      "de": "macht ein Nomen für ein Gerät oder eine kleine Sache (Schlüssel, Würfel)",
+      "fr": "forme un nom d'outil ou de petit objet (Schlüssel, Würfel)",
+      "it": "forma un nome di attrezzo o di piccolo oggetto (Schlüssel, Würfel)",
+      "es": "forma un nombre de utensilio u objeto pequeño (Schlüssel, Würfel)"
+    }
+  },
+  "-bar": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "can be done (makes an adjective, like -able)",
+      "tr": "-ebilir, -abilir (sıfat yapar)",
+      "de": "so, dass man es tun kann (macht ein Adjektiv)",
+      "fr": "qu'on peut faire (adjectif, comme -able)",
+      "it": "che si può fare (aggettivo, come -abile)",
+      "es": "que se puede hacer (adjetivo, como -able)"
+    }
+  },
+  "-keit": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "state or quality (makes a feminine noun, after -ig, -lich, -bar)",
+      "tr": "durum, nitelik (dişil isim yapar; -ig, -lich, -bar sonrası)",
+      "de": "Zustand, Eigenschaft (macht ein weibliches Nomen, nach -ig, -lich, -bar)",
+      "fr": "état, qualité (nom féminin, après -ig, -lich, -bar)",
+      "it": "stato, qualità (nome femminile, dopo -ig, -lich, -bar)",
+      "es": "estado, cualidad (nombre femenino, tras -ig, -lich, -bar)"
+    }
   }
 }

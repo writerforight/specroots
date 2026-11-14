@@ -1,0 +1,738 @@
+{
+  "id": "lass",
+  "addedBy": "writerforight",
+  "forms": [
+    "lass",
+    "läss",
+    "ließ"
+  ],
+  "origin": "de",
+  "etymon": "lassen",
+  "meaning": {
+    "en": "to let, to leave",
+    "tr": "bırakmak, izin vermek",
+    "de": "etwas erlauben oder nicht ändern; weggehen (ließ, gelassen)",
+    "fr": "laisser",
+    "it": "lasciare",
+    "es": "dejar"
+  },
+  "words": [
+    {
+      "id": "lassen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "lass",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to let; to leave; to have something done",
+        "tr": "bırakmak; izin vermek; yaptırmak",
+        "de": "etwas erlauben; etwas nicht ändern; etwas von anderen tun lassen",
+        "fr": "laisser ; faire faire",
+        "it": "lasciare; far fare",
+        "es": "dejar; hacer que"
+      },
+      "sentences": [
+        {
+          "de": "[Lass] mich bitte kurz nachdenken.",
+          "tr": "Lütfen bir saniye düşüneyim.",
+          "en": "Please let me think for a moment.",
+          "fr": "Laisse-moi réfléchir un instant, s'il te plaît.",
+          "it": "Lasciami pensare un attimo, per favore.",
+          "es": "Déjame pensar un momento, por favor."
+        },
+        {
+          "de": "Ich habe mein Fahrrad reparieren [lassen].",
+          "tr": "Bisikletimi tamir ettirdim.",
+          "en": "I had my bike repaired.",
+          "fr": "J'ai fait réparer mon vélo.",
+          "it": "Ho fatto riparare la bici.",
+          "es": "Mandé arreglar mi bicicleta."
+        }
+      ]
+    },
+    {
+      "id": "verlassen",
+      "pos": "verb",
+      "parent": "lassen",
+      "parts": [
+        "ver-",
+        "lass",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to leave (a place, a person); sich verlassen auf: to rely on",
+        "tr": "terk etmek, ayrılmak; sich verlassen auf: güvenmek",
+        "de": "von einem Ort oder einer Person weggehen; sich verlassen auf: fest vertrauen",
+        "fr": "quitter ; sich verlassen auf : compter sur",
+        "it": "lasciare, abbandonare; sich verlassen auf: contare su",
+        "es": "abandonar, dejar; sich verlassen auf: contar con"
+      },
+      "sentences": [
+        {
+          "de": "Sie [verließ] das Haus schon um sechs Uhr.",
+          "tr": "Evden daha saat altıda çıktı.",
+          "en": "She left the house as early as six.",
+          "fr": "Elle a quitté la maison dès six heures.",
+          "it": "È uscita di casa già alle sei.",
+          "es": "Salió de casa ya a las seis."
+        },
+        {
+          "de": "Auf ihn kann man sich immer [verlassen].",
+          "tr": "Ona her zaman güvenilebilir.",
+          "en": "You can always rely on him.",
+          "fr": "On peut toujours compter sur lui.",
+          "it": "Si può sempre contare su di lui.",
+          "es": "Siempre se puede contar con él."
+        }
+      ]
+    },
+    {
+      "id": "zuverlässig",
+      "pos": "adjective",
+      "parent": "verlassen",
+      "parts": [
+        "zu-",
+        "ver-",
+        "läss",
+        "-ig"
+      ],
+      "gloss": {
+        "en": "reliable, dependable",
+        "tr": "güvenilir",
+        "de": "so, dass man sich darauf verlassen kann",
+        "fr": "fiable",
+        "it": "affidabile",
+        "es": "fiable"
+      },
+      "sentences": [
+        {
+          "de": "Das alte Auto ist immer noch sehr [zuverlässig].",
+          "tr": "Eski araba hâlâ çok güvenilir.",
+          "en": "The old car is still very reliable.",
+          "fr": "La vieille voiture est toujours très fiable.",
+          "it": "La vecchia macchina è ancora molto affidabile.",
+          "es": "El coche viejo sigue siendo muy fiable."
+        },
+        {
+          "de": "Wir suchen eine [zuverlässige] Person für das Labor.",
+          "tr": "Laboratuvar için güvenilir birini arıyoruz.",
+          "en": "We're looking for a reliable person for the lab.",
+          "fr": "Nous cherchons une personne fiable pour le laboratoire.",
+          "it": "Cerchiamo una persona affidabile per il laboratorio.",
+          "es": "Buscamos a una persona fiable para el laboratorio."
+        }
+      ]
+    },
+    {
+      "id": "zulassen",
+      "pos": "verb",
+      "parent": "lassen",
+      "parts": [
+        "zu-",
+        "lass",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to allow; to admit, to register officially",
+        "tr": "izin vermek; resmen kabul etmek",
+        "de": "etwas erlauben; jemandem offiziell den Zugang geben",
+        "fr": "permettre ; admettre",
+        "it": "permettere; ammettere",
+        "es": "permitir; admitir"
+      },
+      "sentences": [
+        {
+          "de": "Das werde ich auf keinen Fall [zulassen].",
+          "tr": "Buna asla izin vermeyeceğim.",
+          "en": "I will not allow that under any circumstances.",
+          "fr": "Je ne le permettrai en aucun cas.",
+          "it": "Non lo permetterò in nessun caso.",
+          "es": "No lo permitiré de ninguna manera."
+        },
+        {
+          "de": "Zur Prüfung wurden nur zwanzig Studenten [zugelassen].",
+          "tr": "Sınava yalnızca yirmi öğrenci kabul edildi.",
+          "en": "Only twenty students were admitted to the exam.",
+          "fr": "Seuls vingt étudiants ont été admis à l'examen.",
+          "it": "Solo venti studenti sono stati ammessi all'esame.",
+          "es": "Solo veinte estudiantes fueron admitidos al examen."
+        }
+      ]
+    },
+    {
+      "id": "Zulassung",
+      "pos": "noun",
+      "parent": "zulassen",
+      "parts": [
+        "zu-",
+        "lass",
+        "-ung"
+      ],
+      "gloss": {
+        "en": "admission; official approval, registration",
+        "tr": "kabul; resmî izin, ruhsat",
+        "de": "die offizielle Erlaubnis, etwas zu tun oder teilzunehmen",
+        "fr": "l'admission ; l'autorisation",
+        "it": "l'ammissione; l'autorizzazione",
+        "es": "la admisión; la autorización"
+      },
+      "sentences": [
+        {
+          "de": "Gestern kam die [Zulassung] für das Masterstudium.",
+          "tr": "Yüksek lisans kabulü dün geldi.",
+          "en": "The admission to the master's programme arrived yesterday.",
+          "fr": "L'admission en master est arrivée hier.",
+          "it": "Ieri è arrivata l'ammissione alla magistrale.",
+          "es": "Ayer llegó la admisión al máster."
+        },
+        {
+          "de": "Ohne [Zulassung] darf das Auto nicht fahren.",
+          "tr": "Ruhsatsız araba trafiğe çıkamaz.",
+          "en": "Without registration the car may not be driven.",
+          "fr": "Sans immatriculation, la voiture ne peut pas rouler.",
+          "it": "Senza immatricolazione l'auto non può circolare.",
+          "es": "Sin matriculación el coche no puede circular."
+        }
+      ]
+    },
+    {
+      "id": "zulässig",
+      "pos": "adjective",
+      "parent": "zulassen",
+      "parts": [
+        "zu-",
+        "läss",
+        "-ig"
+      ],
+      "gloss": {
+        "en": "permitted, allowed",
+        "tr": "izin verilen, caiz",
+        "de": "erlaubt, nach den Regeln möglich",
+        "fr": "autorisé, admissible",
+        "it": "consentito, ammesso",
+        "es": "permitido, admisible"
+      },
+      "sentences": [
+        {
+          "de": "Das [zulässige] Gewicht für Koffer ist 23 Kilo.",
+          "tr": "Bavullar için izin verilen ağırlık 23 kilo.",
+          "en": "The permitted weight for suitcases is 23 kilos.",
+          "fr": "Le poids autorisé pour les valises est de 23 kilos.",
+          "it": "Il peso consentito per le valigie è di 23 chili.",
+          "es": "El peso permitido para las maletas es de 23 kilos."
+        },
+        {
+          "de": "In der Prüfung sind Taschenrechner nicht [zulässig].",
+          "tr": "Sınavda hesap makinesine izin yok.",
+          "en": "Calculators are not allowed in the exam.",
+          "fr": "Les calculatrices ne sont pas autorisées à l'examen.",
+          "it": "All'esame le calcolatrici non sono ammesse.",
+          "es": "En el examen no se permiten calculadoras."
+        }
+      ]
+    },
+    {
+      "id": "entlassen",
+      "pos": "verb",
+      "parent": "lassen",
+      "parts": [
+        "ent-",
+        "lass",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to dismiss, to fire; to discharge, to release",
+        "tr": "işten çıkarmak; taburcu etmek, salıvermek",
+        "de": "jemandem die Arbeit kündigen; jemanden gehen lassen (aus Klinik, Gefängnis)",
+        "fr": "licencier ; laisser sortir",
+        "it": "licenziare; dimettere",
+        "es": "despedir; dar de alta"
+      },
+      "sentences": [
+        {
+          "de": "Die Firma musste fünfzig Mitarbeiter [entlassen].",
+          "tr": "Şirket elli çalışanı işten çıkarmak zorunda kaldı.",
+          "en": "The company had to lay off fifty employees.",
+          "fr": "L'entreprise a dû licencier cinquante employés.",
+          "it": "L'azienda ha dovuto licenziare cinquanta dipendenti.",
+          "es": "La empresa tuvo que despedir a cincuenta empleados."
+        },
+        {
+          "de": "Morgen wird Oma aus dem Krankenhaus [entlassen].",
+          "tr": "Babaannem yarın hastaneden taburcu ediliyor.",
+          "en": "Grandma will be discharged from hospital tomorrow.",
+          "fr": "Mamie sort de l'hôpital demain.",
+          "it": "Domani la nonna viene dimessa dall'ospedale.",
+          "es": "Mañana le dan el alta a la abuela."
+        }
+      ]
+    },
+    {
+      "id": "Entlassung",
+      "pos": "noun",
+      "parent": "entlassen",
+      "parts": [
+        "ent-",
+        "lass",
+        "-ung"
+      ],
+      "gloss": {
+        "en": "dismissal; discharge, release",
+        "tr": "işten çıkarma; taburcu edilme, tahliye",
+        "de": "das Ende einer Stelle durch den Arbeitgeber; das Gehenlassen aus Klinik oder Gefängnis",
+        "fr": "le licenciement ; la sortie",
+        "it": "il licenziamento; la dimissione",
+        "es": "el despido; el alta"
+      },
+      "sentences": [
+        {
+          "de": "Nach seiner [Entlassung] suchte er lange Arbeit.",
+          "tr": "İşten çıkarıldıktan sonra uzun süre iş aradı.",
+          "en": "After his dismissal he looked for work for a long time.",
+          "fr": "Après son licenciement, il a longtemps cherché du travail.",
+          "it": "Dopo il licenziamento ha cercato lavoro a lungo.",
+          "es": "Tras su despido buscó trabajo durante mucho tiempo."
+        },
+        {
+          "de": "Die [Entlassung] aus der Klinik ist am Freitag.",
+          "tr": "Klinikten taburcu olma cuma günü.",
+          "en": "The discharge from the clinic is on Friday.",
+          "fr": "La sortie de la clinique est prévue vendredi.",
+          "it": "La dimissione dalla clinica è venerdì.",
+          "es": "El alta de la clínica es el viernes."
+        }
+      ]
+    },
+    {
+      "id": "überlassen",
+      "pos": "verb",
+      "parent": "lassen",
+      "parts": [
+        "über-",
+        "lass",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to leave something to someone; to let someone have",
+        "tr": "bırakmak, devretmek",
+        "de": "jemandem etwas geben oder ihn entscheiden lassen",
+        "fr": "laisser, céder",
+        "it": "lasciare, cedere",
+        "es": "dejar, ceder"
+      },
+      "sentences": [
+        {
+          "de": "Die Entscheidung [überlasse] ich dir.",
+          "tr": "Kararı sana bırakıyorum.",
+          "en": "I'll leave the decision to you.",
+          "fr": "Je te laisse la décision.",
+          "it": "Lascio a te la decisione.",
+          "es": "Te dejo la decisión a ti."
+        },
+        {
+          "de": "Er hat mir sein altes Fahrrad [überlassen].",
+          "tr": "Eski bisikletini bana bıraktı.",
+          "en": "He let me have his old bike.",
+          "fr": "Il m'a laissé son vieux vélo.",
+          "it": "Mi ha lasciato la sua vecchia bici.",
+          "es": "Me dejó su vieja bicicleta."
+        }
+      ]
+    },
+    {
+      "id": "hinterlassen",
+      "pos": "verb",
+      "parent": "lassen",
+      "parts": [
+        "hinter-",
+        "lass",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to leave behind (a message, a trace, an inheritance)",
+        "tr": "geride bırakmak",
+        "de": "etwas zurücklassen, wenn man weggeht oder stirbt",
+        "fr": "laisser (derrière soi)",
+        "it": "lasciare (dietro di sé)",
+        "es": "dejar (tras de sí)"
+      },
+      "sentences": [
+        {
+          "de": "Bitte [hinterlassen] Sie eine Nachricht nach dem Ton.",
+          "tr": "Lütfen sinyal sesinden sonra mesaj bırakın.",
+          "en": "Please leave a message after the tone.",
+          "fr": "Veuillez laisser un message après le bip.",
+          "it": "Lasciate un messaggio dopo il segnale.",
+          "es": "Por favor, deje un mensaje después de la señal."
+        },
+        {
+          "de": "Die Schuhe [hinterließen] Spuren auf dem Boden.",
+          "tr": "Ayakkabılar yerde iz bıraktı.",
+          "en": "The shoes left marks on the floor.",
+          "fr": "Les chaussures ont laissé des traces sur le sol.",
+          "it": "Le scarpe hanno lasciato tracce sul pavimento.",
+          "es": "Los zapatos dejaron huellas en el suelo."
+        }
+      ]
+    },
+    {
+      "id": "unterlassen",
+      "pos": "verb",
+      "parent": "lassen",
+      "parts": [
+        "unter-",
+        "lass",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to refrain from, to fail to do",
+        "tr": "yapmamak, kaçınmak",
+        "de": "etwas absichtlich nicht tun",
+        "fr": "s'abstenir de, omettre",
+        "it": "astenersi da, omettere",
+        "es": "abstenerse de, omitir"
+      },
+      "sentences": [
+        {
+          "de": "Bitte [unterlassen] Sie das Rauchen im Flur.",
+          "tr": "Lütfen koridorda sigara içmeyin.",
+          "en": "Please refrain from smoking in the corridor.",
+          "fr": "Veuillez vous abstenir de fumer dans le couloir.",
+          "it": "Si prega di non fumare nel corridoio.",
+          "es": "Por favor, absténgase de fumar en el pasillo."
+        },
+        {
+          "de": "Er hat es [unterlassen], den Chef zu informieren.",
+          "tr": "Patronu bilgilendirmeyi ihmal etti.",
+          "en": "He failed to inform the boss.",
+          "fr": "Il a omis d'informer le chef.",
+          "it": "Ha omesso di informare il capo.",
+          "es": "Omitió informar al jefe."
+        }
+      ]
+    },
+    {
+      "id": "nachlassen",
+      "pos": "verb",
+      "parent": "lassen",
+      "parts": [
+        "nach-",
+        "lass",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to ease off, to weaken, to decrease",
+        "tr": "azalmak, hafiflemek",
+        "de": "schwächer oder weniger werden",
+        "fr": "diminuer, faiblir",
+        "it": "diminuire, calare",
+        "es": "disminuir, aflojar"
+      },
+      "sentences": [
+        {
+          "de": "Am Abend hat der Regen endlich [nachgelassen].",
+          "tr": "Akşam yağmur nihayet hafifledi.",
+          "en": "In the evening the rain finally eased off.",
+          "fr": "Le soir, la pluie a enfin diminué.",
+          "it": "La sera la pioggia è finalmente calata.",
+          "es": "Por la tarde la lluvia por fin aflojó."
+        },
+        {
+          "de": "Die Schmerzen werden bald [nachlassen].",
+          "tr": "Ağrılar yakında azalacak.",
+          "en": "The pain will ease soon.",
+          "fr": "Les douleurs vont bientôt s'atténuer.",
+          "it": "I dolori diminuiranno presto.",
+          "es": "Los dolores disminuirán pronto."
+        }
+      ]
+    },
+    {
+      "id": "Nachlass",
+      "pos": "noun",
+      "parent": "nachlassen",
+      "parts": [
+        "nach-",
+        "lass"
+      ],
+      "gloss": {
+        "en": "discount; estate (of a dead person)",
+        "tr": "indirim; tereke, miras",
+        "de": "eine Senkung des Preises; alles, was ein Toter hinterlässt",
+        "fr": "la remise ; la succession",
+        "it": "lo sconto; l'eredità",
+        "es": "el descuento; la herencia"
+      },
+      "sentences": [
+        {
+          "de": "Bei Barzahlung gibt es zehn Prozent [Nachlass].",
+          "tr": "Nakit ödemede yüzde on indirim var.",
+          "en": "There's a ten percent discount for cash payment.",
+          "fr": "Il y a dix pour cent de remise en cas de paiement comptant.",
+          "it": "Pagando in contanti c'è il dieci per cento di sconto.",
+          "es": "Pagando en efectivo hay un diez por ciento de descuento."
+        },
+        {
+          "de": "Im [Nachlass] des Malers fand man hundert Bilder.",
+          "tr": "Ressamın terekesinde yüz tablo bulundu.",
+          "en": "A hundred pictures were found in the painter's estate.",
+          "fr": "On a trouvé cent tableaux dans la succession du peintre.",
+          "it": "Nell'eredità del pittore sono stati trovati cento quadri.",
+          "es": "En la herencia del pintor se encontraron cien cuadros."
+        }
+      ]
+    },
+    {
+      "id": "nachlässig",
+      "pos": "adjective",
+      "parent": "nachlassen",
+      "parts": [
+        "nach-",
+        "läss",
+        "-ig"
+      ],
+      "gloss": {
+        "en": "careless, negligent",
+        "tr": "özensiz, ihmalkâr",
+        "de": "ohne Sorgfalt, nicht genau",
+        "fr": "négligent",
+        "it": "trascurato, negligente",
+        "es": "descuidado, negligente"
+      },
+      "sentences": [
+        {
+          "de": "Der Bericht war sehr [nachlässig] geschrieben.",
+          "tr": "Rapor çok özensiz yazılmıştı.",
+          "en": "The report was written very carelessly.",
+          "fr": "Le rapport était rédigé avec beaucoup de négligence.",
+          "it": "La relazione era scritta in modo molto trascurato.",
+          "es": "El informe estaba escrito con mucho descuido."
+        },
+        {
+          "de": "Mit seinen Schlüsseln geht er [nachlässig] um.",
+          "tr": "Anahtarlarına karşı özensiz davranıyor.",
+          "en": "He's careless with his keys.",
+          "fr": "Il est négligent avec ses clés.",
+          "it": "È sbadato con le sue chiavi.",
+          "es": "Es descuidado con sus llaves."
+        }
+      ]
+    },
+    {
+      "id": "Anlass",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "an-",
+        "lass"
+      ],
+      "gloss": {
+        "en": "occasion; reason, cause",
+        "tr": "vesile; sebep",
+        "de": "der Grund oder die Gelegenheit für etwas",
+        "fr": "l'occasion ; le motif",
+        "it": "l'occasione; il motivo",
+        "es": "la ocasión; el motivo"
+      },
+      "sentences": [
+        {
+          "de": "Zu diesem [Anlass] trug sie ein langes Kleid.",
+          "tr": "Bu vesileyle uzun bir elbise giydi.",
+          "en": "For this occasion she wore a long dress.",
+          "fr": "Pour cette occasion, elle portait une robe longue.",
+          "it": "Per questa occasione indossava un abito lungo.",
+          "es": "Para esta ocasión llevaba un vestido largo."
+        },
+        {
+          "de": "Es gibt keinen [Anlass] zur Sorge.",
+          "tr": "Endişelenmek için bir sebep yok.",
+          "en": "There is no cause for concern.",
+          "fr": "Il n'y a aucune raison de s'inquiéter.",
+          "it": "Non c'è motivo di preoccuparsi.",
+          "es": "No hay motivo de preocupación."
+        }
+      ]
+    },
+    {
+      "id": "auslassen",
+      "pos": "verb",
+      "parent": "lassen",
+      "parts": [
+        "aus-",
+        "lass",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to leave out, to skip",
+        "tr": "atlamak, dışarıda bırakmak",
+        "de": "etwas nicht nehmen, nicht sagen oder nicht schreiben",
+        "fr": "omettre, sauter",
+        "it": "omettere, saltare",
+        "es": "omitir, saltarse"
+      },
+      "sentences": [
+        {
+          "de": "Du hast in der Liste einen Namen [ausgelassen].",
+          "tr": "Listede bir ismi atlamışsın.",
+          "en": "You left out a name in the list.",
+          "fr": "Tu as oublié un nom dans la liste.",
+          "it": "Hai saltato un nome nella lista.",
+          "es": "Te has saltado un nombre en la lista."
+        },
+        {
+          "de": "Das Frühstück sollte man nicht [auslassen].",
+          "tr": "Kahvaltı atlanmamalı.",
+          "en": "You shouldn't skip breakfast.",
+          "fr": "Il ne faut pas sauter le petit-déjeuner.",
+          "it": "Non bisognerebbe saltare la colazione.",
+          "es": "No hay que saltarse el desayuno."
+        }
+      ]
+    },
+    {
+      "id": "loslassen",
+      "pos": "verb",
+      "parent": "lassen",
+      "parts": [
+        "los-",
+        "lass",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to let go (of)",
+        "tr": "bırakmak, salıvermek",
+        "de": "etwas nicht mehr festhalten",
+        "fr": "lâcher",
+        "it": "lasciare andare, mollare",
+        "es": "soltar"
+      },
+      "sentences": [
+        {
+          "de": "Du darfst das Seil jetzt nicht [loslassen]!",
+          "tr": "Şimdi ipi bırakmamalısın!",
+          "en": "You mustn't let go of the rope now!",
+          "fr": "Tu ne dois pas lâcher la corde maintenant !",
+          "it": "Adesso non devi mollare la corda!",
+          "es": "¡Ahora no puedes soltar la cuerda!"
+        },
+        {
+          "de": "Der Gedanke hat mich tagelang nicht [losgelassen].",
+          "tr": "Bu düşünce günlerce aklımdan çıkmadı.",
+          "en": "The thought wouldn't let go of me for days.",
+          "fr": "Cette idée ne m'a pas lâché pendant des jours.",
+          "it": "Quel pensiero non mi ha lasciato per giorni.",
+          "es": "Esa idea no me soltó durante días."
+        }
+      ]
+    },
+    {
+      "id": "weglassen",
+      "pos": "verb",
+      "parent": "lassen",
+      "parts": [
+        "weg-",
+        "lass",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to leave out, to omit",
+        "tr": "çıkarmak, kullanmamak",
+        "de": "etwas nicht verwenden oder nicht erwähnen",
+        "fr": "supprimer, laisser de côté",
+        "it": "togliere, tralasciare",
+        "es": "quitar, omitir"
+      },
+      "sentences": [
+        {
+          "de": "Den Zucker kannst du ruhig [weglassen].",
+          "tr": "Şekeri rahatlıkla koymayabilirsin.",
+          "en": "You can happily leave out the sugar.",
+          "fr": "Tu peux très bien te passer du sucre.",
+          "it": "Lo zucchero puoi tranquillamente toglierlo.",
+          "es": "Puedes quitar el azúcar sin problema."
+        },
+        {
+          "de": "Im zweiten Entwurf wurde das Kapitel [weggelassen].",
+          "tr": "İkinci taslakta o bölüm çıkarıldı.",
+          "en": "In the second draft the chapter was left out.",
+          "fr": "Dans la deuxième version, le chapitre a été supprimé.",
+          "it": "Nella seconda bozza il capitolo è stato tolto.",
+          "es": "En el segundo borrador se omitió el capítulo."
+        }
+      ]
+    },
+    {
+      "id": "Einlass",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "ein-",
+        "lass"
+      ],
+      "gloss": {
+        "en": "admission, entry (letting people in)",
+        "tr": "giriş, içeri alma",
+        "de": "der Moment, ab dem man hineingehen darf; der Zutritt",
+        "fr": "l'entrée, l'ouverture des portes",
+        "it": "l'ingresso, l'apertura delle porte",
+        "es": "la entrada, la apertura de puertas"
+      },
+      "sentences": [
+        {
+          "de": "[Einlass] ist ab neunzehn Uhr.",
+          "tr": "Kapılar saat on dokuzda açılıyor.",
+          "en": "Doors open at seven p.m.",
+          "fr": "L'ouverture des portes est à dix-neuf heures.",
+          "it": "L'ingresso è dalle diciannove.",
+          "es": "La apertura de puertas es a las siete de la tarde."
+        },
+        {
+          "de": "Ohne Ticket bekommt niemand [Einlass].",
+          "tr": "Biletsiz kimse içeri alınmıyor.",
+          "en": "Nobody gets in without a ticket.",
+          "fr": "Personne n'entre sans billet.",
+          "it": "Senza biglietto non entra nessuno.",
+          "es": "Sin entrada no pasa nadie."
+        }
+      ]
+    },
+    {
+      "id": "gelassen",
+      "pos": "adjective",
+      "parent": "lassen",
+      "parts": [
+        "ge-",
+        "lass",
+        "-en"
+      ],
+      "gloss": {
+        "en": "calm, composed, relaxed",
+        "tr": "sakin, soğukkanlı",
+        "de": "ruhig, ohne Aufregung",
+        "fr": "calme, serein",
+        "it": "calmo, sereno",
+        "es": "tranquilo, sereno"
+      },
+      "sentences": [
+        {
+          "de": "Vor der Prüfung blieb sie ganz [gelassen].",
+          "tr": "Sınavdan önce gayet sakin kaldı.",
+          "en": "She stayed completely calm before the exam.",
+          "fr": "Elle est restée très calme avant l'examen.",
+          "it": "Prima dell'esame è rimasta del tutto calma.",
+          "es": "Antes del examen se mantuvo muy tranquila."
+        },
+        {
+          "de": "Er reagierte [gelassen] auf die Kritik.",
+          "tr": "Eleştiriye soğukkanlılıkla karşılık verdi.",
+          "en": "He reacted calmly to the criticism.",
+          "fr": "Il a réagi sereinement à la critique.",
+          "it": "Ha reagito con calma alle critiche.",
+          "es": "Reaccionó con calma ante las críticas."
+        }
+      ]
+    }
+  ]
+}
