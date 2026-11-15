@@ -1,0 +1,1104 @@
+{
+  "id": "mod",
+  "addedBy": "writerforight",
+  "forms": [
+    "mod",
+    "mode",
+    "moder",
+    "modest"
+  ],
+  "origin": "la",
+  "etymon": "modus",
+  "meaning": {
+    "en": "measure, manner",
+    "tr": "ölçü, tarz",
+    "de": "Maß, Art und Weise",
+    "fr": "mesure, manière",
+    "it": "misura, modo",
+    "es": "medida, modo"
+  },
+  "words": [
+    {
+      "id": "mode",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "mode"
+      ],
+      "gloss": {
+        "en": "a way of doing something; a setting on a device (literally: a measure, a manner)",
+        "tr": "tarz, biçim; mod, ayar",
+        "de": "die Art und Weise; der Modus",
+        "fr": "le mode, la manière",
+        "it": "il modo, la modalità",
+        "es": "el modo, la modalidad"
+      },
+      "sentences": [
+        {
+          "en": "Put your phone in silent [mode] during the film.",
+          "tr": "Film boyunca telefonunu sessiz moda al.",
+          "de": "Stell dein Handy während des Films auf lautlos.",
+          "fr": "Mets ton téléphone en mode silencieux pendant le film.",
+          "it": "Metti il telefono in modalità silenziosa durante il film.",
+          "es": "Pon el móvil en modo silencio durante la película."
+        },
+        {
+          "en": "The train is my favourite [mode] of transport.",
+          "tr": "Tren en sevdiğim ulaşım biçimi.",
+          "de": "Der Zug ist mein liebstes Verkehrsmittel.",
+          "fr": "Le train est mon mode de transport préféré.",
+          "it": "Il treno è il mio mezzo di trasporto preferito.",
+          "es": "El tren es mi medio de transporte favorito."
+        }
+      ]
+    },
+    {
+      "id": "modal",
+      "pos": "adjective",
+      "parent": "mode",
+      "parts": [
+        "mod",
+        "-al"
+      ],
+      "gloss": {
+        "en": "relating to the manner of something; (grammar) showing possibility or necessity, like can and must",
+        "tr": "kiple ilgili; kipsel",
+        "de": "modal, die Art und Weise betreffend",
+        "fr": "modal",
+        "it": "modale",
+        "es": "modal"
+      },
+      "sentences": [
+        {
+          "en": "\"Can\" and \"must\" are [modal] verbs.",
+          "tr": "\"Can\" ve \"must\" kip fiilleridir.",
+          "de": "„Can“ und „must“ sind Modalverben.",
+          "fr": "« Can » et « must » sont des verbes modaux.",
+          "it": "\"Can\" e \"must\" sono verbi modali.",
+          "es": "\"Can\" y \"must\" son verbos modales."
+        },
+        {
+          "en": "We practised [modal] verbs in class today.",
+          "tr": "Bugün derste kip fiillerini çalıştık.",
+          "de": "Wir haben heute im Unterricht Modalverben geübt.",
+          "fr": "Nous avons travaillé les verbes modaux en classe aujourd'hui.",
+          "it": "Oggi in classe abbiamo esercitato i verbi modali.",
+          "es": "Hoy practicamos los verbos modales en clase."
+        }
+      ]
+    },
+    {
+      "id": "modality",
+      "pos": "noun",
+      "parent": "modal",
+      "parts": [
+        "mod",
+        "-al",
+        "-ity"
+      ],
+      "gloss": {
+        "en": "a particular way in which something is done or experienced",
+        "tr": "yöntem, biçim; kiplik",
+        "de": "die Modalität",
+        "fr": "la modalité",
+        "it": "la modalità",
+        "es": "la modalidad"
+      },
+      "sentences": [
+        {
+          "en": "The clinic offers more than one treatment [modality].",
+          "tr": "Klinik birden fazla tedavi yöntemi sunuyor.",
+          "de": "Die Klinik bietet mehr als eine Behandlungsform an.",
+          "fr": "La clinique propose plus d'une modalité de traitement.",
+          "it": "La clinica offre più di una modalità di cura.",
+          "es": "La clínica ofrece más de una modalidad de tratamiento."
+        },
+        {
+          "en": "Sight is the [modality] we rely on most.",
+          "tr": "Görme, en çok güvendiğimiz duyu biçimidir.",
+          "de": "Das Sehen ist die Sinnesmodalität, auf die wir uns am meisten verlassen.",
+          "fr": "La vue est la modalité sensorielle sur laquelle nous comptons le plus.",
+          "it": "La vista è la modalità sensoriale su cui contiamo di più.",
+          "es": "La vista es la modalidad sensorial en la que más confiamos."
+        }
+      ]
+    },
+    {
+      "id": "model",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "mod",
+        "-el"
+      ],
+      "gloss": {
+        "en": "a small copy of something; an example to follow; a person who shows clothes (literally: a small measure)",
+        "tr": "model, maket; örnek; manken",
+        "de": "das Modell; das Vorbild; das Model",
+        "fr": "le modèle; la maquette; le mannequin",
+        "it": "il modello; la modella",
+        "es": "el modelo; la maqueta; la modelo"
+      },
+      "sentences": [
+        {
+          "en": "He built a [model] of the ship from wood.",
+          "tr": "Geminin ahşaptan bir maketini yaptı.",
+          "de": "Er baute ein Modell des Schiffs aus Holz.",
+          "fr": "Il a construit une maquette du bateau en bois.",
+          "it": "Ha costruito un modello della nave in legno.",
+          "es": "Construyó una maqueta del barco en madera."
+        },
+        {
+          "en": "This is the newest [model] of the phone.",
+          "tr": "Bu, telefonun en yeni modeli.",
+          "de": "Das ist das neueste Modell des Handys.",
+          "fr": "C'est le tout dernier modèle du téléphone.",
+          "it": "Questo è il modello più recente del telefono.",
+          "es": "Este es el modelo más nuevo del teléfono."
+        },
+        {
+          "en": "Her older sister was a [model] for her.",
+          "tr": "Ablası onun için bir örnekti.",
+          "de": "Ihre ältere Schwester war ein Vorbild für sie.",
+          "fr": "Sa grande sœur était un modèle pour elle.",
+          "it": "Sua sorella maggiore era un modello per lei.",
+          "es": "Su hermana mayor era un modelo para ella."
+        }
+      ]
+    },
+    {
+      "id": "remodel",
+      "pos": "verb",
+      "parent": "model",
+      "parts": [
+        "re-",
+        "mod",
+        "-el"
+      ],
+      "gloss": {
+        "en": "to change the shape or structure of something, especially a building",
+        "tr": "yeniden biçimlendirmek, tadilat yapmak",
+        "de": "umbauen, umgestalten",
+        "fr": "réaménager, transformer",
+        "it": "ristrutturare, rimodellare",
+        "es": "reformar, remodelar"
+      },
+      "sentences": [
+        {
+          "en": "They [remodelled] the kitchen last summer.",
+          "tr": "Geçen yaz mutfağı yenilediler.",
+          "de": "Sie haben letzten Sommer die Küche umgebaut.",
+          "fr": "Ils ont réaménagé la cuisine l'été dernier.",
+          "it": "L'estate scorsa hanno ristrutturato la cucina.",
+          "es": "Reformaron la cocina el verano pasado."
+        },
+        {
+          "en": "We want to [remodel] the old bathroom.",
+          "tr": "Eski banyoyu yenilemek istiyoruz.",
+          "de": "Wir wollen das alte Bad umbauen.",
+          "fr": "Nous voulons refaire la vieille salle de bains.",
+          "it": "Vogliamo ristrutturare il vecchio bagno.",
+          "es": "Queremos reformar el baño viejo."
+        }
+      ]
+    },
+    {
+      "id": "modern",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "mod",
+        "-ern"
+      ],
+      "gloss": {
+        "en": "of the present time; using new ideas or methods (literally: of just now)",
+        "tr": "modern, çağdaş",
+        "de": "modern, zeitgemäß",
+        "fr": "moderne",
+        "it": "moderno",
+        "es": "moderno"
+      },
+      "sentences": [
+        {
+          "en": "The city has a [modern] train station.",
+          "tr": "Şehrin modern bir tren istasyonu var.",
+          "de": "Die Stadt hat einen modernen Bahnhof.",
+          "fr": "La ville a une gare moderne.",
+          "it": "La città ha una stazione ferroviaria moderna.",
+          "es": "La ciudad tiene una estación de tren moderna."
+        },
+        {
+          "en": "[Modern] phones are small computers.",
+          "tr": "Modern telefonlar küçük bilgisayarlardır.",
+          "de": "Moderne Handys sind kleine Computer.",
+          "fr": "Les téléphones modernes sont de petits ordinateurs.",
+          "it": "I telefoni moderni sono piccoli computer.",
+          "es": "Los teléfonos modernos son pequeños ordenadores."
+        }
+      ]
+    },
+    {
+      "id": "modernize",
+      "pos": "verb",
+      "parent": "modern",
+      "parts": [
+        "mod",
+        "-ern",
+        "-ize"
+      ],
+      "gloss": {
+        "en": "to make something more modern",
+        "tr": "modernleştirmek",
+        "de": "modernisieren",
+        "fr": "moderniser",
+        "it": "modernizzare",
+        "es": "modernizar"
+      },
+      "sentences": [
+        {
+          "en": "The school plans to [modernize] its classrooms.",
+          "tr": "Okul sınıflarını modernleştirmeyi planlıyor.",
+          "de": "Die Schule plant, ihre Klassenzimmer zu modernisieren.",
+          "fr": "L'école prévoit de moderniser ses salles de classe.",
+          "it": "La scuola intende modernizzare le aule.",
+          "es": "El colegio planea modernizar sus aulas."
+        },
+        {
+          "en": "The company [modernized] its factory with new machines.",
+          "tr": "Şirket fabrikasını yeni makinelerle modernleştirdi.",
+          "de": "Die Firma hat ihre Fabrik mit neuen Maschinen modernisiert.",
+          "fr": "L'entreprise a modernisé son usine avec de nouvelles machines.",
+          "it": "L'azienda ha modernizzato la fabbrica con nuove macchine.",
+          "es": "La empresa modernizó su fábrica con máquinas nuevas."
+        }
+      ]
+    },
+    {
+      "id": "modernization",
+      "pos": "noun",
+      "parent": "modernize",
+      "parts": [
+        "mod",
+        "-ern",
+        "-ization"
+      ],
+      "gloss": {
+        "en": "the process of making something modern",
+        "tr": "modernleşme, modernleştirme",
+        "de": "die Modernisierung",
+        "fr": "la modernisation",
+        "it": "la modernizzazione",
+        "es": "la modernización"
+      },
+      "sentences": [
+        {
+          "en": "The [modernization] of the railway took ten years.",
+          "tr": "Demiryolunun modernleştirilmesi on yıl sürdü.",
+          "de": "Die Modernisierung der Eisenbahn dauerte zehn Jahre.",
+          "fr": "La modernisation du chemin de fer a pris dix ans.",
+          "it": "La modernizzazione della ferrovia ha richiesto dieci anni.",
+          "es": "La modernización del ferrocarril duró diez años."
+        },
+        {
+          "en": "The old hospital needs [modernization].",
+          "tr": "Eski hastanenin modernleştirilmesi gerekiyor.",
+          "de": "Das alte Krankenhaus muss modernisiert werden.",
+          "fr": "Le vieil hôpital a besoin d'être modernisé.",
+          "it": "Il vecchio ospedale ha bisogno di essere modernizzato.",
+          "es": "El viejo hospital necesita una modernización."
+        }
+      ]
+    },
+    {
+      "id": "modernity",
+      "pos": "noun",
+      "parent": "modern",
+      "parts": [
+        "mod",
+        "-ern",
+        "-ity"
+      ],
+      "gloss": {
+        "en": "the state of being modern; the modern age",
+        "tr": "modernlik, çağdaşlık",
+        "de": "die Moderne, die Modernität",
+        "fr": "la modernité",
+        "it": "la modernità",
+        "es": "la modernidad"
+      },
+      "sentences": [
+        {
+          "en": "The glass tower became a symbol of [modernity].",
+          "tr": "Cam kule modernliğin simgesi oldu.",
+          "de": "Der Glasturm wurde zum Symbol der Moderne.",
+          "fr": "La tour de verre est devenue un symbole de modernité.",
+          "it": "La torre di vetro è diventata un simbolo di modernità.",
+          "es": "La torre de cristal se convirtió en símbolo de modernidad."
+        },
+        {
+          "en": "The village mixes tradition with [modernity].",
+          "tr": "Köy geleneği modernlikle harmanlıyor.",
+          "de": "Das Dorf verbindet Tradition mit Moderne.",
+          "fr": "Le village mêle tradition et modernité.",
+          "it": "Il paese unisce tradizione e modernità.",
+          "es": "El pueblo mezcla tradición y modernidad."
+        }
+      ]
+    },
+    {
+      "id": "modernism",
+      "pos": "noun",
+      "parent": "modern",
+      "parts": [
+        "mod",
+        "-ern",
+        "-ism"
+      ],
+      "gloss": {
+        "en": "a movement in art and writing that broke with older styles",
+        "tr": "modernizm",
+        "de": "der Modernismus, die Moderne",
+        "fr": "le modernisme",
+        "it": "il modernismo",
+        "es": "el modernismo"
+      },
+      "sentences": [
+        {
+          "en": "The museum has a room on [modernism].",
+          "tr": "Müzede modernizme ayrılmış bir salon var.",
+          "de": "Das Museum hat einen Raum zur Moderne.",
+          "fr": "Le musée a une salle consacrée au modernisme.",
+          "it": "Il museo ha una sala dedicata al modernismo.",
+          "es": "El museo tiene una sala dedicada al modernismo."
+        },
+        {
+          "en": "[Modernism] changed how people painted and wrote.",
+          "tr": "Modernizm insanların resim yapma ve yazma biçimini değiştirdi.",
+          "de": "Die Moderne veränderte, wie Menschen malten und schrieben.",
+          "fr": "Le modernisme a changé la façon de peindre et d'écrire.",
+          "it": "Il modernismo ha cambiato il modo di dipingere e scrivere.",
+          "es": "El modernismo cambió la forma de pintar y escribir."
+        }
+      ]
+    },
+    {
+      "id": "postmodern",
+      "pos": "adjective",
+      "parent": "modern",
+      "parts": [
+        "post-",
+        "mod",
+        "-ern"
+      ],
+      "gloss": {
+        "en": "coming after and reacting against modernism",
+        "tr": "postmodern",
+        "de": "postmodern",
+        "fr": "postmoderne",
+        "it": "postmoderno",
+        "es": "posmoderno"
+      },
+      "sentences": [
+        {
+          "en": "The library is a [postmodern] building with playful shapes.",
+          "tr": "Kütüphane, oyuncu biçimleri olan postmodern bir bina.",
+          "de": "Die Bibliothek ist ein postmodernes Gebäude mit verspielten Formen.",
+          "fr": "La bibliothèque est un bâtiment postmoderne aux formes ludiques.",
+          "it": "La biblioteca è un edificio postmoderno dalle forme giocose.",
+          "es": "La biblioteca es un edificio posmoderno de formas juguetonas."
+        },
+        {
+          "en": "She writes [postmodern] novels with several endings.",
+          "tr": "Birden çok sonu olan postmodern romanlar yazıyor.",
+          "de": "Sie schreibt postmoderne Romane mit mehreren Enden.",
+          "fr": "Elle écrit des romans postmodernes à plusieurs fins.",
+          "it": "Scrive romanzi postmoderni con più finali.",
+          "es": "Escribe novelas posmodernas con varios finales."
+        }
+      ]
+    },
+    {
+      "id": "moderate",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "moder",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "not too much and not too little; as a verb: to make less extreme (literally: kept within measure)",
+        "tr": "ılımlı, orta düzeyde; (fiil) yumuşatmak, yönetmek",
+        "de": "gemäßigt, mäßig; (Verb) mäßigen, moderieren",
+        "fr": "modéré; (verbe) modérer",
+        "it": "moderato; (verbo) moderare",
+        "es": "moderado; (verbo) moderar"
+      },
+      "sentences": [
+        {
+          "en": "Cook the onions over a [moderate] heat.",
+          "tr": "Soğanları orta ateşte pişir.",
+          "de": "Brate die Zwiebeln bei mittlerer Hitze.",
+          "fr": "Fais cuire les oignons à feu moyen.",
+          "it": "Cuoci le cipolle a fuoco medio.",
+          "es": "Cocina las cebollas a fuego medio."
+        },
+        {
+          "en": "The film was a [moderate] success.",
+          "tr": "Film orta düzeyde bir başarı kazandı.",
+          "de": "Der Film war ein mäßiger Erfolg.",
+          "fr": "Le film a eu un succès modéré.",
+          "it": "Il film ha avuto un successo moderato.",
+          "es": "La película tuvo un éxito moderado."
+        },
+        {
+          "en": "A teacher [moderated] the discussion between the two groups.",
+          "tr": "İki grup arasındaki tartışmayı bir öğretmen yönetti.",
+          "de": "Eine Lehrerin moderierte die Diskussion zwischen den beiden Gruppen.",
+          "fr": "Une professeure a animé la discussion entre les deux groupes.",
+          "it": "Un'insegnante ha moderato la discussione tra i due gruppi.",
+          "es": "Una profesora moderó el debate entre los dos grupos."
+        }
+      ]
+    },
+    {
+      "id": "moderately",
+      "pos": "adverb",
+      "parent": "moderate",
+      "parts": [
+        "moder",
+        "-ate",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "to a medium degree; not very",
+        "tr": "orta derecede, ölçülü biçimde",
+        "de": "mäßig, einigermaßen",
+        "fr": "modérément, moyennement",
+        "it": "moderatamente",
+        "es": "moderadamente"
+      },
+      "sentences": [
+        {
+          "en": "The test was [moderately] difficult.",
+          "tr": "Sınav orta zorluktaydı.",
+          "de": "Der Test war mittelschwer.",
+          "fr": "Le test était moyennement difficile.",
+          "it": "Il test era moderatamente difficile.",
+          "es": "El examen era moderadamente difícil."
+        },
+        {
+          "en": "He is [moderately] happy with his new job.",
+          "tr": "Yeni işinden az çok memnun.",
+          "de": "Er ist mit seiner neuen Stelle einigermaßen zufrieden.",
+          "fr": "Il est moyennement content de son nouveau travail.",
+          "it": "È abbastanza contento del nuovo lavoro.",
+          "es": "Está moderadamente contento con su nuevo trabajo."
+        }
+      ]
+    },
+    {
+      "id": "moderation",
+      "pos": "noun",
+      "parent": "moderate",
+      "parts": [
+        "moder",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "the habit of staying within reasonable limits",
+        "tr": "ölçülülük, ılımlılık",
+        "de": "die Mäßigung, das Maß",
+        "fr": "la modération",
+        "it": "la moderazione",
+        "es": "la moderación"
+      },
+      "sentences": [
+        {
+          "en": "Sweets are fine in [moderation].",
+          "tr": "Tatlılar ölçülü yendiğinde sorun olmaz.",
+          "de": "Süßigkeiten sind in Maßen in Ordnung.",
+          "fr": "Les sucreries, c'est bien avec modération.",
+          "it": "I dolci vanno bene con moderazione.",
+          "es": "Los dulces están bien con moderación."
+        },
+        {
+          "en": "The doctor advised [moderation] in everything.",
+          "tr": "Doktor her şeyde ölçülü olmayı önerdi.",
+          "de": "Der Arzt riet zu Mäßigung in allem.",
+          "fr": "Le médecin a conseillé la modération en tout.",
+          "it": "Il medico ha consigliato moderazione in tutto.",
+          "es": "El médico aconsejó moderación en todo."
+        }
+      ]
+    },
+    {
+      "id": "moderator",
+      "pos": "noun",
+      "parent": "moderate",
+      "parts": [
+        "moder",
+        "-ator"
+      ],
+      "gloss": {
+        "en": "a person who leads a discussion and keeps it fair",
+        "tr": "moderatör, oturum yöneticisi",
+        "de": "der Moderator, die Moderatorin",
+        "fr": "le modérateur, la modératrice",
+        "it": "il moderatore, la moderatrice",
+        "es": "el moderador, la moderadora"
+      },
+      "sentences": [
+        {
+          "en": "The [moderator] gave each speaker two minutes.",
+          "tr": "Moderatör her konuşmacıya iki dakika verdi.",
+          "de": "Der Moderator gab jedem Redner zwei Minuten.",
+          "fr": "Le modérateur a donné deux minutes à chaque intervenant.",
+          "it": "Il moderatore ha dato due minuti a ogni relatore.",
+          "es": "El moderador dio dos minutos a cada orador."
+        },
+        {
+          "en": "A [moderator] removed the rude comments from the forum.",
+          "tr": "Bir moderatör forumdaki kaba yorumları sildi.",
+          "de": "Ein Moderator löschte die unhöflichen Kommentare im Forum.",
+          "fr": "Un modérateur a supprimé les commentaires grossiers du forum.",
+          "it": "Un moderatore ha rimosso i commenti scortesi dal forum.",
+          "es": "Un moderador eliminó los comentarios groseros del foro."
+        }
+      ]
+    },
+    {
+      "id": "immoderate",
+      "pos": "adjective",
+      "parent": "moderate",
+      "parts": [
+        "im-not-",
+        "moder",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "too much; beyond reasonable limits",
+        "tr": "ölçüsüz, aşırı",
+        "de": "maßlos, übermäßig",
+        "fr": "immodéré, excessif",
+        "it": "smodato, eccessivo",
+        "es": "inmoderado, excesivo"
+      },
+      "sentences": [
+        {
+          "en": "His [immoderate] spending left him with no savings.",
+          "tr": "Ölçüsüz harcamaları yüzünden hiç birikimi kalmadı.",
+          "de": "Seine maßlosen Ausgaben ließen ihm keine Ersparnisse.",
+          "fr": "Ses dépenses excessives l'ont laissé sans économies.",
+          "it": "Le sue spese smodate lo hanno lasciato senza risparmi.",
+          "es": "Sus gastos excesivos lo dejaron sin ahorros."
+        },
+        {
+          "en": "She was tired of his [immoderate] demands.",
+          "tr": "Onun ölçüsüz isteklerinden bıkmıştı.",
+          "de": "Sie hatte seine maßlosen Forderungen satt.",
+          "fr": "Elle en avait assez de ses exigences excessives.",
+          "it": "Era stanca delle sue richieste eccessive.",
+          "es": "Estaba cansada de sus exigencias excesivas."
+        }
+      ]
+    },
+    {
+      "id": "modest",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "modest"
+      ],
+      "gloss": {
+        "en": "not talking much about your own success; not large (literally: keeping due measure)",
+        "tr": "alçakgönüllü; mütevazı, küçük çaplı",
+        "de": "bescheiden",
+        "fr": "modeste",
+        "it": "modesto",
+        "es": "modesto"
+      },
+      "sentences": [
+        {
+          "en": "She is very [modest] about her prizes.",
+          "tr": "Ödülleri konusunda çok alçakgönüllü.",
+          "de": "Sie ist sehr bescheiden, was ihre Preise angeht.",
+          "fr": "Elle est très modeste au sujet de ses prix.",
+          "it": "È molto modesta riguardo ai suoi premi.",
+          "es": "Es muy modesta con sus premios."
+        },
+        {
+          "en": "They live in a [modest] house near the station.",
+          "tr": "İstasyonun yakınında mütevazı bir evde yaşıyorlar.",
+          "de": "Sie wohnen in einem bescheidenen Haus nahe dem Bahnhof.",
+          "fr": "Ils vivent dans une maison modeste près de la gare.",
+          "it": "Vivono in una casa modesta vicino alla stazione.",
+          "es": "Viven en una casa modesta cerca de la estación."
+        }
+      ]
+    },
+    {
+      "id": "modestly",
+      "pos": "adverb",
+      "parent": "modest",
+      "parts": [
+        "modest",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "in a way that does not show off; by a small amount",
+        "tr": "alçakgönüllülükle; mütevazı biçimde",
+        "de": "bescheiden",
+        "fr": "modestement",
+        "it": "modestamente",
+        "es": "modestamente"
+      },
+      "sentences": [
+        {
+          "en": "He smiled [modestly] when everyone clapped.",
+          "tr": "Herkes alkışlayınca alçakgönüllülükle gülümsedi.",
+          "de": "Er lächelte bescheiden, als alle klatschten.",
+          "fr": "Il a souri modestement quand tout le monde a applaudi.",
+          "it": "Ha sorriso modestamente quando tutti hanno applaudito.",
+          "es": "Sonrió con modestia cuando todos aplaudieron."
+        },
+        {
+          "en": "Prices rose only [modestly] this year.",
+          "tr": "Fiyatlar bu yıl yalnızca biraz arttı.",
+          "de": "Die Preise sind dieses Jahr nur leicht gestiegen.",
+          "fr": "Les prix n'ont augmenté que modestement cette année.",
+          "it": "Quest'anno i prezzi sono aumentati solo leggermente.",
+          "es": "Los precios subieron solo un poco este año."
+        }
+      ]
+    },
+    {
+      "id": "modesty",
+      "pos": "noun",
+      "parent": "modest",
+      "parts": [
+        "modest",
+        "-y"
+      ],
+      "gloss": {
+        "en": "the quality of not showing off what you can do",
+        "tr": "alçakgönüllülük, tevazu",
+        "de": "die Bescheidenheit",
+        "fr": "la modestie",
+        "it": "la modestia",
+        "es": "la modestia"
+      },
+      "sentences": [
+        {
+          "en": "Her [modesty] hides how talented she is.",
+          "tr": "Alçakgönüllülüğü ne kadar yetenekli olduğunu gizliyor.",
+          "de": "Ihre Bescheidenheit verbirgt, wie begabt sie ist.",
+          "fr": "Sa modestie cache son grand talent.",
+          "it": "La sua modestia nasconde quanto è brava.",
+          "es": "Su modestia oculta el talento que tiene."
+        },
+        {
+          "en": "He accepted the award with real [modesty].",
+          "tr": "Ödülü gerçek bir tevazuyla kabul etti.",
+          "de": "Er nahm den Preis mit echter Bescheidenheit entgegen.",
+          "fr": "Il a reçu le prix avec une vraie modestie.",
+          "it": "Ha accettato il premio con vera modestia.",
+          "es": "Aceptó el premio con verdadera modestia."
+        }
+      ]
+    },
+    {
+      "id": "immodest",
+      "pos": "adjective",
+      "parent": "modest",
+      "parts": [
+        "im-not-",
+        "modest"
+      ],
+      "gloss": {
+        "en": "praising yourself too much; showing off",
+        "tr": "kendini beğenmiş, gösterişçi",
+        "de": "unbescheiden",
+        "fr": "immodeste, prétentieux",
+        "it": "immodesto",
+        "es": "inmodesto, presumido"
+      },
+      "sentences": [
+        {
+          "en": "It sounds [immodest], but I am good at chess.",
+          "tr": "Kulağa övünmek gibi gelebilir ama satrançta iyiyim.",
+          "de": "Es klingt unbescheiden, aber ich bin gut im Schach.",
+          "fr": "Ça paraît prétentieux, mais je suis bon aux échecs.",
+          "it": "Sembra immodesto, ma a scacchi sono bravo.",
+          "es": "Suena presumido, pero soy bueno al ajedrez."
+        },
+        {
+          "en": "His [immodest] speech annoyed the whole team.",
+          "tr": "Kendini öven konuşması bütün takımı rahatsız etti.",
+          "de": "Seine unbescheidene Rede ärgerte das ganze Team.",
+          "fr": "Son discours prétentieux a agacé toute l'équipe.",
+          "it": "Il suo discorso immodesto ha infastidito tutta la squadra.",
+          "es": "Su discurso presumido molestó a todo el equipo."
+        }
+      ]
+    },
+    {
+      "id": "modify",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "mod",
+        "-ify"
+      ],
+      "gloss": {
+        "en": "to change something a little to improve it (literally: to give it a measure)",
+        "tr": "değiştirmek, uyarlamak",
+        "de": "ändern, anpassen",
+        "fr": "modifier",
+        "it": "modificare",
+        "es": "modificar"
+      },
+      "sentences": [
+        {
+          "en": "We [modified] the recipe to use less sugar.",
+          "tr": "Tarifi daha az şeker kullanacak şekilde değiştirdik.",
+          "de": "Wir haben das Rezept geändert, um weniger Zucker zu nehmen.",
+          "fr": "Nous avons modifié la recette pour mettre moins de sucre.",
+          "it": "Abbiamo modificato la ricetta per usare meno zucchero.",
+          "es": "Modificamos la receta para usar menos azúcar."
+        },
+        {
+          "en": "You can [modify] the settings at any time.",
+          "tr": "Ayarları istediğin zaman değiştirebilirsin.",
+          "de": "Du kannst die Einstellungen jederzeit ändern.",
+          "fr": "Tu peux modifier les réglages à tout moment.",
+          "it": "Puoi modificare le impostazioni in qualsiasi momento.",
+          "es": "Puedes modificar los ajustes en cualquier momento."
+        }
+      ]
+    },
+    {
+      "id": "modification",
+      "pos": "noun",
+      "parent": "modify",
+      "parts": [
+        "mod",
+        "-ific",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "a small change made to something",
+        "tr": "değişiklik, uyarlama",
+        "de": "die Änderung, die Anpassung",
+        "fr": "la modification",
+        "it": "la modifica",
+        "es": "la modificación"
+      },
+      "sentences": [
+        {
+          "en": "The plan needs one small [modification].",
+          "tr": "Planın küçük bir değişikliğe ihtiyacı var.",
+          "de": "Der Plan braucht eine kleine Änderung.",
+          "fr": "Le plan a besoin d'une petite modification.",
+          "it": "Il piano ha bisogno di una piccola modifica.",
+          "es": "El plan necesita una pequeña modificación."
+        },
+        {
+          "en": "After a few [modifications], the bike fitted her perfectly.",
+          "tr": "Birkaç ayarlamadan sonra bisiklet ona tam oldu.",
+          "de": "Nach ein paar Anpassungen passte ihr das Fahrrad perfekt.",
+          "fr": "Après quelques modifications, le vélo lui allait parfaitement.",
+          "it": "Dopo alcune modifiche la bici le andava alla perfezione.",
+          "es": "Tras unas modificaciones, la bici le quedaba perfecta."
+        }
+      ]
+    },
+    {
+      "id": "module",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "mod",
+        "-ule"
+      ],
+      "gloss": {
+        "en": "one of the separate parts that together make a whole (literally: a small measure)",
+        "tr": "modül, birim",
+        "de": "das Modul",
+        "fr": "le module",
+        "it": "il modulo",
+        "es": "el módulo"
+      },
+      "sentences": [
+        {
+          "en": "The course has six [modules], one per month.",
+          "tr": "Kursun, ayda bir tane olmak üzere altı modülü var.",
+          "de": "Der Kurs hat sechs Module, eines pro Monat.",
+          "fr": "Le cours comprend six modules, un par mois.",
+          "it": "Il corso ha sei moduli, uno al mese.",
+          "es": "El curso tiene seis módulos, uno por mes."
+        },
+        {
+          "en": "The astronauts moved into the new [module].",
+          "tr": "Astronotlar yeni modüle geçti.",
+          "de": "Die Astronauten zogen in das neue Modul um.",
+          "fr": "Les astronautes se sont installés dans le nouveau module.",
+          "it": "Gli astronauti si sono trasferiti nel nuovo modulo.",
+          "es": "Los astronautas pasaron al módulo nuevo."
+        }
+      ]
+    },
+    {
+      "id": "modular",
+      "pos": "adjective",
+      "parent": "module",
+      "parts": [
+        "mod",
+        "-ular"
+      ],
+      "gloss": {
+        "en": "made of separate parts that can be joined in different ways",
+        "tr": "modüler",
+        "de": "modular",
+        "fr": "modulaire",
+        "it": "modulare",
+        "es": "modular"
+      },
+      "sentences": [
+        {
+          "en": "We bought a [modular] sofa that changes shape.",
+          "tr": "Şekli değişebilen modüler bir kanepe aldık.",
+          "de": "Wir haben ein modulares Sofa gekauft, das seine Form ändert.",
+          "fr": "Nous avons acheté un canapé modulaire qui change de forme.",
+          "it": "Abbiamo comprato un divano modulare che cambia forma.",
+          "es": "Compramos un sofá modular que cambia de forma."
+        },
+        {
+          "en": "The school uses [modular] classrooms during the repairs.",
+          "tr": "Okul, onarım süresince modüler sınıflar kullanıyor.",
+          "de": "Die Schule nutzt während der Reparaturen modulare Klassenräume.",
+          "fr": "L'école utilise des salles modulaires pendant les travaux.",
+          "it": "La scuola usa aule modulari durante i lavori.",
+          "es": "El colegio usa aulas modulares durante las obras."
+        }
+      ]
+    },
+    {
+      "id": "modulate",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "mod",
+        "-ul",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "to change the strength or tone of a sound or signal",
+        "tr": "ayarlamak; (ses, sinyal) modüle etmek",
+        "de": "modulieren, abstimmen",
+        "fr": "moduler",
+        "it": "modulare",
+        "es": "modular"
+      },
+      "sentences": [
+        {
+          "en": "Actors learn to [modulate] their voices.",
+          "tr": "Oyuncular seslerini ayarlamayı öğrenir.",
+          "de": "Schauspieler lernen, ihre Stimme zu modulieren.",
+          "fr": "Les acteurs apprennent à moduler leur voix.",
+          "it": "Gli attori imparano a modulare la voce.",
+          "es": "Los actores aprenden a modular la voz."
+        },
+        {
+          "en": "The radio [modulates] a signal to carry sound.",
+          "tr": "Radyo, sesi taşımak için bir sinyali modüle eder.",
+          "de": "Das Radio moduliert ein Signal, um Ton zu übertragen.",
+          "fr": "La radio module un signal pour transporter le son.",
+          "it": "La radio modula un segnale per trasportare il suono.",
+          "es": "La radio modula una señal para transportar el sonido."
+        }
+      ]
+    },
+    {
+      "id": "modulation",
+      "pos": "noun",
+      "parent": "modulate",
+      "parts": [
+        "mod",
+        "-ul",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "a change in the strength or tone of a sound or signal",
+        "tr": "modülasyon, ses ayarı",
+        "de": "die Modulation",
+        "fr": "la modulation",
+        "it": "la modulazione",
+        "es": "la modulación"
+      },
+      "sentences": [
+        {
+          "en": "Listen to the [modulation] of her voice in that song.",
+          "tr": "O şarkıda sesinin iniş çıkışlarını dinle.",
+          "de": "Hör dir die Modulation ihrer Stimme in diesem Lied an.",
+          "fr": "Écoute la modulation de sa voix dans cette chanson.",
+          "it": "Ascolta la modulazione della sua voce in quella canzone.",
+          "es": "Escucha la modulación de su voz en esa canción."
+        },
+        {
+          "en": "FM stands for frequency [modulation].",
+          "tr": "FM, frekans modülasyonu demektir.",
+          "de": "FM steht für Frequenzmodulation.",
+          "fr": "FM signifie modulation de fréquence.",
+          "it": "FM significa modulazione di frequenza.",
+          "es": "FM significa modulación de frecuencia."
+        }
+      ]
+    },
+    {
+      "id": "commodity",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "com-",
+        "mod",
+        "-ity"
+      ],
+      "gloss": {
+        "en": "a product that is bought and sold, like oil or wheat (literally: something of fitting measure, a convenience)",
+        "tr": "mal, emtia",
+        "de": "die Ware, der Rohstoff",
+        "fr": "la marchandise, la matière première",
+        "it": "la merce, la materia prima",
+        "es": "la mercancía, la materia prima"
+      },
+      "sentences": [
+        {
+          "en": "Coffee is an important [commodity] for the country.",
+          "tr": "Kahve ülke için önemli bir ticaret malıdır.",
+          "de": "Kaffee ist eine wichtige Handelsware für das Land.",
+          "fr": "Le café est une marchandise importante pour le pays.",
+          "it": "Il caffè è una merce importante per il paese.",
+          "es": "El café es una mercancía importante para el país."
+        },
+        {
+          "en": "Clean water is a precious [commodity] in the desert.",
+          "tr": "Temiz su çölde çok değerli bir şeydir.",
+          "de": "Sauberes Wasser ist in der Wüste ein kostbares Gut.",
+          "fr": "L'eau propre est une denrée précieuse dans le désert.",
+          "it": "L'acqua pulita è un bene prezioso nel deserto.",
+          "es": "El agua limpia es un bien precioso en el desierto."
+        }
+      ]
+    },
+    {
+      "id": "accommodate",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ac-",
+        "com-",
+        "mod",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "to have room for someone; to adjust to what someone needs (literally: to make fit)",
+        "tr": "ağırlamak, barındırmak; uyum sağlamak, karşılamak",
+        "de": "unterbringen, Platz bieten; entgegenkommen",
+        "fr": "accueillir, loger; s'adapter à",
+        "it": "ospitare; venire incontro a",
+        "es": "alojar, tener cabida para; adaptarse a"
+      },
+      "sentences": [
+        {
+          "en": "The hotel can [accommodate] two hundred guests.",
+          "tr": "Otel iki yüz konuğu ağırlayabiliyor.",
+          "de": "Das Hotel kann zweihundert Gäste unterbringen.",
+          "fr": "L'hôtel peut accueillir deux cents clients.",
+          "it": "L'albergo può ospitare duecento persone.",
+          "es": "El hotel puede alojar a doscientos huéspedes."
+        },
+        {
+          "en": "We changed the date to [accommodate] her schedule.",
+          "tr": "Onun programına uysun diye tarihi değiştirdik.",
+          "de": "Wir haben den Termin an ihren Zeitplan angepasst.",
+          "fr": "Nous avons changé la date pour nous adapter à son emploi du temps.",
+          "it": "Abbiamo cambiato la data per venire incontro ai suoi impegni.",
+          "es": "Cambiamos la fecha para adaptarnos a su horario."
+        }
+      ]
+    },
+    {
+      "id": "accommodation",
+      "pos": "noun",
+      "parent": "accommodate",
+      "parts": [
+        "ac-",
+        "com-",
+        "mod",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "a place to stay or live",
+        "tr": "konaklama, kalacak yer",
+        "de": "die Unterkunft",
+        "fr": "le logement, l'hébergement",
+        "it": "l'alloggio",
+        "es": "el alojamiento"
+      },
+      "sentences": [
+        {
+          "en": "The price includes flights and [accommodation].",
+          "tr": "Fiyata uçuşlar ve konaklama dahil.",
+          "de": "Im Preis sind Flüge und Unterkunft enthalten.",
+          "fr": "Le prix comprend les vols et l'hébergement.",
+          "it": "Il prezzo comprende voli e alloggio.",
+          "es": "El precio incluye vuelos y alojamiento."
+        },
+        {
+          "en": "Students often struggle to find cheap [accommodation].",
+          "tr": "Öğrenciler ucuz kalacak yer bulmakta sık sık zorlanır.",
+          "de": "Studierende finden oft nur schwer eine günstige Unterkunft.",
+          "fr": "Les étudiants ont souvent du mal à trouver un logement bon marché.",
+          "it": "Gli studenti faticano spesso a trovare un alloggio economico.",
+          "es": "A los estudiantes les cuesta encontrar alojamiento barato."
+        }
+      ]
+    },
+    {
+      "id": "outmoded",
+      "pos": "adjective",
+      "parent": "mode",
+      "parts": [
+        "out-",
+        "mod",
+        "-ed"
+      ],
+      "gloss": {
+        "en": "no longer in use or in fashion",
+        "tr": "modası geçmiş, eskimiş",
+        "de": "veraltet, überholt",
+        "fr": "démodé, dépassé",
+        "it": "superato, fuori moda",
+        "es": "anticuado, pasado de moda"
+      },
+      "sentences": [
+        {
+          "en": "The office still runs on [outmoded] computers.",
+          "tr": "Ofis hâlâ eskimiş bilgisayarlarla çalışıyor.",
+          "de": "Das Büro arbeitet noch mit veralteten Computern.",
+          "fr": "Le bureau fonctionne encore avec des ordinateurs dépassés.",
+          "it": "L'ufficio lavora ancora con computer superati.",
+          "es": "La oficina sigue funcionando con ordenadores anticuados."
+        },
+        {
+          "en": "That rule is [outmoded] and should go.",
+          "tr": "O kural çağ dışı kaldı, kaldırılmalı.",
+          "de": "Diese Regel ist überholt und sollte weg.",
+          "fr": "Cette règle est dépassée et devrait disparaître.",
+          "it": "Quella regola è superata e andrebbe eliminata.",
+          "es": "Esa norma está anticuada y debería desaparecer."
+        }
+      ]
+    }
+  ]
+}

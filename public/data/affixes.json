@@ -3631,5 +3631,49 @@
       "es": "existencias, reserva (inglés antiguo stocc)"
     },
     "combining": true
+  },
+  "out-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "out, beyond, no longer in",
+      "tr": "dışarı, ötesinde, artık dışında",
+      "de": "aus, hinaus, nicht mehr in",
+      "fr": "hors de, au-delà",
+      "it": "fuori, oltre",
+      "es": "fuera, más allá"
+    }
+  },
+  "-ern": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "belonging to a time or place (Latin -ernus; makes an adjective)",
+      "tr": "bir zamana ya da yere ait (Latince -ernus; sıfat yapar)",
+      "de": "zu einer Zeit oder einem Ort gehörend (lateinisch -ernus; bildet ein Adjektiv)",
+      "fr": "qui appartient à un temps ou à un lieu (latin -ernus; forme un adjectif)",
+      "it": "che appartiene a un tempo o a un luogo (latino -ernus; forma un aggettivo)",
+      "es": "que pertenece a un tiempo o lugar (latín -ernus; forma un adjetivo)"
+    }
+  },
+  "-ule": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "small (makes a noun)",
+      "tr": "küçük (isim yapar)",
+      "de": "klein (bildet ein Nomen)",
+      "fr": "petit (forme un nom)",
+      "it": "piccolo (forma un nome)",
+      "es": "pequeño (forma un sustantivo)"
+    }
+  },
+  "-ular": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "relating to a small unit (-ule + -ar; makes an adjective)",
+      "tr": "küçük birimle ilgili (-ule + -ar; sıfat yapar)",
+      "de": "auf eine kleine Einheit bezogen (-ule + -ar; bildet ein Adjektiv)",
+      "fr": "relatif à une petite unité (-ule + -ar; forme un adjectif)",
+      "it": "relativo a una piccola unità (-ule + -ar; forma un aggettivo)",
+      "es": "relativo a una unidad pequeña (-ule + -ar; forma un adjetivo)"
+    }
   }
 }
