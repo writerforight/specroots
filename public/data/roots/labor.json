@@ -1,0 +1,568 @@
+{
+  "id": "labor",
+  "addedBy": "writerforight",
+  "forms": [
+    "labor",
+    "lab"
+  ],
+  "origin": "la",
+  "etymon": "labor",
+  "meaning": {
+    "en": "work, effort",
+    "tr": "iş, emek",
+    "de": "Arbeit, Mühe",
+    "fr": "travail, effort",
+    "it": "lavoro, fatica",
+    "es": "trabajo, esfuerzo"
+  },
+  "words": [
+    {
+      "id": "labor",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "labor"
+      ],
+      "gloss": {
+        "en": "hard work, especially with the body; workers as a group; the effort of giving birth (British spelling: labour)",
+        "tr": "emek, iş gücü; doğum sancısı",
+        "de": "die Arbeit, die Arbeitskräfte; die Wehen",
+        "fr": "le travail, la main-d'œuvre",
+        "it": "il lavoro, la manodopera; il travaglio",
+        "es": "el trabajo, la mano de obra; el parto"
+      },
+      "sentences": [
+        {
+          "en": "Building the wall took three days of hard [labor].",
+          "tr": "Duvarı örmek üç gün süren ağır bir emek istedi.",
+          "de": "Der Bau der Mauer kostete drei Tage harte Arbeit.",
+          "fr": "Construire le mur a demandé trois jours de dur travail.",
+          "it": "Costruire il muro ha richiesto tre giorni di duro lavoro.",
+          "es": "Construir el muro llevó tres días de duro trabajo."
+        },
+        {
+          "en": "The repair bill lists parts and [labor] separately.",
+          "tr": "Tamir faturasında parçalar ve işçilik ayrı yazıyor.",
+          "de": "Die Reparaturrechnung führt Teile und Arbeitszeit getrennt auf.",
+          "fr": "La facture sépare les pièces et la main-d'œuvre.",
+          "it": "Il conto della riparazione separa ricambi e manodopera.",
+          "es": "La factura separa las piezas y la mano de obra."
+        },
+        {
+          "en": "She was in [labor] for ten hours.",
+          "tr": "Doğum sancısı on saat sürdü.",
+          "de": "Sie lag zehn Stunden in den Wehen.",
+          "fr": "Le travail a duré dix heures.",
+          "it": "È stata in travaglio per dieci ore.",
+          "es": "Estuvo diez horas de parto."
+        }
+      ]
+    },
+    {
+      "id": "laborer",
+      "pos": "noun",
+      "parent": "labor",
+      "parts": [
+        "labor",
+        "-er"
+      ],
+      "gloss": {
+        "en": "a person who does hard physical work",
+        "tr": "işçi, amele",
+        "de": "der Arbeiter, der Hilfsarbeiter",
+        "fr": "l'ouvrier, le manœuvre",
+        "it": "l'operaio, il manovale",
+        "es": "el obrero, el peón"
+      },
+      "sentences": [
+        {
+          "en": "The farm hires extra [laborers] at harvest time.",
+          "tr": "Çiftlik hasat zamanı ek işçi alıyor.",
+          "de": "Der Hof stellt zur Erntezeit zusätzliche Arbeiter ein.",
+          "fr": "La ferme embauche des ouvriers en plus pour la récolte.",
+          "it": "La fattoria assume altri braccianti per il raccolto.",
+          "es": "La granja contrata más peones en la cosecha."
+        },
+        {
+          "en": "He worked as a [laborer] on building sites.",
+          "tr": "İnşaatlarda işçi olarak çalıştı.",
+          "de": "Er arbeitete als Hilfsarbeiter auf Baustellen.",
+          "fr": "Il a travaillé comme manœuvre sur des chantiers.",
+          "it": "Ha lavorato come manovale nei cantieri.",
+          "es": "Trabajó de peón en las obras."
+        }
+      ]
+    },
+    {
+      "id": "labored",
+      "pos": "adjective",
+      "parent": "labor",
+      "parts": [
+        "labor",
+        "-ed"
+      ],
+      "gloss": {
+        "en": "done slowly and with great effort",
+        "tr": "güçlükle yapılan, zorlama",
+        "de": "mühsam, schwerfällig",
+        "fr": "pénible, laborieux",
+        "it": "faticoso, affannoso",
+        "es": "trabajoso, forzado"
+      },
+      "sentences": [
+        {
+          "en": "His breathing was [labored] after the climb.",
+          "tr": "Tırmanıştan sonra güçlükle nefes alıyordu.",
+          "de": "Nach dem Aufstieg atmete er schwer.",
+          "fr": "Il respirait péniblement après la montée.",
+          "it": "Dopo la salita aveva il respiro affannoso.",
+          "es": "Respiraba con dificultad después de la subida."
+        },
+        {
+          "en": "The joke felt [labored] and nobody laughed.",
+          "tr": "Şaka zorlama kaçtı, kimse gülmedi.",
+          "de": "Der Witz wirkte bemüht und niemand lachte.",
+          "fr": "La blague semblait forcée et personne n'a ri.",
+          "it": "La battuta suonava forzata e nessuno ha riso.",
+          "es": "El chiste sonó forzado y nadie se rio."
+        }
+      ]
+    },
+    {
+      "id": "laborious",
+      "pos": "adjective",
+      "parent": "labor",
+      "parts": [
+        "labor",
+        "-ious"
+      ],
+      "gloss": {
+        "en": "needing a lot of time and effort",
+        "tr": "zahmetli, meşakkatli",
+        "de": "mühsam, arbeitsaufwendig",
+        "fr": "laborieux, pénible",
+        "it": "laborioso, faticoso",
+        "es": "laborioso, trabajoso"
+      },
+      "sentences": [
+        {
+          "en": "Copying the list by hand was a [laborious] job.",
+          "tr": "Listeyi elle kopyalamak zahmetli bir işti.",
+          "de": "Die Liste von Hand abzuschreiben war eine mühsame Arbeit.",
+          "fr": "Recopier la liste à la main était un travail laborieux.",
+          "it": "Copiare la lista a mano è stato un lavoro faticoso.",
+          "es": "Copiar la lista a mano fue un trabajo laborioso."
+        },
+        {
+          "en": "Cleaning each coin was slow and [laborious].",
+          "tr": "Her madeni parayı temizlemek yavaş ve zahmetliydi.",
+          "de": "Jede Münze zu reinigen war langsam und mühsam.",
+          "fr": "Nettoyer chaque pièce était lent et pénible.",
+          "it": "Pulire ogni moneta era lento e faticoso.",
+          "es": "Limpiar cada moneda era lento y trabajoso."
+        }
+      ]
+    },
+    {
+      "id": "laboriously",
+      "pos": "adverb",
+      "parent": "laborious",
+      "parts": [
+        "labor",
+        "-ious",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "slowly and with a lot of effort",
+        "tr": "zahmetle, güçlükle",
+        "de": "mühsam",
+        "fr": "laborieusement, péniblement",
+        "it": "faticosamente",
+        "es": "laboriosamente, con mucho esfuerzo"
+      },
+      "sentences": [
+        {
+          "en": "He [laboriously] typed the letter with one finger.",
+          "tr": "Mektubu tek parmakla güçlükle yazdı.",
+          "de": "Er tippte den Brief mühsam mit einem Finger.",
+          "fr": "Il a tapé la lettre péniblement, avec un seul doigt.",
+          "it": "Ha scritto faticosamente la lettera con un dito solo.",
+          "es": "Escribió la carta con mucho esfuerzo, con un solo dedo."
+        },
+        {
+          "en": "She [laboriously] climbed the stairs with her bags.",
+          "tr": "Çantalarıyla merdivenleri güçlükle çıktı.",
+          "de": "Sie stieg mühsam mit ihren Taschen die Treppe hinauf.",
+          "fr": "Elle a monté péniblement l'escalier avec ses sacs.",
+          "it": "Ha salito faticosamente le scale con le borse.",
+          "es": "Subió las escaleras con esfuerzo, cargada de bolsas."
+        }
+      ]
+    },
+    {
+      "id": "laboratory",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "labor",
+        "-atory"
+      ],
+      "gloss": {
+        "en": "a room for scientific tests and experiments (literally: a place for work)",
+        "tr": "laboratuvar",
+        "de": "das Labor",
+        "fr": "le laboratoire",
+        "it": "il laboratorio",
+        "es": "el laboratorio"
+      },
+      "sentences": [
+        {
+          "en": "The blood samples went to the [laboratory].",
+          "tr": "Kan örnekleri laboratuvara gönderildi.",
+          "de": "Die Blutproben gingen ins Labor.",
+          "fr": "Les échantillons de sang sont partis au laboratoire.",
+          "it": "I campioni di sangue sono andati in laboratorio.",
+          "es": "Las muestras de sangre fueron al laboratorio."
+        },
+        {
+          "en": "Students must wear goggles in the [laboratory].",
+          "tr": "Öğrenciler laboratuvarda koruyucu gözlük takmak zorunda.",
+          "de": "Im Labor müssen die Studierenden Schutzbrillen tragen.",
+          "fr": "Les étudiants doivent porter des lunettes au laboratoire.",
+          "it": "In laboratorio gli studenti devono portare gli occhiali protettivi.",
+          "es": "Los estudiantes deben llevar gafas en el laboratorio."
+        }
+      ]
+    },
+    {
+      "id": "lab",
+      "pos": "noun",
+      "parent": "laboratory",
+      "parts": [
+        "lab"
+      ],
+      "gloss": {
+        "en": "a short word for laboratory",
+        "tr": "laboratuvar (kısa hali)",
+        "de": "das Labor",
+        "fr": "le labo",
+        "it": "il laboratorio",
+        "es": "el laboratorio"
+      },
+      "sentences": [
+        {
+          "en": "We have a chemistry [lab] on Tuesday.",
+          "tr": "Salı günü kimya laboratuvarımız var.",
+          "de": "Am Dienstag haben wir Chemielabor.",
+          "fr": "Nous avons labo de chimie mardi.",
+          "it": "Martedì abbiamo laboratorio di chimica.",
+          "es": "El martes tenemos laboratorio de química."
+        },
+        {
+          "en": "The [lab] results will be ready tomorrow.",
+          "tr": "Laboratuvar sonuçları yarın hazır olacak.",
+          "de": "Die Laborergebnisse sind morgen fertig.",
+          "fr": "Les résultats du labo seront prêts demain.",
+          "it": "I risultati del laboratorio saranno pronti domani.",
+          "es": "Los resultados del laboratorio estarán listos mañana."
+        }
+      ]
+    },
+    {
+      "id": "elaborate",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "e-",
+        "labor",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "with many carefully made details; as a verb: to explain in more detail (literally: worked out)",
+        "tr": "ayrıntılı, özenle işlenmiş; (fiil) ayrıntılandırmak",
+        "de": "aufwendig, kunstvoll; (Verb) näher ausführen",
+        "fr": "élaboré, détaillé; (verbe) développer",
+        "it": "elaborato; (verbo) approfondire",
+        "es": "elaborado, detallado; (verbo) explicar con más detalle"
+      },
+      "sentences": [
+        {
+          "en": "The cake had an [elaborate] sugar castle on top.",
+          "tr": "Pastanın üstünde özenle yapılmış şekerden bir şato vardı.",
+          "de": "Auf der Torte stand ein kunstvolles Zuckerschloss.",
+          "fr": "Le gâteau portait un château en sucre très élaboré.",
+          "it": "Sulla torta c'era un elaborato castello di zucchero.",
+          "es": "La tarta llevaba encima un elaborado castillo de azúcar."
+        },
+        {
+          "en": "They made [elaborate] plans for the surprise party.",
+          "tr": "Sürpriz parti için ayrıntılı planlar yaptılar.",
+          "de": "Sie machten aufwendige Pläne für die Überraschungsparty.",
+          "fr": "Ils ont fait des plans détaillés pour la fête surprise.",
+          "it": "Hanno fatto piani elaborati per la festa a sorpresa.",
+          "es": "Hicieron planes detallados para la fiesta sorpresa."
+        },
+        {
+          "en": "Could you [elaborate] on your second point?",
+          "tr": "İkinci noktanı biraz açar mısın?",
+          "de": "Könntest du deinen zweiten Punkt näher ausführen?",
+          "fr": "Pourrais-tu développer ton deuxième point ?",
+          "it": "Potresti approfondire il secondo punto?",
+          "es": "¿Podrías explicar mejor tu segundo punto?"
+        }
+      ]
+    },
+    {
+      "id": "elaborately",
+      "pos": "adverb",
+      "parent": "elaborate",
+      "parts": [
+        "e-",
+        "labor",
+        "-ate",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "in a detailed and carefully made way",
+        "tr": "özenle, ayrıntılı biçimde",
+        "de": "aufwendig, kunstvoll",
+        "fr": "de façon élaborée, avec soin",
+        "it": "in modo elaborato",
+        "es": "de forma elaborada, con esmero"
+      },
+      "sentences": [
+        {
+          "en": "The hall was [elaborately] decorated for the wedding.",
+          "tr": "Salon düğün için özenle süslenmişti.",
+          "de": "Der Saal war für die Hochzeit aufwendig geschmückt.",
+          "fr": "La salle était décorée avec soin pour le mariage.",
+          "it": "La sala era decorata in modo elaborato per il matrimonio.",
+          "es": "El salón estaba decorado con esmero para la boda."
+        },
+        {
+          "en": "Each present was [elaborately] wrapped in gold paper.",
+          "tr": "Her hediye altın rengi kâğıtla özenle paketlenmişti.",
+          "de": "Jedes Geschenk war kunstvoll in Goldpapier verpackt.",
+          "fr": "Chaque cadeau était emballé avec soin dans du papier doré.",
+          "it": "Ogni regalo era incartato con cura in carta dorata.",
+          "es": "Cada regalo estaba envuelto con esmero en papel dorado."
+        }
+      ]
+    },
+    {
+      "id": "elaboration",
+      "pos": "noun",
+      "parent": "elaborate",
+      "parts": [
+        "e-",
+        "labor",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "extra detail added to explain or develop something",
+        "tr": "ayrıntılandırma, açıklama",
+        "de": "die Ausführung, die Ausarbeitung",
+        "fr": "l'élaboration, le développement",
+        "it": "l'elaborazione, l'approfondimento",
+        "es": "la elaboración, la explicación detallada"
+      },
+      "sentences": [
+        {
+          "en": "The idea is clear and needs no [elaboration].",
+          "tr": "Fikir açık, ayrıca açıklamaya gerek yok.",
+          "de": "Die Idee ist klar und braucht keine weitere Ausführung.",
+          "fr": "L'idée est claire et n'a pas besoin de développement.",
+          "it": "L'idea è chiara e non ha bisogno di approfondimenti.",
+          "es": "La idea es clara y no necesita más explicación."
+        },
+        {
+          "en": "He answered \"no\" without any [elaboration].",
+          "tr": "Hiçbir açıklama yapmadan \"hayır\" dedi.",
+          "de": "Er antwortete „nein“, ohne es weiter auszuführen.",
+          "fr": "Il a répondu « non » sans autre explication.",
+          "it": "Ha risposto \"no\" senza aggiungere spiegazioni.",
+          "es": "Respondió \"no\" sin dar más explicaciones."
+        }
+      ]
+    },
+    {
+      "id": "collaborate",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "col-",
+        "labor",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "to work together with someone on the same thing (literally: to work with)",
+        "tr": "iş birliği yapmak, birlikte çalışmak",
+        "de": "zusammenarbeiten",
+        "fr": "collaborer",
+        "it": "collaborare",
+        "es": "colaborar"
+      },
+      "sentences": [
+        {
+          "en": "The two schools [collaborated] on a science project.",
+          "tr": "İki okul bir fen projesinde birlikte çalıştı.",
+          "de": "Die beiden Schulen arbeiteten an einem Forschungsprojekt zusammen.",
+          "fr": "Les deux écoles ont collaboré à un projet de sciences.",
+          "it": "Le due scuole hanno collaborato a un progetto di scienze.",
+          "es": "Los dos colegios colaboraron en un proyecto de ciencias."
+        },
+        {
+          "en": "I would love to [collaborate] with you on the song.",
+          "tr": "Şarkıda seninle birlikte çalışmayı çok isterim.",
+          "de": "Ich würde bei dem Lied gern mit dir zusammenarbeiten.",
+          "fr": "J'aimerais beaucoup collaborer avec toi sur la chanson.",
+          "it": "Mi piacerebbe molto collaborare con te alla canzone.",
+          "es": "Me encantaría colaborar contigo en la canción."
+        }
+      ]
+    },
+    {
+      "id": "collaboration",
+      "pos": "noun",
+      "parent": "collaborate",
+      "parts": [
+        "col-",
+        "labor",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "the act of working together; something made that way",
+        "tr": "iş birliği, ortak çalışma",
+        "de": "die Zusammenarbeit",
+        "fr": "la collaboration",
+        "it": "la collaborazione",
+        "es": "la colaboración"
+      },
+      "sentences": [
+        {
+          "en": "The book is a [collaboration] between two sisters.",
+          "tr": "Kitap iki kız kardeşin ortak çalışması.",
+          "de": "Das Buch ist eine Zusammenarbeit zweier Schwestern.",
+          "fr": "Le livre est une collaboration entre deux sœurs.",
+          "it": "Il libro è una collaborazione tra due sorelle.",
+          "es": "El libro es una colaboración entre dos hermanas."
+        },
+        {
+          "en": "The bridge was built in [collaboration] with local engineers.",
+          "tr": "Köprü yerel mühendislerle iş birliği içinde yapıldı.",
+          "de": "Die Brücke wurde in Zusammenarbeit mit örtlichen Ingenieuren gebaut.",
+          "fr": "Le pont a été construit en collaboration avec des ingénieurs locaux.",
+          "it": "Il ponte è stato costruito in collaborazione con ingegneri locali.",
+          "es": "El puente se construyó en colaboración con ingenieros locales."
+        }
+      ]
+    },
+    {
+      "id": "collaborator",
+      "pos": "noun",
+      "parent": "collaborate",
+      "parts": [
+        "col-",
+        "labor",
+        "-ator"
+      ],
+      "gloss": {
+        "en": "a person who works together with another on something",
+        "tr": "çalışma ortağı, iş birlikçi",
+        "de": "der Mitarbeiter, der Kollaborateur",
+        "fr": "le collaborateur, la collaboratrice",
+        "it": "il collaboratore, la collaboratrice",
+        "es": "el colaborador, la colaboradora"
+      },
+      "sentences": [
+        {
+          "en": "She thanked her [collaborators] at the end of the talk.",
+          "tr": "Konuşmanın sonunda çalışma ortaklarına teşekkür etti.",
+          "de": "Am Ende des Vortrags dankte sie ihren Mitarbeitern.",
+          "fr": "Elle a remercié ses collaborateurs à la fin de l'exposé.",
+          "it": "Alla fine dell'intervento ha ringraziato i suoi collaboratori.",
+          "es": "Al final de la charla dio las gracias a sus colaboradores."
+        },
+        {
+          "en": "The director and the writer are long-time [collaborators].",
+          "tr": "Yönetmen ile yazar uzun zamandır birlikte çalışıyor.",
+          "de": "Der Regisseur und der Autor arbeiten seit Langem zusammen.",
+          "fr": "Le réalisateur et l'auteur collaborent depuis longtemps.",
+          "it": "Il regista e lo scrittore collaborano da tempo.",
+          "es": "El director y el escritor colaboran desde hace años."
+        }
+      ]
+    },
+    {
+      "id": "collaborative",
+      "pos": "adjective",
+      "parent": "collaborate",
+      "parts": [
+        "col-",
+        "labor",
+        "-ative"
+      ],
+      "gloss": {
+        "en": "done by people working together",
+        "tr": "ortak, iş birliğine dayalı",
+        "de": "gemeinschaftlich, kooperativ",
+        "fr": "collaboratif",
+        "it": "collaborativo",
+        "es": "colaborativo"
+      },
+      "sentences": [
+        {
+          "en": "The mural was a [collaborative] effort by the whole class.",
+          "tr": "Duvar resmi bütün sınıfın ortak emeğiydi.",
+          "de": "Das Wandbild war eine Gemeinschaftsarbeit der ganzen Klasse.",
+          "fr": "La fresque était un travail collaboratif de toute la classe.",
+          "it": "Il murale è stato un lavoro collaborativo di tutta la classe.",
+          "es": "El mural fue un trabajo colaborativo de toda la clase."
+        },
+        {
+          "en": "We write the report in a [collaborative] document online.",
+          "tr": "Raporu çevrim içi ortak bir belgede yazıyoruz.",
+          "de": "Wir schreiben den Bericht online in einem gemeinsamen Dokument.",
+          "fr": "Nous rédigeons le rapport dans un document collaboratif en ligne.",
+          "it": "Scriviamo la relazione in un documento collaborativo online.",
+          "es": "Escribimos el informe en un documento colaborativo en línea."
+        }
+      ]
+    },
+    {
+      "id": "belabor",
+      "pos": "verb",
+      "parent": "labor",
+      "parts": [
+        "be-",
+        "labor"
+      ],
+      "gloss": {
+        "en": "to explain or repeat something more than is needed",
+        "tr": "gereğinden fazla üzerinde durmak, uzatmak",
+        "de": "auf etwas herumreiten",
+        "fr": "s'appesantir sur, insister lourdement sur",
+        "it": "insistere troppo su, dilungarsi su",
+        "es": "insistir demasiado en, machacar"
+      },
+      "sentences": [
+        {
+          "en": "I won't [belabor] the point; you understood it.",
+          "tr": "Konuyu uzatmayacağım, anladın.",
+          "de": "Ich will nicht darauf herumreiten; du hast es verstanden.",
+          "fr": "Je ne vais pas insister, tu as compris.",
+          "it": "Non voglio insistere, hai capito.",
+          "es": "No voy a insistir en el tema; ya lo entendiste."
+        },
+        {
+          "en": "The teacher [belabored] the rule until everyone was bored.",
+          "tr": "Öğretmen kuralı herkes sıkılana kadar tekrarladı.",
+          "de": "Der Lehrer ritt auf der Regel herum, bis sich alle langweilten.",
+          "fr": "Le professeur a insisté sur la règle jusqu'à ennuyer tout le monde.",
+          "it": "L'insegnante ha insistito sulla regola finché tutti si sono annoiati.",
+          "es": "El profesor machacó la regla hasta aburrir a todos."
+        }
+      ]
+    }
+  ]
+}
