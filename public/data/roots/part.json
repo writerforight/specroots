@@ -1,0 +1,941 @@
+{
+  "id": "part",
+  "addedBy": "writerforight",
+  "forms": [
+    "part",
+    "parc"
+  ],
+  "origin": "la",
+  "etymon": "pars, partis",
+  "meaning": {
+    "en": "a part, a share; to divide",
+    "tr": "parça, pay; bölmek",
+    "de": "Teil, Anteil; teilen",
+    "fr": "partie, part; diviser",
+    "it": "parte, porzione; dividere",
+    "es": "parte, porción; dividir"
+  },
+  "words": [
+    {
+      "id": "part",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "part"
+      ],
+      "gloss": {
+        "en": "one piece of a whole",
+        "tr": "parça, bölüm, kısım",
+        "de": "der Teil",
+        "fr": "la partie",
+        "it": "la parte",
+        "es": "la parte"
+      },
+      "sentences": [
+        {
+          "en": "The best [part] of the film is the ending.",
+          "tr": "Filmin en iyi kısmı sonu.",
+          "de": "Der beste Teil des Films ist das Ende.",
+          "fr": "La meilleure partie du film, c'est la fin.",
+          "it": "La parte migliore del film è il finale.",
+          "es": "La mejor parte de la película es el final."
+        },
+        {
+          "en": "We need a new [part] for the washing machine.",
+          "tr": "Çamaşır makinesi için yeni bir parça lazım.",
+          "de": "Wir brauchen ein neues Teil für die Waschmaschine.",
+          "fr": "Il nous faut une nouvelle pièce pour le lave-linge.",
+          "it": "Ci serve un pezzo nuovo per la lavatrice.",
+          "es": "Necesitamos una pieza nueva para la lavadora."
+        }
+      ]
+    },
+    {
+      "id": "partly",
+      "pos": "adverb",
+      "parent": "part",
+      "parts": [
+        "part",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "to some degree, not completely",
+        "tr": "kısmen",
+        "de": "teilweise, zum Teil",
+        "fr": "en partie",
+        "it": "in parte",
+        "es": "en parte"
+      },
+      "sentences": [
+        {
+          "en": "The delay was [partly] my fault.",
+          "tr": "Gecikme kısmen benim hatamdı.",
+          "de": "Die Verspätung war zum Teil meine Schuld.",
+          "fr": "Le retard était en partie ma faute.",
+          "it": "Il ritardo è stato in parte colpa mia.",
+          "es": "El retraso fue en parte culpa mía."
+        },
+        {
+          "en": "Tomorrow will be [partly] cloudy.",
+          "tr": "Yarın hava parçalı bulutlu olacak.",
+          "de": "Morgen wird es teilweise bewölkt.",
+          "fr": "Demain, le ciel sera partiellement nuageux.",
+          "it": "Domani sarà parzialmente nuvoloso.",
+          "es": "Mañana estará parcialmente nublado."
+        }
+      ]
+    },
+    {
+      "id": "partial",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "part",
+        "-ial"
+      ],
+      "gloss": {
+        "en": "not complete; also: unfairly favouring one side",
+        "tr": "kısmi; taraflı",
+        "de": "teilweise, Teil-; parteiisch",
+        "fr": "partiel; partial",
+        "it": "parziale; di parte",
+        "es": "parcial"
+      },
+      "sentences": [
+        {
+          "en": "We got only a [partial] refund.",
+          "tr": "Sadece kısmi bir iade aldık.",
+          "de": "Wir bekamen nur eine Teilerstattung.",
+          "fr": "Nous n'avons eu qu'un remboursement partiel.",
+          "it": "Abbiamo avuto solo un rimborso parziale.",
+          "es": "Solo recibimos un reembolso parcial."
+        },
+        {
+          "en": "A referee must not be [partial] to one team.",
+          "tr": "Hakem bir takımın tarafını tutmamalı.",
+          "de": "Ein Schiedsrichter darf nicht parteiisch sein.",
+          "fr": "Un arbitre ne doit pas être partial.",
+          "it": "Un arbitro non deve essere di parte.",
+          "es": "Un árbitro no debe ser parcial."
+        }
+      ]
+    },
+    {
+      "id": "partially",
+      "pos": "adverb",
+      "parent": "partial",
+      "parts": [
+        "part",
+        "-ial",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "partly, not completely",
+        "tr": "kısmen",
+        "de": "teilweise",
+        "fr": "partiellement",
+        "it": "parzialmente",
+        "es": "parcialmente"
+      },
+      "sentences": [
+        {
+          "en": "The road is [partially] closed for repairs.",
+          "tr": "Yol onarım nedeniyle kısmen kapalı.",
+          "de": "Die Straße ist wegen Bauarbeiten teilweise gesperrt.",
+          "fr": "La route est partiellement fermée pour travaux.",
+          "it": "La strada è parzialmente chiusa per lavori.",
+          "es": "La carretera está parcialmente cerrada por obras."
+        },
+        {
+          "en": "The fire [partially] destroyed the old barn.",
+          "tr": "Yangın eski ahırı kısmen yok etti.",
+          "de": "Das Feuer zerstörte die alte Scheune teilweise.",
+          "fr": "L'incendie a partiellement détruit la vieille grange.",
+          "it": "L'incendio ha parzialmente distrutto il vecchio fienile.",
+          "es": "El incendio destruyó parcialmente el viejo granero."
+        }
+      ]
+    },
+    {
+      "id": "impartial",
+      "pos": "adjective",
+      "parent": "partial",
+      "parts": [
+        "im-not-",
+        "part",
+        "-ial"
+      ],
+      "gloss": {
+        "en": "fair, not taking any side (literally: not on one part)",
+        "tr": "tarafsız",
+        "de": "unparteiisch",
+        "fr": "impartial",
+        "it": "imparziale",
+        "es": "imparcial"
+      },
+      "sentences": [
+        {
+          "en": "A judge has to stay [impartial].",
+          "tr": "Bir yargıç tarafsız kalmak zorundadır.",
+          "de": "Ein Richter muss unparteiisch bleiben.",
+          "fr": "Un juge doit rester impartial.",
+          "it": "Un giudice deve restare imparziale.",
+          "es": "Un juez tiene que ser imparcial."
+        },
+        {
+          "en": "We asked an [impartial] expert for advice.",
+          "tr": "Tarafsız bir uzmandan tavsiye istedik.",
+          "de": "Wir baten einen unparteiischen Experten um Rat.",
+          "fr": "Nous avons demandé conseil à un expert impartial.",
+          "it": "Abbiamo chiesto consiglio a un esperto imparziale.",
+          "es": "Pedimos consejo a un experto imparcial."
+        }
+      ]
+    },
+    {
+      "id": "particle",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "part",
+        "-icle"
+      ],
+      "gloss": {
+        "en": "a very small piece of something (literally: a little part)",
+        "tr": "parçacık, zerre",
+        "de": "das Teilchen, der Partikel",
+        "fr": "la particule",
+        "it": "la particella",
+        "es": "la partícula"
+      },
+      "sentences": [
+        {
+          "en": "Dust [particles] floated in the sunlight.",
+          "tr": "Toz zerreleri güneş ışığında süzülüyordu.",
+          "de": "Staubteilchen schwebten im Sonnenlicht.",
+          "fr": "Des particules de poussière flottaient dans la lumière du soleil.",
+          "it": "Granelli di polvere fluttuavano nella luce del sole.",
+          "es": "Partículas de polvo flotaban a la luz del sol."
+        },
+        {
+          "en": "An electron is a tiny [particle] inside an atom.",
+          "tr": "Elektron, atomun içindeki minik bir parçacıktır.",
+          "de": "Ein Elektron ist ein winziges Teilchen im Atom.",
+          "fr": "Un électron est une minuscule particule dans l'atome.",
+          "it": "Un elettrone è una minuscola particella nell'atomo.",
+          "es": "Un electrón es una partícula diminuta dentro del átomo."
+        }
+      ]
+    },
+    {
+      "id": "particular",
+      "pos": "adjective",
+      "parent": "particle",
+      "parts": [
+        "part",
+        "-icular"
+      ],
+      "gloss": {
+        "en": "one specific, not general (literally: of a single small part); also: hard to please",
+        "tr": "belirli, özel; titiz",
+        "de": "bestimmt, besonder; wählerisch",
+        "fr": "particulier, précis; exigeant",
+        "it": "particolare, specifico; esigente",
+        "es": "particular, concreto; exigente"
+      },
+      "sentences": [
+        {
+          "en": "Are you looking for a [particular] book?",
+          "tr": "Belirli bir kitap mı arıyorsunuz?",
+          "de": "Suchen Sie ein bestimmtes Buch?",
+          "fr": "Cherchez-vous un livre en particulier ?",
+          "it": "Cerca un libro in particolare?",
+          "es": "¿Busca algún libro en particular?"
+        },
+        {
+          "en": "She is very [particular] about her coffee.",
+          "tr": "Kahvesi konusunda çok titizdir.",
+          "de": "Bei ihrem Kaffee ist sie sehr wählerisch.",
+          "fr": "Elle est très exigeante sur son café.",
+          "it": "È molto esigente sul caffè.",
+          "es": "Es muy exigente con su café."
+        }
+      ]
+    },
+    {
+      "id": "particularly",
+      "pos": "adverb",
+      "parent": "particular",
+      "parts": [
+        "part",
+        "-icular",
+        "-ly"
+      ],
+      "gloss": {
+        "en": "especially, more than usual; after \"not\": not very",
+        "tr": "özellikle, bilhassa; (olumsuzda) pek",
+        "de": "besonders, insbesondere",
+        "fr": "particulièrement, surtout",
+        "it": "particolarmente, soprattutto",
+        "es": "particularmente, sobre todo"
+      },
+      "sentences": [
+        {
+          "en": "I [particularly] liked the second song.",
+          "tr": "Özellikle ikinci şarkıyı beğendim.",
+          "de": "Mir hat besonders das zweite Lied gefallen.",
+          "fr": "J'ai particulièrement aimé la deuxième chanson.",
+          "it": "Mi è piaciuta soprattutto la seconda canzone.",
+          "es": "Me gustó sobre todo la segunda canción."
+        },
+        {
+          "en": "The test was not [particularly] difficult.",
+          "tr": "Sınav pek de zor değildi.",
+          "de": "Die Prüfung war nicht besonders schwer.",
+          "fr": "L'examen n'était pas particulièrement difficile.",
+          "it": "L'esame non era particolarmente difficile.",
+          "es": "El examen no fue especialmente difícil."
+        }
+      ]
+    },
+    {
+      "id": "partition",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "part",
+        "-ition"
+      ],
+      "gloss": {
+        "en": "a thin wall that divides a room; a division into parts",
+        "tr": "bölme, ara duvar; bölünme",
+        "de": "die Trennwand; die Teilung",
+        "fr": "la cloison; la partition",
+        "it": "il divisorio; la divisione",
+        "es": "el tabique; la partición"
+      },
+      "sentences": [
+        {
+          "en": "A glass [partition] separates the two offices.",
+          "tr": "Cam bir bölme iki ofisi ayırıyor.",
+          "de": "Eine Glastrennwand trennt die beiden Büros.",
+          "fr": "Une cloison vitrée sépare les deux bureaux.",
+          "it": "Un divisorio di vetro separa i due uffici.",
+          "es": "Una mampara de cristal separa las dos oficinas."
+        },
+        {
+          "en": "The [partition] of the country created two new states.",
+          "tr": "Ülkenin bölünmesi iki yeni devlet doğurdu.",
+          "de": "Die Teilung des Landes schuf zwei neue Staaten.",
+          "fr": "La partition du pays a créé deux nouveaux États.",
+          "it": "La divisione del paese ha creato due nuovi Stati.",
+          "es": "La partición del país creó dos nuevos Estados."
+        }
+      ]
+    },
+    {
+      "id": "party",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "part",
+        "-y"
+      ],
+      "gloss": {
+        "en": "a social gathering; a political group (literally: a part, a side)",
+        "tr": "parti, eğlence; siyasi parti",
+        "de": "die Party, die Feier; die Partei",
+        "fr": "la fête; le parti",
+        "it": "la festa; il partito",
+        "es": "la fiesta; el partido"
+      },
+      "sentences": [
+        {
+          "en": "We are having a [party] for her birthday.",
+          "tr": "Doğum günü için parti veriyoruz.",
+          "de": "Wir machen eine Party zu ihrem Geburtstag.",
+          "fr": "Nous organisons une fête pour son anniversaire.",
+          "it": "Facciamo una festa per il suo compleanno.",
+          "es": "Hacemos una fiesta por su cumpleaños."
+        },
+        {
+          "en": "Which [party] won the election?",
+          "tr": "Seçimi hangi parti kazandı?",
+          "de": "Welche Partei hat die Wahl gewonnen?",
+          "fr": "Quel parti a gagné les élections ?",
+          "it": "Quale partito ha vinto le elezioni?",
+          "es": "¿Qué partido ganó las elecciones?"
+        }
+      ]
+    },
+    {
+      "id": "partner",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "part",
+        "-ner"
+      ],
+      "gloss": {
+        "en": "someone who shares an activity, a business or a life with you (literally: one who holds a part)",
+        "tr": "ortak; eş, partner",
+        "de": "der Partner",
+        "fr": "le partenaire; l'associé",
+        "it": "il partner; il socio",
+        "es": "el compañero; el socio"
+      },
+      "sentences": [
+        {
+          "en": "Choose a [partner] for the next exercise.",
+          "tr": "Sıradaki alıştırma için bir eş seç.",
+          "de": "Such dir einen Partner für die nächste Übung.",
+          "fr": "Choisis un partenaire pour le prochain exercice.",
+          "it": "Scegli un compagno per il prossimo esercizio.",
+          "es": "Elige un compañero para el siguiente ejercicio."
+        },
+        {
+          "en": "She runs the café with a business [partner].",
+          "tr": "Kafeyi bir iş ortağıyla işletiyor.",
+          "de": "Sie führt das Café mit einem Geschäftspartner.",
+          "fr": "Elle tient le café avec un associé.",
+          "it": "Gestisce il bar con un socio.",
+          "es": "Lleva la cafetería con un socio."
+        }
+      ]
+    },
+    {
+      "id": "partnership",
+      "pos": "noun",
+      "parent": "partner",
+      "parts": [
+        "part",
+        "-ner",
+        "-ship"
+      ],
+      "gloss": {
+        "en": "working together as partners",
+        "tr": "ortaklık",
+        "de": "die Partnerschaft",
+        "fr": "le partenariat",
+        "it": "il partenariato, la società",
+        "es": "la asociación, la sociedad"
+      },
+      "sentences": [
+        {
+          "en": "The two schools formed a [partnership].",
+          "tr": "İki okul bir ortaklık kurdu.",
+          "de": "Die beiden Schulen gingen eine Partnerschaft ein.",
+          "fr": "Les deux écoles ont noué un partenariat.",
+          "it": "Le due scuole hanno avviato un partenariato.",
+          "es": "Los dos colegios formaron una asociación."
+        },
+        {
+          "en": "The park was built in [partnership] with the city.",
+          "tr": "Park belediyeyle ortaklaşa yapıldı.",
+          "de": "Der Park entstand in Partnerschaft mit der Stadt.",
+          "fr": "Le parc a été réalisé en partenariat avec la ville.",
+          "it": "Il parco è nato in collaborazione con il comune.",
+          "es": "El parque se hizo en colaboración con el ayuntamiento."
+        }
+      ]
+    },
+    {
+      "id": "apart",
+      "pos": "adverb",
+      "parent": null,
+      "parts": [
+        "a-",
+        "part"
+      ],
+      "gloss": {
+        "en": "separated, at a distance; into pieces (literally: to one side)",
+        "tr": "ayrı, uzakta; parçalara",
+        "de": "auseinander, getrennt",
+        "fr": "séparé, à l'écart; en morceaux",
+        "it": "separato, distante; a pezzi",
+        "es": "separado, aparte; en pedazos"
+      },
+      "sentences": [
+        {
+          "en": "The two villages are five kilometres [apart].",
+          "tr": "İki köy arasında beş kilometre var.",
+          "de": "Die beiden Dörfer liegen fünf Kilometer auseinander.",
+          "fr": "Les deux villages sont à cinq kilomètres l'un de l'autre.",
+          "it": "I due paesi distano cinque chilometri l'uno dall'altro.",
+          "es": "Los dos pueblos están a cinco kilómetros uno del otro."
+        },
+        {
+          "en": "He took the radio [apart] to fix it.",
+          "tr": "Radyoyu tamir etmek için söktü.",
+          "de": "Er nahm das Radio auseinander, um es zu reparieren.",
+          "fr": "Il a démonté la radio pour la réparer.",
+          "it": "Ha smontato la radio per ripararla.",
+          "es": "Desmontó la radio para arreglarla."
+        }
+      ]
+    },
+    {
+      "id": "apartment",
+      "pos": "noun",
+      "parent": "apart",
+      "parts": [
+        "a-",
+        "part",
+        "-ment"
+      ],
+      "gloss": {
+        "en": "a home that is one separate part of a larger building",
+        "tr": "daire, apartman dairesi",
+        "de": "die Wohnung",
+        "fr": "l'appartement",
+        "it": "l'appartamento",
+        "es": "el apartamento, el piso"
+      },
+      "sentences": [
+        {
+          "en": "They live in a small [apartment] downtown.",
+          "tr": "Şehir merkezinde küçük bir dairede yaşıyorlar.",
+          "de": "Sie wohnen in einer kleinen Wohnung in der Innenstadt.",
+          "fr": "Ils habitent un petit appartement en centre-ville.",
+          "it": "Vivono in un piccolo appartamento in centro.",
+          "es": "Viven en un piso pequeño en el centro."
+        },
+        {
+          "en": "Our [apartment] is on the third floor.",
+          "tr": "Dairemiz üçüncü katta.",
+          "de": "Unsere Wohnung liegt im dritten Stock.",
+          "fr": "Notre appartement est au troisième étage.",
+          "it": "Il nostro appartamento è al terzo piano.",
+          "es": "Nuestro apartamento está en el tercer piso."
+        }
+      ]
+    },
+    {
+      "id": "depart",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "de-",
+        "part"
+      ],
+      "gloss": {
+        "en": "to leave, to set off (literally: to part away)",
+        "tr": "ayrılmak, kalkmak, yola çıkmak",
+        "de": "abfahren, abreisen",
+        "fr": "partir",
+        "it": "partire",
+        "es": "salir, partir"
+      },
+      "sentences": [
+        {
+          "en": "The train [departs] from platform four.",
+          "tr": "Tren dördüncü perondan kalkıyor.",
+          "de": "Der Zug fährt von Gleis vier ab.",
+          "fr": "Le train part du quai quatre.",
+          "it": "Il treno parte dal binario quattro.",
+          "es": "El tren sale del andén cuatro."
+        },
+        {
+          "en": "We [departed] early to avoid the traffic.",
+          "tr": "Trafiğe yakalanmamak için erken yola çıktık.",
+          "de": "Wir fuhren früh los, um dem Verkehr zu entgehen.",
+          "fr": "Nous sommes partis tôt pour éviter les bouchons.",
+          "it": "Siamo partiti presto per evitare il traffico.",
+          "es": "Salimos temprano para evitar el tráfico."
+        }
+      ]
+    },
+    {
+      "id": "departure",
+      "pos": "noun",
+      "parent": "depart",
+      "parts": [
+        "de-",
+        "part",
+        "-ure"
+      ],
+      "gloss": {
+        "en": "the act of leaving",
+        "tr": "kalkış, ayrılış",
+        "de": "die Abfahrt, der Abflug",
+        "fr": "le départ",
+        "it": "la partenza",
+        "es": "la salida"
+      },
+      "sentences": [
+        {
+          "en": "Our [departure] was delayed by two hours.",
+          "tr": "Kalkışımız iki saat gecikti.",
+          "de": "Unsere Abfahrt verzögerte sich um zwei Stunden.",
+          "fr": "Notre départ a été retardé de deux heures.",
+          "it": "La nostra partenza è stata ritardata di due ore.",
+          "es": "Nuestra salida se retrasó dos horas."
+        },
+        {
+          "en": "Check the [departure] time on the screen.",
+          "tr": "Kalkış saatini ekrandan kontrol et.",
+          "de": "Schau auf dem Bildschirm nach der Abfahrtszeit.",
+          "fr": "Vérifie l'heure de départ sur l'écran.",
+          "it": "Controlla l'orario di partenza sullo schermo.",
+          "es": "Mira la hora de salida en la pantalla."
+        }
+      ]
+    },
+    {
+      "id": "department",
+      "pos": "noun",
+      "parent": "depart",
+      "parts": [
+        "de-",
+        "part",
+        "-ment"
+      ],
+      "gloss": {
+        "en": "one section of a company, shop, university or government (literally: a part divided off)",
+        "tr": "bölüm, departman; reyon",
+        "de": "die Abteilung",
+        "fr": "le service; le rayon; le département",
+        "it": "il reparto; il dipartimento",
+        "es": "el departamento, la sección"
+      },
+      "sentences": [
+        {
+          "en": "She works in the sales [department].",
+          "tr": "Satış bölümünde çalışıyor.",
+          "de": "Sie arbeitet in der Verkaufsabteilung.",
+          "fr": "Elle travaille au service des ventes.",
+          "it": "Lavora nel reparto vendite.",
+          "es": "Trabaja en el departamento de ventas."
+        },
+        {
+          "en": "The toy [department] is on the top floor.",
+          "tr": "Oyuncak reyonu en üst katta.",
+          "de": "Die Spielzeugabteilung ist im obersten Stock.",
+          "fr": "Le rayon jouets est au dernier étage.",
+          "it": "Il reparto giocattoli è all'ultimo piano.",
+          "es": "La sección de juguetes está en la última planta."
+        }
+      ]
+    },
+    {
+      "id": "impart",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "im-",
+        "part"
+      ],
+      "gloss": {
+        "en": "to pass on knowledge or a quality (literally: to give a part of)",
+        "tr": "aktarmak, kazandırmak",
+        "de": "vermitteln, verleihen",
+        "fr": "transmettre, donner",
+        "it": "trasmettere, conferire",
+        "es": "transmitir, dar"
+      },
+      "sentences": [
+        {
+          "en": "Good teachers [impart] more than facts.",
+          "tr": "İyi öğretmenler bilgiden fazlasını aktarır.",
+          "de": "Gute Lehrer vermitteln mehr als Fakten.",
+          "fr": "Les bons professeurs transmettent plus que des faits.",
+          "it": "I bravi insegnanti trasmettono più che nozioni.",
+          "es": "Los buenos profesores transmiten más que datos."
+        },
+        {
+          "en": "The herbs [impart] a fresh taste to the soup.",
+          "tr": "Otlar çorbaya taze bir tat katıyor.",
+          "de": "Die Kräuter verleihen der Suppe einen frischen Geschmack.",
+          "fr": "Les herbes donnent un goût frais à la soupe.",
+          "it": "Le erbe danno alla zuppa un sapore fresco.",
+          "es": "Las hierbas dan a la sopa un sabor fresco."
+        }
+      ]
+    },
+    {
+      "id": "counterpart",
+      "pos": "noun",
+      "parent": "part",
+      "parts": [
+        "counter-",
+        "part"
+      ],
+      "gloss": {
+        "en": "a person or thing with the same role in another place (literally: the matching part)",
+        "tr": "muadil, mevkidaş",
+        "de": "das Gegenstück, der Amtskollege",
+        "fr": "l'homologue",
+        "it": "l'omologo",
+        "es": "el homólogo"
+      },
+      "sentences": [
+        {
+          "en": "The minister met her French [counterpart] in Paris.",
+          "tr": "Bakan, Fransız mevkidaşıyla Paris'te görüştü.",
+          "de": "Die Ministerin traf ihren französischen Amtskollegen in Paris.",
+          "fr": "La ministre a rencontré son homologue français à Paris.",
+          "it": "La ministra ha incontrato il suo omologo francese a Parigi.",
+          "es": "La ministra se reunió con su homólogo francés en París."
+        },
+        {
+          "en": "Our nurses earn less than their [counterparts] abroad.",
+          "tr": "Hemşirelerimiz yurt dışındaki meslektaşlarından az kazanıyor.",
+          "de": "Unsere Pflegekräfte verdienen weniger als ihre Kollegen im Ausland.",
+          "fr": "Nos infirmiers gagnent moins que leurs homologues à l'étranger.",
+          "it": "I nostri infermieri guadagnano meno dei loro omologhi all'estero.",
+          "es": "Nuestros enfermeros ganan menos que sus homólogos en el extranjero."
+        }
+      ]
+    },
+    {
+      "id": "compartment",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "com-",
+        "part",
+        "-ment"
+      ],
+      "gloss": {
+        "en": "a separate section inside something larger",
+        "tr": "bölme, kompartıman",
+        "de": "das Abteil, das Fach",
+        "fr": "le compartiment",
+        "it": "lo scompartimento",
+        "es": "el compartimento"
+      },
+      "sentences": [
+        {
+          "en": "We found an empty [compartment] on the train.",
+          "tr": "Trende boş bir kompartıman bulduk.",
+          "de": "Wir fanden ein leeres Abteil im Zug.",
+          "fr": "Nous avons trouvé un compartiment vide dans le train.",
+          "it": "Abbiamo trovato uno scompartimento vuoto sul treno.",
+          "es": "Encontramos un compartimento vacío en el tren."
+        },
+        {
+          "en": "The bag has a [compartment] for a laptop.",
+          "tr": "Çantada dizüstü bilgisayar için bir bölme var.",
+          "de": "Die Tasche hat ein Fach für einen Laptop.",
+          "fr": "Le sac a un compartiment pour un ordinateur portable.",
+          "it": "La borsa ha uno scomparto per il portatile.",
+          "es": "La mochila tiene un compartimento para el portátil."
+        }
+      ]
+    },
+    {
+      "id": "participate",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "part",
+        "-icip",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "to take part in something (literally: to take a part)",
+        "tr": "katılmak",
+        "de": "teilnehmen",
+        "fr": "participer",
+        "it": "partecipare",
+        "es": "participar"
+      },
+      "sentences": [
+        {
+          "en": "Everyone can [participate] in the quiz.",
+          "tr": "Yarışmaya herkes katılabilir.",
+          "de": "Jeder kann am Quiz teilnehmen.",
+          "fr": "Tout le monde peut participer au quiz.",
+          "it": "Tutti possono partecipare al quiz.",
+          "es": "Todos pueden participar en el concurso."
+        },
+        {
+          "en": "She [participated] in three races last year.",
+          "tr": "Geçen yıl üç yarışa katıldı.",
+          "de": "Sie nahm letztes Jahr an drei Rennen teil.",
+          "fr": "Elle a participé à trois courses l'an dernier.",
+          "it": "L'anno scorso ha partecipato a tre gare.",
+          "es": "El año pasado participó en tres carreras."
+        }
+      ]
+    },
+    {
+      "id": "participant",
+      "pos": "noun",
+      "parent": "participate",
+      "parts": [
+        "part",
+        "-icip",
+        "-ant"
+      ],
+      "gloss": {
+        "en": "a person who takes part",
+        "tr": "katılımcı",
+        "de": "der Teilnehmer",
+        "fr": "le participant",
+        "it": "il partecipante",
+        "es": "el participante"
+      },
+      "sentences": [
+        {
+          "en": "Each [participant] gets a free T-shirt.",
+          "tr": "Her katılımcıya ücretsiz bir tişört veriliyor.",
+          "de": "Jeder Teilnehmer bekommt ein kostenloses T-Shirt.",
+          "fr": "Chaque participant reçoit un tee-shirt gratuit.",
+          "it": "Ogni partecipante riceve una maglietta gratis.",
+          "es": "Cada participante recibe una camiseta gratis."
+        },
+        {
+          "en": "The course is limited to twenty [participants].",
+          "tr": "Kurs yirmi katılımcıyla sınırlı.",
+          "de": "Der Kurs ist auf zwanzig Teilnehmer begrenzt.",
+          "fr": "Le cours est limité à vingt participants.",
+          "it": "Il corso è limitato a venti partecipanti.",
+          "es": "El curso está limitado a veinte participantes."
+        }
+      ]
+    },
+    {
+      "id": "participation",
+      "pos": "noun",
+      "parent": "participate",
+      "parts": [
+        "part",
+        "-icip",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "the act of taking part",
+        "tr": "katılım",
+        "de": "die Teilnahme",
+        "fr": "la participation",
+        "it": "la partecipazione",
+        "es": "la participación"
+      },
+      "sentences": [
+        {
+          "en": "Class [participation] counts toward your grade.",
+          "tr": "Derse katılım notunu etkiler.",
+          "de": "Die Mitarbeit im Unterricht zählt für die Note.",
+          "fr": "La participation en classe compte dans la note.",
+          "it": "La partecipazione in classe conta per il voto.",
+          "es": "La participación en clase cuenta para la nota."
+        },
+        {
+          "en": "Thank you for your [participation] in the survey.",
+          "tr": "Ankete katılımınız için teşekkürler.",
+          "de": "Vielen Dank für Ihre Teilnahme an der Umfrage.",
+          "fr": "Merci de votre participation à l'enquête.",
+          "it": "Grazie per la partecipazione al sondaggio.",
+          "es": "Gracias por su participación en la encuesta."
+        }
+      ]
+    },
+    {
+      "id": "parcel",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "parc",
+        "-el"
+      ],
+      "gloss": {
+        "en": "a wrapped package sent by post (literally: a little part)",
+        "tr": "koli, paket",
+        "de": "das Paket",
+        "fr": "le colis",
+        "it": "il pacco",
+        "es": "el paquete"
+      },
+      "sentences": [
+        {
+          "en": "A [parcel] arrived for you this morning.",
+          "tr": "Bu sabah sana bir koli geldi.",
+          "de": "Heute Morgen ist ein Paket für dich angekommen.",
+          "fr": "Un colis est arrivé pour toi ce matin.",
+          "it": "Stamattina è arrivato un pacco per te.",
+          "es": "Esta mañana llegó un paquete para ti."
+        },
+        {
+          "en": "I have to pick up a [parcel] at the post office.",
+          "tr": "Postaneden bir koli almam gerekiyor.",
+          "de": "Ich muss ein Paket bei der Post abholen.",
+          "fr": "Je dois récupérer un colis à la poste.",
+          "it": "Devo ritirare un pacco alla posta.",
+          "es": "Tengo que recoger un paquete en correos."
+        }
+      ]
+    },
+    {
+      "id": "partisan",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "part",
+        "-isan"
+      ],
+      "gloss": {
+        "en": "strongly supporting one party or side, often without thinking",
+        "tr": "partizan, taraflı",
+        "de": "parteiisch, parteipolitisch",
+        "fr": "partisan",
+        "it": "di parte, fazioso",
+        "es": "partidista"
+      },
+      "sentences": [
+        {
+          "en": "The debate turned into a [partisan] fight.",
+          "tr": "Tartışma partizanca bir kavgaya dönüştü.",
+          "de": "Die Debatte wurde zu einem parteipolitischen Streit.",
+          "fr": "Le débat a tourné à la querelle partisane.",
+          "it": "Il dibattito è diventato uno scontro di parte.",
+          "es": "El debate se convirtió en una pelea partidista."
+        },
+        {
+          "en": "Voters are tired of [partisan] politics.",
+          "tr": "Seçmenler partizan siyasetten bıktı.",
+          "de": "Die Wähler haben die Parteipolitik satt.",
+          "fr": "Les électeurs sont las de la politique partisane.",
+          "it": "Gli elettori sono stanchi della politica faziosa.",
+          "es": "Los votantes están hartos de la política partidista."
+        }
+      ]
+    },
+    {
+      "id": "bipartisan",
+      "pos": "adjective",
+      "parent": "partisan",
+      "parts": [
+        "bi-",
+        "part",
+        "-isan"
+      ],
+      "gloss": {
+        "en": "supported by two political parties",
+        "tr": "iki partili, iki partinin desteklediği",
+        "de": "überparteilich, von beiden Parteien getragen",
+        "fr": "bipartisan",
+        "it": "bipartisan",
+        "es": "bipartidista"
+      },
+      "sentences": [
+        {
+          "en": "The law passed with [bipartisan] support.",
+          "tr": "Yasa iki partinin de desteğiyle geçti.",
+          "de": "Das Gesetz wurde mit Unterstützung beider Parteien verabschiedet.",
+          "fr": "La loi a été adoptée avec un soutien bipartisan.",
+          "it": "La legge è passata con un sostegno bipartisan.",
+          "es": "La ley se aprobó con apoyo bipartidista."
+        },
+        {
+          "en": "A [bipartisan] group of senators wrote the plan.",
+          "tr": "Planı iki partiden senatörlerin oluşturduğu bir grup yazdı.",
+          "de": "Eine überparteiliche Gruppe von Senatoren schrieb den Plan.",
+          "fr": "Un groupe bipartisan de sénateurs a rédigé le plan.",
+          "it": "Un gruppo bipartisan di senatori ha scritto il piano.",
+          "es": "Un grupo bipartidista de senadores redactó el plan."
+        }
+      ]
+    }
+  ]
+}

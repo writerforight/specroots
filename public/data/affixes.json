@@ -3686,5 +3686,50 @@
       "it": "completamente, da ogni parte (inglese antico)",
       "es": "por completo, por todas partes (inglés antiguo)"
     }
+  },
+  "-ner": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "person who has or holds (from Old French -onier)",
+      "tr": "sahip olan, tutan kişi (Eski Fransızca -onier)",
+      "de": "Person, die etwas hat oder hält (altfranzösisch -onier)",
+      "fr": "personne qui a ou tient (ancien français -onier)",
+      "it": "persona che ha o tiene (francese antico -onier)",
+      "es": "persona que tiene (francés antiguo -onier)"
+    }
+  },
+  "counter-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "against, opposite; matching",
+      "tr": "karşı, karşılık gelen",
+      "de": "gegen-, entsprechend",
+      "fr": "contre-, correspondant",
+      "it": "contro-, corrispondente",
+      "es": "contra-, correspondiente"
+    }
+  },
+  "-isan": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "person belonging to a side (from Italian -igiano)",
+      "tr": "bir tarafa ait kişi (İtalyanca -igiano)",
+      "de": "Person, die zu einer Seite gehört (italienisch -igiano)",
+      "fr": "personne attachée à un camp (italien -igiano)",
+      "it": "persona che appartiene a una parte (-igiano)",
+      "es": "persona que pertenece a un bando (italiano -igiano)"
+    }
+  },
+  "-icip": {
+    "kind": "suffix",
+    "combining": true,
+    "meaning": {
+      "en": "to take (Latin capere)",
+      "tr": "almak (Latince capere)",
+      "de": "nehmen (lateinisch capere)",
+      "fr": "prendre (latin capere)",
+      "it": "prendere (latino capere)",
+      "es": "tomar (latín capere)"
+    }
   }
 }
