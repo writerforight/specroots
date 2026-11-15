@@ -3,7 +3,8 @@
   "addedBy": "writerforight",
   "forms": [
     "part",
-    "parc"
+    "parc",
+    "port"
   ],
   "origin": "la",
   "etymon": "pars, partis",
@@ -934,6 +935,152 @@
           "fr": "Un groupe bipartisan de sénateurs a rédigé le plan.",
           "it": "Un gruppo bipartisan di senatori ha scritto il piano.",
           "es": "Un grupo bipartidista de senadores redactó el plan."
+        }
+      ]
+    },
+    {
+      "id": "portion",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "port",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a share of something; an amount of food for one person (Latin portio, a share, related to pars)",
+        "tr": "pay, kısım; porsiyon",
+        "de": "der Anteil; die Portion",
+        "fr": "la part; la portion",
+        "it": "la parte; la porzione",
+        "es": "la parte; la porción, la ración"
+      },
+      "sentences": [
+        {
+          "en": "The [portions] in this restaurant are huge.",
+          "tr": "Bu restoranda porsiyonlar kocaman.",
+          "de": "Die Portionen in diesem Restaurant sind riesig.",
+          "fr": "Les portions de ce restaurant sont énormes.",
+          "it": "Le porzioni in questo ristorante sono enormi.",
+          "es": "Las raciones de este restaurante son enormes."
+        },
+        {
+          "en": "A large [portion] of the money went to schools.",
+          "tr": "Paranın büyük bir kısmı okullara gitti.",
+          "de": "Ein großer Teil des Geldes ging an Schulen.",
+          "fr": "Une grande part de l'argent est allée aux écoles.",
+          "it": "Gran parte del denaro è andata alle scuole.",
+          "es": "Gran parte del dinero fue a las escuelas."
+        }
+      ]
+    },
+    {
+      "id": "proportion",
+      "pos": "noun",
+      "parent": "portion",
+      "parts": [
+        "pro-",
+        "port",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "a part compared with the whole; the right relation in size (literally: for its share)",
+        "tr": "oran, orantı",
+        "de": "der Anteil, das Verhältnis",
+        "fr": "la proportion",
+        "it": "la proporzione",
+        "es": "la proporción"
+      },
+      "sentences": [
+        {
+          "en": "A small [proportion] of students failed the exam.",
+          "tr": "Öğrencilerin küçük bir oranı sınavdan kaldı.",
+          "de": "Ein kleiner Anteil der Studenten fiel durch die Prüfung.",
+          "fr": "Une faible proportion d'étudiants a raté l'examen.",
+          "it": "Una piccola percentuale di studenti non ha passato l'esame.",
+          "es": "Una pequeña proporción de estudiantes suspendió el examen."
+        },
+        {
+          "en": "The head is too big in [proportion] to the body.",
+          "tr": "Kafa gövdeye oranla fazla büyük.",
+          "de": "Der Kopf ist im Verhältnis zum Körper zu groß.",
+          "fr": "La tête est trop grosse par rapport au corps.",
+          "it": "La testa è troppo grande in proporzione al corpo.",
+          "es": "La cabeza es demasiado grande en proporción al cuerpo."
+        }
+      ]
+    },
+    {
+      "id": "proportional",
+      "pos": "adjective",
+      "parent": "proportion",
+      "parts": [
+        "pro-",
+        "port",
+        "-ion",
+        "-al"
+      ],
+      "gloss": {
+        "en": "growing or shrinking at the same rate as something else",
+        "tr": "orantılı",
+        "de": "proportional, verhältnismäßig",
+        "fr": "proportionnel",
+        "it": "proporzionale",
+        "es": "proporcional"
+      },
+      "sentences": [
+        {
+          "en": "The price is [proportional] to the weight.",
+          "tr": "Fiyat ağırlıkla orantılı.",
+          "de": "Der Preis ist proportional zum Gewicht.",
+          "fr": "Le prix est proportionnel au poids.",
+          "it": "Il prezzo è proporzionale al peso.",
+          "es": "El precio es proporcional al peso."
+        },
+        {
+          "en": "The punishment should be [proportional] to the mistake.",
+          "tr": "Ceza, hatayla orantılı olmalı.",
+          "de": "Die Strafe sollte dem Fehler angemessen sein.",
+          "fr": "La punition doit être proportionnelle à la faute.",
+          "it": "La punizione deve essere proporzionata all'errore.",
+          "es": "El castigo debe ser proporcional al error."
+        }
+      ]
+    },
+    {
+      "id": "disproportionate",
+      "pos": "adjective",
+      "parent": "proportion",
+      "parts": [
+        "dis-",
+        "pro-",
+        "port",
+        "-ion",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "too large or too small compared with something else",
+        "tr": "orantısız",
+        "de": "unverhältnismäßig",
+        "fr": "disproportionné",
+        "it": "sproporzionato",
+        "es": "desproporcionado"
+      },
+      "sentences": [
+        {
+          "en": "The fine was [disproportionate] to such a small mistake.",
+          "tr": "Ceza, bu kadar küçük bir hataya göre orantısızdı.",
+          "de": "Die Geldstrafe war für so einen kleinen Fehler unverhältnismäßig.",
+          "fr": "L'amende était disproportionnée pour une si petite erreur.",
+          "it": "La multa era sproporzionata per un errore così piccolo.",
+          "es": "La multa fue desproporcionada para un error tan pequeño."
+        },
+        {
+          "en": "He spends a [disproportionate] amount of time on his phone.",
+          "tr": "Telefonuna orantısız derecede çok zaman harcıyor.",
+          "de": "Er verbringt unverhältnismäßig viel Zeit am Handy.",
+          "fr": "Il passe un temps disproportionné sur son téléphone.",
+          "it": "Passa una quantità sproporzionata di tempo al telefono.",
+          "es": "Pasa una cantidad desproporcionada de tiempo con el móvil."
         }
       ]
     }
