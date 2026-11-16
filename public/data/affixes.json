@@ -3731,5 +3731,28 @@
       "it": "prendere (latino capere)",
       "es": "tomar (latín capere)"
     }
+  },
+  "sug-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "under, up from below (sub- before g)",
+      "tr": "alt, alttan yukarı (g önünde sub-)",
+      "de": "unter, von unten herauf (sub- vor g)",
+      "fr": "sous, de dessous (sub- devant g)",
+      "it": "sotto, dal basso (sub- davanti a g)",
+      "es": "debajo, desde abajo (sub- ante g)"
+    }
+  },
+  "belli-": {
+    "kind": "prefix",
+    "combining": true,
+    "meaning": {
+      "en": "war (Latin bellum)",
+      "tr": "savaş (Latince bellum)",
+      "de": "Krieg (lateinisch bellum)",
+      "fr": "guerre (latin bellum)",
+      "it": "guerra (latino bellum)",
+      "es": "guerra (latín bellum)"
+    }
   }
 }

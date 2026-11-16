@@ -1,0 +1,917 @@
+{
+  "id": "gest",
+  "addedBy": "writerforight",
+  "forms": [
+    "gest",
+    "ger",
+    "gister",
+    "gistr",
+    "jest"
+  ],
+  "origin": "la",
+  "etymon": "gerere",
+  "meaning": {
+    "en": "to carry, to bear; to carry out",
+    "tr": "taşımak; yürütmek, yapmak",
+    "de": "tragen; ausführen",
+    "fr": "porter; accomplir",
+    "it": "portare; compiere",
+    "es": "llevar; realizar"
+  },
+  "words": [
+    {
+      "id": "gesture",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "gest",
+        "-ure"
+      ],
+      "gloss": {
+        "en": "a movement of the hand or head that shows a meaning; a kind act (literally: the way you carry yourself)",
+        "tr": "el kol hareketi; jest",
+        "de": "die Geste",
+        "fr": "le geste",
+        "it": "il gesto",
+        "es": "el gesto"
+      },
+      "sentences": [
+        {
+          "en": "She made a [gesture] for us to sit down.",
+          "tr": "Oturmamız için bir el hareketi yaptı.",
+          "de": "Sie machte eine Geste, dass wir uns setzen sollten.",
+          "fr": "Elle nous a fait signe de nous asseoir.",
+          "it": "Ci fece cenno di sederci.",
+          "es": "Nos hizo un gesto para que nos sentáramos."
+        },
+        {
+          "en": "Sending flowers was a kind [gesture].",
+          "tr": "Çiçek göndermek nazik bir jestti.",
+          "de": "Blumen zu schicken war eine nette Geste.",
+          "fr": "Envoyer des fleurs était un geste gentil.",
+          "it": "Mandare dei fiori è stato un gesto gentile.",
+          "es": "Enviar flores fue un gesto amable."
+        }
+      ]
+    },
+    {
+      "id": "digest",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "di-",
+        "gest"
+      ],
+      "gloss": {
+        "en": "to break down food in the stomach; to take in information (literally: to carry apart)",
+        "tr": "sindirmek",
+        "de": "verdauen",
+        "fr": "digérer",
+        "it": "digerire",
+        "es": "digerir"
+      },
+      "sentences": [
+        {
+          "en": "Babies cannot [digest] nuts very well.",
+          "tr": "Bebekler kuruyemişi pek iyi sindiremez.",
+          "de": "Babys können Nüsse nicht gut verdauen.",
+          "fr": "Les bébés digèrent mal les noix.",
+          "it": "I neonati non digeriscono bene la frutta secca.",
+          "es": "Los bebés no digieren bien los frutos secos."
+        },
+        {
+          "en": "Give me a minute to [digest] the news.",
+          "tr": "Haberi sindirmem için bana bir dakika ver.",
+          "de": "Gib mir eine Minute, um die Nachricht zu verdauen.",
+          "fr": "Laisse-moi une minute pour digérer la nouvelle.",
+          "it": "Dammi un minuto per digerire la notizia.",
+          "es": "Dame un minuto para digerir la noticia."
+        }
+      ]
+    },
+    {
+      "id": "digestion",
+      "pos": "noun",
+      "parent": "digest",
+      "parts": [
+        "di-",
+        "gest",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "the process of breaking down food in the body",
+        "tr": "sindirim",
+        "de": "die Verdauung",
+        "fr": "la digestion",
+        "it": "la digestione",
+        "es": "la digestión"
+      },
+      "sentences": [
+        {
+          "en": "A short walk after dinner helps [digestion].",
+          "tr": "Akşam yemeğinden sonra kısa bir yürüyüş sindirime yardımcı olur.",
+          "de": "Ein kurzer Spaziergang nach dem Essen hilft der Verdauung.",
+          "fr": "Une petite marche après le dîner aide la digestion.",
+          "it": "Una breve passeggiata dopo cena aiuta la digestione.",
+          "es": "Un paseo corto después de cenar ayuda a la digestión."
+        },
+        {
+          "en": "The [digestion] of meat takes several hours.",
+          "tr": "Etin sindirimi birkaç saat sürer.",
+          "de": "Die Verdauung von Fleisch dauert mehrere Stunden.",
+          "fr": "La digestion de la viande prend plusieurs heures.",
+          "it": "La digestione della carne richiede diverse ore.",
+          "es": "La digestión de la carne tarda varias horas."
+        }
+      ]
+    },
+    {
+      "id": "digestive",
+      "pos": "adjective",
+      "parent": "digest",
+      "parts": [
+        "di-",
+        "gest",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "connected with digesting food",
+        "tr": "sindirimle ilgili, sindirim",
+        "de": "Verdauungs-",
+        "fr": "digestif",
+        "it": "digestivo, digerente",
+        "es": "digestivo"
+      },
+      "sentences": [
+        {
+          "en": "The stomach is part of the [digestive] system.",
+          "tr": "Mide sindirim sisteminin bir parçasıdır.",
+          "de": "Der Magen ist Teil des Verdauungssystems.",
+          "fr": "L'estomac fait partie du système digestif.",
+          "it": "Lo stomaco fa parte dell'apparato digerente.",
+          "es": "El estómago forma parte del sistema digestivo."
+        },
+        {
+          "en": "He has had [digestive] problems since the trip.",
+          "tr": "Yolculuktan beri sindirim sorunları yaşıyor.",
+          "de": "Seit der Reise hat er Verdauungsprobleme.",
+          "fr": "Il a des problèmes digestifs depuis le voyage.",
+          "it": "Ha problemi digestivi dal viaggio.",
+          "es": "Tiene problemas digestivos desde el viaje."
+        }
+      ]
+    },
+    {
+      "id": "digestible",
+      "pos": "adjective",
+      "parent": "digest",
+      "parts": [
+        "di-",
+        "gest",
+        "-ible"
+      ],
+      "gloss": {
+        "en": "easy to digest; easy to understand",
+        "tr": "sindirimi kolay; kolay anlaşılır",
+        "de": "leicht verdaulich; leicht verständlich",
+        "fr": "digeste; facile à comprendre",
+        "it": "digeribile; facile da capire",
+        "es": "digerible; fácil de entender"
+      },
+      "sentences": [
+        {
+          "en": "Rice is very [digestible] when you are ill.",
+          "tr": "Hastayken pirinç çok kolay sindirilir.",
+          "de": "Reis ist sehr leicht verdaulich, wenn man krank ist.",
+          "fr": "Le riz est très digeste quand on est malade.",
+          "it": "Il riso è molto digeribile quando si è malati.",
+          "es": "El arroz es muy digerible cuando estás enfermo."
+        },
+        {
+          "en": "The teacher cut the topic into [digestible] pieces.",
+          "tr": "Öğretmen konuyu kolay anlaşılır parçalara böldü.",
+          "de": "Die Lehrerin teilte das Thema in leicht verständliche Stücke.",
+          "fr": "Le professeur a découpé le sujet en morceaux faciles à comprendre.",
+          "it": "L'insegnante ha diviso l'argomento in parti facili da capire.",
+          "es": "La profesora dividió el tema en partes fáciles de entender."
+        }
+      ]
+    },
+    {
+      "id": "indigestion",
+      "pos": "noun",
+      "parent": "digestion",
+      "parts": [
+        "in-not-",
+        "di-",
+        "gest",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "pain in the stomach when food is not digested well",
+        "tr": "hazımsızlık",
+        "de": "die Verdauungsstörung",
+        "fr": "l'indigestion",
+        "it": "l'indigestione",
+        "es": "la indigestión"
+      },
+      "sentences": [
+        {
+          "en": "Eating too fast gives me [indigestion].",
+          "tr": "Çok hızlı yemek bende hazımsızlık yapıyor.",
+          "de": "Zu schnelles Essen verursacht bei mir Verdauungsstörungen.",
+          "fr": "Manger trop vite me donne une indigestion.",
+          "it": "Mangiare troppo in fretta mi fa venire l'indigestione.",
+          "es": "Comer demasiado rápido me da indigestión."
+        },
+        {
+          "en": "He took a tablet for his [indigestion].",
+          "tr": "Hazımsızlığı için bir tablet aldı.",
+          "de": "Er nahm eine Tablette gegen seine Verdauungsstörung.",
+          "fr": "Il a pris un comprimé contre son indigestion.",
+          "it": "Ha preso una compressa per l'indigestione.",
+          "es": "Tomó una pastilla para la indigestión."
+        }
+      ]
+    },
+    {
+      "id": "suggest",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "sug-",
+        "gest"
+      ],
+      "gloss": {
+        "en": "to offer an idea for someone to think about; to point to something (literally: to carry up from below)",
+        "tr": "önermek; ima etmek, işaret etmek",
+        "de": "vorschlagen; andeuten",
+        "fr": "suggérer, proposer",
+        "it": "suggerire, proporre",
+        "es": "sugerir, proponer"
+      },
+      "sentences": [
+        {
+          "en": "Can you [suggest] a good restaurant near here?",
+          "tr": "Buraya yakın iyi bir restoran önerebilir misin?",
+          "de": "Kannst du ein gutes Restaurant in der Nähe vorschlagen?",
+          "fr": "Peux-tu suggérer un bon restaurant près d'ici ?",
+          "it": "Puoi suggerire un buon ristorante qui vicino?",
+          "es": "¿Puedes sugerir un buen restaurante cerca de aquí?"
+        },
+        {
+          "en": "The dark clouds [suggest] that rain is coming.",
+          "tr": "Kara bulutlar yağmurun geleceğine işaret ediyor.",
+          "de": "Die dunklen Wolken deuten darauf hin, dass Regen kommt.",
+          "fr": "Les nuages sombres laissent penser que la pluie arrive.",
+          "it": "Le nuvole scure fanno pensare che stia arrivando la pioggia.",
+          "es": "Las nubes oscuras sugieren que viene lluvia."
+        }
+      ]
+    },
+    {
+      "id": "suggestion",
+      "pos": "noun",
+      "parent": "suggest",
+      "parts": [
+        "sug-",
+        "gest",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "an idea or plan that you offer",
+        "tr": "öneri",
+        "de": "der Vorschlag",
+        "fr": "la suggestion",
+        "it": "il suggerimento",
+        "es": "la sugerencia"
+      },
+      "sentences": [
+        {
+          "en": "Thanks for the [suggestion]; I will try it.",
+          "tr": "Öneri için teşekkürler, deneyeceğim.",
+          "de": "Danke für den Vorschlag, ich probiere es aus.",
+          "fr": "Merci pour la suggestion, je vais essayer.",
+          "it": "Grazie per il suggerimento, ci proverò.",
+          "es": "Gracias por la sugerencia; lo probaré."
+        },
+        {
+          "en": "Does anyone have a better [suggestion]?",
+          "tr": "Daha iyi bir önerisi olan var mı?",
+          "de": "Hat jemand einen besseren Vorschlag?",
+          "fr": "Quelqu'un a-t-il une meilleure suggestion ?",
+          "it": "Qualcuno ha un suggerimento migliore?",
+          "es": "¿Alguien tiene una sugerencia mejor?"
+        }
+      ]
+    },
+    {
+      "id": "suggestive",
+      "pos": "adjective",
+      "parent": "suggest",
+      "parts": [
+        "sug-",
+        "gest",
+        "-ive"
+      ],
+      "gloss": {
+        "en": "making you think of something, often something sexual",
+        "tr": "çağrıştıran; imalı",
+        "de": "andeutend; anzüglich",
+        "fr": "évocateur; suggestif",
+        "it": "evocativo; allusivo",
+        "es": "evocador; insinuante"
+      },
+      "sentences": [
+        {
+          "en": "The music is [suggestive] of a summer evening.",
+          "tr": "Müzik bir yaz akşamını çağrıştırıyor.",
+          "de": "Die Musik erinnert an einen Sommerabend.",
+          "fr": "La musique évoque un soir d'été.",
+          "it": "La musica evoca una sera d'estate.",
+          "es": "La música evoca una tarde de verano."
+        },
+        {
+          "en": "He was told off for making [suggestive] jokes.",
+          "tr": "İmalı şakalar yaptığı için azarlandı.",
+          "de": "Er wurde wegen anzüglicher Witze ermahnt.",
+          "fr": "On l'a réprimandé pour ses blagues suggestives.",
+          "it": "È stato rimproverato per le sue battute allusive.",
+          "es": "Lo regañaron por hacer bromas insinuantes."
+        }
+      ]
+    },
+    {
+      "id": "congest",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "con-",
+        "gest"
+      ],
+      "gloss": {
+        "en": "to fill a place so full that nothing can move (literally: to carry together)",
+        "tr": "tıkamak, sıkıştırmak",
+        "de": "verstopfen, überfüllen",
+        "fr": "congestionner, encombrer",
+        "it": "congestionare, intasare",
+        "es": "congestionar, atascar"
+      },
+      "sentences": [
+        {
+          "en": "Parked trucks [congest] the narrow street every morning.",
+          "tr": "Park etmiş kamyonlar her sabah dar sokağı tıkıyor.",
+          "de": "Parkende Lastwagen verstopfen jeden Morgen die enge Straße.",
+          "fr": "Les camions garés encombrent la rue étroite chaque matin.",
+          "it": "I camion parcheggiati intasano la via stretta ogni mattina.",
+          "es": "Los camiones aparcados atascan la calle estrecha cada mañana."
+        },
+        {
+          "en": "Too many visitors [congest] the old town in summer.",
+          "tr": "Yazın çok fazla ziyaretçi eski şehri tıkıyor.",
+          "de": "Zu viele Besucher überfüllen im Sommer die Altstadt.",
+          "fr": "Trop de visiteurs encombrent la vieille ville en été.",
+          "it": "Troppi visitatori congestionano il centro storico d'estate.",
+          "es": "Demasiados visitantes congestionan el casco antiguo en verano."
+        }
+      ]
+    },
+    {
+      "id": "congested",
+      "pos": "adjective",
+      "parent": "congest",
+      "parts": [
+        "con-",
+        "gest",
+        "-ed"
+      ],
+      "gloss": {
+        "en": "too full of traffic or people; (of a nose) blocked",
+        "tr": "sıkışık, tıkanmış; (burun) tıkalı",
+        "de": "verstopft, überfüllt",
+        "fr": "encombré; (nez) bouché",
+        "it": "congestionato, intasato; (naso) chiuso",
+        "es": "congestionado, atascado; (nariz) tapada"
+      },
+      "sentences": [
+        {
+          "en": "The roads are always [congested] at five o'clock.",
+          "tr": "Yollar saat beşte hep sıkışık olur.",
+          "de": "Die Straßen sind um fünf Uhr immer verstopft.",
+          "fr": "Les routes sont toujours encombrées à cinq heures.",
+          "it": "Le strade sono sempre intasate alle cinque.",
+          "es": "Las carreteras siempre están atascadas a las cinco."
+        },
+        {
+          "en": "My nose is so [congested] that I cannot smell.",
+          "tr": "Burnum o kadar tıkalı ki koku alamıyorum.",
+          "de": "Meine Nase ist so verstopft, dass ich nichts rieche.",
+          "fr": "J'ai le nez tellement bouché que je ne sens rien.",
+          "it": "Ho il naso così chiuso che non sento gli odori.",
+          "es": "Tengo la nariz tan tapada que no huelo nada."
+        }
+      ]
+    },
+    {
+      "id": "congestion",
+      "pos": "noun",
+      "parent": "congest",
+      "parts": [
+        "con-",
+        "gest",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "the state of being too full or blocked",
+        "tr": "sıkışıklık, tıkanıklık",
+        "de": "der Stau; die Verstopfung",
+        "fr": "l'embouteillage; la congestion",
+        "it": "la congestione, l'ingorgo",
+        "es": "la congestión, el atasco"
+      },
+      "sentences": [
+        {
+          "en": "A new bridge would reduce traffic [congestion].",
+          "tr": "Yeni bir köprü trafik sıkışıklığını azaltırdı.",
+          "de": "Eine neue Brücke würde die Verkehrsstaus verringern.",
+          "fr": "Un nouveau pont réduirait les embouteillages.",
+          "it": "Un nuovo ponte ridurrebbe la congestione del traffico.",
+          "es": "Un puente nuevo reduciría la congestión del tráfico."
+        },
+        {
+          "en": "Steam can help with nasal [congestion].",
+          "tr": "Buhar burun tıkanıklığına iyi gelebilir.",
+          "de": "Dampf kann bei verstopfter Nase helfen.",
+          "fr": "La vapeur peut soulager la congestion nasale.",
+          "it": "Il vapore può aiutare contro la congestione nasale.",
+          "es": "El vapor puede aliviar la congestión nasal."
+        }
+      ]
+    },
+    {
+      "id": "decongestant",
+      "pos": "noun",
+      "parent": "congest",
+      "parts": [
+        "de-",
+        "con-",
+        "gest",
+        "-ant"
+      ],
+      "gloss": {
+        "en": "a medicine that unblocks your nose",
+        "tr": "burun açıcı ilaç",
+        "de": "das abschwellende Mittel",
+        "fr": "le décongestionnant",
+        "it": "il decongestionante",
+        "es": "el descongestionante"
+      },
+      "sentences": [
+        {
+          "en": "The pharmacist gave me a [decongestant] for my cold.",
+          "tr": "Eczacı nezlem için bana burun açıcı bir ilaç verdi.",
+          "de": "Der Apotheker gab mir ein abschwellendes Mittel gegen meine Erkältung.",
+          "fr": "Le pharmacien m'a donné un décongestionnant pour mon rhume.",
+          "it": "Il farmacista mi ha dato un decongestionante per il raffreddore.",
+          "es": "El farmacéutico me dio un descongestionante para el resfriado."
+        },
+        {
+          "en": "Do not use a [decongestant] for more than a week.",
+          "tr": "Burun açıcıyı bir haftadan uzun kullanma.",
+          "de": "Verwende ein abschwellendes Mittel nicht länger als eine Woche.",
+          "fr": "N'utilise pas de décongestionnant plus d'une semaine.",
+          "it": "Non usare un decongestionante per più di una settimana.",
+          "es": "No uses un descongestionante más de una semana."
+        }
+      ]
+    },
+    {
+      "id": "ingest",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "in-",
+        "gest"
+      ],
+      "gloss": {
+        "en": "to take food or a substance into the body (literally: to carry in)",
+        "tr": "yutmak, vücuda almak",
+        "de": "aufnehmen, zu sich nehmen",
+        "fr": "ingérer",
+        "it": "ingerire",
+        "es": "ingerir"
+      },
+      "sentences": [
+        {
+          "en": "Sea birds often [ingest] small pieces of plastic.",
+          "tr": "Deniz kuşları sık sık küçük plastik parçaları yutar.",
+          "de": "Seevögel nehmen oft kleine Plastikteile auf.",
+          "fr": "Les oiseaux marins ingèrent souvent de petits morceaux de plastique.",
+          "it": "Gli uccelli marini ingeriscono spesso piccoli pezzi di plastica.",
+          "es": "Las aves marinas ingieren a menudo trocitos de plástico."
+        },
+        {
+          "en": "Call a doctor if a child [ingests] this cleaner.",
+          "tr": "Bir çocuk bu temizleyiciyi yutarsa doktoru arayın.",
+          "de": "Rufen Sie einen Arzt, wenn ein Kind diesen Reiniger verschluckt.",
+          "fr": "Appelez un médecin si un enfant ingère ce produit.",
+          "it": "Chiama un medico se un bambino ingerisce questo detergente.",
+          "es": "Llama a un médico si un niño ingiere este limpiador."
+        }
+      ]
+    },
+    {
+      "id": "ingestion",
+      "pos": "noun",
+      "parent": "ingest",
+      "parts": [
+        "in-",
+        "gest",
+        "-ion"
+      ],
+      "gloss": {
+        "en": "the act of taking something into the body",
+        "tr": "yutma, vücuda alma",
+        "de": "die Aufnahme, das Verschlucken",
+        "fr": "l'ingestion",
+        "it": "l'ingestione",
+        "es": "la ingestión"
+      },
+      "sentences": [
+        {
+          "en": "The label warns against [ingestion] of the liquid.",
+          "tr": "Etiket sıvının yutulmasına karşı uyarıyor.",
+          "de": "Das Etikett warnt vor dem Verschlucken der Flüssigkeit.",
+          "fr": "L'étiquette met en garde contre l'ingestion du liquide.",
+          "it": "L'etichetta avverte di non ingerire il liquido.",
+          "es": "La etiqueta advierte contra la ingestión del líquido."
+        },
+        {
+          "en": "Symptoms appear two hours after [ingestion].",
+          "tr": "Belirtiler yutulduktan iki saat sonra ortaya çıkar.",
+          "de": "Die Symptome treten zwei Stunden nach der Aufnahme auf.",
+          "fr": "Les symptômes apparaissent deux heures après l'ingestion.",
+          "it": "I sintomi compaiono due ore dopo l'ingestione.",
+          "es": "Los síntomas aparecen dos horas después de la ingestión."
+        }
+      ]
+    },
+    {
+      "id": "gestation",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "gest",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "the time a baby grows inside its mother; the slow growth of an idea (literally: a carrying)",
+        "tr": "gebelik süresi; olgunlaşma süreci",
+        "de": "die Trächtigkeit, die Schwangerschaft; die Reifezeit",
+        "fr": "la gestation",
+        "it": "la gestazione",
+        "es": "la gestación"
+      },
+      "sentences": [
+        {
+          "en": "An elephant's [gestation] lasts almost two years.",
+          "tr": "Bir filin gebeliği neredeyse iki yıl sürer.",
+          "de": "Die Trächtigkeit eines Elefanten dauert fast zwei Jahre.",
+          "fr": "La gestation d'un éléphant dure presque deux ans.",
+          "it": "La gestazione di un elefante dura quasi due anni.",
+          "es": "La gestación de un elefante dura casi dos años."
+        },
+        {
+          "en": "The film had a long [gestation] before shooting began.",
+          "tr": "Film, çekimler başlamadan önce uzun bir olgunlaşma sürecinden geçti.",
+          "de": "Der Film hatte eine lange Reifezeit, bevor die Dreharbeiten begannen.",
+          "fr": "Le film a connu une longue gestation avant le tournage.",
+          "it": "Il film ha avuto una lunga gestazione prima delle riprese.",
+          "es": "La película tuvo una larga gestación antes del rodaje."
+        }
+      ]
+    },
+    {
+      "id": "register",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "re-",
+        "gister"
+      ],
+      "gloss": {
+        "en": "to put a name on an official list; such a list (literally: things carried back, written down)",
+        "tr": "kaydetmek, kaydolmak; kayıt defteri",
+        "de": "anmelden, registrieren; das Register",
+        "fr": "inscrire, enregistrer; le registre",
+        "it": "registrare, iscriversi; il registro",
+        "es": "registrar, inscribirse; el registro"
+      },
+      "sentences": [
+        {
+          "en": "You must [register] before the course starts.",
+          "tr": "Kurs başlamadan önce kaydolmalısın.",
+          "de": "Du musst dich anmelden, bevor der Kurs beginnt.",
+          "fr": "Tu dois t'inscrire avant le début du cours.",
+          "it": "Devi iscriverti prima che il corso inizi.",
+          "es": "Debes inscribirte antes de que empiece el curso."
+        },
+        {
+          "en": "The teacher wrote our names in the [register].",
+          "tr": "Öğretmen adlarımızı yoklama defterine yazdı.",
+          "de": "Die Lehrerin schrieb unsere Namen ins Klassenbuch.",
+          "fr": "Le professeur a écrit nos noms dans le registre.",
+          "it": "L'insegnante ha scritto i nostri nomi sul registro.",
+          "es": "La profesora escribió nuestros nombres en el registro."
+        }
+      ]
+    },
+    {
+      "id": "registration",
+      "pos": "noun",
+      "parent": "register",
+      "parts": [
+        "re-",
+        "gistr",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "the act of putting a name on an official list",
+        "tr": "kayıt, tescil",
+        "de": "die Anmeldung, die Registrierung",
+        "fr": "l'inscription, l'enregistrement",
+        "it": "l'iscrizione, la registrazione",
+        "es": "la inscripción, el registro"
+      },
+      "sentences": [
+        {
+          "en": "Online [registration] closes on Friday.",
+          "tr": "Çevrim içi kayıt cuma günü kapanıyor.",
+          "de": "Die Online-Anmeldung endet am Freitag.",
+          "fr": "L'inscription en ligne se termine vendredi.",
+          "it": "L'iscrizione online chiude venerdì.",
+          "es": "La inscripción en línea cierra el viernes."
+        },
+        {
+          "en": "Keep the car's [registration] papers in a safe place.",
+          "tr": "Arabanın ruhsat belgelerini güvenli bir yerde sakla.",
+          "de": "Bewahre die Zulassungspapiere des Autos an einem sicheren Ort auf.",
+          "fr": "Garde les papiers d'immatriculation de la voiture en lieu sûr.",
+          "it": "Tieni i documenti di immatricolazione dell'auto in un posto sicuro.",
+          "es": "Guarda los papeles de matriculación del coche en un lugar seguro."
+        }
+      ]
+    },
+    {
+      "id": "registry",
+      "pos": "noun",
+      "parent": "register",
+      "parts": [
+        "re-",
+        "gistr",
+        "-y"
+      ],
+      "gloss": {
+        "en": "a place where official records are kept",
+        "tr": "sicil dairesi, kayıt bürosu",
+        "de": "das Register, das Standesamt",
+        "fr": "le bureau d'enregistrement, le registre",
+        "it": "l'ufficio del registro, l'anagrafe",
+        "es": "el registro (oficina)"
+      },
+      "sentences": [
+        {
+          "en": "They got married at the local [registry] office.",
+          "tr": "Yerel nikâh dairesinde evlendiler.",
+          "de": "Sie heirateten im örtlichen Standesamt.",
+          "fr": "Ils se sont mariés à la mairie.",
+          "it": "Si sono sposati all'ufficio di stato civile.",
+          "es": "Se casaron en el registro civil."
+        },
+        {
+          "en": "The land [registry] shows who owns the house.",
+          "tr": "Tapu sicili evin kime ait olduğunu gösterir.",
+          "de": "Das Grundbuch zeigt, wem das Haus gehört.",
+          "fr": "Le registre foncier indique à qui appartient la maison.",
+          "it": "Il catasto mostra a chi appartiene la casa.",
+          "es": "El registro de la propiedad muestra de quién es la casa."
+        }
+      ]
+    },
+    {
+      "id": "registrar",
+      "pos": "noun",
+      "parent": "register",
+      "parts": [
+        "re-",
+        "gistr",
+        "-ar"
+      ],
+      "gloss": {
+        "en": "a person who keeps official records",
+        "tr": "kayıt memuru, sicil memuru",
+        "de": "der Standesbeamte, der Registerführer",
+        "fr": "l'officier d'état civil, le greffier",
+        "it": "l'ufficiale di stato civile, il cancelliere",
+        "es": "el registrador"
+      },
+      "sentences": [
+        {
+          "en": "The [registrar] asked the couple to sign the book.",
+          "tr": "Nikâh memuru çiftten defteri imzalamasını istedi.",
+          "de": "Der Standesbeamte bat das Paar, das Buch zu unterschreiben.",
+          "fr": "L'officier d'état civil a demandé au couple de signer le registre.",
+          "it": "L'ufficiale di stato civile chiese alla coppia di firmare il registro.",
+          "es": "El registrador pidió a la pareja que firmara el libro."
+        },
+        {
+          "en": "Ask the university [registrar] for a copy of your grades.",
+          "tr": "Notlarının bir kopyasını üniversitenin kayıt memurundan iste.",
+          "de": "Bitte das Studierendensekretariat um eine Kopie deiner Noten.",
+          "fr": "Demande une copie de tes notes au secrétariat de l'université.",
+          "it": "Chiedi alla segreteria dell'università una copia dei tuoi voti.",
+          "es": "Pide al secretario de la universidad una copia de tus notas."
+        }
+      ]
+    },
+    {
+      "id": "exaggerate",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ex-",
+        "ag-",
+        "ger",
+        "-ate"
+      ],
+      "gloss": {
+        "en": "to make something seem bigger or worse than it is (literally: to heap up)",
+        "tr": "abartmak",
+        "de": "übertreiben",
+        "fr": "exagérer",
+        "it": "esagerare",
+        "es": "exagerar"
+      },
+      "sentences": [
+        {
+          "en": "Fishermen like to [exaggerate] the size of their fish.",
+          "tr": "Balıkçılar tuttukları balığın boyunu abartmayı sever.",
+          "de": "Angler übertreiben gern die Größe ihrer Fische.",
+          "fr": "Les pêcheurs aiment exagérer la taille de leurs poissons.",
+          "it": "Ai pescatori piace esagerare la grandezza dei loro pesci.",
+          "es": "A los pescadores les gusta exagerar el tamaño de sus peces."
+        },
+        {
+          "en": "Do not [exaggerate]; it was only a small scratch.",
+          "tr": "Abartma, sadece küçük bir çizikti.",
+          "de": "Übertreib nicht, es war nur ein kleiner Kratzer.",
+          "fr": "N'exagère pas, ce n'était qu'une petite égratignure.",
+          "it": "Non esagerare, era solo un piccolo graffio.",
+          "es": "No exageres; solo fue un pequeño arañazo."
+        }
+      ]
+    },
+    {
+      "id": "exaggeration",
+      "pos": "noun",
+      "parent": "exaggerate",
+      "parts": [
+        "ex-",
+        "ag-",
+        "ger",
+        "-ation"
+      ],
+      "gloss": {
+        "en": "a statement that makes something seem bigger than it is",
+        "tr": "abartı",
+        "de": "die Übertreibung",
+        "fr": "l'exagération",
+        "it": "l'esagerazione",
+        "es": "la exageración"
+      },
+      "sentences": [
+        {
+          "en": "Saying he never sleeps is an [exaggeration].",
+          "tr": "Hiç uyumadığını söylemek bir abartı.",
+          "de": "Zu sagen, dass er nie schläft, ist eine Übertreibung.",
+          "fr": "Dire qu'il ne dort jamais est une exagération.",
+          "it": "Dire che non dorme mai è un'esagerazione.",
+          "es": "Decir que nunca duerme es una exageración."
+        },
+        {
+          "en": "It is no [exaggeration] to call her a genius.",
+          "tr": "Ona dahi demek abartı olmaz.",
+          "de": "Es ist keine Übertreibung, sie ein Genie zu nennen.",
+          "fr": "Ce n'est pas une exagération de la qualifier de génie.",
+          "it": "Non è un'esagerazione definirla un genio.",
+          "es": "No es una exageración llamarla genio."
+        }
+      ]
+    },
+    {
+      "id": "belligerent",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "belli-",
+        "ger",
+        "-ent"
+      ],
+      "gloss": {
+        "en": "angry and ready to fight; (of a country) at war (literally: waging war)",
+        "tr": "kavgacı, saldırgan; savaşan",
+        "de": "streitlustig, aggressiv; kriegführend",
+        "fr": "belliqueux; belligérant",
+        "it": "bellicoso; belligerante",
+        "es": "agresivo, belicoso; beligerante"
+      },
+      "sentences": [
+        {
+          "en": "The [belligerent] customer shouted at the waiter.",
+          "tr": "Kavgacı müşteri garsona bağırdı.",
+          "de": "Der streitlustige Gast schrie den Kellner an.",
+          "fr": "Le client belliqueux a crié sur le serveur.",
+          "it": "Il cliente bellicoso urlò contro il cameriere.",
+          "es": "El cliente agresivo le gritó al camarero."
+        },
+        {
+          "en": "Both [belligerent] countries agreed to stop fighting.",
+          "tr": "Savaşan iki ülke de çatışmayı durdurmayı kabul etti.",
+          "de": "Beide kriegführenden Länder stimmten zu, die Kämpfe zu beenden.",
+          "fr": "Les deux pays belligérants ont accepté de cesser les combats.",
+          "it": "Entrambi i paesi belligeranti accettarono di smettere di combattere.",
+          "es": "Los dos países beligerantes acordaron dejar de luchar."
+        }
+      ]
+    },
+    {
+      "id": "jest",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "jest"
+      ],
+      "gloss": {
+        "en": "something said to make people laugh (from Latin gesta, deeds: first a tale of deeds, then a funny tale)",
+        "tr": "şaka, latife",
+        "de": "der Scherz, der Spaß",
+        "fr": "la plaisanterie",
+        "it": "lo scherzo, la burla",
+        "es": "la broma, la chanza"
+      },
+      "sentences": [
+        {
+          "en": "I only said it in [jest]; do not be angry.",
+          "tr": "Sadece şaka olsun diye söyledim, kızma.",
+          "de": "Ich habe es nur im Scherz gesagt, sei nicht böse.",
+          "fr": "Je l'ai dit pour plaisanter, ne te fâche pas.",
+          "it": "L'ho detto solo per scherzo, non arrabbiarti.",
+          "es": "Solo lo dije en broma; no te enfades."
+        },
+        {
+          "en": "The king laughed at every [jest] of his fool.",
+          "tr": "Kral, soytarısının her şakasına güldü.",
+          "de": "Der König lachte über jeden Scherz seines Narren.",
+          "fr": "Le roi riait à chaque plaisanterie de son bouffon.",
+          "it": "Il re rideva a ogni scherzo del suo buffone.",
+          "es": "El rey se reía con cada broma de su bufón."
+        }
+      ]
+    },
+    {
+      "id": "jester",
+      "pos": "noun",
+      "parent": "jest",
+      "parts": [
+        "jest",
+        "-er"
+      ],
+      "gloss": {
+        "en": "a man who told jokes to amuse a king in the past",
+        "tr": "soytarı",
+        "de": "der Hofnarr",
+        "fr": "le bouffon",
+        "it": "il giullare, il buffone",
+        "es": "el bufón"
+      },
+      "sentences": [
+        {
+          "en": "The [jester] wore a hat with little bells.",
+          "tr": "Soytarı küçük çıngıraklı bir şapka takıyordu.",
+          "de": "Der Hofnarr trug eine Mütze mit kleinen Glöckchen.",
+          "fr": "Le bouffon portait un chapeau à petits grelots.",
+          "it": "Il giullare portava un cappello con piccoli sonagli.",
+          "es": "El bufón llevaba un gorro con cascabeles."
+        },
+        {
+          "en": "Only the [jester] dared to tease the queen.",
+          "tr": "Kraliçeye takılmaya yalnızca soytarı cesaret ederdi.",
+          "de": "Nur der Hofnarr wagte es, die Königin zu necken.",
+          "fr": "Seul le bouffon osait taquiner la reine.",
+          "it": "Solo il giullare osava prendere in giro la regina.",
+          "es": "Solo el bufón se atrevía a burlarse de la reina."
+        }
+      ]
+    }
+  ]
+}
