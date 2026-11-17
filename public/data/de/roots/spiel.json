@@ -1,0 +1,443 @@
+{
+  "id": "spiel",
+  "addedBy": "writerforight",
+  "forms": [
+    "spiel"
+  ],
+  "origin": "de",
+  "etymon": "spielen",
+  "meaning": {
+    "en": "to play",
+    "tr": "oynamak; çalmak (müzik)",
+    "de": "zum Spaß etwas tun; Musik oder Theater machen (spielte, gespielt; Spiel)",
+    "fr": "jouer",
+    "it": "giocare; suonare; recitare",
+    "es": "jugar; tocar; actuar"
+  },
+  "words": [
+    {
+      "id": "spielen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "spiel",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to play; to act",
+        "tr": "oynamak; (çalgı) çalmak; rol almak",
+        "de": "zum Spaß etwas tun; ein Instrument benutzen; in einem Film oder Stück auftreten",
+        "fr": "jouer",
+        "it": "giocare; suonare; recitare",
+        "es": "jugar; tocar; actuar"
+      },
+      "sentences": [
+        {
+          "de": "Die Kinder [spielen] im Garten.",
+          "tr": "Çocuklar bahçede oynuyor.",
+          "en": "The children are playing in the garden.",
+          "fr": "Les enfants jouent dans le jardin.",
+          "it": "I bambini giocano in giardino.",
+          "es": "Los niños juegan en el jardín."
+        },
+        {
+          "de": "Sie [spielt] seit zehn Jahren Klavier.",
+          "tr": "On yıldır piyano çalıyor.",
+          "en": "She has been playing the piano for ten years.",
+          "fr": "Elle joue du piano depuis dix ans.",
+          "it": "Suona il pianoforte da dieci anni.",
+          "es": "Toca el piano desde hace diez años."
+        }
+      ]
+    },
+    {
+      "id": "Spiel",
+      "pos": "noun",
+      "parent": "spielen",
+      "parts": [
+        "spiel"
+      ],
+      "gloss": {
+        "en": "game; match",
+        "tr": "oyun; maç",
+        "de": "etwas, das man zum Spaß spielt; ein Wettkampf im Sport",
+        "fr": "le jeu ; le match",
+        "it": "il gioco; la partita",
+        "es": "el juego; el partido"
+      },
+      "sentences": [
+        {
+          "de": "Wer hat das [Spiel] gewonnen?",
+          "tr": "Maçı kim kazandı?",
+          "en": "Who won the match?",
+          "fr": "Qui a gagné le match ?",
+          "it": "Chi ha vinto la partita?",
+          "es": "¿Quién ganó el partido?"
+        },
+        {
+          "de": "Das ist ein lustiges [Spiel] für Kinder.",
+          "tr": "Bu çocuklar için eğlenceli bir oyun.",
+          "en": "That is a fun game for children.",
+          "fr": "C'est un jeu amusant pour les enfants.",
+          "it": "È un gioco divertente per bambini.",
+          "es": "Es un juego divertido para niños."
+        }
+      ]
+    },
+    {
+      "id": "Spieler",
+      "pos": "noun",
+      "parent": "spielen",
+      "parts": [
+        "spiel",
+        "-er"
+      ],
+      "gloss": {
+        "en": "player",
+        "tr": "oyuncu",
+        "de": "jemand, der spielt, z. B. in einer Mannschaft",
+        "fr": "le joueur",
+        "it": "il giocatore",
+        "es": "el jugador"
+      },
+      "sentences": [
+        {
+          "de": "Er ist der beste [Spieler] im Team.",
+          "tr": "Takımın en iyi oyuncusu o.",
+          "en": "He is the best player in the team.",
+          "fr": "C'est le meilleur joueur de l'équipe.",
+          "it": "È il miglior giocatore della squadra.",
+          "es": "Es el mejor jugador del equipo."
+        },
+        {
+          "de": "Für das Spiel braucht man vier [Spieler].",
+          "tr": "Oyun için dört oyuncu gerekiyor.",
+          "en": "You need four players for the game.",
+          "fr": "Il faut quatre joueurs pour ce jeu.",
+          "it": "Per il gioco servono quattro giocatori.",
+          "es": "Para el juego hacen falta cuatro jugadores."
+        }
+      ]
+    },
+    {
+      "id": "Spielzeug",
+      "pos": "noun",
+      "parent": "spielen",
+      "parts": [
+        "spiel",
+        "-zeug"
+      ],
+      "gloss": {
+        "en": "toy, toys",
+        "tr": "oyuncak",
+        "de": "Dinge, mit denen Kinder spielen",
+        "fr": "le jouet",
+        "it": "il giocattolo",
+        "es": "el juguete"
+      },
+      "sentences": [
+        {
+          "de": "Räum bitte dein [Spielzeug] auf.",
+          "tr": "Lütfen oyuncaklarını topla.",
+          "en": "Please tidy up your toys.",
+          "fr": "Range tes jouets, s'il te plaît.",
+          "it": "Metti a posto i tuoi giocattoli, per favore.",
+          "es": "Recoge tus juguetes, por favor."
+        },
+        {
+          "de": "Das [Spielzeug] ist aus Holz.",
+          "tr": "Oyuncak tahtadan.",
+          "en": "The toy is made of wood.",
+          "fr": "Le jouet est en bois.",
+          "it": "Il giocattolo è di legno.",
+          "es": "El juguete es de madera."
+        }
+      ]
+    },
+    {
+      "id": "Spielplatz",
+      "pos": "noun",
+      "parent": "spielen",
+      "parts": [
+        "spiel",
+        "-platz"
+      ],
+      "gloss": {
+        "en": "playground",
+        "tr": "oyun parkı",
+        "de": "ein Platz draußen, wo Kinder spielen",
+        "fr": "l'aire de jeux",
+        "it": "il parco giochi",
+        "es": "el parque infantil"
+      },
+      "sentences": [
+        {
+          "de": "Wir gehen mit den Kindern auf den [Spielplatz].",
+          "tr": "Çocuklarla oyun parkına gidiyoruz.",
+          "en": "We're taking the children to the playground.",
+          "fr": "Nous allons à l'aire de jeux avec les enfants.",
+          "it": "Andiamo al parco giochi con i bambini.",
+          "es": "Vamos al parque infantil con los niños."
+        },
+        {
+          "de": "Neben der Schule gibt es einen großen [Spielplatz].",
+          "tr": "Okulun yanında büyük bir oyun parkı var.",
+          "en": "There is a big playground next to the school.",
+          "fr": "Il y a une grande aire de jeux à côté de l'école.",
+          "it": "Accanto alla scuola c'è un grande parco giochi.",
+          "es": "Al lado del colegio hay un gran parque infantil."
+        }
+      ]
+    },
+    {
+      "id": "Schauspieler",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "schau-",
+        "spiel",
+        "-er"
+      ],
+      "gloss": {
+        "en": "actor",
+        "tr": "oyuncu, aktör",
+        "de": "jemand, der in Filmen oder im Theater spielt",
+        "fr": "l'acteur",
+        "it": "l'attore",
+        "es": "el actor"
+      },
+      "sentences": [
+        {
+          "de": "Sie möchte [Schauspielerin] werden.",
+          "tr": "Oyuncu olmak istiyor.",
+          "en": "She wants to become an actress.",
+          "fr": "Elle veut devenir actrice.",
+          "it": "Vuole diventare attrice.",
+          "es": "Quiere ser actriz."
+        },
+        {
+          "de": "Der [Schauspieler] hat einen Preis gewonnen.",
+          "tr": "Oyuncu bir ödül kazandı.",
+          "en": "The actor won an award.",
+          "fr": "L'acteur a remporté un prix.",
+          "it": "L'attore ha vinto un premio.",
+          "es": "El actor ganó un premio."
+        }
+      ]
+    },
+    {
+      "id": "abspielen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ab-",
+        "spiel",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to play (back); sich abspielen: to happen",
+        "tr": "(kayıt) çalmak, oynatmak; sich abspielen: yaşanmak",
+        "de": "Musik oder ein Video laufen lassen; sich abspielen: passieren",
+        "fr": "passer, lire (un enregistrement) ; se dérouler",
+        "it": "riprodurre; svolgersi",
+        "es": "reproducir; ocurrir"
+      },
+      "sentences": [
+        {
+          "de": "Kannst du das Video noch mal [abspielen]?",
+          "tr": "Videoyu bir daha oynatabilir misin?",
+          "en": "Can you play the video again?",
+          "fr": "Tu peux repasser la vidéo ?",
+          "it": "Puoi riprodurre di nuovo il video?",
+          "es": "¿Puedes volver a poner el vídeo?"
+        },
+        {
+          "de": "Wo hat sich das [abgespielt]?",
+          "tr": "Bu nerede yaşandı?",
+          "en": "Where did that happen?",
+          "fr": "Où cela s'est-il passé ?",
+          "it": "Dove si è svolto?",
+          "es": "¿Dónde ocurrió eso?"
+        }
+      ]
+    },
+    {
+      "id": "mitspielen",
+      "pos": "verb",
+      "parent": "spielen",
+      "parts": [
+        "mit-",
+        "spiel",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to join in, to play along; to play a part",
+        "tr": "birlikte oynamak, oyuna katılmak; rol oynamak",
+        "de": "bei einem Spiel dabei sein; eine Rolle haben",
+        "fr": "jouer avec, participer ; jouer un rôle",
+        "it": "giocare insieme, partecipare; avere un ruolo",
+        "es": "jugar también; influir"
+      },
+      "sentences": [
+        {
+          "de": "Darf ich [mitspielen]?",
+          "tr": "Ben de oynayabilir miyim?",
+          "en": "Can I join in?",
+          "fr": "Je peux jouer avec vous ?",
+          "it": "Posso giocare anch'io?",
+          "es": "¿Puedo jugar yo también?"
+        },
+        {
+          "de": "Auch das Wetter hat [mitgespielt].",
+          "tr": "Hava da bize yardım etti.",
+          "en": "The weather played along too.",
+          "fr": "Le temps a joué le jeu aussi.",
+          "it": "Anche il tempo è stato dalla nostra parte.",
+          "es": "El tiempo también acompañó."
+        }
+      ]
+    },
+    {
+      "id": "Mitspieler",
+      "pos": "noun",
+      "parent": "mitspielen",
+      "parts": [
+        "mit-",
+        "spiel",
+        "-er"
+      ],
+      "gloss": {
+        "en": "fellow player, teammate",
+        "tr": "takım arkadaşı, oyun arkadaşı",
+        "de": "jemand, der im selben Spiel oder Team spielt",
+        "fr": "le coéquipier, le partenaire de jeu",
+        "it": "il compagno di gioco, il compagno di squadra",
+        "es": "el compañero de juego, el compañero de equipo"
+      },
+      "sentences": [
+        {
+          "de": "Er gab den Ball an seinen [Mitspieler].",
+          "tr": "Topu takım arkadaşına verdi.",
+          "en": "He passed the ball to his teammate.",
+          "fr": "Il a passé le ballon à son coéquipier.",
+          "it": "Ha passato la palla al compagno.",
+          "es": "Le pasó el balón a su compañero."
+        },
+        {
+          "de": "Wir suchen noch zwei [Mitspieler].",
+          "tr": "Daha iki oyuncu arıyoruz.",
+          "en": "We still need two more players.",
+          "fr": "Nous cherchons encore deux joueurs.",
+          "it": "Cerchiamo ancora due giocatori.",
+          "es": "Todavía buscamos dos jugadores más."
+        }
+      ]
+    },
+    {
+      "id": "vorspielen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "vor-",
+        "spiel",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to play (for someone); to pretend, to fake",
+        "tr": "(birine) çalmak, göstermek; rol yapmak",
+        "de": "jemandem etwas vorführen; so tun, als ob",
+        "fr": "jouer devant ; jouer la comédie, feindre",
+        "it": "suonare davanti a; fingere",
+        "es": "tocar para alguien; fingir"
+      },
+      "sentences": [
+        {
+          "de": "Kannst du uns das Lied [vorspielen]?",
+          "tr": "Şarkıyı bize çalabilir misin?",
+          "en": "Can you play the song for us?",
+          "fr": "Tu peux nous jouer la chanson ?",
+          "it": "Puoi suonarci la canzone?",
+          "es": "¿Nos tocas la canción?"
+        },
+        {
+          "de": "Er hat uns nur etwas [vorgespielt].",
+          "tr": "Bize sadece rol yaptı.",
+          "en": "He was only pretending to us.",
+          "fr": "Il nous jouait seulement la comédie.",
+          "it": "Ci ha solo preso in giro.",
+          "es": "Solo nos estaba engañando."
+        }
+      ]
+    },
+    {
+      "id": "Vorspiel",
+      "pos": "noun",
+      "parent": "vorspielen",
+      "parts": [
+        "vor-",
+        "spiel"
+      ],
+      "gloss": {
+        "en": "prelude; audition",
+        "tr": "giriş, prelüd; seçme (müzik sınavı)",
+        "de": "ein kurzes Stück vor dem Hauptteil; ein Vorspielen für eine Prüfung",
+        "fr": "le prélude ; l'audition",
+        "it": "il preludio; l'audizione",
+        "es": "el preludio; la audición"
+      },
+      "sentences": [
+        {
+          "de": "Morgen hat sie ein [Vorspiel] an der Musikhochschule.",
+          "tr": "Yarın müzik okulunda seçmesi var.",
+          "en": "Tomorrow she has an audition at the music academy.",
+          "fr": "Demain, elle a une audition au conservatoire.",
+          "it": "Domani ha un'audizione al conservatorio.",
+          "es": "Mañana tiene una audición en el conservatorio."
+        },
+        {
+          "de": "Die Oper beginnt mit einem langen [Vorspiel].",
+          "tr": "Opera uzun bir girişle başlıyor.",
+          "en": "The opera begins with a long prelude.",
+          "fr": "L'opéra commence par un long prélude.",
+          "it": "L'opera inizia con un lungo preludio.",
+          "es": "La ópera empieza con un largo preludio."
+        }
+      ]
+    },
+    {
+      "id": "Endspiel",
+      "pos": "noun",
+      "parent": "Spiel",
+      "parts": [
+        "end-",
+        "spiel"
+      ],
+      "gloss": {
+        "en": "final (match)",
+        "tr": "final maçı",
+        "de": "das letzte, entscheidende Spiel eines Turniers",
+        "fr": "la finale",
+        "it": "la finale",
+        "es": "la final"
+      },
+      "sentences": [
+        {
+          "de": "Wir haben das [Endspiel] im Fernsehen gesehen.",
+          "tr": "Final maçını televizyonda izledik.",
+          "en": "We watched the final on TV.",
+          "fr": "Nous avons regardé la finale à la télé.",
+          "it": "Abbiamo visto la finale in TV.",
+          "es": "Vimos la final en la tele."
+        },
+        {
+          "de": "Die Mannschaft steht im [Endspiel].",
+          "tr": "Takım finalde.",
+          "en": "The team is in the final.",
+          "fr": "L'équipe est en finale.",
+          "it": "La squadra è in finale.",
+          "es": "El equipo está en la final."
+        }
+      ]
+    }
+  ]
+}

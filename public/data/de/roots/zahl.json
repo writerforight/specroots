@@ -1,0 +1,516 @@
+{
+  "id": "zahl",
+  "addedBy": "writerforight",
+  "forms": [
+    "zahl",
+    "zähl"
+  ],
+  "origin": "de",
+  "etymon": "Zahl",
+  "meaning": {
+    "en": "number; to count, to pay, to tell",
+    "tr": "sayı; saymak, ödemek, anlatmak",
+    "de": "Zahl; zählen, zahlen (Geld abzählen), erzählen (der Reihe nach aufzählen)",
+    "fr": "nombre ; compter, payer, raconter",
+    "it": "numero; contare, pagare, raccontare",
+    "es": "número; contar, pagar, narrar"
+  },
+  "words": [
+    {
+      "id": "Zahl",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "zahl"
+      ],
+      "gloss": {
+        "en": "number, figure",
+        "tr": "sayı, rakam",
+        "de": "ein Zeichen für eine Menge, z. B. 7",
+        "fr": "le nombre, le chiffre",
+        "it": "il numero, la cifra",
+        "es": "el número, la cifra"
+      },
+      "sentences": [
+        {
+          "de": "Nenne eine [Zahl] zwischen eins und zehn.",
+          "tr": "Bir ile on arasında bir sayı söyle.",
+          "en": "Name a number between one and ten.",
+          "fr": "Donne un nombre entre un et dix.",
+          "it": "Di' un numero tra uno e dieci.",
+          "es": "Di un número entre uno y diez."
+        },
+        {
+          "de": "Die [Zahl] der Studenten steigt.",
+          "tr": "Öğrenci sayısı artıyor.",
+          "en": "The number of students is rising.",
+          "fr": "Le nombre d'étudiants augmente.",
+          "it": "Il numero degli studenti aumenta.",
+          "es": "El número de estudiantes aumenta."
+        }
+      ]
+    },
+    {
+      "id": "zählen",
+      "pos": "verb",
+      "parent": "Zahl",
+      "parts": [
+        "zähl",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to count",
+        "tr": "saymak; önemli olmak; zählen auf: güvenmek",
+        "de": "Zahlen der Reihe nach sagen; wichtig sein; zählen auf: sich verlassen auf",
+        "fr": "compter",
+        "it": "contare",
+        "es": "contar"
+      },
+      "sentences": [
+        {
+          "de": "Mein Sohn kann schon bis hundert [zählen].",
+          "tr": "Oğlum yüze kadar sayabiliyor.",
+          "en": "My son can already count to a hundred.",
+          "fr": "Mon fils sait déjà compter jusqu'à cent.",
+          "it": "Mio figlio sa già contare fino a cento.",
+          "es": "Mi hijo ya sabe contar hasta cien."
+        },
+        {
+          "de": "Du kannst immer auf mich [zählen].",
+          "tr": "Bana her zaman güvenebilirsin.",
+          "en": "You can always count on me.",
+          "fr": "Tu peux toujours compter sur moi.",
+          "it": "Puoi sempre contare su di me.",
+          "es": "Siempre puedes contar conmigo."
+        }
+      ]
+    },
+    {
+      "id": "Zähler",
+      "pos": "noun",
+      "parent": "zählen",
+      "parts": [
+        "zähl",
+        "-er"
+      ],
+      "gloss": {
+        "en": "meter, counter; numerator",
+        "tr": "sayaç; pay (kesir)",
+        "de": "ein Gerät, das etwas misst (Strom, Wasser); die obere Zahl in einem Bruch",
+        "fr": "le compteur ; le numérateur",
+        "it": "il contatore; il numeratore",
+        "es": "el contador; el numerador"
+      },
+      "sentences": [
+        {
+          "de": "Jemand kommt heute, um den [Zähler] abzulesen.",
+          "tr": "Bugün biri sayacı okumaya gelecek.",
+          "en": "Someone is coming today to read the meter.",
+          "fr": "Quelqu'un vient relever le compteur aujourd'hui.",
+          "it": "Oggi viene qualcuno a leggere il contatore.",
+          "es": "Hoy viene alguien a leer el contador."
+        },
+        {
+          "de": "Im Bruch 3/4 ist 3 der [Zähler].",
+          "tr": "3/4 kesrinde pay 3'tür.",
+          "en": "In the fraction 3/4, 3 is the numerator.",
+          "fr": "Dans la fraction 3/4, 3 est le numérateur.",
+          "it": "Nella frazione 3/4 il numeratore è 3.",
+          "es": "En la fracción 3/4, 3 es el numerador."
+        }
+      ]
+    },
+    {
+      "id": "unzählig",
+      "pos": "adjective",
+      "parent": "zählen",
+      "parts": [
+        "un-",
+        "zähl",
+        "-ig"
+      ],
+      "gloss": {
+        "en": "countless, innumerable",
+        "tr": "sayısız",
+        "de": "so viele, dass man sie nicht zählen kann",
+        "fr": "innombrable",
+        "it": "innumerevole",
+        "es": "innumerable"
+      },
+      "sentences": [
+        {
+          "de": "Am Himmel waren [unzählige] Sterne.",
+          "tr": "Gökyüzünde sayısız yıldız vardı.",
+          "en": "There were countless stars in the sky.",
+          "fr": "Il y avait d'innombrables étoiles dans le ciel.",
+          "it": "In cielo c'erano innumerevoli stelle.",
+          "es": "En el cielo había innumerables estrellas."
+        },
+        {
+          "de": "Ich habe es dir schon [unzählige] Male gesagt.",
+          "tr": "Bunu sana sayısız kez söyledim.",
+          "en": "I've told you countless times.",
+          "fr": "Je te l'ai déjà dit d'innombrables fois.",
+          "it": "Te l'ho già detto innumerevoli volte.",
+          "es": "Te lo he dicho un montón de veces."
+        }
+      ]
+    },
+    {
+      "id": "zahlen",
+      "pos": "verb",
+      "parent": "Zahl",
+      "parts": [
+        "zahl",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to pay",
+        "tr": "ödemek",
+        "de": "Geld für etwas geben",
+        "fr": "payer",
+        "it": "pagare",
+        "es": "pagar"
+      },
+      "sentences": [
+        {
+          "de": "Kann ich mit Karte [zahlen]?",
+          "tr": "Kartla ödeyebilir miyim?",
+          "en": "Can I pay by card?",
+          "fr": "Je peux payer par carte ?",
+          "it": "Posso pagare con la carta?",
+          "es": "¿Puedo pagar con tarjeta?"
+        },
+        {
+          "de": "Wir möchten bitte [zahlen].",
+          "tr": "Hesabı ödemek istiyoruz lütfen.",
+          "en": "We would like to pay, please.",
+          "fr": "L'addition, s'il vous plaît.",
+          "it": "Vorremmo pagare, per favore.",
+          "es": "Queremos pagar, por favor."
+        }
+      ]
+    },
+    {
+      "id": "Zahlung",
+      "pos": "noun",
+      "parent": "zahlen",
+      "parts": [
+        "zahl",
+        "-ung"
+      ],
+      "gloss": {
+        "en": "payment",
+        "tr": "ödeme",
+        "de": "das Bezahlen; Geld, das man zahlt",
+        "fr": "le paiement",
+        "it": "il pagamento",
+        "es": "el pago"
+      },
+      "sentences": [
+        {
+          "de": "Die [Zahlung] ist eingegangen.",
+          "tr": "Ödeme yapıldı.",
+          "en": "The payment has been received.",
+          "fr": "Le paiement a été reçu.",
+          "it": "Il pagamento è stato ricevuto.",
+          "es": "Se ha recibido el pago."
+        },
+        {
+          "de": "Wir akzeptieren keine [Zahlung] mit Kreditkarte.",
+          "tr": "Kredi kartıyla ödeme kabul etmiyoruz.",
+          "en": "We don't accept payment by credit card.",
+          "fr": "Nous n'acceptons pas le paiement par carte de crédit.",
+          "it": "Non accettiamo pagamenti con carta di credito.",
+          "es": "No aceptamos pagos con tarjeta de crédito."
+        }
+      ]
+    },
+    {
+      "id": "bezahlen",
+      "pos": "verb",
+      "parent": "zahlen",
+      "parts": [
+        "be-",
+        "zahl",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to pay (for)",
+        "tr": "ödemek, (parasını) vermek",
+        "de": "für etwas oder jemanden Geld geben",
+        "fr": "payer",
+        "it": "pagare",
+        "es": "pagar"
+      },
+      "sentences": [
+        {
+          "de": "Wer [bezahlt] das Essen?",
+          "tr": "Yemeği kim ödüyor?",
+          "en": "Who is paying for the meal?",
+          "fr": "Qui paie le repas ?",
+          "it": "Chi paga la cena?",
+          "es": "¿Quién paga la comida?"
+        },
+        {
+          "de": "Ich habe die Rechnung schon [bezahlt].",
+          "tr": "Faturayı zaten ödedim.",
+          "en": "I have already paid the bill.",
+          "fr": "J'ai déjà payé la facture.",
+          "it": "Ho già pagato la fattura.",
+          "es": "Ya he pagado la factura."
+        }
+      ]
+    },
+    {
+      "id": "Bezahlung",
+      "pos": "noun",
+      "parent": "bezahlen",
+      "parts": [
+        "be-",
+        "zahl",
+        "-ung"
+      ],
+      "gloss": {
+        "en": "payment; pay",
+        "tr": "ödeme; ücret",
+        "de": "das Bezahlen; der Lohn für Arbeit",
+        "fr": "le paiement ; la rémunération",
+        "it": "il pagamento; la retribuzione",
+        "es": "el pago; la remuneración"
+      },
+      "sentences": [
+        {
+          "de": "Die [Bezahlung] in diesem Job ist gut.",
+          "tr": "Bu işte ücret iyi.",
+          "en": "The pay in this job is good.",
+          "fr": "La rémunération dans ce travail est bonne.",
+          "it": "In questo lavoro la retribuzione è buona.",
+          "es": "El sueldo en este trabajo es bueno."
+        },
+        {
+          "de": "Die [Bezahlung] erfolgt per Überweisung.",
+          "tr": "Ödeme havale ile yapılıyor.",
+          "en": "Payment is made by bank transfer.",
+          "fr": "Le paiement se fait par virement.",
+          "it": "Il pagamento avviene tramite bonifico.",
+          "es": "El pago se hace por transferencia."
+        }
+      ]
+    },
+    {
+      "id": "auszahlen",
+      "pos": "verb",
+      "parent": "zahlen",
+      "parts": [
+        "aus-",
+        "zahl",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to pay out; sich auszahlen: to pay off, to be worth it",
+        "tr": "(para) ödemek, vermek; sich auszahlen: değmek",
+        "de": "jemandem Geld geben; sich auszahlen: sich lohnen",
+        "fr": "verser ; être payant, valoir la peine",
+        "it": "versare, liquidare; ripagare, valere la pena",
+        "es": "pagar, abonar; merecer la pena"
+      },
+      "sentences": [
+        {
+          "de": "Die Versicherung hat das Geld [ausgezahlt].",
+          "tr": "Sigorta parayı ödedi.",
+          "en": "The insurance company paid out the money.",
+          "fr": "L'assurance a versé l'argent.",
+          "it": "L'assicurazione ha liquidato i soldi.",
+          "es": "El seguro ha abonado el dinero."
+        },
+        {
+          "de": "Die viele Arbeit wird sich [auszahlen].",
+          "tr": "Bu kadar emek karşılığını verecek.",
+          "en": "All the hard work will pay off.",
+          "fr": "Tout ce travail va payer.",
+          "it": "Tutto questo lavoro ripagherà.",
+          "es": "Todo el trabajo merecerá la pena."
+        }
+      ]
+    },
+    {
+      "id": "Anzahl",
+      "pos": "noun",
+      "parent": "Zahl",
+      "parts": [
+        "an-",
+        "zahl"
+      ],
+      "gloss": {
+        "en": "number, quantity",
+        "tr": "sayı, adet, miktar",
+        "de": "wie viele es von etwas gibt",
+        "fr": "le nombre, la quantité",
+        "it": "il numero, la quantità",
+        "es": "el número, la cantidad"
+      },
+      "sentences": [
+        {
+          "de": "Die [Anzahl] der Plätze ist begrenzt.",
+          "tr": "Yer sayısı sınırlı.",
+          "en": "The number of places is limited.",
+          "fr": "Le nombre de places est limité.",
+          "it": "Il numero di posti è limitato.",
+          "es": "El número de plazas es limitado."
+        },
+        {
+          "de": "Eine große [Anzahl] Menschen kam zum Fest.",
+          "tr": "Şenliğe çok sayıda insan geldi.",
+          "en": "A large number of people came to the festival.",
+          "fr": "Un grand nombre de personnes est venu à la fête.",
+          "it": "Un gran numero di persone è venuto alla festa.",
+          "es": "Un gran número de personas vino a la fiesta."
+        }
+      ]
+    },
+    {
+      "id": "Anzahlung",
+      "pos": "noun",
+      "parent": "zahlen",
+      "parts": [
+        "an-",
+        "zahl",
+        "-ung"
+      ],
+      "gloss": {
+        "en": "deposit, down payment",
+        "tr": "kapora, peşinat",
+        "de": "ein Teil des Preises, den man vorher bezahlt",
+        "fr": "l'acompte",
+        "it": "l'acconto, l'anticipo",
+        "es": "la señal, el anticipo"
+      },
+      "sentences": [
+        {
+          "de": "Für die Reise ist eine [Anzahlung] nötig.",
+          "tr": "Yolculuk için kapora gerekli.",
+          "en": "A deposit is required for the trip.",
+          "fr": "Un acompte est nécessaire pour le voyage.",
+          "it": "Per il viaggio è necessario un acconto.",
+          "es": "Para el viaje hace falta una señal."
+        },
+        {
+          "de": "Wir haben 200 Euro [Anzahlung] geleistet.",
+          "tr": "200 avro peşinat verdik.",
+          "en": "We paid a deposit of 200 euros.",
+          "fr": "Nous avons versé un acompte de 200 euros.",
+          "it": "Abbiamo versato un acconto di 200 euro.",
+          "es": "Hemos pagado una señal de 200 euros."
+        }
+      ]
+    },
+    {
+      "id": "zahlreich",
+      "pos": "adjective",
+      "parent": "Zahl",
+      "parts": [
+        "zahl",
+        "-reich"
+      ],
+      "gloss": {
+        "en": "numerous, many",
+        "tr": "çok sayıda, pek çok",
+        "de": "sehr viele",
+        "fr": "nombreux",
+        "it": "numeroso",
+        "es": "numeroso"
+      },
+      "sentences": [
+        {
+          "de": "Es gab [zahlreiche] Fragen.",
+          "tr": "Pek çok soru vardı.",
+          "en": "There were numerous questions.",
+          "fr": "Il y a eu de nombreuses questions.",
+          "it": "Ci sono state numerose domande.",
+          "es": "Hubo numerosas preguntas."
+        },
+        {
+          "de": "Danke, dass ihr so [zahlreich] gekommen seid!",
+          "tr": "Bu kadar kalabalık geldiğiniz için teşekkürler!",
+          "en": "Thank you for coming in such numbers!",
+          "fr": "Merci d'être venus si nombreux !",
+          "it": "Grazie di essere venuti così numerosi!",
+          "es": "¡Gracias por venir tantos!"
+        }
+      ]
+    },
+    {
+      "id": "erzählen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "er-",
+        "zähl",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to tell, to narrate",
+        "tr": "anlatmak",
+        "de": "eine Geschichte oder ein Erlebnis berichten (ursprünglich: der Reihe nach aufzählen)",
+        "fr": "raconter",
+        "it": "raccontare",
+        "es": "contar, narrar"
+      },
+      "sentences": [
+        {
+          "de": "[Erzähl] mal, wie war dein Urlaub?",
+          "tr": "Anlatsana, tatilin nasıldı?",
+          "en": "Tell me, how was your holiday?",
+          "fr": "Raconte, c'étaient comment, tes vacances ?",
+          "it": "Racconta, com'è andata la vacanza?",
+          "es": "Cuéntame, ¿qué tal las vacaciones?"
+        },
+        {
+          "de": "Oma hat uns eine Geschichte [erzählt].",
+          "tr": "Büyükannem bize bir hikâye anlattı.",
+          "en": "Grandma told us a story.",
+          "fr": "Mamie nous a raconté une histoire.",
+          "it": "La nonna ci ha raccontato una storia.",
+          "es": "La abuela nos contó una historia."
+        }
+      ]
+    },
+    {
+      "id": "Erzählung",
+      "pos": "noun",
+      "parent": "erzählen",
+      "parts": [
+        "er-",
+        "zähl",
+        "-ung"
+      ],
+      "gloss": {
+        "en": "story, tale, narrative",
+        "tr": "öykü, anlatı",
+        "de": "eine kurze Geschichte; das Erzählen",
+        "fr": "le récit, la nouvelle",
+        "it": "il racconto",
+        "es": "el relato, la narración"
+      },
+      "sentences": [
+        {
+          "de": "Wir lesen eine [Erzählung] von Kafka.",
+          "tr": "Kafka'nın bir öyküsünü okuyoruz.",
+          "en": "We are reading a story by Kafka.",
+          "fr": "Nous lisons un récit de Kafka.",
+          "it": "Leggiamo un racconto di Kafka.",
+          "es": "Leemos un relato de Kafka."
+        },
+        {
+          "de": "Nach seiner [Erzählung] war es ganz anders.",
+          "tr": "Onun anlattığına göre bambaşkaydı.",
+          "en": "According to his account it was quite different.",
+          "fr": "D'après son récit, c'était tout autre.",
+          "it": "Secondo il suo racconto è andata diversamente.",
+          "es": "Según su relato, fue muy distinto."
+        }
+      ]
+    }
+  ]
+}

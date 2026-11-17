@@ -92,6 +92,10 @@ seçilen dillerdeki karşılığı ve öğretici örnek cümleleri bir arada gö
     (2026-11-17, "3 kök ekle"): `such` (suchen, Besuch, Versuch, Untersuchung), `wirk` (wirken, Wirkung,
     wirklich, Wirklichkeit; Werk, Werkzeug), `denk` (denken, Gedanke, Gedächtnis; Dank, dankbar: Dank
     aynı kökten); yeni ekler `-sam`, `neben-`, `-maschine`, `-mal`; +41. Toplam 29 kök, 459 kelime.
+    Dokuzuncu tur (2026-11-17, "3 kök ekle"): `kauf` (kaufen, verkaufen, Verkäufer, einkaufen), `zahl`
+    (Zahl, zählen, zahlen, bezahlen, erzählen: aynı kök), `spiel` (spielen, Spieler, Schauspieler, Spielzeug;
+    *Beispiel* bilerek dışarıda: eski *spel* "hikâye"den); yeni birleşik parçalar `-haus`, `-reich`, `-platz`,
+    `schau-`, `end-`; +38. Toplam 32 kök, 497 kelime.
 17. **Yeni açılış ve bölüm sayfaları (2026-11-10, kullanıcı isteği):** dağınık "hoş geldin" formu yerine
     başlangıç ekranı adım adım tek soru sorar: 1) English / Deutsch; 2) English ise Kökler ve ekler / Nesneler.
     Deutsch doğrudan Almanca köklere gider. Çeviri dilleri ve tema ilk açılışta sorulmaz (tarayıcı dilinden

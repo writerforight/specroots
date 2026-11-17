@@ -1,0 +1,444 @@
+{
+  "id": "kauf",
+  "addedBy": "writerforight",
+  "forms": [
+    "kauf",
+    "käuf"
+  ],
+  "origin": "de",
+  "etymon": "kaufen",
+  "meaning": {
+    "en": "to buy",
+    "tr": "satın almak",
+    "de": "etwas für Geld bekommen (kaufte, gekauft; Kauf)",
+    "fr": "acheter",
+    "it": "comprare",
+    "es": "comprar"
+  },
+  "words": [
+    {
+      "id": "kaufen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "kauf",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to buy",
+        "tr": "satın almak",
+        "de": "etwas gegen Geld bekommen",
+        "fr": "acheter",
+        "it": "comprare",
+        "es": "comprar"
+      },
+      "sentences": [
+        {
+          "de": "Ich [kaufe] Brot beim Bäcker.",
+          "tr": "Ekmeği fırından alıyorum.",
+          "en": "I buy bread at the baker's.",
+          "fr": "J'achète du pain chez le boulanger.",
+          "it": "Compro il pane dal fornaio.",
+          "es": "Compro el pan en la panadería."
+        },
+        {
+          "de": "Wir haben ein neues Auto [gekauft].",
+          "tr": "Yeni bir araba aldık.",
+          "en": "We bought a new car.",
+          "fr": "Nous avons acheté une nouvelle voiture.",
+          "it": "Abbiamo comprato una macchina nuova.",
+          "es": "Hemos comprado un coche nuevo."
+        }
+      ]
+    },
+    {
+      "id": "Kauf",
+      "pos": "noun",
+      "parent": "kaufen",
+      "parts": [
+        "kauf"
+      ],
+      "gloss": {
+        "en": "purchase, buy",
+        "tr": "alım, satın alma",
+        "de": "das Kaufen; etwas, das man gekauft hat",
+        "fr": "l'achat",
+        "it": "l'acquisto",
+        "es": "la compra"
+      },
+      "sentences": [
+        {
+          "de": "Das war ein guter [Kauf].",
+          "tr": "İyi bir alışverişti.",
+          "en": "That was a good buy.",
+          "fr": "C'était un bon achat.",
+          "it": "È stato un buon acquisto.",
+          "es": "Fue una buena compra."
+        },
+        {
+          "de": "Den Kassenzettel brauchst du nach dem [Kauf].",
+          "tr": "Alımdan sonra fişe ihtiyacın olacak.",
+          "en": "You need the receipt after the purchase.",
+          "fr": "Tu as besoin du ticket après l'achat.",
+          "it": "Dopo l'acquisto ti serve lo scontrino.",
+          "es": "Necesitas el tique después de la compra."
+        }
+      ]
+    },
+    {
+      "id": "Käufer",
+      "pos": "noun",
+      "parent": "kaufen",
+      "parts": [
+        "käuf",
+        "-er"
+      ],
+      "gloss": {
+        "en": "buyer, purchaser",
+        "tr": "alıcı",
+        "de": "jemand, der etwas kauft",
+        "fr": "l'acheteur",
+        "it": "l'acquirente",
+        "es": "el comprador"
+      },
+      "sentences": [
+        {
+          "de": "Für das Haus gibt es schon einen [Käufer].",
+          "tr": "Ev için şimdiden bir alıcı var.",
+          "en": "There is already a buyer for the house.",
+          "fr": "Il y a déjà un acheteur pour la maison.",
+          "it": "C'è già un acquirente per la casa.",
+          "es": "Ya hay un comprador para la casa."
+        },
+        {
+          "de": "Der [Käufer] hat bar bezahlt.",
+          "tr": "Alıcı nakit ödedi.",
+          "en": "The buyer paid in cash.",
+          "fr": "L'acheteur a payé en liquide.",
+          "it": "L'acquirente ha pagato in contanti.",
+          "es": "El comprador pagó en efectivo."
+        }
+      ]
+    },
+    {
+      "id": "Kaufhaus",
+      "pos": "noun",
+      "parent": "kaufen",
+      "parts": [
+        "kauf",
+        "-haus"
+      ],
+      "gloss": {
+        "en": "department store",
+        "tr": "büyük mağaza",
+        "de": "ein großes Geschäft mit vielen Abteilungen",
+        "fr": "le grand magasin",
+        "it": "il grande magazzino",
+        "es": "los grandes almacenes"
+      },
+      "sentences": [
+        {
+          "de": "Im [Kaufhaus] gibt es alles.",
+          "tr": "Büyük mağazada her şey var.",
+          "en": "The department store has everything.",
+          "fr": "Au grand magasin, on trouve de tout.",
+          "it": "Nel grande magazzino c'è di tutto.",
+          "es": "En los grandes almacenes hay de todo."
+        },
+        {
+          "de": "Wir treffen uns vor dem [Kaufhaus].",
+          "tr": "Büyük mağazanın önünde buluşalım.",
+          "en": "Let's meet outside the department store.",
+          "fr": "On se retrouve devant le grand magasin.",
+          "it": "Ci vediamo davanti al grande magazzino.",
+          "es": "Quedamos delante de los grandes almacenes."
+        }
+      ]
+    },
+    {
+      "id": "verkaufen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ver-",
+        "kauf",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to sell",
+        "tr": "satmak",
+        "de": "etwas gegen Geld weggeben",
+        "fr": "vendre",
+        "it": "vendere",
+        "es": "vender"
+      },
+      "sentences": [
+        {
+          "de": "Er will sein Fahrrad [verkaufen].",
+          "tr": "Bisikletini satmak istiyor.",
+          "en": "He wants to sell his bike.",
+          "fr": "Il veut vendre son vélo.",
+          "it": "Vuole vendere la sua bici.",
+          "es": "Quiere vender su bici."
+        },
+        {
+          "de": "Die Karten waren schnell [verkauft].",
+          "tr": "Biletler çabucak satıldı.",
+          "en": "The tickets sold out quickly.",
+          "fr": "Les billets se sont vendus rapidement.",
+          "it": "I biglietti sono stati venduti in fretta.",
+          "es": "Las entradas se vendieron rápido."
+        }
+      ]
+    },
+    {
+      "id": "Verkauf",
+      "pos": "noun",
+      "parent": "verkaufen",
+      "parts": [
+        "ver-",
+        "kauf"
+      ],
+      "gloss": {
+        "en": "sale",
+        "tr": "satış",
+        "de": "das Verkaufen",
+        "fr": "la vente",
+        "it": "la vendita",
+        "es": "la venta"
+      },
+      "sentences": [
+        {
+          "de": "Das Haus steht zum [Verkauf].",
+          "tr": "Ev satılık.",
+          "en": "The house is up for sale.",
+          "fr": "La maison est à vendre.",
+          "it": "La casa è in vendita.",
+          "es": "La casa está en venta."
+        },
+        {
+          "de": "Der [Verkauf] von Alkohol ist hier verboten.",
+          "tr": "Burada alkol satışı yasak.",
+          "en": "The sale of alcohol is banned here.",
+          "fr": "La vente d'alcool est interdite ici.",
+          "it": "Qui la vendita di alcolici è vietata.",
+          "es": "Aquí está prohibida la venta de alcohol."
+        }
+      ]
+    },
+    {
+      "id": "Verkäufer",
+      "pos": "noun",
+      "parent": "verkaufen",
+      "parts": [
+        "ver-",
+        "käuf",
+        "-er"
+      ],
+      "gloss": {
+        "en": "salesperson, shop assistant; seller",
+        "tr": "satış elemanı, tezgâhtar; satıcı",
+        "de": "jemand, der in einem Geschäft verkauft",
+        "fr": "le vendeur",
+        "it": "il commesso, il venditore",
+        "es": "el vendedor, el dependiente"
+      },
+      "sentences": [
+        {
+          "de": "Frag doch den [Verkäufer].",
+          "tr": "Satış elemanına sor.",
+          "en": "Why not ask the shop assistant?",
+          "fr": "Demande au vendeur.",
+          "it": "Chiedi al commesso.",
+          "es": "Pregúntale al dependiente."
+        },
+        {
+          "de": "Sie arbeitet als [Verkäuferin] in einer Bäckerei.",
+          "tr": "Bir fırında satış elemanı olarak çalışıyor.",
+          "en": "She works as a sales assistant in a bakery.",
+          "fr": "Elle travaille comme vendeuse dans une boulangerie.",
+          "it": "Lavora come commessa in una panetteria.",
+          "es": "Trabaja de dependienta en una panadería."
+        }
+      ]
+    },
+    {
+      "id": "Ausverkauf",
+      "pos": "noun",
+      "parent": "verkaufen",
+      "parts": [
+        "aus-",
+        "ver-",
+        "kauf"
+      ],
+      "gloss": {
+        "en": "clearance sale",
+        "tr": "tasfiye satışı, büyük indirim",
+        "de": "wenn ein Geschäft alles billig verkauft",
+        "fr": "la liquidation",
+        "it": "la svendita",
+        "es": "la liquidación"
+      },
+      "sentences": [
+        {
+          "de": "Im [Ausverkauf] ist alles halb so teuer.",
+          "tr": "Tasfiye satışında her şey yarı fiyatına.",
+          "en": "In the clearance sale everything is half price.",
+          "fr": "En liquidation, tout est à moitié prix.",
+          "it": "In svendita tutto costa la metà.",
+          "es": "En la liquidación todo está a mitad de precio."
+        },
+        {
+          "de": "Der Laden macht zu, es gibt einen [Ausverkauf].",
+          "tr": "Dükkân kapanıyor, tasfiye satışı var.",
+          "en": "The shop is closing, there's a clearance sale.",
+          "fr": "Le magasin ferme, il y a une liquidation.",
+          "it": "Il negozio chiude, c'è una svendita.",
+          "es": "La tienda cierra y hay liquidación."
+        }
+      ]
+    },
+    {
+      "id": "einkaufen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ein-",
+        "kauf",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to go shopping, to shop",
+        "tr": "alışveriş yapmak",
+        "de": "Dinge für den Alltag kaufen",
+        "fr": "faire les courses",
+        "it": "fare la spesa",
+        "es": "hacer la compra, ir de compras"
+      },
+      "sentences": [
+        {
+          "de": "Ich gehe heute Nachmittag [einkaufen].",
+          "tr": "Bu öğleden sonra alışverişe gidiyorum.",
+          "en": "I'm going shopping this afternoon.",
+          "fr": "Je vais faire les courses cet après-midi.",
+          "it": "Oggi pomeriggio vado a fare la spesa.",
+          "es": "Esta tarde voy a hacer la compra."
+        },
+        {
+          "de": "Hast du schon [eingekauft]?",
+          "tr": "Alışverişi yaptın mı?",
+          "en": "Have you done the shopping yet?",
+          "fr": "Tu as déjà fait les courses ?",
+          "it": "Hai già fatto la spesa?",
+          "es": "¿Ya has hecho la compra?"
+        }
+      ]
+    },
+    {
+      "id": "Einkauf",
+      "pos": "noun",
+      "parent": "einkaufen",
+      "parts": [
+        "ein-",
+        "kauf"
+      ],
+      "gloss": {
+        "en": "shopping; purchase",
+        "tr": "alışveriş; alınanlar",
+        "de": "das Einkaufen; die Dinge, die man gekauft hat",
+        "fr": "les courses, l'achat",
+        "it": "la spesa, l'acquisto",
+        "es": "la compra"
+      },
+      "sentences": [
+        {
+          "de": "Kannst du mir beim [Einkauf] helfen?",
+          "tr": "Alışverişte bana yardım edebilir misin?",
+          "en": "Can you help me with the shopping?",
+          "fr": "Tu peux m'aider à faire les courses ?",
+          "it": "Mi aiuti con la spesa?",
+          "es": "¿Me ayudas con la compra?"
+        },
+        {
+          "de": "Stell den [Einkauf] in die Küche.",
+          "tr": "Aldıklarımızı mutfağa koy.",
+          "en": "Put the shopping in the kitchen.",
+          "fr": "Pose les courses dans la cuisine.",
+          "it": "Metti la spesa in cucina.",
+          "es": "Deja la compra en la cocina."
+        }
+      ]
+    },
+    {
+      "id": "abkaufen",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "ab-",
+        "kauf",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to buy from; to buy (believe)",
+        "tr": "(birinden) satın almak; yemek, inanmak",
+        "de": "etwas von jemandem kaufen; jemandem etwas glauben",
+        "fr": "acheter à ; croire, gober",
+        "it": "comprare da; credere, bersi",
+        "es": "comprar a; creerse"
+      },
+      "sentences": [
+        {
+          "de": "Ich will dir dein altes Handy [abkaufen].",
+          "tr": "Eski telefonunu senden satın almak istiyorum.",
+          "en": "I want to buy your old phone from you.",
+          "fr": "Je veux t'acheter ton vieux portable.",
+          "it": "Voglio comprarti il tuo vecchio telefono.",
+          "es": "Quiero comprarte tu móvil viejo."
+        },
+        {
+          "de": "Diese Ausrede will ihm niemand [abkaufen].",
+          "tr": "Bu bahaneyi kimse yemiyor.",
+          "en": "Nobody wants to buy that excuse from him.",
+          "fr": "Personne ne veut croire à cette excuse.",
+          "it": "Nessuno vuole bersi questa scusa.",
+          "es": "Nadie quiere creerse esa excusa."
+        }
+      ]
+    },
+    {
+      "id": "käuflich",
+      "pos": "adjective",
+      "parent": "kaufen",
+      "parts": [
+        "käuf",
+        "-lich"
+      ],
+      "gloss": {
+        "en": "for sale, available to buy; bribable",
+        "tr": "satılık, satın alınabilir; rüşvet alır",
+        "de": "so, dass man es kaufen kann; bestechlich",
+        "fr": "à vendre ; corruptible",
+        "it": "in vendita; corruttibile",
+        "es": "en venta; sobornable"
+      },
+      "sentences": [
+        {
+          "de": "Das Bild ist nicht [käuflich].",
+          "tr": "Tablo satılık değil.",
+          "en": "The painting is not for sale.",
+          "fr": "Le tableau n'est pas à vendre.",
+          "it": "Il quadro non è in vendita.",
+          "es": "El cuadro no está en venta."
+        },
+        {
+          "de": "Freundschaft ist nicht [käuflich].",
+          "tr": "Dostluk parayla satın alınmaz.",
+          "en": "Friendship can't be bought.",
+          "fr": "L'amitié ne s'achète pas.",
+          "it": "L'amicizia non si compra.",
+          "es": "La amistad no se compra."
+        }
+      ]
+    }
+  ]
+}

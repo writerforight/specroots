@@ -826,5 +826,65 @@
       "it": "segno (Mal)",
       "es": "marca, señal (Mal)"
     }
+  },
+  "-haus": {
+    "kind": "suffix",
+    "combining": true,
+    "meaning": {
+      "en": "house, building (Haus)",
+      "tr": "ev, bina (Haus)",
+      "de": "Haus, Gebäude",
+      "fr": "maison, bâtiment (Haus)",
+      "it": "casa, edificio (Haus)",
+      "es": "casa, edificio (Haus)"
+    }
+  },
+  "-reich": {
+    "kind": "suffix",
+    "combining": true,
+    "meaning": {
+      "en": "rich in, full of (reich)",
+      "tr": "çok, bol (reich)",
+      "de": "reich an, voll von",
+      "fr": "riche en (reich)",
+      "it": "ricco di (reich)",
+      "es": "rico en (reich)"
+    }
+  },
+  "-platz": {
+    "kind": "suffix",
+    "combining": true,
+    "meaning": {
+      "en": "place, square (Platz)",
+      "tr": "yer, alan (Platz)",
+      "de": "Platz",
+      "fr": "place (Platz)",
+      "it": "posto, piazza (Platz)",
+      "es": "sitio, plaza (Platz)"
+    }
+  },
+  "schau-": {
+    "kind": "prefix",
+    "combining": true,
+    "meaning": {
+      "en": "show, looking (Schau)",
+      "tr": "gösteri, bakma (Schau)",
+      "de": "Schau, schauen",
+      "fr": "spectacle, regard (Schau)",
+      "it": "spettacolo, sguardo (Schau)",
+      "es": "espectáculo, mirada (Schau)"
+    }
+  },
+  "end-": {
+    "kind": "prefix",
+    "combining": true,
+    "meaning": {
+      "en": "end, final (Ende)",
+      "tr": "son, final (Ende)",
+      "de": "Ende",
+      "fr": "fin, final (Ende)",
+      "it": "fine, finale (Ende)",
+      "es": "fin, final (Ende)"
+    }
   }
 }
