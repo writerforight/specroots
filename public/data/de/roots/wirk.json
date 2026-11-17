@@ -1,0 +1,518 @@
+{
+  "id": "wirk",
+  "addedBy": "writerforight",
+  "forms": [
+    "wirk",
+    "werk"
+  ],
+  "origin": "de",
+  "etymon": "wirken",
+  "meaning": {
+    "en": "to work, to have an effect (Werk: a work)",
+    "tr": "etki etmek, iş görmek (Werk: eser, iş)",
+    "de": "tätig sein, eine Folge haben (wirkte, gewirkt; Werk: das Gemachte)",
+    "fr": "agir, faire effet (Werk : œuvre)",
+    "it": "agire, fare effetto (Werk: opera)",
+    "es": "actuar, hacer efecto (Werk: obra)"
+  },
+  "words": [
+    {
+      "id": "wirken",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "wirk",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to work, to have an effect; to seem",
+        "tr": "etki etmek, işe yaramak; (öyle) görünmek",
+        "de": "eine Folge haben; einen Eindruck machen",
+        "fr": "agir, faire effet ; sembler",
+        "it": "agire, fare effetto; sembrare",
+        "es": "hacer efecto; parecer"
+      },
+      "sentences": [
+        {
+          "de": "Die Tablette [wirkt] nach zehn Minuten.",
+          "tr": "Hap on dakika sonra etki ediyor.",
+          "en": "The tablet works after ten minutes.",
+          "fr": "Le comprimé agit au bout de dix minutes.",
+          "it": "La pastiglia fa effetto dopo dieci minuti.",
+          "es": "La pastilla hace efecto a los diez minutos."
+        },
+        {
+          "de": "Du [wirkst] heute sehr ruhig.",
+          "tr": "Bugün çok sakin görünüyorsun.",
+          "en": "You seem very calm today.",
+          "fr": "Tu sembles très calme aujourd'hui.",
+          "it": "Oggi sembri molto tranquillo.",
+          "es": "Hoy pareces muy tranquilo."
+        }
+      ]
+    },
+    {
+      "id": "Wirkung",
+      "pos": "noun",
+      "parent": "wirken",
+      "parts": [
+        "wirk",
+        "-ung"
+      ],
+      "gloss": {
+        "en": "effect, impact",
+        "tr": "etki",
+        "de": "das, was durch etwas passiert; der Effekt",
+        "fr": "l'effet",
+        "it": "l'effetto",
+        "es": "el efecto"
+      },
+      "sentences": [
+        {
+          "de": "Kaffee hat bei mir keine [Wirkung].",
+          "tr": "Kahve bende etki yapmıyor.",
+          "en": "Coffee has no effect on me.",
+          "fr": "Le café ne me fait aucun effet.",
+          "it": "Il caffè non mi fa effetto.",
+          "es": "El café no me hace efecto."
+        },
+        {
+          "de": "Seine Worte hatten eine starke [Wirkung].",
+          "tr": "Sözlerinin güçlü bir etkisi oldu.",
+          "en": "His words had a strong effect.",
+          "fr": "Ses mots ont eu un fort effet.",
+          "it": "Le sue parole hanno avuto un forte effetto.",
+          "es": "Sus palabras tuvieron un gran efecto."
+        }
+      ]
+    },
+    {
+      "id": "Nebenwirkung",
+      "pos": "noun",
+      "parent": "Wirkung",
+      "parts": [
+        "neben-",
+        "wirk",
+        "-ung"
+      ],
+      "gloss": {
+        "en": "side effect",
+        "tr": "yan etki",
+        "de": "eine ungewollte Wirkung eines Medikaments",
+        "fr": "l'effet secondaire",
+        "it": "l'effetto collaterale",
+        "es": "el efecto secundario"
+      },
+      "sentences": [
+        {
+          "de": "Das Medikament hat kaum [Nebenwirkungen].",
+          "tr": "İlacın neredeyse hiç yan etkisi yok.",
+          "en": "The medicine has hardly any side effects.",
+          "fr": "Le médicament n'a presque pas d'effets secondaires.",
+          "it": "Il farmaco non ha quasi effetti collaterali.",
+          "es": "El medicamento casi no tiene efectos secundarios."
+        },
+        {
+          "de": "Müdigkeit ist eine häufige [Nebenwirkung].",
+          "tr": "Yorgunluk sık görülen bir yan etki.",
+          "en": "Tiredness is a common side effect.",
+          "fr": "La fatigue est un effet secondaire fréquent.",
+          "it": "La stanchezza è un effetto collaterale frequente.",
+          "es": "El cansancio es un efecto secundario frecuente."
+        }
+      ]
+    },
+    {
+      "id": "wirksam",
+      "pos": "adjective",
+      "parent": "wirken",
+      "parts": [
+        "wirk",
+        "-sam"
+      ],
+      "gloss": {
+        "en": "effective",
+        "tr": "etkili",
+        "de": "so, dass es gut wirkt",
+        "fr": "efficace",
+        "it": "efficace",
+        "es": "eficaz"
+      },
+      "sentences": [
+        {
+          "de": "Das ist ein sehr [wirksames] Mittel.",
+          "tr": "Bu çok etkili bir ilaç.",
+          "en": "That is a very effective remedy.",
+          "fr": "C'est un remède très efficace.",
+          "it": "È un rimedio molto efficace.",
+          "es": "Es un remedio muy eficaz."
+        },
+        {
+          "de": "Sport ist [wirksam] gegen Stress.",
+          "tr": "Spor strese karşı etkili.",
+          "en": "Exercise is effective against stress.",
+          "fr": "Le sport est efficace contre le stress.",
+          "it": "Lo sport è efficace contro lo stress.",
+          "es": "El deporte es eficaz contra el estrés."
+        }
+      ]
+    },
+    {
+      "id": "unwirksam",
+      "pos": "adjective",
+      "parent": "wirksam",
+      "parts": [
+        "un-",
+        "wirk",
+        "-sam"
+      ],
+      "gloss": {
+        "en": "ineffective; (legally) invalid",
+        "tr": "etkisiz; (hukuken) geçersiz",
+        "de": "ohne Wirkung; rechtlich nicht gültig",
+        "fr": "inefficace ; nul (en droit)",
+        "it": "inefficace; non valido",
+        "es": "ineficaz; nulo"
+      },
+      "sentences": [
+        {
+          "de": "Die Creme war völlig [unwirksam].",
+          "tr": "Krem tamamen etkisizdi.",
+          "en": "The cream was completely ineffective.",
+          "fr": "La crème était totalement inefficace.",
+          "it": "La crema era del tutto inefficace.",
+          "es": "La crema fue totalmente ineficaz."
+        },
+        {
+          "de": "Der Vertrag ist [unwirksam].",
+          "tr": "Sözleşme geçersiz.",
+          "en": "The contract is invalid.",
+          "fr": "Le contrat est nul.",
+          "it": "Il contratto non è valido.",
+          "es": "El contrato es nulo."
+        }
+      ]
+    },
+    {
+      "id": "wirklich",
+      "pos": "adjective",
+      "parent": null,
+      "parts": [
+        "wirk",
+        "-lich"
+      ],
+      "gloss": {
+        "en": "real, actual; really",
+        "tr": "gerçek; gerçekten",
+        "de": "so, wie es ist; tatsächlich; sehr",
+        "fr": "réel ; vraiment",
+        "it": "reale; davvero",
+        "es": "real; de verdad"
+      },
+      "sentences": [
+        {
+          "de": "Ist das [wirklich] wahr?",
+          "tr": "Bu gerçekten doğru mu?",
+          "en": "Is that really true?",
+          "fr": "C'est vraiment vrai ?",
+          "it": "È davvero vero?",
+          "es": "¿De verdad es cierto?"
+        },
+        {
+          "de": "Das Essen war [wirklich] gut.",
+          "tr": "Yemek gerçekten güzeldi.",
+          "en": "The food was really good.",
+          "fr": "Le repas était vraiment bon.",
+          "it": "Il cibo era davvero buono.",
+          "es": "La comida estaba muy buena de verdad."
+        }
+      ]
+    },
+    {
+      "id": "Wirklichkeit",
+      "pos": "noun",
+      "parent": "wirklich",
+      "parts": [
+        "wirk",
+        "-lich",
+        "-keit"
+      ],
+      "gloss": {
+        "en": "reality",
+        "tr": "gerçeklik, gerçek",
+        "de": "das, was wirklich ist; die Realität",
+        "fr": "la réalité",
+        "it": "la realtà",
+        "es": "la realidad"
+      },
+      "sentences": [
+        {
+          "de": "In [Wirklichkeit] ist alles ganz anders.",
+          "tr": "Gerçekte her şey bambaşka.",
+          "en": "In reality everything is quite different.",
+          "fr": "En réalité, tout est très différent.",
+          "it": "In realtà è tutto molto diverso.",
+          "es": "En realidad todo es muy distinto."
+        },
+        {
+          "de": "Der Traum wurde [Wirklichkeit].",
+          "tr": "Rüya gerçek oldu.",
+          "en": "The dream came true.",
+          "fr": "Le rêve est devenu réalité.",
+          "it": "Il sogno è diventato realtà.",
+          "es": "El sueño se hizo realidad."
+        }
+      ]
+    },
+    {
+      "id": "verwirklichen",
+      "pos": "verb",
+      "parent": "wirklich",
+      "parts": [
+        "ver-",
+        "wirk",
+        "-lich",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to realise, to make come true",
+        "tr": "gerçekleştirmek",
+        "de": "einen Plan oder Traum wahr machen",
+        "fr": "réaliser",
+        "it": "realizzare",
+        "es": "realizar, hacer realidad"
+      },
+      "sentences": [
+        {
+          "de": "Sie will ihren Traum [verwirklichen].",
+          "tr": "Hayalini gerçekleştirmek istiyor.",
+          "en": "She wants to make her dream come true.",
+          "fr": "Elle veut réaliser son rêve.",
+          "it": "Vuole realizzare il suo sogno.",
+          "es": "Quiere hacer realidad su sueño."
+        },
+        {
+          "de": "Die Idee lässt sich leicht [verwirklichen].",
+          "tr": "Bu fikir kolayca gerçekleştirilebilir.",
+          "en": "The idea is easy to put into practice.",
+          "fr": "L'idée est facile à réaliser.",
+          "it": "L'idea si può realizzare facilmente.",
+          "es": "La idea es fácil de realizar."
+        }
+      ]
+    },
+    {
+      "id": "bewirken",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "be-",
+        "wirk",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to bring about, to cause",
+        "tr": "sağlamak, yol açmak",
+        "de": "eine Wirkung oder Veränderung erreichen",
+        "fr": "provoquer, entraîner",
+        "it": "provocare, ottenere",
+        "es": "provocar, lograr"
+      },
+      "sentences": [
+        {
+          "de": "Mit kleinen Schritten kann man viel [bewirken].",
+          "tr": "Küçük adımlarla çok şey başarılabilir.",
+          "en": "You can achieve a lot with small steps.",
+          "fr": "On peut obtenir beaucoup avec de petits pas.",
+          "it": "Con piccoli passi si può ottenere molto.",
+          "es": "Con pequeños pasos se puede lograr mucho."
+        },
+        {
+          "de": "Die Kampagne hat nichts [bewirkt].",
+          "tr": "Kampanya hiçbir şey değiştirmedi.",
+          "en": "The campaign achieved nothing.",
+          "fr": "La campagne n'a rien changé.",
+          "it": "La campagna non ha ottenuto nulla.",
+          "es": "La campaña no logró nada."
+        }
+      ]
+    },
+    {
+      "id": "mitwirken",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "mit-",
+        "wirk",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to take part, to contribute",
+        "tr": "katkıda bulunmak, rol almak",
+        "de": "bei etwas aktiv mitmachen",
+        "fr": "participer, contribuer",
+        "it": "collaborare, partecipare",
+        "es": "participar, colaborar"
+      },
+      "sentences": [
+        {
+          "de": "Viele Schüler wollen beim Theaterstück [mitwirken].",
+          "tr": "Birçok öğrenci tiyatro oyununda rol almak istiyor.",
+          "en": "Many pupils want to take part in the play.",
+          "fr": "Beaucoup d'élèves veulent participer à la pièce.",
+          "it": "Molti studenti vogliono partecipare allo spettacolo.",
+          "es": "Muchos alumnos quieren participar en la obra."
+        },
+        {
+          "de": "Alle, die [mitgewirkt] haben, bekommen eine Urkunde.",
+          "tr": "Katkıda bulunan herkes bir belge alıyor.",
+          "en": "Everyone who took part gets a certificate.",
+          "fr": "Tous ceux qui ont participé reçoivent un diplôme.",
+          "it": "Tutti quelli che hanno collaborato ricevono un attestato.",
+          "es": "Todos los que participaron reciben un diploma."
+        }
+      ]
+    },
+    {
+      "id": "auswirken",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "aus-",
+        "wirk",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to affect, to have an effect on",
+        "tr": "etkilemek, (sonucu) yansımak",
+        "de": "sich auswirken: eine Folge für etwas haben",
+        "fr": "se répercuter sur",
+        "it": "ripercuotersi su",
+        "es": "repercutir en"
+      },
+      "sentences": [
+        {
+          "de": "Wie wird sich das auf die Preise [auswirken]?",
+          "tr": "Bu fiyatlara nasıl yansıyacak?",
+          "en": "How will that affect prices?",
+          "fr": "Comment cela va-t-il se répercuter sur les prix ?",
+          "it": "Come si ripercuoterà sui prezzi?",
+          "es": "¿Cómo repercutirá eso en los precios?"
+        },
+        {
+          "de": "Schlafmangel kann sich auf die Gesundheit [auswirken].",
+          "tr": "Uykusuzluk sağlığı etkileyebilir.",
+          "en": "Lack of sleep can affect your health.",
+          "fr": "Le manque de sommeil peut nuire à la santé.",
+          "it": "La mancanza di sonno può ripercuotersi sulla salute.",
+          "es": "La falta de sueño puede afectar a la salud."
+        }
+      ]
+    },
+    {
+      "id": "Auswirkung",
+      "pos": "noun",
+      "parent": "auswirken",
+      "parts": [
+        "aus-",
+        "wirk",
+        "-ung"
+      ],
+      "gloss": {
+        "en": "effect, consequence, impact",
+        "tr": "etki, sonuç",
+        "de": "eine Folge, ein Effekt",
+        "fr": "la répercussion, l'effet",
+        "it": "la ripercussione, l'effetto",
+        "es": "la repercusión, el efecto"
+      },
+      "sentences": [
+        {
+          "de": "Der Klimawandel hat große [Auswirkungen].",
+          "tr": "İklim değişikliğinin büyük etkileri var.",
+          "en": "Climate change has big effects.",
+          "fr": "Le changement climatique a de grandes répercussions.",
+          "it": "Il cambiamento climatico ha grandi effetti.",
+          "es": "El cambio climático tiene grandes repercusiones."
+        },
+        {
+          "de": "Welche [Auswirkung] hat das auf uns?",
+          "tr": "Bunun bize nasıl bir etkisi var?",
+          "en": "What impact does that have on us?",
+          "fr": "Quel effet cela a-t-il sur nous ?",
+          "it": "Che effetto ha su di noi?",
+          "es": "¿Qué efecto tiene eso en nosotros?"
+        }
+      ]
+    },
+    {
+      "id": "Werk",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "werk"
+      ],
+      "gloss": {
+        "en": "work (of art), works; factory, plant",
+        "tr": "eser, iş; fabrika",
+        "de": "etwas, das jemand geschaffen hat; eine Fabrik",
+        "fr": "l'œuvre ; l'usine",
+        "it": "l'opera; lo stabilimento",
+        "es": "la obra; la fábrica"
+      },
+      "sentences": [
+        {
+          "de": "Das ist ein frühes [Werk] von Beethoven.",
+          "tr": "Bu, Beethoven'ın erken bir eseri.",
+          "en": "That is an early work by Beethoven.",
+          "fr": "C'est une œuvre de jeunesse de Beethoven.",
+          "it": "È un'opera giovanile di Beethoven.",
+          "es": "Es una obra temprana de Beethoven."
+        },
+        {
+          "de": "Mein Onkel arbeitet im [Werk].",
+          "tr": "Amcam fabrikada çalışıyor.",
+          "en": "My uncle works at the plant.",
+          "fr": "Mon oncle travaille à l'usine.",
+          "it": "Mio zio lavora nello stabilimento.",
+          "es": "Mi tío trabaja en la fábrica."
+        }
+      ]
+    },
+    {
+      "id": "Werkzeug",
+      "pos": "noun",
+      "parent": "Werk",
+      "parts": [
+        "werk",
+        "-zeug"
+      ],
+      "gloss": {
+        "en": "tool",
+        "tr": "alet",
+        "de": "ein Gerät zum Arbeiten, z. B. ein Hammer",
+        "fr": "l'outil",
+        "it": "l'attrezzo, lo strumento",
+        "es": "la herramienta"
+      },
+      "sentences": [
+        {
+          "de": "Hast du das richtige [Werkzeug]?",
+          "tr": "Doğru aletin var mı?",
+          "en": "Have you got the right tool?",
+          "fr": "Tu as le bon outil ?",
+          "it": "Hai l'attrezzo giusto?",
+          "es": "¿Tienes la herramienta adecuada?"
+        },
+        {
+          "de": "Das [Werkzeug] liegt im Keller.",
+          "tr": "Aletler bodrumda.",
+          "en": "The tools are in the cellar.",
+          "fr": "Les outils sont à la cave.",
+          "it": "Gli attrezzi sono in cantina.",
+          "es": "Las herramientas están en el sótano."
+        }
+      ]
+    }
+  ]
+}

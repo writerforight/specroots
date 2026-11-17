@@ -1,0 +1,519 @@
+{
+  "id": "denk",
+  "addedBy": "writerforight",
+  "forms": [
+    "denk",
+    "dank",
+    "dächt"
+  ],
+  "origin": "de",
+  "etymon": "denken",
+  "meaning": {
+    "en": "to think (Dank, thanks: originally \"thinking of someone\")",
+    "tr": "düşünmek (Dank, teşekkür: aslen \"birini düşünme\")",
+    "de": "mit dem Kopf arbeiten (dachte, gedacht; Gedanke); Dank: ursprünglich \"das Denken an jemanden\"",
+    "fr": "penser (Dank, merci : à l'origine « penser à quelqu'un »)",
+    "it": "pensare (Dank, grazie: in origine \"pensare a qualcuno\")",
+    "es": "pensar (Dank, gracias: en origen \"pensar en alguien\")"
+  },
+  "words": [
+    {
+      "id": "denken",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "denk",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to think",
+        "tr": "düşünmek; sanmak",
+        "de": "mit dem Kopf überlegen; meinen",
+        "fr": "penser",
+        "it": "pensare",
+        "es": "pensar"
+      },
+      "sentences": [
+        {
+          "de": "Was [denkst] du darüber?",
+          "tr": "Bu konuda ne düşünüyorsun?",
+          "en": "What do you think about it?",
+          "fr": "Qu'est-ce que tu en penses ?",
+          "it": "Cosa ne pensi?",
+          "es": "¿Qué opinas de esto?"
+        },
+        {
+          "de": "Ich [denke] oft an dich.",
+          "tr": "Seni sık sık düşünüyorum.",
+          "en": "I often think of you.",
+          "fr": "Je pense souvent à toi.",
+          "it": "Penso spesso a te.",
+          "es": "Pienso mucho en ti."
+        }
+      ]
+    },
+    {
+      "id": "Gedanke",
+      "pos": "noun",
+      "parent": "denken",
+      "parts": [
+        "ge-",
+        "dank",
+        "-e"
+      ],
+      "gloss": {
+        "en": "thought, idea",
+        "tr": "düşünce, fikir",
+        "de": "etwas, das man denkt; eine Idee",
+        "fr": "la pensée, l'idée",
+        "it": "il pensiero, l'idea",
+        "es": "el pensamiento, la idea"
+      },
+      "sentences": [
+        {
+          "de": "Das ist ein guter [Gedanke].",
+          "tr": "Bu güzel bir düşünce.",
+          "en": "That is a good thought.",
+          "fr": "C'est une bonne idée.",
+          "it": "È un buon pensiero.",
+          "es": "Es una buena idea."
+        },
+        {
+          "de": "Mach dir keine [Gedanken].",
+          "tr": "Hiç kafana takma.",
+          "en": "Don't worry about it.",
+          "fr": "Ne t'en fais pas.",
+          "it": "Non preoccuparti.",
+          "es": "No te preocupes."
+        }
+      ]
+    },
+    {
+      "id": "nachdenken",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "nach-",
+        "denk",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to think about, to reflect",
+        "tr": "(üzerine) düşünmek, kafa yormak",
+        "de": "lange und genau über etwas denken",
+        "fr": "réfléchir",
+        "it": "riflettere",
+        "es": "reflexionar, pensar"
+      },
+      "sentences": [
+        {
+          "de": "Lass mich kurz [nachdenken].",
+          "tr": "Bir saniye düşüneyim.",
+          "en": "Let me think for a moment.",
+          "fr": "Laisse-moi réfléchir un instant.",
+          "it": "Lasciami riflettere un attimo.",
+          "es": "Déjame pensarlo un momento."
+        },
+        {
+          "de": "Darüber muss ich noch [nachdenken].",
+          "tr": "Bunu daha düşünmem lazım.",
+          "en": "I still need to think about that.",
+          "fr": "Je dois encore y réfléchir.",
+          "it": "Ci devo ancora pensare.",
+          "es": "Tengo que pensarlo todavía."
+        }
+      ]
+    },
+    {
+      "id": "bedenken",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "be-",
+        "denk",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to consider, to bear in mind",
+        "tr": "göz önünde bulundurmak, hesaba katmak",
+        "de": "an etwas denken, bevor man handelt",
+        "fr": "tenir compte de, considérer",
+        "it": "considerare, tenere conto",
+        "es": "tener en cuenta, considerar"
+      },
+      "sentences": [
+        {
+          "de": "Du musst [bedenken], dass es spät ist.",
+          "tr": "Geç olduğunu hesaba katmalısın.",
+          "en": "You have to bear in mind that it's late.",
+          "fr": "Tu dois tenir compte du fait qu'il est tard.",
+          "it": "Devi considerare che è tardi.",
+          "es": "Tienes que tener en cuenta que es tarde."
+        },
+        {
+          "de": "[Bedenke] die Folgen!",
+          "tr": "Sonuçlarını düşün!",
+          "en": "Consider the consequences!",
+          "fr": "Pense aux conséquences !",
+          "it": "Pensa alle conseguenze!",
+          "es": "¡Piensa en las consecuencias!"
+        }
+      ]
+    },
+    {
+      "id": "bedenklich",
+      "pos": "adjective",
+      "parent": "bedenken",
+      "parts": [
+        "be-",
+        "denk",
+        "-lich"
+      ],
+      "gloss": {
+        "en": "worrying, questionable",
+        "tr": "kaygı verici, şüpheli",
+        "de": "so, dass man sich Sorgen machen muss",
+        "fr": "inquiétant, douteux",
+        "it": "preoccupante, discutibile",
+        "es": "preocupante, dudoso"
+      },
+      "sentences": [
+        {
+          "de": "Sein Zustand ist [bedenklich].",
+          "tr": "Durumu kaygı verici.",
+          "en": "His condition is worrying.",
+          "fr": "Son état est inquiétant.",
+          "it": "Le sue condizioni sono preoccupanti.",
+          "es": "Su estado es preocupante."
+        },
+        {
+          "de": "Das finde ich moralisch [bedenklich].",
+          "tr": "Bunu ahlaken şüpheli buluyorum.",
+          "en": "I find that morally questionable.",
+          "fr": "Je trouve ça moralement douteux.",
+          "it": "Lo trovo moralmente discutibile.",
+          "es": "Me parece moralmente dudoso."
+        }
+      ]
+    },
+    {
+      "id": "ausdenken",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "aus-",
+        "denk",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to make up, to think up",
+        "tr": "(kafadan) uydurmak, tasarlamak",
+        "de": "sich ausdenken: etwas Neues erfinden",
+        "fr": "inventer, imaginer",
+        "it": "inventare, escogitare",
+        "es": "inventar, idear"
+      },
+      "sentences": [
+        {
+          "de": "Die Geschichte musst du dir [ausdenken].",
+          "tr": "Hikâyeyi kendin uydurmalısın.",
+          "en": "You have to make up the story yourself.",
+          "fr": "Tu dois inventer l'histoire toi-même.",
+          "it": "La storia devi inventarla tu.",
+          "es": "La historia te la tienes que inventar tú."
+        },
+        {
+          "de": "Sie kann sich tolle Spiele [ausdenken].",
+          "tr": "Harika oyunlar uydurabiliyor.",
+          "en": "She can think up great games.",
+          "fr": "Elle sait inventer des jeux géniaux.",
+          "it": "Sa inventare giochi fantastici.",
+          "es": "Sabe inventar juegos geniales."
+        }
+      ]
+    },
+    {
+      "id": "überdenken",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "über-",
+        "denk",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to reconsider, to rethink",
+        "tr": "yeniden düşünmek, gözden geçirmek",
+        "de": "noch einmal genau über etwas nachdenken",
+        "fr": "reconsidérer",
+        "it": "riconsiderare",
+        "es": "reconsiderar"
+      },
+      "sentences": [
+        {
+          "de": "Bitte [überdenke] deine Entscheidung.",
+          "tr": "Lütfen kararını yeniden düşün.",
+          "en": "Please reconsider your decision.",
+          "fr": "Reconsidère ta décision, s'il te plaît.",
+          "it": "Riconsidera la tua decisione, per favore.",
+          "es": "Reconsidera tu decisión, por favor."
+        },
+        {
+          "de": "Wir müssen unseren Plan [überdenken].",
+          "tr": "Planımızı gözden geçirmemiz lazım.",
+          "en": "We need to rethink our plan.",
+          "fr": "Nous devons revoir notre plan.",
+          "it": "Dobbiamo ripensare il nostro piano.",
+          "es": "Tenemos que replantear nuestro plan."
+        }
+      ]
+    },
+    {
+      "id": "Andenken",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "an-",
+        "denk",
+        "-en"
+      ],
+      "gloss": {
+        "en": "souvenir, keepsake; memory",
+        "tr": "hatıra, yadigâr; anı",
+        "de": "ein Ding, das an eine Person oder Reise erinnert",
+        "fr": "le souvenir",
+        "it": "il ricordo, il souvenir",
+        "es": "el recuerdo"
+      },
+      "sentences": [
+        {
+          "de": "Die Muschel ist ein [Andenken] an den Urlaub.",
+          "tr": "Deniz kabuğu tatilden bir hatıra.",
+          "en": "The shell is a souvenir of the holiday.",
+          "fr": "Le coquillage est un souvenir des vacances.",
+          "it": "La conchiglia è un ricordo della vacanza.",
+          "es": "La concha es un recuerdo de las vacaciones."
+        },
+        {
+          "de": "Zum [Andenken] an meinen Opa trage ich seine Uhr.",
+          "tr": "Dedemin anısına onun saatini takıyorum.",
+          "en": "I wear my grandad's watch in his memory.",
+          "fr": "Je porte la montre de mon grand-père en souvenir de lui.",
+          "it": "Porto l'orologio del nonno in suo ricordo.",
+          "es": "Llevo el reloj de mi abuelo en su recuerdo."
+        }
+      ]
+    },
+    {
+      "id": "Denkmal",
+      "pos": "noun",
+      "parent": "denken",
+      "parts": [
+        "denk",
+        "-mal"
+      ],
+      "gloss": {
+        "en": "monument, memorial",
+        "tr": "anıt",
+        "de": "ein Bauwerk oder eine Statue zur Erinnerung",
+        "fr": "le monument",
+        "it": "il monumento",
+        "es": "el monumento"
+      },
+      "sentences": [
+        {
+          "de": "Vor dem Rathaus steht ein [Denkmal].",
+          "tr": "Belediye binasının önünde bir anıt var.",
+          "en": "There is a monument in front of the town hall.",
+          "fr": "Il y a un monument devant la mairie.",
+          "it": "Davanti al municipio c'è un monumento.",
+          "es": "Delante del ayuntamiento hay un monumento."
+        },
+        {
+          "de": "Das [Denkmal] erinnert an die Opfer des Krieges.",
+          "tr": "Anıt savaş kurbanlarını anıyor.",
+          "en": "The memorial commemorates the victims of the war.",
+          "fr": "Le monument rappelle les victimes de la guerre.",
+          "it": "Il monumento ricorda le vittime della guerra.",
+          "es": "El monumento recuerda a las víctimas de la guerra."
+        }
+      ]
+    },
+    {
+      "id": "Gedächtnis",
+      "pos": "noun",
+      "parent": "denken",
+      "parts": [
+        "ge-",
+        "dächt",
+        "-nis"
+      ],
+      "gloss": {
+        "en": "memory",
+        "tr": "hafıza, bellek",
+        "de": "die Fähigkeit, sich an etwas zu erinnern",
+        "fr": "la mémoire",
+        "it": "la memoria",
+        "es": "la memoria"
+      },
+      "sentences": [
+        {
+          "de": "Sie hat ein gutes [Gedächtnis].",
+          "tr": "Hafızası iyi.",
+          "en": "She has a good memory.",
+          "fr": "Elle a une bonne mémoire.",
+          "it": "Ha una buona memoria.",
+          "es": "Tiene buena memoria."
+        },
+        {
+          "de": "Ich habe es aus dem [Gedächtnis] gezeichnet.",
+          "tr": "Ezberden çizdim.",
+          "en": "I drew it from memory.",
+          "fr": "Je l'ai dessiné de mémoire.",
+          "it": "L'ho disegnato a memoria.",
+          "es": "Lo dibujé de memoria."
+        }
+      ]
+    },
+    {
+      "id": "Dank",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "dank"
+      ],
+      "gloss": {
+        "en": "thanks, gratitude",
+        "tr": "teşekkür, minnet",
+        "de": "das Gefühl oder die Worte, wenn man dankbar ist",
+        "fr": "les remerciements, la gratitude",
+        "it": "il ringraziamento, la gratitudine",
+        "es": "el agradecimiento"
+      },
+      "sentences": [
+        {
+          "de": "Vielen [Dank] für deine Hilfe!",
+          "tr": "Yardımın için çok teşekkürler!",
+          "en": "Many thanks for your help!",
+          "fr": "Merci beaucoup pour ton aide !",
+          "it": "Grazie mille per il tuo aiuto!",
+          "es": "¡Muchas gracias por tu ayuda!"
+        },
+        {
+          "de": "Gott sei [Dank] ist nichts passiert.",
+          "tr": "Çok şükür bir şey olmadı.",
+          "en": "Thank God nothing happened.",
+          "fr": "Dieu merci, il ne s'est rien passé.",
+          "it": "Grazie a Dio non è successo niente.",
+          "es": "Gracias a Dios no pasó nada."
+        }
+      ]
+    },
+    {
+      "id": "danken",
+      "pos": "verb",
+      "parent": "Dank",
+      "parts": [
+        "dank",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to thank",
+        "tr": "teşekkür etmek",
+        "de": "Danke sagen",
+        "fr": "remercier",
+        "it": "ringraziare",
+        "es": "dar las gracias, agradecer"
+      },
+      "sentences": [
+        {
+          "de": "Ich möchte euch allen [danken].",
+          "tr": "Hepinize teşekkür etmek istiyorum.",
+          "en": "I would like to thank you all.",
+          "fr": "Je voudrais tous vous remercier.",
+          "it": "Vorrei ringraziarvi tutti.",
+          "es": "Quiero daros las gracias a todos."
+        },
+        {
+          "de": "Sie [dankte] ihm für das Geschenk.",
+          "tr": "Hediye için ona teşekkür etti.",
+          "en": "She thanked him for the present.",
+          "fr": "Elle l'a remercié pour le cadeau.",
+          "it": "Lo ha ringraziato per il regalo.",
+          "es": "Le dio las gracias por el regalo."
+        }
+      ]
+    },
+    {
+      "id": "dankbar",
+      "pos": "adjective",
+      "parent": "Dank",
+      "parts": [
+        "dank",
+        "-bar"
+      ],
+      "gloss": {
+        "en": "grateful, thankful",
+        "tr": "minnettar",
+        "de": "voller Dank",
+        "fr": "reconnaissant",
+        "it": "grato",
+        "es": "agradecido"
+      },
+      "sentences": [
+        {
+          "de": "Ich bin dir sehr [dankbar].",
+          "tr": "Sana çok minnettarım.",
+          "en": "I am very grateful to you.",
+          "fr": "Je te suis très reconnaissant.",
+          "it": "Ti sono molto grato.",
+          "es": "Te estoy muy agradecido."
+        },
+        {
+          "de": "Sei [dankbar] für das, was du hast.",
+          "tr": "Sahip olduklarına şükret.",
+          "en": "Be thankful for what you have.",
+          "fr": "Sois reconnaissant pour ce que tu as.",
+          "it": "Sii grato per quello che hai.",
+          "es": "Sé agradecido por lo que tienes."
+        }
+      ]
+    },
+    {
+      "id": "Dankbarkeit",
+      "pos": "noun",
+      "parent": "dankbar",
+      "parts": [
+        "dank",
+        "-bar",
+        "-keit"
+      ],
+      "gloss": {
+        "en": "gratitude",
+        "tr": "minnet, şükran",
+        "de": "das Gefühl, dankbar zu sein",
+        "fr": "la gratitude, la reconnaissance",
+        "it": "la gratitudine",
+        "es": "la gratitud"
+      },
+      "sentences": [
+        {
+          "de": "Ich möchte meine [Dankbarkeit] zeigen.",
+          "tr": "Minnetimi göstermek istiyorum.",
+          "en": "I would like to show my gratitude.",
+          "fr": "Je voudrais exprimer ma gratitude.",
+          "it": "Vorrei mostrare la mia gratitudine.",
+          "es": "Quiero mostrar mi gratitud."
+        },
+        {
+          "de": "Ihre Augen waren voller [Dankbarkeit].",
+          "tr": "Gözleri minnetle doluydu.",
+          "en": "Her eyes were full of gratitude.",
+          "fr": "Ses yeux étaient pleins de reconnaissance.",
+          "it": "I suoi occhi erano pieni di gratitudine.",
+          "es": "Sus ojos estaban llenos de gratitud."
+        }
+      ]
+    }
+  ]
+}

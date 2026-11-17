@@ -780,5 +780,51 @@
       "it": "stato, qualità (nome femminile, dopo -ig, -lich, -bar)",
       "es": "estado, cualidad (nombre femenino, tras -ig, -lich, -bar)"
     }
+  },
+  "-sam": {
+    "kind": "suffix",
+    "meaning": {
+      "en": "having the quality of, tending to (makes an adjective)",
+      "tr": "-li, eğilimli (sıfat yapar)",
+      "de": "macht ein Adjektiv: mit dieser Eigenschaft",
+      "fr": "qui a la qualité de (adjectif)",
+      "it": "che ha la qualità di (aggettivo)",
+      "es": "que tiene la cualidad de (adjetivo)"
+    }
+  },
+  "neben-": {
+    "kind": "prefix",
+    "meaning": {
+      "en": "beside, secondary",
+      "tr": "yan, ikincil",
+      "de": "neben, zusätzlich",
+      "fr": "à côté, secondaire",
+      "it": "accanto, secondario",
+      "es": "al lado, secundario"
+    }
+  },
+  "-maschine": {
+    "kind": "suffix",
+    "combining": true,
+    "meaning": {
+      "en": "machine (Maschine)",
+      "tr": "makine (Maschine)",
+      "de": "Maschine",
+      "fr": "machine (Maschine)",
+      "it": "macchina (Maschine)",
+      "es": "máquina (Maschine)"
+    }
+  },
+  "-mal": {
+    "kind": "suffix",
+    "combining": true,
+    "meaning": {
+      "en": "mark, sign (Mal)",
+      "tr": "işaret, iz (Mal)",
+      "de": "Mal, Zeichen",
+      "fr": "marque, signe (Mal)",
+      "it": "segno (Mal)",
+      "es": "marca, señal (Mal)"
+    }
   }
 }

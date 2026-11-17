@@ -88,6 +88,10 @@ seçilen dillerdeki karşılığı ve öğretici örnek cümleleri bir arada gö
     Altıncı tur (2026-11-10, "daha fazla kelime ve kök"): `brech` (unterbrechen, Ausbruch, Verbrechen,
     Durchbruch), `greif` (begreifen/Begriff, Angriff, Zugriff), `schlag` (Vorschlag, nachschlagen,
     Umschlag), `trag` (Vertrag, Beitrag, Antrag, übertragen); yeni ekler `zer-`, `durch-`; +48. Toplam 21 kök, 317 kelime.
+    Yedinci tur: `lass`, `lauf`, `werf`, `wend`, `schließ` (+101; toplam 26 kök, 418 kelime). Sekizinci tur
+    (2026-11-17, "3 kök ekle"): `such` (suchen, Besuch, Versuch, Untersuchung), `wirk` (wirken, Wirkung,
+    wirklich, Wirklichkeit; Werk, Werkzeug), `denk` (denken, Gedanke, Gedächtnis; Dank, dankbar: Dank
+    aynı kökten); yeni ekler `-sam`, `neben-`, `-maschine`, `-mal`; +41. Toplam 29 kök, 459 kelime.
 17. **Yeni açılış ve bölüm sayfaları (2026-11-10, kullanıcı isteği):** dağınık "hoş geldin" formu yerine
     başlangıç ekranı adım adım tek soru sorar: 1) English / Deutsch; 2) English ise Kökler ve ekler / Nesneler.
     Deutsch doğrudan Almanca köklere gider. Çeviri dilleri ve tema ilk açılışta sorulmaz (tarayıcı dilinden
