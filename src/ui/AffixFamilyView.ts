@@ -2,7 +2,7 @@ import type { Affix } from '../domain/Affix';
 import type { Root } from '../domain/Root';
 import type { Word } from '../domain/Word';
 import { h } from './dom';
-import { rootHref } from './routes';
+import { rootHrefIn } from './routes';
 import type { ViewContext } from './ViewContext';
 import { WordCard } from './WordCard';
 
@@ -32,7 +32,7 @@ export class AffixFamilyView {
       h(
         'header',
         { class: 'root-head' },
-        h('h1', { class: `root-title part-${affix.kind}`, lang: 'en' }, affix.label),
+        h('h1', { class: `root-title part-${affix.kind}`, lang: groups[0]?.root.language ?? 'en' }, affix.label),
         h('p', { class: 'root-gloss' }, ...meanings.map((m) => h('span', {}, m))),
         h(
           'p',
@@ -56,7 +56,7 @@ export class AffixFamilyView {
       h(
         'h2',
         { class: 'group-title' },
-        h('a', { class: 'group-root', href: rootHref(root.id), lang: 'en' }, root.forms.join(' / ')),
+        h('a', { class: 'group-root', href: rootHrefIn(root.language, root.id), lang: root.language }, root.forms.join(' / ')),
         h('span', { class: 'group-meaning' }, root.meaning[lang] ?? root.meaning.en ?? ''),
         h('span', { class: 'count' }, String(words.length)),
       ),
@@ -71,7 +71,7 @@ export class AffixFamilyView {
               {},
               h(
                 'a',
-                { class: 'affix-word', href: rootHref(root.id, word.id) },
+                { class: 'affix-word', href: rootHrefIn(root.language, root.id, word.id) },
                 this.card.renderParts(word.parts, affix.id),
                 h('span', { class: 'tree-gloss' }, this.gloss(word)),
               ),

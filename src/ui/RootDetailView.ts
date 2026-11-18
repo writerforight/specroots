@@ -95,9 +95,9 @@ export class RootDetailView {
     this.el.append(h('p', { class: 'empty-state' }, ctx.i18n.t(hint)));
   }
 
-  showAffix(affix: Affix, groups: readonly AffixGroup[], ctx: ViewContext): void {
+  showAffix(affix: Affix, groups: readonly AffixGroup[], ctx: ViewContext, back = '#/roots'): void {
     clear(this.el);
-    this.el.append(h('a', { class: 'back-link', href: '#/roots' }, `← ${ctx.i18n.t('back')}`), ...new AffixFamilyView(ctx).render(affix, groups));
+    this.el.append(h('a', { class: 'back-link', href: back }, `← ${ctx.i18n.t('back')}`), ...new AffixFamilyView(ctx).render(affix, groups));
     // Arriving from a word card deep in a root page: start the new page at its top.
     window.scrollTo?.({ top: 0 });
   }

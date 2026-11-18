@@ -1,4 +1,5 @@
 import { isExpressionKind, type ExpressionKind } from '../domain/Expression';
+import type { SourceLang } from '../domain/Language';
 
 export type Route =
   | { kind: 'home' }
@@ -14,14 +15,15 @@ export type Route =
   | { kind: 'expressionKind'; kindId: ExpressionKind; expressionId: string | null }
   | { kind: 'contributors' }
   | { kind: 'german' }
-  | { kind: 'deRoot'; rootId: string; wordId: string | null };
+  | { kind: 'deRoot'; rootId: string; wordId: string | null }
+  | { kind: 'deAffix'; affixId: string };
 
 /**
  * Hash routes: #/ (start screen: roots or objects), #/roots , #/root/spec , #/root/spec/inspection , #/affix/re- (roots section);
  * #/lists , #/list/kitchen , #/list/kitchen/colander , #/object/colander (lists section);
  * #/expressions , #/expressions/anger , #/expressions/anger/blow-up (everyday expressions section, by feeling);
  * #/kinds , #/kind/verb , #/kind/verb/blow-up (the same expressions by kind of phrase);
- * #/de , #/de/steh , #/de/steh/verstehen (German roots section); #/contributors (who added the words).
+ * #/de , #/de/steh , #/de/steh/verstehen , #/de/affix/ent- (German roots section); #/contributors (who added the words).
  */
 export function parseRoute(hash: string): Route {
   const [, kind, id, sub] = hash.replace(/^#/, '').split('/');
@@ -36,6 +38,7 @@ export function parseRoute(hash: string): Route {
   if (kind === 'kinds') return { kind: 'expressionKinds' };
   if (kind === 'kind') return isExpressionKind(id) ? { kind: 'expressionKind', kindId: id, expressionId: dec(sub) } : { kind: 'expressionKinds' };
   if (kind === 'contributors') return { kind: 'contributors' };
+  if (kind === 'de' && id === 'affix') return sub ? { kind: 'deAffix', affixId: decodeURIComponent(sub) } : { kind: 'german' };
   if (kind === 'de') return id ? { kind: 'deRoot', rootId: decodeURIComponent(id), wordId: dec(sub) } : { kind: 'german' };
   return { kind: 'home' };
 }
@@ -43,7 +46,7 @@ export function parseRoute(hash: string): Route {
 /** Which half of the app a route belongs to; null for the neutral home address. */
 export function sectionOf(route: Route): 'roots' | 'lists' | 'german' | 'expressions' | null {
   if (route.kind === 'home' || route.kind === 'contributors') return null;
-  if (route.kind === 'german' || route.kind === 'deRoot') return 'german';
+  if (route.kind === 'german' || route.kind === 'deRoot' || route.kind === 'deAffix') return 'german';
   if (route.kind === 'expressions' || route.kind === 'expressionCategory' || route.kind === 'expressionKinds' || route.kind === 'expressionKind') return 'expressions';
   return route.kind === 'roots' || route.kind === 'root' || route.kind === 'affix' ? 'roots' : 'lists';
 }
@@ -62,6 +65,21 @@ export function deRootHref(rootId: string, wordId: string | null = null): string
 
 export function affixHref(affixId: string): string {
   return `#/affix/${encodeURIComponent(affixId)}`;
+}
+
+/** A German prefix or suffix: #/de/affix/ent-. */
+export function deAffixHref(affixId: string): string {
+  return `#/de/affix/${encodeURIComponent(affixId)}`;
+}
+
+/** The page of a root or word in its own section (English or German). */
+export function rootHrefIn(lang: SourceLang, rootId: string, wordId: string | null = null): string {
+  return lang === 'de' ? deRootHref(rootId, wordId) : rootHref(rootId, wordId);
+}
+
+/** The page of a prefix or suffix in its own section (English or German). */
+export function affixHrefIn(lang: SourceLang, affixId: string): string {
+  return lang === 'de' ? deAffixHref(affixId) : affixHref(affixId);
 }
 
 export function listHref(listId: string, objectId: string | null = null): string {

@@ -4,7 +4,7 @@ import type { Root } from '../domain/Root';
 import type { Sentence } from '../domain/Sentence';
 import type { Word } from '../domain/Word';
 import { h } from './dom';
-import { affixHref } from './routes';
+import { affixHrefIn } from './routes';
 import type { ViewContext } from './ViewContext';
 
 /** Renders one word: its parts, meanings in the chosen languages, and example sentences. */
@@ -56,13 +56,11 @@ export class WordCard {
       if (!affix) return h('li', { class: 'breakdown-item part-root' }, h('b', { lang: root.language }, part.text), ' ', root.meaning[lang] ?? root.meaning.en ?? '');
       const label = h('b', { lang: root.language }, affix.label);
       const meaning = affix.meaning[lang] ?? affix.meaning.en ?? '';
-      // German affixes have no pages of their own (yet), so they are plain text.
-      if (root.language !== 'en') return h('li', { class: `breakdown-item part-${part.kind}` }, label, ' ', meaning);
-      // Each English prefix and suffix leads to every other word built with it.
+      // Each prefix and suffix leads to every other word built with it, in the root's own section.
       return h(
         'li',
         { class: `breakdown-item part-${part.kind}` },
-        h('a', { class: 'breakdown-link', href: affixHref(affix.id) }, label, ' ', meaning),
+        h('a', { class: 'breakdown-link', href: affixHrefIn(root.language, affix.id) }, label, ' ', meaning),
       );
     });
     return h('ul', { class: 'breakdown' }, ...items);

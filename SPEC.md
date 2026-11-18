@@ -123,7 +123,7 @@ seçilen dillerdeki karşılığı ve öğretici örnek cümleleri bir arada gö
     durağan sıra; "Detay" kişi başına toplam kelime, İngilizce/Almanca/nesne
     dağılımı ve eklediği kökler/listeler (A–Z ada göre). Üretilen indeks dosyaları repodan çıktı
     (`.gitignore`; `predev`/`pretest`/`build` üretir) ki ayrı kökler ekleyen iki PR çakışmasın; PR
-    denetimi canlı yayını iptal etmez. Ertelenenler: Almanca ek sayfaları, uzun ek açıklamaları,
+    denetimi canlı yayını iptal etmez. Ertelenenler: ~~Almanca ek sayfaları~~ (2026-11-18 yapıldı, karar 19'un altına bak), uzun ek açıklamaları,
     eklerde `addedBy`, kelime listesini gizleme (özel veri reposu + lisans).
 19. **Gündelik ifadeler (2026-11-12, kullanıcı isteği):** İngilizce tarafına üçüncü seçenek. Kaynak:
     kullanıcının 164 duygu ifadelik koleksiyonu (`~/Desktop/projects/duygu-ifadeleri`, `to_specroots.py`
@@ -141,6 +141,10 @@ seçilen dillerdeki karşılığı ve öğretici örnek cümleleri bir arada gö
     `#/kinds` türleri, `#/kind/<tür>` o türdeki bütün ifadeleri duygu başlıkları altında tek liste
     olarak gösterir (`#/kind/<tür>/<ifade>` karta kayar). Bir duygunun sayfasında kartların üstündeki
     süzgeç (Hepsi · Fiiller · Sıfatlar…) yalnız o türü bırakır.
+    **Almanca ek sayfaları (2026-11-18, kullanıcı isteği: "ent ön ekini de ekle"):** Almanca bölüm de
+    İngilizce gibi Kökler · Ön ekler · Son ekler sekmeli (yan liste ve başlangıç sayfası aynı
+    `browseMode` ayarını paylaşır). Adres `#/de/affix/<ek>` (örn. `#/de/affix/ent-`); `de/affix-index.json`
+    üretilir (repoda yok). Almanca kelime kartındaki ek etiketleri artık bu sayfaya bağlanır.
 
 ## Mimari
 ```

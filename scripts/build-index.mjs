@@ -81,12 +81,24 @@ const categoryLines = categories.map(({ id, title, expressions }) => `  ${JSON.s
 writeFileSync(join(dataDir, 'expressions-index.json'), `[\n${categoryLines.join(',\n')}\n]\n`);
 console.log(`expressions-index.json: ${categories.length} categories, ${expressionHome.size} expressions`);
 
-// German roots (SPEC decision 16): public/data/de/ has the same layout as public/data. Only the list
-// index is needed for now; German affixes have no pages of their own yet.
+// German roots (SPEC decision 16): public/data/de/ has the same layout as public/data, with its own
+// list index and affix index (German prefix and suffix pages, #/de/affix/ent-).
 const deDir = join(dataDir, 'de');
 const deRoots = readAll(join(deDir, 'roots')).sort((a, b) => a.forms[0].localeCompare(b.forms[0], 'de'));
 const deIndex = deRoots.map(({ id, forms, origin, meaning, words }) => ({ id, forms, origin, meaning, words: words.map((w) => w.id) }));
 writeFileSync(join(deDir, 'index.json'), JSON.stringify(deIndex, null, 2) + '\n');
+const deUsage = new Map();
+for (const root of deRoots) {
+  for (const word of root.words) {
+    for (const part of new Set(word.parts.filter((p) => p.startsWith('-') || p.endsWith('-')))) {
+      const byRoot = deUsage.get(part) ?? deUsage.set(part, {}).get(part);
+      (byRoot[root.id] ??= []).push(word.id);
+    }
+  }
+}
+const deLines = [...deUsage].sort(([a], [b]) => a.localeCompare(b, 'de')).map(([id, byRoot]) => `  ${JSON.stringify(id)}: ${JSON.stringify(byRoot)}`);
+writeFileSync(join(deDir, 'affix-index.json'), `{\n${deLines.join(',\n')}\n}\n`);
+console.log(`de/affix-index.json: ${deUsage.size} German affixes`);
 console.log(`de/index.json: ${deIndex.length} German roots, ${deIndex.reduce((n, r) => n + r.words.length, 0)} words`);
 
 // Contributors (SPEC decision 18): contributors.json names the people; every root, object and list

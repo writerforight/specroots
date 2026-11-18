@@ -5,7 +5,7 @@ import { JsonLexiconRepository } from '../src/data/JsonLexiconRepository';
 import { LexiconParser } from '../src/data/LexiconParser';
 import { glossLangs, LANGUAGES, sentenceLangs } from '../src/domain/Language';
 import { SearchIndex } from '../src/services/SearchIndex';
-import { deRootHref, parseRoute, sectionOf } from '../src/ui/routes';
+import { affixHrefIn, deAffixHref, deRootHref, parseRoute, rootHrefIn, sectionOf } from '../src/ui/routes';
 import { DATA_DIR, readJson } from './helpers';
 
 const parser = new LexiconParser();
@@ -113,6 +113,22 @@ describe('German section plumbing', () => {
     expect(parseRoute('#/de')).toEqual({ kind: 'german' });
     expect(parseRoute(deRootHref('steh', 'Verständnis'))).toEqual({ kind: 'deRoot', rootId: 'steh', wordId: 'Verständnis' });
     expect(sectionOf(parseRoute('#/de/steh'))).toBe('german');
+  });
+  it('gives German prefixes and suffixes their own pages (#/de/affix/ent-)', () => {
+    expect(parseRoute(deAffixHref('ent-'))).toEqual({ kind: 'deAffix', affixId: 'ent-' });
+    expect(parseRoute(deAffixHref('-ung'))).toEqual({ kind: 'deAffix', affixId: '-ung' });
+    expect(parseRoute('#/de/affix')).toEqual({ kind: 'german' });
+    expect(sectionOf(parseRoute(deAffixHref('ent-')))).toBe('german');
+    expect(affixHrefIn('de', 'ent-')).toBe('#/de/affix/ent-');
+    expect(affixHrefIn('en', 're-')).toBe('#/affix/re-');
+    expect(rootHrefIn('de', 'deck', 'entdecken')).toBe('#/de/deck/entdecken');
+  });
+  it('indexes the words of a German prefix across roots', async () => {
+    const repo = new JsonLexiconRepository(async (path) => readJson(path.replace(/^data\//, '')), 'data/de/', 'de');
+    const index = await repo.getAffixIndex();
+    const ent = index.get('ent-') ?? [];
+    expect(ent.find((o) => o.rootId === 'deck')?.wordIds).toContain('entdecken');
+    expect(ent.length).toBeGreaterThan(1);
   });
   it('searches German roots only in the German section', () => {
     const de = [{ id: 'steh', forms: ['steh'], origin: 'de' as const, meaning: {}, words: ['verstehen'] }];

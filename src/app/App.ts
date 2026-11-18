@@ -14,7 +14,8 @@ import { categoryTitle, ExpressionsSidebarView } from '../ui/ExpressionsSidebarV
 import { ListsSidebarView } from '../ui/ListsSidebarView';
 import { RootDetailView } from '../ui/RootDetailView';
 import { RootListView } from '../ui/RootListView';
-import { affixHref, deRootHref, listHref, parseRoute, rootHref, sectionOf, type Route } from '../ui/routes';
+import { affixHrefIn, deRootHref, listHref, parseRoute, rootHref, sectionOf, type Route } from '../ui/routes';
+import type { SourceLang } from '../domain/Language';
 import type { IndexItem } from '../ui/IndexView';
 import { SearchBox } from '../ui/SearchBox';
 import { SettingsDialog } from '../ui/SettingsDialog';
@@ -56,6 +57,8 @@ export class App {
   private wordLists: ListSummary[] = [];
   private categories: CategorySummary[] = [];
   private germanRoots: RootSummary[] = [];
+  private germanAffixes: ReadonlyMap<string, Affix> = new Map();
+  private germanAffixIndex: AffixIndex | null = null;
   /** Loaded the first time the learner browses by prefix or suffix. */
   private affixIndex: AffixIndex | null = null;
   private route: Route = { kind: 'home' };
@@ -122,6 +125,7 @@ export class App {
     }
     // German roots are small and found by search from the start; if they fail, the rest still works.
     this.germanRoots = (await this.german?.listRoots().catch(() => [])) ?? [];
+    this.germanAffixes = (await this.german?.getAffixes().catch(() => new Map<string, Affix>())) ?? new Map<string, Affix>();
     // Like the German roots, the expressions are an extra: without them the other sections still work.
     this.categories = await this.repository.listExpressionCategories().catch(() => []);
     this.search.setIndex(new SearchIndex(this.roots, this.affixes.values(), this.objects, this.wordLists, this.germanRoots, this.categories));
@@ -155,7 +159,8 @@ export class App {
     const patch: { section?: Section; browseMode?: 'prefix' | 'suffix' } = {};
     const section = sectionOf(this.route);
     if (section && section !== this.settings.value.section) patch.section = section;
-    const kind = this.route.kind === 'affix' ? this.affixes.get(this.route.affixId)?.kind : undefined;
+    const kind =
+      this.route.kind === 'affix' ? this.affixes.get(this.route.affixId)?.kind : this.route.kind === 'deAffix' ? this.germanAffixes.get(this.route.affixId)?.kind : undefined;
     if (kind && kind !== this.settings.value.browseMode) patch.browseMode = kind;
     if (patch.section || patch.browseMode) {
       this.settings.update(patch);
@@ -169,7 +174,7 @@ export class App {
     const route = this.route;
     // Mobile shows either the side list or the page; the lists start page is a side-list page.
     // "#/" is the start screen (roots or objects); mobile shows the side list on a section's start page.
-    const view = route.kind === 'deRoot' ? 'root' : route.kind === 'expressionCategory' || route.kind === 'expressionKind' ? 'list' : route.kind;
+    const view = route.kind === 'deRoot' ? 'root' : route.kind === 'deAffix' ? 'affix' : route.kind === 'expressionCategory' || route.kind === 'expressionKind' ? 'list' : route.kind;
     document.body.dataset.view =
       route.kind === 'home' ? 'start' : route.kind === 'roots' || route.kind === 'german' ? 'index' : route.kind === 'lists' || route.kind === 'expressions' || route.kind === 'expressionKinds' ? 'home' : view;
     try {
@@ -211,17 +216,19 @@ export class App {
         if (token !== this.renderToken) return;
         this.detail.show(root, this.context(), route.wordId);
         document.title = `${root.forms[0] ?? root.id} · specroots`;
-      } else if (route.kind === 'affix') {
-        const affix = this.affixes.get(route.affixId);
-        if (!affix) throw new Error(`unknown affix ${route.affixId}`);
-        const occurrences = (await this.loadAffixIndex()).get(affix.id) ?? [];
-        const roots = await Promise.all(occurrences.map((o) => this.repository.getRoot(o.rootId)));
+      } else if (route.kind === 'affix' || route.kind === 'deAffix') {
+        const de = route.kind === 'deAffix';
+        const repo = de ? this.german : this.repository;
+        const affix = (de ? this.germanAffixes : this.affixes).get(route.affixId);
+        if (!affix || !repo) throw new Error(`unknown affix ${route.affixId}`);
+        const occurrences = (await (de ? this.loadGermanAffixIndex() : this.loadAffixIndex())).get(affix.id) ?? [];
+        const roots = await Promise.all(occurrences.map((o) => repo.getRoot(o.rootId)));
         if (token !== this.renderToken) return;
         const groups = roots.map((root, i) => ({
           root,
           words: (occurrences[i]?.wordIds ?? []).map((id) => root.word(id)).filter((w) => w !== undefined),
         }));
-        this.detail.showAffix(affix, groups, this.context());
+        this.detail.showAffix(affix, groups, this.context(), de ? '#/de' : '#/roots');
         document.title = `${affix.label} · specroots`;
       } else if (route.kind === 'list' && route.objectId === null) {
         const list = await this.repository.getList(route.listId);
@@ -271,13 +278,18 @@ export class App {
       this.sidebar.replaceChildren(this.expressionsSidebar.el);
       return;
     }
+    this.modeSwitch.render(mode);
     if (section === 'german') {
       this.sidebar.setAttribute('aria-label', this.i18n.t('section_german'));
-      this.list.render(this.germanRoots, route.kind === 'deRoot' ? route.rootId : null, (id) => deRootHref(id));
-      this.sidebar.replaceChildren(this.list.el);
+      if (mode === 'root') {
+        this.list.render(this.germanRoots, route.kind === 'deRoot' ? route.rootId : null, (id) => deRootHref(id));
+        this.sidebar.replaceChildren(this.modeSwitch.el, this.list.el);
+        return;
+      }
+      this.affixList.render(mode, this.germanAffixes, await this.loadGermanAffixIndex(), route.kind === 'deAffix' ? route.affixId : null, 'de');
+      this.sidebar.replaceChildren(this.modeSwitch.el, this.affixList.el);
       return;
     }
-    this.modeSwitch.render(mode);
     this.sidebar.setAttribute('aria-label', this.i18n.t(`browse_${mode}`));
     if (mode === 'root') {
       this.list.render(this.roots, route.kind === 'root' ? route.rootId : null);
@@ -304,17 +316,17 @@ export class App {
         href: href(root.id),
         lang: root.origin === 'de' ? 'de' : 'en',
       }));
-    if (kind === 'german') {
-      this.detail.showIndex(this.context(), this.i18n.t('section_german'), fromRoots(this.germanRoots, (id) => deRootHref(id)), null, onLayout);
-      return;
-    }
+    const de = kind === 'german';
+    const title = this.i18n.t(de ? 'section_german' : 'section_roots');
     this.indexModeSwitch.render(mode);
     if (mode === 'root') {
-      this.detail.showIndex(this.context(), this.i18n.t('section_roots'), fromRoots(this.roots, (id) => rootHref(id)), this.indexModeSwitch.el, onLayout);
+      const items = de ? fromRoots(this.germanRoots, (id) => deRootHref(id)) : fromRoots(this.roots, (id) => rootHref(id));
+      this.detail.showIndex(this.context(), title, items, this.indexModeSwitch.el, onLayout);
       return;
     }
-    const index = await this.loadAffixIndex();
-    const items = [...this.affixes.values()]
+    const source: SourceLang = de ? 'de' : 'en';
+    const index = await (de ? this.loadGermanAffixIndex() : this.loadAffixIndex());
+    const items = [...(de ? this.germanAffixes : this.affixes).values()]
       .filter((a) => a.kind === mode)
       .map((affix) => {
         const occurrences = index.get(affix.id) ?? [];
@@ -324,14 +336,14 @@ export class App {
           meaning: affix.meaning[lang] ?? affix.meaning.en ?? '',
           count: occurrences.reduce((n, o) => n + o.wordIds.length, 0),
           examples: occurrences.flatMap((o) => o.wordIds).slice(0, 4),
-          href: affixHref(affix.id),
-          lang: 'en',
+          href: affixHrefIn(source, affix.id),
+          lang: source,
           kind: affix.kind,
         };
       })
       .filter((item) => item.count > 0)
       .sort((a, b) => a.key.localeCompare(b.key) || a.label.localeCompare(b.label));
-    this.detail.showIndex(this.context(), this.i18n.t('section_roots'), items, this.indexModeSwitch.el, onLayout);
+    this.detail.showIndex(this.context(), title, items, this.indexModeSwitch.el, onLayout);
   }
 
   /** Every feeling that has expressions of this kind, with only those expressions. */
@@ -349,5 +361,11 @@ export class App {
   private async loadAffixIndex(): Promise<AffixIndex> {
     this.affixIndex ??= await this.repository.getAffixIndex();
     return this.affixIndex;
+  }
+
+  private async loadGermanAffixIndex(): Promise<AffixIndex> {
+    if (!this.german) return new Map();
+    this.germanAffixIndex ??= await this.german.getAffixIndex();
+    return this.germanAffixIndex;
   }
 }

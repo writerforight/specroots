@@ -2,7 +2,8 @@ import type { Affix, AffixIndex, AffixKind } from '../domain/Affix';
 import type { I18n } from '../i18n/I18n';
 import { clear, h } from './dom';
 import { letterGroups } from './RootListView';
-import { affixHref } from './routes';
+import type { SourceLang } from '../domain/Language';
+import { affixHrefIn } from './routes';
 
 /** The alphabetical list of prefixes or suffixes, each with how many words carry it. */
 export class AffixListView {
@@ -10,7 +11,7 @@ export class AffixListView {
 
   constructor(private readonly i18n: I18n) {}
 
-  render(kind: AffixKind, affixes: ReadonlyMap<string, Affix>, index: AffixIndex, selectedId: string | null): void {
+  render(kind: AffixKind, affixes: ReadonlyMap<string, Affix>, index: AffixIndex, selectedId: string | null, source: SourceLang = 'en'): void {
     const lang = this.i18n.language;
     const count = (affix: Affix) => (index.get(affix.id) ?? []).reduce((n, o) => n + o.wordIds.length, 0);
     // Homographs ("in-" into, "in-" not) stay separate rows; their meanings tell them apart.
@@ -20,8 +21,8 @@ export class AffixListView {
     const link = (affix: Affix) =>
       h(
         'a',
-        { class: 'root-link', href: affixHref(affix.id), 'aria-current': affix.id === selectedId ? 'page' : null },
-        h('span', { class: `root-forms part-${affix.kind}`, lang: 'en' }, affix.label),
+        { class: 'root-link', href: affixHrefIn(source, affix.id), 'aria-current': affix.id === selectedId ? 'page' : null },
+        h('span', { class: `root-forms part-${affix.kind}`, lang: source }, affix.label),
         h('span', { class: 'root-meaning' }, affix.meaning[lang] ?? affix.meaning.en ?? ''),
         h('span', { class: 'root-count' }, String(count(affix))),
       );
