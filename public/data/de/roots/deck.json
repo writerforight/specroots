@@ -1,0 +1,766 @@
+{
+  "id": "deck",
+  "addedBy": "writerforight",
+  "forms": [
+    "deck"
+  ],
+  "origin": "de",
+  "etymon": "decken",
+  "meaning": {
+    "en": "to cover",
+    "tr": "örtmek, kapatmak",
+    "de": "etwas über etwas legen (deckte, gedeckt; Decke)",
+    "fr": "couvrir",
+    "it": "coprire",
+    "es": "cubrir"
+  },
+  "words": [
+    {
+      "id": "decken",
+      "pos": "verb",
+      "parent": null,
+      "parts": [
+        "deck",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to cover; to lay (the table)",
+        "tr": "örtmek; (sofrayı) kurmak",
+        "de": "etwas über etwas legen, damit es geschützt oder verborgen ist",
+        "fr": "couvrir ; mettre (la table)",
+        "it": "coprire; apparecchiare (la tavola)",
+        "es": "cubrir; poner (la mesa)"
+      },
+      "sentences": [
+        {
+          "de": "Kannst du bitte den Tisch [decken]?",
+          "tr": "Lütfen sofrayı kurar mısın?",
+          "en": "Can you lay the table, please?",
+          "fr": "Tu peux mettre la table, s'il te plaît ?",
+          "it": "Puoi apparecchiare la tavola, per favore?",
+          "es": "¿Puedes poner la mesa, por favor?"
+        },
+        {
+          "de": "Schnee [deckt] die Dächer.",
+          "tr": "Kar çatıları örtüyor.",
+          "en": "Snow covers the roofs.",
+          "fr": "La neige couvre les toits.",
+          "it": "La neve copre i tetti.",
+          "es": "La nieve cubre los tejados."
+        }
+      ]
+    },
+    {
+      "id": "Decke",
+      "pos": "noun",
+      "parent": "decken",
+      "parts": [
+        "deck",
+        "-e"
+      ],
+      "gloss": {
+        "en": "blanket; ceiling",
+        "tr": "battaniye; tavan",
+        "de": "ein warmes Tuch zum Zudecken; die obere Fläche eines Raumes",
+        "fr": "la couverture ; le plafond",
+        "it": "la coperta; il soffitto",
+        "es": "la manta; el techo"
+      },
+      "sentences": [
+        {
+          "de": "Mir ist kalt, gib mir bitte eine [Decke].",
+          "tr": "Üşüyorum, bana bir battaniye ver lütfen.",
+          "en": "I'm cold, please give me a blanket.",
+          "fr": "J'ai froid, donne-moi une couverture, s'il te plaît.",
+          "it": "Ho freddo, dammi una coperta, per favore.",
+          "es": "Tengo frío, dame una manta, por favor."
+        },
+        {
+          "de": "Die Lampe hängt an der [Decke].",
+          "tr": "Lamba tavanda asılı.",
+          "en": "The lamp hangs from the ceiling.",
+          "fr": "La lampe est suspendue au plafond.",
+          "it": "La lampada è appesa al soffitto.",
+          "es": "La lámpara cuelga del techo."
+        }
+      ]
+    },
+    {
+      "id": "Bettdecke",
+      "pos": "noun",
+      "parent": "Decke",
+      "parts": [
+        "bett-",
+        "deck",
+        "-e"
+      ],
+      "gloss": {
+        "en": "duvet, quilt",
+        "tr": "yorgan",
+        "de": "die Decke, unter der man im Bett schläft",
+        "fr": "la couette",
+        "it": "il piumone",
+        "es": "el edredón"
+      },
+      "sentences": [
+        {
+          "de": "Im Winter brauche ich eine dicke [Bettdecke].",
+          "tr": "Kışın kalın bir yorgana ihtiyacım var.",
+          "en": "In winter I need a thick duvet.",
+          "fr": "En hiver, j'ai besoin d'une couette épaisse.",
+          "it": "D'inverno mi serve un piumone pesante.",
+          "es": "En invierno necesito un edredón grueso."
+        },
+        {
+          "de": "Das Kind zieht die [Bettdecke] über den Kopf.",
+          "tr": "Çocuk yorganı başına çekiyor.",
+          "en": "The child pulls the duvet over its head.",
+          "fr": "L'enfant tire la couette sur sa tête.",
+          "it": "Il bambino si tira il piumone sopra la testa.",
+          "es": "El niño se tapa la cabeza con el edredón."
+        }
+      ]
+    },
+    {
+      "id": "Tischdecke",
+      "pos": "noun",
+      "parent": "Decke",
+      "parts": [
+        "tisch-",
+        "deck",
+        "-e"
+      ],
+      "gloss": {
+        "en": "tablecloth",
+        "tr": "masa örtüsü",
+        "de": "ein Tuch, das man auf den Tisch legt",
+        "fr": "la nappe",
+        "it": "la tovaglia",
+        "es": "el mantel"
+      },
+      "sentences": [
+        {
+          "de": "Auf der [Tischdecke] ist ein Fleck.",
+          "tr": "Masa örtüsünde bir leke var.",
+          "en": "There is a stain on the tablecloth.",
+          "fr": "Il y a une tache sur la nappe.",
+          "it": "C'è una macchia sulla tovaglia.",
+          "es": "Hay una mancha en el mantel."
+        },
+        {
+          "de": "Für Gäste legen wir eine weiße [Tischdecke] auf.",
+          "tr": "Misafirler için beyaz bir masa örtüsü seriyoruz.",
+          "en": "For guests we put on a white tablecloth.",
+          "fr": "Pour les invités, nous mettons une nappe blanche.",
+          "it": "Per gli ospiti mettiamo una tovaglia bianca.",
+          "es": "Para los invitados ponemos un mantel blanco."
+        }
+      ]
+    },
+    {
+      "id": "Deckel",
+      "pos": "noun",
+      "parent": "decken",
+      "parts": [
+        "deck",
+        "-el"
+      ],
+      "gloss": {
+        "en": "lid, cover",
+        "tr": "kapak",
+        "de": "ein Teil, mit dem man einen Topf oder eine Dose schließt",
+        "fr": "le couvercle",
+        "it": "il coperchio",
+        "es": "la tapa"
+      },
+      "sentences": [
+        {
+          "de": "Mach den [Deckel] auf den Topf.",
+          "tr": "Tencerenin kapağını kapat.",
+          "en": "Put the lid on the pot.",
+          "fr": "Mets le couvercle sur la casserole.",
+          "it": "Metti il coperchio sulla pentola.",
+          "es": "Pon la tapa a la olla."
+        },
+        {
+          "de": "Ich bekomme den [Deckel] nicht auf.",
+          "tr": "Kapağı açamıyorum.",
+          "en": "I can't get the lid open.",
+          "fr": "Je n'arrive pas à ouvrir le couvercle.",
+          "it": "Non riesco ad aprire il coperchio.",
+          "es": "No consigo abrir la tapa."
+        }
+      ]
+    },
+    {
+      "id": "Deckung",
+      "pos": "noun",
+      "parent": "decken",
+      "parts": [
+        "deck",
+        "-ung"
+      ],
+      "gloss": {
+        "en": "cover, shelter; (financial) coverage",
+        "tr": "siper, korunak; (mali) karşılık",
+        "de": "Schutz vor Gefahr; Geld, das eine Ausgabe bezahlt",
+        "fr": "l'abri ; la couverture (financière)",
+        "it": "il riparo; la copertura (finanziaria)",
+        "es": "el refugio; la cobertura (financiera)"
+      },
+      "sentences": [
+        {
+          "de": "Die Soldaten gingen in [Deckung].",
+          "tr": "Askerler siper aldı.",
+          "en": "The soldiers took cover.",
+          "fr": "Les soldats se sont mis à l'abri.",
+          "it": "I soldati si misero al riparo.",
+          "es": "Los soldados se pusieron a cubierto."
+        },
+        {
+          "de": "Für den Scheck gibt es keine [Deckung].",
+          "tr": "Çekin karşılığı yok.",
+          "en": "There are no funds to cover the cheque.",
+          "fr": "Le chèque n'a pas de provision.",
+          "it": "L'assegno è scoperto.",
+          "es": "El cheque no tiene fondos."
+        }
+      ]
+    },
+    {
+      "id": "Gedeck",
+      "pos": "noun",
+      "parent": "decken",
+      "parts": [
+        "ge-",
+        "deck"
+      ],
+      "gloss": {
+        "en": "place setting; set menu",
+        "tr": "(bir kişilik) sofra takımı; fiks menü",
+        "de": "Teller, Besteck und Glas für eine Person; ein festes Menü",
+        "fr": "le couvert ; le menu",
+        "it": "il coperto; il menù fisso",
+        "es": "el cubierto; el menú"
+      },
+      "sentences": [
+        {
+          "de": "Bitte leg noch ein [Gedeck] für Oma auf.",
+          "tr": "Lütfen babaanne için bir takım daha koy.",
+          "en": "Please set another place for Grandma.",
+          "fr": "Mets encore un couvert pour mamie, s'il te plaît.",
+          "it": "Per favore, aggiungi un coperto per la nonna.",
+          "es": "Pon otro cubierto para la abuela, por favor."
+        },
+        {
+          "de": "Das [Gedeck] kostet zwanzig Euro.",
+          "tr": "Fiks menü yirmi euro.",
+          "en": "The set menu costs twenty euros.",
+          "fr": "Le menu coûte vingt euros.",
+          "it": "Il menù fisso costa venti euro.",
+          "es": "El menú cuesta veinte euros."
+        }
+      ]
+    },
+    {
+      "id": "Deck",
+      "pos": "noun",
+      "parent": null,
+      "parts": [
+        "deck"
+      ],
+      "gloss": {
+        "en": "deck (of a ship)",
+        "tr": "güverte",
+        "de": "der flache Boden oben auf einem Schiff",
+        "fr": "le pont",
+        "it": "il ponte",
+        "es": "la cubierta"
+      },
+      "sentences": [
+        {
+          "de": "Alle Passagiere standen an [Deck].",
+          "tr": "Bütün yolcular güvertedeydi.",
+          "en": "All the passengers were on deck.",
+          "fr": "Tous les passagers étaient sur le pont.",
+          "it": "Tutti i passeggeri erano sul ponte.",
+          "es": "Todos los pasajeros estaban en cubierta."
+        },
+        {
+          "de": "Vom oberen [Deck] sieht man das Meer.",
+          "tr": "Üst güverteden deniz görünüyor.",
+          "en": "From the upper deck you can see the sea.",
+          "fr": "Du pont supérieur, on voit la mer.",
+          "it": "Dal ponte superiore si vede il mare.",
+          "es": "Desde la cubierta superior se ve el mar."
+        }
+      ]
+    },
+    {
+      "id": "Deckname",
+      "pos": "noun",
+      "parent": "decken",
+      "parts": [
+        "deck",
+        "-name"
+      ],
+      "gloss": {
+        "en": "code name, alias",
+        "tr": "kod adı, takma ad",
+        "de": "ein falscher Name, der den echten verbirgt",
+        "fr": "le nom de code",
+        "it": "il nome in codice",
+        "es": "el nombre en clave"
+      },
+      "sentences": [
+        {
+          "de": "Der Agent arbeitete unter einem [Decknamen].",
+          "tr": "Ajan bir kod adıyla çalışıyordu.",
+          "en": "The agent worked under a code name.",
+          "fr": "L'agent travaillait sous un nom de code.",
+          "it": "L'agente lavorava sotto un nome in codice.",
+          "es": "El agente trabajaba con un nombre en clave."
+        },
+        {
+          "de": "Sein [Deckname] war „Falke“.",
+          "tr": "Kod adı \"Şahin\"di.",
+          "en": "His code name was \"Falcon\".",
+          "fr": "Son nom de code était « Faucon ».",
+          "it": "Il suo nome in codice era \"Falco\".",
+          "es": "Su nombre en clave era \"Halcón\"."
+        }
+      ]
+    },
+    {
+      "id": "bedecken",
+      "pos": "verb",
+      "parent": "decken",
+      "parts": [
+        "be-",
+        "deck",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to cover (completely)",
+        "tr": "(tamamen) örtmek, kaplamak",
+        "de": "ganz mit etwas zudecken",
+        "fr": "recouvrir",
+        "it": "ricoprire",
+        "es": "cubrir (por completo)"
+      },
+      "sentences": [
+        {
+          "de": "Wolken [bedecken] den Himmel.",
+          "tr": "Bulutlar gökyüzünü kaplıyor.",
+          "en": "Clouds cover the sky.",
+          "fr": "Des nuages recouvrent le ciel.",
+          "it": "Le nuvole ricoprono il cielo.",
+          "es": "Las nubes cubren el cielo."
+        },
+        {
+          "de": "Sie [bedeckte] ihr Gesicht mit den Händen.",
+          "tr": "Yüzünü elleriyle kapattı.",
+          "en": "She covered her face with her hands.",
+          "fr": "Elle a couvert son visage de ses mains.",
+          "it": "Si coprì il viso con le mani.",
+          "es": "Se cubrió la cara con las manos."
+        }
+      ]
+    },
+    {
+      "id": "entdecken",
+      "pos": "verb",
+      "parent": "decken",
+      "parts": [
+        "ent-",
+        "deck",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to discover (literally: to uncover)",
+        "tr": "keşfetmek (kelimesi kelimesine: örtüyü kaldırmak)",
+        "de": "etwas Unbekanntes zum ersten Mal finden",
+        "fr": "découvrir",
+        "it": "scoprire",
+        "es": "descubrir"
+      },
+      "sentences": [
+        {
+          "de": "Kolumbus [entdeckte] 1492 Amerika.",
+          "tr": "Kolomb 1492'de Amerika'yı keşfetti.",
+          "en": "Columbus discovered America in 1492.",
+          "fr": "Christophe Colomb a découvert l'Amérique en 1492.",
+          "it": "Colombo scoprì l'America nel 1492.",
+          "es": "Colón descubrió América en 1492."
+        },
+        {
+          "de": "Ich habe ein tolles Café [entdeckt].",
+          "tr": "Harika bir kafe keşfettim.",
+          "en": "I discovered a great café.",
+          "fr": "J'ai découvert un super café.",
+          "it": "Ho scoperto un bar fantastico.",
+          "es": "He descubierto un café genial."
+        }
+      ]
+    },
+    {
+      "id": "Entdeckung",
+      "pos": "noun",
+      "parent": "entdecken",
+      "parts": [
+        "ent-",
+        "deck",
+        "-ung"
+      ],
+      "gloss": {
+        "en": "discovery",
+        "tr": "keşif",
+        "de": "das Finden von etwas Neuem; das, was man gefunden hat",
+        "fr": "la découverte",
+        "it": "la scoperta",
+        "es": "el descubrimiento"
+      },
+      "sentences": [
+        {
+          "de": "Die [Entdeckung] des Penicillins rettete Millionen Leben.",
+          "tr": "Penisilinin keşfi milyonlarca hayat kurtardı.",
+          "en": "The discovery of penicillin saved millions of lives.",
+          "fr": "La découverte de la pénicilline a sauvé des millions de vies.",
+          "it": "La scoperta della penicillina ha salvato milioni di vite.",
+          "es": "El descubrimiento de la penicilina salvó millones de vidas."
+        },
+        {
+          "de": "Das Buch war eine echte [Entdeckung] für mich.",
+          "tr": "Kitap benim için gerçek bir keşifti.",
+          "en": "The book was a real discovery for me.",
+          "fr": "Ce livre a été une vraie découverte pour moi.",
+          "it": "Il libro è stato una vera scoperta per me.",
+          "es": "El libro fue un verdadero descubrimiento para mí."
+        }
+      ]
+    },
+    {
+      "id": "Entdecker",
+      "pos": "noun",
+      "parent": "entdecken",
+      "parts": [
+        "ent-",
+        "deck",
+        "-er"
+      ],
+      "gloss": {
+        "en": "discoverer, explorer",
+        "tr": "kâşif",
+        "de": "jemand, der etwas Neues entdeckt",
+        "fr": "le découvreur, l'explorateur",
+        "it": "lo scopritore, l'esploratore",
+        "es": "el descubridor, el explorador"
+      },
+      "sentences": [
+        {
+          "de": "Der [Entdecker] segelte nach Westen.",
+          "tr": "Kâşif batıya doğru yelken açtı.",
+          "en": "The explorer sailed west.",
+          "fr": "L'explorateur a navigué vers l'ouest.",
+          "it": "L'esploratore navigò verso ovest.",
+          "es": "El explorador navegó hacia el oeste."
+        },
+        {
+          "de": "Wer war der [Entdecker] dieser Insel?",
+          "tr": "Bu adanın kâşifi kimdi?",
+          "en": "Who discovered this island?",
+          "fr": "Qui a découvert cette île ?",
+          "it": "Chi ha scoperto quest'isola?",
+          "es": "¿Quién descubrió esta isla?"
+        }
+      ]
+    },
+    {
+      "id": "verdecken",
+      "pos": "verb",
+      "parent": "decken",
+      "parts": [
+        "ver-",
+        "deck",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to hide from view, to block",
+        "tr": "gizlemek, görüşü kapatmak",
+        "de": "so vor etwas sein, dass man es nicht sieht",
+        "fr": "cacher, masquer",
+        "it": "coprire, nascondere alla vista",
+        "es": "tapar, ocultar"
+      },
+      "sentences": [
+        {
+          "de": "Der Baum [verdeckt] die Aussicht.",
+          "tr": "Ağaç manzarayı kapatıyor.",
+          "en": "The tree blocks the view.",
+          "fr": "L'arbre cache la vue.",
+          "it": "L'albero copre la vista.",
+          "es": "El árbol tapa la vista."
+        },
+        {
+          "de": "Eine Wolke [verdeckte] die Sonne.",
+          "tr": "Bir bulut güneşi kapattı.",
+          "en": "A cloud hid the sun.",
+          "fr": "Un nuage a masqué le soleil.",
+          "it": "Una nuvola coprì il sole.",
+          "es": "Una nube ocultó el sol."
+        }
+      ]
+    },
+    {
+      "id": "Verdeck",
+      "pos": "noun",
+      "parent": "verdecken",
+      "parts": [
+        "ver-",
+        "deck"
+      ],
+      "gloss": {
+        "en": "soft top, hood (of a car)",
+        "tr": "(üstü açılır arabada) tente, üst",
+        "de": "das Dach eines Cabrios oder Kinderwagens, das man öffnen kann",
+        "fr": "la capote",
+        "it": "la capote",
+        "es": "la capota"
+      },
+      "sentences": [
+        {
+          "de": "Bei Sonne öffnen wir das [Verdeck].",
+          "tr": "Güneşli havada üstü açıyoruz.",
+          "en": "When it's sunny we open the top.",
+          "fr": "Quand il fait beau, nous ouvrons la capote.",
+          "it": "Col sole apriamo la capote.",
+          "es": "Cuando hace sol abrimos la capota."
+        },
+        {
+          "de": "Das [Verdeck] des Kinderwagens schützt vor Regen.",
+          "tr": "Bebek arabasının tentesi yağmurdan korur.",
+          "en": "The pram's hood protects against rain.",
+          "fr": "La capote de la poussette protège de la pluie.",
+          "it": "La capote della carrozzina protegge dalla pioggia.",
+          "es": "La capota del cochecito protege de la lluvia."
+        }
+      ]
+    },
+    {
+      "id": "aufdecken",
+      "pos": "verb",
+      "parent": "decken",
+      "parts": [
+        "auf-",
+        "deck",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to uncover, to expose",
+        "tr": "ortaya çıkarmak, açığa çıkarmak",
+        "de": "etwas Verborgenes bekannt machen",
+        "fr": "révéler, mettre au jour",
+        "it": "svelare, smascherare",
+        "es": "destapar, sacar a la luz"
+      },
+      "sentences": [
+        {
+          "de": "Die Journalisten haben den Skandal [aufgedeckt].",
+          "tr": "Gazeteciler skandalı ortaya çıkardı.",
+          "en": "The journalists exposed the scandal.",
+          "fr": "Les journalistes ont révélé le scandale.",
+          "it": "I giornalisti hanno svelato lo scandalo.",
+          "es": "Los periodistas destaparon el escándalo."
+        },
+        {
+          "de": "Die Polizei will den Betrug [aufdecken].",
+          "tr": "Polis dolandırıcılığı ortaya çıkarmak istiyor.",
+          "en": "The police want to uncover the fraud.",
+          "fr": "La police veut mettre au jour la fraude.",
+          "it": "La polizia vuole smascherare la truffa.",
+          "es": "La policía quiere destapar el fraude."
+        }
+      ]
+    },
+    {
+      "id": "abdecken",
+      "pos": "verb",
+      "parent": "decken",
+      "parts": [
+        "ab-",
+        "deck",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to cover (over); to cover (a range); to clear (the table)",
+        "tr": "üstünü örtmek; kapsamak; (sofrayı) toplamak",
+        "de": "etwas zum Schutz bedecken; einen Bereich umfassen",
+        "fr": "couvrir, bâcher ; couvrir (un domaine) ; débarrasser",
+        "it": "coprire; coprire (un ambito); sparecchiare",
+        "es": "tapar; abarcar; quitar (la mesa)"
+      },
+      "sentences": [
+        {
+          "de": "Wir haben die Möbel mit Folie [abgedeckt].",
+          "tr": "Mobilyaların üstünü naylonla örttük.",
+          "en": "We covered the furniture with plastic sheeting.",
+          "fr": "Nous avons couvert les meubles avec une bâche.",
+          "it": "Abbiamo coperto i mobili con un telo di plastica.",
+          "es": "Hemos tapado los muebles con plástico."
+        },
+        {
+          "de": "Der Kurs soll alle Themen [abdecken].",
+          "tr": "Kurs bütün konuları kapsamalı.",
+          "en": "The course should cover all the topics.",
+          "fr": "Le cours doit couvrir tous les sujets.",
+          "it": "Il corso deve coprire tutti gli argomenti.",
+          "es": "El curso debe abarcar todos los temas."
+        }
+      ]
+    },
+    {
+      "id": "Abdeckung",
+      "pos": "noun",
+      "parent": "abdecken",
+      "parts": [
+        "ab-",
+        "deck",
+        "-ung"
+      ],
+      "gloss": {
+        "en": "cover, covering; coverage",
+        "tr": "kapak, örtü; kapsama",
+        "de": "etwas, das etwas anderes bedeckt; wie weit etwas reicht",
+        "fr": "le cache, la protection ; la couverture",
+        "it": "la copertura",
+        "es": "la cubierta, la tapa; la cobertura"
+      },
+      "sentences": [
+        {
+          "de": "Die [Abdeckung] des Lüfters ist kaputt.",
+          "tr": "Fanın kapağı kırık.",
+          "en": "The fan cover is broken.",
+          "fr": "Le cache du ventilateur est cassé.",
+          "it": "La copertura della ventola è rotta.",
+          "es": "La tapa del ventilador está rota."
+        },
+        {
+          "de": "Auf dem Land ist die [Abdeckung] des Mobilfunknetzes schlecht.",
+          "tr": "Kırsalda cep telefonu çekimi kötü.",
+          "en": "In the countryside the mobile coverage is poor.",
+          "fr": "À la campagne, la couverture mobile est mauvaise.",
+          "it": "In campagna la copertura del cellulare è scarsa.",
+          "es": "En el campo la cobertura móvil es mala."
+        }
+      ]
+    },
+    {
+      "id": "zudecken",
+      "pos": "verb",
+      "parent": "decken",
+      "parts": [
+        "zu-",
+        "deck",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to cover up, to tuck in",
+        "tr": "üstünü örtmek, (yatakta) örtmek",
+        "de": "jemanden oder etwas mit einer Decke bedecken",
+        "fr": "couvrir, border",
+        "it": "coprire, rimboccare le coperte",
+        "es": "tapar, arropar"
+      },
+      "sentences": [
+        {
+          "de": "Die Mutter hat das Kind [zugedeckt].",
+          "tr": "Anne çocuğun üstünü örtüyor.",
+          "en": "The mother tucks the child in.",
+          "fr": "La mère borde l'enfant.",
+          "it": "La madre rimbocca le coperte al bambino.",
+          "es": "La madre arropa al niño."
+        },
+        {
+          "de": "Du musst den Kuchen [zudecken], sonst kommen die Fliegen.",
+          "tr": "Pastanın üstünü örtmelisin, yoksa sinekler gelir.",
+          "en": "You have to cover the cake, otherwise the flies will come.",
+          "fr": "Tu dois couvrir le gâteau, sinon les mouches vont venir.",
+          "it": "Devi coprire la torta, altrimenti arrivano le mosche.",
+          "es": "Tienes que tapar el pastel, si no vienen las moscas."
+        }
+      ]
+    },
+    {
+      "id": "eindecken",
+      "pos": "verb",
+      "parent": "decken",
+      "parts": [
+        "ein-",
+        "deck",
+        "-en"
+      ],
+      "gloss": {
+        "en": "to stock up (sich mit etwas eindecken)",
+        "tr": "stok yapmak, (bir şeyi) bolca almak",
+        "de": "sich mit einem großen Vorrat von etwas versorgen",
+        "fr": "faire des provisions",
+        "it": "fare scorta",
+        "es": "abastecerse"
+      },
+      "sentences": [
+        {
+          "de": "Vor dem Sturm haben sich alle mit Wasser [eingedeckt].",
+          "tr": "Fırtınadan önce herkes su stoku yaptı.",
+          "en": "Before the storm everyone stocked up on water.",
+          "fr": "Avant la tempête, tout le monde a fait des provisions d'eau.",
+          "it": "Prima della tempesta tutti hanno fatto scorta d'acqua.",
+          "es": "Antes de la tormenta todos se abastecieron de agua."
+        },
+        {
+          "de": "Im Herbst wollen wir uns mit Holz [eindecken].",
+          "tr": "Sonbaharda odun stoku yapmak istiyoruz.",
+          "en": "In autumn we want to stock up on firewood.",
+          "fr": "En automne, nous voulons faire des provisions de bois.",
+          "it": "In autunno vogliamo fare scorta di legna.",
+          "es": "En otoño queremos abastecernos de leña."
+        }
+      ]
+    },
+    {
+      "id": "Kostendeckung",
+      "pos": "noun",
+      "parent": "Deckung",
+      "parts": [
+        "kosten-",
+        "deck",
+        "-ung"
+      ],
+      "gloss": {
+        "en": "cost coverage, breaking even",
+        "tr": "maliyetleri karşılama",
+        "de": "wenn die Einnahmen die Kosten bezahlen",
+        "fr": "la couverture des coûts",
+        "it": "la copertura dei costi",
+        "es": "la cobertura de costes"
+      },
+      "sentences": [
+        {
+          "de": "Das Konzert erreicht gerade so die [Kostendeckung].",
+          "tr": "Konser maliyetlerini ancak karşılıyor.",
+          "en": "The concert just about breaks even.",
+          "fr": "Le concert couvre tout juste ses coûts.",
+          "it": "Il concerto copre a malapena i costi.",
+          "es": "El concierto apenas cubre los costes."
+        },
+        {
+          "de": "Ohne Sponsoren gibt es keine [Kostendeckung].",
+          "tr": "Sponsorlar olmadan maliyetler karşılanmıyor.",
+          "en": "Without sponsors the costs aren't covered.",
+          "fr": "Sans sponsors, les coûts ne sont pas couverts.",
+          "it": "Senza sponsor i costi non sono coperti.",
+          "es": "Sin patrocinadores no se cubren los costes."
+        }
+      ]
+    }
+  ]
+}

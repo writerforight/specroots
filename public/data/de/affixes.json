@@ -886,5 +886,53 @@
       "it": "fine, finale (Ende)",
       "es": "fin, final (Ende)"
     }
+  },
+  "bett-": {
+    "kind": "prefix",
+    "combining": true,
+    "meaning": {
+      "en": "bed (Bett)",
+      "tr": "yatak (Bett)",
+      "de": "Bett",
+      "fr": "lit (Bett)",
+      "it": "letto (Bett)",
+      "es": "cama (Bett)"
+    }
+  },
+  "tisch-": {
+    "kind": "prefix",
+    "combining": true,
+    "meaning": {
+      "en": "table (Tisch)",
+      "tr": "masa (Tisch)",
+      "de": "Tisch",
+      "fr": "table (Tisch)",
+      "it": "tavolo (Tisch)",
+      "es": "mesa (Tisch)"
+    }
+  },
+  "kosten-": {
+    "kind": "prefix",
+    "combining": true,
+    "meaning": {
+      "en": "costs (Kosten)",
+      "tr": "maliyet, masraf (Kosten)",
+      "de": "Kosten",
+      "fr": "coûts (Kosten)",
+      "it": "costi (Kosten)",
+      "es": "costes (Kosten)"
+    }
+  },
+  "-name": {
+    "kind": "suffix",
+    "combining": true,
+    "meaning": {
+      "en": "name (Name)",
+      "tr": "ad, isim (Name)",
+      "de": "Name",
+      "fr": "nom (Name)",
+      "it": "nome (Name)",
+      "es": "nombre (Name)"
+    }
   }
 }
